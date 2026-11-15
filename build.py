@@ -184,8 +184,8 @@ def build(orig, marker=False, writes=None, qa=()):
             lo, hi = (int(x, 16) for x in scope[4:].split("-"))
         marks = {t[0]: t for t in marker_mod.rom_markers() if lo <= t[0] < hi}
         texts = [marks.get(t[0], t) for t in texts]
-    insert_rom_strings(rom, texts, w.put, (orig, cur, extract.rom_ptrs()))
-    gfx.insert(orig, w.put)
+    cur = insert_rom_strings(rom, texts, w.put, (orig, cur, extract.rom_ptrs())) or cur
+    gfx.insert(orig, w.put, cur)
     if writes is not None:
         writes.extend(w.log)
     return bytes(rom)

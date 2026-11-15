@@ -56,9 +56,44 @@ def blocks():
     return out
 
 
+# Sprite/cell archives (docs/re/compression.md §Where blocks live): loader 0x080010A8 reads record
+# R = A + u32[A + u32[A + 8] + 4*i]; R holds a 32-byte header, then the packed block (src = R + 0x20).
+ARCHIVES = [0x2F459C]
+
+
+def site(orig, off):
+    """The u32 table entry that reaches the block at off (record = off - 0x20), or None."""
+    import struct
+    for a in ARCHIVES:
+        t = a + struct.unpack_from("<I", orig, a + 8)[0]
+        for i in range(4096):
+            p = t + 4 * i
+            if p + 4 > len(orig):
+                break
+            if a + struct.unpack_from("<I", orig, p)[0] == off - 0x20:
+                return a, p
+    return None
+
+
+def packs(orig):
+    """{offset: (new lh5 stream, slot size)} for every edited block that changed."""
+    out = {}
+    for off, paths in sorted(blocks().items()):
+        _, raw, size = packed.unpack(orig, off)
+        new = merged(raw, paths)
+        if new != raw:
+            out[off] = (lh5.pack(new), size)
+    return out
+
+
 def ranges(orig):
-    """Allowed write ranges: each edited block's original packed slot."""
-    return [(off, off + packed.unpack(orig, off)[2]) for off in sorted(blocks())]
+    """Allowed write ranges: each edited block's original packed slot, and the table entry of a relocated one."""
+    out = [(off, off + packed.unpack(orig, off)[2]) for off in sorted(blocks())]
+    for off, (data, size) in packs(orig).items():
+        if len(data) > size and site(orig, off):
+            p = site(orig, off)[1]
+            out.append((p, p + 4))
+    return out
 
 
 def merged(raw, paths):
@@ -74,14 +109,21 @@ def merged(raw, paths):
     return bytes(out)
 
 
-def insert(orig, put):
-    for off, paths in sorted(blocks().items()):
-        _, raw, size = packed.unpack(orig, off)
-        new = merged(raw, paths)
-        if new == raw:
+def insert(orig, put, cur=None):
+    """Repack every edited block in place; one that grew moves (with its 32-byte record header) to cur, and its
+    archive table entry is rewritten. Returns the new free-space cursor."""
+    import struct
+    for off, (data, size) in packs(orig).items():
+        if len(data) <= size:
+            put(off, data, "gfx %06X" % off)
             continue
-        data = lh5.pack(new)
-        if len(data) > size:
-            raise SystemExit("%s: repacked %d bytes > slot %d at %06X (relocate: not done yet)"
-                             % (paths[0].name, len(data), size, off))
-        put(off, data, "gfx %06X" % off)
+        hit = site(orig, off)
+        if hit is None or cur is None:
+            raise SystemExit("gfx %06X: repacked %d bytes > slot %d and no archive entry reaches it (add its "
+                             "archive to gfx.ARCHIVES: tools/lua/unpackwho.lua)" % (off, len(data), size))
+        a, p = hit
+        cur = (cur + 3) & ~3
+        put(cur, orig[off - 0x20:off] + data, "gfx %06X relocated" % off)
+        put(p, struct.pack("<I", cur - a), "gfx %06X table entry" % off)
+        cur += 0x20 + len(data)
+    return cur

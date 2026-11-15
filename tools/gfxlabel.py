@@ -33,19 +33,33 @@ FRAMES = 900
 # colour of each pixel's own palette bank.
 CLASSES = {
     "small": dict(font="pixfont", size=6),  # tools/pixfont.py: 6-px bold caps, 1-px outline -> 8 rows
+    "head": dict(font="PressStart2P-Regular.ttf", size=8),  # screen-title pills: 7-px caps, outline -> 9 rows
 }
+
+
+def head(text, **opt):
+    """The green screen-title pill (top left of every menu screen): lavender gradient, navy outline."""
+    return ("head", (25, 2, 75, 13), text, "head", {3, 12, 13, 14, 15}, ([12, 13, 14, 15], 3), opt)
 
 # screen -> scene (tools/debug/scenes.txt) and labels: (name, rect x,y,w,h, English, class, clear indices,
 # (fill RGB, outline RGB)). Rects must cover the whole original glyph (dakuten, outline).
 SCREENS = {
     "item": dict(scene="m1_item", labels=[
-        ("head", (34, 3, 48, 11), "ITEMS", "small", {3, 12, 13, 14, 15}, ([12, 13, 14, 15], 3)),
+        head("ITEMS", dx=-2),  # x 80-95 above the glyphs is one tile used twice: stay left of x 80
         ("use", (2, 19, 28, 9), "USE", "small", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
         ("drop", (34, 19, 28, 9), "DROP", "small", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
         ("sort", (66, 19, 28, 9), "SORT", "small", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
         ("col1", (38, 47, 36, 9), "ITEM", "small", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1)),
         ("col2", (148, 47, 40, 9), "ITEM", "small", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1)),
     ]),
+    "menu": dict(scene="k_jump", labels=[head("MENU")]),
+    "book": dict(scene="k_jump2", labels=[head("PROFILES")]),
+    "party": dict(scene="m1_party", labels=[head("PARTY")]),
+    "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
+    "status": dict(scene="m1_status", labels=[head("STATUS")]),
+    # セーブ画面 / ロード画面 share the 画面 tiles (x>=64 on the glyph rows): the word sits in x 33-63
+    "save": dict(scene="m1_save", labels=[head("SAVE", dx=-14, ring_xmax=63, clear_right=1)]),
+    "load": dict(scene="m1_load", labels=[head("LOAD", dx=-14, clear_right=1)]),
     # battle command list (S4, block 0x361AE4): 4 rows of 8 px, kana drawn with a right/bottom shadow
     "battle": dict(scene="k_ode", labels=[
         ("fight", (48, 123, 37, 8), "FIGHT", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
@@ -147,6 +161,7 @@ def draw(screen):
     scrs = {"bg": gfxscreen.compose(pre, objs=False), "obj": gfxscreen.compose(pre, bgs=False)}
     vram = bytearray(full.vram)
     newnib = {}  # (addr, hi) -> value
+    want = {}  # (kind, x, y) -> value: the pixels we meant to set
     rects = []
     for name, (x0, y0, w, h), text, cls, clear, (fill_rgb, ol_rgb), *opt in cfg["labels"]:
         opt = opt[0] if opt else {}
@@ -157,8 +172,13 @@ def draw(screen):
             for x in range(x0, x0 + w):
                 s = scr.src[y][x]
                 if s and s[4] in clear:
-                    for d in range(1, 64):
-                        hit = [xx for xx in (x - d, x + d) if x0 <= xx < x0 + w and scr.src[y][xx]
+                    # nearest kept pixel; clear_right=1 looks right first (identical result in a tile two
+                    # screens share when only the left part differs)
+                    order = [(d,) for d in range(1, 64)] if not opt.get("clear_right") else \
+                        [(d,) for d in range(1, w)] + [(-d,) for d in range(1, w)]
+                    for (d,) in order:
+                        cand = (x - d, x + d) if not opt.get("clear_right") else (x + d,)
+                        hit = [xx for xx in cand if x0 <= xx < x0 + w and scr.src[y][xx]
                                and scr.src[y][xx][4] not in clear and scr.src[y][xx][0] == s[0]]
                         if hit:
                             val[(x, y)] = scr.src[y][hit[0]][4]
@@ -170,7 +190,8 @@ def draw(screen):
         ax = (x0 + 1 if opt.get("left") else x0 + (w - tw) // 2) + opt.get("dx", 0)
         ay = y0 + (h - th + 1) // 2 + opt.get("dy", 0)
         pts = {(ax + x, ay + y) for x, y in pts}
-        for layer, ink in ((ring(pts) if ol_rgb is not None else set(), ol_rgb), (pts, fill_rgb)):
+        rg = {(x, y) for x, y in ring(pts) if x <= opt.get("ring_xmax", 999)} if ol_rgb is not None else set()
+        for layer, ink in ((rg, ol_rgb), (pts, fill_rgb)):
             for (x, y) in layer:
                 if not (x0 <= x < x0 + w and y0 <= y < y0 + h) or not scr.src[y][x]:
                     raise SystemExit(f"{screen}/{name}: '{text}' pixel ({x},{y}) outside rect or on backdrop")
@@ -186,17 +207,18 @@ def draw(screen):
             if newnib.get(k, v) != v:
                 raise SystemExit(f"{screen}/{name}: VRAM {addr:#x} written two ways (a tile repeats in the label)")
             newnib[k] = v
+            want[(opt.get("kind", "bg"), x, y)] = v
         print(f"{name}: '{text}' {tw}x{th} px at {ax},{ay}")
     for (addr, hi), v in newnib.items():
         vram[addr] = (vram[addr] & 0x0F) | (v << 4) if hi else (vram[addr] & 0xF0) | v
-    # a changed byte must not show anywhere outside the rects
-    inside = lambda x, y: any(a <= x < a + w and b <= y < b + h for a, b, w, h in rects)  # noqa: E731
-    for scr in scrs.values():
+    # every pixel that changes must be one we meant to change (a tile repeated elsewhere, in or out of a label)
+    for kind, scr in scrs.items():
         for y in range(160):
             for x in range(240):
                 s = scr.src[y][x]
-                if s and not inside(x, y) and (s[1], s[2]) in newnib and newnib[(s[1], s[2])] != s[4]:
-                    raise SystemExit(f"{screen}: tile at VRAM {s[1]:#x} also shows at ({x},{y}), outside the labels")
+                if s and (s[1], s[2]) in newnib and newnib[(s[1], s[2])] != s[4] \
+                        and want.get((kind, x, y)) != newnib[(s[1], s[2])]:
+                    raise SystemExit(f"{screen}: tile at VRAM {s[1]:#x} also shows at ({x},{y}) and would change there")
     # back to the blocks
     rom = next((ROOT / "rom").glob("*.gba")).read_bytes()
     rs = runs(pre)
@@ -236,7 +258,7 @@ def draw(screen):
         old.unlink()
     for off, b in sorted(edits.items()):
         if bytes(b) != raws[off]:
-            (gfx.DIR / f"{screen}_{off:06X}.diff").write_text(gfx.make_diff(raws[off], bytes(b)))
+            (gfx.DIR / f"{screen}_{off:06X}.diff").write_text(gfx.make_diff(raws[off], bytes(b)), newline="\n")
     print(f"{screen}: {len(tiles)} tiles changed, blocks {', '.join('%06X' % o for o in sorted(edits))}")
     # preview
     out = ROOT / "work" / "gfx" / screen
@@ -246,7 +268,31 @@ def draw(screen):
     full.image().save(out / "en.png")
 
 
+def grid(scene, rect, kind="bg"):
+    """Print a rect of the original screen as palette indices (hex), '*' after a tile column shared elsewhere."""
+    pre = ROOT / "work" / "qa" / "ppu" / f"jp_{scene}" / f"ppu_{FRAMES - 1:06d}"
+    scr = gfxscreen.compose(pre, objs=kind == "obj", bgs=kind == "bg")
+    x0, y0, w, h = rect
+    uses = {}
+    for y in range(160):
+        for x in range(240):
+            s = scr.src[y][x]
+            if s:
+                uses.setdefault(s[1] & ~31, set()).add((x // 8, y // 8))
+    print("     " + "".join(str(x % 10) for x in range(x0, x0 + w)))
+    for y in range(y0, y0 + h):
+        row = ""
+        for x in range(x0, x0 + w):
+            s = scr.src[y][x]
+            row += "%x" % s[4] if s else "."
+        shared = "".join("*" if (s := scr.src[y][x]) and len(uses[s[1] & ~31]) > 1 else " "
+                         for x in range(x0, x0 + w, 8))
+        print(f"{y:4d} {row}  {shared}  {scr.src[y][x0][0] if scr.src[y][x0] else ''}")
+
+
 def main():
+    if len(sys.argv) >= 4 and sys.argv[1] == "grid":
+        return grid(sys.argv[2], tuple(int(v) for v in sys.argv[3].split(",")), *(sys.argv[4:5] or ["bg"]))
     if len(sys.argv) < 2 or sys.argv[1] not in ("dump", "info", "draw"):
         raise SystemExit(__doc__)
     cmd, names = sys.argv[1], sys.argv[2:] or sorted(SCREENS)
