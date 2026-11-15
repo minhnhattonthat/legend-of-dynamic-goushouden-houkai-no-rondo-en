@@ -1,0 +1,2 @@
+MINOR | 06.72 | There are multiple worlds, often unaware of one another. | "The world is never just one" is awkward, and "they" lacks a clear plural antecedent. | Besides, there is certainly more than one world. It is simply that their inhabitants are often unaware of the others.
+ASSESSMENT | b007 | Approved | No confident Critical or Important issues; one minor clarity improvement.

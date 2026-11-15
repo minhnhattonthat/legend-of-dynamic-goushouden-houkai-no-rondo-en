@@ -1,0 +1,3 @@
+MINOR | 08.08 | 美雪も鬼獄界へ連れて行って！ | Literal third-person self-reference makes an emotional plea sound like a self-introduction. | Take me with you... I don't care if I lose my life! I don't care how terrifying that world is! If that time comes, take me to the Kigoku World too!
+MINOR | 08.17 | 美雪 どこまでもついて行くわ…… | "I, Miyuki" sounds ceremonious rather than tender; she is simply referring to herself by name. | I'll follow you anywhere...
+ASSESSMENT | b009 | Approved | Meaning, terminology, and voices are sound overall, with only minor polish needed for Miyuki's self-references.

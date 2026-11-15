@@ -2,9 +2,27 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress: every batch b001-b086 translated, checked and merged (wave 2 = all
-  dialogue b002-b055, 5262 entries, done 2026-11-16; lint 0 errors, build + smoke ok). Left for phase 6: the
-  reviewer pass per batch (see "Next"), then phase 7.
+- **Phase:** 6. Translate in progress: every batch b001-b086 translated, checked and merged; review round 1
+  done (2026-11-16, see "Review"). Left for phase 6: finish review round 2 on the fixed batches, then phase 7.
+
+## Review (read-only codex passes; no nested workers under Orca)
+`python -X utf8 tools/pairs.py` (pairs files, work/qa/review/pairs/), `R=DIR JOBS=4 sh tools/review.sh [bNNN ..]`
+(codex exec -s read-only per batch, prompt tools/review_prompt.txt; skips batches whose report exists),
+`tools/review_findings.py [--rep DIR] [--tsv OUT]`, fixes hand-written as `id<TAB>EN` in
+work/qa/review/fixesN.tsv and applied by `tools/apply_fixes.py` (whole entries by id, no pattern rewrites), then
+`batches.py merge ... --overwrite` (`--partial` for b056-b086). A dialogue merge of all 55 batches takes ~3 min.
+- Round 1 (work/qa/review/reports/, all 86 batches): 1 Critical + 92 Important; all adjudicated in fixes1/fixes2
+  (one rejected, noted there), merged; 72 Minors in docs/polish.md. Build, check, smoke ok after.
+- Names now follow the ROM's own kana short names (glossary "Decisions from earlier batches"): Nantomo Iyahaya
+  (was Nanyu/Nanto), Kitani (was Onitani), Hatesate family, Koja Hatesate (was Nijija Hatesa), Daiko Hoin (was
+  Hoin Taishi), Eisanbo Daihon (was Omoto Eisanbo), Hakase (was Hakayo). speakers.tsv updated to match.
+- Round 2 (work/qa/review/reports2/) on the 45 batches touched in round 1 (b005-b013 b017 b019 b020 b024 b025
+  b033 b034 b037 b038 b040 b042-b050 b052-b058 b071-b073 b078 b079 b082 b084-b086 b001): **stopped by the host
+  for low memory** after b005-b010 (1 Important, fixed in fixes3: 04.76; Minors appended to polish.md). Re-run
+  with `R=work/qa/review/reports2 JOBS=3 sh tools/review.sh <same list>` (it skips the 6 done; use JOBS=3, six
+  codex processes at once ran the machine low on memory), fix any C/I, then phase 6 is done.
+- Book cut added: series title "Iyahaya" for イヤハヤ南友 (B00.88 B00.89 B01.29 B01.39 B01.40): "Iyahaya Nantomo"
+  is 112 px vs the 108-px book line and the JP keeps lines 2-3 blank.
 
 ## Phase 6 batches
 `python -X utf8 tools/batches.py split|check|merge|fit` (docs/translator-brief.md). Batches were split once
@@ -36,10 +54,9 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
 - Unsure (reviewer to confirm): 45.06 and 53.43 have an empty JP body (name tag only); the check refuses empty
   English, so they hold "...\n" (a box with "..." may now show where the JP shows an empty one). 男男子 read as
   "Danshi Otoko" (51.93, 52.10-11). 法印大子 as "Taishi Hoin", 豹絵里座 as "Eriza Hyo", 墓世 as "Hakayo".
-  Item/enemy data (wave 1) still says HiveMonk and Kitani; dialogue says Beehive Nyudo and Onitani.
-- Next: reviewer pass per batch b002-b055 (read-only, `assets/reviewer-brief.md`, pairs files with +-2 context;
-  no nested workers here, so a fresh read-only pass by the worker itself or `codex exec`; fix Critical/Important;
-  Minors to docs/polish.md). Wave 1 term drift above (Phantom Castle, Death Police) is still to fix.
+  Item/enemy data (wave 1) still says HiveMonk (LONG, phase 7); dialogue says Beehive Nyudo. 鬼谷 is Kitani everywhere now.
+- Next: finish review round 2 (section "Review" above). The wave 1 unsure readings and term drift above were
+  settled in round 1 (kana readings; Mirage Castle, Reaper Police); 真神, 男男子 have no kana form and stay as is.
 - In-game pilot view not done: `retail_newgame` stops at the name entry (an empty name won't confirm: type a
   character first). Phase 8 needs a name-entry route or a warp past it.
 - **Done:**

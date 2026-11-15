@@ -76,3 +76,12 @@ or `waived: reason`. The release script refuses to run while any line is unticke
 - [ ] B01.33 (b058) - "Cult problem manga" is unnatural and obscures the meaning. Suggested: Omorai-kun   Hero of a controversial cult manga. A carefree boy who calls the whole Earth home.
 - [ ] r0CDDD8 (b067) - "Doubted my eyes" is an awkward literal rendering of the idiom. Suggested: I sprang to my feet and couldn't believe my eyes.
 - [ ] r0DE584 (b086) - "Puts one foe asleep" is unnatural English. Suggested: Puts one foe to sleep
+
+## Batch review round 2 (codex, work/qa/review/reports2/)
+- [ ] 04.62 (b005) - "If it's the wrong people" is awkward English for mistaken identity. Suggested: If you've got the wrong people, let us out!
+- [ ] 05.05 (b006) - "Feel square" is awkward English for wanting to repay a favor. Suggested: That's right! I ain't gonna feel right till I've paid you back either! If you're ever in a bind, just say the word!
+- [ ] 06.72 (b007) - "The world is never just one" is awkward, and "they" lacks a clear plural antecedent. Suggested: Besides, there is certainly more than one world. It is simply that their inhabitants are often unaware of the others.
+- [ ] 07.67 (b008) - "Led by I" is ungrammatical and weakens the theatrical challenge. Suggested: If you would save the girl, defeat the Somashu led by me, Jawanbo!
+- [ ] 08.08 (b009) - Literal third-person self-reference makes an emotional plea sound like a self-introduction. Suggested: Take me with you... I don't care if I lose my life! I don't care how terrifying that world is! If that time comes, take me to the Kigoku World too!
+- [ ] 08.17 (b009) - "I, Miyuki" sounds ceremonious rather than tender; she is simply referring to herself by name. Suggested: I'll follow you anywhere...
+- [ ] 09.81 (b010) - "It's not the kind of mood where we can get near" sounds unnatural and weakens Koji's casual voice. Suggested: This is bad... With everyone so worked up, we can't get near Professor Yumi...
