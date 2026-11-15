@@ -181,15 +181,20 @@ SCREENS = {
         ("run", (48, 147, 37, 8), "RUN", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
     ]),
     # S7 map signs (tile set 73C13C, bg2, map scroll 0 at the warp spawn): マミー薬局 plate over the pharmacy door
-    "sign244": dict(scene="map_244", labels=[
+    "sign244": dict(scene="map_244", copy=False, labels=[
         # the plate's top tile row (y 8-15) is one tile repeated: text in rows 16-28 only
         ("l1", (76, 16, 40, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
         ("l2", (76, 22, 40, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
     ]),
     # the same plate in tile set 661050 (科学都市Ｇ): sign244's copy reaches only the tiles that occur once there
-    "sign135": dict(scene="map_135", labels=[
+    "sign135": dict(scene="map_135", copy=False, labels=[
         ("l1", (140, 120, 40, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
         ("l2", (140, 126, 40, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
+    ]),
+    # 間身井薬局 (the same pharmacy, ateji for マミー) in tile set 7A0DD0, maps 309 / 310: 5 kanji, rows 16-27
+    "sign309": dict(scene="map_309", copy=False, labels=[
+        ("l1", (100, 16, 42, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l2", (100, 22, 42, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
     ]),
 }
 
@@ -629,7 +634,9 @@ def draw(screen):
     # 2. a whole label duplicated in another block (another screen's copy): only when that block holds every
     #    distinctive tile of the label (a shared glyph such as る in すてる / うる must not carry one label's
     #    letters into the other); near-blank tiles never travel
-    for name, ts in label_tiles.items():
+    #    copy=False turns it off (map signs: another tile set's plate can share a glyph tile or two with a
+    #    different sign, e.g. 7A0DD0's 間身井薬局 got pieces of 73C13C's MUMMY / DRUGS)
+    for name, ts in label_tiles.items() if cfg.get("copy", True) else ():
         dist = [t for t in ts if t in tiles and len(set(tiles[t][0])) >= 5
                 and sum(1 for b in tiles[t][0] for v in (b & 15, b >> 4) if v) >= 12]
         if len(dist) < 2:  # one glyph tile is no evidence of the whole label (ア starts アイテム and アソート)
