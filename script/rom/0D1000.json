@@ -6,8 +6,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「朱紗真悟」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Shingo Shusha\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「美剣千草」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Chigusa Mitsurugi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「合田」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Goda\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -41,8 +41,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「来留間源三」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Genzo Kuruma\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -52,8 +52,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「永井豪」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Go Nagai\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -63,8 +63,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「石川賢」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Ken Ishikawa\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -74,8 +74,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「間身井の姉」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Mamii's Sister\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「早見団兵衛」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Danbei Hayami\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -96,8 +96,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「法印大子」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Hoin Taishi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -107,8 +107,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「こややし少年」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Young Koyayashi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -118,8 +118,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「イボ痔小五郎」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Kogoro Iboji\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -129,8 +129,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「木刀政」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Bokuto Masa\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -140,8 +140,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「シレーヌ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Sirene\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -151,8 +151,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「カイム」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Kaim\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -162,8 +162,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「無幻美勒」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Miroku Mugen\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -173,8 +173,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「泣きのグズ蟲」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Crybaby Guzumushi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -184,8 +184,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「黒死丸」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Kokushimaru\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「早乙女博士」が[0A]アソートから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Dr. Saotome\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -206,8 +206,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「宇津木涼」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Ryo Utsugi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -217,8 +217,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「メドッサ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Medossa\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -229,8 +229,8 @@
   ],
   "max": 27,
   "jp": "[0A]日記を読む[0A]日記を読まない",
-  "en": "",
-  "status": "",
+  "en": "[0A]Read diary[0A]Don't read it",
+  "status": "done",
   "notes": ""
  },
  {
@@ -240,8 +240,8 @@
   ],
   "max": 51,
   "jp": "[0A]バトラー「阿仁丸ケダマン」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Kedaman Animaru\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -251,8 +251,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「怒良野キラー」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Killer Dorano\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -262,8 +262,8 @@
   ],
   "max": 19,
   "jp": "セーブデータ消去",
-  "en": "",
-  "status": "",
+  "en": "Erase save data",
+  "status": "done",
   "notes": ""
  },
  {
@@ -273,8 +273,8 @@
   ],
   "max": 15,
   "jp": "デバックデータ",
-  "en": "",
-  "status": "",
+  "en": "Debug data",
+  "status": "done",
   "notes": ""
  },
  {
@@ -284,8 +284,8 @@
   ],
   "max": 11,
   "jp": "素材１確認",
-  "en": "",
-  "status": "",
+  "en": "Check art 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
   ],
   "max": 7,
   "jp": "菊池",
-  "en": "",
-  "status": "",
+  "en": "Kikuchi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -306,8 +306,8 @@
   ],
   "max": 3,
   "jp": "コ",
-  "en": "",
-  "status": "",
+  "en": "pc",
+  "status": "done",
   "notes": ""
  },
  {
@@ -317,8 +317,8 @@
   ],
   "max": 3,
   "jp": "努",
-  "en": "",
-  "status": "",
+  "en": "Tsu",
+  "status": "done",
   "notes": ""
  },
  {
@@ -328,8 +328,8 @@
   ],
   "max": 7,
   "jp": "大出",
-  "en": "",
-  "status": "",
+  "en": "Oide",
+  "status": "done",
   "notes": ""
  },
  {
@@ -339,8 +339,8 @@
   ],
   "max": 7,
   "jp": "製品版",
-  "en": "",
-  "status": "",
+  "en": "Retail",
+  "status": "done",
   "notes": ""
  },
  {
@@ -350,8 +350,8 @@
   ],
   "max": 19,
   "jp": "デバックＭＥＮＵ",
-  "en": "",
-  "status": "",
+  "en": "Debug MENU",
+  "status": "done",
   "notes": ""
  },
  {
@@ -362,8 +362,8 @@
   ],
   "max": 19,
   "jp": "バトルチビキャラ",
-  "en": "",
-  "status": "",
+  "en": "Battle chibi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -374,8 +374,8 @@
   ],
   "max": 31,
   "jp": "チビキャラ表示（パートナー）",
-  "en": "",
-  "status": "",
+  "en": "Show chibi (Partner)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -386,8 +386,8 @@
   ],
   "max": 27,
   "jp": "チビキャラ表示（バトラー）",
-  "en": "",
-  "status": "",
+  "en": "Show chibi (Battler)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -398,8 +398,8 @@
   ],
   "max": 15,
   "jp": "小フェース表示",
-  "en": "",
-  "status": "",
+  "en": "Show small face",
+  "status": "done",
   "notes": ""
  },
  {
@@ -410,8 +410,8 @@
   ],
   "max": 19,
   "jp": "バストバップの表示",
-  "en": "",
-  "status": "",
+  "en": "Show bust-up",
+  "status": "done",
   "notes": ""
  },
  {
@@ -422,8 +422,8 @@
   ],
   "max": 15,
   "jp": "フェースの表示",
-  "en": "",
-  "status": "",
+  "en": "Show face",
+  "status": "done",
   "notes": ""
  },
  {
@@ -434,8 +434,8 @@
   ],
   "max": 23,
   "jp": "デバック(大出）ＭＥＮＵ",
-  "en": "",
-  "status": "",
+  "en": "Debug (Oide) MENU",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
   ],
   "max": 19,
   "jp": "小フェース２０表示",
-  "en": "",
-  "status": "",
+  "en": "Show small face 20",
+  "status": "done",
   "notes": ""
  },
  {
@@ -456,8 +456,8 @@
   ],
   "max": 27,
   "jp": "デバック（大出２）ＭＥＮＵ",
-  "en": "",
-  "status": "",
+  "en": "Debug (Oide 2) MENU",
+  "status": "done",
   "notes": ""
  },
  {
@@ -468,8 +468,8 @@
   ],
   "max": 7,
   "jp": "メイン",
-  "en": "",
-  "status": "",
+  "en": "Top",
+  "status": "done",
   "notes": ""
  },
  {
@@ -480,8 +480,8 @@
   ],
   "max": 7,
   "jp": "サブ",
-  "en": "",
-  "status": "",
+  "en": "Sub",
+  "status": "done",
   "notes": ""
  },
  {
@@ -491,8 +491,8 @@
   ],
   "max": 15,
   "jp": "エンディング",
-  "en": "",
-  "status": "",
+  "en": "Ending",
+  "status": "done",
   "notes": ""
  },
  {
@@ -502,8 +502,8 @@
   ],
   "max": 15,
   "jp": "中断ＧＡＭＥ",
-  "en": "",
-  "status": "",
+  "en": "SUSPEND GAME",
+  "status": "done",
   "notes": ""
  },
  {
@@ -513,8 +513,8 @@
   ],
   "max": 19,
   "jp": "ＬＯＡＤ　ＧＡＭＥ",
-  "en": "",
-  "status": "",
+  "en": "LOAD GAME",
+  "status": "done",
   "notes": ""
  },
  {
@@ -524,8 +524,8 @@
   ],
   "max": 15,
   "jp": "バトル大技BG",
-  "en": "",
-  "status": "",
+  "en": "Battle big BG",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
   ],
   "max": 23,
   "jp": "ＤＴＳアニメーション",
-  "en": "",
-  "status": "",
+  "en": "DTS animation",
+  "status": "done",
   "notes": ""
  },
  {
@@ -546,8 +546,8 @@
   ],
   "max": 11,
   "jp": "バトル小技",
-  "en": "",
-  "status": "",
+  "en": "Small skill",
+  "status": "done",
   "notes": ""
  },
  {
@@ -557,8 +557,8 @@
   ],
   "max": 23,
   "jp": "バトルオブジェマスク",
-  "en": "",
-  "status": "",
+  "en": "Battle object mask",
+  "status": "done",
   "notes": ""
  },
  {
@@ -568,8 +568,8 @@
   ],
   "max": 15,
   "jp": "バトルテスト",
-  "en": "",
-  "status": "",
+  "en": "Battle test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -579,8 +579,8 @@
   ],
   "max": 15,
   "jp": "カーソルテスト",
-  "en": "",
-  "status": "",
+  "en": "Cursor test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -590,8 +590,8 @@
   ],
   "max": 15,
   "jp": "Ｄ＿ＬＩＢ０Ａ",
-  "en": "",
-  "status": "",
+  "en": "D_LIB0A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -601,8 +601,8 @@
   ],
   "max": 15,
   "jp": "Ｄ＿ＬＩＢ０",
-  "en": "",
-  "status": "",
+  "en": "D_LIB0",
+  "status": "done",
   "notes": ""
  },
  {
@@ -613,8 +613,8 @@
   ],
   "max": 7,
   "jp": "戻る",
-  "en": "",
-  "status": "",
+  "en": "Back",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
   ],
   "max": 11,
   "jp": "データ無し",
-  "en": "",
-  "status": "",
+  "en": "No data",
+  "status": "done",
   "notes": ""
  },
  {
@@ -636,8 +636,8 @@
   ],
   "max": 15,
   "jp": "敵があらわれた",
-  "en": "",
-  "status": "",
+  "en": "Enemies appear!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -647,8 +647,8 @@
   ],
   "max": 11,
   "jp": "が現れた！",
-  "en": "",
-  "status": "",
+  "en": "appeared!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -658,8 +658,8 @@
   ],
   "max": 15,
   "jp": "不意打ちだ！",
-  "en": "",
-  "status": "",
+  "en": "Ambushed!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -669,8 +669,8 @@
   ],
   "max": 15,
   "jp": "先制攻撃だ！",
-  "en": "",
-  "status": "",
+  "en": "First strike!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -680,8 +680,8 @@
   ],
   "max": 15,
   "jp": "敵に逃げられた",
-  "en": "",
-  "status": "",
+  "en": "Enemy escaped.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -691,8 +691,8 @@
   ],
   "max": 7,
   "jp": "逃走",
-  "en": "",
-  "status": "",
+  "en": "Run",
+  "status": "done",
   "notes": ""
  }
 ]

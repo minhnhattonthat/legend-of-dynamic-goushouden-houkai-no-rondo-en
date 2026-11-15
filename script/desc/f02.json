@@ -5,8 +5,8 @@
    201
   ],
   "jp": "敵全体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    202
   ],
   "jp": "敵単体を【精神】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Mind attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    203
   ],
   "jp": "敵単体を【雷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    204
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    205
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    206
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    207
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    208
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    209
   ],
   "jp": "敵全体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    210
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    211
   ],
   "jp": "他のキャラの技を使う",
-  "en": "",
-  "status": "",
+  "en": "Uses another character's skill",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    212
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    213
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    214
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    215
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    216
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    217
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    218
   ],
   "jp": "敵全体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    219
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    220
   ],
   "jp": "敵全体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    221
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    222
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    223
   ],
   "jp": "仲間や他者の力を借りて攻撃",
-  "en": "",
-  "status": "",
+  "en": "Attacks with the help of allies and others",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    224
   ],
   "jp": "敵全体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    225
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    226
   ],
   "jp": "敵単体を【雷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    227
   ],
   "jp": "自分以外を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on everyone but the user",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    228
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    229
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    230
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    231
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    232
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    233
   ],
   "jp": "敵単体を【雷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    234
   ],
   "jp": "敵全体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    235
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    236
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    237
   ],
   "jp": "敵全体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    238
   ],
   "jp": "敵単体を【雷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    239
   ],
   "jp": "敵単体を【雷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    240
   ],
   "jp": "敵全体を即死させる",
-  "en": "",
-  "status": "",
+  "en": "Kills all enemies instantly",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    241
   ],
   "jp": "敵単体からＤＰを吸収",
-  "en": "",
-  "status": "",
+  "en": "Drains DP from one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    242
   ],
   "jp": "敵全体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    243
   ],
   "jp": "敵全体を【雷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    244
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    245
   ],
   "jp": "敵全体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    246
   ],
   "jp": "敵全体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    247
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    248
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    249
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    250
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    251
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    252
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    253
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    254
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    256
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    257
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    258
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    259
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    260
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    261
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    262
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    263
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    264
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    265
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    266
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    267
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    268
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    269
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    270
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    271
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    272
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    273
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    274
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    275
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    276
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    277
   ],
   "jp": "敵全体を【冷】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Ice attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    278
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    279
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    280
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    281
   ],
   "jp": "敵単体を【斬】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Slash attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    282
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    283
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    284
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    285
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    286
   ],
   "jp": "敵単体を【熱】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    287
   ],
   "jp": "敵全体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    288
   ],
   "jp": "敵単体を【精神】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Mind attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    289
   ],
   "jp": "敵単体を【叩】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack on one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    290
   ],
   "jp": "敵全体を【精神】属性で攻撃",
-  "en": "",
-  "status": "",
+  "en": "Mind attack on all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    291
   ],
   "jp": "カウンター攻撃",
-  "en": "",
-  "status": "",
+  "en": "Counterattack",
+  "status": "done",
   "notes": ""
  }
 ]

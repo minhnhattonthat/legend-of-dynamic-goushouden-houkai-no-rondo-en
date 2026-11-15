@@ -11,13 +11,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
 (b001-b086; never re-split: `split` only adds ids not yet batched). Map: b001-b055 dialogue f00-f53 (b053 = tail
 of f51), b056-b058 book, b059-b061 desc, b062 effect, b063-b066 place, b067-b076 rom misc + map names, b077-b079
 char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
-- Merged: b001.
-- Wave 1 dispatched (names first, so dialogue can use them): b077-b082, b083-b086 + b059-b062, b067-b076 +
-  b063-b066, b056-b058. Translators run as general-purpose agents with the brief path (the plugin agent types were
-  not registered in the Orca worker; `.claude/agents/` now vendors them for the next session as `translator` etc.).
-- After wave 1: merge, write `build/names.tsv` (all rom name translations, JP<TAB>EN) for wave 2's read list, add
-  recurring NEW TERMs to glossary.md; then wave 2 = b002-b055 (4-5 batches per agent, story order), then a
-  reviewer pass per batch (read-only, `assets/reviewer-brief.md`; fix Critical/Important; Minors to docs/polish.md).
+- Merged: b001, wave 1 b056-b086 (2608 entries translated, lint 0 errors). Batch inputs and outputs are tracked in
+  git now (`work/tl/`, un-ignored). `work/tl/names.tsv` (`tools/names.py`) = translated ROM/place names for wave 2.
+- **LONG, left untranslated (105 ids):** `merge --partial` skipped ids whose full English doesn't fit the in-place
+  byte limit or the field px: b070 (Hill of Beginnings map names), b073 (credit staff names / series titles), b078,
+  b079, b081, b082 (names wider than char_short 48 px / skill 72 px), b084, b085 (49 name records r0DD8B8-r0DDD24),
+  b086 (enemy names). Their full English is in `work/tl/bNNN.out.tsv`. Phase 7: relocate these strings (byte limits
+  are only "in place") and widen fields per D4, then `merge` those batches. `batches.py merge --partial` prints them.
+- **Abbreviated by wave 1 to fit (against D4, restore after relocation):** char_short names (K.Sirene, I.Kaiser,
+  M.Ashura, Maru G., Jiro for 手天童子郎, Susanoo), skill words (Cut for 剣, Stars for 手裏剣, Mask for 死の面,
+  Murakumo, Bolt Flare), item element words (Bolt/Blunt/Slash, Amulet/Stud/Band), debug map names (SciCity,
+  LostForest9), book series titles ("Enma-kun" for Dororon Enma-kun) and book LONG cuts B00.20 B00.70 B00.82
+  B01.03 B01.07 B00.08 B01.16.
+- Wave 1 readings still unsure (reviewer: check against names.tsv and speakers.tsv): 果扨胴下 (Doshita Hatesa vs
+  Doka Hatesate), 大本栄惨坊, 無幻大権, 法印大子, 墓世, 女蛮子 (Banji / Banko / Sukebanko), 真神, 鬼谷妖次郎;
+  term drift merged before the glossary rows: "Phantom Castle" in items (glossary: Mirage Castle), "Death Police"
+  in book B01 (glossary: Reaper Police). Fix these in the review pass.
+- Next: wave 2 = b002-b055 dialogue (4-5 batches per agent, story order; dispatch line: "Read
+  docs/translator-brief.md and follow it for batches ..."), merge, then a reviewer pass per batch (read-only,
+  `assets/reviewer-brief.md`; fix Critical/Important; Minors to docs/polish.md).
 - In-game pilot view not done: `retail_newgame` stops at the name entry (an empty name won't confirm: type a
   character first). Phase 8 needs a name-entry route or a warp past it.
 - **Done:**

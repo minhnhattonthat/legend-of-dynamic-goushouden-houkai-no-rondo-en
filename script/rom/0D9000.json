@@ -7,8 +7,8 @@
   ],
   "max": 3,
   "jp": "＞",
-  "en": "",
-  "status": "",
+  "en": ">",
+  "status": "done",
   "notes": ""
  },
  {
@@ -18,8 +18,8 @@
   ],
   "max": 11,
   "jp": "スプライト",
-  "en": "",
-  "status": "",
+  "en": "Sprite",
+  "status": "done",
   "notes": ""
  },
  {
@@ -29,8 +29,8 @@
   ],
   "max": 27,
   "jp": "バトルエフェクトマスク４",
-  "en": "",
-  "status": "",
+  "en": "Battle effect mask 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -40,8 +40,8 @@
   ],
   "max": 27,
   "jp": "バトルエフェクトマスク３",
-  "en": "",
-  "status": "",
+  "en": "Battle effect mask 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -51,8 +51,8 @@
   ],
   "max": 27,
   "jp": "バトルエフェクトマスク２",
-  "en": "",
-  "status": "",
+  "en": "Battle effect mask 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -62,8 +62,8 @@
   ],
   "max": 27,
   "jp": "バトルエフェクトマスク１",
-  "en": "",
-  "status": "",
+  "en": "Battle effect mask 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -73,8 +73,8 @@
   ],
   "max": 19,
   "jp": "バトルエフェクト",
-  "en": "",
-  "status": "",
+  "en": "Battle effect",
+  "status": "done",
   "notes": ""
  },
  {
@@ -84,8 +84,8 @@
   ],
   "max": 11,
   "jp": "テスト２",
-  "en": "",
-  "status": "",
+  "en": "Test 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
   ],
   "max": 11,
   "jp": "テスト１",
-  "en": "",
-  "status": "",
+  "en": "Test 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -106,8 +106,8 @@
   ],
   "max": 15,
   "jp": "カーソルテスト",
-  "en": "",
-  "status": "",
+  "en": "Cursor test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -117,8 +117,8 @@
   ],
   "max": 27,
   "jp": "デバック（菊池）ＭＥＮＵ",
-  "en": "",
-  "status": "",
+  "en": "Debug (Kikuchi) MENU",
+  "status": "done",
   "notes": ""
  },
  {
@@ -128,8 +128,8 @@
   ],
   "max": 11,
   "jp": "大技アニメ",
-  "en": "",
-  "status": "",
+  "en": "Big anim",
+  "status": "done",
   "notes": ""
  },
  {
@@ -139,8 +139,8 @@
   ],
   "max": 11,
   "jp": "小技継続",
-  "en": "",
-  "status": "",
+  "en": "Small cont",
+  "status": "done",
   "notes": ""
  },
  {
@@ -150,8 +150,8 @@
   ],
   "max": 11,
   "jp": "小技終了",
-  "en": "",
-  "status": "",
+  "en": "Small end",
+  "status": "done",
   "notes": ""
  },
  {
@@ -161,8 +161,8 @@
   ],
   "max": 11,
   "jp": "小技開始",
-  "en": "",
-  "status": "",
+  "en": "Small start",
+  "status": "done",
   "notes": ""
  },
  {
@@ -172,8 +172,8 @@
   ],
   "max": 7,
   "jp": "大技",
-  "en": "",
-  "status": "",
+  "en": "Big",
+  "status": "done",
   "notes": ""
  },
  {
@@ -183,8 +183,8 @@
   ],
   "max": 7,
   "jp": "中技",
-  "en": "",
-  "status": "",
+  "en": "Mid",
+  "status": "done",
   "notes": ""
  },
  {
@@ -194,8 +194,8 @@
   ],
   "max": 27,
   "jp": "バトルエフェクト番号指定",
-  "en": "",
-  "status": "",
+  "en": "Set battle effect no.",
+  "status": "done",
   "notes": ""
  },
  {

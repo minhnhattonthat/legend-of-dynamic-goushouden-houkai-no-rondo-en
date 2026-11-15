@@ -1,0 +1,100 @@
+D00.00	Restores about 30 HP to one ally
+D00.01	Restores about 180 HP to one ally
+D00.02	Cures ailments except Stone, Freeze, Charm
+D00.03	Unused
+D00.04	Cures all ailments except KO
+D00.05	Restores about 80 HP to all allies
+D00.06	Restores about 250 HP to all allies
+D00.07	Revives from KO with 10% of max HP
+D00.08	Revives from KO with 100% of max HP
+D00.09	Steals an item from an enemy group
+D00.10	Inflicts a random ailment
+D00.11	Lowers one enemy's DX
+D00.12	Raises one ally's AT
+D00.13	Steals money from an enemy group
+D00.14	Raises the user's AT
+D00.15	Unused
+D00.16	Slash attack on one enemy
+D00.17	Blunt attack on one enemy
+D00.18	Slash attack on one enemy
+D00.19	Confuses one enemy
+D00.20	Kills one enemy instantly
+D00.21	Raises the user's DX
+D00.22	Blunt attack on one enemy
+D00.23	Fire attack on one enemy
+D00.24	Hits and steals an item
+D00.25	Deals damage equal to the user's lost HP
+D00.26	Raises the user's AT
+D00.27	Raises the user's DX
+D00.28	Attacks one enemy's DP
+D00.29	Uses all DP to attack the enemy's DP
+D00.30	Blunt attack on one enemy
+D00.31	Raises the user's DX
+D00.32	Raises the user's AT
+D00.33	Checks one enemy's stats
+D00.34	Blunt attack on one enemy
+D00.35	Raises the user's DX
+D00.36	Always escapes, except from bosses
+D00.37	Blunt attack on one enemy
+D00.38	Turns back into Honey Kisaragi
+D00.39	Raises all elemental defenses for 1 turn
+D00.40	Raises all elemental defenses for 1 turn
+D00.41	Raises the user's AT
+D00.42	Raises the user's DX
+D00.43	Slash attack on one enemy
+D00.44	Blunt attack on one enemy
+D00.45	Blunt attack on one enemy
+D00.46	Poisons one enemy
+D00.47	Turns back into Akira Fudo
+D00.48	Turns back into Ryo Utsugi
+D00.49	Turns back into Shingo Shusha
+D00.50	Blunt attack on one enemy
+D00.51	Raises the user's DX
+D00.52	Fire attack on one enemy
+D00.53	Unused
+D00.54	Blinds one enemy
+D00.55	Raises all elemental defenses for 1 turn
+D00.56	Raises the user's DX
+D00.57	Lowers one enemy's DF
+D00.58	Raises the user's DX
+D00.59	Blunt attack on one enemy
+D00.60	Fire attack on one enemy
+D00.61	Slash attack on one enemy
+D00.62	Blunt attack on all enemies
+D00.63	Attacks one enemy's DP
+D00.64	Fire attack on one enemy
+D00.65	Blunt attack on all enemies
+D00.66	Blunt attack on one enemy
+D00.67	Bolt attack on one enemy
+D00.68	Blunt attack on all enemies
+D00.69	Blunt attack on one enemy
+D00.70	Slash attack on one enemy
+D00.71	Charms one enemy
+D00.72	Blunt attack on one enemy
+D00.73	Slash attack on one enemy
+D00.74	Mind attack on all enemies
+D00.75	Fire attack on one enemy
+D00.76	Fire attack on one enemy
+D00.77	Fire attack on one enemy
+D00.78	Fire attack on one enemy
+D00.79	Fire attack on one enemy
+D00.80	Slash attack on one enemy
+D00.81	Blunt attack on one enemy
+D00.82	Merges with Kaim
+D00.83	Blunt attack on one enemy
+D00.84	Restores HP equal to the damage dealt
+D00.85	Restores HP equal to the damage dealt
+D00.86	Blunt attack on all enemies
+D00.87	Slash attack on one enemy
+D00.88	Blunt attack on one enemy
+D00.89	Slash attack on one enemy
+D00.90	Fire attack on one enemy
+D00.91	Slash attack on one enemy
+D00.92	Blunt attack on one enemy
+D00.93	Fire attack on one enemy
+D00.94	Bolt attack on one enemy
+D00.95	Fire attack on one enemy
+D00.96	Slash attack on one enemy
+D00.97	Blinds one enemy
+D00.98	Blunt attack on one enemy
+D00.99	Slash attack on one enemy

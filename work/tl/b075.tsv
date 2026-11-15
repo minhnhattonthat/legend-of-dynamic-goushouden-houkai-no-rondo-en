@@ -1,0 +1,5 @@
+r0D4000		rom:misc	11 bytes	ＢＳＥＬ
+r0D400C		rom:misc	7 bytes	ＴＯＰ
+r0D4014		rom:misc	11 bytes	テスト２
+r0D4044		rom:misc	15 bytes	あぼーん！！
+r0D4054		rom:misc	11 bytes	ぼーん！！

@@ -1,0 +1,148 @@
+r0D3000		rom:misc	7 bytes	原作
+r0D3018		rom:misc	11 bytes	ＥＸＩＴ
+r0D3024		rom:misc	11 bytes	テスト２
+r0D3030		rom:misc	11 bytes	テスト１
+r0D303C		rom:misc	11 bytes	枠テスト
+r0D3048		rom:misc	19 bytes	文字列表示１６１６
+r0D305C		rom:misc	19 bytes	文字列表示１２０６
+r0D3070		rom:misc	15 bytes	文字列表示１２
+r0D3080		rom:misc	15 bytes	文字列表示８
+r0D3090		rom:misc	11 bytes	ＭＥＮＵ６
+r0D309C		rom:misc	7 bytes	ＯＤＥ
+r0D30A4		rom:misc	11 bytes	３周目人間
+r0D30B0		rom:misc	11 bytes	３周目ロボ
+r0D30BC		rom:misc	11 bytes	ＴＥＳＴ
+r0D30C8		rom:misc	15 bytes	ＭＥＮＵ０２
+r0D30D8		rom:misc	15 bytes	ＭＥＮＵ０１
+r0D30E8		rom:misc	11 bytes	ＳＥＴＵＰ
+r0D30F4		rom:misc	11 bytes	ＪＵＭＰ２
+r0D3100		rom:misc	11 bytes	ＪＵＭＰ
+r0D310C		rom:misc	11 bytes	ＭＥＮＵ
+r0D3118		rom:misc	23 bytes	ＮＯ　ＭＥＳＳＡＧＥ
+r0D3130		rom:misc	35 bytes	これにて終了なり　 メニュー項目２５
+r0D3154		rom:misc	35 bytes	テストテキスト描画 メニュー項目２４
+r0D3178		rom:misc	35 bytes	ただいまマイクのテ メニュー項目２３
+r0D319C		rom:misc	35 bytes	テストテキスト描画 メニュー項目２２
+r0D31C0		rom:misc	35 bytes	本日は晴天なり　　 メニュー項目２１
+r0D31E4		rom:misc	35 bytes	これにて終了なり　 メニュー項目２０
+r0D3208		rom:misc	35 bytes	テストテキスト描画 メニュー項目１９
+r0D322C		rom:misc	35 bytes	ただいまマイクのテ メニュー項目１８
+r0D3250		rom:misc	35 bytes	テストテキスト描画 メニュー項目１７
+r0D3274		rom:misc	35 bytes	本日は晴天なり　　 メニュー項目１６
+r0D3298		rom:misc	35 bytes	テストテキスト描画 メニュー項目１５
+r0D32BC		rom:misc	35 bytes	さくらくさ　　　　 メニュー項目１４
+r0D32E0		rom:misc	35 bytes	テストテキスト描画 メニュー項目１３
+r0D3304		rom:misc	35 bytes	しんぶんし　　　　 メニュー項目１２
+r0D3328		rom:misc	35 bytes	テストテキスト描画 メニュー項目１１
+r0D334C		rom:misc	35 bytes	うらわでわらう　　 メニュー項目１０
+r0D3370		rom:misc	35 bytes	テストテキスト描画 メニュー項目９　
+r0D3394		rom:misc	35 bytes	たけやぶやけた　　 メニュー項目８　
+r0D33B8		rom:misc	35 bytes	テストテキスト描画 メニュー項目７　
+r0D33DC		rom:misc	35 bytes	東京特許許可局　　 メニュー項目６　
+r0D3400		rom:misc	35 bytes	テストテキスト描画 メニュー項目５　
+r0D3424		rom:misc	35 bytes	隣の客はよく柿　　 メニュー項目４　
+r0D3448		rom:misc	35 bytes	テストテキスト描画 メニュー項目３　
+r0D346C		rom:misc	35 bytes	生麦生米生卵　　　 メニュー項目２　
+r0D3490		rom:misc	35 bytes	テストテキスト描画 メニュー項目１　
+r0D34B4		rom:misc	15 bytes	これにて２５
+r0D34C4		rom:misc	15 bytes	テストテ２４
+r0D34D4		rom:misc	15 bytes	ただいま２３
+r0D34E4		rom:misc	15 bytes	テストテ２２
+r0D34F4		rom:misc	15 bytes	本日は晴２１
+r0D3504		rom:misc	15 bytes	これにて２０
+r0D3514		rom:misc	15 bytes	テストテ１９
+r0D3524		rom:misc	15 bytes	ただいま１８
+r0D3534		rom:misc	15 bytes	テストテ１７
+r0D3544		rom:misc	15 bytes	本日は晴１６
+r0D3554		rom:misc	15 bytes	テストテ１５
+r0D3564		rom:misc	15 bytes	さくらく１４
+r0D3574		rom:misc	15 bytes	テストテ１３
+r0D3584		rom:misc	15 bytes	しんぶん１２
+r0D3594		rom:misc	15 bytes	テストテ１１
+r0D35A4		rom:misc	15 bytes	うらわで１０
+r0D35B4		rom:misc	15 bytes	テストテキ９
+r0D35C4		rom:misc	15 bytes	たけやぶや８
+r0D35D4		rom:misc	15 bytes	テストテキ７
+r0D35E4		rom:misc	15 bytes	東京特許許６
+r0D35F4		rom:misc	15 bytes	テストメニ５
+r0D3604		rom:misc	15 bytes	隣の客はよ４
+r0D3614		rom:misc	15 bytes	描画項目３　
+r0D3624		rom:misc	15 bytes	生麦生生卵２
+r0D3634		rom:misc	15 bytes	テストスト１
+r0D3644		rom:misc	51 bytes	[1B][5B]4;0a[1B][5B]1;0;14mテストテキスト描画 メニュー項目５　
+r0D3678		rom:misc	203 bytes	[1B][5B]2J[1B][5B]2wテストテキスト描画メニュー項目１[1B][5B]10e\n [0A][1B][5B]16;16s[1B][5B]2;2a[1B][5B]3;0;0;2m生麦生米生卵メニュー項目２[1B][5B]12;12s\n [0A][1B][5B]12;12sテストテキスト[1B][5B]3;0;14m描画 メニュー項目３[1B][5B]11e\n [0A]隣の客はよく柿[1B][5B]2m メニュー項目４
+r0D38A4		rom:misc	27 bytes	これにて終了なり　 項目２５
+r0D38C0		rom:misc	27 bytes	テストテキスト描画 項目２４
+r0D38DC		rom:misc	27 bytes	ただいまマイクのテ 項目２３
+r0D38F8		rom:misc	27 bytes	テストテキスト描画 項目２２
+r0D3914		rom:misc	27 bytes	本日は晴天なり　　 項目２１
+r0D3930		rom:misc	27 bytes	これにて終了なり　 項目２０
+r0D394C		rom:misc	27 bytes	テストテキスト描画 項目１９
+r0D3968		rom:misc	27 bytes	ただいまマイクのテ 項目１８
+r0D3984		rom:misc	27 bytes	テストテキスト描画 項目１７
+r0D39A0		rom:misc	27 bytes	本日は晴天なり　　 項目１６
+r0D39BC		rom:misc	27 bytes	テストテキスト描画 項目１５
+r0D39D8		rom:misc	27 bytes	さくらくさ　　　　 項目１４
+r0D39F4		rom:misc	27 bytes	テストテキスト描画 項目１３
+r0D3A10		rom:misc	27 bytes	しんぶんし　　　　 項目１２
+r0D3A2C		rom:misc	27 bytes	テストテキスト描画 項目１１
+r0D3A48		rom:misc	27 bytes	うらわでわらう　　 項目１０
+r0D3A64		rom:misc	27 bytes	テストテキスト描画 項目９　
+r0D3A80		rom:misc	27 bytes	たけやぶやけた　　 項目８　
+r0D3A9C		rom:misc	27 bytes	テストテキスト描画 項目７　
+r0D3AB8		rom:misc	27 bytes	東京特許許可局　　 項目６　
+r0D3AD4		rom:misc	27 bytes	テストテキスト描画 項目５　
+r0D3AF0		rom:misc	27 bytes	隣の客はよく柿　　 項目４　
+r0D3B0C		rom:misc	27 bytes	テストテキスト描画 項目３　
+r0D3B28		rom:misc	27 bytes	生麦生米生卵　　　 項目２　
+r0D3B44		rom:misc	27 bytes	テストテキスト描画 項目１　
+r0D3B60		rom:misc	31 bytes	スプライトの表示をするテスト
+r0D3B80		rom:misc	3 bytes	と
+r0D3B84		rom:misc	27 bytes	全セーブデータを消しました[0A]
+r0D3BA0		rom:misc	59 bytes	　本当に消しますか？　　　　[0A]　　　[0A]　　　はい　　いいえ[0A]　
+r0D3BDC		rom:misc	59 bytes	全セーブデータを消しますか？[0A]　　　[0A]　　　はい　　いいえ[0A]　
+r0D3C18		rom:misc	71 bytes	⑱ダイナミック企画[0A]⑱ＢＡＮＰＲＥＳＯＦＴ[0A]⑱ＢＡＮＰＲＥＳＴＯ ２００３
+r0D3C60		rom:misc	39 bytes	ロードしますか？　　[0A]　はい　　いいえ
+r0D3C88		rom:misc	15 bytes	セーブしました[0A]
+r0D3C98		rom:misc	59 bytes	前のデータは消さ[0A]れます[0A]上書きしますか？[0A]　はい　　いいえ
+r0D3CD4		rom:misc	19 bytes	データがあり[0A]ません
+r0D3CE8		rom:misc	15 bytes	書き込みエラー[0A]
+r0D3D08		rom:misc	19 bytes	１２３４５６７８
+r0D3D1C		rom:misc	15 bytes	デビルマン１
+r0D3D2C		rom:misc	15 bytes	ゆみ１２３４
+r0D3D3C		rom:misc	15 bytes	カブト１２３
+r0D3D4C		rom:misc	7 bytes	はずす
+r0D3D54		rom:misc	19 bytes	１２３４５６７８９
+r0D3D68		rom:misc	19 bytes	次のレベルまであと
+r0D3D7C		rom:misc	15 bytes	１２３４５６
+r0D3D8C		rom:misc	35 bytes	０１２３４５６７８９１２３４５６７
+r0D3DB0		rom:misc	11 bytes	　Ｐ技　
+r0D3DBC		rom:misc	27 bytes	　中技　０１２３４５６７
+r0D3DD8		rom:misc	27 bytes	　大技　０１２３４５６７
+r0D3DF4		rom:misc	7 bytes	フリー
+r0D3DFC		rom:misc	11 bytes	レベル不足
+r0D3E0C		rom:misc	55 bytes	取消してよろしいですか？[0A]　　[0A]　はい　　　　いいえ[0A]　
+r0D3E44		rom:misc	55 bytes	これでよろしいですか？[0A]　　　[0A]　はい　　　　いいえ[0A]　
+r0D3E7C		rom:misc	51 bytes	取消してよろしいですか？[0A]　　[0A]　　はい　　いいえ[0A]　
+r0D3EB0		rom:misc	51 bytes	これでよろしいですか？[0A]　　　[0A]　　はい　　いいえ[0A]　
+r0D3EE4		rom:misc	7 bytes	やめる
+r0D3EEC		rom:misc	7 bytes	売る
+r0D3EF4		rom:misc	7 bytes	買う
+r0D3EFC		rom:misc	19 bytes	アイテムをせいとん
+r0D3F10		rom:misc	19 bytes	アイテムをすてる
+r0D3F24		rom:misc	19 bytes	アイテムをつかう
+r0D3F40		rom:misc	11 bytes	ＥＸＩＴ
+r0D3F4C		rom:misc	11 bytes	ＴＩＴＬＥ
+r0D3F58		rom:misc	15 bytes	ＮＡＭＥＳＵＢ
+r0D3F68		rom:misc	11 bytes	ＮＡＭＥ
+r0D3F74		rom:misc	11 bytes	ＬＯＡＤ
+r0D3F80		rom:misc	11 bytes	ＳＡＶＥ
+r0D3F8C		rom:misc	11 bytes	ＩＴＥＭ
+r0D3F98		rom:misc	15 bytes	ＳＴＡＴＵＳ
+r0D3FA8		rom:misc	11 bytes	ＢＯＯＫ
+r0D3FB4		rom:misc	11 bytes	ＣＲＯＰ
+r0D3FC0		rom:misc	11 bytes	ＰＡＲＴＹ
+r0D3FCC		rom:misc	7 bytes	テスト1
+r0D3FD8		rom:misc	11 bytes	ＭＣＲＯＰ
+r0D3FE4		rom:misc	15 bytes	ＳＰＡＲＴＹ
+r0D3FF4		rom:misc	11 bytes	ＳＨＯＰ

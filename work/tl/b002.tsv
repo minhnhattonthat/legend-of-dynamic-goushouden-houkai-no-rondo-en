@@ -1,0 +1,100 @@
+01.00	{s}	dlg	dlg 192/184 px a line, wrapped by the tool	明君と 一緒に行くのね？
+01.01	{s}	dlg	dlg 192/184 px a line, wrapped by the tool	ハニーと 一緒に行くのね？
+01.02	{s}	dlg	dlg 192/184 px a line, wrapped by the tool	チーム分け 完了！\nそれじゃ え～と…
+01.03	{s}	dlg	dlg 192/184 px a line, wrapped by the tool	ここは\n「始まりの丘」って場所らしいわ\nお互い 目的を達成したら\n「始まりの丘」に集合ね！
+01.04	{s}	dlg	dlg 192/184 px a line, wrapped by the tool	それじゃ 行きましょ\n明君！
+01.05	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	う うん\nそれじゃ みんな また後でね！
+01.06	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	それじゃ 行きましょうか
+01.07	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	じ 地震だ！
+01.08	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	きゃ～！！
+01.09	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	…道が 塞がれちゃった！\n「始まりの丘」に戻れない！
+01.10	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	困ったわね…\nともかく 先を急ぎましょう\n山を降りたら\nきっと 別の道が あると思うの
+01.11	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	だ だいたいさ 右だの左だのって\nどうして 僕達の場所が\nわかるんだ？
+01.12	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	だ だから\nどうして 僕達の場所が…
+01.13	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	つべこべ いってる場合じゃ\nないでしょ！\nそれしかないんだから！
+01.14	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	了は 左の道を進めって言ってた…\nこっちじゃないよ
+01.15	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	パパは 右の道を進めば\n研究所に着くって言ってたわ\nこっちじゃないわね
+01.16	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	とりあえず 了を探さないと…\n家の中に行こう
+01.17	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	パパが危ない！\n研究所に急ぎましょう！
+01.18	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	不思議だわ こんなところに\nどうして パパの研究所が…？
+01.19	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}ハニー 来てくれ ハニー！{!W}
+01.20	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	どうして\nパパの声が 聞こえるの？
+01.21	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}ハニーのイヤリングは\nトランシーバーだ\n急いでくれ ハニー\n私はパンサークローに狙われた！{!W}
+01.22	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	パンサークロー？
+01.23	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}恐ろしい敵だ！\n私の命が 危ない！\n急いでくれ ハニー！{!W}
+01.24	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	大変だわ！\nパパを 助けなくっちゃ！
+01.25	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	何をするんだ！
+01.26	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	きゃ～！
+01.27	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}大丈夫だ ハニー\n首のハートを つまんで\nハニーフラッシュ！\nと 叫びなさい！{!W}
+01.28	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	ハートをつまんで？\n\nハニーッ フラッシュ！
+01.29	Cutie Honey	dlg	dlg 192/184 px a line, wrapped by the tool	わ 私は一体…？
+01.30	Cutie Honey	dlg	dlg 192/184 px a line, wrapped by the tool	パパ 私は一体何者なの？\nなぜ こんな力があるの？\n答えて パパ…！
+01.31	Cutie Honey	dlg	dlg 192/184 px a line, wrapped by the tool	急がないと… パパが危ないわ！
+01.32	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	パパ！
+01.33	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	パパ？ 大変だ！
+01.34	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	ハニー\n私のハニー…
+01.35	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	パパ～！
+01.36	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}うろたえるな ハニー{!W}
+01.37	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}私は 死んだ\n\nだが 死してなお 話しておかねば\nならんことがある！\nハニーの秘密を！{!W}
+01.38	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	ハニーの秘密？
+01.39	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}ハニー おいで 私の部屋へ\n\n地下室の奥で\nパパは おまえを待っている…{!W}
+01.40	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	パパが 呼んでるわ\n地下室で 私を待ってるの
+01.41	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	よし 地下室へ行こう！
+01.42	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	まっ！ あなた誰？
+01.43	Man	dlg	dlg 192/184 px a line, wrapped by the tool	いや ご安心\n悪いヤツじゃない
+01.44	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	悪人でないことは わかるわ
+01.45	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	国際結社パンサークローに\nついては\n俺も 新聞記者として\n関心があるんだ\n一緒に行ってもいいかな？\n博士の仇討ちに協力させてくれ！
+01.46	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	新聞記者の 早見青児ですよ\nはっはっは\n博士のインタビュー中に\nパンサークローに襲われまして
+01.47	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	やぁ ハニー
+01.48	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	…ロボット？
+01.49	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	そうだ だが ハニーのような\n完全な アンドロイドではない
+01.50	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	アンドロイド？\nハニーは 人間ではないの？
+01.51	{p} & Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	え～っ！？
+01.52	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	君の身体は\n私の全頭脳と 情熱と 愛情の\nすべてをかけて作ったものだ\n\n君の身体の ひとつひとつが\n髪の毛一本一本まで\nすべてが\n私の愛の結晶なのだ！
+01.53	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	パパ…
+01.54	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	ハニーの身体の内部には\n世紀の発明が 隠されている\n空中元素固定装置だ！
+01.55	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	空中元素固定装置？
+01.56	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	空気中の元素を 瞬時に組み合わせ\nあらゆる物質を 作り出す装置だ\nダイヤモンドとて 無限に作れる
+01.57	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	聞いたか おい？
+01.58	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	うん…！
+01.59	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	それを パンサークローに\n狙われた…\n残忍な パンサークローに\nハニーを奪われたら…
+01.60	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	大丈夫 パパ\n\nそのために ハニーに 人間以上の\n力を 与えてくれたんでしょう？\n負けないわ 悪人なんかに！
+01.61	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	そうだ そのとおりだハニー
+01.62	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	行きたまえ ハニー\n\n私のロボットが壊れた後\nこの研究所は 爆破する！
+01.63	Dr. Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	この研究所の すべての手がかりを\n敵に つかませないために…\nさようなら 永遠に美しいハニー\nさようなら…
+01.64	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	さぁ 早く脱出しないと！
+01.65	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	そうだ\n急ごう ハニー！
+01.66	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	さようなら パパ…
+01.67	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ハニー あれを…！
+01.68	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	黒い月…！？
+01.69	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	え？ あ ホントだ\n月が黒いぞ！？
+01.70	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	うわ～ ど どうしよ～！
+01.71	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	いや～～～！！
+01.72	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	…ふたりとも どうしたの？\n\nうわ！
+01.73	Sister Jill	dlg	dlg 192/184 px a line, wrapped by the tool	如月邱が 爆発したと？\n\nそれで？ 如月が発明した\n空中元素固定装置は どうした？
+01.74	Panther Claw Member	dlg	dlg 192/184 px a line, wrapped by the tool	それが まったく何も…\n恐らく 屋敷もろとも…
+01.75	Sister Jill	dlg	dlg 192/184 px a line, wrapped by the tool	ほほほ 屋敷もろとも\nふっ飛んだと お言いかい？
+01.76	Sister Jill	dlg	dlg 192/184 px a line, wrapped by the tool	愚か者めが！
+01.77	Sister Jill	dlg	dlg 192/184 px a line, wrapped by the tool	娘だ！ 如月博士の娘が\n超発明の鍵を 握っている！
+01.78	Sister Jill	dlg	dlg 192/184 px a line, wrapped by the tool	何をぼやぼやしている！\n\nさっさと 如月博士の娘について\n調べるのだ！
+01.79	Panther Claw Member	dlg	dlg 192/184 px a line, wrapped by the tool	はっ！
+01.80	???	dlg	dlg 192/184 px a line, wrapped by the tool	…空中元素固定装置…
+01.81	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	大きな地震だったなぁ…
+01.82	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	ホントね それにしても 地震前と\n同じ場所にいて 良かったわ
+01.83	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	…どういうことだい？
+01.84	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	実は僕達…
+01.85	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	実は…
+01.86	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	…え～～～！？\n\nそれ ホントかい？\nにわかには 信じがたいなぁ…
+01.87	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	あいつ 無事だろうか…？
+01.88	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	オヤジ…！
+01.89	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	お父様…？
+01.90	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	オヤジの名前は 団兵衛\nこの近くに 住んでるんだ
+01.91	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	揺れがひどかったから 心配だね…\n\n僕も山を降りて「始まりの丘」に\n戻る道を 知りたいし\nとりあえず 山を降りようよ
+01.92	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	良かった！ クルマは無事だ\nこのクルマで 取材に来たんだよ\nさ 乗った 乗った！
+01.93	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	これじゃ 「始まりの丘」に\n戻れない…
+01.94	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	明君が ついてるもの\nふたりとも 無事よ！
+01.95	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	ひでぇな なんだここは？\n\n山のふもとに こんな 廃墟みたい\nな場所 あったっけな…
+01.96	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	誰か いないかしら？\n探して 話を聞いてみましょうよ
+01.97	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	無法地帯と化した関東で 平和な\n暮らしを望むなんて 無理な話さ
+01.98	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	関東地獄地震の記憶は\nまだ 生々しいよ\nちょっとした揺れでも\n寿命が縮まるかと 思っちまう
+01.99	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	海の向こうに 離れ離れになった\n家族が待ってる…\n関東が本州と切り離されちまった\nこと 知ってるだろ？

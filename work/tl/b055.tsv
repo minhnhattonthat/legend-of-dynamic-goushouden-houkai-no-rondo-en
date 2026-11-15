@@ -1,0 +1,62 @@
+53.00	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	犬を飼うつもりで\n犬小屋まで作ったんだけどね…\nやっぱり\n猫を飼うことにしたんだ！\n…けど やっぱり犬も捨て難いよね\nう～ん どうしよう？
+53.01	Receptionist	dlg	dlg 192/184 px a line, wrapped by the tool	ただ今 満室でございまして\nお泊りにはなれません
+53.02	Receptionist	dlg	dlg 192/184 px a line, wrapped by the tool	流竜馬さま ですか？\n……はて？\nお泊りのお客さまに流竜馬さまの\nお名前は見当たりませんが？
+53.03	Receptionist	dlg	dlg 192/184 px a line, wrapped by the tool	非常時につき当ホテルは\nオーナーである瓜生様のご命令で\n皆様をはじめ指定された方々に\n無料でご利用頂いております
+53.04	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	このホテルのオーナーは\n青年実業家らしいよ\n科学都市にも出資していると\n研究者が話していたな
+53.05	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	顔じゅう包帯だらけの\n客と３階ですれ違ったよ\nあんなにケガしてるなら\n入院すればいいのに
+53.06	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	ホテルのＴＶチャンネルは\nニュース番組ばかりだなぁ\n君らの顔を見てたら　なぜか急に\n懐かしのアニメを見たくなったよ
+53.07	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	左端の部屋は従業員以外\n立ち入り禁止みたいですね\n地下水を制御する機械があると\nホテルの人から聞きましたよ
+53.08	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	街中のマンホールから\nいきなり男の子が出てきたの\n下水道で遊んでいたのかしら？
+53.09	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	いつの間にか科学都市の東に\n妙なヘイがあるんだ\n表札のない門が東西南北にあるから\n誰かの家みたいだけど\nあんな所に\n誰が住んでいるんだろう？
+53.10	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市の東にある大きな霊園の\n不思議な噂話を知ってる？\n管理人の姿も見えないのに\nいつも清潔に掃除されてるの
+53.11	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	廊下にある銅像は\nどっかで見たことあるんだよね\n世界各地にあるお地蔵さんも\n誰かに似てるような…
+53.12	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市に派遣されて\n単身赴任のホテル暮らしだよ\n反重力の推進装置を研究中だが\n兵器に悪用されないか心配だね
+53.13	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	外見も設備も立派なホテルだけど\n屋上の掃除がなってないね\nさっき行ってみたら\n所々に雑草が生えてたよ
+53.14	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	このフロアは変な臭いがするし\nおかしな足跡もついている\n誰か大型のペットでも連れて\n泊まってるんじゃないかな
+53.15	Guest	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市に出資しているという\n瓜生コンツェルンの名は初耳だな\n家早と果扨の二大財閥以外にも\nすごい金持ちがいたのか
+53.16	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	精神破壊銃という武器が\n実用化されたそうだ\n研究者が極悪人ハンターだとかで\n兵器開発も許可されたらしい
+53.17	警備員	dlg	dlg 192/184 px a line, wrapped by the tool	光子力研究所には\n国の援助金も出ています\nロボット開発には莫大な資金が\n必要なんだそうです
+53.18	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	指令室は右　地下格納庫は左の\nエレベータが直通ですよ
+53.19	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	必要な備品があれば\n遠慮なく持って行くといいよ\n弓教授から許可が出てますから
+53.20	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	アフロダイＡのボディは合金Ｚ\nマジンガーＺは超合金Ｚだ\nボスボロットは……クズ鉄かな？\nおっと ボスに失礼だな
+53.21	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	機械獣はバードス島の遺跡に\n数千年も眠っていたという\n古代ミケーネに兜十蔵博士のような\n天才科学者がいたのだろうか？
+53.22	Assistant	dlg	dlg 192/184 px a line, wrapped by the tool	研究所は小さな町に匹敵するほど\n膨大な電力を消費するんだ\n光子力エネルギーで発電してるから\nまず電力不足にはならないがね
+53.23	Professor	dlg	dlg 192/184 px a line, wrapped by the tool	この格納庫の上は汚水処理プールで\n偽装しているんだよ\nえ？ みんな知っているって？\nうーむ… なぜだろう？
+53.24	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	地下にはゲットマシンの格納庫と\n機関室しかありませんよ\n医務室は壁沿いを北に行った部屋\n研究所出口は ずっと西です
+53.25	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	ゲッターロボのパイロットを\n探すのに苦労しました\n強い意志と体力を持つ若者を\n３００人以上は調査しましたよ
+53.26	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	パイロットテストの結果を見ると\n巴武蔵くんの適性は低いのだが\n彼の体は他の２人より はるかに\nドンカン…じゃなくて頑丈なんだ
+53.27	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	ゲッター光線が研究所の防御に\n使えないか考案中なんだ\nハチュウ人類はゲッター光線を\n苦手としているからね
+53.28	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	徹夜作業が続いたから\n頭痛がひどいな…\n医務室は１階北東の角部屋だが\nそこまで行くのは つらいなぁ
+53.29	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	科学者の中にはゲッター線を\n危険視する声もある\n原子力も放射能汚染があるように\n多少のリスクは覚悟しないとな
+53.30	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	間身井薬局を東にいったところに\n科学都市の廃材置き場があるの\n廃材とはいっても\n科学都市の廃材でしょ？\n中には 危ない物も\n捨ててあるんじゃないかしら\nちゃんと処分してほしいわよね
+53.31	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	家の外にバリケードがあるのを\n見ただろ？\nあの先は 一般人は立ち入り禁止に\nなってるエリアなんだよ\nそこにマンションがあるらしいけど\n詳しくは知らないんだ
+53.33	Scientist	dlg	dlg 192/184 px a line, wrapped by the tool	隣で手術をやってるらしいが…\n普通 病院でやるもんだよな？
+53.34	Scientist	dlg	dlg 192/184 px a line, wrapped by the tool	最近 世間は 暴徒だ魔王だと\n騒がしくて しょうがない\n…研究を続けてる場合じゃ\nないのかな？
+53.35	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	ペットを飼おうと思ってるんだ\n王道は やっぱり犬か猫だよね\nどっちにしようかなぁ…\nよく考えて決めないとね
+53.36	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	この町の学校は 生徒も先生も\n騒がしいったら ありゃしない！\nとても まともに授業やってるとは\n思えないのよね
+53.37	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	最近 学校が静かだと思ったら\n生徒が来なくなったらしいのよ\n世の中 物騒だから\nそのせいかしらね\nでも 授業をやってるような声も\n聞いたことあるのよ…\n気のせいだったのかしら？
+53.38	Receptionist	dlg	dlg 192/184 px a line, wrapped by the tool	{s}様に面会ですか？\n１階右の部屋におられます
+53.39	Receptionist	dlg	dlg 192/184 px a line, wrapped by the tool	診察でしたら\n１階左の部屋へどうぞ
+53.40	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	この娘の面会に来たのかい？\n大丈夫 安心したまえ\n時間は かかるかもしれんが\n病気は絶対に治るよ
+53.41	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	また君たちか どうしたんだ？\n今度は誰が入院するんだ？
+53.42	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	研究に熱心になるのもいいけど\n体調を崩さないようにしないとね\n治療も大切だけど 予防も大切だよ\n\nここの人達って そういうことを\n気にしない人が多いからさ…
+53.43	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	
+53.44	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	先日 突然 たくさんの怪我人が\n運ばれてきて ビックリしたよ\nその後に テレビで暴徒のことを\n知って さらにビックリしたよ
+53.45	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	妖怪退治？\n面白そうね！
+53.46	Honey Kisaragi	dlg	dlg 192/184 px a line, wrapped by the tool	えん魔くんは\n近くの町に向かったわ\n学校があったところよね？\n私達も急ぎましょう！
+53.47	Seiji Hayami	dlg	dlg 192/184 px a line, wrapped by the tool	不思議な建物だなぁ\n\n外から見るより\n中は はるかに広いぜ
+53.48	{s}	dlg	dlg 192/184 px a line, wrapped by the tool	閻魔大王に 逢うためだもん\n恐いけど がんばろう！
+53.49	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	暗黒寺は ここから西の山奥に\nあるらしい\n…そこで 何か 手がかりが\nつかめるといいがな
+53.50	Princess Yukiko	dlg	dlg 192/184 px a line, wrapped by the tool	暗黒寺って\n無気味な名前のお寺ね…\nそれに… 妙な冷気を感じるけど\nなにかしら？
+53.51	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	鬼とは もともと鬼なのか？\nそれとも 人間が変身した姿か？
+53.52	Enma-kun	dlg	dlg 192/184 px a line, wrapped by the tool	預言者に未来を予知してもらうのか\nなんだか面白そうだな！\n戸来村の場所は…確か 科学都市の\n北にあるって言ってたよな
+53.53	Jack	dlg	dlg 192/184 px a line, wrapped by the tool	未来は 切り拓こうとする者だけに\n見えるものだ
+53.54	Kapaeru	dlg	dlg 192/184 px a line, wrapped by the tool	最近 出逢いがないんだガナ\n予知してもらいたいんや…
+53.55	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	ハニー達は もう出発したよ\n俺達も 科学都市へ急ごう！
+53.56	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	明達は もう出発したよ\n俺達も 科学都市へ急ごう！
+53.57	Miyuki Shiratori	dlg	dlg 192/184 px a line, wrapped by the tool	あたし 恐いわ…\nでも がんばらなきゃね！
+53.58	Jack	dlg	dlg 192/184 px a line, wrapped by the tool	世界が崩れ始めている…\nそんな気がする…！
+53.59	Jubei	dlg	dlg 192/184 px a line, wrapped by the tool	みんな １階の和室にいるわよ\n{p}を待ってるの\n早く 行ってあげてね\nきっと いいことがあるから！
+53.60	Kikunosuke	dlg	dlg 192/184 px a line, wrapped by the tool	みんなが １階の和室で\n{p}を待ってるよ\nほら 急ぎなよ！\nきっと いいことあるからさ！
+53.61	Princess Yukiko	dlg	dlg 192/184 px a line, wrapped by the tool	みんな １階の和室にいるわよ\n{p}を待ってるの\n早く 行ってあげてね\nきっと いいことがあるわよ！
+53.62	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	世界の命運は\nきみたちにかかっている\n頼んだぞ みんな！

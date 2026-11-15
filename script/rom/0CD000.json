@@ -6,8 +6,8 @@
   ],
   "max": 259,
   "jp": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　！”＃＄％＆’（）＊＋，－．／０１２３４５６７８９：；＜＝＞？＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ［￥］＾＿‘ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｛｜｝～　",
-  "en": "",
-  "status": "",
+  "en": "                                 !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZY^_'abcdefghijklmnopqrstuvwxyz|~ ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -42,8 +42,8 @@
   ],
   "max": 3,
   "jp": "＞",
-  "en": "",
-  "status": "",
+  "en": ">",
+  "status": "done",
   "notes": ""
  },
  {
@@ -64,8 +64,8 @@
   ],
   "max": 151,
   "jp": "[1B][5B]3w[1B][5B]15;0;0;14mスプライトの表示をするテスト[1B][5B]1e\n[0A][1B][5B]15;1;0;12m[1B][5B]12;12s変換[1B][5B]18;18s制御コード付[1B][5B]12;12sテスト\n[0A]変換[1B][5B]24;24s制御コード１付[1B][5B]12;12sテスト\n",
-  "en": "",
-  "status": "",
+  "en": "[1B][5B]3w[1B][5B]15;0;0;14mSprite display test[1B][5B]1e\n[0A][1B][5B]15;1;0;12m[1B][5B]12;12sConvert[1B][5B]18;18swith ctrl code[1B][5B]12;12stest\n[0A]Convert[1B][5B]24;24swith ctrl code 1[1B][5B]12;12stest\n",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
   ],
   "max": 51,
   "jp": "勢いよく立ち上がったボクはまず目を疑ってしまった。",
-  "en": "",
-  "status": "",
+  "en": "I sprang to my feet and doubted my eyes.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -86,8 +86,8 @@
   ],
   "max": 19,
   "jp": "スプライト5の表示",
-  "en": "",
-  "status": "",
+  "en": "Show sprite 5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -97,8 +97,8 @@
   ],
   "max": 19,
   "jp": "スプライト4の表示",
-  "en": "",
-  "status": "",
+  "en": "Show sprite 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -108,8 +108,8 @@
   ],
   "max": 19,
   "jp": "スプライト3の表示",
-  "en": "",
-  "status": "",
+  "en": "Show sprite 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -119,8 +119,8 @@
   ],
   "max": 19,
   "jp": "スプライト2の表示",
-  "en": "",
-  "status": "",
+  "en": "Show sprite 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -130,8 +130,8 @@
   ],
   "max": 19,
   "jp": "スプライト1の表示",
-  "en": "",
-  "status": "",
+  "en": "Show sprite 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -142,8 +142,8 @@
   ],
   "max": 15,
   "jp": "ＢＧテキスト",
-  "en": "",
-  "status": "",
+  "en": "BG text",
+  "status": "done",
   "notes": ""
  },
  {
@@ -154,8 +154,8 @@
   ],
   "max": 15,
   "jp": "ＢＧＴＥＸＴ",
-  "en": "",
-  "status": "",
+  "en": "BGTEXT",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
   ],
   "max": 23,
   "jp": "ＢＧテキスト３２７６８",
-  "en": "",
-  "status": "",
+  "en": "BG text 32768",
+  "status": "done",
   "notes": ""
  },
  {
@@ -176,8 +176,8 @@
   ],
   "max": 23,
   "jp": "ＢＧＴＥＸＴ３２７６８",
-  "en": "",
-  "status": "",
+  "en": "BGTEXT32768",
+  "status": "done",
   "notes": ""
  },
  {
@@ -194,8 +194,8 @@
   ],
   "max": 31,
   "jp": "スプライトの表示テスト０００２",
-  "en": "",
-  "status": "",
+  "en": "Sprite display test 0002",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
   ],
   "max": 31,
   "jp": "変更スプライト１２３４５６７８",
-  "en": "",
-  "status": "",
+  "en": "Changed sprite 12345678",
+  "status": "done",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
   ],
   "max": 31,
   "jp": "変更スプライト０１２３４５６７",
-  "en": "",
-  "status": "",
+  "en": "Changed sprite 01234567",
+  "status": "done",
   "notes": ""
  },
  {
@@ -227,8 +227,8 @@
   ],
   "max": 19,
   "jp": "ＳＩＭＰＬＥＳＰ",
-  "en": "",
-  "status": "",
+  "en": "SIMPLESP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -238,8 +238,8 @@
   ],
   "max": 23,
   "jp": "ＳＰＲＩＴＥ１６ＥＸ",
-  "en": "",
-  "status": "",
+  "en": "SPRITE16EX",
+  "status": "done",
   "notes": ""
  },
  {
@@ -249,8 +249,8 @@
   ],
   "max": 23,
   "jp": "ＴＥＳＴＳＰＲＩＴＥ",
-  "en": "",
-  "status": "",
+  "en": "TESTSPRITE",
+  "status": "done",
   "notes": ""
  },
  {
@@ -260,8 +260,8 @@
   ],
   "max": 23,
   "jp": "ＴＥＳＴＢＩＴＭＡＰ",
-  "en": "",
-  "status": "",
+  "en": "TESTBITMAP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -271,8 +271,8 @@
   ],
   "max": 19,
   "jp": "ＴＥＳＴＢＧ２５６",
-  "en": "",
-  "status": "",
+  "en": "TESTBG256",
+  "status": "done",
   "notes": ""
  },
  {
@@ -282,8 +282,8 @@
   ],
   "max": 19,
   "jp": "ＴＥＳＴＢＧ１６",
-  "en": "",
-  "status": "",
+  "en": "TESTBG16",
+  "status": "done",
   "notes": ""
  },
  {
@@ -293,8 +293,8 @@
   ],
   "max": 15,
   "jp": "ＥＳＣＡＰＥ",
-  "en": "",
-  "status": "",
+  "en": "ESCAPE",
+  "status": "done",
   "notes": ""
  },
  {
@@ -316,8 +316,8 @@
   ],
   "max": 35,
   "jp": "ミムメモヤユヨラリルレロワン゛゜",
-  "en": "",
-  "status": "",
+  "en": "MIMUMEMOYAYUYORARIRUREROWAN",
+  "status": "done",
   "notes": ""
  },
  {
@@ -327,8 +327,8 @@
   ],
   "max": 35,
   "jp": "タチツテトナニヌネノハヒフヘホマ",
-  "en": "",
-  "status": "",
+  "en": "TACHITSUTETONANINUNENOHAHIFUHEHOMA",
+  "status": "done",
   "notes": ""
  }
 ]

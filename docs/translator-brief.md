@@ -11,6 +11,8 @@ the next. Do all translation yourself; do not dispatch subagents. Edit nothing b
 1. `docs/style-reference.md` - character voices and approved example pairs. Match this voice.
 2. `build/terms_<batch>.txt` - binding glossary rows for this batch (full table in `glossary.md` if you need more).
 3. `docs/synopsis.md` - premise, routes, who is who. Don't give a later reveal away.
+4. `work/tl/names.tsv` - the game's own item, skill, enemy, character, map and place names as already translated
+   (JP<TAB>EN). Grep it (`grep -F 'JPNAME' work/tl/names.tsv`) whenever a line names one; use that English.
 
 ## Input: `work/tl/<batch>.tsv`
 `id<TAB>speaker<TAB>form<TAB>limit<TAB>Japanese`. A line break inside a message is written `\n`; a blank line

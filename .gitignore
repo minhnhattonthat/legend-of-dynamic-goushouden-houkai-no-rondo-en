@@ -1,6 +1,7 @@
 /rom/
 /build/
-/work/
+/work/*
+!/work/tl/
 /dist/
 /release/
 .venv/

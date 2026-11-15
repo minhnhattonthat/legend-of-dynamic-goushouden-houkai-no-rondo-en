@@ -1,0 +1,100 @@
+10.00	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	甲児君 どうしてここへ？
+10.01	Koji Kabuto[09]	dlg	dlg 192/184 px a line, wrapped by the tool	大変なんです 教授！\n実は…！
+10.02	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	状況は解った\nまず {p}君！\nこちらこそ 君に協力したい！\n医療班を手配して すぐに\n{s}君の診察に\nあたらせよう！
+10.03	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ありがとうございます 弓教授！
+10.04	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	それから 甲児君！\n\nマジンガーＺをドクター・ヘルに\n渡してはならん！\nもうすぐ アレも完成するはず…\n研究所へ戻るぞ！
+10.05	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	了解！ よ～し 待ってろよ\nあしゅら男爵！
+10.06	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	現在 会議中です\nこちらの通路は利用できません\n正面の扉から 入ってください
+10.07	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市の医療施設は完璧だ\n\n{s}君も きっと すぐに\n良くなるだろう
+10.08	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	教授\nホントにありがとうございます！
+10.09	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	実は 今回の会議の本当の議題は\n次元連結現象についてだったんだ
+10.10	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	それでは 教授達は この世界とは\n別の世界の存在を…？
+10.11	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	もちろん 知っているよ\n理論上の話だがね\n次元の異なる様々な世界が\n連結するという現象が\n近頃 頻発しているようなのだ
+10.12	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	やはり…！
+10.13	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	このままでは\n深刻な事態が 起こり得る！\nそこで 君の経験を 原因究明に\n役立てたいのだ！
+10.14	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	喜んでお手伝いします！
+10.15	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	ありがとう！\nだが まずは光子力研究所奪回だ！
+10.16	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	よ～し やってやるぜ！
+10.17	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	準備が出来たら\n光子力研究所に向けて出発しよう\n用意が出来たら 声をかけてくれ
+10.18	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	準備はいいかい？
+10.19	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	それじゃ 出発しよう！
+10.20	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	さやか や ボス君も心配だ…\nがんばってくれ 甲児君！
+10.21	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	まずは 光子力研究所奪回だ！
+10.22	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	よ～し\nもう少しで 光子力研究所だ！
+10.23	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	甲児君！ アレを見て！
+10.24	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	ワハハハハハハ…！
+10.25	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	ホホホホホホホ…！
+10.26	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーＺは 手に入れたぞ！
+10.27	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーＺは\nドクター・ヘルのモノ！
+10.28	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーが！？\n\nさやかさん達は\n何やってたんだ！？
+10.29	Sayaka Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}甲児君！ ごめんなさい！\n\n{!R}あしゅら男爵が\n総攻撃を開始したのよ！
+10.30	Boss	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}すまねぇ！ こっちは 機械獣の\n相手で 精一杯なんでぃ！
+10.31	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーを取り戻すまで\nもちこたえてくれ！
+10.32	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	ふふふ！ ドクター・ヘルへの\n最高の土産が 手に入ったぞ！
+10.33	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	受け入れ準備はオーケーのようね！
+10.34	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーＺを！
+10.35	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	海底要塞サルードへ入れよ！
+10.36	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	ウッ！ パイルダー！？\n来たな 甲児！ 我がライバルよ！
+10.37	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	パイルダーをマジンガーと\n合体させては ならぬ！
+10.38	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	あしゅら男爵！\n俺のマジンガーＺを！\nきさまなどに渡さんぞ！\n\nパイルダー！\nオ～ン！！
+10.39	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	おのれ\nあと一歩というところを…！
+10.40	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	サルードを退避させる！\n潜水！
+10.41	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーが海中に沈む！\n\n海底で うまく 機械獣と\n戦えるだろうか…
+10.42	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	でも うかつに海上に出たら\n集中砲火を浴びちゃう！
+10.43	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	海底を移動して\n光子力研究所に近づこう！
+10.44	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーは\n海中に沈んだようだな！？
+10.45	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	次は 光子力研究所の番よ！
+10.46	Sayaka	dlg	dlg 192/184 px a line, wrapped by the tool	…甲児君
+10.47	Boss	dlg	dlg 192/184 px a line, wrapped by the tool	さやか！ 心配すんな！\nこの俺が いるから 大丈夫！
+10.48	Sayaka	dlg	dlg 192/184 px a line, wrapped by the tool	アフロダイＡとボスボロットで\nなんとかするしかないわね！\nボス しっかりね！
+10.49	Boss	dlg	dlg 192/184 px a line, wrapped by the tool	オーケーだわさ！\nさやかもな！
+10.50	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	出たな ガラクタロボットどもめ！
+10.51	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	機械獣あしゅら男爵の恐ろしさを\n見せてあげるわ！
+10.52	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	見ろよ 機械獣用のデッキみたいだ\nあそこから サルードの中に入り\n内部を移動してやる！
+10.53	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	よ～し！ 外に出られたぞ！
+10.54	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	光子力研究所から\n離れちゃってる！\nいつの間にか 海底要塞が\n移動し始めてたんだ！
+10.55	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	{!R}聞こえるか 甲児君！？\n\n{!R}アレが完成したぞ！\n現在 そちらに向かっている！
+10.56	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市で 開発していたアレが\n間に合ったんですね！
+10.57	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	アレってなに？
+10.58	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	見てればわかるさ\n来たぞ！
+10.59	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	スクランダー！\nクロ～ス！
+10.60	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	凄いよ 甲児君！
+10.61	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	さやかさん！ ボス！\n今 行くぞ！
+10.62	Ashura (Male)	dlg	dlg 192/184 px a line, wrapped by the tool	マジンガーＺ！？
+10.63	Ashura (Female)	dlg	dlg 192/184 px a line, wrapped by the tool	おのれ 兜甲児！
+10.64	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	あしゅら男爵 勝負だ！
+10.65	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	いっけ～ マジンガー！
+10.66	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	甲児君！\nそして {p}君！\nよくやってくれた！
+10.67	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	あの… {s}は…？
+10.68	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市の医療班が 全力をあげて\n治療にあたっているよ\n間もなく回復するだろう！
+10.69	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	良かった…
+10.70	Sayaka Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	甲児君！
+10.71	Boss	dlg	dlg 192/184 px a line, wrapped by the tool	お～い！
+10.72	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	さやかさん！ ボス！
+10.73	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	教授 仲間っていいですね…
+10.74	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	君にも 素晴らしい仲間達がいる\nじゃないか {p}君！
+10.75	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	みんな！
+10.76	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	…さて\n次元連鎖という現象について\n詳しいことは\n何もわかっていないのが現状だ\nそこで我々は 予知一族に\n協力を求めることにしたのだ
+10.77	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	予知一族？
+10.78	Sayaka Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	預言者集団ともいわれている\n超能力者達のことね
+10.79	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	予知一族って\nどこにいるんですか？
+10.80	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	戸来村の出身であるということしか\n解らないのだ
+10.81	Boss	dlg	dlg 192/184 px a line, wrapped by the tool	戸来村って どこよ？\nさやか 知ってるか？
+10.82	Sayaka Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	確か 北東の山の中よ
+10.83	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	どこだって 大丈夫さ！\n\nジェットスクランダーがあれば\nひとっ飛びだからな！
+10.84	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	それが そうもいかんのだよ\n甲児君\n君達のロボットは\n修理が必要なんだ
+10.85	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	え～っ！
+10.86	Sayaka Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	だいぶ やられちゃったもんね…
+10.87	Boss	dlg	dlg 192/184 px a line, wrapped by the tool	俺のボスボロット… 可哀想に…
+10.88	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	では教授 僕 仲間と一緒に\n戸来村へ行きます！
+10.89	Koji Kabuto	dlg	dlg 192/184 px a line, wrapped by the tool	俺も手伝うぜ！
+10.90	Sayaka Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	あたしも！
+10.91	Boss	dlg	dlg 192/184 px a line, wrapped by the tool	よ～し 俺達も手伝うで～！
+10.92	Mucha	dlg	dlg 192/184 px a line, wrapped by the tool	ホイッス ボス！
+10.93	Nuke	dlg	dlg 192/184 px a line, wrapped by the tool	ホヤ～！ ボス！
+10.94	Professor Yumi	dlg	dlg 192/184 px a line, wrapped by the tool	戸来村は ここから 北東\n科学都市 北の 小さな村だ\nそこに住む予知一族の力を借りれば\n次元連鎖の情報が得られるはずだ
+10.95	Professor	dlg	dlg 192/184 px a line, wrapped by the tool	来留間博士は\n血も涙もない男じゃ\n奥さんや 息子さんまで\n研究の犠牲にしたらしい
+10.96	Professor	dlg	dlg 192/184 px a line, wrapped by the tool	来留間博士は 連結や混合こそ\n進化だと主張しとる\n彼は 動物同士を結合させる実験を\nしているとの噂じゃ
+10.97	Professor	dlg	dlg 192/184 px a line, wrapped by the tool	予知一族の他にも\n優秀な超能力者達が存在する…\n科学者達の間では\n公然の秘密なんだ！
+10.98	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	あれ？\nこんなところに地獄別荘が…！
+10.99	Great King Enma	dlg	dlg 192/184 px a line, wrapped by the tool	グワッハッハッハッ！

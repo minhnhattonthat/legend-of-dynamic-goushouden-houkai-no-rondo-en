@@ -1,0 +1,148 @@
+r0D3000	Creator
+r0D3018	EXIT
+r0D3024	Test 2
+r0D3030	Test 1
+r0D303C	Frame test
+r0D3048	String disp 1616
+r0D305C	String disp 1206
+r0D3070	String disp 12
+r0D3080	String disp 8
+r0D3090	MENU6
+r0D309C	ODE
+r0D30A4	Run3 Human
+r0D30B0	Run3 Robot
+r0D30BC	TEST
+r0D30C8	MENU02
+r0D30D8	MENU01
+r0D30E8	SETUP
+r0D30F4	JUMP2
+r0D3100	JUMP
+r0D310C	MENU
+r0D3118	NO MESSAGE
+r0D3130	That's all Menu item 25
+r0D3154	Test text Menu item 24
+r0D3178	Mic test Menu item 23
+r0D319C	Test text Menu item 22
+r0D31C0	Fine today Menu item 21
+r0D31E4	That's all Menu item 20
+r0D3208	Test text Menu item 19
+r0D322C	Mic test Menu item 18
+r0D3250	Test text Menu item 17
+r0D3274	Fine today Menu item 16
+r0D3298	Test text Menu item 15
+r0D32BC	Racecar Menu item 14
+r0D32E0	Test text Menu item 13
+r0D3304	Kayak Menu item 12
+r0D3328	Test text Menu item 11
+r0D334C	Never odd or even Menu item 10
+r0D3370	Test text Menu item 9
+r0D3394	Step on no pets Menu item 8
+r0D33B8	Test text Menu item 7
+r0D33DC	Toy boat toy boat Menu item 6
+r0D3400	Test text Menu item 5
+r0D3424	She sells seashells Menu item 4
+r0D3448	Test text Menu item 3
+r0D346C	Red lorry yellow lorry Menu item 2
+r0D3490	Test text Menu item 1
+r0D34B4	That's all 25
+r0D34C4	Test text 24
+r0D34D4	Mic test 23
+r0D34E4	Test text 22
+r0D34F4	Fine today 21
+r0D3504	That's all 20
+r0D3514	Test text 19
+r0D3524	Mic test 18
+r0D3534	Test text 17
+r0D3544	Fine today 16
+r0D3554	Test text 15
+r0D3564	Racecar 14
+r0D3574	Test text 13
+r0D3584	Kayak 12
+r0D3594	Test text 11
+r0D35A4	Never odd 10
+r0D35B4	Test text 9
+r0D35C4	Step on no 8
+r0D35D4	Test text 7
+r0D35E4	Toy boat 6
+r0D35F4	Test menu 5
+r0D3604	She sells 4
+r0D3614	Draw item 3
+r0D3624	Red lorry 2
+r0D3634	Test str 1
+r0D3644	[1B][5B]4;0a[1B][5B]1;0;14mTest text Menu item 5
+r0D3678	[1B][5B]2J[1B][5B]2wTest text Menu item 1[1B][5B]10e\n [0A][1B][5B]16;16s[1B][5B]2;2a[1B][5B]3;0;0;2mRed lorry yellow lorry Menu item 2[1B][5B]12;12s\n [0A][1B][5B]12;12sTest text[1B][5B]3;0;14m draw Menu item 3[1B][5B]11e\n [0A]She sells seashells[1B][5B]2m Menu item 4
+r0D38A4	That's all Item 25
+r0D38C0	Test text Item 24
+r0D38DC	Mic test Item 23
+r0D38F8	Test text Item 22
+r0D3914	Fine today Item 21
+r0D3930	That's all Item 20
+r0D394C	Test text Item 19
+r0D3968	Mic test Item 18
+r0D3984	Test text Item 17
+r0D39A0	Fine today Item 16
+r0D39BC	Test text Item 15
+r0D39D8	Racecar Item 14
+r0D39F4	Test text Item 13
+r0D3A10	Kayak Item 12
+r0D3A2C	Test text Item 11
+r0D3A48	Never odd or even Item 10
+r0D3A64	Test text Item 9
+r0D3A80	Step on no pets Item 8
+r0D3A9C	Test text Item 7
+r0D3AB8	Toy boat toy boat Item 6
+r0D3AD4	Test text Item 5
+r0D3AF0	She sells seashells Item 4
+r0D3B0C	Test text Item 3
+r0D3B28	Red lorry yellow Item 2
+r0D3B44	Test text Item 1
+r0D3B60	Sprite display test
+r0D3B80	and
+r0D3B84	All save data erased.[0A]
+r0D3BA0	 Really erase it?[0A]   [0A]            Yes          No[0A]
+r0D3BDC	Erase all save data?[0A]   [0A]            Yes          No[0A]
+r0D3C18	(C)DYNAMIC PLANNING[0A](C)BANPRESOFT[0A](C)BANPRESTO 2003
+r0D3C60	Load this data?[0A]    Yes          No
+r0D3C88	Game saved.[0A]
+r0D3C98	Old data will be[0A]erased.[0A]Overwrite it?[0A]    Yes          No
+r0D3CD4	No save[0A]data.
+r0D3CE8	Write error![0A]
+r0D3D08	12345678
+r0D3D1C	Devilman 1
+r0D3D2C	Yumi1234
+r0D3D3C	Kabuto123
+r0D3D4C	Remove
+r0D3D54	123456789
+r0D3D68	To next level
+r0D3D7C	123456
+r0D3D8C	01234567891234567
+r0D3DB0	 P Skill
+r0D3DBC	 Mid Skill 01234567
+r0D3DD8	 Big Skill 01234567
+r0D3DF4	Free
+r0D3DFC	Low level
+r0D3E0C	Really cancel?[0A]  [0A]    Yes                  No[0A]
+r0D3E44	Is this OK?[0A]   [0A]    Yes                  No[0A]
+r0D3E7C	Really cancel?[0A]  [0A]        Yes          No[0A]
+r0D3EB0	Is this OK?[0A]   [0A]        Yes          No[0A]
+r0D3EE4	Exit
+r0D3EEC	Sell
+r0D3EF4	Buy
+r0D3EFC	Sort items
+r0D3F10	Discard item
+r0D3F24	Use item
+r0D3F40	EXIT
+r0D3F4C	TITLE
+r0D3F58	NAMESUB
+r0D3F68	NAME
+r0D3F74	LOAD
+r0D3F80	SAVE
+r0D3F8C	ITEM
+r0D3F98	STATUS
+r0D3FA8	BOOK
+r0D3FB4	CROP
+r0D3FC0	PARTY
+r0D3FCC	Test 1
+r0D3FD8	MCROP
+r0D3FE4	SPARTY
+r0D3FF4	SHOP

@@ -1,0 +1,82 @@
+r0D2018		rom:misc	15 bytes	逃げられない！
+r0D2028		rom:misc	23 bytes	敵は逃げようとした！
+r0D2040		rom:misc	19 bytes	逃げられなかった！
+r0D2234		rom:misc	11 bytes	を盗んだ！
+r0D2260		rom:misc	15 bytes	盗めなかった！
+r0D2270		rom:misc	15 bytes	円を盗んだ！
+r0D22E8		rom:misc	27 bytes	迷惑探偵!![0A] イボ痔小五郎
+r0D2304		rom:misc	15 bytes	マジンガーＺ
+r0D2314		rom:misc	11 bytes	魔獣戦線
+r0D2320		rom:misc	11 bytes	魔王ダンテ
+r0D232C		rom:misc	15 bytes	ハレンチ学園
+r0D233C		rom:misc	23 bytes	バイオレンスジャック
+r0D2354		rom:misc	19 bytes	ドロロンえん魔くん
+r0D2368		rom:misc	11 bytes	デビルマン
+r0D2374		rom:misc	7 bytes	凄ノ王
+r0D237C		rom:misc	11 bytes	手天童子
+r0D2388		rom:misc	7 bytes	豪翔伝
+r0D2390		rom:misc	7 bytes	原作者
+r0D2398		rom:misc	15 bytes	ゲッターロボ
+r0D23A8		rom:misc	15 bytes	けっこう仮面
+r0D23B8		rom:misc	11 bytes	虚無戦記
+r0D23C4		rom:misc	19 bytes	キューティーハニー
+r0D23D8		rom:misc	15 bytes	キッカイくん
+r0D23E8		rom:misc	15 bytes	オモライくん
+r0D23F8		rom:misc	11 bytes	おいら女蛮
+r0D2404		rom:misc	15 bytes	イヤハヤ南友
+r0D2414		rom:misc	15 bytes	あばしり一家
+r0D2424		rom:misc	19 bytes	あにまるケダマン
+r0D2BB0		rom:misc	27 bytes	　株式会社バンプレソフト
+r0D2BCC		rom:misc	11 bytes	企画・製作
+r0D2BD8		rom:misc	23 bytes	　株式会社バンプレスト
+r0D2BF0		rom:misc	7 bytes	販売
+r0D2BF8		rom:misc	35 bytes	株式会社ダイナミックプロダクション
+r0D2C1C		rom:misc	7 bytes	協力
+r0D2C24		rom:misc	27 bytes	　ポールトゥウィン株式会社
+r0D2C40		rom:misc	11 bytes	デバッグ
+r0D2C4C		rom:misc	23 bytes	　株式会社キュービスト
+r0D2C64		rom:misc	15 bytes	アートワーク
+r0D2C74		rom:misc	23 bytes	渡部 隆 　　　古田 真美
+r0D2C8C		rom:misc	27 bytes	渡辺 裕 　　　木村 知佳恵
+r0D2CA8		rom:misc	15 bytes	プロモーション
+r0D2CB8		rom:misc	11 bytes	門原 悠太
+r0D2CC4		rom:misc	27 bytes	石川 肇　　　　師岡 輝幸
+r0D2CE0		rom:misc	27 bytes	柳田 一利　　　山田 俊彦
+r0D2CFC		rom:misc	11 bytes	松田 史征
+r0D2D08		rom:misc	23 bytes	和気 正則　　　國政 修
+r0D2D20		rom:misc	7 bytes	斉藤 健
+r0D2D28		rom:misc	23 bytes	大橋 茂泰　　　中山 愛
+r0D2D40		rom:misc	27 bytes	三浦 忠司　　　栗本 博史
+r0D2D5C		rom:misc	27 bytes	蓮沼 充男　　　巻嶋 和幸
+r0D2D78		rom:misc	11 bytes	サンクス
+r0D2D84		rom:misc	11 bytes	館澤 貴人
+r0D2D90		rom:misc	27 bytes	氏家 英樹　　　川村 正一
+r0D2DAC		rom:misc	23 bytes	坪井 雅之　　　松村 登
+r0D2DC4		rom:misc	15 bytes	グラフィック
+r0D2DD4		rom:misc	27 bytes	田中 一郎　　　菊池 貴則
+r0D2DF0		rom:misc	23 bytes	大出 喬紀　　　河本 努
+r0D2E08		rom:misc	11 bytes	プログラム
+r0D2E14		rom:misc	23 bytes	高橋 義和　　　今村 聡
+r0D2E2C		rom:misc	27 bytes	増田 辰男　　　高田 和広
+r0D2E48		rom:misc	11 bytes	プランナー
+r0D2E54		rom:misc	19 bytes	　　　 NoisyCroak
+r0D2E68		rom:misc	19 bytes	　　　 坂本 英城
+r0D2E7C		rom:misc	15 bytes	　　サウンド
+r0D2E8C		rom:misc	19 bytes	　　　 茂木 岳雄
+r0D2EA0		rom:misc	27 bytes	ゲームオリジナルシナリオ
+r0D2EBC		rom:misc	15 bytes	　　佐伯 紀幸
+r0D2ECC		rom:misc	19 bytes	開発ディレクター
+r0D2EE0		rom:misc	15 bytes	　　蓮沼 尚夫
+r0D2EF0		rom:misc	19 bytes	開発プロデューサー
+r0D2F04		rom:misc	15 bytes	株式会社ウィル
+r0D2F14		rom:misc	15 bytes	　　音泉 貴英
+r0D2F24		rom:misc	15 bytes	ディレクター
+r0D2F34		rom:misc	15 bytes	　　土井 信一
+r0D2F44		rom:misc	23 bytes	プロダクトマネージャー
+r0D2F5C		rom:misc	15 bytes	　　河内 厚典
+r0D2F6C		rom:misc	19 bytes	総合プロデューサー
+r0D2F80		rom:misc	11 bytes	永井 一巨
+r0D2F8C		rom:misc	27 bytes	菊池 忠明　　　徳原 八州
+r0D2FA8		rom:misc	27 bytes	ダイナミック企画株式会社
+r0D2FC8		rom:misc	23 bytes	テクニカルアドバイス
+r0D2FE0		rom:misc	31 bytes	　永井 豪　　　　　　石川 賢

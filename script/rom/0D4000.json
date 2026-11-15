@@ -6,8 +6,8 @@
   ],
   "max": 11,
   "jp": "ＢＳＥＬ",
-  "en": "",
-  "status": "",
+  "en": "BSEL",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
   ],
   "max": 7,
   "jp": "ＴＯＰ",
-  "en": "",
-  "status": "",
+  "en": "TOP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
   ],
   "max": 11,
   "jp": "テスト２",
-  "en": "",
-  "status": "",
+  "en": "Test 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -121,8 +121,8 @@
   ],
   "max": 15,
   "jp": "あぼーん！！",
-  "en": "",
-  "status": "",
+  "en": "KABOOM!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -132,8 +132,8 @@
   ],
   "max": 11,
   "jp": "ぼーん！！",
-  "en": "",
-  "status": "",
+  "en": "BOOM!!",
+  "status": "done",
   "notes": ""
  },
  {

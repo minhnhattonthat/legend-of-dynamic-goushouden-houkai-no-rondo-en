@@ -6,8 +6,8 @@
   ],
   "max": 7,
   "jp": "原作",
-  "en": "",
-  "status": "",
+  "en": "Creator",
+  "status": "done",
   "notes": ""
  },
  {
@@ -41,8 +41,8 @@
   ],
   "max": 11,
   "jp": "ＥＸＩＴ",
-  "en": "",
-  "status": "",
+  "en": "EXIT",
+  "status": "done",
   "notes": ""
  },
  {
@@ -52,8 +52,8 @@
   ],
   "max": 11,
   "jp": "テスト２",
-  "en": "",
-  "status": "",
+  "en": "Test 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -63,8 +63,8 @@
   ],
   "max": 11,
   "jp": "テスト１",
-  "en": "",
-  "status": "",
+  "en": "Test 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -74,8 +74,8 @@
   ],
   "max": 11,
   "jp": "枠テスト",
-  "en": "",
-  "status": "",
+  "en": "Frame test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
   ],
   "max": 19,
   "jp": "文字列表示１６１６",
-  "en": "",
-  "status": "",
+  "en": "String disp 1616",
+  "status": "done",
   "notes": ""
  },
  {
@@ -96,8 +96,8 @@
   ],
   "max": 19,
   "jp": "文字列表示１２０６",
-  "en": "",
-  "status": "",
+  "en": "String disp 1206",
+  "status": "done",
   "notes": ""
  },
  {
@@ -107,8 +107,8 @@
   ],
   "max": 15,
   "jp": "文字列表示１２",
-  "en": "",
-  "status": "",
+  "en": "String disp 12",
+  "status": "done",
   "notes": ""
  },
  {
@@ -118,8 +118,8 @@
   ],
   "max": 15,
   "jp": "文字列表示８",
-  "en": "",
-  "status": "",
+  "en": "String disp 8",
+  "status": "done",
   "notes": ""
  },
  {
@@ -129,8 +129,8 @@
   ],
   "max": 11,
   "jp": "ＭＥＮＵ６",
-  "en": "",
-  "status": "",
+  "en": "MENU6",
+  "status": "done",
   "notes": ""
  },
  {
@@ -140,8 +140,8 @@
   ],
   "max": 7,
   "jp": "ＯＤＥ",
-  "en": "",
-  "status": "",
+  "en": "ODE",
+  "status": "done",
   "notes": ""
  },
  {
@@ -151,8 +151,8 @@
   ],
   "max": 11,
   "jp": "３周目人間",
-  "en": "",
-  "status": "",
+  "en": "Run3 Human",
+  "status": "done",
   "notes": ""
  },
  {
@@ -162,8 +162,8 @@
   ],
   "max": 11,
   "jp": "３周目ロボ",
-  "en": "",
-  "status": "",
+  "en": "Run3 Robot",
+  "status": "done",
   "notes": ""
  },
  {
@@ -173,8 +173,8 @@
   ],
   "max": 11,
   "jp": "ＴＥＳＴ",
-  "en": "",
-  "status": "",
+  "en": "TEST",
+  "status": "done",
   "notes": ""
  },
  {
@@ -184,8 +184,8 @@
   ],
   "max": 15,
   "jp": "ＭＥＮＵ０２",
-  "en": "",
-  "status": "",
+  "en": "MENU02",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
   ],
   "max": 15,
   "jp": "ＭＥＮＵ０１",
-  "en": "",
-  "status": "",
+  "en": "MENU01",
+  "status": "done",
   "notes": ""
  },
  {
@@ -206,8 +206,8 @@
   ],
   "max": 11,
   "jp": "ＳＥＴＵＰ",
-  "en": "",
-  "status": "",
+  "en": "SETUP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -217,8 +217,8 @@
   ],
   "max": 11,
   "jp": "ＪＵＭＰ２",
-  "en": "",
-  "status": "",
+  "en": "JUMP2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -228,8 +228,8 @@
   ],
   "max": 11,
   "jp": "ＪＵＭＰ",
-  "en": "",
-  "status": "",
+  "en": "JUMP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -239,8 +239,8 @@
   ],
   "max": 11,
   "jp": "ＭＥＮＵ",
-  "en": "",
-  "status": "",
+  "en": "MENU",
+  "status": "done",
   "notes": ""
  },
  {
@@ -250,8 +250,8 @@
   ],
   "max": 23,
   "jp": "ＮＯ　ＭＥＳＳＡＧＥ",
-  "en": "",
-  "status": "",
+  "en": "NO MESSAGE",
+  "status": "done",
   "notes": ""
  },
  {
@@ -263,8 +263,8 @@
   ],
   "max": 35,
   "jp": "これにて終了なり　 メニュー項目２５",
-  "en": "",
-  "status": "",
+  "en": "That's all Menu item 25",
+  "status": "done",
   "notes": ""
  },
  {
@@ -276,8 +276,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目２４",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 24",
+  "status": "done",
   "notes": ""
  },
  {
@@ -289,8 +289,8 @@
   ],
   "max": 35,
   "jp": "ただいまマイクのテ メニュー項目２３",
-  "en": "",
-  "status": "",
+  "en": "Mic test Menu item 23",
+  "status": "done",
   "notes": ""
  },
  {
@@ -302,8 +302,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目２２",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 22",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
   ],
   "max": 35,
   "jp": "本日は晴天なり　　 メニュー項目２１",
-  "en": "",
-  "status": "",
+  "en": "Fine today Menu item 21",
+  "status": "done",
   "notes": ""
  },
  {
@@ -328,8 +328,8 @@
   ],
   "max": 35,
   "jp": "これにて終了なり　 メニュー項目２０",
-  "en": "",
-  "status": "",
+  "en": "That's all Menu item 20",
+  "status": "done",
   "notes": ""
  },
  {
@@ -341,8 +341,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目１９",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 19",
+  "status": "done",
   "notes": ""
  },
  {
@@ -354,8 +354,8 @@
   ],
   "max": 35,
   "jp": "ただいまマイクのテ メニュー項目１８",
-  "en": "",
-  "status": "",
+  "en": "Mic test Menu item 18",
+  "status": "done",
   "notes": ""
  },
  {
@@ -367,8 +367,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目１７",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 17",
+  "status": "done",
   "notes": ""
  },
  {
@@ -380,8 +380,8 @@
   ],
   "max": 35,
   "jp": "本日は晴天なり　　 メニュー項目１６",
-  "en": "",
-  "status": "",
+  "en": "Fine today Menu item 16",
+  "status": "done",
   "notes": ""
  },
  {
@@ -393,8 +393,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目１５",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 15",
+  "status": "done",
   "notes": ""
  },
  {
@@ -406,8 +406,8 @@
   ],
   "max": 35,
   "jp": "さくらくさ　　　　 メニュー項目１４",
-  "en": "",
-  "status": "",
+  "en": "Racecar Menu item 14",
+  "status": "done",
   "notes": ""
  },
  {
@@ -419,8 +419,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目１３",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 13",
+  "status": "done",
   "notes": ""
  },
  {
@@ -432,8 +432,8 @@
   ],
   "max": 35,
   "jp": "しんぶんし　　　　 メニュー項目１２",
-  "en": "",
-  "status": "",
+  "en": "Kayak Menu item 12",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目１１",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 11",
+  "status": "done",
   "notes": ""
  },
  {
@@ -458,8 +458,8 @@
   ],
   "max": 35,
   "jp": "うらわでわらう　　 メニュー項目１０",
-  "en": "",
-  "status": "",
+  "en": "Never odd or even Menu item 10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -471,8 +471,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目９　",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 9 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -484,8 +484,8 @@
   ],
   "max": 35,
   "jp": "たけやぶやけた　　 メニュー項目８　",
-  "en": "",
-  "status": "",
+  "en": "Step on no pets Menu item 8 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -496,8 +496,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目７　",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 7 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -508,8 +508,8 @@
   ],
   "max": 35,
   "jp": "東京特許許可局　　 メニュー項目６　",
-  "en": "",
-  "status": "",
+  "en": "Toy boat toy boat Menu item 6 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -520,8 +520,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目５　",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 5 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -532,8 +532,8 @@
   ],
   "max": 35,
   "jp": "隣の客はよく柿　　 メニュー項目４　",
-  "en": "",
-  "status": "",
+  "en": "She sells seashells Menu item 4 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -544,8 +544,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目３　",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 3 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -556,8 +556,8 @@
   ],
   "max": 35,
   "jp": "生麦生米生卵　　　 メニュー項目２　",
-  "en": "",
-  "status": "",
+  "en": "Red lorry yellow lorry Menu item 2 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -568,8 +568,8 @@
   ],
   "max": 35,
   "jp": "テストテキスト描画 メニュー項目１　",
-  "en": "",
-  "status": "",
+  "en": "Test text Menu item 1 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -579,8 +579,8 @@
   ],
   "max": 15,
   "jp": "これにて２５",
-  "en": "",
-  "status": "",
+  "en": "That's all 25",
+  "status": "done",
   "notes": ""
  },
  {
@@ -590,8 +590,8 @@
   ],
   "max": 15,
   "jp": "テストテ２４",
-  "en": "",
-  "status": "",
+  "en": "Test text 24",
+  "status": "done",
   "notes": ""
  },
  {
@@ -601,8 +601,8 @@
   ],
   "max": 15,
   "jp": "ただいま２３",
-  "en": "",
-  "status": "",
+  "en": "Mic test 23",
+  "status": "done",
   "notes": ""
  },
  {
@@ -612,8 +612,8 @@
   ],
   "max": 15,
   "jp": "テストテ２２",
-  "en": "",
-  "status": "",
+  "en": "Test text 22",
+  "status": "done",
   "notes": ""
  },
  {
@@ -623,8 +623,8 @@
   ],
   "max": 15,
   "jp": "本日は晴２１",
-  "en": "",
-  "status": "",
+  "en": "Fine today 21",
+  "status": "done",
   "notes": ""
  },
  {
@@ -634,8 +634,8 @@
   ],
   "max": 15,
   "jp": "これにて２０",
-  "en": "",
-  "status": "",
+  "en": "That's all 20",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
   ],
   "max": 15,
   "jp": "テストテ１９",
-  "en": "",
-  "status": "",
+  "en": "Test text 19",
+  "status": "done",
   "notes": ""
  },
  {
@@ -656,8 +656,8 @@
   ],
   "max": 15,
   "jp": "ただいま１８",
-  "en": "",
-  "status": "",
+  "en": "Mic test 18",
+  "status": "done",
   "notes": ""
  },
  {
@@ -667,8 +667,8 @@
   ],
   "max": 15,
   "jp": "テストテ１７",
-  "en": "",
-  "status": "",
+  "en": "Test text 17",
+  "status": "done",
   "notes": ""
  },
  {
@@ -678,8 +678,8 @@
   ],
   "max": 15,
   "jp": "本日は晴１６",
-  "en": "",
-  "status": "",
+  "en": "Fine today 16",
+  "status": "done",
   "notes": ""
  },
  {
@@ -689,8 +689,8 @@
   ],
   "max": 15,
   "jp": "テストテ１５",
-  "en": "",
-  "status": "",
+  "en": "Test text 15",
+  "status": "done",
   "notes": ""
  },
  {
@@ -700,8 +700,8 @@
   ],
   "max": 15,
   "jp": "さくらく１４",
-  "en": "",
-  "status": "",
+  "en": "Racecar 14",
+  "status": "done",
   "notes": ""
  },
  {
@@ -711,8 +711,8 @@
   ],
   "max": 15,
   "jp": "テストテ１３",
-  "en": "",
-  "status": "",
+  "en": "Test text 13",
+  "status": "done",
   "notes": ""
  },
  {
@@ -722,8 +722,8 @@
   ],
   "max": 15,
   "jp": "しんぶん１２",
-  "en": "",
-  "status": "",
+  "en": "Kayak 12",
+  "status": "done",
   "notes": ""
  },
  {
@@ -733,8 +733,8 @@
   ],
   "max": 15,
   "jp": "テストテ１１",
-  "en": "",
-  "status": "",
+  "en": "Test text 11",
+  "status": "done",
   "notes": ""
  },
  {
@@ -744,8 +744,8 @@
   ],
   "max": 15,
   "jp": "うらわで１０",
-  "en": "",
-  "status": "",
+  "en": "Never odd 10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
   ],
   "max": 15,
   "jp": "テストテキ９",
-  "en": "",
-  "status": "",
+  "en": "Test text 9",
+  "status": "done",
   "notes": ""
  },
  {
@@ -766,8 +766,8 @@
   ],
   "max": 15,
   "jp": "たけやぶや８",
-  "en": "",
-  "status": "",
+  "en": "Step on no 8",
+  "status": "done",
   "notes": ""
  },
  {
@@ -777,8 +777,8 @@
   ],
   "max": 15,
   "jp": "テストテキ７",
-  "en": "",
-  "status": "",
+  "en": "Test text 7",
+  "status": "done",
   "notes": ""
  },
  {
@@ -788,8 +788,8 @@
   ],
   "max": 15,
   "jp": "東京特許許６",
-  "en": "",
-  "status": "",
+  "en": "Toy boat 6",
+  "status": "done",
   "notes": ""
  },
  {
@@ -799,8 +799,8 @@
   ],
   "max": 15,
   "jp": "テストメニ５",
-  "en": "",
-  "status": "",
+  "en": "Test menu 5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -810,8 +810,8 @@
   ],
   "max": 15,
   "jp": "隣の客はよ４",
-  "en": "",
-  "status": "",
+  "en": "She sells 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -821,8 +821,8 @@
   ],
   "max": 15,
   "jp": "描画項目３　",
-  "en": "",
-  "status": "",
+  "en": "Draw item 3 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -832,8 +832,8 @@
   ],
   "max": 15,
   "jp": "生麦生生卵２",
-  "en": "",
-  "status": "",
+  "en": "Red lorry 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -843,8 +843,8 @@
   ],
   "max": 15,
   "jp": "テストスト１",
-  "en": "",
-  "status": "",
+  "en": "Test str 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -854,8 +854,8 @@
   ],
   "max": 51,
   "jp": "[1B][5B]4;0a[1B][5B]1;0;14mテストテキスト描画 メニュー項目５　",
-  "en": "",
-  "status": "",
+  "en": "[1B][5B]4;0a[1B][5B]1;0;14mTest text Menu item 5 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
   ],
   "max": 203,
   "jp": "[1B][5B]2J[1B][5B]2wテストテキスト描画メニュー項目１[1B][5B]10e\n [0A][1B][5B]16;16s[1B][5B]2;2a[1B][5B]3;0;0;2m生麦生米生卵メニュー項目２[1B][5B]12;12s\n [0A][1B][5B]12;12sテストテキスト[1B][5B]3;0;14m描画 メニュー項目３[1B][5B]11e\n [0A]隣の客はよく柿[1B][5B]2m メニュー項目４",
-  "en": "",
-  "status": "",
+  "en": "[1B][5B]2J[1B][5B]2wTest text Menu item 1[1B][5B]10e\n [0A][1B][5B]16;16s[1B][5B]2;2a[1B][5B]3;0;0;2mRed lorry yellow lorry Menu item 2[1B][5B]12;12s\n [0A][1B][5B]12;12sTest text[1B][5B]3;0;14m draw Menu item 3[1B][5B]11e\n [0A]She sells seashells[1B][5B]2m Menu item 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1019,8 +1019,8 @@
   ],
   "max": 27,
   "jp": "これにて終了なり　 項目２５",
-  "en": "",
-  "status": "",
+  "en": "That's all Item 25",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1030,8 +1030,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目２４",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 24",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1041,8 +1041,8 @@
   ],
   "max": 27,
   "jp": "ただいまマイクのテ 項目２３",
-  "en": "",
-  "status": "",
+  "en": "Mic test Item 23",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1052,8 +1052,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目２２",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 22",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1063,8 +1063,8 @@
   ],
   "max": 27,
   "jp": "本日は晴天なり　　 項目２１",
-  "en": "",
-  "status": "",
+  "en": "Fine today Item 21",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1074,8 +1074,8 @@
   ],
   "max": 27,
   "jp": "これにて終了なり　 項目２０",
-  "en": "",
-  "status": "",
+  "en": "That's all Item 20",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1085,8 +1085,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目１９",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 19",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1096,8 +1096,8 @@
   ],
   "max": 27,
   "jp": "ただいまマイクのテ 項目１８",
-  "en": "",
-  "status": "",
+  "en": "Mic test Item 18",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1107,8 +1107,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目１７",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 17",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1118,8 +1118,8 @@
   ],
   "max": 27,
   "jp": "本日は晴天なり　　 項目１６",
-  "en": "",
-  "status": "",
+  "en": "Fine today Item 16",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1129,8 +1129,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目１５",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 15",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1140,8 +1140,8 @@
   ],
   "max": 27,
   "jp": "さくらくさ　　　　 項目１４",
-  "en": "",
-  "status": "",
+  "en": "Racecar Item 14",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1151,8 +1151,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目１３",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 13",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1162,8 +1162,8 @@
   ],
   "max": 27,
   "jp": "しんぶんし　　　　 項目１２",
-  "en": "",
-  "status": "",
+  "en": "Kayak Item 12",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1173,8 +1173,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目１１",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 11",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1184,8 +1184,8 @@
   ],
   "max": 27,
   "jp": "うらわでわらう　　 項目１０",
-  "en": "",
-  "status": "",
+  "en": "Never odd or even Item 10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1195,8 +1195,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目９　",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 9 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1206,8 +1206,8 @@
   ],
   "max": 27,
   "jp": "たけやぶやけた　　 項目８　",
-  "en": "",
-  "status": "",
+  "en": "Step on no pets Item 8 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1217,8 +1217,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目７　",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 7 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1228,8 +1228,8 @@
   ],
   "max": 27,
   "jp": "東京特許許可局　　 項目６　",
-  "en": "",
-  "status": "",
+  "en": "Toy boat toy boat Item 6 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1239,8 +1239,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目５　",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 5 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1250,8 +1250,8 @@
   ],
   "max": 27,
   "jp": "隣の客はよく柿　　 項目４　",
-  "en": "",
-  "status": "",
+  "en": "She sells seashells Item 4 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1261,8 +1261,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目３　",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 3 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1272,8 +1272,8 @@
   ],
   "max": 27,
   "jp": "生麦生米生卵　　　 項目２　",
-  "en": "",
-  "status": "",
+  "en": "Red lorry yellow Item 2 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1283,8 +1283,8 @@
   ],
   "max": 27,
   "jp": "テストテキスト描画 項目１　",
-  "en": "",
-  "status": "",
+  "en": "Test text Item 1 ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1294,8 +1294,8 @@
   ],
   "max": 31,
   "jp": "スプライトの表示をするテスト",
-  "en": "",
-  "status": "",
+  "en": "Sprite display test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1305,8 +1305,8 @@
   ],
   "max": 3,
   "jp": "と",
-  "en": "",
-  "status": "",
+  "en": "and",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1316,8 +1316,8 @@
   ],
   "max": 27,
   "jp": "全セーブデータを消しました[0A]",
-  "en": "",
-  "status": "",
+  "en": "All save data erased.[0A]",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1327,8 +1327,8 @@
   ],
   "max": 59,
   "jp": "　本当に消しますか？　　　　[0A]　　　[0A]　　　はい　　いいえ[0A]　",
-  "en": "",
-  "status": "",
+  "en": " Really erase it?[0A]   [0A]            Yes          No[0A] ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1338,8 +1338,8 @@
   ],
   "max": 59,
   "jp": "全セーブデータを消しますか？[0A]　　　[0A]　　　はい　　いいえ[0A]　",
-  "en": "",
-  "status": "",
+  "en": "Erase all save data?[0A]   [0A]            Yes          No[0A] ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1349,8 +1349,8 @@
   ],
   "max": 71,
   "jp": "⑱ダイナミック企画[0A]⑱ＢＡＮＰＲＥＳＯＦＴ[0A]⑱ＢＡＮＰＲＥＳＴＯ ２００３",
-  "en": "",
-  "status": "",
+  "en": "(C)DYNAMIC PLANNING[0A](C)BANPRESOFT[0A](C)BANPRESTO 2003",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1360,8 +1360,8 @@
   ],
   "max": 39,
   "jp": "ロードしますか？　　[0A]　はい　　いいえ",
-  "en": "",
-  "status": "",
+  "en": "Load this data?[0A]    Yes          No",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1371,8 +1371,8 @@
   ],
   "max": 15,
   "jp": "セーブしました[0A]",
-  "en": "",
-  "status": "",
+  "en": "Game saved.[0A]",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1382,8 +1382,8 @@
   ],
   "max": 59,
   "jp": "前のデータは消さ[0A]れます[0A]上書きしますか？[0A]　はい　　いいえ",
-  "en": "",
-  "status": "",
+  "en": "Old data will be[0A]erased.[0A]Overwrite it?[0A]    Yes          No",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1393,8 +1393,8 @@
   ],
   "max": 19,
   "jp": "データがあり[0A]ません",
-  "en": "",
-  "status": "",
+  "en": "No save[0A]data.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1404,8 +1404,8 @@
   ],
   "max": 15,
   "jp": "書き込みエラー[0A]",
-  "en": "",
-  "status": "",
+  "en": "Write error![0A]",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1428,8 +1428,8 @@
   ],
   "max": 19,
   "jp": "１２３４５６７８",
-  "en": "",
-  "status": "",
+  "en": "12345678",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1439,8 +1439,8 @@
   ],
   "max": 15,
   "jp": "デビルマン１",
-  "en": "",
-  "status": "",
+  "en": "Devilman 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1450,8 +1450,8 @@
   ],
   "max": 15,
   "jp": "ゆみ１２３４",
-  "en": "",
-  "status": "",
+  "en": "Yumi1234",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1461,8 +1461,8 @@
   ],
   "max": 15,
   "jp": "カブト１２３",
-  "en": "",
-  "status": "",
+  "en": "Kabuto123",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1472,8 +1472,8 @@
   ],
   "max": 7,
   "jp": "はずす",
-  "en": "",
-  "status": "",
+  "en": "Remove",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1483,8 +1483,8 @@
   ],
   "max": 19,
   "jp": "１２３４５６７８９",
-  "en": "",
-  "status": "",
+  "en": "123456789",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1494,8 +1494,8 @@
   ],
   "max": 19,
   "jp": "次のレベルまであと",
-  "en": "",
-  "status": "",
+  "en": "To next level",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1505,8 +1505,8 @@
   ],
   "max": 15,
   "jp": "１２３４５６",
-  "en": "",
-  "status": "",
+  "en": "123456",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1516,8 +1516,8 @@
   ],
   "max": 35,
   "jp": "０１２３４５６７８９１２３４５６７",
-  "en": "",
-  "status": "",
+  "en": "01234567891234567",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1527,8 +1527,8 @@
   ],
   "max": 11,
   "jp": "　Ｐ技　",
-  "en": "",
-  "status": "",
+  "en": " P Skill ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1540,8 +1540,8 @@
   ],
   "max": 27,
   "jp": "　中技　０１２３４５６７",
-  "en": "",
-  "status": "",
+  "en": " Mid Skill 01234567",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1551,8 +1551,8 @@
   ],
   "max": 27,
   "jp": "　大技　０１２３４５６７",
-  "en": "",
-  "status": "",
+  "en": " Big Skill 01234567",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1562,8 +1562,8 @@
   ],
   "max": 7,
   "jp": "フリー",
-  "en": "",
-  "status": "",
+  "en": "Free",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1573,8 +1573,8 @@
   ],
   "max": 11,
   "jp": "レベル不足",
-  "en": "",
-  "status": "",
+  "en": "Low level",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1584,8 +1584,8 @@
   ],
   "max": 55,
   "jp": "取消してよろしいですか？[0A]　　[0A]　はい　　　　いいえ[0A]　",
-  "en": "",
-  "status": "",
+  "en": "Really cancel?[0A]  [0A]    Yes                  No[0A] ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1595,8 +1595,8 @@
   ],
   "max": 55,
   "jp": "これでよろしいですか？[0A]　　　[0A]　はい　　　　いいえ[0A]　",
-  "en": "",
-  "status": "",
+  "en": "Is this OK?[0A]   [0A]    Yes                  No[0A] ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1607,8 +1607,8 @@
   ],
   "max": 51,
   "jp": "取消してよろしいですか？[0A]　　[0A]　　はい　　いいえ[0A]　",
-  "en": "",
-  "status": "",
+  "en": "Really cancel?[0A]  [0A]        Yes          No[0A] ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1619,8 +1619,8 @@
   ],
   "max": 51,
   "jp": "これでよろしいですか？[0A]　　　[0A]　　はい　　いいえ[0A]　",
-  "en": "",
-  "status": "",
+  "en": "Is this OK?[0A]   [0A]        Yes          No[0A] ",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1630,8 +1630,8 @@
   ],
   "max": 7,
   "jp": "やめる",
-  "en": "",
-  "status": "",
+  "en": "Exit",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1641,8 +1641,8 @@
   ],
   "max": 7,
   "jp": "売る",
-  "en": "",
-  "status": "",
+  "en": "Sell",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1652,8 +1652,8 @@
   ],
   "max": 7,
   "jp": "買う",
-  "en": "",
-  "status": "",
+  "en": "Buy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1663,8 +1663,8 @@
   ],
   "max": 19,
   "jp": "アイテムをせいとん",
-  "en": "",
-  "status": "",
+  "en": "Sort items",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1674,8 +1674,8 @@
   ],
   "max": 19,
   "jp": "アイテムをすてる",
-  "en": "",
-  "status": "",
+  "en": "Discard item",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1685,8 +1685,8 @@
   ],
   "max": 19,
   "jp": "アイテムをつかう",
-  "en": "",
-  "status": "",
+  "en": "Use item",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1708,8 +1708,8 @@
   ],
   "max": 11,
   "jp": "ＥＸＩＴ",
-  "en": "",
-  "status": "",
+  "en": "EXIT",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1719,8 +1719,8 @@
   ],
   "max": 11,
   "jp": "ＴＩＴＬＥ",
-  "en": "",
-  "status": "",
+  "en": "TITLE",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1730,8 +1730,8 @@
   ],
   "max": 15,
   "jp": "ＮＡＭＥＳＵＢ",
-  "en": "",
-  "status": "",
+  "en": "NAMESUB",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1741,8 +1741,8 @@
   ],
   "max": 11,
   "jp": "ＮＡＭＥ",
-  "en": "",
-  "status": "",
+  "en": "NAME",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1752,8 +1752,8 @@
   ],
   "max": 11,
   "jp": "ＬＯＡＤ",
-  "en": "",
-  "status": "",
+  "en": "LOAD",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1763,8 +1763,8 @@
   ],
   "max": 11,
   "jp": "ＳＡＶＥ",
-  "en": "",
-  "status": "",
+  "en": "SAVE",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1774,8 +1774,8 @@
   ],
   "max": 11,
   "jp": "ＩＴＥＭ",
-  "en": "",
-  "status": "",
+  "en": "ITEM",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1785,8 +1785,8 @@
   ],
   "max": 15,
   "jp": "ＳＴＡＴＵＳ",
-  "en": "",
-  "status": "",
+  "en": "STATUS",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1796,8 +1796,8 @@
   ],
   "max": 11,
   "jp": "ＢＯＯＫ",
-  "en": "",
-  "status": "",
+  "en": "BOOK",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1807,8 +1807,8 @@
   ],
   "max": 11,
   "jp": "ＣＲＯＰ",
-  "en": "",
-  "status": "",
+  "en": "CROP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1818,8 +1818,8 @@
   ],
   "max": 11,
   "jp": "ＰＡＲＴＹ",
-  "en": "",
-  "status": "",
+  "en": "PARTY",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1829,8 +1829,8 @@
   ],
   "max": 7,
   "jp": "テスト1",
-  "en": "",
-  "status": "",
+  "en": "Test 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1840,8 +1840,8 @@
   ],
   "max": 11,
   "jp": "ＭＣＲＯＰ",
-  "en": "",
-  "status": "",
+  "en": "MCROP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1851,8 +1851,8 @@
   ],
   "max": 15,
   "jp": "ＳＰＡＲＴＹ",
-  "en": "",
-  "status": "",
+  "en": "SPARTY",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1862,8 +1862,8 @@
   ],
   "max": 11,
   "jp": "ＳＨＯＰ",
-  "en": "",
-  "status": "",
+  "en": "SHOP",
+  "status": "done",
   "notes": ""
  }
 ]

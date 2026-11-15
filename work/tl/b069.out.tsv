@@ -1,0 +1,150 @@
+r0CF000	Science City/Uryu 1(unused)
+r0CF01C	ScienceCity/HotelRoom4
+r0CF034	ScienceCity/HotelRoom3
+r0CF04C	ScienceCity/HotelRoom2
+r0CF064	ScienceCity/HotelRoom1
+r0CF07C	Science City/Hotel B1Fb
+r0CF098	Science City/Hotel B1Fa
+r0CF0B4	Science City/Hotel 4Fb
+r0CF0CC	Science City/Hotel 4Fa
+r0CF0E4	Science City/Hotel 3F
+r0CF0FC	Science City/Hotel 2F
+r0CF114	Science City/Hotel 1F
+r0CF12C	Mirage F4/GateCtrl 1
+r0CF148	MirageF4/Treasury1
+r0CF15C	Mirage F4
+r0CF168	Mirage Castle F3/Security Room
+r0CF188	Mirage F3/Waiting 3
+r0CF19C	Mirage F3/Waiting 1
+r0CF1B0	MirageF3/Treasury2
+r0CF1C4	Mirage F3/R
+r0CF1D4	Mirage F3/L
+r0CF1E4	Mirage F2
+r0CF1F0	Mirage F1/GateCtrl 2
+r0CF20C	Mirage F1/Waiting 2
+r0CF220	Mirage F1/Rm 1
+r0CF234	Mirage F1/CrystalRm
+r0CF24C	MirageF1/Throne
+r0CF25C	Mirage F1
+r0CF268	MirageOut/Ruin
+r0CF278	Mirage Out/Gate
+r0CF288	MirageOutMt
+r0CF294	Hell
+r0CF29C	Harenchi/Town
+r0CF2B4	Science City/Lab 2F
+r0CF2CC	Science City/Lab 1Fb
+r0CF2E4	Science City/Lab 1Fa
+r0CF2FC	SciCity/MedRoom 2F
+r0CF314	SciCity/MedRoom 1F
+r0CF32C	SciCity/ConfHall 1Fb
+r0CF348	SciCity/ConfHall 1Fa
+r0CF364	Science City/City K
+r0CF378	Science City/City J
+r0CF38C	Science City/City I
+r0CF3A0	Science City/City H
+r0CF3B4	Science City/City G
+r0CF3C8	Science City/City F
+r0CF3DC	Science City/City E
+r0CF3F0	Science City/City D
+r0CF404	Science City/City C
+r0CF418	Science City/City B
+r0CF42C	Science City/City A
+r0CF440	Mecha Dungeon
+r0CF454	Saluud/Surface
+r0CF464	Saluud/Deck
+r0CF478	Saluud/Exit B
+r0CF48C	Saluud/Exit A
+r0CF4A0	Saluud/Exit
+r0CF4B0	Saluud/3Fa
+r0CF4C4	Saluud/2Fd
+r0CF4D8	Saluud/2Fb_3(3F)
+r0CF4F8	Saluud/2Fb_2(2 mid)
+r0CF518	Saluud/2Fb(2F right)
+r0CF534	Saluud/2Fa
+r0CF548	Saluud/1Fb
+r0CF55C	Saluud/1Fa
+r0CF570	Photon Power Lab Out3(cut)
+r0CF58C	Photon Power Lab Out2(cut)
+r0CF5A8	Photon Power Lab Out1(cut)
+r0CF5C4	Photon Power Lab 10
+r0CF5D8	Photon Power Lab 09/Monitor
+r0CF5F8	Photon Power Lab 08/Hangar
+r0CF618	Photon Power Lab 07/Dynamo
+r0CF634	Photon Power Lab 06/West
+r0CF650	Photon Power Lab 05/North
+r0CF66C	Photon Power Lab 04/East
+r0CF688	Photon Power Lab 03/Elevator
+r0CF6A8	Photon Power Lab02/Hall
+r0CF6C0	Photon Power Lab 01
+r0CF6D4	DarkTemple11/CrashSite
+r0CF6EC	DarkTemple10/Jarai Statue
+r0CF708	DarkTemple09/Temple
+r0CF71C	DarkTemple08/DarkTempleExt3
+r0CF738	DarkTemple07/DarkTempleExt2
+r0CF754	DarkTemple06/DarkTempleExt1
+r0CF770	DarkTemple05/SenganOniExit(unused)
+r0CF794	DarkTemple 04/SenganIn
+r0CF7B0	DarkTemple03/SenganOniCrag
+r0CF7CC	DarkTemple02/FangPlains
+r0CF7E4	DarkTemple 01/ForestIn+Edge
+r0CF804	Yokai/4Fb(Princess Yukiko)
+r0CF820	Yokai Mansion/4Fa
+r0CF834	Yokai Mansion/3F(Pool)
+r0CF850	Yokai Mansion/2Fd/Bedroom
+r0CF870	Yokai Mansion/2Fc
+r0CF884	Yokai Mansion/2Fb Training
+r0CF8A4	Yokai Mansion/2Fa
+r0CF8B8	Yokai/1Fe(Tatami)
+r0CF8D4	Yokai Mansion/1Fd(Kapaeru)
+r0CF8F4	Yokai Mansion/1Fc
+r0CF908	Yokai Mansion/1Fb
+r0CF91C	Yokai Mansion/1Fa
+r0CF930	Yokai/Forest
+r0CF944	HarenchiGakuen/Storeroom2Fb(unused)
+r0CF968	HarenchiGakuen/Storeroom2Fa
+r0CF984	HarenchiGakuen/Storeroom1Fb(unused)
+r0CF9A8	HarenchiGakuen/Storeroom1Fa
+r0CF9C4	Harenchi Gakuen/Gym
+r0CF9DC	Harenchi/GirlsWC 3
+r0CF9F8	Harenchi/GirlsWC 2
+r0CFA14	Harenchi/GirlsWC
+r0CFA30	Harenchi/BoysWC 3
+r0CFA4C	Harenchi/BoysWC 2
+r0CFA68	Harenchi/BoysWC
+r0CFA84	Harenchi/Classroom D
+r0CFA9C	Harenchi/Classroom C2
+r0CFAB4	Harenchi/Classroom C
+r0CFACC	Harenchi/Classroom B6
+r0CFAE4	Harenchi/Classroom B5
+r0CFAFC	Harenchi/Classroom B4
+r0CFB14	Harenchi/Classroom B3
+r0CFB2C	Harenchi/Classroom B2
+r0CFB44	Harenchi/Classroom B
+r0CFB5C	Harenchi/Classroom A6
+r0CFB74	Harenchi/Classroom A5
+r0CFB8C	Harenchi/Classroom A4
+r0CFBA4	Harenchi/Classroom A3
+r0CFBBC	Harenchi/Classroom A2
+r0CFBD4	Harenchi/Classroom A
+r0CFBEC	Harenchi Gakuen/4Fb
+r0CFC04	Harenchi Gakuen/4Fa
+r0CFC1C	Harenchi Gakuen/3F
+r0CFC30	Harenchi Gakuen/2F
+r0CFC44	Harenchi Gakuen/1F
+r0CFC58	Harenchi Gakuen/B1F
+r0CFC70	Harenchi/Yard
+r0CFC84	Restaurant King B1F(unused)
+r0CFCA4	Restaurant King 3Fb(unused)
+r0CFCC4	Restaurant King 3Fa(unused)
+r0CFCE4	Restaurant King 2F(unused)
+r0CFD04	Restaurant King 1Fb(unused)
+r0CFD24	Restaurant King 1Fa(unused)
+r0CFD44	Rolls-Royce
+r0CFD54	Battle
+r0CFD5C	Restaurant
+r0CFD68	Reaper Police 02(Maze)
+r0CFD80	Reaper Police 01(Maze)
+r0CFD98	QuakeFortInside
+r0CFDA8	Quake Fort
+r0CFDB4	Checkpt
+r0CFDBC	Kanto Slum/House 5

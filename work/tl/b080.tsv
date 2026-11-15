@@ -1,0 +1,10 @@
+r0DBF78		rom:skill_name	7 bytes, 76 px	稲妻
+r0DBF80		rom:skill_name2	11 bytes, 72 px	イナズマ
+r0DBF8C		rom:skill_name	15 bytes, 76 px	腕マシンガン
+r0DBF9C		rom:skill_name2	15 bytes, 72 px	うでマシンガン
+r0DBFAC		rom:skill_name	15 bytes, 76 px	オオカミ戦法
+r0DBFBC		rom:skill_name2	19 bytes, 72 px	オオカミせんぽう
+r0DBFD0		rom:skill_name,skill_name2	7 bytes, 72 px	大爪
+r0DBFD8		rom:skill_name	19 bytes, 76 px	おっぴろげジャンプ
+r0DBFEC		rom:skill_name2	15 bytes, 72 px	おっぴろげＪ
+r0DBFFC		rom:skill_name	11 bytes, 76 px	鬼絵巻き

@@ -118,6 +118,12 @@ def final_en(part, entry, en):
     """The English as stored in script/: the dialogue speaker line from tools/speakers.tsv, body wrapped."""
     en = en.replace("\\n", "\n")
     if part != "archive":
+        # the JP's edge blanks are layout (file-write tools strip a trailing space): restore one ASCII space
+        jp = entry["jp"]
+        if jp[:1] in (" ", "　") and en[:1] != " ":
+            en = " " + en
+        if jp[-1:] in (" ", "　") and en[-1:] != " ":
+            en = en + " "
         return en
     if "\n" not in entry["jp"]:
         return en
@@ -194,9 +200,10 @@ def problems(part, entry, en, terms, people):
         out.append(f"control codes differ: JP {dict(want)} EN {dict(have)}")
     if re.search(VARIABLE + r"(st|nd|rd|th)\b", en):
         out.append('ordinal suffix after a variable (write "No. {g}")')
-    jp_plain = TOKEN.sub("", jp)
+    jp_plain = TOKEN.sub("", jp).replace("\\n", "").replace("\n", "")
+    flat = re.sub(r"\s+", " ", en.replace("\\n", " ")).lower()  # a term may break across lines
     for jps, ens, avoid in terms:
-        if any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in en.lower() for e in ens):
+        if any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in flat for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
     for name in people:
@@ -317,7 +324,8 @@ def main(argv):
     if cmd == "fit":
         return fit(args[0], args[args.index("--form") + 1] if "--form" in args else "dlg")
     overwrite = "--overwrite" in args
-    batch_names = [a for a in args if a != "--overwrite"]
+    partial = "--partial" in args  # merge: write the ids that pass, leave failing ones untranslated (LONG names)
+    batch_names = [a for a in args if a not in ("--overwrite", "--partial")]
     entries, terms, people = index(), glossary(), names()
     if cmd == "check" and not batch_names:
         bad = []
@@ -334,6 +342,11 @@ def main(argv):
     new, failed = {}, 0
     for batch in batch_names:
         bad, rows = check_batch(batch, entries, terms, people)
+        if partial and cmd == "merge" and not any(b.startswith("ids differ") for b in bad):
+            failing = {b.split(":", 1)[0] for b in bad}
+            rows = {k: v for k, v in rows.items() if k not in failing}
+            print(f"{batch}: partial, {len(failing)} ids left out: {' '.join(sorted(failing))}")
+            bad = []
         new.update(rows)
         failed += bool(bad)
         print(f"{batch}: " + ("OK" if not bad else f"{len(bad)} problems"))

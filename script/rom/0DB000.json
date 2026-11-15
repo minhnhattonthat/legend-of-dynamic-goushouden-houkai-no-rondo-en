@@ -13,8 +13,8 @@
   ],
   "max": 11,
   "jp": "ドラゴン",
-  "en": "",
-  "status": "",
+  "en": "Dragon",
+  "status": "done",
   "notes": ""
  },
  {
@@ -24,8 +24,8 @@
   ],
   "max": 15,
   "jp": "次元獣グレイド",
-  "en": "",
-  "status": "",
+  "en": "Grade",
+  "status": "done",
   "notes": ""
  },
  {
@@ -36,8 +36,8 @@
   ],
   "max": 15,
   "jp": "メカあしゅら",
-  "en": "",
-  "status": "",
+  "en": "M.Ashura",
+  "status": "done",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
   ],
   "max": 19,
   "jp": "ひさんしょうぐん",
-  "en": "",
-  "status": "",
+  "en": "Misery",
+  "status": "done",
   "notes": ""
  },
  {
@@ -74,8 +74,8 @@
   ],
   "max": 11,
   "jp": "悲惨将軍",
-  "en": "",
-  "status": "",
+  "en": "Lord Misery",
+  "status": "done",
   "notes": ""
  },
  {
@@ -86,8 +86,8 @@
   ],
   "max": 15,
   "jp": "？？？？？？",
-  "en": "",
-  "status": "",
+  "en": "??????",
+  "status": "done",
   "notes": ""
  },
  {
@@ -97,8 +97,8 @@
   ],
   "max": 15,
   "jp": "うんのろくろう",
-  "en": "",
-  "status": "",
+  "en": "Unno",
+  "status": "done",
   "notes": ""
  },
  {
@@ -108,8 +108,8 @@
   ],
   "max": 11,
   "jp": "海野六郎",
-  "en": "",
-  "status": "",
+  "en": "Rokuro Unno",
+  "status": "done",
   "notes": ""
  },
  {
@@ -119,8 +119,8 @@
   ],
   "max": 15,
   "jp": "いさにゅうどう",
-  "en": "",
-  "status": "",
+  "en": "Isa",
+  "status": "done",
   "notes": ""
  },
  {
@@ -132,8 +132,8 @@
   ],
   "max": 11,
   "jp": "伊佐入道",
-  "en": "",
-  "status": "",
+  "en": "Isa Nyudo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -143,8 +143,8 @@
   ],
   "max": 7,
   "jp": "サタン",
-  "en": "",
-  "status": "",
+  "en": "Satan",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
   ],
   "max": 15,
   "jp": "サタンの足の爪",
-  "en": "",
-  "status": "",
+  "en": "Satan's Toenail",
+  "status": "done",
   "notes": ""
  },
  {
@@ -166,8 +166,8 @@
   ],
   "max": 11,
   "jp": "デーモンC",
-  "en": "",
-  "status": "",
+  "en": "Demon C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -177,8 +177,8 @@
   ],
   "max": 11,
   "jp": "デーモンB",
-  "en": "",
-  "status": "",
+  "en": "Demon B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
   ],
   "max": 11,
   "jp": "デーモン",
-  "en": "",
-  "status": "",
+  "en": "Demon",
+  "status": "done",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
   ],
   "max": 11,
   "jp": "デーモンA",
-  "en": "",
-  "status": "",
+  "en": "Demon A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -227,8 +227,8 @@
   ],
   "max": 15,
   "jp": "巨大デビルマン",
-  "en": "",
-  "status": "",
+  "en": "Giant Devilman",
+  "status": "done",
   "notes": ""
  },
  {
@@ -238,8 +238,8 @@
   ],
   "max": 15,
   "jp": "Ｃ・シレーヌ",
-  "en": "",
-  "status": "",
+  "en": "K.Sirene",
+  "status": "done",
   "notes": ""
  },
  {
@@ -251,8 +251,8 @@
   ],
   "max": 19,
   "jp": "カイム・シレーヌ",
-  "en": "",
-  "status": "",
+  "en": "Kaim Sirene",
+  "status": "done",
   "notes": ""
  },
  {
@@ -262,8 +262,8 @@
   ],
   "max": 11,
   "jp": "スサノオウ",
-  "en": "",
-  "status": "",
+  "en": "Susanoo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -273,8 +273,8 @@
   ],
   "max": 11,
   "jp": "英雄王真神",
-  "en": "",
-  "status": "",
+  "en": "Divine Hero",
+  "status": "done",
   "notes": ""
  },
  {
@@ -289,8 +289,8 @@
   ],
   "max": 11,
   "jp": "ガードマン",
-  "en": "",
-  "status": "",
+  "en": "Guard",
+  "status": "done",
   "notes": ""
  },
  {
@@ -300,8 +300,8 @@
   ],
   "max": 15,
   "jp": "次元神グレイド",
-  "en": "",
-  "status": "",
+  "en": "Grade",
+  "status": "done",
   "notes": ""
  },
  {
@@ -311,8 +311,8 @@
   ],
   "max": 15,
   "jp": "次元王グレイド",
-  "en": "",
-  "status": "",
+  "en": "Grade",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
   ],
   "max": 11,
   "jp": "グレイド",
-  "en": "",
-  "status": "",
+  "en": "Grade",
+  "status": "done",
   "notes": ""
  },
  {
@@ -337,8 +337,8 @@
   ],
   "max": 15,
   "jp": "くろいまもの",
-  "en": "",
-  "status": "",
+  "en": "Fiend",
+  "status": "done",
   "notes": ""
  },
  {
@@ -353,8 +353,8 @@
   ],
   "max": 11,
   "jp": "黒い魔物",
-  "en": "",
-  "status": "",
+  "en": "Dark Fiend",
+  "status": "done",
   "notes": ""
  },
  {
@@ -364,8 +364,8 @@
   ],
   "max": 15,
   "jp": "まのざんがい",
-  "en": "",
-  "status": "",
+  "en": "Husk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -376,8 +376,8 @@
   ],
   "max": 11,
   "jp": "魔の残骸",
-  "en": "",
-  "status": "",
+  "en": "Evil Husk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -388,8 +388,8 @@
   ],
   "max": 7,
   "jp": "ダンテ",
-  "en": "",
-  "status": "",
+  "en": "Dante",
+  "status": "done",
   "notes": ""
  },
  {
@@ -399,8 +399,8 @@
   ],
   "max": 7,
   "jp": "うつぎ",
-  "en": "",
-  "status": "",
+  "en": "Utsugi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -410,8 +410,8 @@
   ],
   "max": 11,
   "jp": "宇津木涼",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -433,8 +433,8 @@
   ],
   "max": 11,
   "jp": "こうじゃ",
-  "en": "",
-  "status": "",
+  "en": "Koja",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
   ],
   "max": 11,
   "jp": "果扨虹蛇",
-  "en": "",
-  "status": "",
+  "en": "Kasa Koja",
+  "status": "done",
   "notes": ""
  },
  {
@@ -456,8 +456,8 @@
   ],
   "max": 11,
   "jp": "キッカイ",
-  "en": "",
-  "status": "",
+  "en": "Kikkai",
+  "status": "done",
   "notes": ""
  },
  {
@@ -467,8 +467,8 @@
   ],
   "max": 15,
   "jp": "摩呵キッカイ",
-  "en": "",
-  "status": "",
+  "en": "Maka Kikkai",
+  "status": "done",
   "notes": ""
  },
  {
@@ -479,8 +479,8 @@
   ],
   "max": 7,
   "jp": "どらの",
-  "en": "",
-  "status": "",
+  "en": "Dorano",
+  "status": "done",
   "notes": ""
  },
  {
@@ -491,8 +491,8 @@
   ],
   "max": 15,
   "jp": "怒良野キラー",
-  "en": "",
-  "status": "",
+  "en": "Dorano Killer",
+  "status": "done",
   "notes": ""
  },
  {
@@ -503,8 +503,8 @@
   ],
   "max": 11,
   "jp": "ケダマン",
-  "en": "",
-  "status": "",
+  "en": "Kedaman",
+  "status": "done",
   "notes": ""
  },
  {
@@ -514,8 +514,8 @@
   ],
   "max": 15,
   "jp": "阿仁丸ケダマン",
-  "en": "",
-  "status": "",
+  "en": "Animaru Kedaman",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
   ],
   "max": 7,
   "jp": "みろく",
-  "en": "",
-  "status": "",
+  "en": "Miroku",
+  "status": "done",
   "notes": ""
  },
  {
@@ -536,8 +536,8 @@
   ],
   "max": 11,
   "jp": "無幻美勒",
-  "en": "",
-  "status": "",
+  "en": "Miroku",
+  "status": "done",
   "notes": ""
  },
  {
@@ -547,8 +547,8 @@
   ],
   "max": 15,
   "jp": "Ｉ・カイザー",
-  "en": "",
-  "status": "",
+  "en": "I.Kaiser",
+  "status": "done",
   "notes": ""
  },
  {
@@ -559,8 +559,8 @@
   ],
   "max": 19,
   "jp": "アイアンカイザー",
-  "en": "",
-  "status": "",
+  "en": "Iron Kaiser",
+  "status": "done",
   "notes": ""
  },
  {
@@ -570,8 +570,8 @@
   ],
   "max": 11,
   "jp": "暴走族Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Biker C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -581,8 +581,8 @@
   ],
   "max": 11,
   "jp": "暴走族Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Biker B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -594,8 +594,8 @@
   ],
   "max": 15,
   "jp": "ぼうそうぞく",
-  "en": "",
-  "status": "",
+  "en": "Biker",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
   ],
   "max": 11,
   "jp": "暴走族Ａ",
-  "en": "",
-  "status": "",
+  "en": "Biker A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -616,8 +616,8 @@
   ],
   "max": 11,
   "jp": "無法者Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Outlaw C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -627,8 +627,8 @@
   ],
   "max": 11,
   "jp": "無法者Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Outlaw B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -640,8 +640,8 @@
   ],
   "max": 11,
   "jp": "むほうもの",
-  "en": "",
-  "status": "",
+  "en": "Outlaw",
+  "status": "done",
   "notes": ""
  },
  {
@@ -651,8 +651,8 @@
   ],
   "max": 11,
   "jp": "無法者Ａ",
-  "en": "",
-  "status": "",
+  "en": "Outlaw A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -662,8 +662,8 @@
   ],
   "max": 11,
   "jp": "不良学生Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Punk Kid C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -673,8 +673,8 @@
   ],
   "max": 11,
   "jp": "不良学生Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Punk Kid B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -686,8 +686,8 @@
   ],
   "max": 19,
   "jp": "ふりょうがくせい",
-  "en": "",
-  "status": "",
+  "en": "Punk Kid",
+  "status": "done",
   "notes": ""
  },
  {
@@ -697,8 +697,8 @@
   ],
   "max": 11,
   "jp": "不良学生Ａ",
-  "en": "",
-  "status": "",
+  "en": "Punk Kid A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -708,8 +708,8 @@
   ],
   "max": 7,
   "jp": "下忍C",
-  "en": "",
-  "status": "",
+  "en": "Genin C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -719,8 +719,8 @@
   ],
   "max": 7,
   "jp": "下忍B",
-  "en": "",
-  "status": "",
+  "en": "Genin B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -732,8 +732,8 @@
   ],
   "max": 7,
   "jp": "げにん",
-  "en": "",
-  "status": "",
+  "en": "Genin",
+  "status": "done",
   "notes": ""
  },
  {
@@ -743,8 +743,8 @@
   ],
   "max": 7,
   "jp": "下忍A",
-  "en": "",
-  "status": "",
+  "en": "Genin A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -754,8 +754,8 @@
   ],
   "max": 15,
   "jp": "魔獣ハンターＣ",
-  "en": "",
-  "status": "",
+  "en": "Fiend Hunter C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
   ],
   "max": 15,
   "jp": "魔獣ハンターＢ",
-  "en": "",
-  "status": "",
+  "en": "Fiend Hunter B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -778,8 +778,8 @@
   ],
   "max": 19,
   "jp": "まじゅうハンター",
-  "en": "",
-  "status": "",
+  "en": "Hunter",
+  "status": "done",
   "notes": ""
  },
  {
@@ -789,8 +789,8 @@
   ],
   "max": 15,
   "jp": "魔獣ハンターＡ",
-  "en": "",
-  "status": "",
+  "en": "Fiend Hunter A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -800,8 +800,8 @@
   ],
   "max": 11,
   "jp": "不死団Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Undying C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -811,8 +811,8 @@
   ],
   "max": 11,
   "jp": "不死団Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Undying B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -837,8 +837,8 @@
   ],
   "max": 7,
   "jp": "不死団",
-  "en": "",
-  "status": "",
+  "en": "Undying",
+  "status": "done",
   "notes": ""
  },
  {
@@ -848,8 +848,8 @@
   ],
   "max": 11,
   "jp": "不死団Ａ",
-  "en": "",
-  "status": "",
+  "en": "Undying A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -859,8 +859,8 @@
   ],
   "max": 15,
   "jp": "ハチュウ人類Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Reptilian C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -870,8 +870,8 @@
   ],
   "max": 15,
   "jp": "ハチュウ人類Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Reptilian B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -883,8 +883,8 @@
   ],
   "max": 19,
   "jp": "ハチュウじんるい",
-  "en": "",
-  "status": "",
+  "en": "Reptilian",
+  "status": "done",
   "notes": ""
  },
  {
@@ -894,8 +894,8 @@
   ],
   "max": 15,
   "jp": "ハチュウ人類Ａ",
-  "en": "",
-  "status": "",
+  "en": "Reptilian A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
   ],
   "max": 15,
   "jp": "メカザウルスＣ",
-  "en": "",
-  "status": "",
+  "en": "Mechasaurus C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -916,8 +916,8 @@
   ],
   "max": 15,
   "jp": "メカザウルスＢ",
-  "en": "",
-  "status": "",
+  "en": "Mechasaurus B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -944,8 +944,8 @@
   ],
   "max": 15,
   "jp": "メカザウルス",
-  "en": "",
-  "status": "",
+  "en": "M.Saurus",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
   ],
   "max": 15,
   "jp": "メカザウルスＡ",
-  "en": "",
-  "status": "",
+  "en": "Mechasaurus A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -990,8 +990,8 @@
   ],
   "max": 15,
   "jp": "きかいじゅう",
-  "en": "",
-  "status": "",
+  "en": "M.Beast",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1012,8 +1012,8 @@
   ],
   "max": 11,
   "jp": "幻魔衆Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Genmashu C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1023,8 +1023,8 @@
   ],
   "max": 11,
   "jp": "幻魔衆Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Genmashu B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1036,8 +1036,8 @@
   ],
   "max": 15,
   "jp": "げんましゅう",
-  "en": "",
-  "status": "",
+  "en": "Genma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1047,8 +1047,8 @@
   ],
   "max": 11,
   "jp": "幻魔衆Ａ",
-  "en": "",
-  "status": "",
+  "en": "Genmashu A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1058,8 +1058,8 @@
   ],
   "max": 11,
   "jp": "争魔衆Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Somashu C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1069,8 +1069,8 @@
   ],
   "max": 11,
   "jp": "争魔衆Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Somashu B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1082,8 +1082,8 @@
   ],
   "max": 15,
   "jp": "そうましゅう",
-  "en": "",
-  "status": "",
+  "en": "Soma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1093,8 +1093,8 @@
   ],
   "max": 11,
   "jp": "争魔衆Ａ",
-  "en": "",
-  "status": "",
+  "en": "Somashu A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1104,8 +1104,8 @@
   ],
   "max": 23,
   "jp": "聖パラダイス中学生Ｃ",
-  "en": "",
-  "status": "",
+  "en": "St. Paradise Kid C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1115,8 +1115,8 @@
   ],
   "max": 23,
   "jp": "聖パラダイス中学生Ｂ",
-  "en": "",
-  "status": "",
+  "en": "St. Paradise Kid B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1128,8 +1128,8 @@
   ],
   "max": 11,
   "jp": "パラ中生",
-  "en": "",
-  "status": "",
+  "en": "Para Kid",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1139,8 +1139,8 @@
   ],
   "max": 23,
   "jp": "聖パラダイス中学生Ａ",
-  "en": "",
-  "status": "",
+  "en": "St. Paradise Kid A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1150,8 +1150,8 @@
   ],
   "max": 11,
   "jp": "大帝国軍人C",
-  "en": "",
-  "status": "",
+  "en": "Imperial C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1161,8 +1161,8 @@
   ],
   "max": 11,
   "jp": "大帝国軍人B",
-  "en": "",
-  "status": "",
+  "en": "Imperial B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1174,8 +1174,8 @@
   ],
   "max": 19,
   "jp": "ていこくぐんじん",
-  "en": "",
-  "status": "",
+  "en": "Imperial",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1185,8 +1185,8 @@
   ],
   "max": 11,
   "jp": "大帝国軍人A",
-  "en": "",
-  "status": "",
+  "en": "Imperial A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1196,8 +1196,8 @@
   ],
   "max": 11,
   "jp": "死神警察３",
-  "en": "",
-  "status": "",
+  "en": "Death Cop 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1207,8 +1207,8 @@
   ],
   "max": 11,
   "jp": "死神警察２",
-  "en": "",
-  "status": "",
+  "en": "Death Cop 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1218,8 +1218,8 @@
   ],
   "max": 11,
   "jp": "死神警察１",
-  "en": "",
-  "status": "",
+  "en": "Death Cop 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1229,8 +1229,8 @@
   ],
   "max": 11,
   "jp": "死神警察Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Death Cop C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1240,8 +1240,8 @@
   ],
   "max": 11,
   "jp": "死神警察Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Death Cop B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1256,8 +1256,8 @@
   ],
   "max": 19,
   "jp": "しにがみけいさつ",
-  "en": "",
-  "status": "",
+  "en": "Deathcop",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1267,8 +1267,8 @@
   ],
   "max": 11,
   "jp": "死神警察Ａ",
-  "en": "",
-  "status": "",
+  "en": "Death Cop A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1278,8 +1278,8 @@
   ],
   "max": 11,
   "jp": "外道会３",
-  "en": "",
-  "status": "",
+  "en": "Gedo Gang 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1289,8 +1289,8 @@
   ],
   "max": 11,
   "jp": "外道会２",
-  "en": "",
-  "status": "",
+  "en": "Gedo Gang 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1300,8 +1300,8 @@
   ],
   "max": 11,
   "jp": "外道会１",
-  "en": "",
-  "status": "",
+  "en": "Gedo Gang 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1311,8 +1311,8 @@
   ],
   "max": 11,
   "jp": "外道会Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Gedo Gang C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1322,8 +1322,8 @@
   ],
   "max": 11,
   "jp": "外道会Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Gedo Gang B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1338,8 +1338,8 @@
   ],
   "max": 11,
   "jp": "げどうかい",
-  "en": "",
-  "status": "",
+  "en": "Gedo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1349,8 +1349,8 @@
   ],
   "max": 11,
   "jp": "外道会Ａ",
-  "en": "",
-  "status": "",
+  "en": "Gedo Gang A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1360,8 +1360,8 @@
   ],
   "max": 15,
   "jp": "パンサー団員C",
-  "en": "",
-  "status": "",
+  "en": "Panther Claw C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1371,8 +1371,8 @@
   ],
   "max": 15,
   "jp": "パンサー団員B",
-  "en": "",
-  "status": "",
+  "en": "Panther Claw B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1384,8 +1384,8 @@
   ],
   "max": 19,
   "jp": "パンサーだんいん",
-  "en": "",
-  "status": "",
+  "en": "Panther",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1395,8 +1395,8 @@
   ],
   "max": 15,
   "jp": "パンサー団員A",
-  "en": "",
-  "status": "",
+  "en": "Panther Claw A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1406,8 +1406,8 @@
   ],
   "max": 11,
   "jp": "うりゅう",
-  "en": "",
-  "status": "",
+  "en": "Uryu",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1418,8 +1418,8 @@
   ],
   "max": 7,
   "jp": "瓜生麗",
-  "en": "",
-  "status": "",
+  "en": "Uryu",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1429,8 +1429,8 @@
   ],
   "max": 7,
   "jp": "ささき",
-  "en": "",
-  "status": "",
+  "en": "Sasaki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1441,8 +1441,8 @@
   ],
   "max": 11,
   "jp": "佐々木剣道",
-  "en": "",
-  "status": "",
+  "en": "Sasaki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1452,8 +1452,8 @@
   ],
   "max": 7,
   "jp": "すさ",
-  "en": "",
-  "status": "",
+  "en": "Shusha",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1463,8 +1463,8 @@
   ],
   "max": 11,
   "jp": "朱紗真悟",
-  "en": "",
-  "status": "",
+  "en": "Shusha",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1474,8 +1474,8 @@
   ],
   "max": 11,
   "jp": "げんぞう",
-  "en": "",
-  "status": "",
+  "en": "Genzo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1487,8 +1487,8 @@
   ],
   "max": 11,
   "jp": "来留間源三",
-  "en": "",
-  "status": "",
+  "en": "Genzo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1499,8 +1499,8 @@
   ],
   "max": 11,
   "jp": "シャフト",
-  "en": "",
-  "status": "",
+  "en": "Shaft",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1510,8 +1510,8 @@
   ],
   "max": 15,
   "jp": "シャフト博士",
-  "en": "",
-  "status": "",
+  "en": "Dr. Shaft",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1521,8 +1521,8 @@
   ],
   "max": 11,
   "jp": "しんいち",
-  "en": "",
-  "status": "",
+  "en": "Shinichi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1532,8 +1532,8 @@
   ],
   "max": 11,
   "jp": "来留間慎一",
-  "en": "",
-  "status": "",
+  "en": "Shinichi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1544,8 +1544,8 @@
   ],
   "max": 7,
   "jp": "ゴール",
-  "en": "",
-  "status": "",
+  "en": "Gore",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1555,8 +1555,8 @@
   ],
   "max": 19,
   "jp": "地底魔王・ゴール",
-  "en": "",
-  "status": "",
+  "en": "Demon King Gore",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1568,8 +1568,8 @@
   ],
   "max": 7,
   "jp": "モバ",
-  "en": "",
-  "status": "",
+  "en": "Moba",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1581,8 +1581,8 @@
   ],
   "max": 7,
   "jp": "ガロ",
-  "en": "",
-  "status": "",
+  "en": "Garo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1594,8 +1594,8 @@
   ],
   "max": 7,
   "jp": "ラド",
-  "en": "",
-  "status": "",
+  "en": "Rado",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1607,8 +1607,8 @@
   ],
   "max": 7,
   "jp": "ジガ",
-  "en": "",
-  "status": "",
+  "en": "Jiga",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1618,8 +1618,8 @@
   ],
   "max": 11,
   "jp": "りょうま",
-  "en": "",
-  "status": "",
+  "en": "Ryoma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1629,8 +1629,8 @@
   ],
   "max": 7,
   "jp": "流竜馬",
-  "en": "",
-  "status": "",
+  "en": "Ryoma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1641,8 +1641,8 @@
   ],
   "max": 11,
   "jp": "ゲッター３",
-  "en": "",
-  "status": "",
+  "en": "Getter 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1653,8 +1653,8 @@
   ],
   "max": 11,
   "jp": "ゲッター２",
-  "en": "",
-  "status": "",
+  "en": "Getter 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1664,8 +1664,8 @@
   ],
   "max": 11,
   "jp": "ゲッター1",
-  "en": "",
-  "status": "",
+  "en": "Getter 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1675,8 +1675,8 @@
   ],
   "max": 11,
   "jp": "ゲッター１",
-  "en": "",
-  "status": "",
+  "en": "Getter 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1686,8 +1686,8 @@
   ],
   "max": 11,
   "jp": "Ｄｒ．ヘル",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1698,8 +1698,8 @@
   ],
   "max": 15,
   "jp": "ドクター・ヘル",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1709,8 +1709,8 @@
   ],
   "max": 11,
   "jp": "ブロッケン",
-  "en": "",
-  "status": "",
+  "en": "Brocken",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1720,8 +1720,8 @@
   ],
   "max": 15,
   "jp": "ブロッケン伯爵",
-  "en": "",
-  "status": "",
+  "en": "Count Brocken",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1732,8 +1732,8 @@
   ],
   "max": 11,
   "jp": "キングダン",
-  "en": "",
-  "status": "",
+  "en": "King Dan",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1743,8 +1743,8 @@
   ],
   "max": 19,
   "jp": "キングダンＸ１０",
-  "en": "",
-  "status": "",
+  "en": "King Dan X10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1756,8 +1756,8 @@
   ],
   "max": 19,
   "jp": "ゴーストファイア",
-  "en": "",
-  "status": "",
+  "en": "Ghostfire",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1768,8 +1768,8 @@
   ],
   "max": 7,
   "jp": "ボス",
-  "en": "",
-  "status": "",
+  "en": "Boss",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1779,8 +1779,8 @@
   ],
   "max": 7,
   "jp": "さやか",
-  "en": "",
-  "status": "",
+  "en": "Sayaka",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1790,8 +1790,8 @@
   ],
   "max": 11,
   "jp": "弓さやか",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1802,8 +1802,8 @@
   ],
   "max": 15,
   "jp": "ボスボロット",
-  "en": "",
-  "status": "",
+  "en": "Borot",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1837,8 +1837,8 @@
   ],
   "max": 7,
   "jp": "こうじ",
-  "en": "",
-  "status": "",
+  "en": "Koji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1848,8 +1848,8 @@
   ],
   "max": 7,
   "jp": "兜甲児",
-  "en": "",
-  "status": "",
+  "en": "Koji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1859,8 +1859,8 @@
   ],
   "max": 7,
   "jp": "きたに",
-  "en": "",
-  "status": "",
+  "en": "Kitani",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1871,8 +1871,8 @@
   ],
   "max": 11,
   "jp": "鬼谷妖次郎",
-  "en": "",
-  "status": "",
+  "en": "Kitani",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1882,8 +1882,8 @@
   ],
   "max": 15,
   "jp": "じゃわんぼう",
-  "en": "",
-  "status": "",
+  "en": "Jawanbo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1894,8 +1894,8 @@
   ],
   "max": 11,
   "jp": "邪腕坊苦海",
-  "en": "",
-  "status": "",
+  "en": "Jawanbo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1905,8 +1905,8 @@
   ],
   "max": 15,
   "jp": "しゅてんどう",
-  "en": "",
-  "status": "",
+  "en": "Shutendo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1916,8 +1916,8 @@
   ],
   "max": 11,
   "jp": "手天童子郎",
-  "en": "",
-  "status": "",
+  "en": "Jiro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1927,8 +1927,8 @@
   ],
   "max": 7,
   "jp": "ドクロ",
-  "en": "",
-  "status": "",
+  "en": "Dokuro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1939,8 +1939,8 @@
   ],
   "max": 7,
   "jp": "怒黒",
-  "en": "",
-  "status": "",
+  "en": "Dokuro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1950,8 +1950,8 @@
   ],
   "max": 7,
   "jp": "ネコム",
-  "en": "",
-  "status": "",
+  "en": "Nekomu",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1967,8 +1967,8 @@
   ],
   "max": 7,
   "jp": "猫夢",
-  "en": "",
-  "status": "",
+  "en": "Nekomu",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1980,8 +1980,8 @@
   ],
   "max": 15,
   "jp": "ハチの巣入道",
-  "en": "",
-  "status": "",
+  "en": "HiveMonk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1991,8 +1991,8 @@
   ],
   "max": 11,
   "jp": "えんまくん",
-  "en": "",
-  "status": "",
+  "en": "Enma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2002,8 +2002,8 @@
   ],
   "max": 11,
   "jp": "えん魔くん",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2013,8 +2013,8 @@
   ],
   "max": 15,
   "jp": "だんじゅうろう",
-  "en": "",
-  "status": "",
+  "en": "Danjuro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2025,8 +2025,8 @@
   ],
   "max": 11,
   "jp": "生首団十郎",
-  "en": "",
-  "status": "",
+  "en": "Danjuro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2047,8 +2047,8 @@
   ],
   "max": 15,
   "jp": "悪馬尻菊の助",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2060,8 +2060,8 @@
   ],
   "max": 7,
   "jp": "丸ゴシ",
-  "en": "",
-  "status": "",
+  "en": "Maru G.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2099,8 +2099,8 @@
   ],
   "max": 11,
   "jp": "パラソル",
-  "en": "",
-  "status": "",
+  "en": "Parasol",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2110,8 +2110,8 @@
   ],
   "max": 11,
   "jp": "じゅうべえ",
-  "en": "",
-  "status": "",
+  "en": "Jubei",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2121,8 +2121,8 @@
   ],
   "max": 19,
   "jp": "柳生十兵衛みつ子",
-  "en": "",
-  "status": "",
+  "en": "Jubei Yagyu",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2135,8 +2135,8 @@
   ],
   "max": 15,
   "jp": "スラムキング",
-  "en": "",
-  "status": "",
+  "en": "Slum King",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2147,8 +2147,8 @@
   ],
   "max": 11,
   "jp": "ジャック",
-  "en": "",
-  "status": "",
+  "en": "Jack",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2159,8 +2159,8 @@
   ],
   "max": 23,
   "jp": "バイオレンスジャック",
-  "en": "",
-  "status": "",
+  "en": "Violence Jack",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2172,8 +2172,8 @@
   ],
   "max": 7,
   "jp": "ゼノン",
-  "en": "",
-  "status": "",
+  "en": "Zennon",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2185,8 +2185,8 @@
   ],
   "max": 11,
   "jp": "シレーヌ",
-  "en": "",
-  "status": "",
+  "en": "Sirene",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2198,8 +2198,8 @@
   ],
   "max": 11,
   "jp": "ジンメン",
-  "en": "",
-  "status": "",
+  "en": "Jinmen",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2210,8 +2210,8 @@
   ],
   "max": 7,
   "jp": "あきら",
-  "en": "",
-  "status": "",
+  "en": "Akira",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2222,8 +2222,8 @@
   ],
   "max": 7,
   "jp": "不動明",
-  "en": "",
-  "status": "",
+  "en": "Akira",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2233,8 +2233,8 @@
   ],
   "max": 15,
   "jp": "シスタージル",
-  "en": "",
-  "status": "",
+  "en": "Sister Jill",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2246,8 +2246,8 @@
   ],
   "max": 15,
   "jp": "シスター・ジル",
-  "en": "",
-  "status": "",
+  "en": "Sister Jill",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2257,8 +2257,8 @@
   ],
   "max": 15,
   "jp": "ドラゴン・Ｐ",
-  "en": "",
-  "status": "",
+  "en": "Dragon P",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2269,8 +2269,8 @@
   ],
   "max": 19,
   "jp": "ドラゴン・パンサー",
-  "en": "",
-  "status": "",
+  "en": "Dragon Panther",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2280,8 +2280,8 @@
   ],
   "max": 15,
   "jp": "シザース・Ｐ",
-  "en": "",
-  "status": "",
+  "en": "Scissor P",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2292,8 +2292,8 @@
   ],
   "max": 19,
   "jp": "シザース・パンサー",
-  "en": "",
-  "status": "",
+  "en": "Scissors Panther",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2303,8 +2303,8 @@
   ],
   "max": 15,
   "jp": "トマホーク・Ｐ",
-  "en": "",
-  "status": "",
+  "en": "T.hawk P",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2315,8 +2315,8 @@
   ],
   "max": 23,
   "jp": "トマホーク・パンサー",
-  "en": "",
-  "status": "",
+  "en": "Tomahawk Panther",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2326,8 +2326,8 @@
   ],
   "max": 19,
   "jp": "キューティーハニー",
-  "en": "",
-  "status": "",
+  "en": "Cutie Honey",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2339,8 +2339,8 @@
   ],
   "max": 7,
   "jp": "ハニー",
-  "en": "",
-  "status": "",
+  "en": "Honey",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2351,8 +2351,8 @@
   ],
   "max": 11,
   "jp": "如月ハニー",
-  "en": "",
-  "status": "",
+  "en": "Honey",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2365,8 +2365,8 @@
   ],
   "max": 11,
   "jp": "男主人公",
-  "en": "",
-  "status": "",
+  "en": "Hero",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2380,8 +2380,8 @@
   ],
   "max": 11,
   "jp": "デビルマン",
-  "en": "",
-  "status": "",
+  "en": "Devilman",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2394,8 +2394,8 @@
   ],
   "max": 15,
   "jp": "シザーアタック",
-  "en": "",
-  "status": "",
+  "en": "Scissor Cut",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2406,8 +2406,8 @@
   ],
   "max": 7,
   "jp": "ヒール",
-  "en": "",
-  "status": "",
+  "en": "Heal",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2418,8 +2418,8 @@
   ],
   "max": 15,
   "jp": "メジャーヒール",
-  "en": "",
-  "status": "",
+  "en": "Mega Heal",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2430,8 +2430,8 @@
   ],
   "max": 7,
   "jp": "キュア",
-  "en": "",
-  "status": "",
+  "en": "Cure",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2442,8 +2442,8 @@
   ],
   "max": 15,
   "jp": "キュアエイド",
-  "en": "",
-  "status": "",
+  "en": "Cure Aid",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2454,8 +2454,8 @@
   ],
   "max": 15,
   "jp": "リフレッシュ",
-  "en": "",
-  "status": "",
+  "en": "Refresh",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2466,8 +2466,8 @@
   ],
   "max": 11,
   "jp": "リカバー",
-  "en": "",
-  "status": "",
+  "en": "Recover",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2478,8 +2478,8 @@
   ],
   "max": 19,
   "jp": "メジャーリカバー",
-  "en": "",
-  "status": "",
+  "en": "Mega Recover",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2490,8 +2490,8 @@
   ],
   "max": 15,
   "jp": "アウェイクン",
-  "en": "",
-  "status": "",
+  "en": "Awaken",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2502,8 +2502,8 @@
   ],
   "max": 11,
   "jp": "リバイブ",
-  "en": "",
-  "status": "",
+  "en": "Revive",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2513,8 +2513,8 @@
   ],
   "max": 15,
   "jp": "アイテムを盗む",
-  "en": "",
-  "status": "",
+  "en": "Steal Item",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2524,8 +2524,8 @@
   ],
   "max": 19,
   "jp": "アイテムをぬすむ",
-  "en": "",
-  "status": "",
+  "en": "Steal Item",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2535,8 +2535,8 @@
   ],
   "max": 11,
   "jp": "怪しい薬",
-  "en": "",
-  "status": "",
+  "en": "Shady Drug",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2546,8 +2546,8 @@
   ],
   "max": 15,
   "jp": "あやしいくすり",
-  "en": "",
-  "status": "",
+  "en": "Shady Drug",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2557,8 +2557,8 @@
   ],
   "max": 7,
   "jp": "威圧",
-  "en": "",
-  "status": "",
+  "en": "Menace",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2568,8 +2568,8 @@
   ],
   "max": 7,
   "jp": "いあつ",
-  "en": "",
-  "status": "",
+  "en": "Menace",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2579,8 +2579,8 @@
   ],
   "max": 7,
   "jp": "応援",
-  "en": "",
-  "status": "",
+  "en": "Cheer",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2590,8 +2590,8 @@
   ],
   "max": 11,
   "jp": "おうえん",
-  "en": "",
-  "status": "",
+  "en": "Cheer",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2601,8 +2601,8 @@
   ],
   "max": 11,
   "jp": "お金を盗む",
-  "en": "",
-  "status": "",
+  "en": "Steal Cash",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2612,8 +2612,8 @@
   ],
   "max": 15,
   "jp": "おかねをぬすむ",
-  "en": "",
-  "status": "",
+  "en": "Steal Cash",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2623,8 +2623,8 @@
   ],
   "max": 7,
   "jp": "怪力",
-  "en": "",
-  "status": "",
+  "en": "Brawn",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2634,8 +2634,8 @@
   ],
   "max": 11,
   "jp": "かいりき",
-  "en": "",
-  "status": "",
+  "en": "Brawn",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2645,8 +2645,8 @@
   ],
   "max": 7,
   "jp": "隠れる",
-  "en": "",
-  "status": "",
+  "en": "Hide",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2656,8 +2656,8 @@
   ],
   "max": 11,
   "jp": "かくれる",
-  "en": "",
-  "status": "",
+  "en": "Hide",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2667,8 +2667,8 @@
   ],
   "max": 11,
   "jp": "噛み付く",
-  "en": "",
-  "status": "",
+  "en": "Bite",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2678,8 +2678,8 @@
   ],
   "max": 11,
   "jp": "かみつく",
-  "en": "",
-  "status": "",
+  "en": "Bite",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2690,8 +2690,8 @@
   ],
   "max": 7,
   "jp": "強打",
-  "en": "",
-  "status": "",
+  "en": "Smash",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2702,8 +2702,8 @@
   ],
   "max": 11,
   "jp": "きょうだ",
-  "en": "",
-  "status": "",
+  "en": "Smash",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2714,8 +2714,8 @@
   ],
   "max": 11,
   "jp": "斬りつける",
-  "en": "",
-  "status": "",
+  "en": "Slash",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2726,8 +2726,8 @@
   ],
   "max": 11,
   "jp": "きりつける",
-  "en": "",
-  "status": "",
+  "en": "Slash",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2737,8 +2737,8 @@
   ],
   "max": 7,
   "jp": "黒い息",
-  "en": "",
-  "status": "",
+  "en": "Miasma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2748,8 +2748,8 @@
   ],
   "max": 11,
   "jp": "くろいいき",
-  "en": "",
-  "status": "",
+  "en": "Miasma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2760,8 +2760,8 @@
   ],
   "max": 11,
   "jp": "ケシゴム",
-  "en": "",
-  "status": "",
+  "en": "Eraser",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2772,8 +2772,8 @@
   ],
   "max": 19,
   "jp": "ゲッターウィング",
-  "en": "",
-  "status": "",
+  "en": "Getter Wing",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2784,8 +2784,8 @@
   ],
   "max": 15,
   "jp": "ゲッターキック",
-  "en": "",
-  "status": "",
+  "en": "Getter Kick",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2798,8 +2798,8 @@
   ],
   "max": 7,
   "jp": "光線銃",
-  "en": "",
-  "status": "",
+  "en": "Ray Gun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2809,8 +2809,8 @@
   ],
   "max": 7,
   "jp": "強奪",
-  "en": "",
-  "status": "",
+  "en": "Plunder",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2820,8 +2820,8 @@
   ],
   "max": 11,
   "jp": "ごうだつ",
-  "en": "",
-  "status": "",
+  "en": "Plunder",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2831,8 +2831,8 @@
   ],
   "max": 7,
   "jp": "自爆",
-  "en": "",
-  "status": "",
+  "en": "Explode",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2842,8 +2842,8 @@
   ],
   "max": 7,
   "jp": "じばく",
-  "en": "",
-  "status": "",
+  "en": "Explode",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2853,8 +2853,8 @@
   ],
   "max": 7,
   "jp": "獣人化",
-  "en": "",
-  "status": "",
+  "en": "Feral",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2864,8 +2864,8 @@
   ],
   "max": 15,
   "jp": "じゅうじんか",
-  "en": "",
-  "status": "",
+  "en": "Feral",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2875,8 +2875,8 @@
   ],
   "max": 23,
   "jp": "ジェットスクランダー",
-  "en": "",
-  "status": "",
+  "en": "Jet Scrander",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2886,8 +2886,8 @@
   ],
   "max": 19,
   "jp": "Ｊ・スクランダー",
-  "en": "",
-  "status": "",
+  "en": "Jet Scrander",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2898,8 +2898,8 @@
   ],
   "max": 11,
   "jp": "精神攻撃",
-  "en": "",
-  "status": "",
+  "en": "Mind Blast",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2910,8 +2910,8 @@
   ],
   "max": 19,
   "jp": "せいしんこうげき",
-  "en": "",
-  "status": "",
+  "en": "Mind Blast",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2921,8 +2921,8 @@
   ],
   "max": 11,
   "jp": "精神崩壊",
-  "en": "",
-  "status": "",
+  "en": "Mind Break",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2932,8 +2932,8 @@
   ],
   "max": 19,
   "jp": "せいしんほうかい",
-  "en": "",
-  "status": "",
+  "en": "Mind Break",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2943,8 +2943,8 @@
   ],
   "max": 11,
   "jp": "体当たり",
-  "en": "",
-  "status": "",
+  "en": "Tackle",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2954,8 +2954,8 @@
   ],
   "max": 11,
   "jp": "たいあたり",
-  "en": "",
-  "status": "",
+  "en": "Tackle",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2965,8 +2965,8 @@
   ],
   "max": 7,
   "jp": "鷹の翼",
-  "en": "",
-  "status": "",
+  "en": "Skyhawk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2976,8 +2976,8 @@
   ],
   "max": 15,
   "jp": "たかのツバサ",
-  "en": "",
-  "status": "",
+  "en": "Skyhawk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2987,8 +2987,8 @@
   ],
   "max": 11,
   "jp": "力を溜める",
-  "en": "",
-  "status": "",
+  "en": "Charge Up",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2998,8 +2998,8 @@
   ],
   "max": 11,
   "jp": "力をためる",
-  "en": "",
-  "status": "",
+  "en": "Charge Up",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3009,8 +3009,8 @@
   ],
   "max": 7,
   "jp": "調査",
-  "en": "",
-  "status": "",
+  "en": "Analyze",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3020,8 +3020,8 @@
   ],
   "max": 11,
   "jp": "ちょうさ",
-  "en": "",
-  "status": "",
+  "en": "Analyze",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3036,8 +3036,8 @@
   ],
   "max": 11,
   "jp": "鉄パイプ",
-  "en": "",
-  "status": "",
+  "en": "Iron Pipe",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3048,8 +3048,8 @@
   ],
   "max": 15,
   "jp": "デビルウィング",
-  "en": "",
-  "status": "",
+  "en": "Devil Wing",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3059,8 +3059,8 @@
   ],
   "max": 7,
   "jp": "突破",
-  "en": "",
-  "status": "",
+  "en": "Breach",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3070,8 +3070,8 @@
   ],
   "max": 7,
   "jp": "とっぱ",
-  "en": "",
-  "status": "",
+  "en": "Breach",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3083,8 +3083,8 @@
   ],
   "max": 7,
   "jp": "殴る",
-  "en": "",
-  "status": "",
+  "en": "Punch",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3096,8 +3096,8 @@
   ],
   "max": 7,
   "jp": "なぐる",
-  "en": "",
-  "status": "",
+  "en": "Punch",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3110,8 +3110,8 @@
   ],
   "max": 19,
   "jp": "ハニーフラッシュ",
-  "en": "",
-  "status": "",
+  "en": "Honey Flash",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3122,8 +3122,8 @@
   ],
   "max": 7,
   "jp": "バリア",
-  "en": "",
-  "status": "",
+  "en": "Barrier",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3134,8 +3134,8 @@
   ],
   "max": 11,
   "jp": "バリアバチ",
-  "en": "",
-  "status": "",
+  "en": "Barrier Bee",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3146,8 +3146,8 @@
   ],
   "max": 19,
   "jp": "パンサーウォーク",
-  "en": "",
-  "status": "",
+  "en": "Panther Walk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3157,8 +3157,8 @@
   ],
   "max": 11,
   "jp": "反射神経",
-  "en": "",
-  "status": "",
+  "en": "Reflexes",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3168,8 +3168,8 @@
   ],
   "max": 19,
   "jp": "はんしゃしんけい",
-  "en": "",
-  "status": "",
+  "en": "Reflexes",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3179,8 +3179,8 @@
   ],
   "max": 11,
   "jp": "引っかく",
-  "en": "",
-  "status": "",
+  "en": "Scratch",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3190,8 +3190,8 @@
   ],
   "max": 11,
   "jp": "ひっかく",
-  "en": "",
-  "status": "",
+  "en": "Scratch",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3202,8 +3202,8 @@
   ],
   "max": 11,
   "jp": "平手打ち",
-  "en": "",
-  "status": "",
+  "en": "Slap",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3214,8 +3214,8 @@
   ],
   "max": 11,
   "jp": "ひらてうち",
-  "en": "",
-  "status": "",
+  "en": "Slap",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3226,8 +3226,8 @@
   ],
   "max": 19,
   "jp": "フィンガーロープ",
-  "en": "",
-  "status": "",
+  "en": "Finger Rope",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3237,8 +3237,8 @@
   ],
   "max": 7,
   "jp": "古い薬",
-  "en": "",
-  "status": "",
+  "en": "Old Med",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3248,8 +3248,8 @@
   ],
   "max": 11,
   "jp": "古いくすり",
-  "en": "",
-  "status": "",
+  "en": "Old Med",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3264,8 +3264,8 @@
   ],
   "max": 7,
   "jp": "変身",
-  "en": "",
-  "status": "",
+  "en": "Morph",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3280,8 +3280,8 @@
   ],
   "max": 11,
   "jp": "へんしん",
-  "en": "",
-  "status": "",
+  "en": "Morph",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3296,8 +3296,8 @@
   ],
   "max": 7,
   "jp": "ガン",
-  "en": "",
-  "status": "",
+  "en": "Gun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3308,8 +3308,8 @@
   ],
   "max": 15,
   "jp": "マッハスピード",
-  "en": "",
-  "status": "",
+  "en": "Mach Speed",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3320,8 +3320,8 @@
   ],
   "max": 11,
   "jp": "ミサイル",
-  "en": "",
-  "status": "",
+  "en": "Missile",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3331,8 +3331,8 @@
   ],
   "max": 7,
   "jp": "目立つ",
-  "en": "",
-  "status": "",
+  "en": "Flaunt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3342,8 +3342,8 @@
   ],
   "max": 7,
   "jp": "めだつ",
-  "en": "",
-  "status": "",
+  "en": "Flaunt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3353,8 +3353,8 @@
   ],
   "max": 7,
   "jp": "目潰し",
-  "en": "",
-  "status": "",
+  "en": "Eye Jab",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3364,8 +3364,8 @@
   ],
   "max": 11,
   "jp": "めつぶし",
-  "en": "",
-  "status": "",
+  "en": "Eye Jab",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3376,8 +3376,8 @@
   ],
   "max": 15,
   "jp": "妖マントバリア",
-  "en": "",
-  "status": "",
+  "en": "Mantle Barrier",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3388,8 +3388,8 @@
   ],
   "max": 7,
   "jp": "予知",
-  "en": "",
-  "status": "",
+  "en": "Foresee",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3400,8 +3400,8 @@
   ],
   "max": 11,
   "jp": "らくがき",
-  "en": "",
-  "status": "",
+  "en": "Doodle",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3412,8 +3412,8 @@
   ],
   "max": 11,
   "jp": "完全知覚",
-  "en": "",
-  "status": "",
+  "en": "Total Sense",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3423,8 +3423,8 @@
   ],
   "max": 15,
   "jp": "３連マグナム",
-  "en": "",
-  "status": "",
+  "en": "Tri-Magnum",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3434,8 +3434,8 @@
   ],
   "max": 15,
   "jp": "３れんマグナム",
-  "en": "",
-  "status": "",
+  "en": "Tri-Magnum",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3445,8 +3445,8 @@
   ],
   "max": 19,
   "jp": "アフロダイミサイル",
-  "en": "",
-  "status": "",
+  "en": "Aphro Missile",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3456,8 +3456,8 @@
   ],
   "max": 15,
   "jp": "Ａ・ミサイル",
-  "en": "",
-  "status": "",
+  "en": "Aphro Missile",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3489,8 +3489,8 @@
   ],
   "max": 11,
   "jp": "悪魔の髪",
-  "en": "",
-  "status": "",
+  "en": "Devil Hair",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3500,8 +3500,8 @@
   ],
   "max": 15,
   "jp": "あくまのかみ",
-  "en": "",
-  "status": "",
+  "en": "Devil Hair",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3511,8 +3511,8 @@
   ],
   "max": 7,
   "jp": "悪夢",
-  "en": "",
-  "status": "",
+  "en": "Dread",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3522,8 +3522,8 @@
   ],
   "max": 7,
   "jp": "あくむ",
-  "en": "",
-  "status": "",
+  "en": "Dread",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3534,8 +3534,8 @@
   ],
   "max": 11,
   "jp": "アシッド",
-  "en": "",
-  "status": "",
+  "en": "Acid",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3546,8 +3546,8 @@
   ],
   "max": 15,
   "jp": "アタックバチ",
-  "en": "",
-  "status": "",
+  "en": "Attack Bee",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3558,8 +3558,8 @@
   ],
   "max": 15,
   "jp": "アルフォンヌ砲",
-  "en": "",
-  "status": "",
+  "en": "Alphonne Gun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3569,8 +3569,8 @@
   ],
   "max": 7,
   "jp": "稲妻",
-  "en": "",
-  "status": "",
+  "en": "Bolt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3580,8 +3580,8 @@
   ],
   "max": 11,
   "jp": "イナズマ",
-  "en": "",
-  "status": "",
+  "en": "Bolt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3591,8 +3591,8 @@
   ],
   "max": 15,
   "jp": "腕マシンガン",
-  "en": "",
-  "status": "",
+  "en": "Arm Gatling",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3602,8 +3602,8 @@
   ],
   "max": 15,
   "jp": "うでマシンガン",
-  "en": "",
-  "status": "",
+  "en": "Arm Gatling",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3613,8 +3613,8 @@
   ],
   "max": 15,
   "jp": "オオカミ戦法",
-  "en": "",
-  "status": "",
+  "en": "Wolf Tactics",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3624,8 +3624,8 @@
   ],
   "max": 19,
   "jp": "オオカミせんぽう",
-  "en": "",
-  "status": "",
+  "en": "Wolf Tactics",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3636,8 +3636,8 @@
   ],
   "max": 7,
   "jp": "大爪",
-  "en": "",
-  "status": "",
+  "en": "Bigclaw",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3647,8 +3647,8 @@
   ],
   "max": 19,
   "jp": "おっぴろげジャンプ",
-  "en": "",
-  "status": "",
+  "en": "Spread Jump",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3658,8 +3658,8 @@
   ],
   "max": 15,
   "jp": "おっぴろげＪ",
-  "en": "",
-  "status": "",
+  "en": "Spread Jump",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3669,8 +3669,8 @@
   ],
   "max": 11,
   "jp": "鬼絵巻き",
-  "en": "",
-  "status": "",
+  "en": "Oni Scroll",
+  "status": "done",
   "notes": ""
  }
 ]

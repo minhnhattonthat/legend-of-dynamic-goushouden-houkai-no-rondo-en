@@ -6,8 +6,8 @@
   ],
   "max": 15,
   "jp": "逃げられない！",
-  "en": "",
-  "status": "",
+  "en": "Can't escape!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
   ],
   "max": 23,
   "jp": "敵は逃げようとした！",
-  "en": "",
-  "status": "",
+  "en": "Enemy tried to flee!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
   ],
   "max": 19,
   "jp": "逃げられなかった！",
-  "en": "",
-  "status": "",
+  "en": "Couldn't escape!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
   ],
   "max": 11,
   "jp": "を盗んだ！",
-  "en": "",
-  "status": "",
+  "en": "stolen!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -51,8 +51,8 @@
   ],
   "max": 15,
   "jp": "盗めなかった！",
-  "en": "",
-  "status": "",
+  "en": "Couldn't steal!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -62,8 +62,8 @@
   ],
   "max": 15,
   "jp": "円を盗んだ！",
-  "en": "",
-  "status": "",
+  "en": "yen stolen!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -73,8 +73,8 @@
   ],
   "max": 27,
   "jp": "迷惑探偵!![0A] イボ痔小五郎",
-  "en": "",
-  "status": "",
+  "en": "Pest Sleuth!![0A] Kogoro Iboji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -84,8 +84,8 @@
   ],
   "max": 15,
   "jp": "マジンガーＺ",
-  "en": "",
-  "status": "",
+  "en": "Mazinger Z",
+  "status": "done",
   "notes": ""
  },
  {
@@ -106,8 +106,8 @@
   ],
   "max": 11,
   "jp": "魔王ダンテ",
-  "en": "",
-  "status": "",
+  "en": "Mao Dante",
+  "status": "done",
   "notes": ""
  },
  {
@@ -117,8 +117,8 @@
   ],
   "max": 15,
   "jp": "ハレンチ学園",
-  "en": "",
-  "status": "",
+  "en": "Harenchi Gakuen",
+  "status": "done",
   "notes": ""
  },
  {
@@ -128,8 +128,8 @@
   ],
   "max": 23,
   "jp": "バイオレンスジャック",
-  "en": "",
-  "status": "",
+  "en": "Violence Jack",
+  "status": "done",
   "notes": ""
  },
  {
@@ -139,8 +139,8 @@
   ],
   "max": 19,
   "jp": "ドロロンえん魔くん",
-  "en": "",
-  "status": "",
+  "en": "Dororon Enma-kun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -150,8 +150,8 @@
   ],
   "max": 11,
   "jp": "デビルマン",
-  "en": "",
-  "status": "",
+  "en": "Devilman",
+  "status": "done",
   "notes": ""
  },
  {
@@ -172,8 +172,8 @@
   ],
   "max": 11,
   "jp": "手天童子",
-  "en": "",
-  "status": "",
+  "en": "Shutendoji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -194,8 +194,8 @@
   ],
   "max": 7,
   "jp": "原作者",
-  "en": "",
-  "status": "",
+  "en": "Creator",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
   ],
   "max": 15,
   "jp": "ゲッターロボ",
-  "en": "",
-  "status": "",
+  "en": "Getter Robo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
   ],
   "max": 15,
   "jp": "けっこう仮面",
-  "en": "",
-  "status": "",
+  "en": "Kekko Kamen",
+  "status": "done",
   "notes": ""
  },
  {
@@ -227,8 +227,8 @@
   ],
   "max": 11,
   "jp": "虚無戦記",
-  "en": "",
-  "status": "",
+  "en": "Kyomu Senki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -238,8 +238,8 @@
   ],
   "max": 19,
   "jp": "キューティーハニー",
-  "en": "",
-  "status": "",
+  "en": "Cutie Honey",
+  "status": "done",
   "notes": ""
  },
  {
@@ -249,8 +249,8 @@
   ],
   "max": 15,
   "jp": "キッカイくん",
-  "en": "",
-  "status": "",
+  "en": "Kikkai-kun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -260,8 +260,8 @@
   ],
   "max": 15,
   "jp": "オモライくん",
-  "en": "",
-  "status": "",
+  "en": "Omorai-kun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -282,8 +282,8 @@
   ],
   "max": 15,
   "jp": "イヤハヤ南友",
-  "en": "",
-  "status": "",
+  "en": "Iyahaya Nanyu",
+  "status": "done",
   "notes": ""
  },
  {
@@ -293,8 +293,8 @@
   ],
   "max": 15,
   "jp": "あばしり一家",
-  "en": "",
-  "status": "",
+  "en": "Abashiri Family",
+  "status": "done",
   "notes": ""
  },
  {
@@ -304,8 +304,8 @@
   ],
   "max": 19,
   "jp": "あにまるケダマン",
-  "en": "",
-  "status": "",
+  "en": "Animaru Kedaman",
+  "status": "done",
   "notes": ""
  },
  {
@@ -326,8 +326,8 @@
   ],
   "max": 27,
   "jp": "　株式会社バンプレソフト",
-  "en": "",
-  "status": "",
+  "en": " Banpresoft Co., Ltd.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -337,8 +337,8 @@
   ],
   "max": 11,
   "jp": "企画・製作",
-  "en": "",
-  "status": "",
+  "en": "Production",
+  "status": "done",
   "notes": ""
  },
  {
@@ -348,8 +348,8 @@
   ],
   "max": 23,
   "jp": "　株式会社バンプレスト",
-  "en": "",
-  "status": "",
+  "en": " Banpresto Co., Ltd.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -359,8 +359,8 @@
   ],
   "max": 7,
   "jp": "販売",
-  "en": "",
-  "status": "",
+  "en": "Sold by",
+  "status": "done",
   "notes": ""
  },
  {
@@ -370,8 +370,8 @@
   ],
   "max": 35,
   "jp": "株式会社ダイナミックプロダクション",
-  "en": "",
-  "status": "",
+  "en": "Dynamic Production Co., Ltd.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -381,8 +381,8 @@
   ],
   "max": 7,
   "jp": "協力",
-  "en": "",
-  "status": "",
+  "en": "Support",
+  "status": "done",
   "notes": ""
  },
  {
@@ -392,8 +392,8 @@
   ],
   "max": 27,
   "jp": "　ポールトゥウィン株式会社",
-  "en": "",
-  "status": "",
+  "en": " Pole To Win Co., Ltd.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -403,8 +403,8 @@
   ],
   "max": 11,
   "jp": "デバッグ",
-  "en": "",
-  "status": "",
+  "en": "Debugging",
+  "status": "done",
   "notes": ""
  },
  {
@@ -414,8 +414,8 @@
   ],
   "max": 23,
   "jp": "　株式会社キュービスト",
-  "en": "",
-  "status": "",
+  "en": " Cubist Co., Ltd.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
   ],
   "max": 15,
   "jp": "アートワーク",
-  "en": "",
-  "status": "",
+  "en": "Artwork",
+  "status": "done",
   "notes": ""
  },
  {
@@ -458,8 +458,8 @@
   ],
   "max": 15,
   "jp": "プロモーション",
-  "en": "",
-  "status": "",
+  "en": "Promotion",
+  "status": "done",
   "notes": ""
  },
  {
@@ -570,8 +570,8 @@
   ],
   "max": 11,
   "jp": "サンクス",
-  "en": "",
-  "status": "",
+  "en": "Thanks",
+  "status": "done",
   "notes": ""
  },
  {
@@ -614,8 +614,8 @@
   ],
   "max": 15,
   "jp": "グラフィック",
-  "en": "",
-  "status": "",
+  "en": "Graphics",
+  "status": "done",
   "notes": ""
  },
  {
@@ -647,8 +647,8 @@
   ],
   "max": 11,
   "jp": "プログラム",
-  "en": "",
-  "status": "",
+  "en": "Programming",
+  "status": "done",
   "notes": ""
  },
  {
@@ -680,8 +680,8 @@
   ],
   "max": 11,
   "jp": "プランナー",
-  "en": "",
-  "status": "",
+  "en": "Planners",
+  "status": "done",
   "notes": ""
  },
  {
@@ -691,8 +691,8 @@
   ],
   "max": 19,
   "jp": "　　　 NoisyCroak",
-  "en": "",
-  "status": "",
+  "en": "    NoisyCroak",
+  "status": "done",
   "notes": ""
  },
  {
@@ -702,8 +702,8 @@
   ],
   "max": 19,
   "jp": "　　　 坂本 英城",
-  "en": "",
-  "status": "",
+  "en": "    Hideki Sakamoto",
+  "status": "done",
   "notes": ""
  },
  {
@@ -713,8 +713,8 @@
   ],
   "max": 15,
   "jp": "　　サウンド",
-  "en": "",
-  "status": "",
+  "en": "  Sound",
+  "status": "done",
   "notes": ""
  },
  {
@@ -724,8 +724,8 @@
   ],
   "max": 19,
   "jp": "　　　 茂木 岳雄",
-  "en": "",
-  "status": "",
+  "en": "    Takeo Mogi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
   ],
   "max": 27,
   "jp": "ゲームオリジナルシナリオ",
-  "en": "",
-  "status": "",
+  "en": "Original Game Scenario",
+  "status": "done",
   "notes": ""
  },
  {
@@ -746,8 +746,8 @@
   ],
   "max": 15,
   "jp": "　　佐伯 紀幸",
-  "en": "",
-  "status": "",
+  "en": " Noriyuki Saeki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -757,8 +757,8 @@
   ],
   "max": 19,
   "jp": "開発ディレクター",
-  "en": "",
-  "status": "",
+  "en": "Dev. Director",
+  "status": "done",
   "notes": ""
  },
  {
@@ -768,8 +768,8 @@
   ],
   "max": 15,
   "jp": "　　蓮沼 尚夫",
-  "en": "",
-  "status": "",
+  "en": " Hisao Hasunuma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -779,8 +779,8 @@
   ],
   "max": 19,
   "jp": "開発プロデューサー",
-  "en": "",
-  "status": "",
+  "en": "Dev. Producer",
+  "status": "done",
   "notes": ""
  },
  {
@@ -790,8 +790,8 @@
   ],
   "max": 15,
   "jp": "株式会社ウィル",
-  "en": "",
-  "status": "",
+  "en": "Will Co., Ltd.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -812,8 +812,8 @@
   ],
   "max": 15,
   "jp": "ディレクター",
-  "en": "",
-  "status": "",
+  "en": "Director",
+  "status": "done",
   "notes": ""
  },
  {
@@ -823,8 +823,8 @@
   ],
   "max": 15,
   "jp": "　　土井 信一",
-  "en": "",
-  "status": "",
+  "en": " Shinichi Doi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -834,8 +834,8 @@
   ],
   "max": 23,
   "jp": "プロダクトマネージャー",
-  "en": "",
-  "status": "",
+  "en": "Product Manager",
+  "status": "done",
   "notes": ""
  },
  {
@@ -856,8 +856,8 @@
   ],
   "max": 19,
   "jp": "総合プロデューサー",
-  "en": "",
-  "status": "",
+  "en": "Executive Producer",
+  "status": "done",
   "notes": ""
  },
  {
@@ -890,8 +890,8 @@
   ],
   "max": 27,
   "jp": "ダイナミック企画株式会社",
-  "en": "",
-  "status": "",
+  "en": "Dynamic Planning Co., Ltd.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -917,8 +917,8 @@
   ],
   "max": 23,
   "jp": "テクニカルアドバイス",
-  "en": "",
-  "status": "",
+  "en": "Technical Advice",
+  "status": "done",
   "notes": ""
  },
  {
@@ -928,8 +928,8 @@
   ],
   "max": 31,
   "jp": "　永井 豪　　　　　　石川 賢",
-  "en": "",
-  "status": "",
+  "en": " Go Nagai      Ken Ishikawa",
+  "status": "done",
   "notes": ""
  }
 ]

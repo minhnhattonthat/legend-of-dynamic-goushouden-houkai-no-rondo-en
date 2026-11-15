@@ -1,0 +1,96 @@
+r0DE014		rom:item_desc_rom	23 bytes	防御属性【熱】＋１０
+r0DE02C		rom:item_desc_rom	23 bytes	防御属性【叩】＋１０
+r0DE044		rom:item_desc_rom	23 bytes	防御属性【斬】＋１０
+r0DE05C		rom:item_desc_rom	23 bytes	防御属性【精神】＋５
+r0DE074		rom:item_desc_rom	19 bytes	防御属性【雷】＋５
+r0DE088		rom:item_desc_rom	19 bytes	防御属性【冷】＋５
+r0DE09C		rom:item_desc_rom	19 bytes	防御属性【熱】＋５
+r0DE0B0		rom:item_desc_rom	19 bytes	防御属性【叩】＋５
+r0DE0C4		rom:item_desc_rom	19 bytes	防御属性【斬】＋５
+r0DE0D8		rom:item_desc_rom	23 bytes	攻撃属性【精神】＋１０
+r0DE0F0		rom:item_desc_rom	23 bytes	攻撃属性【雷】＋１０
+r0DE108		rom:item_desc_rom	23 bytes	攻撃属性【冷】＋１０
+r0DE120		rom:item_desc_rom	23 bytes	攻撃属性【熱】＋１０
+r0DE138		rom:item_desc_rom	23 bytes	攻撃属性【叩】＋１０
+r0DE150		rom:item_desc_rom	23 bytes	攻撃属性【斬】＋１０
+r0DE168		rom:item_desc_rom	23 bytes	攻撃属性【精神】＋５
+r0DE180		rom:item_desc_rom	19 bytes	攻撃属性【雷】＋５
+r0DE194		rom:item_desc_rom	19 bytes	攻撃属性【冷】＋５
+r0DE1A8		rom:item_desc_rom	19 bytes	攻撃属性【熱】＋５
+r0DE1BC		rom:item_desc_rom	19 bytes	攻撃属性【叩】＋５
+r0DE1D0		rom:item_desc_rom	19 bytes	攻撃属性【斬】＋５
+r0DE1E4		rom:item_desc_rom	15 bytes	ＨＰ＋２５％
+r0DE1F4		rom:item_desc_rom	27 bytes	ＨＰ＋２０％（男性専用）
+r0DE210		rom:item_desc_rom	15 bytes	ＨＰ＋１５％
+r0DE220		rom:item_desc_rom	27 bytes	ＨＰ＋１０％（男性専用）
+r0DE23C		rom:item_desc_rom	11 bytes	ＨＰ＋５％
+r0DE248		rom:item_desc_rom	15 bytes	ＤＰ＋２５％
+r0DE258		rom:item_desc_rom	27 bytes	ＤＰ＋２０％（女性専用）
+r0DE274		rom:item_desc_rom	15 bytes	ＤＰ＋１５％
+r0DE284		rom:item_desc_rom	27 bytes	ＤＰ＋１０％（女性専用）
+r0DE2A0		rom:item_desc_rom	11 bytes	ＤＰ＋５％
+r0DE2AC		rom:item_desc_rom	15 bytes	ＤＦ＋２０％
+r0DE2BC		rom:item_desc_rom	15 bytes	ＤＦ＋１５％
+r0DE2CC		rom:item_desc_rom	15 bytes	ＤＦ＋１０％
+r0DE2DC		rom:item_desc_rom	11 bytes	ＤＦ＋２０
+r0DE2E8		rom:item_desc_rom	11 bytes	ＤＦ＋１５
+r0DE2F4		rom:item_desc_rom	11 bytes	ＤＦ＋１０
+r0DE300		rom:item_desc_rom	11 bytes	ＤＦ＋５
+r0DE30C		rom:item_desc_rom	27 bytes	ＤＸ＋１５％（女性専用）
+r0DE328		rom:item_desc_rom	23 bytes	ＤＸ＋１０（女性専用）
+r0DE340		rom:item_desc_rom	23 bytes	ＤＸ＋５（女性専用）
+r0DE358		rom:item_desc_rom	27 bytes	ＤＸ＋１５％（男性専用）
+r0DE374		rom:item_desc_rom	23 bytes	ＤＸ＋１０（男性専用）
+r0DE38C		rom:item_desc_rom	23 bytes	ＤＸ＋５（男性専用）
+r0DE3A4		rom:item_desc_rom	15 bytes	ＡＴ＋１５％
+r0DE3B4		rom:item_desc_rom	15 bytes	ＡＴ＋１０％
+r0DE3C4		rom:item_desc_rom	11 bytes	ＡＴ＋２０
+r0DE3D0		rom:item_desc_rom	11 bytes	ＡＴ＋１５
+r0DE3DC		rom:item_desc_rom	11 bytes	ＡＴ＋１０
+r0DE3E8		rom:item_desc_rom	11 bytes	ＡＴ＋５
+r0DE3F4		rom:item_desc_rom	27 bytes	お腹が空いた時に食べよう
+r0DE410		rom:item_desc_rom	27 bytes	味方全体の状態異常を治療
+r0DE42C		rom:item_desc_rom	31 bytes	味方全体のＨＰを２５０程度回復
+r0DE44C		rom:item_desc_rom	31 bytes	味方全体のＨＰを８０程度回復
+r0DE46C		rom:item_desc_rom	23 bytes	敵全体に【毒】を与える
+r0DE484		rom:item_desc_rom	27 bytes	敵全体に【暗闇】を与える
+r0DE4A0		rom:item_desc_rom	23 bytes	敵全体に【熱】属性攻撃
+r0DE4B8		rom:item_desc_rom	23 bytes	敵単体に【熱】属性攻撃
+r0DE4D0		rom:item_desc_rom	19 bytes	敵単体のＤＸが減少
+r0DE4E4		rom:item_desc_rom	19 bytes	敵単体のＤＦが減少
+r0DE4F8		rom:item_desc_rom	23 bytes	味方単体のＤＸが上昇
+r0DE510		rom:item_desc_rom	23 bytes	味方単体のＤＦが上昇
+r0DE528		rom:item_desc_rom	23 bytes	味方単体のＡＴが上昇
+r0DE540		rom:item_desc_rom	27 bytes	通常戦闘から100％逃げ出せる
+r0DE55C		rom:item_desc_rom	19 bytes	敵単体を混乱させる
+r0DE570		rom:item_desc_rom	19 bytes	敵単体を魅了する
+r0DE584		rom:item_desc_rom	19 bytes	敵単体を眠らせる
+r0DE598		rom:item_desc_rom	19 bytes	敵単体を暗闇にする
+r0DE5AC		rom:item_desc_rom	15 bytes	戦闘不能を治療
+r0DE5BC		rom:item_desc_rom	31 bytes	戦闘不能以外の状態異常を治療
+r0DE5DC		rom:item_desc_rom	27 bytes	石化、凍結、魅了以外を治療
+r0DE5F8		rom:item_desc_rom	31 bytes	味方単体のＤＰを８０程度回復
+r0DE618		rom:item_desc_rom	31 bytes	味方単体のＤＰを３０程度回復
+r0DE638		rom:item_desc_rom	31 bytes	味方単体のＨＰを２５０程度回復
+r0DE658		rom:item_desc_rom	31 bytes	味方単体のＨＰを８０程度回復
+r0DE678		rom:item_desc_rom	31 bytes	味方単体のＨＰを３０程度回復
+r0DE698		rom:item_desc_rom	15 bytes	アイテム説明
+r0DE6A8		rom:enemy_name	7 bytes, 230 px	下忍
+r0DE6B0		rom:enemy_name	15 bytes, 230 px	魔王グレイド
+r0DE6C0		rom:enemy_name	11 bytes, 230 px	暴走メカ
+r0DE6CC		rom:enemy_name	15 bytes, 230 px	操られた仲間
+r0DE6DC		rom:enemy_name	7 bytes, 230 px	暴徒
+r0DE6E4		rom:enemy_name	7 bytes, 230 px	機械獣
+r0DE6EC		rom:enemy_name	15 bytes, 230 px	ハチュウ人類
+r0DE6FC		rom:enemy_name	15 bytes, 230 px	魔獣ハンター
+r0DE70C		rom:enemy_name	7 bytes, 230 px	幻魔衆
+r0DE714		rom:enemy_name	7 bytes, 230 px	争魔衆
+r0DE71C		rom:enemy_name	7 bytes, 230 px	暴走族
+r0DE724		rom:enemy_name	7 bytes, 230 px	無法者
+r0DE72C		rom:enemy_name	19 bytes, 230 px	パラダイス中学生
+r0DE740		rom:enemy_name	11 bytes, 230 px	帝国軍人
+r0DE74C		rom:enemy_name	11 bytes, 230 px	不良学生
+r0DE758		rom:enemy_name	15 bytes, 230 px	死神警察　署長
+r0DE768		rom:enemy_name	11 bytes, 230 px	死神警察
+r0DE774		rom:enemy_name	7 bytes, 230 px	外道会
+r0DE77C		rom:enemy_name	15 bytes, 230 px	パンサー団員

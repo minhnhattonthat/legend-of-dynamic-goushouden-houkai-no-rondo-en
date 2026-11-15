@@ -7,8 +7,8 @@
   ],
   "max": 19,
   "jp": "マインドシンボル",
-  "en": "",
-  "status": "",
+  "en": "Mind Symbol",
+  "status": "done",
   "notes": ""
  },
  {
@@ -19,8 +19,8 @@
   ],
   "max": 19,
   "jp": "サンダーシンボル",
-  "en": "",
-  "status": "",
+  "en": "Bolt Symbol",
+  "status": "done",
   "notes": ""
  },
  {
@@ -31,8 +31,8 @@
   ],
   "max": 15,
   "jp": "アイスシンボル",
-  "en": "",
-  "status": "",
+  "en": "Ice Symbol",
+  "status": "done",
   "notes": ""
  },
  {
@@ -43,8 +43,8 @@
   ],
   "max": 19,
   "jp": "ファイアシンボル",
-  "en": "",
-  "status": "",
+  "en": "Fire Symbol",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
   ],
   "max": 19,
   "jp": "ハンマーシンボル",
-  "en": "",
-  "status": "",
+  "en": "Blunt Symbol",
+  "status": "done",
   "notes": ""
  },
  {
@@ -67,8 +67,8 @@
   ],
   "max": 15,
   "jp": "ソードシンボル",
-  "en": "",
-  "status": "",
+  "en": "Slash Symbol",
+  "status": "done",
   "notes": ""
  },
  {
@@ -79,8 +79,8 @@
   ],
   "max": 19,
   "jp": "ボディタリスマン",
-  "en": "",
-  "status": "",
+  "en": "Body Amulet",
+  "status": "done",
   "notes": ""
  },
  {
@@ -91,8 +91,8 @@
   ],
   "max": 15,
   "jp": "タフネスベルト",
-  "en": "",
-  "status": "",
+  "en": "Tough Belt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -103,8 +103,8 @@
   ],
   "max": 15,
   "jp": "タフネスリング",
-  "en": "",
-  "status": "",
+  "en": "Tough Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
   ],
   "max": 19,
   "jp": "フィジカルベルト",
-  "en": "",
-  "status": "",
+  "en": "Physical Belt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
   ],
   "max": 19,
   "jp": "フィジカルリング",
-  "en": "",
-  "status": "",
+  "en": "Physical Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -139,8 +139,8 @@
   ],
   "max": 19,
   "jp": "ワイズタリスマン",
-  "en": "",
-  "status": "",
+  "en": "Wise Amulet",
+  "status": "done",
   "notes": ""
  },
  {
@@ -151,8 +151,8 @@
   ],
   "max": 15,
   "jp": "ワイズピアス",
-  "en": "",
-  "status": "",
+  "en": "Wise Stud",
+  "status": "done",
   "notes": ""
  },
  {
@@ -163,8 +163,8 @@
   ],
   "max": 15,
   "jp": "ワイズリング",
-  "en": "",
-  "status": "",
+  "en": "Wise Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
   ],
   "max": 19,
   "jp": "ウィズダムピアス",
-  "en": "",
-  "status": "",
+  "en": "Wisdom Stud",
+  "status": "done",
   "notes": ""
  },
  {
@@ -187,8 +187,8 @@
   ],
   "max": 19,
   "jp": "ウィズダムリング",
-  "en": "",
-  "status": "",
+  "en": "Wisdom Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -199,8 +199,8 @@
   ],
   "max": 19,
   "jp": "セーブタリスマン",
-  "en": "",
-  "status": "",
+  "en": "Save Amulet",
+  "status": "done",
   "notes": ""
  },
  {
@@ -211,8 +211,8 @@
   ],
   "max": 15,
   "jp": "セーブリスト",
-  "en": "",
-  "status": "",
+  "en": "Save Band",
+  "status": "done",
   "notes": ""
  },
  {
@@ -223,8 +223,8 @@
   ],
   "max": 15,
   "jp": "セーブリング",
-  "en": "",
-  "status": "",
+  "en": "Save Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
   ],
   "max": 15,
   "jp": "レジストリスト",
-  "en": "",
-  "status": "",
+  "en": "Resist Band",
+  "status": "done",
   "notes": ""
  },
  {
@@ -247,8 +247,8 @@
   ],
   "max": 15,
   "jp": "レジストリング",
-  "en": "",
-  "status": "",
+  "en": "Resist Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
   ],
   "max": 19,
   "jp": "プロテクトリスト",
-  "en": "",
-  "status": "",
+  "en": "Protect Band",
+  "status": "done",
   "notes": ""
  },
  {
@@ -271,8 +271,8 @@
   ],
   "max": 19,
   "jp": "プロテクトリング",
-  "en": "",
-  "status": "",
+  "en": "Protect Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -282,8 +282,8 @@
   ],
   "max": 19,
   "jp": "ミラージュローブ",
-  "en": "",
-  "status": "",
+  "en": "Mirage Robe",
+  "status": "done",
   "notes": ""
  },
  {
@@ -293,8 +293,8 @@
   ],
   "max": 15,
   "jp": "シャドーローブ",
-  "en": "",
-  "status": "",
+  "en": "Shadow Robe",
+  "status": "done",
   "notes": ""
  },
  {
@@ -304,8 +304,8 @@
   ],
   "max": 15,
   "jp": "ハイドローブ",
-  "en": "",
-  "status": "",
+  "en": "Hide Robe",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
   ],
   "max": 15,
   "jp": "ラピッドブーツ",
-  "en": "",
-  "status": "",
+  "en": "Rapid Boots",
+  "status": "done",
   "notes": ""
  },
  {
@@ -326,8 +326,8 @@
   ],
   "max": 15,
   "jp": "クイックブーツ",
-  "en": "",
-  "status": "",
+  "en": "Quick Boots",
+  "status": "done",
   "notes": ""
  },
  {
@@ -337,8 +337,8 @@
   ],
   "max": 15,
   "jp": "スピードブーツ",
-  "en": "",
-  "status": "",
+  "en": "Speed Boots",
+  "status": "done",
   "notes": ""
  },
  {
@@ -349,8 +349,8 @@
   ],
   "max": 15,
   "jp": "フォースリスト",
-  "en": "",
-  "status": "",
+  "en": "Force Band",
+  "status": "done",
   "notes": ""
  },
  {
@@ -361,8 +361,8 @@
   ],
   "max": 15,
   "jp": "フォースリング",
-  "en": "",
-  "status": "",
+  "en": "Force Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -373,8 +373,8 @@
   ],
   "max": 15,
   "jp": "アタックリスト",
-  "en": "",
-  "status": "",
+  "en": "Attack Band",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
   ],
   "max": 15,
   "jp": "アタックリング",
-  "en": "",
-  "status": "",
+  "en": "Attack Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -397,8 +397,8 @@
   ],
   "max": 15,
   "jp": "パワーリスト",
-  "en": "",
-  "status": "",
+  "en": "Power Band",
+  "status": "done",
   "notes": ""
  },
  {
@@ -409,8 +409,8 @@
   ],
   "max": 15,
   "jp": "パワーリング",
-  "en": "",
-  "status": "",
+  "en": "Power Ring",
+  "status": "done",
   "notes": ""
  },
  {
@@ -420,8 +420,8 @@
   ],
   "max": 11,
   "jp": "ハンター",
-  "en": "",
-  "status": "",
+  "en": "Hunter",
+  "status": "done",
   "notes": ""
  },
  {
@@ -431,8 +431,8 @@
   ],
   "max": 15,
   "jp": "いちもくさん",
-  "en": "",
-  "status": "",
+  "en": "Hightail",
+  "status": "done",
   "notes": ""
  },
  {
@@ -442,8 +442,8 @@
   ],
   "max": 11,
   "jp": "にんきもの",
-  "en": "",
-  "status": "",
+  "en": "Popular",
+  "status": "done",
   "notes": ""
  },
  {
@@ -453,8 +453,8 @@
   ],
   "max": 15,
   "jp": "きらわれもの",
-  "en": "",
-  "status": "",
+  "en": "Disliked",
+  "status": "done",
   "notes": ""
  },
  {
@@ -464,8 +464,8 @@
   ],
   "max": 15,
   "jp": "ギャンブラー",
-  "en": "",
-  "status": "",
+  "en": "Gambler",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
   ],
   "max": 15,
   "jp": "運命のイタズラ",
-  "en": "",
-  "status": "",
+  "en": "Twist of Fate",
+  "status": "done",
   "notes": ""
  },
  {
@@ -486,8 +486,8 @@
   ],
   "max": 19,
   "jp": "ちょとつもうしん",
-  "en": "",
-  "status": "",
+  "en": "Reckless",
+  "status": "done",
   "notes": ""
  },
  {
@@ -497,8 +497,8 @@
   ],
   "max": 11,
   "jp": "もろはの刃",
-  "en": "",
-  "status": "",
+  "en": "Double Edge",
+  "status": "done",
   "notes": ""
  },
  {
@@ -508,8 +508,8 @@
   ],
   "max": 11,
   "jp": "やみくも",
-  "en": "",
-  "status": "",
+  "en": "Haphazard",
+  "status": "done",
   "notes": ""
  },
  {
@@ -519,8 +519,8 @@
   ],
   "max": 15,
   "jp": "あばれるシシ",
-  "en": "",
-  "status": "",
+  "en": "Raging Lion",
+  "status": "done",
   "notes": ""
  },
  {
@@ -530,8 +530,8 @@
   ],
   "max": 15,
   "jp": "ねむれるシシ",
-  "en": "",
-  "status": "",
+  "en": "Sleeping Lion",
+  "status": "done",
   "notes": ""
  },
  {
@@ -541,8 +541,8 @@
   ],
   "max": 11,
   "jp": "きまじめ",
-  "en": "",
-  "status": "",
+  "en": "Earnest",
+  "status": "done",
   "notes": ""
  },
  {
@@ -552,8 +552,8 @@
   ],
   "max": 11,
   "jp": "じゅんけつ",
-  "en": "",
-  "status": "",
+  "en": "Pure",
+  "status": "done",
   "notes": ""
  },
  {
@@ -563,8 +563,8 @@
   ],
   "max": 11,
   "jp": "がんきょう",
-  "en": "",
-  "status": "",
+  "en": "Robust",
+  "status": "done",
   "notes": ""
  },
  {
@@ -574,8 +574,8 @@
   ],
   "max": 11,
   "jp": "もえる体",
-  "en": "",
-  "status": "",
+  "en": "Fiery Body",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
   ],
   "max": 15,
   "jp": "きょうじんな心",
-  "en": "",
-  "status": "",
+  "en": "Iron Will",
+  "status": "done",
   "notes": ""
  },
  {
@@ -596,8 +596,8 @@
   ],
   "max": 15,
   "jp": "ビョウキしらず",
-  "en": "",
-  "status": "",
+  "en": "Never Ill",
+  "status": "done",
   "notes": ""
  },
  {
@@ -607,8 +607,8 @@
   ],
   "max": 7,
   "jp": "ふみん",
-  "en": "",
-  "status": "",
+  "en": "Wakeful",
+  "status": "done",
   "notes": ""
  },
  {
@@ -618,8 +618,8 @@
   ],
   "max": 15,
   "jp": "ドこんじょう",
-  "en": "",
-  "status": "",
+  "en": "True Grit",
+  "status": "done",
   "notes": ""
  },
  {
@@ -629,8 +629,8 @@
   ],
   "max": 19,
   "jp": "けいかいたいせい",
-  "en": "",
-  "status": "",
+  "en": "On Alert",
+  "status": "done",
   "notes": ""
  },
  {
@@ -640,8 +640,8 @@
   ],
   "max": 19,
   "jp": "せんせいこうげき",
-  "en": "",
-  "status": "",
+  "en": "First Strike",
+  "status": "done",
   "notes": ""
  },
  {
@@ -651,8 +651,8 @@
   ],
   "max": 11,
   "jp": "たいせい",
-  "en": "",
-  "status": "",
+  "en": "Resistant",
+  "status": "done",
   "notes": ""
  },
  {
@@ -662,8 +662,8 @@
   ],
   "max": 11,
   "jp": "ステップ",
-  "en": "",
-  "status": "",
+  "en": "Step",
+  "status": "done",
   "notes": ""
  },
  {
@@ -673,8 +673,8 @@
   ],
   "max": 15,
   "jp": "しゅうちゅう",
-  "en": "",
-  "status": "",
+  "en": "Focus",
+  "status": "done",
   "notes": ""
  },
  {
@@ -684,8 +684,8 @@
   ],
   "max": 7,
   "jp": "かそく",
-  "en": "",
-  "status": "",
+  "en": "Haste",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
   ],
   "max": 11,
   "jp": "さいごっぺ",
-  "en": "",
-  "status": "",
+  "en": "Last Fart",
+  "status": "done",
   "notes": ""
  },
  {
@@ -706,8 +706,8 @@
   ],
   "max": 11,
   "jp": "ふしちょう",
-  "en": "",
-  "status": "",
+  "en": "Phoenix",
+  "status": "done",
   "notes": ""
  },
  {
@@ -717,8 +717,8 @@
   ],
   "max": 11,
   "jp": "ゆうじょう",
-  "en": "",
-  "status": "",
+  "en": "Friendship",
+  "status": "done",
   "notes": ""
  },
  {
@@ -728,8 +728,8 @@
   ],
   "max": 15,
   "jp": "ハイブリッド",
-  "en": "",
-  "status": "",
+  "en": "Hybrid",
+  "status": "done",
   "notes": ""
  },
  {
@@ -739,8 +739,8 @@
   ],
   "max": 11,
   "jp": "ひっちゅう",
-  "en": "",
-  "status": "",
+  "en": "Sure Hit",
+  "status": "done",
   "notes": ""
  },
  {
@@ -750,8 +750,8 @@
   ],
   "max": 11,
   "jp": "そうじゅく",
-  "en": "",
-  "status": "",
+  "en": "Early Bloom",
+  "status": "done",
   "notes": ""
  },
  {
@@ -761,8 +761,8 @@
   ],
   "max": 11,
   "jp": "ごうよく",
-  "en": "",
-  "status": "",
+  "en": "Greedy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -772,8 +772,8 @@
   ],
   "max": 15,
   "jp": "ききいっぱつ",
-  "en": "",
-  "status": "",
+  "en": "Close Call",
+  "status": "done",
   "notes": ""
  },
  {
@@ -783,8 +783,8 @@
   ],
   "max": 7,
   "jp": "りきば",
-  "en": "",
-  "status": "",
+  "en": "Barrier",
+  "status": "done",
   "notes": ""
  },
  {
@@ -794,8 +794,8 @@
   ],
   "max": 11,
   "jp": "さいせい",
-  "en": "",
-  "status": "",
+  "en": "Regenerate",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
   ],
   "max": 11,
   "jp": "カウンター",
-  "en": "",
-  "status": "",
+  "en": "Counter",
+  "status": "done",
   "notes": ""
  },
  {
@@ -816,8 +816,8 @@
   ],
   "max": 7,
   "jp": "敵用2",
-  "en": "",
-  "status": "",
+  "en": "Enemy2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -827,8 +827,8 @@
   ],
   "max": 7,
   "jp": "敵用4",
-  "en": "",
-  "status": "",
+  "en": "Enemy4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -838,8 +838,8 @@
   ],
   "max": 7,
   "jp": "敵用3",
-  "en": "",
-  "status": "",
+  "en": "Enemy3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -872,8 +872,8 @@
   ],
   "max": 15,
   "jp": "ラヴァーズ効果",
-  "en": "",
-  "status": "",
+  "en": "Lovers Effect",
+  "status": "done",
   "notes": ""
  },
  {
@@ -897,8 +897,8 @@
   ],
   "max": 15,
   "jp": "まみいのあね",
-  "en": "",
-  "status": "",
+  "en": "Mamii's Sister",
+  "status": "done",
   "notes": ""
  },
  {
@@ -909,8 +909,8 @@
   ],
   "max": 11,
   "jp": "こややし",
-  "en": "",
-  "status": "",
+  "en": "Koyayashi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -920,8 +920,8 @@
   ],
   "max": 15,
   "jp": "イボじこごろう",
-  "en": "",
-  "status": "",
+  "en": "Kogoro Iboji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -933,8 +933,8 @@
   ],
   "max": 11,
   "jp": "メドッサ",
-  "en": "",
-  "status": "",
+  "en": "Medossa",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
   ],
   "max": 7,
   "jp": "さよこ",
-  "en": "",
-  "status": "",
+  "en": "Sayoko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -957,8 +957,8 @@
   ],
   "max": 11,
   "jp": "なんとも",
-  "en": "",
-  "status": "",
+  "en": "Nantomo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -969,8 +969,8 @@
   ],
   "max": 15,
   "jp": "アルフォンヌ",
-  "en": "",
-  "status": "",
+  "en": "Alphonne",
+  "status": "done",
   "notes": ""
  },
  {
@@ -981,8 +981,8 @@
   ],
   "max": 7,
   "jp": "ポチ",
-  "en": "",
-  "status": "",
+  "en": "Pochi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -993,8 +993,8 @@
   ],
   "max": 11,
   "jp": "フユカイ",
-  "en": "",
-  "status": "",
+  "en": "Fuyukai",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1005,8 +1005,8 @@
   ],
   "max": 11,
   "jp": "ばんちよ",
-  "en": "",
-  "status": "",
+  "en": "Banchiyo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1017,8 +1017,8 @@
   ],
   "max": 7,
   "jp": "おとこ",
-  "en": "",
-  "status": "",
+  "en": "Otoko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1029,8 +1029,8 @@
   ],
   "max": 7,
   "jp": "ばんじ",
-  "en": "",
-  "status": "",
+  "en": "Banji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1041,8 +1041,8 @@
   ],
   "max": 11,
   "jp": "グズむし",
-  "en": "",
-  "status": "",
+  "en": "Guzumushi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1053,8 +1053,8 @@
   ],
   "max": 11,
   "jp": "こくしまる",
-  "en": "",
-  "status": "",
+  "en": "Kokushimaru",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1065,8 +1065,8 @@
   ],
   "max": 7,
   "jp": "ごうだ",
-  "en": "",
-  "status": "",
+  "en": "Goda",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1077,8 +1077,8 @@
   ],
   "max": 11,
   "jp": "みつるぎ",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1089,8 +1089,8 @@
   ],
   "max": 11,
   "jp": "ゆきしろ",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1101,8 +1101,8 @@
   ],
   "max": 15,
   "jp": "とみさぶろう",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1113,8 +1113,8 @@
   ],
   "max": 11,
   "jp": "さおとめ",
-  "en": "",
-  "status": "",
+  "en": "Saotome",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1125,8 +1125,8 @@
   ],
   "max": 7,
   "jp": "むさし",
-  "en": "",
-  "status": "",
+  "en": "Musashi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1137,8 +1137,8 @@
   ],
   "max": 7,
   "jp": "はやと",
-  "en": "",
-  "status": "",
+  "en": "Hayato",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1149,8 +1149,8 @@
   ],
   "max": 11,
   "jp": "あしゅら",
-  "en": "",
-  "status": "",
+  "en": "Ashura",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1162,8 +1162,8 @@
   ],
   "max": 7,
   "jp": "ムチャ",
-  "en": "",
-  "status": "",
+  "en": "Mucha",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1175,8 +1175,8 @@
   ],
   "max": 7,
   "jp": "ヌケ",
-  "en": "",
-  "status": "",
+  "en": "Nuke",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1187,8 +1187,8 @@
   ],
   "max": 11,
   "jp": "まどうき",
-  "en": "",
-  "status": "",
+  "en": "Madoki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1199,8 +1199,8 @@
   ],
   "max": 7,
   "jp": "みゆき",
-  "en": "",
-  "status": "",
+  "en": "Miyuki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1211,8 +1211,8 @@
   ],
   "max": 7,
   "jp": "ごき",
-  "en": "",
-  "status": "",
+  "en": "Goki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1223,8 +1223,8 @@
   ],
   "max": 7,
   "jp": "せんき",
-  "en": "",
-  "status": "",
+  "en": "Senki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1247,8 +1247,8 @@
   ],
   "max": 11,
   "jp": "カパエル",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1270,8 +1270,8 @@
   ],
   "max": 15,
   "jp": "ほういんだいこ",
-  "en": "",
-  "status": "",
+  "en": "Hoin Daiko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1282,8 +1282,8 @@
   ],
   "max": 11,
   "jp": "だえもん",
-  "en": "",
-  "status": "",
+  "en": "Daemon",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1294,8 +1294,8 @@
   ],
   "max": 7,
   "jp": "きちざ",
-  "en": "",
-  "status": "",
+  "en": "Kichiza",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1306,8 +1306,8 @@
   ],
   "max": 11,
   "jp": "なおじろう",
-  "en": "",
-  "status": "",
+  "en": "Naojiro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1318,8 +1318,8 @@
   ],
   "max": 11,
   "jp": "ごえもん",
-  "en": "",
-  "status": "",
+  "en": "Goemon",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1330,8 +1330,8 @@
   ],
   "max": 15,
   "jp": "ふくろこうじ",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1342,8 +1342,8 @@
   ],
   "max": 11,
   "jp": "やまぎし",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1354,8 +1354,8 @@
   ],
   "max": 15,
   "jp": "スラムクイーン",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1366,8 +1366,8 @@
   ],
   "max": 7,
   "jp": "みどう",
-  "en": "",
-  "status": "",
+  "en": "Mido",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1378,8 +1378,8 @@
   ],
   "max": 7,
   "jp": "もんど",
-  "en": "",
-  "status": "",
+  "en": "Mondo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1390,8 +1390,8 @@
   ],
   "max": 7,
   "jp": "たくま",
-  "en": "",
-  "status": "",
+  "en": "Takuma",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1403,8 +1403,8 @@
   ],
   "max": 7,
   "jp": "カイム",
-  "en": "",
-  "status": "",
+  "en": "Kaim",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1415,8 +1415,8 @@
   ],
   "max": 7,
   "jp": "まさ",
-  "en": "",
-  "status": "",
+  "en": "Masa",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1426,8 +1426,8 @@
   ],
   "max": 7,
   "jp": "敵用",
-  "en": "",
-  "status": "",
+  "en": "Enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1438,8 +1438,8 @@
   ],
   "max": 7,
   "jp": "りょう",
-  "en": "",
-  "status": "",
+  "en": "Ryo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1450,8 +1450,8 @@
   ],
   "max": 11,
   "jp": "だんべえ",
-  "en": "",
-  "status": "",
+  "en": "Danbei",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1462,8 +1462,8 @@
   ],
   "max": 7,
   "jp": "せいじ",
-  "en": "",
-  "status": "",
+  "en": "Seiji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1474,8 +1474,8 @@
   ],
   "max": 7,
   "jp": "敵用1",
-  "en": "",
-  "status": "",
+  "en": "Enemy1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1486,8 +1486,8 @@
   ],
   "max": 15,
   "jp": "いしかわけん",
-  "en": "",
-  "status": "",
+  "en": "Ken Ishikawa",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1498,8 +1498,8 @@
   ],
   "max": 11,
   "jp": "ながいごう",
-  "en": "",
-  "status": "",
+  "en": "Go Nagai",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1509,8 +1509,8 @@
   ],
   "max": 11,
   "jp": "副主人公",
-  "en": "",
-  "status": "",
+  "en": "Sub-Hero",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1520,8 +1520,8 @@
   ],
   "max": 7,
   "jp": "防御１",
-  "en": "",
-  "status": "",
+  "en": "Guard 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1531,8 +1531,8 @@
   ],
   "max": 11,
   "jp": "アイテム",
-  "en": "",
-  "status": "",
+  "en": "Item",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1542,8 +1542,8 @@
   ],
   "max": 7,
   "jp": "にく",
-  "en": "",
-  "status": "",
+  "en": "Meat",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1553,8 +1553,8 @@
   ],
   "max": 15,
   "jp": "スピードベルト",
-  "en": "",
-  "status": "",
+  "en": "Speed Belt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1564,8 +1564,8 @@
   ],
   "max": 15,
   "jp": "クイックベルト",
-  "en": "",
-  "status": "",
+  "en": "Quick Belt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1575,8 +1575,8 @@
   ],
   "max": 15,
   "jp": "ラピッドベルト",
-  "en": "",
-  "status": "",
+  "en": "Rapid Belt",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1586,8 +1586,8 @@
   ],
   "max": 15,
   "jp": "ハイドピアス",
-  "en": "",
-  "status": "",
+  "en": "Hide Stud",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1597,8 +1597,8 @@
   ],
   "max": 15,
   "jp": "シャドーピアス",
-  "en": "",
-  "status": "",
+  "en": "Shadow Stud",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1608,8 +1608,8 @@
   ],
   "max": 19,
   "jp": "ミラージュピアス",
-  "en": "",
-  "status": "",
+  "en": "Mirage Stud",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1619,8 +1619,8 @@
   ],
   "max": 15,
   "jp": "ホークフェザー",
-  "en": "",
-  "status": "",
+  "en": "Hawk Feather",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1630,8 +1630,8 @@
   ],
   "max": 11,
   "jp": "てんこだま",
-  "en": "",
-  "status": "",
+  "en": "Tenkodama",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1641,8 +1641,8 @@
   ],
   "max": 11,
   "jp": "ジャマー",
-  "en": "",
-  "status": "",
+  "en": "Jammer",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1652,8 +1652,8 @@
   ],
   "max": 15,
   "jp": "ＩＤカードＡ",
-  "en": "",
-  "status": "",
+  "en": "ID Card A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1663,8 +1663,8 @@
   ],
   "max": 15,
   "jp": "ＩＤカードＢ",
-  "en": "",
-  "status": "",
+  "en": "ID Card B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1674,8 +1674,8 @@
   ],
   "max": 15,
   "jp": "ＩＤカードＣ",
-  "en": "",
-  "status": "",
+  "en": "ID Card C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1685,8 +1685,8 @@
   ],
   "max": 11,
   "jp": "巨大兵器",
-  "en": "",
-  "status": "",
+  "en": "Huge Weapon",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1696,8 +1696,8 @@
   ],
   "max": 11,
   "jp": "スカウター",
-  "en": "",
-  "status": "",
+  "en": "Scouter",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1707,8 +1707,8 @@
   ],
   "max": 15,
   "jp": "ろうやのかぎ",
-  "en": "",
-  "status": "",
+  "en": "Cell Key",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1718,8 +1718,8 @@
   ],
   "max": 15,
   "jp": "そうこのかぎ",
-  "en": "",
-  "status": "",
+  "en": "Storage Key",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1729,8 +1729,8 @@
   ],
   "max": 19,
   "jp": "地下すいろのかぎ",
-  "en": "",
-  "status": "",
+  "en": "Sewer Key",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1740,8 +1740,8 @@
   ],
   "max": 15,
   "jp": "沙羅のしゃしん",
-  "en": "",
-  "status": "",
+  "en": "Sara's Photo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1751,8 +1751,8 @@
   ],
   "max": 15,
   "jp": "地下室のかぎ",
-  "en": "",
-  "status": "",
+  "en": "Cellar Key",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1762,8 +1762,8 @@
   ],
   "max": 23,
   "jp": "キーアイテム用スペース2",
-  "en": "",
-  "status": "",
+  "en": "Key Slot 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1773,8 +1773,8 @@
   ],
   "max": 23,
   "jp": "キーアイテム用スペース3",
-  "en": "",
-  "status": "",
+  "en": "Key Slot 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1784,8 +1784,8 @@
   ],
   "max": 23,
   "jp": "キーアイテム用スペース4",
-  "en": "",
-  "status": "",
+  "en": "Key Slot 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1795,8 +1795,8 @@
   ],
   "max": 23,
   "jp": "キーアイテム用スペース5",
-  "en": "",
-  "status": "",
+  "en": "Key Slot 5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1806,8 +1806,8 @@
   ],
   "max": 23,
   "jp": "キーアイテム用スペース6",
-  "en": "",
-  "status": "",
+  "en": "Key Slot 6",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1817,8 +1817,8 @@
   ],
   "max": 23,
   "jp": "キーアイテム用スペース7",
-  "en": "",
-  "status": "",
+  "en": "Key Slot 7",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1828,8 +1828,8 @@
   ],
   "max": 15,
   "jp": "あしゅら男爵",
-  "en": "",
-  "status": "",
+  "en": "Baron Ashura",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1839,8 +1839,8 @@
   ],
   "max": 11,
   "jp": "トバッチリ",
-  "en": "",
-  "status": "",
+  "en": "Tobacchiri",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1866,8 +1866,8 @@
   ],
   "max": 7,
   "jp": "こども",
-  "en": "",
-  "status": "",
+  "en": "Child",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1878,8 +1878,8 @@
   ],
   "max": 15,
   "jp": "ほうたいおとこ",
-  "en": "",
-  "status": "",
+  "en": "Bandage Man",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1889,8 +1889,8 @@
   ],
   "max": 19,
   "jp": "未登録パートナー",
-  "en": "",
-  "status": "",
+  "en": "Unregistered",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1900,8 +1900,8 @@
   ],
   "max": 7,
   "jp": "？？？",
-  "en": "",
-  "status": "",
+  "en": "???",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1934,8 +1934,8 @@
   ],
   "max": 7,
   "jp": "ヒョウ",
-  "en": "",
-  "status": "",
+  "en": "Leopard",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1946,8 +1946,8 @@
   ],
   "max": 11,
   "jp": "がくせい",
-  "en": "",
-  "status": "",
+  "en": "Student",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1958,8 +1958,8 @@
   ],
   "max": 11,
   "jp": "けがにん",
-  "en": "",
-  "status": "",
+  "en": "Injured",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1972,8 +1972,8 @@
   ],
   "max": 11,
   "jp": "むらびと",
-  "en": "",
-  "status": "",
+  "en": "Villager",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1990,8 +1990,8 @@
   ],
   "max": 11,
   "jp": "まちびと",
-  "en": "",
-  "status": "",
+  "en": "Townsfolk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2004,8 +2004,8 @@
   ],
   "max": 15,
   "jp": "けんきゅういん",
-  "en": "",
-  "status": "",
+  "en": "Researcher",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2015,8 +2015,8 @@
   ],
   "max": 7,
   "jp": "欠番2",
-  "en": "",
-  "status": "",
+  "en": "Unused2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2026,8 +2026,8 @@
   ],
   "max": 7,
   "jp": "欠番1",
-  "en": "",
-  "status": "",
+  "en": "Unused1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2048,8 +2048,8 @@
   ],
   "max": 15,
   "jp": "だいほんえい",
-  "en": "",
-  "status": "",
+  "en": "Daihonei",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2070,8 +2070,8 @@
   ],
   "max": 11,
   "jp": "どうした",
-  "en": "",
-  "status": "",
+  "en": "Doshita",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2081,8 +2081,8 @@
   ],
   "max": 11,
   "jp": "豹絵理座",
-  "en": "",
-  "status": "",
+  "en": "Eliza Hyo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2092,8 +2092,8 @@
   ],
   "max": 15,
   "jp": "ひょうえりざ",
-  "en": "",
-  "status": "",
+  "en": "Eliza Hyo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2103,8 +2103,8 @@
   ],
   "max": 11,
   "jp": "ユダ博士",
-  "en": "",
-  "status": "",
+  "en": "Dr. Judas",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2114,8 +2114,8 @@
   ],
   "max": 7,
   "jp": "ユダ",
-  "en": "",
-  "status": "",
+  "en": "Judas",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2136,8 +2136,8 @@
   ],
   "max": 11,
   "jp": "たいげん",
-  "en": "",
-  "status": "",
+  "en": "Taigen",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2158,8 +2158,8 @@
   ],
   "max": 7,
   "jp": "まゆみ",
-  "en": "",
-  "status": "",
+  "en": "Mayumi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2170,8 +2170,8 @@
   ],
   "max": 7,
   "jp": "あゆ子",
-  "en": "",
-  "status": "",
+  "en": "Ayuko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2181,8 +2181,8 @@
   ],
   "max": 15,
   "jp": "オモライくん",
-  "en": "",
-  "status": "",
+  "en": "Omorai-kun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2203,8 +2203,8 @@
   ],
   "max": 11,
   "jp": "真臣墓世",
-  "en": "",
-  "status": "",
+  "en": "Hakase",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2214,8 +2214,8 @@
   ],
   "max": 7,
   "jp": "はかせ",
-  "en": "",
-  "status": "",
+  "en": "Hakase",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2236,8 +2236,8 @@
   ],
   "max": 11,
   "jp": "じゅうぞう",
-  "en": "",
-  "status": "",
+  "en": "Juzo",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2280,8 +2280,8 @@
   ],
   "max": 15,
   "jp": "きさらぎはかせ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2302,8 +2302,8 @@
   ],
   "max": 11,
   "jp": "間身井くん",
-  "en": "",
-  "status": "",
+  "en": "Mamii-kun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2313,8 +2313,8 @@
   ],
   "max": 11,
   "jp": "まみいくん",
-  "en": "",
-  "status": "",
+  "en": "Mamii-kun",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2325,8 +2325,8 @@
   ],
   "max": 15,
   "jp": "シャッポじい",
-  "en": "",
-  "status": "",
+  "en": "Chapeau-jii",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2347,8 +2347,8 @@
   ],
   "max": 15,
   "jp": "イボ痔小五郎",
-  "en": "",
-  "status": "",
+  "en": "Kogoro Iboji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2358,8 +2358,8 @@
   ],
   "max": 11,
   "jp": "こごろう",
-  "en": "",
-  "status": "",
+  "en": "Kogoro",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2369,8 +2369,8 @@
   ],
   "max": 7,
   "jp": "欠番4",
-  "en": "",
-  "status": "",
+  "en": "Unused4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2380,8 +2380,8 @@
   ],
   "max": 7,
   "jp": "欠番3",
-  "en": "",
-  "status": "",
+  "en": "Unused3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2394,8 +2394,8 @@
   ],
   "max": 7,
   "jp": "欠番",
-  "en": "",
-  "status": "",
+  "en": "Unused",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2438,8 +2438,8 @@
   ],
   "max": 15,
   "jp": "ドクター・ポチ",
-  "en": "",
-  "status": "",
+  "en": "Doctor Pochi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2449,8 +2449,8 @@
   ],
   "max": 15,
   "jp": "摩呵フユカイ",
-  "en": "",
-  "status": "",
+  "en": "Maka Fuyukai",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2471,8 +2471,8 @@
   ],
   "max": 7,
   "jp": "男男子",
-  "en": "",
-  "status": "",
+  "en": "Otoko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2515,8 +2515,8 @@
   ],
   "max": 7,
   "jp": "合田",
-  "en": "",
-  "status": "",
+  "en": "Goda",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2570,8 +2570,8 @@
   ],
   "max": 7,
   "jp": "まりあ",
-  "en": "",
-  "status": "",
+  "en": "Maria",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2581,8 +2581,8 @@
   ],
   "max": 11,
   "jp": "早乙女博士",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2614,8 +2614,8 @@
   ],
   "max": 7,
   "jp": "魔動鬼",
-  "en": "",
-  "status": "",
+  "en": "Madoki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2636,8 +2636,8 @@
   ],
   "max": 7,
   "jp": "護鬼",
-  "en": "",
-  "status": "",
+  "en": "Goki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2647,8 +2647,8 @@
   ],
   "max": 7,
   "jp": "戦鬼",
-  "en": "",
-  "status": "",
+  "en": "Senki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2691,8 +2691,8 @@
   ],
   "max": 11,
   "jp": "法印大子",
-  "en": "",
-  "status": "",
+  "en": "Hoin Daiko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2702,8 +2702,8 @@
   ],
   "max": 7,
   "jp": "だいこ",
-  "en": "",
-  "status": "",
+  "en": "Daiko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2779,8 +2779,8 @@
   ],
   "max": 11,
   "jp": "クイーン",
-  "en": "",
-  "status": "",
+  "en": "Queen",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2845,8 +2845,8 @@
   ],
   "max": 11,
   "jp": "タレちゃん",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2867,8 +2867,8 @@
   ],
   "max": 7,
   "jp": "みき",
-  "en": "",
-  "status": "",
+  "en": "Miki",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2922,8 +2922,8 @@
   ],
   "max": 7,
   "jp": "なつこ",
-  "en": "",
-  "status": "",
+  "en": "Natsuko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2956,8 +2956,8 @@
   ],
   "max": 11,
   "jp": "女主人公",
-  "en": "",
-  "status": "",
+  "en": "Heroine",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2967,8 +2967,8 @@
   ],
   "max": 7,
   "jp": "パート",
-  "en": "",
-  "status": "",
+  "en": "Part",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2978,8 +2978,8 @@
   ],
   "max": 23,
   "jp": "古代ミケーネ文明の遺産",
-  "en": "",
-  "status": "",
+  "en": "Relic of ancient Mykene",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2989,8 +2989,8 @@
   ],
   "max": 19,
   "jp": "ゼノンを倒した証",
-  "en": "",
-  "status": "",
+  "en": "Proof Zennon fell",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3000,8 +3000,8 @@
   ],
   "max": 23,
   "jp": "地下室の扉を開ける鍵",
-  "en": "",
-  "status": "",
+  "en": "Opens the basement door",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3011,8 +3011,8 @@
   ],
   "max": 31,
   "jp": "宇津木と沙織が写っている写真",
-  "en": "",
-  "status": "",
+  "en": "Photo of Utsugi and Saori",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3022,8 +3022,8 @@
   ],
   "max": 31,
   "jp": "地下水路の扉を開けるための鍵",
-  "en": "",
-  "status": "",
+  "en": "Opens the waterway door",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3033,8 +3033,8 @@
   ],
   "max": 15,
   "jp": "体育館倉庫の鍵",
-  "en": "",
-  "status": "",
+  "en": "Gym storage key",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3044,8 +3044,8 @@
   ],
   "max": 27,
   "jp": "死神警察署にある牢屋の鍵",
-  "en": "",
-  "status": "",
+  "en": "Shinigami Police cell key",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3055,8 +3055,8 @@
   ],
   "max": 23,
   "jp": "敵のステータスを分析",
-  "en": "",
-  "status": "",
+  "en": "Analyzes enemy stats",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3066,8 +3066,8 @@
   ],
   "max": 27,
   "jp": "人間には使いこなせない兵器",
-  "en": "",
-  "status": "",
+  "en": "Weapon no human can wield",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3079,8 +3079,8 @@
   ],
   "max": 23,
   "jp": "幻城内で使うパスカード",
-  "en": "",
-  "status": "",
+  "en": "Pass for Phantom Castle",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3090,8 +3090,8 @@
   ],
   "max": 27,
   "jp": "一定時間、弱い敵と会わない",
-  "en": "",
-  "status": "",
+  "en": "Avoids weak foes a while",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3101,8 +3101,8 @@
   ],
   "max": 23,
   "jp": "仲間の入れ替えができる",
-  "en": "",
-  "status": "",
+  "en": "Lets you swap partners",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3112,8 +3112,8 @@
   ],
   "max": 31,
   "jp": "ＨＰ＋２０％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "HP+20% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3123,8 +3123,8 @@
   ],
   "max": 31,
   "jp": "ＨＰ＋１０％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "HP+10% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3134,8 +3134,8 @@
   ],
   "max": 31,
   "jp": "ＤＰ＋２０％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "DP+20% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3145,8 +3145,8 @@
   ],
   "max": 31,
   "jp": "ＤＰ＋１０％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "DP+10% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3156,8 +3156,8 @@
   ],
   "max": 31,
   "jp": "ＤＦ＋１５％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "DF+15% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3167,8 +3167,8 @@
   ],
   "max": 31,
   "jp": "ＤＦ＋１０％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "DF+10% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3178,8 +3178,8 @@
   ],
   "max": 31,
   "jp": "ＤＸ＋１５％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+15% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3189,8 +3189,8 @@
   ],
   "max": 31,
   "jp": "ＤＸ＋１０％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+10% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3200,8 +3200,8 @@
   ],
   "max": 31,
   "jp": "ＡＴ＋１５％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "AT+15% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3211,8 +3211,8 @@
   ],
   "max": 31,
   "jp": "ＡＴ＋１０％（ロボット専用）",
-  "en": "",
-  "status": "",
+  "en": "AT+10% (robots only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3222,8 +3222,8 @@
   ],
   "max": 23,
   "jp": "技の発生速度が速くなる",
-  "en": "",
-  "status": "",
+  "en": "Skills activate faster",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3233,8 +3233,8 @@
   ],
   "max": 23,
   "jp": "防御属性【精神】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Mind defense +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3244,8 +3244,8 @@
   ],
   "max": 23,
   "jp": "防御属性【雷】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Bolt defense +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3255,8 +3255,8 @@
   ],
   "max": 23,
   "jp": "防御属性【冷】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Ice defense +10",
+  "status": "done",
   "notes": ""
  }
 ]

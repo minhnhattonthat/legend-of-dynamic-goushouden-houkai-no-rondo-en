@@ -6,8 +6,8 @@
   ],
   "max": 19,
   "jp": "マジンガーＺで飛ぶ",
-  "en": "",
-  "status": "",
+  "en": "Fly in Mazinger Z",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
   ],
   "max": 19,
   "jp": "ロボットから降りる",
-  "en": "",
-  "status": "",
+  "en": "Leave the robot",
+  "status": "done",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
   ],
   "max": 15,
   "jp": "ロボットに乗る",
-  "en": "",
-  "status": "",
+  "en": "Board the robot",
+  "status": "done",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
   ],
   "max": 7,
   "jp": "戻る",
-  "en": "",
-  "status": "",
+  "en": "Back",
+  "status": "done",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
   ],
   "max": 3,
   "jp": "「",
-  "en": "",
-  "status": "",
+  "en": "\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
   ],
   "max": 3,
   "jp": "」[0A]",
-  "en": "",
-  "status": "",
+  "en": "\"[0A]",
+  "status": "done",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
   ],
   "max": 3,
   "jp": "個",
-  "en": "",
-  "status": "",
+  "en": "pcs",
+  "status": "done",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「マジンガーＺ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Mazinger Z\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「ゲッターロボ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Getter Robo\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
   ],
   "max": 27,
   "jp": "[0A]セーブする[0A]セーブしない",
-  "en": "",
-  "status": "",
+  "en": "[0A]Save[0A]Don't save",
+  "status": "done",
   "notes": ""
  },
  {
@@ -117,8 +117,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「飛鳥了」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Ryo Asuka\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -128,8 +128,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「サイコジェニー」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Psycho Jenny\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -139,8 +139,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「閻魔大王」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Great King Enma\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -150,8 +150,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「早乙女博士」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Dr. Saotome\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -162,8 +162,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「早見青児」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Seiji Hayami\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -173,8 +173,8 @@
   ],
   "max": 27,
   "jp": "[0A]ろうやのかぎ を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]Jail Key!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -184,8 +184,8 @@
   ],
   "max": 23,
   "jp": "[0A]ろうやのかぎ を使った",
-  "en": "",
-  "status": "",
+  "en": "[0A]Used the Jail Key.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
   ],
   "max": 47,
   "jp": "[0A]不動明と 一緒に行く[0A]如月ハニーと 一緒に行く",
-  "en": "",
-  "status": "",
+  "en": "[0A]Go with Akira Fudo[0A]Go with Honey Kisaragi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -211,8 +211,8 @@
   ],
   "max": 15,
   "jp": "[0A]はい[0A]いいえ",
-  "en": "",
-  "status": "",
+  "en": "[0A]Yes[0A]No",
+  "status": "done",
   "notes": ""
  },
  {
@@ -223,8 +223,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「如月ハニー」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Honey Kisaragi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -236,8 +236,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「不動明」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Akira Fudo\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「ジャック」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Jack\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「逞馬竜」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Ryu Takuma\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「早乙女門土」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Mondo Saotome\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「身堂竜馬」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Ryoma Shindo\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -292,8 +292,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「スラムキング」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Slum King\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「スラムクィーン」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Slum Queen\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -314,8 +314,8 @@
   ],
   "max": 59,
   "jp": "[0A]バトラー「柳生十兵衛みつ子」が[0A]アソートメンバーから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Jubei Mitsuko Yagyu\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「山岸八十八」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Yasoya Yamagishi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「袋小路」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Fukurokoji\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -348,8 +348,8 @@
   ],
   "max": 27,
   "jp": "[0A]そうこのかぎ を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]Storeroom Key!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -359,8 +359,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「悪馬尻菊の助」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Kikunosuke Abashiri\"[0A]joined the party",
+  "status": "done",
   "notes": ""
  },
  {
@@ -370,8 +370,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「女蛮子」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Banko Suke\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -381,8 +381,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「男男子」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Danshi Otoko\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -392,8 +392,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「女蛮千代」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Banchiyo Suke\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -403,8 +403,8 @@
   ],
   "max": 23,
   "jp": "[0A]地下室のかぎ を使った",
-  "en": "",
-  "status": "",
+  "en": "[0A]Used the Basement Key.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -414,8 +414,8 @@
   ],
   "max": 27,
   "jp": "[0A]地下室のかぎ を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]Basement Key!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「けっこう仮面」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Kekko Kamen\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -436,8 +436,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「ヒゲゴジラ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Higegodzilla\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -447,8 +447,8 @@
   ],
   "max": 51,
   "jp": "[0A]バトラー「柳生十兵衛みつ子」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Jubei Mitsuko Yagyu\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -458,8 +458,8 @@
   ],
   "max": 23,
   "jp": "[0A]そうこのかぎ を使った",
-  "en": "",
-  "status": "",
+  "en": "[0A]Used the Storeroom Key",
+  "status": "done",
   "notes": ""
  },
  {
@@ -469,8 +469,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「悪馬尻駄ヱ門」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Daemon Abashiri\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -480,8 +480,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「悪馬尻五ヱ門」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Goemon Abashiri\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -491,8 +491,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「悪馬尻直次郎」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Naojiro Abashiri\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -502,8 +502,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「悪馬尻吉三」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Kichiza Abashiri\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -513,8 +513,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「えん魔くん」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Enma-kun\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -524,8 +524,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「雪子姫」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Princess Yukiko\"[0A]joined the party",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「カパエル」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Kapaeru\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -546,8 +546,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「兜甲児」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Koji Kabuto\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -557,8 +557,8 @@
   ],
   "max": 55,
   "jp": "[0A]バトラー「如月ハニー」が[0A]アソートメンバーから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Honey Kisaragi\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -568,8 +568,8 @@
   ],
   "max": 55,
   "jp": "[0A]パートナー「早見青児」が[0A]アソートメンバーから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Seiji Hayami\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -579,8 +579,8 @@
   ],
   "max": 51,
   "jp": "[0A]バトラー「不動明」が[0A]アソートメンバーから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Akira Fudo\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -590,8 +590,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「飛鳥了」が[0A]アソートメンバーから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Ryo Asuka\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -601,8 +601,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「手天童子郎」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Jiro Shutendo\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -612,8 +612,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「護鬼」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Goki\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -623,8 +623,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「戦鬼」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Senki\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -634,8 +634,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「白鳥美雪」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Miyuki Shiratori\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「鬼谷妖次郎」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Yojiro Kidani\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -656,8 +656,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「魔動鬼」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Madoki\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -667,8 +667,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「弓さやか」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Sayaka Yumi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -678,8 +678,8 @@
   ],
   "max": 39,
   "jp": "[0A]バトラー「ボス」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Boss\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -689,8 +689,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「ムチャ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Mucha\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -700,8 +700,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「ヌケ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Nuke\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -711,8 +711,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「アフロダイＡ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Aphrodite A\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -722,8 +722,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「ボスボロット」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Boss Borot\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -733,8 +733,8 @@
   ],
   "max": 27,
   "jp": "[0A]セーブする[0A]セーブしない",
-  "en": "",
-  "status": "",
+  "en": "[0A]Save[0A]Don't save",
+  "status": "done",
   "notes": ""
  },
  {
@@ -744,8 +744,8 @@
   ],
   "max": 19,
   "jp": "[0A]シャッターが開いた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Shutter opened!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「あしゅら男爵」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Baron Ashura\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -766,8 +766,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「摩可キッカイ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Kikkai Maka\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -777,8 +777,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「摩呵フユカイ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Fuyukai Maka\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -788,8 +788,8 @@
   ],
   "max": 55,
   "jp": "[0A]パートナー「美剣千草」が[0A]アソートメンバーから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Chigusa Mitsurugi\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -799,8 +799,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「瓜生麗」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Rei Uryu\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -810,8 +810,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「雪代小百合」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Sayuri Yukishiro\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -821,8 +821,8 @@
   ],
   "max": 23,
   "jp": "[0A]巨大兵器 を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]Giant Weapon!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -833,8 +833,8 @@
   ],
   "max": 35,
   "jp": "[0A]食べ物を 渡す[0A]食べ物を 渡さない",
-  "en": "",
-  "status": "",
+  "en": "[0A]Give food[0A]Don't give food",
+  "status": "done",
   "notes": ""
  },
  {
@@ -844,8 +844,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「ドクター・ポチ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Doctor Pochi\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
   ],
   "max": 51,
   "jp": "[0A]パートナー「アルフォンヌ」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Alphonne\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -866,8 +866,8 @@
   ],
   "max": 51,
   "jp": "[0A]バトラー「朱紗真悟」が[0A]アソートメンバーから外れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Shingo Shusha\"[0A]left the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -877,8 +877,8 @@
   ],
   "max": 43,
   "jp": "[0A]バトラー「流竜馬」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Ryoma Nagare\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -888,8 +888,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「神隼人」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Hayato Jin\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -899,8 +899,8 @@
   ],
   "max": 43,
   "jp": "[0A]パートナー「巴武蔵」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Musashi Tomoe\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -910,8 +910,8 @@
   ],
   "max": 47,
   "jp": "[0A]バトラー「来留間慎一」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Shinichi Kuruma\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -921,8 +921,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「天外富三郎」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Tomisaburo Tengai\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -932,8 +932,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「早乙女博士」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Dr. Saotome\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -948,8 +948,8 @@
   ],
   "max": 15,
   "jp": "[0A]はい[0A]いいえ",
-  "en": "",
-  "status": "",
+  "en": "[0A]Yes[0A]No",
+  "status": "done",
   "notes": ""
  },
  {
@@ -960,8 +960,8 @@
   ],
   "max": 51,
   "jp": "[0A]バトラー「アイアンカイザー」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Iron Kaiser\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -971,8 +971,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「家早南友」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Nanyu Iyahaya\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -982,8 +982,8 @@
   ],
   "max": 47,
   "jp": "[0A]パートナー「家早さよ子」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Partner \"Sayoko Iyahaya\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -993,8 +993,8 @@
   ],
   "max": 51,
   "jp": "[0A]バトラー「シスター・ジル」が[0A]アソートに加わった",
-  "en": "",
-  "status": "",
+  "en": "[0A]Battler \"Sister Jill\"[0A]joined the party.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1004,8 +1004,8 @@
   ],
   "max": 23,
   "jp": "[0A]ＩＤカードＢ を使った",
-  "en": "",
-  "status": "",
+  "en": "[0A]Used ID Card B.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1015,8 +1015,8 @@
   ],
   "max": 27,
   "jp": "[0A]ＩＤカードＢ を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]ID Card B!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1026,8 +1026,8 @@
   ],
   "max": 15,
   "jp": "[0A]城門が開いた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Gate opened!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1038,8 +1038,8 @@
   ],
   "max": 23,
   "jp": "[0A]ＩＤカードＡ を使った",
-  "en": "",
-  "status": "",
+  "en": "[0A]Used ID Card A.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1049,8 +1049,8 @@
   ],
   "max": 27,
   "jp": "[0A]ＩＤカードＡ を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]ID Card A!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1060,8 +1060,8 @@
   ],
   "max": 27,
   "jp": "[0A]セキュリティ装置が停止した",
-  "en": "",
-  "status": "",
+  "en": "[0A]Security system disabled.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1071,8 +1071,8 @@
   ],
   "max": 23,
   "jp": "[0A]ＩＤカードＣ を使った",
-  "en": "",
-  "status": "",
+  "en": "[0A]Used ID Card C.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1082,8 +1082,8 @@
   ],
   "max": 27,
   "jp": "[0A]ＩＤカードＣ を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]ID Card C!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1093,8 +1093,8 @@
   ],
   "max": 31,
   "jp": "[0A]地下すいろのかぎ を[0A]手に入れた",
-  "en": "",
-  "status": "",
+  "en": "[0A]Got the[0A]Waterway Key!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1104,8 +1104,8 @@
   ],
   "max": 27,
   "jp": "[0A]地下すいろのかぎ を[0A]使った",
-  "en": "",
-  "status": "",
+  "en": "[0A]Used the[0A]Waterway Key.",
+  "status": "done",
   "notes": ""
  }
 ]

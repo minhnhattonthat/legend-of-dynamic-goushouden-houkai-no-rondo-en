@@ -6,8 +6,8 @@
   ],
   "max": 23,
   "jp": "防御属性【熱】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Fire defense +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
   ],
   "max": 23,
   "jp": "防御属性【叩】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Blunt defense +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
   ],
   "max": 23,
   "jp": "防御属性【斬】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Slash defense +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
   ],
   "max": 23,
   "jp": "防御属性【精神】＋５",
-  "en": "",
-  "status": "",
+  "en": "Mind defense +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
   ],
   "max": 19,
   "jp": "防御属性【雷】＋５",
-  "en": "",
-  "status": "",
+  "en": "Bolt defense +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
   ],
   "max": 19,
   "jp": "防御属性【冷】＋５",
-  "en": "",
-  "status": "",
+  "en": "Ice defense +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
   ],
   "max": 19,
   "jp": "防御属性【熱】＋５",
-  "en": "",
-  "status": "",
+  "en": "Fire defense +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
   ],
   "max": 19,
   "jp": "防御属性【叩】＋５",
-  "en": "",
-  "status": "",
+  "en": "Blunt defense +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
   ],
   "max": 19,
   "jp": "防御属性【斬】＋５",
-  "en": "",
-  "status": "",
+  "en": "Slash defense +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
   ],
   "max": 23,
   "jp": "攻撃属性【精神】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Mind attack +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -116,8 +116,8 @@
   ],
   "max": 23,
   "jp": "攻撃属性【雷】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
   ],
   "max": 23,
   "jp": "攻撃属性【冷】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Ice attack +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -138,8 +138,8 @@
   ],
   "max": 23,
   "jp": "攻撃属性【熱】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Fire attack +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -149,8 +149,8 @@
   ],
   "max": 23,
   "jp": "攻撃属性【叩】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -160,8 +160,8 @@
   ],
   "max": 23,
   "jp": "攻撃属性【斬】＋１０",
-  "en": "",
-  "status": "",
+  "en": "Slash attack +10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -171,8 +171,8 @@
   ],
   "max": 23,
   "jp": "攻撃属性【精神】＋５",
-  "en": "",
-  "status": "",
+  "en": "Mind attack +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -182,8 +182,8 @@
   ],
   "max": 19,
   "jp": "攻撃属性【雷】＋５",
-  "en": "",
-  "status": "",
+  "en": "Bolt attack +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
   ],
   "max": 19,
   "jp": "攻撃属性【冷】＋５",
-  "en": "",
-  "status": "",
+  "en": "Ice attack +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -204,8 +204,8 @@
   ],
   "max": 19,
   "jp": "攻撃属性【熱】＋５",
-  "en": "",
-  "status": "",
+  "en": "Fire attack +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
   ],
   "max": 19,
   "jp": "攻撃属性【叩】＋５",
-  "en": "",
-  "status": "",
+  "en": "Blunt attack +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
   ],
   "max": 19,
   "jp": "攻撃属性【斬】＋５",
-  "en": "",
-  "status": "",
+  "en": "Slash attack +5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -237,8 +237,8 @@
   ],
   "max": 15,
   "jp": "ＨＰ＋２５％",
-  "en": "",
-  "status": "",
+  "en": "HP+25%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
   ],
   "max": 27,
   "jp": "ＨＰ＋２０％（男性専用）",
-  "en": "",
-  "status": "",
+  "en": "HP+20% (men only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
   ],
   "max": 15,
   "jp": "ＨＰ＋１５％",
-  "en": "",
-  "status": "",
+  "en": "HP+15%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
   ],
   "max": 27,
   "jp": "ＨＰ＋１０％（男性専用）",
-  "en": "",
-  "status": "",
+  "en": "HP+10% (men only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
   ],
   "max": 11,
   "jp": "ＨＰ＋５％",
-  "en": "",
-  "status": "",
+  "en": "HP+5%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -292,8 +292,8 @@
   ],
   "max": 15,
   "jp": "ＤＰ＋２５％",
-  "en": "",
-  "status": "",
+  "en": "DP+25%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
   ],
   "max": 27,
   "jp": "ＤＰ＋２０％（女性専用）",
-  "en": "",
-  "status": "",
+  "en": "DP+20% (women only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -314,8 +314,8 @@
   ],
   "max": 15,
   "jp": "ＤＰ＋１５％",
-  "en": "",
-  "status": "",
+  "en": "DP+15%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
   ],
   "max": 27,
   "jp": "ＤＰ＋１０％（女性専用）",
-  "en": "",
-  "status": "",
+  "en": "DP+10% (women only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
   ],
   "max": 11,
   "jp": "ＤＰ＋５％",
-  "en": "",
-  "status": "",
+  "en": "DP+5%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -347,8 +347,8 @@
   ],
   "max": 15,
   "jp": "ＤＦ＋２０％",
-  "en": "",
-  "status": "",
+  "en": "DF+20%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -358,8 +358,8 @@
   ],
   "max": 15,
   "jp": "ＤＦ＋１５％",
-  "en": "",
-  "status": "",
+  "en": "DF+15%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -369,8 +369,8 @@
   ],
   "max": 15,
   "jp": "ＤＦ＋１０％",
-  "en": "",
-  "status": "",
+  "en": "DF+10%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -380,8 +380,8 @@
   ],
   "max": 11,
   "jp": "ＤＦ＋２０",
-  "en": "",
-  "status": "",
+  "en": "DF+20",
+  "status": "done",
   "notes": ""
  },
  {
@@ -391,8 +391,8 @@
   ],
   "max": 11,
   "jp": "ＤＦ＋１５",
-  "en": "",
-  "status": "",
+  "en": "DF+15",
+  "status": "done",
   "notes": ""
  },
  {
@@ -402,8 +402,8 @@
   ],
   "max": 11,
   "jp": "ＤＦ＋１０",
-  "en": "",
-  "status": "",
+  "en": "DF+10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -413,8 +413,8 @@
   ],
   "max": 11,
   "jp": "ＤＦ＋５",
-  "en": "",
-  "status": "",
+  "en": "DF+5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -424,8 +424,8 @@
   ],
   "max": 27,
   "jp": "ＤＸ＋１５％（女性専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+15% (women only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
   ],
   "max": 23,
   "jp": "ＤＸ＋１０（女性専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+10 (women only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -446,8 +446,8 @@
   ],
   "max": 23,
   "jp": "ＤＸ＋５（女性専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+5 (women only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -457,8 +457,8 @@
   ],
   "max": 27,
   "jp": "ＤＸ＋１５％（男性専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+15% (men only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -468,8 +468,8 @@
   ],
   "max": 23,
   "jp": "ＤＸ＋１０（男性専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+10 (men only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -479,8 +479,8 @@
   ],
   "max": 23,
   "jp": "ＤＸ＋５（男性専用）",
-  "en": "",
-  "status": "",
+  "en": "DX+5 (men only)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -490,8 +490,8 @@
   ],
   "max": 15,
   "jp": "ＡＴ＋１５％",
-  "en": "",
-  "status": "",
+  "en": "AT+15%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -501,8 +501,8 @@
   ],
   "max": 15,
   "jp": "ＡＴ＋１０％",
-  "en": "",
-  "status": "",
+  "en": "AT+10%",
+  "status": "done",
   "notes": ""
  },
  {
@@ -512,8 +512,8 @@
   ],
   "max": 11,
   "jp": "ＡＴ＋２０",
-  "en": "",
-  "status": "",
+  "en": "AT+20",
+  "status": "done",
   "notes": ""
  },
  {
@@ -523,8 +523,8 @@
   ],
   "max": 11,
   "jp": "ＡＴ＋１５",
-  "en": "",
-  "status": "",
+  "en": "AT+15",
+  "status": "done",
   "notes": ""
  },
  {
@@ -534,8 +534,8 @@
   ],
   "max": 11,
   "jp": "ＡＴ＋１０",
-  "en": "",
-  "status": "",
+  "en": "AT+10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
   ],
   "max": 11,
   "jp": "ＡＴ＋５",
-  "en": "",
-  "status": "",
+  "en": "AT+5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -556,8 +556,8 @@
   ],
   "max": 27,
   "jp": "お腹が空いた時に食べよう",
-  "en": "",
-  "status": "",
+  "en": "Eat it when you're hungry",
+  "status": "done",
   "notes": ""
  },
  {
@@ -567,8 +567,8 @@
   ],
   "max": 27,
   "jp": "味方全体の状態異常を治療",
-  "en": "",
-  "status": "",
+  "en": "Cures all allies' ailments",
+  "status": "done",
   "notes": ""
  },
  {
@@ -578,8 +578,8 @@
   ],
   "max": 31,
   "jp": "味方全体のＨＰを２５０程度回復",
-  "en": "",
-  "status": "",
+  "en": "All allies regain about 250 HP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -589,8 +589,8 @@
   ],
   "max": 31,
   "jp": "味方全体のＨＰを８０程度回復",
-  "en": "",
-  "status": "",
+  "en": "All allies regain about 80 HP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -600,8 +600,8 @@
   ],
   "max": 23,
   "jp": "敵全体に【毒】を与える",
-  "en": "",
-  "status": "",
+  "en": "Poisons all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -611,8 +611,8 @@
   ],
   "max": 27,
   "jp": "敵全体に【暗闇】を与える",
-  "en": "",
-  "status": "",
+  "en": "Blinds all enemies",
+  "status": "done",
   "notes": ""
  },
  {
@@ -623,8 +623,8 @@
   ],
   "max": 23,
   "jp": "敵全体に【熱】属性攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on all foes",
+  "status": "done",
   "notes": ""
  },
  {
@@ -634,8 +634,8 @@
   ],
   "max": 23,
   "jp": "敵単体に【熱】属性攻撃",
-  "en": "",
-  "status": "",
+  "en": "Fire attack on one foe",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
   ],
   "max": 19,
   "jp": "敵単体のＤＸが減少",
-  "en": "",
-  "status": "",
+  "en": "Lowers one foe's DX",
+  "status": "done",
   "notes": ""
  },
  {
@@ -656,8 +656,8 @@
   ],
   "max": 19,
   "jp": "敵単体のＤＦが減少",
-  "en": "",
-  "status": "",
+  "en": "Lowers one foe's DF",
+  "status": "done",
   "notes": ""
  },
  {
@@ -667,8 +667,8 @@
   ],
   "max": 23,
   "jp": "味方単体のＤＸが上昇",
-  "en": "",
-  "status": "",
+  "en": "Raises one ally's DX",
+  "status": "done",
   "notes": ""
  },
  {
@@ -678,8 +678,8 @@
   ],
   "max": 23,
   "jp": "味方単体のＤＦが上昇",
-  "en": "",
-  "status": "",
+  "en": "Raises one ally's DF",
+  "status": "done",
   "notes": ""
  },
  {
@@ -689,8 +689,8 @@
   ],
   "max": 23,
   "jp": "味方単体のＡＴが上昇",
-  "en": "",
-  "status": "",
+  "en": "Raises one ally's AT",
+  "status": "done",
   "notes": ""
  },
  {
@@ -700,8 +700,8 @@
   ],
   "max": 27,
   "jp": "通常戦闘から100％逃げ出せる",
-  "en": "",
-  "status": "",
+  "en": "Always flee normal battles",
+  "status": "done",
   "notes": ""
  },
  {
@@ -711,8 +711,8 @@
   ],
   "max": 19,
   "jp": "敵単体を混乱させる",
-  "en": "",
-  "status": "",
+  "en": "Confuses one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -722,8 +722,8 @@
   ],
   "max": 19,
   "jp": "敵単体を魅了する",
-  "en": "",
-  "status": "",
+  "en": "Charms one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -733,8 +733,8 @@
   ],
   "max": 19,
   "jp": "敵単体を眠らせる",
-  "en": "",
-  "status": "",
+  "en": "Puts one foe asleep",
+  "status": "done",
   "notes": ""
  },
  {
@@ -744,8 +744,8 @@
   ],
   "max": 19,
   "jp": "敵単体を暗闇にする",
-  "en": "",
-  "status": "",
+  "en": "Blinds one enemy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -756,8 +756,8 @@
   ],
   "max": 15,
   "jp": "戦闘不能を治療",
-  "en": "",
-  "status": "",
+  "en": "Revives from KO",
+  "status": "done",
   "notes": ""
  },
  {
@@ -767,8 +767,8 @@
   ],
   "max": 31,
   "jp": "戦闘不能以外の状態異常を治療",
-  "en": "",
-  "status": "",
+  "en": "Cures all ailments except KO",
+  "status": "done",
   "notes": ""
  },
  {
@@ -778,8 +778,8 @@
   ],
   "max": 27,
   "jp": "石化、凍結、魅了以外を治療",
-  "en": "",
-  "status": "",
+  "en": "All but Stone/Freeze/Charm",
+  "status": "done",
   "notes": ""
  },
  {
@@ -789,8 +789,8 @@
   ],
   "max": 31,
   "jp": "味方単体のＤＰを８０程度回復",
-  "en": "",
-  "status": "",
+  "en": "One ally regains about 80 DP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -800,8 +800,8 @@
   ],
   "max": 31,
   "jp": "味方単体のＤＰを３０程度回復",
-  "en": "",
-  "status": "",
+  "en": "One ally regains about 30 DP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -811,8 +811,8 @@
   ],
   "max": 31,
   "jp": "味方単体のＨＰを２５０程度回復",
-  "en": "",
-  "status": "",
+  "en": "One ally regains about 250 HP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -822,8 +822,8 @@
   ],
   "max": 31,
   "jp": "味方単体のＨＰを８０程度回復",
-  "en": "",
-  "status": "",
+  "en": "One ally regains about 80 HP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -833,8 +833,8 @@
   ],
   "max": 31,
   "jp": "味方単体のＨＰを３０程度回復",
-  "en": "",
-  "status": "",
+  "en": "One ally regains about 30 HP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -844,8 +844,8 @@
   ],
   "max": 15,
   "jp": "アイテム説明",
-  "en": "",
-  "status": "",
+  "en": "Description",
+  "status": "done",
   "notes": ""
  },
  {
@@ -857,8 +857,8 @@
   ],
   "max": 7,
   "jp": "下忍",
-  "en": "",
-  "status": "",
+  "en": "Genin",
+  "status": "done",
   "notes": ""
  },
  {
@@ -873,8 +873,8 @@
   ],
   "max": 15,
   "jp": "魔王グレイド",
-  "en": "",
-  "status": "",
+  "en": "Dark Lord Grade",
+  "status": "done",
   "notes": ""
  },
  {
@@ -887,8 +887,8 @@
   ],
   "max": 11,
   "jp": "暴走メカ",
-  "en": "",
-  "status": "",
+  "en": "Rogue Mecha",
+  "status": "done",
   "notes": ""
  },
  {
@@ -904,8 +904,8 @@
   ],
   "max": 15,
   "jp": "操られた仲間",
-  "en": "",
-  "status": "",
+  "en": "Controlled Ally",
+  "status": "done",
   "notes": ""
  },
  {
@@ -951,8 +951,8 @@
   ],
   "max": 7,
   "jp": "暴徒",
-  "en": "",
-  "status": "",
+  "en": "Rioter",
+  "status": "done",
   "notes": ""
  },
  {
@@ -987,8 +987,8 @@
   ],
   "max": 15,
   "jp": "ハチュウ人類",
-  "en": "",
-  "status": "",
+  "en": "Reptilian",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1062,8 +1062,8 @@
   ],
   "max": 7,
   "jp": "暴走族",
-  "en": "",
-  "status": "",
+  "en": "Biker",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1080,8 +1080,8 @@
   ],
   "max": 7,
   "jp": "無法者",
-  "en": "",
-  "status": "",
+  "en": "Outlaw",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1092,8 +1092,8 @@
   ],
   "max": 19,
   "jp": "パラダイス中学生",
-  "en": "",
-  "status": "",
+  "en": "Paradise Student",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1122,8 +1122,8 @@
   ],
   "max": 11,
   "jp": "不良学生",
-  "en": "",
-  "status": "",
+  "en": "Delinquent",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1188,8 +1188,8 @@
   ],
   "max": 15,
   "jp": "パンサー団員",
-  "en": "",
-  "status": "",
+  "en": "Panther Claw",
+  "status": "done",
   "notes": ""
  }
 ]

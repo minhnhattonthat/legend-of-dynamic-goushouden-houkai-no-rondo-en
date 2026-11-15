@@ -1,0 +1,99 @@
+r0D0000		rom:misc	19 bytes	マジンガーＺで飛ぶ
+r0D0014		rom:misc	19 bytes	ロボットから降りる
+r0D0028		rom:misc	15 bytes	ロボットに乗る
+r0D0038		rom:misc	7 bytes	戻る
+r0D00BC		rom:misc	3 bytes	「
+r0D00C0		rom:misc	3 bytes	」[0A]
+r0D00C4		rom:misc	3 bytes	個
+r0D00C8		rom:misc	47 bytes	[0A]バトラー「マジンガーＺ」が[0A]アソートに加わった
+r0D00F8		rom:misc	47 bytes	[0A]バトラー「ゲッターロボ」が[0A]アソートに加わった
+r0D0128		rom:misc	27 bytes	[0A]セーブする[0A]セーブしない
+r0D0144		rom:misc	43 bytes	[0A]パートナー「飛鳥了」が[0A]アソートに加わった
+r0D0170		rom:misc	51 bytes	[0A]パートナー「サイコジェニー」が[0A]アソートに加わった
+r0D01A4		rom:misc	47 bytes	[0A]パートナー「閻魔大王」が[0A]アソートに加わった
+r0D01D4		rom:misc	47 bytes	[0A]パートナー「早乙女博士」が[0A]アソートに加わった
+r0D0204		rom:misc	47 bytes	[0A]パートナー「早見青児」が[0A]アソートに加わった
+r0D0234		rom:misc	27 bytes	[0A]ろうやのかぎ を[0A]手に入れた
+r0D0250		rom:misc	23 bytes	[0A]ろうやのかぎ を使った
+r0D0268		rom:misc	47 bytes	[0A]不動明と 一緒に行く[0A]如月ハニーと 一緒に行く
+r0D0298		rom:misc	15 bytes	[0A]はい[0A]いいえ
+r0D02A8		rom:misc	47 bytes	[0A]バトラー「如月ハニー」が[0A]アソートに加わった
+r0D02D8		rom:misc	43 bytes	[0A]バトラー「不動明」が[0A]アソートに加わった
+r0D0304		rom:misc	43 bytes	[0A]バトラー「ジャック」が[0A]アソートに加わった
+r0D0330		rom:misc	43 bytes	[0A]パートナー「逞馬竜」が[0A]アソートに加わった
+r0D035C		rom:misc	47 bytes	[0A]パートナー「早乙女門土」が[0A]アソートに加わった
+r0D038C		rom:misc	47 bytes	[0A]パートナー「身堂竜馬」が[0A]アソートに加わった
+r0D03BC		rom:misc	47 bytes	[0A]バトラー「スラムキング」が[0A]アソートに加わった
+r0D03EC		rom:misc	51 bytes	[0A]パートナー「スラムクィーン」が[0A]アソートに加わった
+r0D0420		rom:misc	59 bytes	[0A]バトラー「柳生十兵衛みつ子」が[0A]アソートメンバーから外れた
+r0D045C		rom:misc	47 bytes	[0A]パートナー「山岸八十八」が[0A]アソートに加わった
+r0D048C		rom:misc	43 bytes	[0A]パートナー「袋小路」が[0A]アソートに加わった
+r0D04B8		rom:misc	27 bytes	[0A]そうこのかぎ を[0A]手に入れた
+r0D04D4		rom:misc	47 bytes	[0A]バトラー「悪馬尻菊の助」が[0A]アソートに加わった
+r0D0504		rom:misc	43 bytes	[0A]パートナー「女蛮子」が[0A]アソートに加わった
+r0D0530		rom:misc	43 bytes	[0A]パートナー「男男子」が[0A]アソートに加わった
+r0D055C		rom:misc	47 bytes	[0A]パートナー「女蛮千代」が[0A]アソートに加わった
+r0D058C		rom:misc	23 bytes	[0A]地下室のかぎ を使った
+r0D05A4		rom:misc	27 bytes	[0A]地下室のかぎ を[0A]手に入れた
+r0D05C0		rom:misc	47 bytes	[0A]バトラー「けっこう仮面」が[0A]アソートに加わった
+r0D05F0		rom:misc	47 bytes	[0A]バトラー「ヒゲゴジラ」が[0A]アソートに加わった
+r0D0620		rom:misc	51 bytes	[0A]バトラー「柳生十兵衛みつ子」が[0A]アソートに加わった
+r0D0654		rom:misc	23 bytes	[0A]そうこのかぎ を使った
+r0D066C		rom:misc	51 bytes	[0A]パートナー「悪馬尻駄ヱ門」が[0A]アソートに加わった
+r0D06A0		rom:misc	51 bytes	[0A]パートナー「悪馬尻五ヱ門」が[0A]アソートに加わった
+r0D06D4		rom:misc	51 bytes	[0A]パートナー「悪馬尻直次郎」が[0A]アソートに加わった
+r0D0708		rom:misc	47 bytes	[0A]パートナー「悪馬尻吉三」が[0A]アソートに加わった
+r0D0738		rom:misc	47 bytes	[0A]バトラー「えん魔くん」が[0A]アソートに加わった
+r0D0768		rom:misc	43 bytes	[0A]パートナー「雪子姫」が[0A]アソートに加わった
+r0D0794		rom:misc	47 bytes	[0A]パートナー「カパエル」が[0A]アソートに加わった
+r0D07C4		rom:misc	43 bytes	[0A]バトラー「兜甲児」が[0A]アソートに加わった
+r0D07F0		rom:misc	55 bytes	[0A]バトラー「如月ハニー」が[0A]アソートメンバーから外れた
+r0D0828		rom:misc	55 bytes	[0A]パートナー「早見青児」が[0A]アソートメンバーから外れた
+r0D0860		rom:misc	51 bytes	[0A]バトラー「不動明」が[0A]アソートメンバーから外れた
+r0D0894		rom:misc	51 bytes	[0A]パートナー「飛鳥了」が[0A]アソートメンバーから外れた
+r0D08C8		rom:misc	47 bytes	[0A]バトラー「手天童子郎」が[0A]アソートに加わった
+r0D08F8		rom:misc	43 bytes	[0A]パートナー「護鬼」が[0A]アソートに加わった
+r0D0924		rom:misc	43 bytes	[0A]パートナー「戦鬼」が[0A]アソートに加わった
+r0D0950		rom:misc	47 bytes	[0A]パートナー「白鳥美雪」が[0A]アソートに加わった
+r0D0980		rom:misc	47 bytes	[0A]バトラー「鬼谷妖次郎」が[0A]アソートに加わった
+r0D09B0		rom:misc	43 bytes	[0A]パートナー「魔動鬼」が[0A]アソートに加わった
+r0D09DC		rom:misc	43 bytes	[0A]バトラー「弓さやか」が[0A]アソートに加わった
+r0D0A08		rom:misc	39 bytes	[0A]バトラー「ボス」が[0A]アソートに加わった
+r0D0A30		rom:misc	43 bytes	[0A]パートナー「ムチャ」が[0A]アソートに加わった
+r0D0A5C		rom:misc	43 bytes	[0A]パートナー「ヌケ」が[0A]アソートに加わった
+r0D0A88		rom:misc	47 bytes	[0A]バトラー「アフロダイＡ」が[0A]アソートに加わった
+r0D0AB8		rom:misc	47 bytes	[0A]バトラー「ボスボロット」が[0A]アソートに加わった
+r0D0AE8		rom:misc	27 bytes	[0A]セーブする[0A]セーブしない
+r0D0B04		rom:misc	19 bytes	[0A]シャッターが開いた
+r0D0B18		rom:misc	51 bytes	[0A]パートナー「あしゅら男爵」が[0A]アソートに加わった
+r0D0B4C		rom:misc	47 bytes	[0A]バトラー「摩可キッカイ」が[0A]アソートに加わった
+r0D0B7C		rom:misc	51 bytes	[0A]パートナー「摩呵フユカイ」が[0A]アソートに加わった
+r0D0BB0		rom:misc	55 bytes	[0A]パートナー「美剣千草」が[0A]アソートメンバーから外れた
+r0D0BE8		rom:misc	43 bytes	[0A]バトラー「瓜生麗」が[0A]アソートに加わった
+r0D0C14		rom:misc	47 bytes	[0A]パートナー「雪代小百合」が[0A]アソートに加わった
+r0D0C44		rom:misc	23 bytes	[0A]巨大兵器 を[0A]手に入れた
+r0D0C5C		rom:misc	35 bytes	[0A]食べ物を 渡す[0A]食べ物を 渡さない
+r0D0C80		rom:misc	51 bytes	[0A]パートナー「ドクター・ポチ」が[0A]アソートに加わった
+r0D0CB4		rom:misc	51 bytes	[0A]パートナー「アルフォンヌ」が[0A]アソートに加わった
+r0D0CE8		rom:misc	51 bytes	[0A]バトラー「朱紗真悟」が[0A]アソートメンバーから外れた
+r0D0D1C		rom:misc	43 bytes	[0A]バトラー「流竜馬」が[0A]アソートに加わった
+r0D0D48		rom:misc	43 bytes	[0A]パートナー「神隼人」が[0A]アソートに加わった
+r0D0D74		rom:misc	43 bytes	[0A]パートナー「巴武蔵」が[0A]アソートに加わった
+r0D0DA0		rom:misc	47 bytes	[0A]バトラー「来留間慎一」が[0A]アソートに加わった
+r0D0DD0		rom:misc	47 bytes	[0A]パートナー「天外富三郎」が[0A]アソートに加わった
+r0D0E00		rom:misc	47 bytes	[0A]パートナー「早乙女博士」が[0A]アソートに加わった
+r0D0E30		rom:misc	15 bytes	[0A]はい[0A]いいえ
+r0D0E40		rom:misc	51 bytes	[0A]バトラー「アイアンカイザー」が[0A]アソートに加わった
+r0D0E74		rom:misc	47 bytes	[0A]パートナー「家早南友」が[0A]アソートに加わった
+r0D0EA4		rom:misc	47 bytes	[0A]パートナー「家早さよ子」が[0A]アソートに加わった
+r0D0ED4		rom:misc	51 bytes	[0A]バトラー「シスター・ジル」が[0A]アソートに加わった
+r0D0F08		rom:misc	23 bytes	[0A]ＩＤカードＢ を使った
+r0D0F20		rom:misc	27 bytes	[0A]ＩＤカードＢ を[0A]手に入れた
+r0D0F3C		rom:misc	15 bytes	[0A]城門が開いた
+r0D0F4C		rom:misc	23 bytes	[0A]ＩＤカードＡ を使った
+r0D0F64		rom:misc	27 bytes	[0A]ＩＤカードＡ を[0A]手に入れた
+r0D0F80		rom:misc	27 bytes	[0A]セキュリティ装置が停止した
+r0D0F9C		rom:misc	23 bytes	[0A]ＩＤカードＣ を使った
+r0D0FB4		rom:misc	27 bytes	[0A]ＩＤカードＣ を[0A]手に入れた
+r0D0FD0		rom:misc	31 bytes	[0A]地下すいろのかぎ を[0A]手に入れた
+r0D0FF0		rom:misc	27 bytes	[0A]地下すいろのかぎ を[0A]使った

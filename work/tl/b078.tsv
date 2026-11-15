@@ -1,0 +1,150 @@
+r0DB00C		rom:char_name,char_short,enemy_name	11 bytes, 48 px	ドラゴン
+r0DB018		rom:char_short	15 bytes, 48 px	次元獣グレイド
+r0DB028		rom:char_short	15 bytes, 48 px	メカあしゅら
+r0DB038		rom:char_name,enemy_name	19 bytes, 230 px	機械獣あしゅら男爵
+r0DB04C		rom:char_short	19 bytes, 48 px	ひさんしょうぐん
+r0DB060		rom:char_name,enemy_name	11 bytes, 230 px	悲惨将軍
+r0DB06C		rom:char_name,char_short	15 bytes, 48 px	？？？？？？
+r0DB07C		rom:char_short	15 bytes, 48 px	うんのろくろう
+r0DB08C		rom:char_name	11 bytes	海野六郎
+r0DB098		rom:char_short	15 bytes, 48 px	いさにゅうどう
+r0DB0A8		rom:char_name,enemy_name	11 bytes, 230 px	伊佐入道
+r0DB0B4		rom:char_short	7 bytes, 48 px	サタン
+r0DB0BC		rom:char_name,enemy_name	15 bytes, 230 px	サタンの足の爪
+r0DB0CC		rom:char_name	11 bytes	デーモンC
+r0DB0D8		rom:char_name	11 bytes	デーモンB
+r0DB0E4		rom:char_short,enemy_name	11 bytes, 48 px	デーモン
+r0DB0F0		rom:char_name	11 bytes	デーモンA
+r0DB0FC		rom:char_name	15 bytes	巨大デビルマン
+r0DB10C		rom:char_short	15 bytes, 48 px	Ｃ・シレーヌ
+r0DB11C		rom:char_name,enemy_name	19 bytes, 230 px	カイム・シレーヌ
+r0DB130		rom:char_short	11 bytes, 48 px	スサノオウ
+r0DB13C		rom:char_name	11 bytes	英雄王真神
+r0DB148		rom:char_name,char_short,enemy_name,rec18	11 bytes, 48 px	ガードマン
+r0DB154		rom:char_short	15 bytes, 48 px	次元神グレイド
+r0DB164		rom:char_short	15 bytes, 48 px	次元王グレイド
+r0DB174		rom:char_name,enemy_name	11 bytes, 230 px	グレイド
+r0DB180		rom:char_short	15 bytes, 48 px	くろいまもの
+r0DB190		rom:char_name,enemy_name	11 bytes, 230 px	黒い魔物
+r0DB19C		rom:char_short	15 bytes, 48 px	まのざんがい
+r0DB1AC		rom:char_name,enemy_name	11 bytes, 230 px	魔の残骸
+r0DB1B8		rom:char_name,char_short	7 bytes, 48 px	ダンテ
+r0DB1C0		rom:char_short	7 bytes, 48 px	うつぎ
+r0DB1C8		rom:char_name	11 bytes	宇津木涼
+r0DB1D4		rom:char_name,char_short	15 bytes, 48 px	けっこう仮面
+r0DB1E4		rom:char_short	11 bytes, 48 px	こうじゃ
+r0DB1F0		rom:char_name,enemy_name	11 bytes, 230 px	果扨虹蛇
+r0DB1FC		rom:char_short	11 bytes, 48 px	キッカイ
+r0DB208		rom:char_name	15 bytes	摩呵キッカイ
+r0DB218		rom:char_short,rec18	7 bytes, 48 px	どらの
+r0DB220		rom:char_name,enemy_name	15 bytes, 230 px	怒良野キラー
+r0DB230		rom:char_short,rec18	11 bytes, 48 px	ケダマン
+r0DB23C		rom:char_name	15 bytes	阿仁丸ケダマン
+r0DB24C		rom:char_short	7 bytes, 48 px	みろく
+r0DB254		rom:char_name	11 bytes	無幻美勒
+r0DB260		rom:char_short	15 bytes, 48 px	Ｉ・カイザー
+r0DB270		rom:char_name,enemy_name	19 bytes, 230 px	アイアンカイザー
+r0DB284		rom:char_name	11 bytes	暴走族Ｃ
+r0DB290		rom:char_name	11 bytes	暴走族Ｂ
+r0DB29C		rom:char_short	15 bytes, 48 px	ぼうそうぞく
+r0DB2AC		rom:char_name	11 bytes	暴走族Ａ
+r0DB2B8		rom:char_name	11 bytes	無法者Ｃ
+r0DB2C4		rom:char_name	11 bytes	無法者Ｂ
+r0DB2D0		rom:char_short	11 bytes, 48 px	むほうもの
+r0DB2DC		rom:char_name	11 bytes	無法者Ａ
+r0DB2E8		rom:char_name	11 bytes	不良学生Ｃ
+r0DB2F4		rom:char_name	11 bytes	不良学生Ｂ
+r0DB300		rom:char_short	19 bytes, 48 px	ふりょうがくせい
+r0DB314		rom:char_name	11 bytes	不良学生Ａ
+r0DB320		rom:char_name	7 bytes	下忍C
+r0DB328		rom:char_name	7 bytes	下忍B
+r0DB330		rom:char_short	7 bytes, 48 px	げにん
+r0DB338		rom:char_name	7 bytes	下忍A
+r0DB340		rom:char_name	15 bytes	魔獣ハンターＣ
+r0DB350		rom:char_name	15 bytes	魔獣ハンターＢ
+r0DB360		rom:char_short	19 bytes, 48 px	まじゅうハンター
+r0DB374		rom:char_name	15 bytes	魔獣ハンターＡ
+r0DB384		rom:char_name	11 bytes	不死団Ｃ
+r0DB390		rom:char_name	11 bytes	不死団Ｂ
+r0DB39C		rom:char_short,enemy_name	7 bytes, 48 px	不死団
+r0DB3A4		rom:char_name	11 bytes	不死団Ａ
+r0DB3B0		rom:char_name	15 bytes	ハチュウ人類Ｃ
+r0DB3C0		rom:char_name	15 bytes	ハチュウ人類Ｂ
+r0DB3D0		rom:char_short	19 bytes, 48 px	ハチュウじんるい
+r0DB3E4		rom:char_name	15 bytes	ハチュウ人類Ａ
+r0DB3F4		rom:char_name	15 bytes	メカザウルスＣ
+r0DB404		rom:char_name	15 bytes	メカザウルスＢ
+r0DB414		rom:char_short,enemy_name	15 bytes, 48 px	メカザウルス
+r0DB424		rom:char_name	15 bytes	メカザウルスＡ
+r0DB434		rom:char_name	11 bytes	機械獣Ｃ
+r0DB440		rom:char_name	11 bytes	機械獣Ｂ
+r0DB44C		rom:char_short	15 bytes, 48 px	きかいじゅう
+r0DB45C		rom:char_name	11 bytes	機械獣Ａ
+r0DB468		rom:char_name	11 bytes	幻魔衆Ｃ
+r0DB474		rom:char_name	11 bytes	幻魔衆Ｂ
+r0DB480		rom:char_short	15 bytes, 48 px	げんましゅう
+r0DB490		rom:char_name	11 bytes	幻魔衆Ａ
+r0DB49C		rom:char_name	11 bytes	争魔衆Ｃ
+r0DB4A8		rom:char_name	11 bytes	争魔衆Ｂ
+r0DB4B4		rom:char_short	15 bytes, 48 px	そうましゅう
+r0DB4C4		rom:char_name	11 bytes	争魔衆Ａ
+r0DB4D0		rom:char_name	23 bytes	聖パラダイス中学生Ｃ
+r0DB4E8		rom:char_name	23 bytes	聖パラダイス中学生Ｂ
+r0DB500		rom:char_short	11 bytes, 48 px	パラ中生
+r0DB50C		rom:char_name	23 bytes	聖パラダイス中学生Ａ
+r0DB524		rom:char_name	11 bytes	大帝国軍人C
+r0DB530		rom:char_name	11 bytes	大帝国軍人B
+r0DB53C		rom:char_short	19 bytes, 48 px	ていこくぐんじん
+r0DB550		rom:char_name	11 bytes	大帝国軍人A
+r0DB55C		rom:char_name	11 bytes	死神警察３
+r0DB568		rom:char_name	11 bytes	死神警察２
+r0DB574		rom:char_name	11 bytes	死神警察１
+r0DB580		rom:char_name	11 bytes	死神警察Ｃ
+r0DB58C		rom:char_name	11 bytes	死神警察Ｂ
+r0DB598		rom:char_short	19 bytes, 48 px	しにがみけいさつ
+r0DB5AC		rom:char_name	11 bytes	死神警察Ａ
+r0DB5B8		rom:char_name	11 bytes	外道会３
+r0DB5C4		rom:char_name	11 bytes	外道会２
+r0DB5D0		rom:char_name	11 bytes	外道会１
+r0DB5DC		rom:char_name	11 bytes	外道会Ｃ
+r0DB5E8		rom:char_name	11 bytes	外道会Ｂ
+r0DB5F4		rom:char_short	11 bytes, 48 px	げどうかい
+r0DB600		rom:char_name	11 bytes	外道会Ａ
+r0DB60C		rom:char_name	15 bytes	パンサー団員C
+r0DB61C		rom:char_name	15 bytes	パンサー団員B
+r0DB62C		rom:char_short	19 bytes, 48 px	パンサーだんいん
+r0DB640		rom:char_name	15 bytes	パンサー団員A
+r0DB650		rom:char_short	11 bytes, 48 px	うりゅう
+r0DB65C		rom:char_name,enemy_name	7 bytes, 230 px	瓜生麗
+r0DB664		rom:char_short	7 bytes, 48 px	ささき
+r0DB66C		rom:char_name,enemy_name	11 bytes, 230 px	佐々木剣道
+r0DB678		rom:char_short	7 bytes, 48 px	すさ
+r0DB680		rom:char_name	11 bytes	朱紗真悟
+r0DB68C		rom:char_short	11 bytes, 48 px	げんぞう
+r0DB698		rom:char_name,enemy_name	11 bytes, 230 px	来留間源三
+r0DB6A4		rom:char_short,enemy_name	11 bytes, 48 px	シャフト
+r0DB6B0		rom:char_name	15 bytes	シャフト博士
+r0DB6C0		rom:char_short	11 bytes, 48 px	しんいち
+r0DB6CC		rom:char_name	11 bytes	来留間慎一
+r0DB6D8		rom:char_short,enemy_name	7 bytes, 48 px	ゴール
+r0DB6E0		rom:char_name	19 bytes	地底魔王・ゴール
+r0DB6F4		rom:char_name,char_short,enemy_name	7 bytes, 48 px	モバ
+r0DB6FC		rom:char_name,char_short,enemy_name	7 bytes, 48 px	ガロ
+r0DB704		rom:char_name,char_short,enemy_name	7 bytes, 48 px	ラド
+r0DB70C		rom:char_name,char_short,enemy_name	7 bytes, 48 px	ジガ
+r0DB714		rom:char_short	11 bytes, 48 px	りょうま
+r0DB720		rom:char_name	7 bytes	流竜馬
+r0DB728		rom:char_name,char_short	11 bytes, 48 px	ゲッター３
+r0DB734		rom:char_name,char_short	11 bytes, 48 px	ゲッター２
+r0DB740		rom:char_short	11 bytes, 48 px	ゲッター1
+r0DB74C		rom:char_name	11 bytes	ゲッター１
+r0DB758		rom:char_short	11 bytes, 48 px	Ｄｒ．ヘル
+r0DB764		rom:char_name,enemy_name	15 bytes, 230 px	ドクター・ヘル
+r0DB774		rom:char_short	11 bytes, 48 px	ブロッケン
+r0DB780		rom:char_name	15 bytes	ブロッケン伯爵
+r0DB790		rom:char_short,enemy_name	11 bytes, 48 px	キングダン
+r0DB79C		rom:char_name	19 bytes	キングダンＸ１０
+r0DB7B0		rom:char_name,char_short,enemy_name	19 bytes, 48 px	ゴーストファイア
+r0DB7C4		rom:char_name,char_short	7 bytes, 48 px	ボス
+r0DB7CC		rom:char_short	7 bytes, 48 px	さやか
+r0DB7D4		rom:char_name	11 bytes	弓さやか

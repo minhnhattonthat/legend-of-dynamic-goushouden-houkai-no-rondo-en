@@ -1,0 +1,100 @@
+48.00	Ryo	dlg	dlg 192/184 px a line, wrapped by the tool	よ～し 行くぞ！
+48.01	Ryo	dlg	dlg 192/184 px a line, wrapped by the tool	きやがったな… いくぜ！
+48.02	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	ゲッターロボ率いる先発部隊が\n始まりの丘に向け 出発！\n巨大な黒い魔物と\n交戦を開始しました！
+48.03	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	ついに始まったか！
+48.04	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	地獄別荘の転送 完了しました！
+48.05	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	ここまでは予定どおりだ！
+48.06	Ryo	dlg	dlg 192/184 px a line, wrapped by the tool	くそッ！\n城がバリアで囲まれてる！？\nゲッターが城に近づけないぞ！\nなんとかしてくれ 攻撃隊！
+48.07	Shinichi	dlg	dlg 192/184 px a line, wrapped by the tool	ゲッターが 巨大な黒い魔物と\n戦ってるな\nしかし 城には近づけないようだ…
+48.08	Enma-kun	dlg	dlg 192/184 px a line, wrapped by the tool	城が バリアみたいなもので\n守られてるようだしな\nでも 暴徒達だって 城の中に\nいるんだろ？\nどこかに 入口があるのかな…
+48.09	Enma-kun	dlg	dlg 192/184 px a line, wrapped by the tool	やったぜ！ これでゲッターロボが\n城内に入れる！
+48.10	Ryo	dlg	dlg 192/184 px a line, wrapped by the tool	城内に突入だ！
+48.11	Ryo	dlg	dlg 192/184 px a line, wrapped by the tool	しまった！
+48.12	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	大変です 早乙女博士！\n\nゲッターロボが\n敵に捕らえられてしまいました！
+48.13	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	それで攻撃隊は…！？
+48.14	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	それが 攻撃隊との通信も\n途絶えてしまいました！
+48.15	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	そんな…
+48.16	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	急いで 対策を考えなければ\nならんな…
+48.17	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	厳しい状況だが 君は決して\nここを出ては いかんぞ！\n敵の術中に はまるようなことを\nするなよ！
+48.18	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	暴徒達が現れました！\n\n居住エリアに向かって\n進軍中です！
+48.19	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	とうとう来たか…\n明君！\n{p}を 安全な場所に\n連れて行ってくれたまえ！
+48.20	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	行くぞ {p}！
+48.21	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	で でも…！
+48.22	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	行くんだ！
+48.23	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	決して この部屋から出るなよ！\n\n俺は 早乙女博士のところへ戻る\n\n新しい情報が入ったら\n教えに来るよ
+48.24	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	明君…
+48.25	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	耐えるんだ {p}！\n俺だってホントは戦いたいんだ！
+48.26	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	デビルマンとなった明が\n戦うことをガマンしている\n何故だか解るかい\n{p}？
+48.27	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	………
+48.28	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	明は 君を守りたいんだよ\n\n君が うらやましいよ
+48.29	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	何やっているんだ {p}！\n部屋に戻るんだ！
+48.30	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	部屋に戻りなさい\n{p}君！\n戦況に変化があったら\n必ず知らせるから！
+48.31	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	あれだけ言ったのに\n{p}の野郎\nどこへ行きやがった！？\n…ん？
+48.32	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	あいつ まさか…？
+48.33	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	…そういうことか
+48.34	Guard	dlg	dlg 192/184 px a line, wrapped by the tool	お おまえは！？
+48.35	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	{p} みごとにそいつに\n騙されちまったな
+48.36	Guard	dlg	dlg 192/184 px a line, wrapped by the tool	………
+48.37	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	{p}に\n暴徒達の姿を見せたり\n俺達と{p}を\n引き離そうとしたり\n怪しいと思ったぜ！
+48.38	Guard	dlg	dlg 192/184 px a line, wrapped by the tool	気がつかれていたのか…\nだが 邪魔は させんぞ！
+48.39	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ごめん 明君…\n僕…
+48.40	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	解ってるぜ {p}
+48.41	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	さて 行こうか！
+48.42	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	始まりの丘へ！
+48.43	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	うん！
+48.44	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	…見覚えのある町並みだな？
+48.45	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	ここは\n美樹ちゃんちの近くだ！
+48.46	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ええっ！\nそんなバカな…！
+48.47	Rioter	dlg	dlg 192/184 px a line, wrapped by the tool	あっはっはっは～！\n燃えろ 燃えろぉ！
+48.48	Rioter	dlg	dlg 192/184 px a line, wrapped by the tool	魔王に逆らう者は 皆殺しだ！
+48.49	Rioter	dlg	dlg 192/184 px a line, wrapped by the tool	思い知るがいい！\n魔王の怒りを！
+48.50	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	暴徒が町を破壊している…
+48.51	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	美樹ちゃんを守らなくては！
+48.52	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	政！ しっかりしろ！\n美樹ちゃんは どうした！？
+48.53	Bokuto Masa	dlg	dlg 192/184 px a line, wrapped by the tool	ふ 不動…\nすまねぇ…
+48.54	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	明君！ 急ごう！
+48.55	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	タレちゃん！
+48.56	Tare-chan	dlg	dlg 192/184 px a line, wrapped by the tool	明にいちゃん…\n\nな なんでボク達\nこんな目に…？
+48.57	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	こんな子供まで…\n酷すぎる！
+48.58	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	美樹ちゃん！
+48.59	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	明 危険だ！
+48.60	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	だが美樹ちゃんが！
+48.61	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	彼女は もう…
+48.62	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	止めるな 了！
+48.63	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	あぶない！
+48.64	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	美樹！！\n\nうおおおおおお！
+48.65	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	生きる希望を…\n生きる意味を…\n俺は失ってしまった…
+48.66	???	dlg	dlg 192/184 px a line, wrapped by the tool	…今のは あるべき世界の姿なの
+48.67	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	だ 誰！？
+48.68	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	あるべき世界の姿…！？
+48.69	???	dlg	dlg 192/184 px a line, wrapped by the tool	あなたも 次元連鎖の被害者なのよ\n明君\nこの情景は あなたの世界で\nこれから起こる出来事なの…
+48.70	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	なんだと？\nどうして俺の名を…？
+48.71	???	dlg	dlg 192/184 px a line, wrapped by the tool	………
+48.72	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	答えろ！
+48.73	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	もしかして…\n君は {s}！？\nそうだろ\n{s}なんだろ！？
+48.74	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	{s}だって？\n\n{s}なら\nどうして姿を現さないんだ！？
+48.75	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	………
+48.76	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	美樹…？
+48.77	???	dlg	dlg 192/184 px a line, wrapped by the tool	魔王が 世界を連結しなければ…\n今の悲劇が確実に起こるの…
+48.78	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	それじゃ\n美樹は生きているのか！？
+48.79	???	dlg	dlg 192/184 px a line, wrapped by the tool	それは魔王にしか解らないわ\n\nでも これだけは事実よ\n魔王だけが悲劇を回避出来るのよ
+48.80	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	魔王だけが 悲劇を回避出来る…
+48.81	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	教えてくれ！\nこんな幻を 僕達に見せて\n魔王はいったい\nどうしたいっていうんだよ！？
+48.82	???	dlg	dlg 192/184 px a line, wrapped by the tool	魔王はね 認めて欲しいのよ\n自分の考えを…\nあなたが協力すれば\nさっきの悲劇は防げるの…
+48.83	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	美樹ちゃんは 死なずに済むのか？
+48.84	???	dlg	dlg 192/184 px a line, wrapped by the tool	安心して 明君\n悲劇は起きないわ…
+48.85	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	どうして\nそんなことが言い切れる？
+48.86	???	dlg	dlg 192/184 px a line, wrapped by the tool	{p}が\n既に魔王の手の中だから…\nそこは {p}のために\n用意された牢獄\n無数にある次元のひとつを\n連結した… 次元牢獄！
+48.87	Ryo Asuka	dlg	dlg 192/184 px a line, wrapped by the tool	次元牢獄！？
+48.88	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ここから… 出られないの？
+48.89	???	dlg	dlg 192/184 px a line, wrapped by the tool	もうすぐ 日蝕の時刻…\nそれまで あなたは次元牢獄の囚人\n世界の… 仲間達の命運は\nもう 尽きたも同然…
+48.90	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	そんな… そんな…
+48.91	???	dlg	dlg 192/184 px a line, wrapped by the tool	魔王は あなたがいずれ あそこを\n出てくると知っていたのよ\nただ 手下を使って\nそれを手助けしただけ…
+48.92	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	僕は 魔王の手のひらで\n遊ばされていたのか…
+48.93	???	dlg	dlg 192/184 px a line, wrapped by the tool	誰も 魔王には逆らえないわ…
+48.94	Akira Fudo	dlg	dlg 192/184 px a line, wrapped by the tool	いい加減にしろ！\n俺達を ここから出せ！
+48.95	???	dlg	dlg 192/184 px a line, wrapped by the tool	無駄よ 次元牢獄から出ることは\n出来ないわ\n外から仕掛けを操作しない限りはね\n\nあたしも…\n試したもの…
+48.96	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	それじゃ\nやっぱり君は {s}！？
+48.97	???	dlg	dlg 192/184 px a line, wrapped by the tool	………
+48.98	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	そうなんだろ…！？
+48.99	???	dlg	dlg 192/184 px a line, wrapped by the tool	いいえ あたしは「破壊の月」！\nそして あなたは「再生の太陽」！\n時が来れば ふたりとも\nここから出してもらえるわ…

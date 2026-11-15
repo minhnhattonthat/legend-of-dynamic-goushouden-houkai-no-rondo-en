@@ -1,0 +1,100 @@
+43.00	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	準備は いいか？
+43.01	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	では {s}を\nトレーラーに 同乗させるのだ\n早乙女研究所に向かうぞ！
+43.02	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	準備が出来たら\nわしに話しかけるのだ
+43.03	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	そうですか\n早乙女博士 実は…
+43.04	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	小さな身体に比べ 異常に大きな脳\nハチュウ人類は人間以上の働きを\nするとみたほうがいい\n\n我々の敵がどんなに恐ろしい相手か\n解ったか？
+43.05	Guard	dlg	dlg 192/184 px a line, wrapped by the tool	許可の無い者を 科学都市に\n入れるわけにはいかん！\n帰りたまえ！
+43.06	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	隼人！ 武蔵！
+43.07	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	博士！\nリョウは！？
+43.08	Musashi	dlg	dlg 192/184 px a line, wrapped by the tool	死んじまったのか！？
+43.09	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	行方不明のままだ\n{p}君 来なさい
+43.10	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	リョウのことだ めったなことで\nくたばるわけがない
+43.11	Musashi	dlg	dlg 192/184 px a line, wrapped by the tool	リョウが帰ってくるまで\nこのムサシ様が頑張るぜ！
+43.12	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	{s}は 医療チームに\n任せてある 結果を待つのだ\nそれより わしは\n君に聞きたいことがある\n黒い月について…だ
+43.13	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	僕が知ってることは\nさっきお話したことだけです
+43.14	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	ふむ…\n実は 世界のあちこちで\n次元の連結現象が\n確認されておるのだ
+43.15	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	なんですって！？\n\nそれは この世界とは\n別の世界の存在を…？
+43.16	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	知っている\n理論上の話ではあるがな\nだが それが\n現実のものとなったのだ！
+43.17	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	やはり黒い月が原因ですか？
+43.18	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	解らん だが このままでは\n深刻な事態が起こり得る！\nそこで君の経験を\n原因究明に役立てたいのだ！
+43.19	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	喜んでお手伝いします！
+43.20	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	うむ！\n頼んだぞ！
+43.21	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	{s}は 医療チームに\n任せてある 結果を待つのだ
+43.22	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	ある日 突然 見知らぬ場所に\n見知らぬ人達が現れる\nもともと そこにいた人達が\nどうなったか？は 誰にも解らん
+43.23	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市では現在 次元連鎖に\nついての 研究会が開かれてる\n博士も\n招待されてたはずなんだけど…
+43.24	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	微量で膨大なエネルギーを生む\n魔法の光体！それがゲッター線！\n早乙女博士は\nゲッター線の発見者なんだ
+43.25	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	人類以外の生物が\nこの地上を狙っている\nそのことに気づいた早乙女博士は\nこの研究所を作ったんだ
+43.26	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	３台のゲットマシンが合体して\nゲッターロボになる！\nさらにゲッターロボは\n３つの形態に 変形できる！\n状況に合わせた形態で戦えること\nそれがゲッターロボの強さなんだ
+43.27	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	イーグル号の損傷は かなり\n激しいけど 急ピッチで修理中さ\nでも今メカザウルスに襲われたら…\nピンチだ！
+43.28	Musashi	dlg	dlg 192/184 px a line, wrapped by the tool	リョウ～！ お おまえがいない\nゲッターチームなんて！！
+43.29	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	泣くな ムサシ まだ\n死んだと決まったわけじゃない
+43.30	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	リョウさん\n見つかるといいですね…
+43.31	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	なんの骨か わかる？\n頭は大トカゲ\n手と羽は プテラノドンよ\nそして身体は人間！\nあたし達とは\n別の進化をたどった生命体\nそれがハチュウ人類よ！
+43.32	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	{s}の病気だが\nここの設備では原因がわからん…
+43.33	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	そんな… 先生！\n僕は どうすればいいんですか？
+43.34	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	もっと高度な医療施設が必要だ\n科学都市まで行けば あるいは…
+43.35	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市…\n\n早乙女博士に相談してみよう
+43.36	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	わしも今 報告を受けたところじゃ\n科学都市へ行きたいそうだな？
+43.37	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	はい！
+43.38	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	君が 科学都市に入れるよう\n連絡しておいてやろう\nすぐに向かうがいい
+43.39	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ありがとうございます 博士！
+43.40	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	{s}の病気だが\nここの設備では原因がわからん…\nもっと高度な医療施設が必要だ\n科学都市まで行けば あるいは…
+43.41	Doctor	dlg	dlg 192/184 px a line, wrapped by the tool	身体の具合が悪いのかね？\n顔色は良さそうだがな
+43.42	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	わしも科学都市での研究会には\n参加したかったのじゃが\nリョウが行方不明となった今\n研究所を離れるわけにはいかん
+43.43	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	解っています\nありがとうございました 博士！
+43.44	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	敵を見たら 考えずに倒せ！\n非情になりきるのじゃ！\nそれが 生き残るために\n必要なことだ
+43.45	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	はい…
+43.46	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	ムサシのヤツ リョウのヘルメット\nを 抱えて まだ泣いてやがる
+43.47	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	優しい人だね ムサシさんは
+43.48	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	甘いだけさ
+43.49	Bandaged Man	dlg	dlg 192/184 px a line, wrapped by the tool	早乙女博士の身柄を…\nこちらに預けていただきたい
+43.50	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	どこの誰だか知らねぇが 消えな\n\nそんな包帯じゃ済まねぇケガを\nするぜ
+43.51	Bandaged Man	dlg	dlg 192/184 px a line, wrapped by the tool	カッコつけてるのが甘いんだよ！
+43.52	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	あの構え 身のこなしは…！？\n\nやめんか リョウ！
+43.53	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	リョウ！？
+43.54	Bandaged Man	dlg	dlg 192/184 px a line, wrapped by the tool	リョウ…だって？
+43.55	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	わしの目は ごまかせん\nおまえは 確かにリョウだ
+43.56	Bandaged Man	dlg	dlg 192/184 px a line, wrapped by the tool	うう… リョウ？
+43.57	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	わしを忘れたわけでは あるまい？\n\nなんのため そんな真似をするのだ\nリョウ？
+43.58	Bandaged Man	dlg	dlg 192/184 px a line, wrapped by the tool	リョウ…\n知らん！ おれは ただ…！
+43.59	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	あっ 待て！\nリョウ！！
+43.60	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	隼人さん 大丈夫！？
+43.61	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	…あれは リョウなんかじゃねぇ！\nあいつの目は野獣だった\n理性のねえケダモノの目だった\nあんなのがリョウのはずがねぇ！
+43.62	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	ヤツが落とした薬袋だ\n\n科学都市にある研究所の名前が\n書いてある…\nどうやら わしも 科学都市に\n行かねば ならんようだな
+43.63	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	早乙女博士！
+43.64	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	ベアー号で科学都市に向かうぞ\n{s}も いっしょにな\n時間が惜しい\nすぐに出発するぞ
+43.65	Hayato	dlg	dlg 192/184 px a line, wrapped by the tool	{p}\n早乙女博士を頼んだぜ！
+43.66	Guard	dlg	dlg 192/184 px a line, wrapped by the tool	どうぞ お通りください\n早乙女博士が お待ちです
+43.67	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	北の大会議場では 今\n研究会の真っ最中なんだ\n早乙女博士も\nそこに行っているハズだよ
+43.68	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	イーグル号のパイロットが\n行方不明？\nメカザウルスに襲われたら\nどうするんだろ？
+43.69	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	{s}は この科学都市の\n病院に入院させたよ\n街の見学ついでに\n見舞ってやるといい\nわしは研究会に顔を出すから\n後で来てくれたまえ
+43.70	Researcher	dlg	dlg 192/184 px a line, wrapped by the tool	科学都市の南東には\n大きなホテルが あるんだ\nでも大きすぎて 初めて行く人は\nたいてい 中で迷うんだよね
+43.71	Scientist	dlg	dlg 192/184 px a line, wrapped by the tool	あなたの理論は認める！\n\nだが あなたが しようとしている\nことは 間違っている！
+43.72	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	早乙女博士\nホントに ここにいるのかな？
+43.73	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	{p} こっちだ！
+43.74	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	早乙女博士！ 弱ったな\nあそこまで行けるかな…
+43.75	Genzo Kuruma	dlg	dlg 192/184 px a line, wrapped by the tool	説明して解らぬなら\n身体に教えてやろう！
+43.76	Genzo Kuruma	dlg	dlg 192/184 px a line, wrapped by the tool	貴様ら三流科学者は 生きていても\n何の役にも立たん！\nそのことを身をもって知るがいい！\nはっはっはっは…！
+43.77	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	大変だ！\n早乙女博士を助けなくっちゃ！
+43.78	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	今は 弓教授を\n助け出すことが先だ！
+43.79	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	今は 早乙女博士を\n助け出すことが先だ！
+43.80	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	君！\n助けてくれて ありがとう！
+43.81	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	博士！\nご無事ですか！？
+43.82	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	あぁ 大丈夫だ！
+43.83	Mysterious Man	dlg	dlg 192/184 px a line, wrapped by the tool	…来留間源三は どこだ？
+43.84	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	博士なら あっちのほうへ…
+43.85	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	行っちゃった…
+43.86	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	何者だろうな あの男…
+43.87	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	リョウらしき包帯男がいる場所が\n解った\n科学都市のホテル付近で\nそれらしい者を見たとのことだ\n{p}も\nついてきてくれんか？
+43.88	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	解りました！
+43.89	Ryo	dlg	dlg 192/184 px a line, wrapped by the tool	うう…\nリョウ…\n頭に こびりついて離れない\nこの名前は なんだ！？\nリョウとは いったいなんだ！？
+43.90	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	どうやら リョウのヤツ なんらかの\n人体実験を受けたようじゃな\n本来の記憶を\n無くしてしまったのだ！
+43.91	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	そんな酷いことを…！
+43.92	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	いかにしたら人類を簡単に\n滅ぼすことが出来るか？\nハチュウ人類は その研究のため\n人体実験を繰り返している
+43.93	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	許せない！
+43.94	Reptilian	dlg	dlg 192/184 px a line, wrapped by the tool	貴様ら！\nいつの間に！？
+43.95	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	この顔…！\nやはり リョウじゃった！
+43.96	Ryo	dlg	dlg 192/184 px a line, wrapped by the tool	リョウ… リョウ…
+43.97	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	記憶喪失を直す方法は\nないんですか？
+43.98	Dr. Saotome	dlg	dlg 192/184 px a line, wrapped by the tool	何か強いショックを与えれば\n記憶が戻ることもあるが…\n時間を かけなければ治らない…
+43.99	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	………

@@ -80,12 +80,47 @@ alternatives) and no Avoid spelling. Name tags (speaker lines) come from `tools/
 |---|---|---|---|---|
 | 始まりの丘 | Hill of Beginnings | | the meeting point in the prologue | |
 | 関東 | Kanto | | | |
+| 幻城 | Mirage Castle | | | Phantom Castle |
+| 死神警察 | Reaper Police | | 署 -> Reaper Police HQ | Death Police / Shinigami Police |
+| 震災とりで | Quake Fort | | | |
+| 暗黒寺 | Dark Temple | | | |
+| 戸来村 | Herai Village | | | |
+| 間身井薬局 / マミー薬局 | Mamii Pharmacy | | | |
+| 魔王の城 | Demon King's Castle | | | |
+| 妖怪屋敷 | Yokai Mansion | | | |
+| 科学都市 | Science City | | | |
+| 迷いの森 | Lost Forest | | | |
+| 聖チャペル学園 | St. Chapel Academy | | | |
+| 蓮沼 | Hasunuma | | | |
+| 早乙女研究所 | Saotome Lab | | | |
+| 日本アルプス | Japanese Alps | | | |
+| ハレンチ学園 | Harenchi Gakuen | | | |
+| 地獄別荘 | Hell Villa | | | |
+| 関東地獄地震 | Kanto Hellquake | | | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | デーモン / デーモン族 | Demon / Demon race | | Devilman's Demons, capitalised | |
-| 悪魔 | demon / devil | | | |
+| ハチュウ人類 | Reptilian | | Getter's Dinosaur Empire people | |
+| メカザウルス | Mechasaurus | | | |
+| ボスボロット | Boss Borot | | | |
+| アフロダイＡ | Aphrodite A | | | |
+| ジェットスクランダー | Jet Scrander | | | |
+| ミケーネ | Mykene | | | |
+| バードス | Bardos | | | |
+| 超合金Ｚ | Super Alloy Z | | | |
+| ゲッター線 | Getter Rays | | | |
+| ゲットマシン | Getter Machines | | | |
+| 空中元素固定装置 | Airborne Element Fixer | | Honey's device | |
+| あしゅら軍団 | Ashura Corps | | | |
+| 鉄十字軍団 | Iron Cross Corps | | | |
+| 次元神グレイド / 次元獣グレイド | Dimension God Grade / Dimension Beast Grade | | | |
+| アイアンカイザー | Iron Kaiser | | | |
+| シャフト博士 | Dr. Shaft | | | |
+| 悪馬尻 | Abashiri | | the Abashiri family | |
+| アソート | party | | "joined the party" | |
+| 状態異常 | ailment | | Stone/Freeze/Charm/Confuse/Blind/Poison/Curse; 戦闘不能 KO | || 悪魔 | demon / devil | | | |
 
 ## Decisions from earlier batches
 - (none yet)

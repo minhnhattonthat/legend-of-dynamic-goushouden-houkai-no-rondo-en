@@ -1,0 +1,100 @@
+36.00	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ドラゴンに襲われてる！？\n助けなきゃ！
+36.01	Dragon	dlg	dlg 192/184 px a line, wrapped by the tool	おのれ 邪魔立てするか！？\n容赦せんぞ！！
+36.02	Dragon	dlg	dlg 192/184 px a line, wrapped by the tool	容赦せんぞ！？
+36.03	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	あなたは スラムクィーン！
+36.04	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	覚えてくれていたの？\nうれしいわ\n探した甲斐が あるってものね
+36.05	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	僕を探していた…だって？
+36.06	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	そうよ… 見たでしょ？\nドラゴンが私を襲うのを…？\nドラゴンが\n魔王に操られてしまったのよ\nスラムキングを捨てて
+36.07	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	まさか 僕を魔王に引き渡し\nドラゴン達を元に戻そうと！？
+36.08	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	あたしは それほど\nバカじゃないわ\n魔王に あなたを引き渡したら\n恐ろしいことが起こる！
+36.09	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	それじゃ どうして僕を？
+36.10	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	あなたが「始まりの丘」に\n向かう姿を 夢で見たの…\nそれがあたしの力 予知夢よ
+36.11	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	………
+36.12	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	いずれあなたは「始まりの丘」に\n向かうでしょう\n魔王と戦うために！\nそれが あなたの運命！
+36.13	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	僕の運命… 教えて！\nそれで僕はどうなるの！？\n{s}は…！？
+36.14	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	わからないわ でもたったひとつ\n明らかなことがあるの\nそれはあなたが 魔王と戦える\n唯一の人ってことよ
+36.15	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	一緒に来なさい\nスラムキングに逢わせるわ
+36.16	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	…！？
+36.17	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	スラムキングに反旗を翻したのは\nドラゴンだけじゃないの\nもちろん みな\n魔王に操られてのことよ
+36.18	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	………
+36.19	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	人々が操られ始めたのは\n異変の前兆\nスラムキングも\nそれは理解しているわ\nそこで あたしに\n探すように命じたのよ\n最悪の事態を回避出来る者を…
+36.20	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	…わかった\nスラムキングに逢おう！
+36.21	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	いい子ね…
+36.22	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	待ちかねたぞ スラムクィーン！\n救世主は見つかったか！？
+36.23	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	お連れしましたわ
+36.24	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	ご苦労！ よくやった！\n救世主どのよ いざ ここに！
+36.25	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	あ あの… こんにちは
+36.26	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	スラムクィーン\nこれは何の冗談だ？
+36.27	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	この者こそ 異変から関東を\n世界を救う人物ですわ！
+36.28	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	え え～と {p}です
+36.29	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	あっはっはっはっは！\n片腹痛い！\nスラムクィーン おまえの力も\n衰えたようだな！
+36.30	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	ならば 立ち合ってみては\nいかがですか？
+36.31	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ええ～っ！？
+36.32	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	あ～っはっはっはっは！\n\nこの俺に 子供の相手を\nしろというのか？
+36.33	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	もしも あなたと立ち合い\nそして死んだならば\nそれは あたしの予知夢が外れた\n…ということ\nその時は あたしも死にましょう！
+36.34	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	…！？
+36.35	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	そこまで この子供に賭けるか\nスラムクィーン…\nならば 立ち合おうではないか！
+36.36	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	いざ 来い！ {p}よ！
+36.37	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	不覚…！！
+36.38	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	スラムキング この子を\nお認め下さいますね？
+36.39	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	致し方あるまい！\n\n{p}よ！ スラムキング\nおまえに助力するぞ！
+36.40	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	は はい…！！
+36.41	Slum King	dlg	dlg 192/184 px a line, wrapped by the tool	スラムクィーン！\n共をいたせ！
+36.42	Slum Queen	dlg	dlg 192/184 px a line, wrapped by the tool	{p}\nおみごとだったわ
+36.43	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ありがとう\nスラムクィーンさん！
+36.44	Resident	dlg	dlg 192/184 px a line, wrapped by the tool	噂だけど スラムキングが\n大変なことになってるらしいぞ\nドラゴンからも暴徒になった連中が\n出たらしくてさ…\nいったい 関東に\n何が起ころうとしてるんだ…？
+36.45	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	誰もいないのかな？
+36.46	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	今日 女子の方達は\n身体検査がありますから\nお残りになってねぇ～\nおほほほほ\n男子の方は さっさと\n帰ってちょね～ イッヒッヒ…
+36.47	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	…なんて言っても\n誰もいないのよ～\nはぁ～ さみちいのよ～
+36.48	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ひとりで 何やってるの…？
+36.49	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	世の中 物騒になっちゃって\nイヤだわ～\nそれで\n生徒も来なくなっちゃったの…
+36.50	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	里帰りする お金もなく あたちは\nひとり 授業を続けるのよ～！\nおよよ およよ うわ～ん！
+36.51	Yamagishi	dlg	dlg 192/184 px a line, wrapped by the tool	ヒゲゴジラ…
+36.52	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	その声は…！？\n\nきゃ～！\nわたち うれちいわよ～！
+36.53	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	う～ん ぶちゅ！ ぶちゅ！
+36.54	Yamagishi	dlg	dlg 192/184 px a line, wrapped by the tool	やめやがれ！ 気色悪ぃ～！
+36.55	Jubei	dlg	dlg 192/184 px a line, wrapped by the tool	イヤ～ン やめて！
+36.56	Fukurokoji	dlg	dlg 192/184 px a line, wrapped by the tool	うわっ なんだよ こいつ～！
+36.57	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	さみちいのよぉ～！\n\nお願い わたちを連れてってぇ～ん！\nね！ ね！
+36.58	Yamagishi	dlg	dlg 192/184 px a line, wrapped by the tool	しょうがねぇなぁ そのかわり\n俺の召し使いだぞ！
+36.59	Jubei	dlg	dlg 192/184 px a line, wrapped by the tool	先生 なんだか かわいそう…\nいいわ 連れて行ってあげる！
+36.60	Fukurokoji	dlg	dlg 192/184 px a line, wrapped by the tool	わかったよ\nオヤブンに話してやるよ
+36.61	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	きゃ～！ うれし～！\n一生ついてくわ～！！
+36.62	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	里帰りするのに\nいくら かかるんだい？
+36.63	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	初乗り１３０円よ～\n改札さえ通っちゃえば 後は…\nイヒヒ
+36.64	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	ま～ わたち うれちいわ～！
+36.65	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	う～ん ぶちゅ！ ぶちゅ！
+36.66	Higegodzilla	dlg	dlg 192/184 px a line, wrapped by the tool	わたち\n里帰り出来てうれちいのよ～\nおかあちゃま～！\n\nあなたのさゆりが\n今 帰るわよ～！
+36.67	Kibutsu Clan	dlg	dlg 192/184 px a line, wrapped by the tool	壊せ 壊せ！
+36.68	Kibutsu Clan	dlg	dlg 192/184 px a line, wrapped by the tool	鬼獄界など\nもはや存在しないのだ！
+36.69	Kibutsu Clan	dlg	dlg 192/184 px a line, wrapped by the tool	魔王が世界を再生する！\n鬼獄界は不要！ 暗黒寺も不要！
+36.70	Kibutsu Clan	dlg	dlg 192/184 px a line, wrapped by the tool	おぬしは…！\n魔王が求める「再生の太陽」！？
+36.71	Kibutsu Clan	dlg	dlg 192/184 px a line, wrapped by the tool	おぬしを差し出せば\n魔王がお慶びになる！
+36.72	Kibutsu Clan	dlg	dlg 192/184 px a line, wrapped by the tool	魔王のために！
+36.73	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	外が静かになったと思ったら…\n手天童子と一緒にいた者だな？\n鬼仏衆を倒してくれたのか
+36.74	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	あなたは 鬼谷さん？\n寺の中に いたの？
+36.75	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	いかに俺でも大勢の鬼仏衆相手に\nひとりでは どうにもならん\n寺の中で自刃し\n火をかけるつもりだったのだ\nでは…
+36.76	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	…ちょ ちょっと！
+36.77	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	外が静かになったと思ったら…\n手天童子か…\n貴様 何しに寺を訪れたのだ？
+36.78	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	おまえには関係のないことだ！
+36.79	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	そうはいかん！ 俺は 寺を\n外敵から護らねばならぬ！
+36.80	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	ならばなぜ 鬼仏衆に\n好き勝手させていたのだ？
+36.81	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	いかに俺でも大勢の鬼仏衆相手に\nひとりでは どうにもならん\n寺の中で自刃し\n火をかけるつもりだったのだ\nでは…
+36.82	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	…ちょ ちょっと！
+36.83	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	仇敵とはいえ 見捨てるわけには\nいかないな
+36.84	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	ダメだよ\n寺に火をかけるなんて！
+36.85	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	いくら祈りを捧げても\n鬼獄界からは何も聞こえてこない\nこんなことは初めてだ…
+36.86	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	…………
+36.87	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	鬼仏衆までが 俺に抗い始めた\n\nなぜ 鬼獄界は 俺の呼びかけに\n応えてくれぬのだ！？
+36.88	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	もしかしたら…！
+36.89	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	…なるほど！\n\nここは 魔王の作った\nツギハギの世界であり\n俺の本当の世界は 別に存在する！\n\nそこには これまで通り\n鬼獄界が あるのだな！？
+36.90	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	はっきりとは言い切れないけどね
+36.91	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	いや 間違いない\n\n黒い月があがる以前\n鬼獄界は存在していた\n俺は それを感じたし 鬼獄界は\n俺の呼びかけに応えてくれた
+36.92	{p}	dlg	dlg 192/184 px a line, wrapped by the tool	今は まったくそれがないの？
+36.93	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	そのとおりだ {p}！\n俺も共に戦うぞ！\n魔王は 鬼獄界の存亡に関る\n重大な敵だ\nこの敵と戦わずにいられようか！
+36.94	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	鬼獄界を護る者と 鬼獄界を壊す\n運命にあるという 俺が\n共に戦うというのも皮肉だな
+36.95	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	だが 俺とおまえは仇敵同士だ！\nそのことを忘れるな！
+36.96	Jiro	dlg	dlg 192/184 px a line, wrapped by the tool	お互いに…な
+36.97	Onitani	dlg	dlg 192/184 px a line, wrapped by the tool	行くぞ {p}
+36.98	Kedaman	dlg	dlg 192/184 px a line, wrapped by the tool	いや～ おもしろかったぜ！\nなっ！ 怒良野！
+36.99	Dorano	dlg	dlg 192/184 px a line, wrapped by the tool	ふん！ 隙をみて ケダマンを\nやっつけようと思ってたのに\nそれどころじゃなかったぜ…

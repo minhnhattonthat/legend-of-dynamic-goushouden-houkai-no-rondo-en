@@ -1,0 +1,134 @@
+r0DD80C		rom:rec18	23 bytes, 69 px	キーアイテム用スペース2
+r0DD824		rom:rec18	23 bytes, 69 px	キーアイテム用スペース3
+r0DD83C		rom:rec18	23 bytes, 69 px	キーアイテム用スペース4
+r0DD854		rom:rec18	23 bytes, 69 px	キーアイテム用スペース5
+r0DD86C		rom:rec18	23 bytes, 69 px	キーアイテム用スペース6
+r0DD884		rom:rec18	23 bytes, 69 px	キーアイテム用スペース7
+r0DD89C		rom:rec18	15 bytes, 69 px	あしゅら男爵
+r0DD8AC		rom:rec18	11 bytes, 69 px	トバッチリ
+r0DD8B8		rom:rec18	15 bytes, 69 px	とばっちり先生
+r0DD8C8		rom:rec18	7 bytes, 69 px	こども
+r0DD8D0		rom:rec18	15 bytes, 69 px	ほうたいおとこ
+r0DD8E0		rom:rec18	19 bytes, 69 px	未登録パートナー
+r0DD8F4		rom:rec18	7 bytes, 69 px	？？？
+r0DD8FC		rom:rec18	11 bytes, 69 px	ポール玉玉
+r0DD908		rom:rec18	15 bytes, 69 px	ポールたまたま
+r0DD918		rom:rec18	7 bytes, 69 px	ヒョウ
+r0DD920		rom:rec18	11 bytes, 69 px	がくせい
+r0DD92C		rom:rec18	11 bytes, 69 px	けがにん
+r0DD938		rom:rec18	11 bytes, 69 px	むらびと
+r0DD944		rom:rec18	11 bytes, 69 px	まちびと
+r0DD950		rom:rec18	15 bytes, 69 px	けんきゅういん
+r0DD960		rom:rec18	7 bytes, 69 px	欠番2
+r0DD968		rom:rec18	7 bytes, 69 px	欠番1
+r0DD970		rom:rec18	11 bytes, 69 px	大本栄惨坊
+r0DD97C		rom:rec18	15 bytes, 69 px	だいほんえい
+r0DD98C		rom:rec18	11 bytes, 69 px	果扨胴下
+r0DD998		rom:rec18	11 bytes, 69 px	どうした
+r0DD9A4		rom:rec18	11 bytes, 69 px	豹絵理座
+r0DD9B0		rom:rec18	15 bytes, 69 px	ひょうえりざ
+r0DD9C0		rom:rec18	11 bytes, 69 px	ユダ博士
+r0DD9CC		rom:rec18	7 bytes, 69 px	ユダ
+r0DD9D4		rom:rec18	11 bytes, 69 px	無幻大権
+r0DD9E0		rom:rec18	11 bytes, 69 px	たいげん
+r0DD9EC		rom:rec18	11 bytes, 69 px	高橋真弓
+r0DD9F8		rom:rec18	7 bytes, 69 px	まゆみ
+r0DDA00		rom:rec18	7 bytes, 69 px	あゆ子
+r0DDA08		rom:rec18	15 bytes, 69 px	オモライくん
+r0DDA18		rom:rec18	23 bytes, 69 px	少年（オモライくん）
+r0DDA30		rom:rec18	11 bytes, 69 px	真臣墓世
+r0DDA3C		rom:rec18	7 bytes, 69 px	はかせ
+r0DDA44		rom:rec18	7 bytes, 69 px	兜十蔵
+r0DDA4C		rom:rec18	11 bytes, 69 px	じゅうぞう
+r0DDA58		rom:rec18	7 bytes, 69 px	弓教授
+r0DDA60		rom:rec18	15 bytes, 69 px	ゆみきょうじゅ
+r0DDA70		rom:rec18	11 bytes, 69 px	如月博士
+r0DDA7C		rom:rec18	15 bytes, 69 px	きさらぎはかせ
+r0DDA8C		rom:rec18	11 bytes, 69 px	間身井の姉
+r0DDA98		rom:rec18	11 bytes, 69 px	間身井くん
+r0DDAA4		rom:rec18	11 bytes, 69 px	まみいくん
+r0DDAB0		rom:rec18	15 bytes, 69 px	シャッポじい
+r0DDAC0		rom:rec18	15 bytes, 69 px	こややし少年
+r0DDAD0		rom:rec18	15 bytes, 69 px	イボ痔小五郎
+r0DDAE0		rom:rec18	11 bytes, 69 px	こごろう
+r0DDAEC		rom:rec18	7 bytes, 69 px	欠番4
+r0DDAF4		rom:rec18	7 bytes, 69 px	欠番3
+r0DDAFC		rom:rec18	7 bytes, 69 px	欠番
+r0DDB04		rom:rec18	11 bytes, 69 px	家早さよこ
+r0DDB10		rom:rec18	11 bytes, 69 px	家早南友
+r0DDB1C		rom:rec18	23 bytes, 69 px	アルフォンヌＬＳ３世
+r0DDB34		rom:rec18	15 bytes, 69 px	ドクター・ポチ
+r0DDB44		rom:rec18	15 bytes, 69 px	摩呵フユカイ
+r0DDB54		rom:rec18	11 bytes, 69 px	女蛮千代
+r0DDB60		rom:rec18	7 bytes, 69 px	男男子
+r0DDB68		rom:rec18	7 bytes, 69 px	女蛮子
+r0DDB70		rom:rec18	15 bytes, 69 px	泣きのグズ蟲
+r0DDB80		rom:rec18	7 bytes, 69 px	黒死丸
+r0DDB88		rom:rec18	7 bytes, 69 px	合田
+r0DDB90		rom:rec18	11 bytes, 69 px	美剣千草
+r0DDB9C		rom:rec18	11 bytes, 69 px	雪代小百合
+r0DDBA8		rom:rec18	11 bytes, 69 px	天外富三郎
+r0DDBB4		rom:rec18	11 bytes, 69 px	天外真理阿
+r0DDBC0		rom:rec18	7 bytes, 69 px	まりあ
+r0DDBC8		rom:rec18	11 bytes, 69 px	早乙女博士
+r0DDBD4		rom:rec18	7 bytes, 69 px	巴武蔵
+r0DDBDC		rom:rec18	7 bytes, 69 px	神隼人
+r0DDBE4		rom:rec18	7 bytes, 69 px	魔動鬼
+r0DDBEC		rom:rec18	11 bytes, 69 px	白鳥美雪
+r0DDBF8		rom:rec18	7 bytes, 69 px	護鬼
+r0DDC00		rom:rec18	7 bytes, 69 px	戦鬼
+r0DDC08		rom:rec18	11 bytes, 69 px	閻魔大王
+r0DDC14		rom:rec18	11 bytes, 69 px	えんま大王
+r0DDC20		rom:rec18	7 bytes, 69 px	雪子姫
+r0DDC28		rom:rec18	11 bytes, 69 px	法印大子
+r0DDC34		rom:rec18	7 bytes, 69 px	だいこ
+r0DDC3C		rom:rec18	15 bytes, 69 px	悪馬尻駄ヱ門
+r0DDC4C		rom:rec18	11 bytes, 69 px	悪馬尻吉三
+r0DDC58		rom:rec18	15 bytes, 69 px	悪馬尻直次郎
+r0DDC68		rom:rec18	15 bytes, 69 px	悪馬尻五ヱ門
+r0DDC78		rom:rec18	7 bytes, 69 px	袋小路
+r0DDC80		rom:rec18	11 bytes, 69 px	山岸八十八
+r0DDC8C		rom:rec18	11 bytes, 69 px	クイーン
+r0DDC98		rom:rec18	11 bytes, 69 px	身堂竜馬
+r0DDCA4		rom:rec18	11 bytes, 69 px	早乙女門土
+r0DDCB0		rom:rec18	7 bytes, 69 px	逞馬竜
+r0DDCB8		rom:rec18	7 bytes, 69 px	木刀政
+r0DDCC0		rom:rec18	11 bytes, 69 px	牧村タレ
+r0DDCCC		rom:rec18	11 bytes, 69 px	タレちゃん
+r0DDCD8		rom:rec18	11 bytes, 69 px	牧村美樹
+r0DDCE4		rom:rec18	7 bytes, 69 px	みき
+r0DDCEC		rom:rec18	7 bytes, 69 px	飛鳥了
+r0DDCF4		rom:rec18	11 bytes, 69 px	早見団兵衛
+r0DDD00		rom:rec18	11 bytes, 69 px	早見青児
+r0DDD0C		rom:rec18	7 bytes, 69 px	秋夏子
+r0DDD14		rom:rec18	7 bytes, 69 px	なつこ
+r0DDD1C		rom:rec18	7 bytes, 69 px	石川賢
+r0DDD24		rom:rec18	7 bytes, 69 px	永井豪
+r0DDD2C		rom:rec18	11 bytes, 69 px	女主人公
+r0DDD3C		rom:rec18	7 bytes, 69 px	パート
+r0DDD44		rom:item_desc_rom	23 bytes	古代ミケーネ文明の遺産
+r0DDD5C		rom:item_desc_rom	19 bytes	ゼノンを倒した証
+r0DDD70		rom:item_desc_rom	23 bytes	地下室の扉を開ける鍵
+r0DDD88		rom:item_desc_rom	31 bytes	宇津木と沙織が写っている写真
+r0DDDA8		rom:item_desc_rom	31 bytes	地下水路の扉を開けるための鍵
+r0DDDC8		rom:item_desc_rom	15 bytes	体育館倉庫の鍵
+r0DDDD8		rom:item_desc_rom	27 bytes	死神警察署にある牢屋の鍵
+r0DDDF4		rom:item_desc_rom	23 bytes	敵のステータスを分析
+r0DDE0C		rom:item_desc_rom	27 bytes	人間には使いこなせない兵器
+r0DDE28		rom:item_desc_rom	23 bytes	幻城内で使うパスカード
+r0DDE40		rom:item_desc_rom	27 bytes	一定時間、弱い敵と会わない
+r0DDE5C		rom:item_desc_rom	23 bytes	仲間の入れ替えができる
+r0DDE74		rom:item_desc_rom	31 bytes	ＨＰ＋２０％（ロボット専用）
+r0DDE94		rom:item_desc_rom	31 bytes	ＨＰ＋１０％（ロボット専用）
+r0DDEB4		rom:item_desc_rom	31 bytes	ＤＰ＋２０％（ロボット専用）
+r0DDED4		rom:item_desc_rom	31 bytes	ＤＰ＋１０％（ロボット専用）
+r0DDEF4		rom:item_desc_rom	31 bytes	ＤＦ＋１５％（ロボット専用）
+r0DDF14		rom:item_desc_rom	31 bytes	ＤＦ＋１０％（ロボット専用）
+r0DDF34		rom:item_desc_rom	31 bytes	ＤＸ＋１５％（ロボット専用）
+r0DDF54		rom:item_desc_rom	31 bytes	ＤＸ＋１０％（ロボット専用）
+r0DDF74		rom:item_desc_rom	31 bytes	ＡＴ＋１５％（ロボット専用）
+r0DDF94		rom:item_desc_rom	31 bytes	ＡＴ＋１０％（ロボット専用）
+r0DDFB4		rom:item_desc_rom	23 bytes	技の発生速度が速くなる
+r0DDFCC		rom:item_desc_rom	23 bytes	防御属性【精神】＋１０
+r0DDFE4		rom:item_desc_rom	23 bytes	防御属性【雷】＋１０
+r0DDFFC		rom:item_desc_rom	23 bytes	防御属性【冷】＋１０

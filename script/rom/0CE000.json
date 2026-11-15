@@ -110,8 +110,8 @@
   ],
   "max": 11,
   "jp": "わたしは",
-  "en": "",
-  "status": "",
+  "en": "I am",
+  "status": "done",
   "notes": ""
  },
  {
@@ -121,8 +121,8 @@
   ],
   "max": 11,
   "jp": "ペガサス",
-  "en": "",
-  "status": "",
+  "en": "Pegasus",
+  "status": "done",
   "notes": ""
  },
  {
@@ -134,8 +134,8 @@
   ],
   "max": 35,
   "jp": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰ",
-  "en": "",
-  "status": "",
+  "en": "ABCDEFGHIJKLMNOP",
+  "status": "done",
   "notes": ""
  },
  {
@@ -146,8 +146,8 @@
   ],
   "max": 35,
   "jp": "１２３４５６７８９０１２３４５６",
-  "en": "",
-  "status": "",
+  "en": "1234567890123456",
+  "status": "done",
   "notes": ""
  },
  {
@@ -157,8 +157,8 @@
   ],
   "max": 35,
   "jp": "０１２３４５６７８９０１２３４５",
-  "en": "",
-  "status": "",
+  "en": "0123456789012345",
+  "status": "done",
   "notes": ""
  },
  {
@@ -168,8 +168,8 @@
   ],
   "max": 35,
   "jp": "９８７６５４３２１０９８７６５４",
-  "en": "",
-  "status": "",
+  "en": "9876543210987654",
+  "status": "done",
   "notes": ""
  },
  {
@@ -179,8 +179,8 @@
   ],
   "max": 19,
   "jp": "ロボットパーティー",
-  "en": "",
-  "status": "",
+  "en": "Robot party",
+  "status": "done",
   "notes": ""
  },
  {
@@ -190,8 +190,8 @@
   ],
   "max": 15,
   "jp": "通常パーティー",
-  "en": "",
-  "status": "",
+  "en": "Normal party",
+  "status": "done",
   "notes": ""
  },
  {
@@ -201,8 +201,8 @@
   ],
   "max": 11,
   "jp": "ＳＥテスト",
-  "en": "",
-  "status": "",
+  "en": "SE test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -212,8 +212,8 @@
   ],
   "max": 15,
   "jp": "ＢＧＭテスト",
-  "en": "",
-  "status": "",
+  "en": "BGM test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -223,8 +223,8 @@
   ],
   "max": 15,
   "jp": "ＬＯＡＤテスト",
-  "en": "",
-  "status": "",
+  "en": "LOAD test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -234,8 +234,8 @@
   ],
   "max": 19,
   "jp": "フィールド・如月後",
-  "en": "",
-  "status": "",
+  "en": "Field/post-Kisaragi",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
   ],
   "max": 19,
   "jp": "フィールドテスト",
-  "en": "",
-  "status": "",
+  "en": "Field test",
+  "status": "done",
   "notes": ""
  },
  {
@@ -256,8 +256,8 @@
   ],
   "max": 11,
   "jp": "努テスト",
-  "en": "",
-  "status": "",
+  "en": "TsutomuTest",
+  "status": "done",
   "notes": ""
  },
  {
@@ -267,8 +267,8 @@
   ],
   "max": 15,
   "jp": "しゅじんこう",
-  "en": "",
-  "status": "",
+  "en": "Hero",
+  "status": "done",
   "notes": ""
  },
  {
@@ -278,8 +278,8 @@
   ],
   "max": 27,
   "jp": "関東スラム・マミー薬局Ｆ２",
-  "en": "",
-  "status": "",
+  "en": "KantoSlum/MamiiPharmacyF2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -289,8 +289,8 @@
   ],
   "max": 27,
   "jp": "関東スラム・マミー薬局Ｆ",
-  "en": "",
-  "status": "",
+  "en": "Kanto Slum/Mamii Pharmacy F",
+  "status": "done",
   "notes": ""
  },
  {
@@ -300,8 +300,8 @@
   ],
   "max": 11,
   "jp": "ゼノン０１",
-  "en": "",
-  "status": "",
+  "en": "Zennon 01",
+  "status": "done",
   "notes": ""
  },
  {
@@ -311,8 +311,8 @@
   ],
   "max": 27,
   "jp": "科学都市・ホテルＢ１Ｆｃ",
-  "en": "",
-  "status": "",
+  "en": "Science City/Hotel B1Fc",
+  "status": "done",
   "notes": ""
  },
  {
@@ -322,8 +322,8 @@
   ],
   "max": 7,
   "jp": "公園Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Park B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -333,8 +333,8 @@
   ],
   "max": 27,
   "jp": "科学都市・研究室１Ｆｄ＿２",
-  "en": "",
-  "status": "",
+  "en": "Science City/Lab 1Fd_2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -344,8 +344,8 @@
   ],
   "max": 23,
   "jp": "科学都市・研究室１Ｆｄ",
-  "en": "",
-  "status": "",
+  "en": "Science City/Lab 1Fd",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
   ],
   "max": 23,
   "jp": "科学都市・研究室１Ｆｃ",
-  "en": "",
-  "status": "",
+  "en": "Science City/Lab 1Fc",
+  "status": "done",
   "notes": ""
  },
  {
@@ -366,8 +366,8 @@
   ],
   "max": 27,
   "jp": "科学都市・医療室２Ｆｂ＿２",
-  "en": "",
-  "status": "",
+  "en": "SciCity/MedRoom 2Fb_2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -377,8 +377,8 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室２Ｆｂ",
-  "en": "",
-  "status": "",
+  "en": "SciCity/MedRoom 2Fb",
+  "status": "done",
   "notes": ""
  },
  {
@@ -388,8 +388,8 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室１Ｆｃ",
-  "en": "",
-  "status": "",
+  "en": "SciCity/MedRoom 1Fc",
+  "status": "done",
   "notes": ""
  },
  {
@@ -399,8 +399,8 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室１Ｆｂ",
-  "en": "",
-  "status": "",
+  "en": "SciCity/MedRoom 1Fb",
+  "status": "done",
   "notes": ""
  },
  {
@@ -410,8 +410,8 @@
   ],
   "max": 11,
   "jp": "魔王の城Ｆ",
-  "en": "",
-  "status": "",
+  "en": "DemonKing F",
+  "status": "done",
   "notes": ""
  },
  {
@@ -421,8 +421,8 @@
   ],
   "max": 11,
   "jp": "ケダマン６",
-  "en": "",
-  "status": "",
+  "en": "Kedaman 6",
+  "status": "done",
   "notes": ""
  },
  {
@@ -432,8 +432,8 @@
   ],
   "max": 11,
   "jp": "ケダマン５",
-  "en": "",
-  "status": "",
+  "en": "Kedaman 5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -443,8 +443,8 @@
   ],
   "max": 11,
   "jp": "ケダマン４",
-  "en": "",
-  "status": "",
+  "en": "Kedaman 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -454,8 +454,8 @@
   ],
   "max": 11,
   "jp": "ケダマン３",
-  "en": "",
-  "status": "",
+  "en": "Kedaman 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
   ],
   "max": 11,
   "jp": "ケダマン２",
-  "en": "",
-  "status": "",
+  "en": "Kedaman 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -476,8 +476,8 @@
   ],
   "max": 11,
   "jp": "ケダマン１",
-  "en": "",
-  "status": "",
+  "en": "Kedaman 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -487,8 +487,8 @@
   ],
   "max": 11,
   "jp": "ダンテ６",
-  "en": "",
-  "status": "",
+  "en": "Dante 6",
+  "status": "done",
   "notes": ""
  },
  {
@@ -498,8 +498,8 @@
   ],
   "max": 11,
   "jp": "ダンテ５Ｄ",
-  "en": "",
-  "status": "",
+  "en": "Dante 5D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -509,8 +509,8 @@
   ],
   "max": 11,
   "jp": "ダンテ５Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Dante 5C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -520,8 +520,8 @@
   ],
   "max": 11,
   "jp": "ダンテ５Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Dante 5B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -531,8 +531,8 @@
   ],
   "max": 11,
   "jp": "ダンテ５Ａ",
-  "en": "",
-  "status": "",
+  "en": "Dante 5A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -542,8 +542,8 @@
   ],
   "max": 11,
   "jp": "ダンテ４",
-  "en": "",
-  "status": "",
+  "en": "Dante 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -553,8 +553,8 @@
   ],
   "max": 11,
   "jp": "ダンテ３",
-  "en": "",
-  "status": "",
+  "en": "Dante 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -564,8 +564,8 @@
   ],
   "max": 11,
   "jp": "ダンテ２",
-  "en": "",
-  "status": "",
+  "en": "Dante 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
   ],
   "max": 11,
   "jp": "ダンテ１",
-  "en": "",
-  "status": "",
+  "en": "Dante 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -586,8 +586,8 @@
   ],
   "max": 23,
   "jp": "早乙女研究所Ｂ１ＦＢ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab B1FB",
+  "status": "done",
   "notes": ""
  },
  {
@@ -597,8 +597,8 @@
   ],
   "max": 23,
   "jp": "早乙女研究所Ｂ１ＦＡ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab B1FA",
+  "status": "done",
   "notes": ""
  },
  {
@@ -608,8 +608,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所１Ｆ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 1F",
+  "status": "done",
   "notes": ""
  },
  {
@@ -619,8 +619,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０７Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 07B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -630,8 +630,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０７Ａ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 07A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -641,8 +641,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０６",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 06",
+  "status": "done",
   "notes": ""
  },
  {
@@ -652,8 +652,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０５",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 05",
+  "status": "done",
   "notes": ""
  },
  {
@@ -663,8 +663,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０４",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 04",
+  "status": "done",
   "notes": ""
  },
  {
@@ -674,8 +674,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０３",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 03",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０２Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 02C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -696,8 +696,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０２Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 02B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -707,8 +707,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０２Ａ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 02A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -718,8 +718,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０１Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 01C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -729,8 +729,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０１Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 01B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -740,8 +740,8 @@
   ],
   "max": 19,
   "jp": "早乙女研究所０１Ａ",
-  "en": "",
-  "status": "",
+  "en": "Saotome Lab 01A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -751,8 +751,8 @@
   ],
   "max": 7,
   "jp": "黒ＢＧ",
-  "en": "",
-  "status": "",
+  "en": "BlackBG",
+  "status": "done",
   "notes": ""
  },
  {
@@ -762,8 +762,8 @@
   ],
   "max": 15,
   "jp": "迷いの森１０",
-  "en": "",
-  "status": "",
+  "en": "Lost Forest 10",
+  "status": "done",
   "notes": ""
  },
  {
@@ -773,8 +773,8 @@
   ],
   "max": 11,
   "jp": "迷いの森９",
-  "en": "",
-  "status": "",
+  "en": "LostForest9",
+  "status": "done",
   "notes": ""
  },
  {
@@ -784,8 +784,8 @@
   ],
   "max": 11,
   "jp": "迷いの森８",
-  "en": "",
-  "status": "",
+  "en": "LostForest8",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
   ],
   "max": 11,
   "jp": "迷いの森７",
-  "en": "",
-  "status": "",
+  "en": "LostForest7",
+  "status": "done",
   "notes": ""
  },
  {
@@ -806,8 +806,8 @@
   ],
   "max": 11,
   "jp": "迷いの森６",
-  "en": "",
-  "status": "",
+  "en": "LostForest6",
+  "status": "done",
   "notes": ""
  },
  {
@@ -817,8 +817,8 @@
   ],
   "max": 11,
   "jp": "迷いの森５",
-  "en": "",
-  "status": "",
+  "en": "LostForest5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -828,8 +828,8 @@
   ],
   "max": 11,
   "jp": "迷いの森４",
-  "en": "",
-  "status": "",
+  "en": "LostForest4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -839,8 +839,8 @@
   ],
   "max": 11,
   "jp": "迷いの森３",
-  "en": "",
-  "status": "",
+  "en": "LostForest3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -850,8 +850,8 @@
   ],
   "max": 11,
   "jp": "迷いの森２",
-  "en": "",
-  "status": "",
+  "en": "LostForest2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -861,8 +861,8 @@
   ],
   "max": 11,
   "jp": "迷いの森１",
-  "en": "",
-  "status": "",
+  "en": "LostForest1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -872,8 +872,8 @@
   ],
   "max": 19,
   "jp": "聖チャペル・黒い森",
-  "en": "",
-  "status": "",
+  "en": "Chapel/Black Forest",
+  "status": "done",
   "notes": ""
  },
  {
@@ -883,8 +883,8 @@
   ],
   "max": 11,
   "jp": "聖チャペル",
-  "en": "",
-  "status": "",
+  "en": "St. Chapel",
+  "status": "done",
   "notes": ""
  },
  {
@@ -894,8 +894,8 @@
   ],
   "max": 11,
   "jp": "蓮沼街・空",
-  "en": "",
-  "status": "",
+  "en": "HasunumaSky",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
   ],
   "max": 15,
   "jp": "蓮沼街・山道",
-  "en": "",
-  "status": "",
+  "en": "Hasunuma/MtPath",
+  "status": "done",
   "notes": ""
  },
  {
@@ -916,8 +916,8 @@
   ],
   "max": 15,
   "jp": "ポールの部屋",
-  "en": "",
-  "status": "",
+  "en": "Paul's Room",
+  "status": "done",
   "notes": ""
  },
  {
@@ -927,8 +927,8 @@
   ],
   "max": 19,
   "jp": "ポール邸内黄金仏",
-  "en": "",
-  "status": "",
+  "en": "PaulGoldenBuddha",
+  "status": "done",
   "notes": ""
  },
  {
@@ -938,8 +938,8 @@
   ],
   "max": 15,
   "jp": "ポール邸内廊下",
-  "en": "",
-  "status": "",
+  "en": "Paul's Hallway",
+  "status": "done",
   "notes": ""
  },
  {
@@ -949,8 +949,8 @@
   ],
   "max": 11,
   "jp": "ポール邸庭",
-  "en": "",
-  "status": "",
+  "en": "PaulGarden",
+  "status": "done",
   "notes": ""
  },
  {
@@ -960,8 +960,8 @@
   ],
   "max": 11,
   "jp": "牧村邸２Ｆ",
-  "en": "",
-  "status": "",
+  "en": "Makimura 2F",
+  "status": "done",
   "notes": ""
  },
  {
@@ -971,8 +971,8 @@
   ],
   "max": 19,
   "jp": "牧村邸１Ｆ・風呂場",
-  "en": "",
-  "status": "",
+  "en": "Makimura 1F/Bath",
+  "status": "done",
   "notes": ""
  },
  {
@@ -982,8 +982,8 @@
   ],
   "max": 11,
   "jp": "牧村邸１Ｆ",
-  "en": "",
-  "status": "",
+  "en": "Makimura 1F",
+  "status": "done",
   "notes": ""
  },
  {
@@ -993,8 +993,8 @@
   ],
   "max": 7,
   "jp": "蓮沼街",
-  "en": "",
-  "status": "",
+  "en": "Hasunum",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1004,8 +1004,8 @@
   ],
   "max": 23,
   "jp": "関東スラム・マミー薬局",
-  "en": "",
-  "status": "",
+  "en": "KantoSlum/MamiiPharmacy",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1015,8 +1015,8 @@
   ],
   "max": 19,
   "jp": "家・アイテム屋Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Item Shop E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1026,8 +1026,8 @@
   ],
   "max": 19,
   "jp": "家・アイテム屋Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Item Shop D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1037,8 +1037,8 @@
   ],
   "max": 19,
   "jp": "家・アイテム屋Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Item Shop C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1048,8 +1048,8 @@
   ],
   "max": 19,
   "jp": "家・アイテム屋Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Item Shop B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1059,8 +1059,8 @@
   ],
   "max": 19,
   "jp": "家・アイテム屋Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Item Shop A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1070,8 +1070,8 @@
   ],
   "max": 19,
   "jp": "家・マミー薬局Ｆ",
-  "en": "",
-  "status": "",
+  "en": "House/Pharmacy F",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1081,8 +1081,8 @@
   ],
   "max": 19,
   "jp": "家・マミー薬局Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Pharmacy E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1092,8 +1092,8 @@
   ],
   "max": 19,
   "jp": "家・マミー薬局Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Pharmacy D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1103,8 +1103,8 @@
   ],
   "max": 19,
   "jp": "家・マミー薬局Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Pharmacy C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1114,8 +1114,8 @@
   ],
   "max": 19,
   "jp": "家・マミー薬局Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Pharmacy B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1125,8 +1125,8 @@
   ],
   "max": 19,
   "jp": "家・マミー薬局Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Pharmacy A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1136,8 +1136,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場３Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 3E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1147,8 +1147,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場３Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 3D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1158,8 +1158,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場３Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 3C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1169,8 +1169,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場３Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 3B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1180,8 +1180,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場３Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 3A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1191,8 +1191,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場２Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 2E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1202,8 +1202,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場２Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 2D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1213,8 +1213,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場２Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 2C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1224,8 +1224,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場２Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 2B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1235,8 +1235,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場２Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 2A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1246,8 +1246,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場１Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 1E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1257,8 +1257,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場１Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 1D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1268,8 +1268,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場１Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 1C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1279,8 +1279,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場１Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 1B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1290,8 +1290,8 @@
   ],
   "max": 15,
   "jp": "家・風呂場１Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Bath 1A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1301,8 +1301,8 @@
   ],
   "max": 15,
   "jp": "家・民家３Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 3E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1312,8 +1312,8 @@
   ],
   "max": 15,
   "jp": "家・民家３Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 3D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1323,8 +1323,8 @@
   ],
   "max": 15,
   "jp": "家・民家３Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 3C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1334,8 +1334,8 @@
   ],
   "max": 15,
   "jp": "家・民家３Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 3B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1345,8 +1345,8 @@
   ],
   "max": 15,
   "jp": "家・民家３Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 3A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1356,8 +1356,8 @@
   ],
   "max": 15,
   "jp": "家・民家２Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 2E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1367,8 +1367,8 @@
   ],
   "max": 15,
   "jp": "家・民家２Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 2D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1378,8 +1378,8 @@
   ],
   "max": 15,
   "jp": "家・民家２Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 2C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1389,8 +1389,8 @@
   ],
   "max": 15,
   "jp": "家・民家２Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 2B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1400,8 +1400,8 @@
   ],
   "max": 15,
   "jp": "家・民家２Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 2A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1411,8 +1411,8 @@
   ],
   "max": 15,
   "jp": "家・民家１Ｅ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 1E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1422,8 +1422,8 @@
   ],
   "max": 15,
   "jp": "家・民家１Ｄ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 1D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1433,8 +1433,8 @@
   ],
   "max": 15,
   "jp": "家・民家１Ｃ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 1C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1444,8 +1444,8 @@
   ],
   "max": 15,
   "jp": "家・民家１Ｂ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 1B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1455,8 +1455,8 @@
   ],
   "max": 15,
   "jp": "家・民家１Ａ",
-  "en": "",
-  "status": "",
+  "en": "House/Home 1A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1466,8 +1466,8 @@
   ],
   "max": 11,
   "jp": "魔王の城Ｅ",
-  "en": "",
-  "status": "",
+  "en": "DemonKing E",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1477,8 +1477,8 @@
   ],
   "max": 11,
   "jp": "魔王の城Ｄ",
-  "en": "",
-  "status": "",
+  "en": "DemonKing D",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1488,8 +1488,8 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｃ０２",
-  "en": "",
-  "status": "",
+  "en": "DemonCastle C02",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1499,8 +1499,8 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｃ０１",
-  "en": "",
-  "status": "",
+  "en": "DemonCastle C01",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1510,8 +1510,8 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｂ０２",
-  "en": "",
-  "status": "",
+  "en": "DemonCastle B02",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1521,8 +1521,8 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｂ０１",
-  "en": "",
-  "status": "",
+  "en": "DemonCastle B01",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1532,8 +1532,8 @@
   ],
   "max": 15,
   "jp": "魔王の城Ａ０２",
-  "en": "",
-  "status": "",
+  "en": "DemonCastle A02",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1543,8 +1543,8 @@
   ],
   "max": 15,
   "jp": "魔王の城Ａ０１",
-  "en": "",
-  "status": "",
+  "en": "DemonCastle A01",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1554,8 +1554,8 @@
   ],
   "max": 15,
   "jp": "戸来村洞窟２",
-  "en": "",
-  "status": "",
+  "en": "HeraiCave 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1565,8 +1565,8 @@
   ],
   "max": 15,
   "jp": "戸来村洞窟１",
-  "en": "",
-  "status": "",
+  "en": "HeraiCave 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1576,8 +1576,8 @@
   ],
   "max": 11,
   "jp": "戸来村０９",
-  "en": "",
-  "status": "",
+  "en": "Herai 09",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1587,8 +1587,8 @@
   ],
   "max": 11,
   "jp": "戸来村０８",
-  "en": "",
-  "status": "",
+  "en": "Herai 08",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1598,8 +1598,8 @@
   ],
   "max": 11,
   "jp": "戸来村０７",
-  "en": "",
-  "status": "",
+  "en": "Herai 07",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1609,8 +1609,8 @@
   ],
   "max": 11,
   "jp": "戸来村０６",
-  "en": "",
-  "status": "",
+  "en": "Herai 06",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1620,8 +1620,8 @@
   ],
   "max": 11,
   "jp": "戸来村０５",
-  "en": "",
-  "status": "",
+  "en": "Herai 05",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1631,8 +1631,8 @@
   ],
   "max": 11,
   "jp": "戸来村０４",
-  "en": "",
-  "status": "",
+  "en": "Herai 04",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1642,8 +1642,8 @@
   ],
   "max": 11,
   "jp": "戸来村０３",
-  "en": "",
-  "status": "",
+  "en": "Herai 03",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1653,8 +1653,8 @@
   ],
   "max": 11,
   "jp": "戸来村０２",
-  "en": "",
-  "status": "",
+  "en": "Herai 02",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1664,8 +1664,8 @@
   ],
   "max": 11,
   "jp": "戸来村０１",
-  "en": "",
-  "status": "",
+  "en": "Herai 01",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1675,8 +1675,8 @@
   ],
   "max": 27,
   "jp": "科学都市・キッカイ（廃棄）",
-  "en": "",
-  "status": "",
+  "en": "Science City/Kikkai(unused)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1686,8 +1686,8 @@
   ],
   "max": 19,
   "jp": "科学都市・瓜生４",
-  "en": "",
-  "status": "",
+  "en": "Science City/Uryu 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1697,8 +1697,8 @@
   ],
   "max": 27,
   "jp": "科学都市・瓜生３（廃棄）",
-  "en": "",
-  "status": "",
+  "en": "Science City/Uryu 3(unused)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1708,8 +1708,8 @@
   ],
   "max": 27,
   "jp": "科学都市・瓜生２（廃棄）",
-  "en": "",
-  "status": "",
+  "en": "Science City/Uryu 2(unused)",
+  "status": "done",
   "notes": ""
  }
 ]
