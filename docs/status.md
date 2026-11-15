@@ -16,8 +16,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   426368 never load, 301D08 = world-map building icons. `gfxleft.py`: 0 left.
 - warp_all: title_menu2 needs 3000 frames (MIN_FRAMES). Under load some original-ROM runs fail at start (exit 2,
   no run dir): rerun those with `--only`.
-- **Next, in order:** (1) gate tour: tour_en (rerun on build 0dceb5e's ROM, in progress at session end if not in
-  work/qa/tour_en/summary.tsv) + tour_jp -> `tools/tour_sheets.py` -> `qa_gate.py init work/qa/manifest.tsv
+- **Tour state at session end:** the EN tour rerun on this build (`warp_all.py build/goushouden_en.gba --out
+  work/qa/tour_en --jobs 3`) was killed by Claude Code at 53/~353 scenes: the machine ran low on memory. Rerun it
+  (fewer jobs, nothing else running), then the original's sign scenes (`--only "^sign"` into work/qa/tour_jp;
+  the rest of tour_jp is complete, 352 shots).
+- **Next, in order:** (1) gate tour: tour_en + tour_jp -> `tools/tour_sheets.py` -> `qa_gate.py init work/qa/manifest.tsv
   work/qa/tour --glob "*.png" --build build/goushouden_en.gba` -> `qa_gate.py todo ... --size 12 --out-dir
   work/qa/chunks` -> `JOBS=3 sh tools/vqa.sh` -> fix issues -> `qa_gate.py check`. (2) inkbox on choice/centred
   boxes, textcover. (3) Labels drawn but not seen: RESUME (2FE9B8), SHOP (2F91C4), SYM (2F8BB8), CRITICAL!!/MISS
