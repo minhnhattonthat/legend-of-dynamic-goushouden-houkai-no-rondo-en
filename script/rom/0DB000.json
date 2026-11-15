@@ -1,0 +1,3676 @@
+[
+ {
+  "id": "r0DB00C",
+  "ptrs": [
+   "7BB418",
+   "7BB41C",
+   "7BB508",
+   "7BB50C",
+   "7BB5F8",
+   "7BB5FC",
+   "7DFBF0",
+   "7E3684"
+  ],
+  "max": 11,
+  "jp": "ドラゴン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB018",
+  "ptrs": [
+   "7BB23C"
+  ],
+  "max": 15,
+  "jp": "次元獣グレイド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB028",
+  "ptrs": [
+   "7BB05C",
+   "7BB14C"
+  ],
+  "max": 15,
+  "jp": "メカあしゅら",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB038",
+  "ptrs": [
+   "7BB058",
+   "7BB148",
+   "7E12F0"
+  ],
+  "max": 19,
+  "jp": "機械獣あしゅら男爵",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB04C",
+  "ptrs": [
+   "7BAE7C",
+   "7BAF6C"
+  ],
+  "max": 19,
+  "jp": "ひさんしょうぐん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB060",
+  "ptrs": [
+   "7BAE78",
+   "7BAF68",
+   "7E0770"
+  ],
+  "max": 11,
+  "jp": "悲惨将軍",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB06C",
+  "ptrs": [
+   "7BAD88",
+   "7BAD8C"
+  ],
+  "max": 15,
+  "jp": "？？？？？？",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB07C",
+  "ptrs": [
+   "7BAC9C"
+  ],
+  "max": 15,
+  "jp": "うんのろくろう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB08C",
+  "ptrs": [
+   "7BAC98"
+  ],
+  "max": 11,
+  "jp": "海野六郎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB098",
+  "ptrs": [
+   "7BABAC"
+  ],
+  "max": 15,
+  "jp": "いさにゅうどう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0A8",
+  "ptrs": [
+   "7BABA8",
+   "7E43D0",
+   "7E442C"
+  ],
+  "max": 11,
+  "jp": "伊佐入道",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0B4",
+  "ptrs": [
+   "7BAABC"
+  ],
+  "max": 7,
+  "jp": "サタン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0BC",
+  "ptrs": [
+   "7BAAB8",
+   "7E0490"
+  ],
+  "max": 15,
+  "jp": "サタンの足の爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0CC",
+  "ptrs": [
+   "7BA9C8"
+  ],
+  "max": 11,
+  "jp": "デーモンC",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0D8",
+  "ptrs": [
+   "7BA8D8"
+  ],
+  "max": 11,
+  "jp": "デーモンB",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0E4",
+  "ptrs": [
+   "7BA7EC",
+   "7BA8DC",
+   "7BA9CC",
+   "7DFA80",
+   "7DFADC",
+   "7DFB38",
+   "7DFB94",
+   "7E248C",
+   "7E24E8",
+   "7E2544",
+   "7E25A0",
+   "7E3290",
+   "7E32EC",
+   "7E3348",
+   "7E33A4",
+   "7E3400",
+   "7E345C",
+   "7E34B8"
+  ],
+  "max": 11,
+  "jp": "デーモン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0F0",
+  "ptrs": [
+   "7BA7E8"
+  ],
+  "max": 11,
+  "jp": "デーモンA",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB0FC",
+  "ptrs": [
+   "7BA6F8"
+  ],
+  "max": 15,
+  "jp": "巨大デビルマン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB10C",
+  "ptrs": [
+   "7BA60C"
+  ],
+  "max": 15,
+  "jp": "Ｃ・シレーヌ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB11C",
+  "ptrs": [
+   "7BA608",
+   "7E2658",
+   "7E3908"
+  ],
+  "max": 19,
+  "jp": "カイム・シレーヌ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB130",
+  "ptrs": [
+   "7BA51C"
+  ],
+  "max": 11,
+  "jp": "スサノオウ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB13C",
+  "ptrs": [
+   "7BA518"
+  ],
+  "max": 11,
+  "jp": "英雄王真神",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB148",
+  "ptrs": [
+   "7BA428",
+   "7BA42C",
+   "7C764C",
+   "7C7650",
+   "7E26B4",
+   "7E3CA0"
+  ],
+  "max": 11,
+  "jp": "ガードマン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB154",
+  "ptrs": [
+   "7BA33C"
+  ],
+  "max": 15,
+  "jp": "次元神グレイド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB164",
+  "ptrs": [
+   "7BA24C"
+  ],
+  "max": 15,
+  "jp": "次元王グレイド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB174",
+  "ptrs": [
+   "7BA248",
+   "7BA338",
+   "7BB238",
+   "7E50C0"
+  ],
+  "max": 11,
+  "jp": "グレイド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB180",
+  "ptrs": [
+   "7BA06C",
+   "7BA15C"
+  ],
+  "max": 15,
+  "jp": "くろいまもの",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB190",
+  "ptrs": [
+   "7BA068",
+   "7BA158",
+   "7E2880",
+   "7E3E10",
+   "7E5230",
+   "7E528C"
+  ],
+  "max": 11,
+  "jp": "黒い魔物",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB19C",
+  "ptrs": [
+   "7B9F7C"
+  ],
+  "max": 15,
+  "jp": "まのざんがい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1AC",
+  "ptrs": [
+   "7B9F78",
+   "7E2710"
+  ],
+  "max": 11,
+  "jp": "魔の残骸",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1B8",
+  "ptrs": [
+   "7B9E88",
+   "7B9E8C"
+  ],
+  "max": 7,
+  "jp": "ダンテ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1C0",
+  "ptrs": [
+   "7B9D9C"
+  ],
+  "max": 7,
+  "jp": "うつぎ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1C8",
+  "ptrs": [
+   "7B9D98"
+  ],
+  "max": 11,
+  "jp": "宇津木涼",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1D4",
+  "ptrs": [
+   "7B9CA8",
+   "7B9CAC"
+  ],
+  "max": 15,
+  "jp": "けっこう仮面",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1E4",
+  "ptrs": [
+   "7B9BBC"
+  ],
+  "max": 11,
+  "jp": "こうじゃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1F0",
+  "ptrs": [
+   "7B9BB8",
+   "7E07CC"
+  ],
+  "max": 11,
+  "jp": "果扨虹蛇",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB1FC",
+  "ptrs": [
+   "7B9ACC"
+  ],
+  "max": 11,
+  "jp": "キッカイ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB208",
+  "ptrs": [
+   "7B9AC8"
+  ],
+  "max": 15,
+  "jp": "摩呵キッカイ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB218",
+  "ptrs": [
+   "7B99DC",
+   "7C2D10"
+  ],
+  "max": 7,
+  "jp": "どらの",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB220",
+  "ptrs": [
+   "7B99D8",
+   "7E5064"
+  ],
+  "max": 15,
+  "jp": "怒良野キラー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB230",
+  "ptrs": [
+   "7B98EC",
+   "7C2CC8"
+  ],
+  "max": 11,
+  "jp": "ケダマン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB23C",
+  "ptrs": [
+   "7B98E8"
+  ],
+  "max": 15,
+  "jp": "阿仁丸ケダマン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB24C",
+  "ptrs": [
+   "7B97FC"
+  ],
+  "max": 7,
+  "jp": "みろく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB254",
+  "ptrs": [
+   "7B97F8"
+  ],
+  "max": 11,
+  "jp": "無幻美勒",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB260",
+  "ptrs": [
+   "7B970C"
+  ],
+  "max": 15,
+  "jp": "Ｉ・カイザー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB270",
+  "ptrs": [
+   "7B9708",
+   "7E203C"
+  ],
+  "max": 19,
+  "jp": "アイアンカイザー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB284",
+  "ptrs": [
+   "7B9618"
+  ],
+  "max": 11,
+  "jp": "暴走族Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB290",
+  "ptrs": [
+   "7B9528"
+  ],
+  "max": 11,
+  "jp": "暴走族Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB29C",
+  "ptrs": [
+   "7B943C",
+   "7B952C",
+   "7B961C"
+  ],
+  "max": 15,
+  "jp": "ぼうそうぞく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB2AC",
+  "ptrs": [
+   "7B9438"
+  ],
+  "max": 11,
+  "jp": "暴走族Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB2B8",
+  "ptrs": [
+   "7B9348"
+  ],
+  "max": 11,
+  "jp": "無法者Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB2C4",
+  "ptrs": [
+   "7B9258"
+  ],
+  "max": 11,
+  "jp": "無法者Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB2D0",
+  "ptrs": [
+   "7B916C",
+   "7B925C",
+   "7B934C"
+  ],
+  "max": 11,
+  "jp": "むほうもの",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB2DC",
+  "ptrs": [
+   "7B9168"
+  ],
+  "max": 11,
+  "jp": "無法者Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB2E8",
+  "ptrs": [
+   "7B9078"
+  ],
+  "max": 11,
+  "jp": "不良学生Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB2F4",
+  "ptrs": [
+   "7B8F88"
+  ],
+  "max": 11,
+  "jp": "不良学生Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB300",
+  "ptrs": [
+   "7B8E9C",
+   "7B8F8C",
+   "7B907C"
+  ],
+  "max": 19,
+  "jp": "ふりょうがくせい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB314",
+  "ptrs": [
+   "7B8E98"
+  ],
+  "max": 11,
+  "jp": "不良学生Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB320",
+  "ptrs": [
+   "7B8DA8"
+  ],
+  "max": 7,
+  "jp": "下忍C",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB328",
+  "ptrs": [
+   "7B8CB8"
+  ],
+  "max": 7,
+  "jp": "下忍B",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB330",
+  "ptrs": [
+   "7B8BCC",
+   "7B8CBC",
+   "7B8DAC"
+  ],
+  "max": 7,
+  "jp": "げにん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB338",
+  "ptrs": [
+   "7B8BC8"
+  ],
+  "max": 7,
+  "jp": "下忍A",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB340",
+  "ptrs": [
+   "7B8AD8"
+  ],
+  "max": 15,
+  "jp": "魔獣ハンターＣ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB350",
+  "ptrs": [
+   "7B89E8"
+  ],
+  "max": 15,
+  "jp": "魔獣ハンターＢ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB360",
+  "ptrs": [
+   "7B88FC",
+   "7B89EC",
+   "7B8ADC"
+  ],
+  "max": 19,
+  "jp": "まじゅうハンター",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB374",
+  "ptrs": [
+   "7B88F8"
+  ],
+  "max": 15,
+  "jp": "魔獣ハンターＡ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB384",
+  "ptrs": [
+   "7B8808"
+  ],
+  "max": 11,
+  "jp": "不死団Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB390",
+  "ptrs": [
+   "7B8718"
+  ],
+  "max": 11,
+  "jp": "不死団Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB39C",
+  "ptrs": [
+   "7B862C",
+   "7B871C",
+   "7B880C",
+   "7E18B0",
+   "7E190C",
+   "7E1968",
+   "7E19C4",
+   "7E1AD8",
+   "7E1B34",
+   "7E1B90",
+   "7E1BEC",
+   "7E1C48",
+   "7E1D5C",
+   "7E1E70",
+   "7E1F28",
+   "7E1FE0"
+  ],
+  "max": 7,
+  "jp": "不死団",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB3A4",
+  "ptrs": [
+   "7B8628"
+  ],
+  "max": 11,
+  "jp": "不死団Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB3B0",
+  "ptrs": [
+   "7B8538"
+  ],
+  "max": 15,
+  "jp": "ハチュウ人類Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB3C0",
+  "ptrs": [
+   "7B8448"
+  ],
+  "max": 15,
+  "jp": "ハチュウ人類Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB3D0",
+  "ptrs": [
+   "7B835C",
+   "7B844C",
+   "7B853C"
+  ],
+  "max": 19,
+  "jp": "ハチュウじんるい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB3E4",
+  "ptrs": [
+   "7B8358"
+  ],
+  "max": 15,
+  "jp": "ハチュウ人類Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB3F4",
+  "ptrs": [
+   "7B8268"
+  ],
+  "max": 15,
+  "jp": "メカザウルスＣ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB404",
+  "ptrs": [
+   "7B8178"
+  ],
+  "max": 15,
+  "jp": "メカザウルスＢ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB414",
+  "ptrs": [
+   "7B808C",
+   "7B817C",
+   "7B826C",
+   "7E134C",
+   "7E13A8",
+   "7E1404",
+   "7E2F54",
+   "7E2FB0",
+   "7E300C",
+   "7E3798",
+   "7E37F4",
+   "7E3850",
+   "7E38AC",
+   "7E3A78",
+   "7E3AD4",
+   "7E3B30",
+   "7E4DE0",
+   "7E51D4"
+  ],
+  "max": 15,
+  "jp": "メカザウルス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB424",
+  "ptrs": [
+   "7B8088"
+  ],
+  "max": 15,
+  "jp": "メカザウルスＡ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB434",
+  "ptrs": [
+   "7B7F98"
+  ],
+  "max": 11,
+  "jp": "機械獣Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB440",
+  "ptrs": [
+   "7B7EA8"
+  ],
+  "max": 11,
+  "jp": "機械獣Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB44C",
+  "ptrs": [
+   "7B7DBC",
+   "7B7EAC",
+   "7B7F9C"
+  ],
+  "max": 15,
+  "jp": "きかいじゅう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB45C",
+  "ptrs": [
+   "7B7DB8"
+  ],
+  "max": 11,
+  "jp": "機械獣Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB468",
+  "ptrs": [
+   "7B7CC8"
+  ],
+  "max": 11,
+  "jp": "幻魔衆Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB474",
+  "ptrs": [
+   "7B7BD8"
+  ],
+  "max": 11,
+  "jp": "幻魔衆Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB480",
+  "ptrs": [
+   "7B7AEC",
+   "7B7BDC",
+   "7B7CCC"
+  ],
+  "max": 15,
+  "jp": "げんましゅう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB490",
+  "ptrs": [
+   "7B7AE8"
+  ],
+  "max": 11,
+  "jp": "幻魔衆Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB49C",
+  "ptrs": [
+   "7B79F8"
+  ],
+  "max": 11,
+  "jp": "争魔衆Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB4A8",
+  "ptrs": [
+   "7B7908"
+  ],
+  "max": 11,
+  "jp": "争魔衆Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB4B4",
+  "ptrs": [
+   "7B781C",
+   "7B790C",
+   "7B79FC"
+  ],
+  "max": 15,
+  "jp": "そうましゅう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB4C4",
+  "ptrs": [
+   "7B7818"
+  ],
+  "max": 11,
+  "jp": "争魔衆Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB4D0",
+  "ptrs": [
+   "7B7728"
+  ],
+  "max": 23,
+  "jp": "聖パラダイス中学生Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB4E8",
+  "ptrs": [
+   "7B7638"
+  ],
+  "max": 23,
+  "jp": "聖パラダイス中学生Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB500",
+  "ptrs": [
+   "7B754C",
+   "7B763C",
+   "7B772C"
+  ],
+  "max": 11,
+  "jp": "パラ中生",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB50C",
+  "ptrs": [
+   "7B7548"
+  ],
+  "max": 23,
+  "jp": "聖パラダイス中学生Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB524",
+  "ptrs": [
+   "7B7458"
+  ],
+  "max": 11,
+  "jp": "大帝国軍人C",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB530",
+  "ptrs": [
+   "7B7368"
+  ],
+  "max": 11,
+  "jp": "大帝国軍人B",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB53C",
+  "ptrs": [
+   "7B727C",
+   "7B736C",
+   "7B745C"
+  ],
+  "max": 19,
+  "jp": "ていこくぐんじん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB550",
+  "ptrs": [
+   "7B7278"
+  ],
+  "max": 11,
+  "jp": "大帝国軍人A",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB55C",
+  "ptrs": [
+   "7B7188"
+  ],
+  "max": 11,
+  "jp": "死神警察３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB568",
+  "ptrs": [
+   "7B7098"
+  ],
+  "max": 11,
+  "jp": "死神警察２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB574",
+  "ptrs": [
+   "7B6FA8"
+  ],
+  "max": 11,
+  "jp": "死神警察１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB580",
+  "ptrs": [
+   "7B6EB8"
+  ],
+  "max": 11,
+  "jp": "死神警察Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB58C",
+  "ptrs": [
+   "7B6DC8"
+  ],
+  "max": 11,
+  "jp": "死神警察Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB598",
+  "ptrs": [
+   "7B6CDC",
+   "7B6DCC",
+   "7B6EBC",
+   "7B6FAC",
+   "7B709C",
+   "7B718C"
+  ],
+  "max": 19,
+  "jp": "しにがみけいさつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB5AC",
+  "ptrs": [
+   "7B6CD8"
+  ],
+  "max": 11,
+  "jp": "死神警察Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB5B8",
+  "ptrs": [
+   "7B6BE8"
+  ],
+  "max": 11,
+  "jp": "外道会３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB5C4",
+  "ptrs": [
+   "7B6AF8"
+  ],
+  "max": 11,
+  "jp": "外道会２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB5D0",
+  "ptrs": [
+   "7B6A08"
+  ],
+  "max": 11,
+  "jp": "外道会１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB5DC",
+  "ptrs": [
+   "7B6918"
+  ],
+  "max": 11,
+  "jp": "外道会Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB5E8",
+  "ptrs": [
+   "7B6828"
+  ],
+  "max": 11,
+  "jp": "外道会Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB5F4",
+  "ptrs": [
+   "7B673C",
+   "7B682C",
+   "7B691C",
+   "7B6A0C",
+   "7B6AFC",
+   "7B6BEC"
+  ],
+  "max": 11,
+  "jp": "げどうかい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB600",
+  "ptrs": [
+   "7B6738"
+  ],
+  "max": 11,
+  "jp": "外道会Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB60C",
+  "ptrs": [
+   "7B6648"
+  ],
+  "max": 15,
+  "jp": "パンサー団員C",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB61C",
+  "ptrs": [
+   "7B6558"
+  ],
+  "max": 15,
+  "jp": "パンサー団員B",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB62C",
+  "ptrs": [
+   "7B646C",
+   "7B655C",
+   "7B664C"
+  ],
+  "max": 19,
+  "jp": "パンサーだんいん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB640",
+  "ptrs": [
+   "7B6468"
+  ],
+  "max": 15,
+  "jp": "パンサー団員A",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB650",
+  "ptrs": [
+   "7B637C"
+  ],
+  "max": 11,
+  "jp": "うりゅう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB65C",
+  "ptrs": [
+   "7B6378",
+   "7E20F4"
+  ],
+  "max": 7,
+  "jp": "瓜生麗",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB664",
+  "ptrs": [
+   "7B628C"
+  ],
+  "max": 7,
+  "jp": "ささき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB66C",
+  "ptrs": [
+   "7B6288",
+   "7E511C"
+  ],
+  "max": 11,
+  "jp": "佐々木剣道",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB678",
+  "ptrs": [
+   "7B619C"
+  ],
+  "max": 7,
+  "jp": "すさ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB680",
+  "ptrs": [
+   "7B6198"
+  ],
+  "max": 11,
+  "jp": "朱紗真悟",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB68C",
+  "ptrs": [
+   "7B60AC"
+  ],
+  "max": 11,
+  "jp": "げんぞう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB698",
+  "ptrs": [
+   "7B60A8",
+   "7E2098",
+   "7E52E8"
+  ],
+  "max": 11,
+  "jp": "来留間源三",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6A4",
+  "ptrs": [
+   "7B5FBC",
+   "7E1A7C"
+  ],
+  "max": 11,
+  "jp": "シャフト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6B0",
+  "ptrs": [
+   "7B5FB8"
+  ],
+  "max": 15,
+  "jp": "シャフト博士",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6C0",
+  "ptrs": [
+   "7B5ECC"
+  ],
+  "max": 11,
+  "jp": "しんいち",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6CC",
+  "ptrs": [
+   "7B5EC8"
+  ],
+  "max": 11,
+  "jp": "来留間慎一",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6D8",
+  "ptrs": [
+   "7B5DDC",
+   "7E16E4"
+  ],
+  "max": 7,
+  "jp": "ゴール",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6E0",
+  "ptrs": [
+   "7B5DD8"
+  ],
+  "max": 19,
+  "jp": "地底魔王・ゴール",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6F4",
+  "ptrs": [
+   "7B5CE8",
+   "7B5CEC",
+   "7E1688"
+  ],
+  "max": 7,
+  "jp": "モバ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB6FC",
+  "ptrs": [
+   "7B5BF8",
+   "7B5BFC",
+   "7E162C"
+  ],
+  "max": 7,
+  "jp": "ガロ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB704",
+  "ptrs": [
+   "7B5B08",
+   "7B5B0C",
+   "7E15D0"
+  ],
+  "max": 7,
+  "jp": "ラド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB70C",
+  "ptrs": [
+   "7B5A18",
+   "7B5A1C",
+   "7E1574"
+  ],
+  "max": 7,
+  "jp": "ジガ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB714",
+  "ptrs": [
+   "7B592C"
+  ],
+  "max": 11,
+  "jp": "りょうま",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB720",
+  "ptrs": [
+   "7B5928"
+  ],
+  "max": 7,
+  "jp": "流竜馬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB728",
+  "ptrs": [
+   "7B5838",
+   "7B583C"
+  ],
+  "max": 11,
+  "jp": "ゲッター３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB734",
+  "ptrs": [
+   "7B5748",
+   "7B574C"
+  ],
+  "max": 11,
+  "jp": "ゲッター２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB740",
+  "ptrs": [
+   "7B565C"
+  ],
+  "max": 11,
+  "jp": "ゲッター1",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB74C",
+  "ptrs": [
+   "7B5658"
+  ],
+  "max": 11,
+  "jp": "ゲッター１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB758",
+  "ptrs": [
+   "7B556C"
+  ],
+  "max": 11,
+  "jp": "Ｄｒ．ヘル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB764",
+  "ptrs": [
+   "7B5568",
+   "7E2B60"
+  ],
+  "max": 15,
+  "jp": "ドクター・ヘル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB774",
+  "ptrs": [
+   "7B547C"
+  ],
+  "max": 11,
+  "jp": "ブロッケン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB780",
+  "ptrs": [
+   "7B5478"
+  ],
+  "max": 15,
+  "jp": "ブロッケン伯爵",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB790",
+  "ptrs": [
+   "7B538C",
+   "7E1238"
+  ],
+  "max": 11,
+  "jp": "キングダン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB79C",
+  "ptrs": [
+   "7B5388"
+  ],
+  "max": 19,
+  "jp": "キングダンＸ１０",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB7B0",
+  "ptrs": [
+   "7B5298",
+   "7B529C",
+   "7E1294"
+  ],
+  "max": 19,
+  "jp": "ゴーストファイア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB7C4",
+  "ptrs": [
+   "7B51A8",
+   "7B51AC"
+  ],
+  "max": 7,
+  "jp": "ボス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB7CC",
+  "ptrs": [
+   "7B50BC"
+  ],
+  "max": 7,
+  "jp": "さやか",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB7D4",
+  "ptrs": [
+   "7B50B8"
+  ],
+  "max": 11,
+  "jp": "弓さやか",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB7E0",
+  "ptrs": [
+   "7B4FC8",
+   "7B4FCC"
+  ],
+  "max": 15,
+  "jp": "ボスボロット",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB7F0",
+  "ptrs": [
+   "7B4ED8",
+   "7B4EDC"
+  ],
+  "max": 15,
+  "jp": "アフロダイＡ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB800",
+  "ptrs": [
+   "7B4DE8",
+   "7B4DEC"
+  ],
+  "max": 15,
+  "jp": "マジンガーＺ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB810",
+  "ptrs": [
+   "7B4CFC"
+  ],
+  "max": 7,
+  "jp": "こうじ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB818",
+  "ptrs": [
+   "7B4CF8"
+  ],
+  "max": 7,
+  "jp": "兜甲児",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB820",
+  "ptrs": [
+   "7B4C0C"
+  ],
+  "max": 7,
+  "jp": "きたに",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB828",
+  "ptrs": [
+   "7B4C08",
+   "7E0FB4"
+  ],
+  "max": 11,
+  "jp": "鬼谷妖次郎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB834",
+  "ptrs": [
+   "7B4B1C"
+  ],
+  "max": 15,
+  "jp": "じゃわんぼう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB844",
+  "ptrs": [
+   "7B4B18",
+   "7E0F58"
+  ],
+  "max": 11,
+  "jp": "邪腕坊苦海",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB850",
+  "ptrs": [
+   "7B4A2C"
+  ],
+  "max": 15,
+  "jp": "しゅてんどう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB860",
+  "ptrs": [
+   "7B4A28"
+  ],
+  "max": 11,
+  "jp": "手天童子郎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB86C",
+  "ptrs": [
+   "7B493C"
+  ],
+  "max": 7,
+  "jp": "ドクロ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB874",
+  "ptrs": [
+   "7B4938",
+   "7E0BC0"
+  ],
+  "max": 7,
+  "jp": "怒黒",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB87C",
+  "ptrs": [
+   "7B484C"
+  ],
+  "max": 7,
+  "jp": "ネコム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB884",
+  "ptrs": [
+   "7B4848",
+   "7E0828",
+   "7E0884",
+   "7E093C",
+   "7E09F4",
+   "7E0AAC",
+   "7E0B08"
+  ],
+  "max": 7,
+  "jp": "猫夢",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB88C",
+  "ptrs": [
+   "7B4758",
+   "7B475C",
+   "7E0B64"
+  ],
+  "max": 15,
+  "jp": "ハチの巣入道",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB89C",
+  "ptrs": [
+   "7B466C"
+  ],
+  "max": 11,
+  "jp": "えんまくん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB8A8",
+  "ptrs": [
+   "7B4668"
+  ],
+  "max": 11,
+  "jp": "えん魔くん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB8B4",
+  "ptrs": [
+   "7B457C"
+  ],
+  "max": 15,
+  "jp": "だんじゅうろう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB8C4",
+  "ptrs": [
+   "7B4578",
+   "7E0714"
+  ],
+  "max": 11,
+  "jp": "生首団十郎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB8D0",
+  "ptrs": [
+   "7B448C"
+  ],
+  "max": 11,
+  "jp": "きくのすけ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB8DC",
+  "ptrs": [
+   "7B4488"
+  ],
+  "max": 15,
+  "jp": "悪馬尻菊の助",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB8EC",
+  "ptrs": [
+   "7B4398",
+   "7B439C",
+   "7E037C"
+  ],
+  "max": 7,
+  "jp": "丸ゴシ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB8F4",
+  "ptrs": [
+   "7B42A8",
+   "7B42AC",
+   "7E0320"
+  ],
+  "max": 11,
+  "jp": "ヒゲゴジラ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB900",
+  "ptrs": [
+   "7B41B8",
+   "7B41BC",
+   "7E02C4"
+  ],
+  "max": 19,
+  "jp": "マカロニ・キッド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB914",
+  "ptrs": [
+   "7B40C8",
+   "7B40CC",
+   "7E0268"
+  ],
+  "max": 11,
+  "jp": "パラソル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB920",
+  "ptrs": [
+   "7B3FDC"
+  ],
+  "max": 11,
+  "jp": "じゅうべえ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB92C",
+  "ptrs": [
+   "7B3FD8"
+  ],
+  "max": 19,
+  "jp": "柳生十兵衛みつ子",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB940",
+  "ptrs": [
+   "7B3EE8",
+   "7B3EEC",
+   "7E009C",
+   "7E36E0"
+  ],
+  "max": 15,
+  "jp": "スラムキング",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB950",
+  "ptrs": [
+   "7B3DFC",
+   "7BB32C"
+  ],
+  "max": 11,
+  "jp": "ジャック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB95C",
+  "ptrs": [
+   "7B3DF8",
+   "7BB328"
+  ],
+  "max": 23,
+  "jp": "バイオレンスジャック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB974",
+  "ptrs": [
+   "7B3D08",
+   "7B3D0C",
+   "7E2BBC"
+  ],
+  "max": 7,
+  "jp": "ゼノン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB97C",
+  "ptrs": [
+   "7B3C18",
+   "7B3C1C",
+   "7E25FC"
+  ],
+  "max": 11,
+  "jp": "シレーヌ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB988",
+  "ptrs": [
+   "7B3B28",
+   "7B3B2C",
+   "7E0040"
+  ],
+  "max": 11,
+  "jp": "ジンメン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB994",
+  "ptrs": [
+   "7B394C",
+   "7BB7DC"
+  ],
+  "max": 7,
+  "jp": "あきら",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB99C",
+  "ptrs": [
+   "7B3948",
+   "7BB7D8"
+  ],
+  "max": 7,
+  "jp": "不動明",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB9A4",
+  "ptrs": [
+   "7B385C"
+  ],
+  "max": 15,
+  "jp": "シスタージル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB9B4",
+  "ptrs": [
+   "7B3858",
+   "7DFFE4",
+   "7E2430"
+  ],
+  "max": 15,
+  "jp": "シスター・ジル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB9C4",
+  "ptrs": [
+   "7B376C"
+  ],
+  "max": 15,
+  "jp": "ドラゴン・Ｐ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB9D4",
+  "ptrs": [
+   "7B3768",
+   "7E23D4"
+  ],
+  "max": 19,
+  "jp": "ドラゴン・パンサー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB9E8",
+  "ptrs": [
+   "7B367C"
+  ],
+  "max": 15,
+  "jp": "シザース・Ｐ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DB9F8",
+  "ptrs": [
+   "7B3678",
+   "7E231C"
+  ],
+  "max": 19,
+  "jp": "シザース・パンサー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA0C",
+  "ptrs": [
+   "7B358C"
+  ],
+  "max": 15,
+  "jp": "トマホーク・Ｐ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA1C",
+  "ptrs": [
+   "7B3588",
+   "7E2378"
+  ],
+  "max": 23,
+  "jp": "トマホーク・パンサー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA34",
+  "ptrs": [
+   "7B3498"
+  ],
+  "max": 19,
+  "jp": "キューティーハニー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA48",
+  "ptrs": [
+   "7B33AC",
+   "7B349C",
+   "7BB6EC"
+  ],
+  "max": 7,
+  "jp": "ハニー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA50",
+  "ptrs": [
+   "7B33A8",
+   "7BB6E8"
+  ],
+  "max": 11,
+  "jp": "如月ハニー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA5C",
+  "ptrs": [
+   "7B32B8",
+   "7B32BC",
+   "7BB8C8",
+   "7BB8CC"
+  ],
+  "max": 11,
+  "jp": "男主人公",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA68",
+  "ptrs": [
+   "7B31C8",
+   "7B31CC",
+   "7B3A38",
+   "7B3A3C",
+   "7BA6FC"
+  ],
+  "max": 11,
+  "jp": "デビルマン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA74",
+  "ptrs": [
+   "7BC7C4",
+   "7BC7C8",
+   "7BE430",
+   "7BE434"
+  ],
+  "max": 15,
+  "jp": "シザーアタック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA84",
+  "ptrs": [
+   "7BC808",
+   "7BC80C"
+  ],
+  "max": 7,
+  "jp": "ヒール",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA8C",
+  "ptrs": [
+   "7BC84C",
+   "7BC850"
+  ],
+  "max": 15,
+  "jp": "メジャーヒール",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBA9C",
+  "ptrs": [
+   "7BC890",
+   "7BC894"
+  ],
+  "max": 7,
+  "jp": "キュア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBAA4",
+  "ptrs": [
+   "7BC8D4",
+   "7BC8D8"
+  ],
+  "max": 15,
+  "jp": "キュアエイド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBAB4",
+  "ptrs": [
+   "7BC918",
+   "7BC91C"
+  ],
+  "max": 15,
+  "jp": "リフレッシュ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBAC4",
+  "ptrs": [
+   "7BC95C",
+   "7BC960"
+  ],
+  "max": 11,
+  "jp": "リカバー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBAD0",
+  "ptrs": [
+   "7BC9A0",
+   "7BC9A4"
+  ],
+  "max": 19,
+  "jp": "メジャーリカバー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBAE4",
+  "ptrs": [
+   "7BC9E4",
+   "7BC9E8"
+  ],
+  "max": 15,
+  "jp": "アウェイクン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBAF4",
+  "ptrs": [
+   "7BCA28",
+   "7BCA2C"
+  ],
+  "max": 11,
+  "jp": "リバイブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB00",
+  "ptrs": [
+   "7BCA6C"
+  ],
+  "max": 15,
+  "jp": "アイテムを盗む",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB10",
+  "ptrs": [
+   "7BCA70"
+  ],
+  "max": 19,
+  "jp": "アイテムをぬすむ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB24",
+  "ptrs": [
+   "7BCAB0"
+  ],
+  "max": 11,
+  "jp": "怪しい薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB30",
+  "ptrs": [
+   "7BCAB4"
+  ],
+  "max": 15,
+  "jp": "あやしいくすり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB40",
+  "ptrs": [
+   "7BCAF4"
+  ],
+  "max": 7,
+  "jp": "威圧",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB48",
+  "ptrs": [
+   "7BCAF8"
+  ],
+  "max": 7,
+  "jp": "いあつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB50",
+  "ptrs": [
+   "7BCB38"
+  ],
+  "max": 7,
+  "jp": "応援",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB58",
+  "ptrs": [
+   "7BCB3C"
+  ],
+  "max": 11,
+  "jp": "おうえん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB64",
+  "ptrs": [
+   "7BCB7C"
+  ],
+  "max": 11,
+  "jp": "お金を盗む",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB70",
+  "ptrs": [
+   "7BCB80"
+  ],
+  "max": 15,
+  "jp": "おかねをぬすむ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB80",
+  "ptrs": [
+   "7BCBC0"
+  ],
+  "max": 7,
+  "jp": "怪力",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB88",
+  "ptrs": [
+   "7BCBC4"
+  ],
+  "max": 11,
+  "jp": "かいりき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB94",
+  "ptrs": [
+   "7BCC04"
+  ],
+  "max": 7,
+  "jp": "隠れる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBB9C",
+  "ptrs": [
+   "7BCC08"
+  ],
+  "max": 11,
+  "jp": "かくれる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBA8",
+  "ptrs": [
+   "7BCC48"
+  ],
+  "max": 11,
+  "jp": "噛み付く",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBB4",
+  "ptrs": [
+   "7BCC4C"
+  ],
+  "max": 11,
+  "jp": "かみつく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBC0",
+  "ptrs": [
+   "7BCC8C",
+   "7C1224"
+  ],
+  "max": 7,
+  "jp": "強打",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBC8",
+  "ptrs": [
+   "7BCC90",
+   "7C1228"
+  ],
+  "max": 11,
+  "jp": "きょうだ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBD4",
+  "ptrs": [
+   "7BCCD0",
+   "7C1268"
+  ],
+  "max": 11,
+  "jp": "斬りつける",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBE0",
+  "ptrs": [
+   "7BCCD4",
+   "7C126C"
+  ],
+  "max": 11,
+  "jp": "きりつける",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBEC",
+  "ptrs": [
+   "7BCD14"
+  ],
+  "max": 7,
+  "jp": "黒い息",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBBF4",
+  "ptrs": [
+   "7BCD18"
+  ],
+  "max": 11,
+  "jp": "くろいいき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC00",
+  "ptrs": [
+   "7BCD58",
+   "7BCD5C"
+  ],
+  "max": 11,
+  "jp": "ケシゴム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC0C",
+  "ptrs": [
+   "7BCD9C",
+   "7BCDA0"
+  ],
+  "max": 19,
+  "jp": "ゲッターウィング",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC20",
+  "ptrs": [
+   "7BCDE0",
+   "7BCDE4"
+  ],
+  "max": 15,
+  "jp": "ゲッターキック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC30",
+  "ptrs": [
+   "7BCE24",
+   "7BCE28",
+   "7C13BC",
+   "7C13C0"
+  ],
+  "max": 7,
+  "jp": "光線銃",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC38",
+  "ptrs": [
+   "7BCE68"
+  ],
+  "max": 7,
+  "jp": "強奪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC40",
+  "ptrs": [
+   "7BCE6C"
+  ],
+  "max": 11,
+  "jp": "ごうだつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC4C",
+  "ptrs": [
+   "7BCEAC"
+  ],
+  "max": 7,
+  "jp": "自爆",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC54",
+  "ptrs": [
+   "7BCEB0"
+  ],
+  "max": 7,
+  "jp": "じばく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC5C",
+  "ptrs": [
+   "7BCEF0"
+  ],
+  "max": 7,
+  "jp": "獣人化",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC64",
+  "ptrs": [
+   "7BCEF4"
+  ],
+  "max": 15,
+  "jp": "じゅうじんか",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC74",
+  "ptrs": [
+   "7BCF34"
+  ],
+  "max": 23,
+  "jp": "ジェットスクランダー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBC8C",
+  "ptrs": [
+   "7BCF38"
+  ],
+  "max": 19,
+  "jp": "Ｊ・スクランダー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBCA0",
+  "ptrs": [
+   "7BCF78",
+   "7C1444"
+  ],
+  "max": 11,
+  "jp": "精神攻撃",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBCAC",
+  "ptrs": [
+   "7BCF7C",
+   "7C1448"
+  ],
+  "max": 19,
+  "jp": "せいしんこうげき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBCC0",
+  "ptrs": [
+   "7BCFBC"
+  ],
+  "max": 11,
+  "jp": "精神崩壊",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBCCC",
+  "ptrs": [
+   "7BCFC0"
+  ],
+  "max": 19,
+  "jp": "せいしんほうかい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBCE0",
+  "ptrs": [
+   "7BD000"
+  ],
+  "max": 11,
+  "jp": "体当たり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBCEC",
+  "ptrs": [
+   "7BD004"
+  ],
+  "max": 11,
+  "jp": "たいあたり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBCF8",
+  "ptrs": [
+   "7BD044"
+  ],
+  "max": 7,
+  "jp": "鷹の翼",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD00",
+  "ptrs": [
+   "7BD048"
+  ],
+  "max": 15,
+  "jp": "たかのツバサ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD10",
+  "ptrs": [
+   "7BD088"
+  ],
+  "max": 11,
+  "jp": "力を溜める",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD1C",
+  "ptrs": [
+   "7BD08C"
+  ],
+  "max": 11,
+  "jp": "力をためる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD28",
+  "ptrs": [
+   "7BD0CC"
+  ],
+  "max": 7,
+  "jp": "調査",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD30",
+  "ptrs": [
+   "7BD0D0"
+  ],
+  "max": 11,
+  "jp": "ちょうさ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD3C",
+  "ptrs": [
+   "7BD110",
+   "7BD114",
+   "7C11E0",
+   "7C11E4",
+   "7C12F0",
+   "7C12F4"
+  ],
+  "max": 11,
+  "jp": "鉄パイプ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD48",
+  "ptrs": [
+   "7BD154",
+   "7BD158"
+  ],
+  "max": 15,
+  "jp": "デビルウィング",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD58",
+  "ptrs": [
+   "7BD198"
+  ],
+  "max": 7,
+  "jp": "突破",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD60",
+  "ptrs": [
+   "7BD19C"
+  ],
+  "max": 7,
+  "jp": "とっぱ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD68",
+  "ptrs": [
+   "7BD1DC",
+   "7C119C",
+   "7C1378"
+  ],
+  "max": 7,
+  "jp": "殴る",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD70",
+  "ptrs": [
+   "7BD1E0",
+   "7C11A0",
+   "7C137C"
+  ],
+  "max": 7,
+  "jp": "なぐる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD78",
+  "ptrs": [
+   "7BD220",
+   "7BD224",
+   "7BF3DC",
+   "7BF3E0"
+  ],
+  "max": 19,
+  "jp": "ハニーフラッシュ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD8C",
+  "ptrs": [
+   "7BD264",
+   "7BD268"
+  ],
+  "max": 7,
+  "jp": "バリア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBD94",
+  "ptrs": [
+   "7BD2A8",
+   "7BD2AC"
+  ],
+  "max": 11,
+  "jp": "バリアバチ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBDA0",
+  "ptrs": [
+   "7BD2EC",
+   "7BD2F0"
+  ],
+  "max": 19,
+  "jp": "パンサーウォーク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBDB4",
+  "ptrs": [
+   "7BD330"
+  ],
+  "max": 11,
+  "jp": "反射神経",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBDC0",
+  "ptrs": [
+   "7BD334"
+  ],
+  "max": 19,
+  "jp": "はんしゃしんけい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBDD4",
+  "ptrs": [
+   "7BD374"
+  ],
+  "max": 11,
+  "jp": "引っかく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBDE0",
+  "ptrs": [
+   "7BD378"
+  ],
+  "max": 11,
+  "jp": "ひっかく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBDEC",
+  "ptrs": [
+   "7BD3B8",
+   "7C1488"
+  ],
+  "max": 11,
+  "jp": "平手打ち",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBDF8",
+  "ptrs": [
+   "7BD3BC",
+   "7C148C"
+  ],
+  "max": 11,
+  "jp": "ひらてうち",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE04",
+  "ptrs": [
+   "7BD3FC",
+   "7BD400"
+  ],
+  "max": 19,
+  "jp": "フィンガーロープ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE18",
+  "ptrs": [
+   "7BD440"
+  ],
+  "max": 7,
+  "jp": "古い薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE20",
+  "ptrs": [
+   "7BD444"
+  ],
+  "max": 11,
+  "jp": "古いくすり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE2C",
+  "ptrs": [
+   "7BD484",
+   "7BD4C8",
+   "7BD50C",
+   "7BF794",
+   "7BF7D8",
+   "7BF81C"
+  ],
+  "max": 7,
+  "jp": "変身",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE34",
+  "ptrs": [
+   "7BD488",
+   "7BD4CC",
+   "7BD510",
+   "7BF798",
+   "7BF7DC",
+   "7BF820"
+  ],
+  "max": 11,
+  "jp": "へんしん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE40",
+  "ptrs": [
+   "7BD550",
+   "7BD554",
+   "7C12AC",
+   "7C12B0",
+   "7C1334",
+   "7C1338"
+  ],
+  "max": 7,
+  "jp": "ガン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE48",
+  "ptrs": [
+   "7BD594",
+   "7BD598"
+  ],
+  "max": 15,
+  "jp": "マッハスピード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE58",
+  "ptrs": [
+   "7BD5D8",
+   "7BD5DC"
+  ],
+  "max": 11,
+  "jp": "ミサイル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE64",
+  "ptrs": [
+   "7BD61C"
+  ],
+  "max": 7,
+  "jp": "目立つ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE6C",
+  "ptrs": [
+   "7BD620"
+  ],
+  "max": 7,
+  "jp": "めだつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE74",
+  "ptrs": [
+   "7BD660"
+  ],
+  "max": 7,
+  "jp": "目潰し",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE7C",
+  "ptrs": [
+   "7BD664"
+  ],
+  "max": 11,
+  "jp": "めつぶし",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE88",
+  "ptrs": [
+   "7BD6A4",
+   "7BD6A8"
+  ],
+  "max": 15,
+  "jp": "妖マントバリア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBE98",
+  "ptrs": [
+   "7BD6E8",
+   "7BD6EC"
+  ],
+  "max": 7,
+  "jp": "予知",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBEA0",
+  "ptrs": [
+   "7BD72C",
+   "7BD730"
+  ],
+  "max": 11,
+  "jp": "らくがき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBEAC",
+  "ptrs": [
+   "7BD770",
+   "7BD774"
+  ],
+  "max": 11,
+  "jp": "完全知覚",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBEB8",
+  "ptrs": [
+   "7BD7B4"
+  ],
+  "max": 15,
+  "jp": "３連マグナム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBEC8",
+  "ptrs": [
+   "7BD7B8"
+  ],
+  "max": 15,
+  "jp": "３れんマグナム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBED8",
+  "ptrs": [
+   "7BD7F8"
+  ],
+  "max": 19,
+  "jp": "アフロダイミサイル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBEEC",
+  "ptrs": [
+   "7BD7FC"
+  ],
+  "max": 15,
+  "jp": "Ａ・ミサイル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBEFC",
+  "ptrs": [
+   "7BD83C"
+  ],
+  "max": 19,
+  "jp": "ゲッタートマホーク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF10",
+  "ptrs": [
+   "7BD840"
+  ],
+  "max": 15,
+  "jp": "Ｇ・トマホーク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF20",
+  "ptrs": [
+   "7BD880"
+  ],
+  "max": 11,
+  "jp": "悪魔の髪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF2C",
+  "ptrs": [
+   "7BD884"
+  ],
+  "max": 15,
+  "jp": "あくまのかみ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF3C",
+  "ptrs": [
+   "7BD8C4"
+  ],
+  "max": 7,
+  "jp": "悪夢",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF44",
+  "ptrs": [
+   "7BD8C8"
+  ],
+  "max": 7,
+  "jp": "あくむ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF4C",
+  "ptrs": [
+   "7BD908",
+   "7BD90C"
+  ],
+  "max": 11,
+  "jp": "アシッド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF58",
+  "ptrs": [
+   "7BD94C",
+   "7BD950"
+  ],
+  "max": 15,
+  "jp": "アタックバチ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF68",
+  "ptrs": [
+   "7BD990",
+   "7BD994"
+  ],
+  "max": 15,
+  "jp": "アルフォンヌ砲",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF78",
+  "ptrs": [
+   "7BD9D4"
+  ],
+  "max": 7,
+  "jp": "稲妻",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF80",
+  "ptrs": [
+   "7BD9D8"
+  ],
+  "max": 11,
+  "jp": "イナズマ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF8C",
+  "ptrs": [
+   "7BDA18"
+  ],
+  "max": 15,
+  "jp": "腕マシンガン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBF9C",
+  "ptrs": [
+   "7BDA1C"
+  ],
+  "max": 15,
+  "jp": "うでマシンガン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBFAC",
+  "ptrs": [
+   "7BDA5C"
+  ],
+  "max": 15,
+  "jp": "オオカミ戦法",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBFBC",
+  "ptrs": [
+   "7BDA60"
+  ],
+  "max": 19,
+  "jp": "オオカミせんぽう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBFD0",
+  "ptrs": [
+   "7BDAA0",
+   "7BDAA4"
+  ],
+  "max": 7,
+  "jp": "大爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBFD8",
+  "ptrs": [
+   "7BDAE4"
+  ],
+  "max": 19,
+  "jp": "おっぴろげジャンプ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBFEC",
+  "ptrs": [
+   "7BDAE8"
+  ],
+  "max": 15,
+  "jp": "おっぴろげＪ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DBFFC",
+  "ptrs": [
+   "7BDB28"
+  ],
+  "max": 11,
+  "jp": "鬼絵巻き",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

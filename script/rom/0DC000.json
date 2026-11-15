@@ -1,0 +1,3596 @@
+[
+ {
+  "id": "r0DC008",
+  "ptrs": [
+   "7BDB2C"
+  ],
+  "max": 11,
+  "jp": "オニえまき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC014",
+  "ptrs": [
+   "7BDB6C"
+  ],
+  "max": 7,
+  "jp": "鬼の爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC01C",
+  "ptrs": [
+   "7BDB70"
+  ],
+  "max": 11,
+  "jp": "オニの爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC028",
+  "ptrs": [
+   "7BDBB0"
+  ],
+  "max": 7,
+  "jp": "怨念",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC030",
+  "ptrs": [
+   "7BDBB4"
+  ],
+  "max": 11,
+  "jp": "おんねん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC03C",
+  "ptrs": [
+   "7BDBF4"
+  ],
+  "max": 7,
+  "jp": "怪光線",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC044",
+  "ptrs": [
+   "7BDBF8"
+  ],
+  "max": 15,
+  "jp": "かいこうせん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC054",
+  "ptrs": [
+   "7BDC38",
+   "7BDC3C"
+  ],
+  "max": 7,
+  "jp": "火炎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC05C",
+  "ptrs": [
+   "7BDC7C",
+   "7BDC80"
+  ],
+  "max": 7,
+  "jp": "火炎車",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC064",
+  "ptrs": [
+   "7BDCC0"
+  ],
+  "max": 11,
+  "jp": "火炎放射",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC070",
+  "ptrs": [
+   "7BDCC4"
+  ],
+  "max": 15,
+  "jp": "火炎ほうしゃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC080",
+  "ptrs": [
+   "7BDD04"
+  ],
+  "max": 7,
+  "jp": "火竜",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC088",
+  "ptrs": [
+   "7BDD08"
+  ],
+  "max": 11,
+  "jp": "火リュウ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC094",
+  "ptrs": [
+   "7BDD48",
+   "7BDD4C"
+  ],
+  "max": 7,
+  "jp": "カサ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC09C",
+  "ptrs": [
+   "7BDD8C"
+  ],
+  "max": 11,
+  "jp": "家族の絆",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0A8",
+  "ptrs": [
+   "7BDD90"
+  ],
+  "max": 15,
+  "jp": "かぞくのきずな",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0B8",
+  "ptrs": [
+   "7BDDD0",
+   "7BDDD4"
+  ],
+  "max": 7,
+  "jp": "合体",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0C0",
+  "ptrs": [
+   "7BDE14",
+   "7BDE18"
+  ],
+  "max": 7,
+  "jp": "空手",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0C8",
+  "ptrs": [
+   "7BDE58",
+   "7BDE5C"
+  ],
+  "max": 7,
+  "jp": "吸血",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0D0",
+  "ptrs": [
+   "7BDE9C"
+  ],
+  "max": 11,
+  "jp": "吸収光線",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0DC",
+  "ptrs": [
+   "7BDEA0"
+  ],
+  "max": 15,
+  "jp": "吸収こうせん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0EC",
+  "ptrs": [
+   "7BDEE0",
+   "7BDEE4"
+  ],
+  "max": 7,
+  "jp": "巨石",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC0F4",
+  "ptrs": [
+   "7BDF24",
+   "7BDF28"
+  ],
+  "max": 11,
+  "jp": "切りさく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC100",
+  "ptrs": [
+   "7BDF68",
+   "7BDF6C"
+  ],
+  "max": 15,
+  "jp": "クイックドロー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC110",
+  "ptrs": [
+   "7BDFAC"
+  ],
+  "max": 11,
+  "jp": "袈裟斬り",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC11C",
+  "ptrs": [
+   "7BDFB0"
+  ],
+  "max": 11,
+  "jp": "けさぎり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC128",
+  "ptrs": [
+   "7BDFF0",
+   "7BDFF4"
+  ],
+  "max": 19,
+  "jp": "ゲッターミサイル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC13C",
+  "ptrs": [
+   "7BE034",
+   "7BE038"
+  ],
+  "max": 3,
+  "jp": "剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC140",
+  "ptrs": [
+   "7BE078"
+  ],
+  "max": 11,
+  "jp": "ケンカ殺法",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC14C",
+  "ptrs": [
+   "7BE07C"
+  ],
+  "max": 15,
+  "jp": "ケンカさっぽう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC15C",
+  "ptrs": [
+   "7BE0BC",
+   "7BE0C0"
+  ],
+  "max": 15,
+  "jp": "光子力ビーム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC16C",
+  "ptrs": [
+   "7BE100"
+  ],
+  "max": 7,
+  "jp": "高電圧",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC174",
+  "ptrs": [
+   "7BE104"
+  ],
+  "max": 15,
+  "jp": "こうでんあつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC184",
+  "ptrs": [
+   "7BE144"
+  ],
+  "max": 7,
+  "jp": "業火",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC18C",
+  "ptrs": [
+   "7BE148"
+  ],
+  "max": 7,
+  "jp": "ゴウ火",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC194",
+  "ptrs": [
+   "7BE188"
+  ],
+  "max": 11,
+  "jp": "降魔の利剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1A0",
+  "ptrs": [
+   "7BE18C"
+  ],
+  "max": 15,
+  "jp": "ごうまの利剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1B0",
+  "ptrs": [
+   "7BE1CC",
+   "7BE1D0"
+  ],
+  "max": 11,
+  "jp": "コウモリ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1BC",
+  "ptrs": [
+   "7BE210",
+   "7BE214"
+  ],
+  "max": 7,
+  "jp": "こうら",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1C4",
+  "ptrs": [
+   "7BE254"
+  ],
+  "max": 7,
+  "jp": "虚空斬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1CC",
+  "ptrs": [
+   "7BE258"
+  ],
+  "max": 11,
+  "jp": "こくうざん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1D8",
+  "ptrs": [
+   "7BE298"
+  ],
+  "max": 7,
+  "jp": "虚空閃",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1E0",
+  "ptrs": [
+   "7BE29C"
+  ],
+  "max": 11,
+  "jp": "こくうせん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1EC",
+  "ptrs": [
+   "7BE2DC",
+   "7BE2E0"
+  ],
+  "max": 11,
+  "jp": "こんぼう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC1F8",
+  "ptrs": [
+   "7BE320",
+   "7BE324"
+  ],
+  "max": 15,
+  "jp": "サイコキネシス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC208",
+  "ptrs": [
+   "7BE364",
+   "7BE368"
+  ],
+  "max": 15,
+  "jp": "サイコショック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC218",
+  "ptrs": [
+   "7BE3A8",
+   "7BE3AC"
+  ],
+  "max": 11,
+  "jp": "殺人パンチ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC224",
+  "ptrs": [
+   "7BE3EC"
+  ],
+  "max": 7,
+  "jp": "斬馬刀",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC22C",
+  "ptrs": [
+   "7BE3F0"
+  ],
+  "max": 11,
+  "jp": "ざんば刀",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC238",
+  "ptrs": [
+   "7BE474",
+   "7BE478"
+  ],
+  "max": 7,
+  "jp": "死の面",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC240",
+  "ptrs": [
+   "7BE4B8"
+  ],
+  "max": 7,
+  "jp": "重力球",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC248",
+  "ptrs": [
+   "7BE4BC"
+  ],
+  "max": 15,
+  "jp": "じゅうりょく球",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC258",
+  "ptrs": [
+   "7BE4FC",
+   "7BE540",
+   "7BE584",
+   "7BE5C8"
+  ],
+  "max": 11,
+  "jp": "守護鉄壁",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC264",
+  "ptrs": [
+   "7BE500",
+   "7BE544",
+   "7BE588",
+   "7BE5CC"
+  ],
+  "max": 15,
+  "jp": "しゅごてっぺき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC274",
+  "ptrs": [
+   "7BE60C"
+  ],
+  "max": 7,
+  "jp": "友の絆",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC27C",
+  "ptrs": [
+   "7BE610"
+  ],
+  "max": 15,
+  "jp": "とものきずな",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC28C",
+  "ptrs": [
+   "7BE650"
+  ],
+  "max": 7,
+  "jp": "手裏剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC294",
+  "ptrs": [
+   "7BE654"
+  ],
+  "max": 11,
+  "jp": "シュリケン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC2A0",
+  "ptrs": [
+   "7BE694"
+  ],
+  "max": 7,
+  "jp": "消化液",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC2A8",
+  "ptrs": [
+   "7BE698"
+  ],
+  "max": 11,
+  "jp": "消化えき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC2B4",
+  "ptrs": [
+   "7BE6D8"
+  ],
+  "max": 7,
+  "jp": "触手",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC2BC",
+  "ptrs": [
+   "7BE6DC"
+  ],
+  "max": 11,
+  "jp": "しょくしゅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC2C8",
+  "ptrs": [
+   "7BE71C",
+   "7BE720"
+  ],
+  "max": 19,
+  "jp": "シルバーフルーレ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC2DC",
+  "ptrs": [
+   "7BE760"
+  ],
+  "max": 15,
+  "jp": "真空飛びひざ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC2EC",
+  "ptrs": [
+   "7BE764"
+  ],
+  "max": 19,
+  "jp": "しんくうとびひざ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC300",
+  "ptrs": [
+   "7BE7A4",
+   "7BE7A8"
+  ],
+  "max": 7,
+  "jp": "スピア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC308",
+  "ptrs": [
+   "7BE7E8"
+  ],
+  "max": 11,
+  "jp": "精神破壊",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC314",
+  "ptrs": [
+   "7BE7EC"
+  ],
+  "max": 15,
+  "jp": "せいしんはかい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC324",
+  "ptrs": [
+   "7BE82C",
+   "7BE830"
+  ],
+  "max": 7,
+  "jp": "石化",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC32C",
+  "ptrs": [
+   "7BE870"
+  ],
+  "max": 7,
+  "jp": "旋風斬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC334",
+  "ptrs": [
+   "7BE874"
+  ],
+  "max": 15,
+  "jp": "せんぷうざん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC344",
+  "ptrs": [
+   "7BE8B4",
+   "7BE8B8",
+   "7C1400",
+   "7C1404"
+  ],
+  "max": 7,
+  "jp": "しもべ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC34C",
+  "ptrs": [
+   "7BE8F8",
+   "7BE8FC"
+  ],
+  "max": 7,
+  "jp": "爪牙",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC354",
+  "ptrs": [
+   "7BE93C",
+   "7BE940",
+   "7BE980",
+   "7BE984"
+  ],
+  "max": 7,
+  "jp": "双角",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC35C",
+  "ptrs": [
+   "7BE9C4",
+   "7C0388"
+  ],
+  "max": 15,
+  "jp": "大雪山おろし",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC36C",
+  "ptrs": [
+   "7BE9C8",
+   "7C038C"
+  ],
+  "max": 19,
+  "jp": "大せつざんおろし",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC380",
+  "ptrs": [
+   "7BEA08"
+  ],
+  "max": 11,
+  "jp": "タコ殴り",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC38C",
+  "ptrs": [
+   "7BEA0C"
+  ],
+  "max": 11,
+  "jp": "タコなぐり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC398",
+  "ptrs": [
+   "7BEA4C",
+   "7BEA50"
+  ],
+  "max": 7,
+  "jp": "太刀",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3A0",
+  "ptrs": [
+   "7BEA90",
+   "7BEA94"
+  ],
+  "max": 11,
+  "jp": "チェンジ１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3AC",
+  "ptrs": [
+   "7BEAD4",
+   "7BEAD8"
+  ],
+  "max": 11,
+  "jp": "チェンジ２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3B8",
+  "ptrs": [
+   "7BEB18",
+   "7BEB1C"
+  ],
+  "max": 11,
+  "jp": "チェンジ３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3C4",
+  "ptrs": [
+   "7BEB5C"
+  ],
+  "max": 11,
+  "jp": "窒息締め",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3D0",
+  "ptrs": [
+   "7BEB60"
+  ],
+  "max": 15,
+  "jp": "ちっそくじめ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3E0",
+  "ptrs": [
+   "7BEBA0",
+   "7BEBA4"
+  ],
+  "max": 11,
+  "jp": "超殺人剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3EC",
+  "ptrs": [
+   "7BEBE4",
+   "7BEBE8"
+  ],
+  "max": 11,
+  "jp": "超パワー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC3F8",
+  "ptrs": [
+   "7BEC28"
+  ],
+  "max": 7,
+  "jp": "超能力",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC400",
+  "ptrs": [
+   "7BEC2C"
+  ],
+  "max": 19,
+  "jp": "ちょうのうりょく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC414",
+  "ptrs": [
+   "7BEC6C",
+   "7BEC70"
+  ],
+  "max": 7,
+  "jp": "ツノ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC41C",
+  "ptrs": [
+   "7BECB0",
+   "7BECB4"
+  ],
+  "max": 15,
+  "jp": "つららおとし",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC42C",
+  "ptrs": [
+   "7BECF4",
+   "7BECF8"
+  ],
+  "max": 7,
+  "jp": "鉄球",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC434",
+  "ptrs": [
+   "7BED38",
+   "7BED3C"
+  ],
+  "max": 15,
+  "jp": "デビルサンダー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC444",
+  "ptrs": [
+   "7BED7C",
+   "7BED80"
+  ],
+  "max": 15,
+  "jp": "デビルビーム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC454",
+  "ptrs": [
+   "7BEDC0",
+   "7BEDC4"
+  ],
+  "max": 15,
+  "jp": "テレキネシス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC464",
+  "ptrs": [
+   "7BEE04"
+  ],
+  "max": 7,
+  "jp": "電撃",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC46C",
+  "ptrs": [
+   "7BEE08"
+  ],
+  "max": 11,
+  "jp": "でんげき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC478",
+  "ptrs": [
+   "7BEE48"
+  ],
+  "max": 7,
+  "jp": "毒ヘビ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC480",
+  "ptrs": [
+   "7BEE4C"
+  ],
+  "max": 11,
+  "jp": "どくヘビ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC48C",
+  "ptrs": [
+   "7BEE8C"
+  ],
+  "max": 7,
+  "jp": "突風",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC494",
+  "ptrs": [
+   "7BEE90"
+  ],
+  "max": 11,
+  "jp": "とっぷう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4A0",
+  "ptrs": [
+   "7BEED0"
+  ],
+  "max": 11,
+  "jp": "飛びかかる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4AC",
+  "ptrs": [
+   "7BEED4"
+  ],
+  "max": 11,
+  "jp": "とびかかる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4B8",
+  "ptrs": [
+   "7BEF14",
+   "7BEF18"
+  ],
+  "max": 11,
+  "jp": "トマホーク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4C4",
+  "ptrs": [
+   "7BEF58",
+   "7BEF5C"
+  ],
+  "max": 15,
+  "jp": "いたずらマシン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4D4",
+  "ptrs": [
+   "7BEF9C",
+   "7BEFA0"
+  ],
+  "max": 11,
+  "jp": "トラバサミ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4E0",
+  "ptrs": [
+   "7BEFE0",
+   "7BEFE4"
+  ],
+  "max": 7,
+  "jp": "ドリル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4E8",
+  "ptrs": [
+   "7BF024",
+   "7BF028"
+  ],
+  "max": 15,
+  "jp": "ドリルアーム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC4F8",
+  "ptrs": [
+   "7BF068",
+   "7BF06C"
+  ],
+  "max": 15,
+  "jp": "なめし針のまい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC508",
+  "ptrs": [
+   "7BF0AC",
+   "7BF0B0"
+  ],
+  "max": 7,
+  "jp": "日本刀",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC510",
+  "ptrs": [
+   "7BF0F0",
+   "7BF0F4"
+  ],
+  "max": 11,
+  "jp": "ヌンチャク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC51C",
+  "ptrs": [
+   "7BF134"
+  ],
+  "max": 7,
+  "jp": "念動力",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC524",
+  "ptrs": [
+   "7BF138"
+  ],
+  "max": 15,
+  "jp": "ねんどうりょく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC534",
+  "ptrs": [
+   "7BF178"
+  ],
+  "max": 7,
+  "jp": "念力",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC53C",
+  "ptrs": [
+   "7BF17C"
+  ],
+  "max": 11,
+  "jp": "ネンリキ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC548",
+  "ptrs": [
+   "7BF1BC",
+   "7BF1C0",
+   "7BF200",
+   "7BF204"
+  ],
+  "max": 15,
+  "jp": "バードスの杖",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC558",
+  "ptrs": [
+   "7BF244",
+   "7BF248"
+  ],
+  "max": 15,
+  "jp": "ハードナックル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC568",
+  "ptrs": [
+   "7BF288",
+   "7BF28C"
+  ],
+  "max": 15,
+  "jp": "ハウンドドッグ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC578",
+  "ptrs": [
+   "7BF2CC"
+  ],
+  "max": 7,
+  "jp": "爆弾",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC580",
+  "ptrs": [
+   "7BF2D0"
+  ],
+  "max": 11,
+  "jp": "ばくだん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC58C",
+  "ptrs": [
+   "7BF310",
+   "7BF314"
+  ],
+  "max": 15,
+  "jp": "バストニードル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC59C",
+  "ptrs": [
+   "7BF354"
+  ],
+  "max": 7,
+  "jp": "発熱",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC5A4",
+  "ptrs": [
+   "7BF358"
+  ],
+  "max": 7,
+  "jp": "発ねつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC5AC",
+  "ptrs": [
+   "7BF398",
+   "7BF39C"
+  ],
+  "max": 19,
+  "jp": "ハニーブーメラン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC5C0",
+  "ptrs": [
+   "7BF420",
+   "7BF424",
+   "7BF464",
+   "7BF468",
+   "7BF4A8",
+   "7BF4AC",
+   "7BF4EC",
+   "7BF4F0"
+  ],
+  "max": 19,
+  "jp": "バリアフィールド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC5D4",
+  "ptrs": [
+   "7BF530",
+   "7BF534"
+  ],
+  "max": 11,
+  "jp": "引きさく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC5E0",
+  "ptrs": [
+   "7BF574",
+   "7BF578"
+  ],
+  "max": 15,
+  "jp": "ファイアブレス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC5F0",
+  "ptrs": [
+   "7BF5B8",
+   "7BF5BC",
+   "7BF5FC",
+   "7BF600",
+   "7BF640",
+   "7BF644",
+   "7BF684",
+   "7BF688"
+  ],
+  "max": 19,
+  "jp": "フォースシールド",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC604",
+  "ptrs": [
+   "7BF6C8",
+   "7BF6CC",
+   "7BF70C",
+   "7BF710",
+   "7BF750",
+   "7BF754"
+  ],
+  "max": 15,
+  "jp": "フォトンガン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC614",
+  "ptrs": [
+   "7BF860",
+   "7BF864"
+  ],
+  "max": 7,
+  "jp": "砲丸",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC61C",
+  "ptrs": [
+   "7BF8A4"
+  ],
+  "max": 11,
+  "jp": "炎の吐息",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC628",
+  "ptrs": [
+   "7BF8A8"
+  ],
+  "max": 11,
+  "jp": "炎のといき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC634",
+  "ptrs": [
+   "7BF8E8",
+   "7BF8EC"
+  ],
+  "max": 15,
+  "jp": "ボロットパンチ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC644",
+  "ptrs": [
+   "7BF92C"
+  ],
+  "max": 11,
+  "jp": "掴みかかる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC650",
+  "ptrs": [
+   "7BF930"
+  ],
+  "max": 15,
+  "jp": "つかみかかる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC660",
+  "ptrs": [
+   "7BF970",
+   "7BF974"
+  ],
+  "max": 15,
+  "jp": "魔王悪魔中技2",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC670",
+  "ptrs": [
+   "7BF9B4",
+   "7BF9B8"
+  ],
+  "max": 15,
+  "jp": "魔王悪魔中技3",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC680",
+  "ptrs": [
+   "7BF9F8",
+   "7BF9FC"
+  ],
+  "max": 7,
+  "jp": "双剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC688",
+  "ptrs": [
+   "7BFA3C",
+   "7BFA40"
+  ],
+  "max": 11,
+  "jp": "魔王神中技2",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC694",
+  "ptrs": [
+   "7BFA80"
+  ],
+  "max": 11,
+  "jp": "魔獣の爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC6A0",
+  "ptrs": [
+   "7BFA84"
+  ],
+  "max": 15,
+  "jp": "まじゅうの爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC6B0",
+  "ptrs": [
+   "7BFAC4"
+  ],
+  "max": 19,
+  "jp": "マシンガンシャワー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC6C4",
+  "ptrs": [
+   "7BFAC8"
+  ],
+  "max": 11,
+  "jp": "マシンガン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC6D0",
+  "ptrs": [
+   "7BFB08"
+  ],
+  "max": 15,
+  "jp": "またぐら挟み",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC6E0",
+  "ptrs": [
+   "7BFB0C"
+  ],
+  "max": 15,
+  "jp": "またぐらはさみ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC6F0",
+  "ptrs": [
+   "7BFB4C",
+   "7BFB50"
+  ],
+  "max": 15,
+  "jp": "マリオネット",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC700",
+  "ptrs": [
+   "7BFB90",
+   "7BFB94"
+  ],
+  "max": 15,
+  "jp": "ミサイルパンチ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC710",
+  "ptrs": [
+   "7BFBD4"
+  ],
+  "max": 11,
+  "jp": "ムチ乱舞",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC71C",
+  "ptrs": [
+   "7BFBD8"
+  ],
+  "max": 11,
+  "jp": "ムチらんぶ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC728",
+  "ptrs": [
+   "7BFC18",
+   "7BFC1C"
+  ],
+  "max": 15,
+  "jp": "もりミサイル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC738",
+  "ptrs": [
+   "7BFC5C"
+  ],
+  "max": 11,
+  "jp": "柳生忍術",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC744",
+  "ptrs": [
+   "7BFC60"
+  ],
+  "max": 15,
+  "jp": "やぎゅう忍術",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC754",
+  "ptrs": [
+   "7BFCA0"
+  ],
+  "max": 11,
+  "jp": "野獣の牙",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC760",
+  "ptrs": [
+   "7BFCA4"
+  ],
+  "max": 15,
+  "jp": "やじゅうの牙",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC770",
+  "ptrs": [
+   "7BFCE4"
+  ],
+  "max": 11,
+  "jp": "野獣の爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC77C",
+  "ptrs": [
+   "7BFCE8"
+  ],
+  "max": 15,
+  "jp": "やじゅうの爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC78C",
+  "ptrs": [
+   "7BFD28",
+   "7BFD2C"
+  ],
+  "max": 7,
+  "jp": "ヤリ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC794",
+  "ptrs": [
+   "7BFD6C"
+  ],
+  "max": 7,
+  "jp": "妖力",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC79C",
+  "ptrs": [
+   "7BFD70"
+  ],
+  "max": 11,
+  "jp": "ようりき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC7A8",
+  "ptrs": [
+   "7BFDB0"
+  ],
+  "max": 7,
+  "jp": "雷撃",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC7B0",
+  "ptrs": [
+   "7BFDB4"
+  ],
+  "max": 11,
+  "jp": "らいげき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC7BC",
+  "ptrs": [
+   "7BFDF4",
+   "7BFDF8"
+  ],
+  "max": 11,
+  "jp": "マグナム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC7C8",
+  "ptrs": [
+   "7BFE38",
+   "7BFE3C"
+  ],
+  "max": 19,
+  "jp": "ルストハリケーン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC7DC",
+  "ptrs": [
+   "7BFE7C",
+   "7BFE80"
+  ],
+  "max": 15,
+  "jp": "レーザーガン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC7EC",
+  "ptrs": [
+   "7BFEC0",
+   "7BFEC4"
+  ],
+  "max": 15,
+  "jp": "ロケットパンチ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC7FC",
+  "ptrs": [
+   "7BFF04",
+   "7BFF08"
+  ],
+  "max": 19,
+  "jp": "ロケットれんしゃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC810",
+  "ptrs": [
+   "7BFF48"
+  ],
+  "max": 23,
+  "jp": "ライトニング・フレア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC828",
+  "ptrs": [
+   "7BFF4C"
+  ],
+  "max": 11,
+  "jp": "Ｌ・フレア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC834",
+  "ptrs": [
+   "7BFF8C",
+   "7BFF90"
+  ],
+  "max": 15,
+  "jp": "アマノムラクモ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC844",
+  "ptrs": [
+   "7BFFD0",
+   "7BFFD4"
+  ],
+  "max": 11,
+  "jp": "絵を描く",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC850",
+  "ptrs": [
+   "7C0014",
+   "7C0018"
+  ],
+  "max": 11,
+  "jp": "オオアギト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC85C",
+  "ptrs": [
+   "7C0058",
+   "7C005C"
+  ],
+  "max": 11,
+  "jp": "オオガマ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC868",
+  "ptrs": [
+   "7C009C"
+  ],
+  "max": 11,
+  "jp": "火遁の術",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC874",
+  "ptrs": [
+   "7C00A0"
+  ],
+  "max": 15,
+  "jp": "かとんのじゅつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC884",
+  "ptrs": [
+   "7C00E0"
+  ],
+  "max": 7,
+  "jp": "兜割り",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC88C",
+  "ptrs": [
+   "7C00E4"
+  ],
+  "max": 11,
+  "jp": "かぶとわり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC898",
+  "ptrs": [
+   "7C0124",
+   "7C0128"
+  ],
+  "max": 7,
+  "jp": "カマ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8A0",
+  "ptrs": [
+   "7C0168",
+   "7C016C"
+  ],
+  "max": 15,
+  "jp": "ゲッタービーム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8B0",
+  "ptrs": [
+   "7C01AC",
+   "7C01B0"
+  ],
+  "max": 11,
+  "jp": "ゲヘナの炎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8BC",
+  "ptrs": [
+   "7C01F0"
+  ],
+  "max": 7,
+  "jp": "剣の舞",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8C4",
+  "ptrs": [
+   "7C01F4"
+  ],
+  "max": 11,
+  "jp": "剣のまい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8D0",
+  "ptrs": [
+   "7C0234"
+  ],
+  "max": 11,
+  "jp": "降魔の大剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8DC",
+  "ptrs": [
+   "7C0238"
+  ],
+  "max": 15,
+  "jp": "ごうまの大剣",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8EC",
+  "ptrs": [
+   "7C0278"
+  ],
+  "max": 11,
+  "jp": "虚空斬破",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC8F8",
+  "ptrs": [
+   "7C027C"
+  ],
+  "max": 15,
+  "jp": "こくうざんぱ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC908",
+  "ptrs": [
+   "7C02BC",
+   "7C02C0"
+  ],
+  "max": 15,
+  "jp": "ジャックナイフ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC918",
+  "ptrs": [
+   "7C0300"
+  ],
+  "max": 11,
+  "jp": "運命の絆",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC924",
+  "ptrs": [
+   "7C0304"
+  ],
+  "max": 19,
+  "jp": "うんめいのきずな",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC938",
+  "ptrs": [
+   "7C0344"
+  ],
+  "max": 11,
+  "jp": "焦熱地獄",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC944",
+  "ptrs": [
+   "7C0348"
+  ],
+  "max": 19,
+  "jp": "しょうねつじごく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC958",
+  "ptrs": [
+   "7C03CC"
+  ],
+  "max": 19,
+  "jp": "対ハチュウ人武器",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC96C",
+  "ptrs": [
+   "7C03D0"
+  ],
+  "max": 19,
+  "jp": "対ハチュウ人ぶき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC980",
+  "ptrs": [
+   "7C0410",
+   "7C0414"
+  ],
+  "max": 15,
+  "jp": "超小型核弾丸",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC990",
+  "ptrs": [
+   "7C0454",
+   "7C0498"
+  ],
+  "max": 7,
+  "jp": "鉄の爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC998",
+  "ptrs": [
+   "7C0458",
+   "7C049C"
+  ],
+  "max": 11,
+  "jp": "てつの爪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC9A4",
+  "ptrs": [
+   "7C04DC"
+  ],
+  "max": 11,
+  "jp": "凍結地獄",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC9B0",
+  "ptrs": [
+   "7C04E0"
+  ],
+  "max": 15,
+  "jp": "とうけつじごく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC9C0",
+  "ptrs": [
+   "7C0520",
+   "7C0524"
+  ],
+  "max": 15,
+  "jp": "ドリルロック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC9D0",
+  "ptrs": [
+   "7C0564",
+   "7C0568"
+  ],
+  "max": 15,
+  "jp": "ニードルプレス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC9E0",
+  "ptrs": [
+   "7C05A8"
+  ],
+  "max": 11,
+  "jp": "破壊の光",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC9EC",
+  "ptrs": [
+   "7C05AC"
+  ],
+  "max": 11,
+  "jp": "はかいの光",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DC9F8",
+  "ptrs": [
+   "7C05EC"
+  ],
+  "max": 11,
+  "jp": "墓世の爆弾",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA04",
+  "ptrs": [
+   "7C05F0"
+  ],
+  "max": 19,
+  "jp": "はかせのばくだん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA18",
+  "ptrs": [
+   "7C0630"
+  ],
+  "max": 11,
+  "jp": "破滅の炎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA24",
+  "ptrs": [
+   "7C0634"
+  ],
+  "max": 11,
+  "jp": "はめつの炎",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA30",
+  "ptrs": [
+   "7C0674",
+   "7C0678"
+  ],
+  "max": 19,
+  "jp": "ブレストファイア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA44",
+  "ptrs": [
+   "7C06B8",
+   "7C06BC"
+  ],
+  "max": 15,
+  "jp": "ヘルファイア",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA54",
+  "ptrs": [
+   "7C06FC",
+   "7C0740"
+  ],
+  "max": 7,
+  "jp": "放電",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA5C",
+  "ptrs": [
+   "7C0700",
+   "7C0744"
+  ],
+  "max": 11,
+  "jp": "ほうでん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA68",
+  "ptrs": [
+   "7C0784",
+   "7C0788"
+  ],
+  "max": 11,
+  "jp": "ホワイト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA74",
+  "ptrs": [
+   "7C07C8",
+   "7C07CC"
+  ],
+  "max": 19,
+  "jp": "マインドバスター",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA88",
+  "ptrs": [
+   "7C080C"
+  ],
+  "max": 11,
+  "jp": "浄化の光",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCA94",
+  "ptrs": [
+   "7C0810"
+  ],
+  "max": 19,
+  "jp": "じょうかのひかり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCAA8",
+  "ptrs": [
+   "7C0850"
+  ],
+  "max": 11,
+  "jp": "滅びの雷",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCAB4",
+  "ptrs": [
+   "7C0854"
+  ],
+  "max": 19,
+  "jp": "ほろびのいかずち",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCAC8",
+  "ptrs": [
+   "7C0894"
+  ],
+  "max": 11,
+  "jp": "魔獣の牙",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCAD4",
+  "ptrs": [
+   "7C0898"
+  ],
+  "max": 15,
+  "jp": "まじゅうの牙",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCAE4",
+  "ptrs": [
+   "7C08D8"
+  ],
+  "max": 23,
+  "jp": "おっぴろげまわしげり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCAFC",
+  "ptrs": [
+   "7C08DC"
+  ],
+  "max": 11,
+  "jp": "まわしげり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB08",
+  "ptrs": [
+   "7C091C"
+  ],
+  "max": 11,
+  "jp": "ムチの舞",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB14",
+  "ptrs": [
+   "7C0920"
+  ],
+  "max": 11,
+  "jp": "ムチのまい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB20",
+  "ptrs": [
+   "7C0960"
+  ],
+  "max": 7,
+  "jp": "乱舞",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB28",
+  "ptrs": [
+   "7C0964"
+  ],
+  "max": 7,
+  "jp": "らんぶ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB30",
+  "ptrs": [
+   "7C09A4"
+  ],
+  "max": 7,
+  "jp": "大吹雪",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB38",
+  "ptrs": [
+   "7C09A8"
+  ],
+  "max": 11,
+  "jp": "大ふぶき",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB44",
+  "ptrs": [
+   "7C09E8"
+  ],
+  "max": 7,
+  "jp": "傷薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB4C",
+  "ptrs": [
+   "7C09EC",
+   "7C55F0"
+  ],
+  "max": 11,
+  "jp": "きずぐすり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB58",
+  "ptrs": [
+   "7C0A2C"
+  ],
+  "max": 7,
+  "jp": "回復薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB60",
+  "ptrs": [
+   "7C0A30",
+   "7C5608"
+  ],
+  "max": 15,
+  "jp": "かいふくやく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB70",
+  "ptrs": [
+   "7C0A70",
+   "7C0A74",
+   "7C5620"
+  ],
+  "max": 19,
+  "jp": "メディカルシート",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB84",
+  "ptrs": [
+   "7C0AB4"
+  ],
+  "max": 11,
+  "jp": "気力の種",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB90",
+  "ptrs": [
+   "7C0AB8",
+   "7C5638"
+  ],
+  "max": 11,
+  "jp": "気力のたね",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCB9C",
+  "ptrs": [
+   "7C0AF8"
+  ],
+  "max": 11,
+  "jp": "気力の果実",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCBA8",
+  "ptrs": [
+   "7C0AFC",
+   "7C5650"
+  ],
+  "max": 15,
+  "jp": "気力のかじつ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCBB8",
+  "ptrs": [
+   "7C0B3C"
+  ],
+  "max": 7,
+  "jp": "治療薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCBC0",
+  "ptrs": [
+   "7C0B40",
+   "7C5668"
+  ],
+  "max": 15,
+  "jp": "ちりょうやく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCBD0",
+  "ptrs": [
+   "7C0B80"
+  ],
+  "max": 7,
+  "jp": "万能薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCBD8",
+  "ptrs": [
+   "7C0B84",
+   "7C5680"
+  ],
+  "max": 15,
+  "jp": "ばんのうやく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCBE8",
+  "ptrs": [
+   "7C0BC4"
+  ],
+  "max": 11,
+  "jp": "気付け薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCBF4",
+  "ptrs": [
+   "7C0BC8",
+   "7C5698"
+  ],
+  "max": 15,
+  "jp": "気付けぐすり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC04",
+  "ptrs": [
+   "7C0C08"
+  ],
+  "max": 7,
+  "jp": "煙幕",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC0C",
+  "ptrs": [
+   "7C0C0C",
+   "7C56C8"
+  ],
+  "max": 11,
+  "jp": "えんまく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC18",
+  "ptrs": [
+   "7C0C4C"
+  ],
+  "max": 7,
+  "jp": "眠り薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC20",
+  "ptrs": [
+   "7C0C50",
+   "7C56E0"
+  ],
+  "max": 15,
+  "jp": "ねむりぐすり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC30",
+  "ptrs": [
+   "7C0C90"
+  ],
+  "max": 7,
+  "jp": "惚れ薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC38",
+  "ptrs": [
+   "7C0C94",
+   "7C56F8"
+  ],
+  "max": 11,
+  "jp": "ホレぐすり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC44",
+  "ptrs": [
+   "7C0CD4"
+  ],
+  "max": 7,
+  "jp": "興奮剤",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC4C",
+  "ptrs": [
+   "7C0CD8",
+   "7C5710"
+  ],
+  "max": 15,
+  "jp": "こうふんざい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC5C",
+  "ptrs": [
+   "7C0D18"
+  ],
+  "max": 7,
+  "jp": "煙り玉",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC64",
+  "ptrs": [
+   "7C0D1C",
+   "7C5728"
+  ],
+  "max": 11,
+  "jp": "ケムリ玉",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC70",
+  "ptrs": [
+   "7C0D5C",
+   "7C0D60",
+   "7C5740"
+  ],
+  "max": 15,
+  "jp": "パワードリンク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC80",
+  "ptrs": [
+   "7C0DA0",
+   "7C0DA4",
+   "7C5758"
+  ],
+  "max": 19,
+  "jp": "タフネスドリンク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCC94",
+  "ptrs": [
+   "7C0DE4",
+   "7C0DE8",
+   "7C5770"
+  ],
+  "max": 19,
+  "jp": "クイックドリンク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCCA8",
+  "ptrs": [
+   "7C0E28",
+   "7C0E2C",
+   "7C5788"
+  ],
+  "max": 19,
+  "jp": "ウィークポイズン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCCBC",
+  "ptrs": [
+   "7C0E6C",
+   "7C0E70",
+   "7C57A0"
+  ],
+  "max": 15,
+  "jp": "スローポイズン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCCCC",
+  "ptrs": [
+   "7C0EB0"
+  ],
+  "max": 7,
+  "jp": "火炎瓶",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCCD4",
+  "ptrs": [
+   "7C0EB4",
+   "7C57B8"
+  ],
+  "max": 11,
+  "jp": "かえんびん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCCE0",
+  "ptrs": [
+   "7C0EF4",
+   "7C0EF8",
+   "7C57D0"
+  ],
+  "max": 15,
+  "jp": "ダイナマイト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCCF0",
+  "ptrs": [
+   "7C0F38"
+  ],
+  "max": 7,
+  "jp": "手榴弾",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCCF8",
+  "ptrs": [
+   "7C0F3C",
+   "7C57E8"
+  ],
+  "max": 15,
+  "jp": "しゅりゅうだん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD08",
+  "ptrs": [
+   "7C0F7C"
+  ],
+  "max": 7,
+  "jp": "閃光弾",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD10",
+  "ptrs": [
+   "7C0F80",
+   "7C5800"
+  ],
+  "max": 15,
+  "jp": "せんこうだん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD20",
+  "ptrs": [
+   "7C0FC0",
+   "7C0FC4",
+   "7C5818"
+  ],
+  "max": 15,
+  "jp": "スモッグボトル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD30",
+  "ptrs": [
+   "7C1004"
+  ],
+  "max": 11,
+  "jp": "回復の光",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD3C",
+  "ptrs": [
+   "7C1008",
+   "7C5830"
+  ],
+  "max": 19,
+  "jp": "かいふくのひかり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD50",
+  "ptrs": [
+   "7C1048"
+  ],
+  "max": 11,
+  "jp": "治癒の光",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD5C",
+  "ptrs": [
+   "7C104C",
+   "7C5848"
+  ],
+  "max": 15,
+  "jp": "ちゆのひかり",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD6C",
+  "ptrs": [
+   "7C108C",
+   "7C1090",
+   "7C5860"
+  ],
+  "max": 15,
+  "jp": "キュアアロマ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD7C",
+  "ptrs": [
+   "7C10D0"
+  ],
+  "max": 7,
+  "jp": "霊薬",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD84",
+  "ptrs": [
+   "7C10D4",
+   "7C56B0"
+  ],
+  "max": 11,
+  "jp": "れいやく",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD90",
+  "ptrs": [
+   "7C1114",
+   "7C1118"
+  ],
+  "max": 7,
+  "jp": "逃げる",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCD98",
+  "ptrs": [
+   "7C1158"
+  ],
+  "max": 7,
+  "jp": "交代",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDA0",
+  "ptrs": [
+   "7C115C"
+  ],
+  "max": 7,
+  "jp": "交替",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDA8",
+  "ptrs": [
+   "7C14CC"
+  ],
+  "max": 11,
+  "jp": "闇の波動",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDB4",
+  "ptrs": [
+   "7C14D0"
+  ],
+  "max": 15,
+  "jp": "やみのはどう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDC4",
+  "ptrs": [
+   "7C1510",
+   "7C1514"
+  ],
+  "max": 11,
+  "jp": "カウンタ－",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDD0",
+  "ptrs": [
+   "7C1554"
+  ],
+  "max": 11,
+  "jp": "深淵の闇",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDDC",
+  "ptrs": [
+   "7C1558"
+  ],
+  "max": 15,
+  "jp": "しんえんのやみ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDEC",
+  "ptrs": [
+   "7C1598"
+  ],
+  "max": 7,
+  "jp": "天光",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCDF4",
+  "ptrs": [
+   "7C159C"
+  ],
+  "max": 11,
+  "jp": "てんこう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE00",
+  "ptrs": [
+   "7C5590"
+  ],
+  "max": 15,
+  "jp": "ミケーネリング",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE10",
+  "ptrs": [
+   "7C5548"
+  ],
+  "max": 15,
+  "jp": "敵用パートナー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE20",
+  "ptrs": [
+   "7C5230",
+   "7C5500",
+   "7C5E78"
+  ],
+  "max": 19,
+  "jp": "エネルギータンク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE34",
+  "ptrs": [
+   "7C51E8",
+   "7C54B8",
+   "7C5E60"
+  ],
+  "max": 19,
+  "jp": "エネルギーパック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE48",
+  "ptrs": [
+   "7C51A0",
+   "7C5470",
+   "7C5E48"
+  ],
+  "max": 19,
+  "jp": "バッテリータンク",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE5C",
+  "ptrs": [
+   "7C5158",
+   "7C5428",
+   "7C5E30"
+  ],
+  "max": 19,
+  "jp": "バッテリーパック",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE70",
+  "ptrs": [
+   "7C5110",
+   "7C53E0",
+   "7C5E18"
+  ],
+  "max": 15,
+  "jp": "メタルアーマー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE80",
+  "ptrs": [
+   "7C50C8",
+   "7C5398",
+   "7C5E00"
+  ],
+  "max": 15,
+  "jp": "メタルコート",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCE90",
+  "ptrs": [
+   "7C5080",
+   "7C5350",
+   "7C5DE8"
+  ],
+  "max": 15,
+  "jp": "メガスラスター",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCEA0",
+  "ptrs": [
+   "7C5038",
+   "7C5308",
+   "7C5DD0"
+  ],
+  "max": 11,
+  "jp": "スラスター",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCEAC",
+  "ptrs": [
+   "7C4FF0",
+   "7C52C0",
+   "7C5DB8"
+  ],
+  "max": 19,
+  "jp": "メガコンデンサー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCEC0",
+  "ptrs": [
+   "7C4FA8",
+   "7C5278",
+   "7C5DA0"
+  ],
+  "max": 15,
+  "jp": "コンデンサー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCED0",
+  "ptrs": [
+   "7C4F60",
+   "7C5D70"
+  ],
+  "max": 19,
+  "jp": "マインドロザリー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCEE4",
+  "ptrs": [
+   "7C4F18",
+   "7C5D58"
+  ],
+  "max": 19,
+  "jp": "サンダーロザリー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCEF8",
+  "ptrs": [
+   "7C4ED0",
+   "7C5D40"
+  ],
+  "max": 15,
+  "jp": "アイスロザリー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF08",
+  "ptrs": [
+   "7C4E88",
+   "7C5D28"
+  ],
+  "max": 19,
+  "jp": "ファイアロザリー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF1C",
+  "ptrs": [
+   "7C4E40",
+   "7C5D10"
+  ],
+  "max": 19,
+  "jp": "ハンマーロザリー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF30",
+  "ptrs": [
+   "7C4DF8",
+   "7C5CF8"
+  ],
+  "max": 15,
+  "jp": "ソードロザリー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF40",
+  "ptrs": [
+   "7C4DB0",
+   "7C5CE0"
+  ],
+  "max": 15,
+  "jp": "マインドガード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF50",
+  "ptrs": [
+   "7C4D68",
+   "7C5CC8"
+  ],
+  "max": 15,
+  "jp": "サンダーガード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF60",
+  "ptrs": [
+   "7C4D20",
+   "7C5CB0"
+  ],
+  "max": 15,
+  "jp": "アイスガード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF70",
+  "ptrs": [
+   "7C4CD8",
+   "7C5C98"
+  ],
+  "max": 15,
+  "jp": "ファイアガード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF80",
+  "ptrs": [
+   "7C4C90",
+   "7C5C80"
+  ],
+  "max": 15,
+  "jp": "ハンマーガード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCF90",
+  "ptrs": [
+   "7C4C48",
+   "7C5C68"
+  ],
+  "max": 15,
+  "jp": "ソードガード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCFA0",
+  "ptrs": [
+   "7C4C00",
+   "7C5C50"
+  ],
+  "max": 15,
+  "jp": "マインドオーブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCFB0",
+  "ptrs": [
+   "7C4BB8",
+   "7C5C38"
+  ],
+  "max": 15,
+  "jp": "サンダーオーブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCFC0",
+  "ptrs": [
+   "7C4B70",
+   "7C5C20"
+  ],
+  "max": 15,
+  "jp": "アイスオーブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCFD0",
+  "ptrs": [
+   "7C4B28",
+   "7C5C08"
+  ],
+  "max": 15,
+  "jp": "ファイアオーブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCFE0",
+  "ptrs": [
+   "7C4AE0",
+   "7C5BF0"
+  ],
+  "max": 15,
+  "jp": "ハンマーオーブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0DCFF0",
+  "ptrs": [
+   "7C4A98",
+   "7C5BD8"
+  ],
+  "max": 15,
+  "jp": "ソードオーブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

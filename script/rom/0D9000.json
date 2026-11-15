@@ -1,0 +1,641 @@
+[
+ {
+  "id": "r0D9A34",
+  "ptrs": [
+   "0C3D0C",
+   "0C3FB4"
+  ],
+  "max": 3,
+  "jp": "＞",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9A48",
+  "ptrs": [
+   "104CD4"
+  ],
+  "max": 11,
+  "jp": "スプライト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9A54",
+  "ptrs": [
+   "104CD0"
+  ],
+  "max": 27,
+  "jp": "バトルエフェクトマスク４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9A70",
+  "ptrs": [
+   "104CCC"
+  ],
+  "max": 27,
+  "jp": "バトルエフェクトマスク３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9A8C",
+  "ptrs": [
+   "104CC8"
+  ],
+  "max": 27,
+  "jp": "バトルエフェクトマスク２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9AA8",
+  "ptrs": [
+   "104CC4"
+  ],
+  "max": 27,
+  "jp": "バトルエフェクトマスク１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9AC4",
+  "ptrs": [
+   "104CC0"
+  ],
+  "max": 19,
+  "jp": "バトルエフェクト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9AD8",
+  "ptrs": [
+   "104CBC"
+  ],
+  "max": 11,
+  "jp": "テスト２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9AE4",
+  "ptrs": [
+   "104CB8"
+  ],
+  "max": 11,
+  "jp": "テスト１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9AF0",
+  "ptrs": [
+   "104CB4"
+  ],
+  "max": 15,
+  "jp": "カーソルテスト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9B00",
+  "ptrs": [
+   "104CB0"
+  ],
+  "max": 27,
+  "jp": "デバック（菊池）ＭＥＮＵ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9B8C",
+  "ptrs": [
+   "104CF4"
+  ],
+  "max": 11,
+  "jp": "大技アニメ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9B98",
+  "ptrs": [
+   "104CF0"
+  ],
+  "max": 11,
+  "jp": "小技継続",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9BA4",
+  "ptrs": [
+   "104CEC"
+  ],
+  "max": 11,
+  "jp": "小技終了",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9BB0",
+  "ptrs": [
+   "104CE8"
+  ],
+  "max": 11,
+  "jp": "小技開始",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9BBC",
+  "ptrs": [
+   "104CE4"
+  ],
+  "max": 7,
+  "jp": "大技",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9BC4",
+  "ptrs": [
+   "104CE0"
+  ],
+  "max": 7,
+  "jp": "中技",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9BCC",
+  "ptrs": [
+   "104CDC"
+  ],
+  "max": 27,
+  "jp": "バトルエフェクト番号指定",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0D9C58",
+  "ptrs": [
+   "104DB8"
+  ],
+  "max": 3,
+  "jp": "ピ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C5C",
+  "ptrs": [
+   "104DB4"
+  ],
+  "max": 3,
+  "jp": "ボ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C60",
+  "ptrs": [
+   "104DB0"
+  ],
+  "max": 3,
+  "jp": "ベ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C64",
+  "ptrs": [
+   "104DAC"
+  ],
+  "max": 3,
+  "jp": "ブ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C68",
+  "ptrs": [
+   "104DA8"
+  ],
+  "max": 3,
+  "jp": "ビ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C6C",
+  "ptrs": [
+   "104DA4"
+  ],
+  "max": 3,
+  "jp": "バ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C70",
+  "ptrs": [
+   "104DA0"
+  ],
+  "max": 3,
+  "jp": "ド",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C74",
+  "ptrs": [
+   "104D9C"
+  ],
+  "max": 3,
+  "jp": "ズ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C78",
+  "ptrs": [
+   "104D98"
+  ],
+  "max": 3,
+  "jp": "ジ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C7C",
+  "ptrs": [
+   "104D94"
+  ],
+  "max": 3,
+  "jp": "ゴ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C80",
+  "ptrs": [
+   "104D90"
+  ],
+  "max": 3,
+  "jp": "グ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C84",
+  "ptrs": [
+   "104D8C"
+  ],
+  "max": 3,
+  "jp": "ギ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C88",
+  "ptrs": [
+   "104D88"
+  ],
+  "max": 3,
+  "jp": "ガ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C8C",
+  "ptrs": [
+   "104D84"
+  ],
+  "max": 3,
+  "jp": "ー",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C90",
+  "ptrs": [
+   "104D80"
+  ],
+  "max": 3,
+  "jp": "ュ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C94",
+  "ptrs": [
+   "104D7C"
+  ],
+  "max": 3,
+  "jp": "ャ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C98",
+  "ptrs": [
+   "104D78"
+  ],
+  "max": 3,
+  "jp": "ッ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9C9C",
+  "ptrs": [
+   "104D74"
+  ],
+  "max": 3,
+  "jp": "ォ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CA0",
+  "ptrs": [
+   "104D70"
+  ],
+  "max": 3,
+  "jp": "ゥ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CA4",
+  "ptrs": [
+   "104D6C"
+  ],
+  "max": 3,
+  "jp": "ィ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CA8",
+  "ptrs": [
+   "104D68"
+  ],
+  "max": 3,
+  "jp": "ァ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CAC",
+  "ptrs": [
+   "104D64"
+  ],
+  "max": 3,
+  "jp": "ン",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CB0",
+  "ptrs": [
+   "104D60"
+  ],
+  "max": 3,
+  "jp": "ワ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CB4",
+  "ptrs": [
+   "104D5C"
+  ],
+  "max": 3,
+  "jp": "ル",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CB8",
+  "ptrs": [
+   "104D58"
+  ],
+  "max": 3,
+  "jp": "リ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CBC",
+  "ptrs": [
+   "104D54"
+  ],
+  "max": 3,
+  "jp": "ホ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CC0",
+  "ptrs": [
+   "104D50"
+  ],
+  "max": 3,
+  "jp": "ヒ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CC4",
+  "ptrs": [
+   "104D4C"
+  ],
+  "max": 3,
+  "jp": "チ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CC8",
+  "ptrs": [
+   "104D48"
+  ],
+  "max": 3,
+  "jp": "タ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CCC",
+  "ptrs": [
+   "104D44"
+  ],
+  "max": 3,
+  "jp": "ス",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CD0",
+  "ptrs": [
+   "104D40"
+  ],
+  "max": 3,
+  "jp": "シ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CD4",
+  "ptrs": [
+   "104D3C"
+  ],
+  "max": 3,
+  "jp": "キ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CD8",
+  "ptrs": [
+   "104D38"
+  ],
+  "max": 3,
+  "jp": "カ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CDC",
+  "ptrs": [
+   "104D34"
+  ],
+  "max": 3,
+  "jp": "オ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CE0",
+  "ptrs": [
+   "104D30"
+  ],
+  "max": 3,
+  "jp": "ウ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CE4",
+  "ptrs": [
+   "104D2C"
+  ],
+  "max": 3,
+  "jp": "イ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CE8",
+  "ptrs": [
+   "104D28"
+  ],
+  "max": 3,
+  "jp": "ア",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CEC",
+  "ptrs": [
+   "104D24"
+  ],
+  "max": 3,
+  "jp": "ん",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CF0",
+  "ptrs": [
+   "104D20"
+  ],
+  "max": 3,
+  "jp": "ふ",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ },
+ {
+  "id": "r0D9CF4",
+  "ptrs": [
+   "104D1C"
+  ],
+  "max": 3,
+  "jp": "う",
+  "en": "",
+  "status": "data",
+  "notes": "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"
+ }
+]

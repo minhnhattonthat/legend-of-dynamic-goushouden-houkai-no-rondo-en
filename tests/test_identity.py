@@ -23,10 +23,10 @@ class IdentityTest(unittest.TestCase):
         cls.arc = archive.read(cls.rom)
 
     def test_build_is_byte_identical(self):
-        self.assertTrue(self.build.build(self.rom) == self.rom)
+        self.assertTrue(self.build.identity(self.rom) == self.rom)
 
     def test_reencoded_build_reads_back(self):
-        out = self.build.build(self.rom, reencode=True)
+        out = self.build.identity(self.rom, reencode=True)
         self.assertNotEqual(out, self.rom)
         back = archive.read(out)
         self.assertEqual([f.raw for f in back.files], [f.raw for f in self.arc.files])

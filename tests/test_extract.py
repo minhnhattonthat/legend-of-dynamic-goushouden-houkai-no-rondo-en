@@ -132,7 +132,7 @@ class InsertTest(unittest.TestCase):
         for f in arc.files:  # the original archive has no slack; our encoder frees 121 bytes over all files
             f.orig_raw = None
         out = bytearray(self.rom)
-        self.build.put_archive(out, arc)
+        self.build.put_archive_inplace(out, arc)
         self.build.insert_rom_strings(out, [(0x0DAFFC, 15, "Shaft's son", True), (0x0D9D44, 19, "Whoosh", True)])
         back = archive.split_file(archive.read(bytes(out)).files[0].raw)
         self.assertEqual(back[1], b"\rYou got \\g!\0")

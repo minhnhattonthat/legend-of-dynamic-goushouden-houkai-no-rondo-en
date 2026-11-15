@@ -48,20 +48,22 @@ class Archive:
         return bytes(self.idmap) + bytes(table) + bytes(body)
 
 
-def read(rom):
-    count = struct.unpack_from("<H", rom, BASE)[0]
-    table = BASE + 2 + 2 * count
+def read(rom, base=BASE):
+    """base: where the archive sits (BASE in the original, engine.NEW_ARCHIVE in a built ROM)."""
+    end = END if base == BASE else len(rom)
+    count = struct.unpack_from("<H", rom, base)[0]
+    table = base + 2 + 2 * count
     ents = [struct.unpack_from("<II", rom, table + 8 * i) for i in range(NFILES)]
     files = []
     for i, (off, size) in enumerate(ents):
-        start = BASE + off
-        stop = BASE + ents[i + 1][0] if i + 1 < NFILES else END
+        start = base + off
+        stop = base + ents[i + 1][0] if i + 1 < NFILES else end
         raw, used = lh5.decode(rom, start, size)
         last = i + 1 == NFILES  # a rebuilt archive may end before END (zero padding follows)
         if used > stop - start or (used != stop - start and not last):
             raise ValueError("file %d: stream is %d bytes, slot %d" % (i, used, stop - start))
         files.append(File(raw, bytes(rom[start:start + used])))
-    return Archive(bytes(rom[BASE:table]), files)
+    return Archive(bytes(rom[base:table]), files)
 
 
 def split_file(raw):

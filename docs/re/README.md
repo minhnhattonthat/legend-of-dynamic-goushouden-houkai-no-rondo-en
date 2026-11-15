@@ -36,3 +36,8 @@ Phase 4: `tools/sjis.py` (text codec, tags `{p}` `{s}` `{g}` `{!R}` `{!W}`, `[XX
   exact for these streams (next file offset = start + consumed), so archive.read() checks it per file.
 - Count control bytes with an SJIS-aware parse: byte-wise counts take trail bytes 0x40..0x7E for ASCII codes.
 - u32 "pointers" found in packed assets are chance hits; take pointer sites only from `romstr.SITE_RANGES`.
+- Phase 5: `{p}` is the hero's name, not a page break. ASCII in a name field (default names) blanks the name tag and
+  the box: those fields are fullwidth (`extract.FULLWIDTH`). The ASCII map rows 0x0CE010.. are data, never text.
+- A savestate keeps the unpacked script file in EWRAM: after archive or engine changes, warp from a cold boot.
+- `tools/lua/drawlog.lua` logs every glyph draw (window fields, char, caller); `build.py --qa FF.SS=TEXT` overrides
+  one message for a stress/torture line; `build.py --marker archive|rom|rom:LO-HI` bisects a broken marker build.

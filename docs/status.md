@@ -2,34 +2,34 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. Engine spike and marker build next (phase 4 done: extract + roundtrip/coverage tests). Last build:
-  `build/goushouden_en.gba` sha1 8a037eff3a44b1667ec5e81ca8c1ff03537366b2 (= the original, now built through
-  `script/`), smoke ok.
+- **Phase:** 5. Engine spike done (VWF in game); marker build boots and shows ids in dialogue; marker tour review,
+  non-text strings and the width gate are next. Builds: `build/goushouden_en.gba` (JP text through the new engine:
+  16 MiB, archive relocated, VWF), `build/goushouden_marker.gba` (`build.py --marker`).
 - **Done:**
-  - Step 0 and phase 1 (see git history and `docs/re/`): ROM pinned, MesenCE 2.2.1, codecs verified, script archive
-    and menu strings located, graphics-text survey (`docs/re/graphics.md`).
-  - Phase 2 (`docs/re/debug.md`): the game's own debug menus drive `tools/debug/warp.lua`; `tools/debug/scenes.txt`
-    (47 named scenes) plus `map_NNN` for all 293 field maps; proof run 340/340 from a cold boot.
-  - Phase 3: `build.py` identity build byte-identical (`tests/test_identity.py`), lh5 encoder `tools/lh5.py`.
-  - Phase 4 (`docs/re/text.md` §1 table, §2 "Phase 4 extraction"): `tools/sjis.py` codec (cp932, `0D` = newline,
-    `{p}` `{s}` `{g}` `{!R}` `{!W}`, `[XX]` for anything else, `[ ] { }` escaped). `tools/extract.py dump` wrote
-    `script/archive/f00..f53.json` (5,363 messages, `msg` = game message ids) and `script/rom/*.json` (1,849 pointed
-    strings, 60 of them status `data`: 20 ASCII-only, 40 kana-lookup entries; `sfx.json` 145 onomatopoeia record names). `build.py` inserts from
-    `script/` (archive slots rebuilt from JSON; translated ROM strings in place, `max` bytes). `tests/test_extract.py`:
-    codec fuzz, every slot and string re-encodes to its bytes, script/ matches the ROM, coverage (no kana/kanji run
-    left in the string sections, no text outside them but 2 waived non-text hits), English reaches the ROM.
-- **Next (phase 5, `references/pipeline.md` §Marker, `references/platform-gba.md`):**
-  - Engine spike: how the renderer draws ASCII/half-width (font descriptor table ~0x0FA690, `docs/re/font.md`);
-    pick half-width/VWF; prove it in game with a torture line.
-  - Marker build (`build.py --marker`?): every line `[id] marker` at full box width; tour with warp_all; confirm
-    `{p}` `{s}` `{g}` `{!R}` `{!W}` meanings, flag debug-only strings (debug menu text in `script/rom/0CD000..0D9000`),
-    find non-text strings, measure every box variant (width gate) and record budgets.
-  - Archive space: the archive fills its slot exactly (0 slack; re-encoding all files frees 121 bytes). English will
-    grow it: relocate (free space: 0x7F05B4-0x800000 is 0xFF fill, 64 KiB, too small for 188 KB; expanding the ROM
-    past 8 MiB is the likely route) and repoint `archive.POINTER_SITES`. ROM strings in place have `max` bytes; longer
-    ones need relocation + repointing every `ptrs` site (phase 7).
-  - SFX names (`sfx.json`) are probably drawn as sprites via the kana lookup at 0x0D9C58 (guess): check in game.
-  - Carried: route starts need branch flags (not gating); tie each graphics survey group to its screen by VRAM
-    dump; edited graphics repack as type 2 (`docs/re/compression.md`).
+  - Step 0, phases 1-4 (see git history and `docs/re/`): ROM pinned, MesenCE 2.2.1, codecs, debug warp tool
+    (`tools/debug/`, 340 scenes), identity build (`build.py --verify`), extraction to `script/` (`tools/sjis.py`).
+  - Phase 5 so far (`docs/re/font.md` Printer + VWF, `docs/re/memory.md` layout, `tools/engine.py`):
+    - English is plain ASCII, 1 byte/char: the printer maps every single byte to a fullwidth glyph (0x0800FE5C).
+    - VWF: the 94 Latin glyphs of the 12-px font moved to column 0, the 16 pen-advance sites in the printer call a
+      hook at 0x104DC0 that subtracts `12 - width`. Verified in game (`Abc Hello ijl`, map_290).
+    - ROM: 16 MiB, archive at 0x800000 (5 pointers), every write logged (`build/*.writes.txt`), `tests/test_engine.py`
+      (archive reads back, every changed byte logged and in an allowed range, widths sane).
+    - `build.py --marker [archive|rom|rom:LO-HI]`, `--qa FF.SS=TEXT`; `tools/marker.py`; `tools/lua/drawlog.lua`.
+    - Non-text found so far: ASCII map rows 0x0CE010-0x0CE154 (now `data`, `romstr.DATA_SPANS`); default names
+      r0D18BC/r0D18C4 need fullwidth (`extract.FULLWIDTH`). `{p}` = hero's name (verified), `{s}` = heroine (guess).
+    - Fixed: `.gitignore` `rom/` hid `script/rom/` (1,849 ROM strings were never committed); now `/rom/`.
+    - Dialogue box: 1 line held ~32 capitals (`ABCDEFGHIJ` x3 + `AB`) before clipping at the right edge.
+- **Next (phase 5, `references/pipeline.md` §Marker + §Width gate):**
+  - Review the marker tour `work/qa/marker_tour/shots/` (rerun: `python -X utf8 tools/debug/warp_all.py
+    build/goushouden_marker.gba --out work/qa/marker_tour --jobs 2`; send the shots to a read-only pass in chunks).
+    Look for: Japanese left (text not extracted), blank or garbled boxes (non-text strings -> `DATA_SPANS`), menus
+    drawn by fonts or paths the VWF doesn't cover yet (8/16 px fonts: their cell width isn't 12, the hook skips them).
+  - Torture line (all printable ASCII + double spaces) with `--qa`, zoomed shot; tune GAP / odd glyphs (`i`, `l`, `'`).
+  - Width gate: measure in pixels per box variant (dialogue lines and lines per page, name tag, choices, menus,
+    item/skill fields, shop, battle messages) and record budgets in a window-data file the lint will read.
+  - `{s}` `{g}` `{!R}` `{!W}` meanings in game; `!R`/`!W` mean English must never contain `!R`/`!W` literally.
+  - Archive buffer: English files grow; check the EWRAM file buffer (0x0201D000..) holds the largest file
+    (marker files are bigger than JP; a crash or garbage in some scene would show it).
+  - Carried: SFX names (`sfx.json`) probably sprites via the kana lookup 0x0D9C58; graphics survey groups to screens.
 - **Open bugs:** none.
 - **Waiting on the user:** nothing.

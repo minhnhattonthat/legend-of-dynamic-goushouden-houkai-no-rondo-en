@@ -1,0 +1,1715 @@
+[
+ {
+  "id": "r0CE010",
+  "ptrs": [
+   "0FA6CC"
+  ],
+  "max": 35,
+  "jp": "ーアイウエオカキクケコサシスセソ",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE034",
+  "ptrs": [
+   "0FA6C8"
+  ],
+  "max": 35,
+  "jp": "　。「」、・ヲァィゥェォャュョッ",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE058",
+  "ptrs": [
+   "0FA6BC"
+  ],
+  "max": 35,
+  "jp": "ｐｑｒｓｔｕｖｗｘｙｚ｛｜｝～　",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE07C",
+  "ptrs": [
+   "0FA6B8"
+  ],
+  "max": 35,
+  "jp": "　ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏ",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE0A0",
+  "ptrs": [
+   "0FA6B4"
+  ],
+  "max": 35,
+  "jp": "ＰＱＲＳＴＵＶＷＸＹＺ［￥］＾＿",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE0C4",
+  "ptrs": [
+   "0FA6B0"
+  ],
+  "max": 35,
+  "jp": "＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯ",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE0E8",
+  "ptrs": [
+   "0FA6AC"
+  ],
+  "max": 35,
+  "jp": "０１２３４５６７８９：；＜＝＞？",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE10C",
+  "ptrs": [
+   "0FA6A8"
+  ],
+  "max": 35,
+  "jp": "　！”＃＄％＆’（）＊＋，－．／",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE130",
+  "ptrs": [
+   "0FA6A0",
+   "0FA6A4",
+   "0FA6C0",
+   "0FA6C4",
+   "0FA6D8",
+   "0FA6DC"
+  ],
+  "max": 35,
+  "jp": "　　　　　　　　　　　　　　　　",
+  "en": "",
+  "status": "data",
+  "notes": "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): English text depends on it (marker build blanked every box, phase 5)"
+ },
+ {
+  "id": "r0CE644",
+  "ptrs": [
+   "01631C"
+  ],
+  "max": 11,
+  "jp": "わたしは",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE650",
+  "ptrs": [
+   "016320"
+  ],
+  "max": 11,
+  "jp": "ペガサス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE65C",
+  "ptrs": [
+   "016444",
+   "016560",
+   "016694"
+  ],
+  "max": 35,
+  "jp": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE680",
+  "ptrs": [
+   "016448",
+   "016564"
+  ],
+  "max": 35,
+  "jp": "１２３４５６７８９０１２３４５６",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE6A4",
+  "ptrs": [
+   "016690"
+  ],
+  "max": 35,
+  "jp": "０１２３４５６７８９０１２３４５",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE6C8",
+  "ptrs": [
+   "016698"
+  ],
+  "max": 35,
+  "jp": "９８７６５４３２１０９８７６５４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE6EC",
+  "ptrs": [
+   "0FA7E4"
+  ],
+  "max": 19,
+  "jp": "ロボットパーティー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE700",
+  "ptrs": [
+   "0FA7E0"
+  ],
+  "max": 15,
+  "jp": "通常パーティー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE710",
+  "ptrs": [
+   "0FA7DC"
+  ],
+  "max": 11,
+  "jp": "ＳＥテスト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE71C",
+  "ptrs": [
+   "0FA7D8"
+  ],
+  "max": 15,
+  "jp": "ＢＧＭテスト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE72C",
+  "ptrs": [
+   "0FA7D4"
+  ],
+  "max": 15,
+  "jp": "ＬＯＡＤテスト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE73C",
+  "ptrs": [
+   "0FA7D0"
+  ],
+  "max": 19,
+  "jp": "フィールド・如月後",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE750",
+  "ptrs": [
+   "0FA7CC"
+  ],
+  "max": 19,
+  "jp": "フィールドテスト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE764",
+  "ptrs": [
+   "0FA7C8"
+  ],
+  "max": 11,
+  "jp": "努テスト",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE770",
+  "ptrs": [
+   "016780"
+  ],
+  "max": 15,
+  "jp": "しゅじんこう",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE780",
+  "ptrs": [
+   "0FACEC"
+  ],
+  "max": 27,
+  "jp": "関東スラム・マミー薬局Ｆ２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE79C",
+  "ptrs": [
+   "0FACE8"
+  ],
+  "max": 27,
+  "jp": "関東スラム・マミー薬局Ｆ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE7B8",
+  "ptrs": [
+   "0FACE4"
+  ],
+  "max": 11,
+  "jp": "ゼノン０１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE7C4",
+  "ptrs": [
+   "0FACE0"
+  ],
+  "max": 27,
+  "jp": "科学都市・ホテルＢ１Ｆｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE7E0",
+  "ptrs": [
+   "0FACDC"
+  ],
+  "max": 7,
+  "jp": "公園Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE7E8",
+  "ptrs": [
+   "0FACD8"
+  ],
+  "max": 27,
+  "jp": "科学都市・研究室１Ｆｄ＿２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE804",
+  "ptrs": [
+   "0FACD4"
+  ],
+  "max": 23,
+  "jp": "科学都市・研究室１Ｆｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE81C",
+  "ptrs": [
+   "0FACD0"
+  ],
+  "max": 23,
+  "jp": "科学都市・研究室１Ｆｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE834",
+  "ptrs": [
+   "0FACCC"
+  ],
+  "max": 27,
+  "jp": "科学都市・医療室２Ｆｂ＿２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE850",
+  "ptrs": [
+   "0FACC8"
+  ],
+  "max": 23,
+  "jp": "科学都市・医療室２Ｆｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE868",
+  "ptrs": [
+   "0FACC4"
+  ],
+  "max": 23,
+  "jp": "科学都市・医療室１Ｆｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE880",
+  "ptrs": [
+   "0FACC0"
+  ],
+  "max": 23,
+  "jp": "科学都市・医療室１Ｆｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE898",
+  "ptrs": [
+   "0FACBC"
+  ],
+  "max": 11,
+  "jp": "魔王の城Ｆ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8A4",
+  "ptrs": [
+   "0FACB8"
+  ],
+  "max": 11,
+  "jp": "ケダマン６",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8B0",
+  "ptrs": [
+   "0FACB4"
+  ],
+  "max": 11,
+  "jp": "ケダマン５",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8BC",
+  "ptrs": [
+   "0FACB0"
+  ],
+  "max": 11,
+  "jp": "ケダマン４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8C8",
+  "ptrs": [
+   "0FACAC"
+  ],
+  "max": 11,
+  "jp": "ケダマン３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8D4",
+  "ptrs": [
+   "0FACA8"
+  ],
+  "max": 11,
+  "jp": "ケダマン２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8E0",
+  "ptrs": [
+   "0FACA4"
+  ],
+  "max": 11,
+  "jp": "ケダマン１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8EC",
+  "ptrs": [
+   "0FACA0"
+  ],
+  "max": 11,
+  "jp": "ダンテ６",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE8F8",
+  "ptrs": [
+   "0FAC9C"
+  ],
+  "max": 11,
+  "jp": "ダンテ５Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE904",
+  "ptrs": [
+   "0FAC98"
+  ],
+  "max": 11,
+  "jp": "ダンテ５Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE910",
+  "ptrs": [
+   "0FAC94"
+  ],
+  "max": 11,
+  "jp": "ダンテ５Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE91C",
+  "ptrs": [
+   "0FAC90"
+  ],
+  "max": 11,
+  "jp": "ダンテ５Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE928",
+  "ptrs": [
+   "0FAC8C"
+  ],
+  "max": 11,
+  "jp": "ダンテ４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE934",
+  "ptrs": [
+   "0FAC88"
+  ],
+  "max": 11,
+  "jp": "ダンテ３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE940",
+  "ptrs": [
+   "0FAC84"
+  ],
+  "max": 11,
+  "jp": "ダンテ２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE94C",
+  "ptrs": [
+   "0FAC80"
+  ],
+  "max": 11,
+  "jp": "ダンテ１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE958",
+  "ptrs": [
+   "0FAC7C"
+  ],
+  "max": 23,
+  "jp": "早乙女研究所Ｂ１ＦＢ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE970",
+  "ptrs": [
+   "0FAC78"
+  ],
+  "max": 23,
+  "jp": "早乙女研究所Ｂ１ＦＡ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE988",
+  "ptrs": [
+   "0FAC74"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所１Ｆ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE99C",
+  "ptrs": [
+   "0FAC70"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０７Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE9B0",
+  "ptrs": [
+   "0FAC6C"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０７Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE9C4",
+  "ptrs": [
+   "0FAC68"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０６",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE9D8",
+  "ptrs": [
+   "0FAC64"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０５",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CE9EC",
+  "ptrs": [
+   "0FAC60"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA00",
+  "ptrs": [
+   "0FAC5C"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA14",
+  "ptrs": [
+   "0FAC58"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０２Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA28",
+  "ptrs": [
+   "0FAC54"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０２Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA3C",
+  "ptrs": [
+   "0FAC50"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０２Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA50",
+  "ptrs": [
+   "0FAC4C"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０１Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA64",
+  "ptrs": [
+   "0FAC48"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０１Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA78",
+  "ptrs": [
+   "0FAC44"
+  ],
+  "max": 19,
+  "jp": "早乙女研究所０１Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA8C",
+  "ptrs": [
+   "0FAC40"
+  ],
+  "max": 7,
+  "jp": "黒ＢＧ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEA94",
+  "ptrs": [
+   "0FAC3C"
+  ],
+  "max": 15,
+  "jp": "迷いの森１０",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEAA4",
+  "ptrs": [
+   "0FAC38"
+  ],
+  "max": 11,
+  "jp": "迷いの森９",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEAB0",
+  "ptrs": [
+   "0FAC34"
+  ],
+  "max": 11,
+  "jp": "迷いの森８",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEABC",
+  "ptrs": [
+   "0FAC30"
+  ],
+  "max": 11,
+  "jp": "迷いの森７",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEAC8",
+  "ptrs": [
+   "0FAC2C"
+  ],
+  "max": 11,
+  "jp": "迷いの森６",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEAD4",
+  "ptrs": [
+   "0FAC28"
+  ],
+  "max": 11,
+  "jp": "迷いの森５",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEAE0",
+  "ptrs": [
+   "0FAC24"
+  ],
+  "max": 11,
+  "jp": "迷いの森４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEAEC",
+  "ptrs": [
+   "0FAC20"
+  ],
+  "max": 11,
+  "jp": "迷いの森３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEAF8",
+  "ptrs": [
+   "0FAC1C"
+  ],
+  "max": 11,
+  "jp": "迷いの森２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB04",
+  "ptrs": [
+   "0FAC18"
+  ],
+  "max": 11,
+  "jp": "迷いの森１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB10",
+  "ptrs": [
+   "0FAC14"
+  ],
+  "max": 19,
+  "jp": "聖チャペル・黒い森",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB24",
+  "ptrs": [
+   "0FAC10"
+  ],
+  "max": 11,
+  "jp": "聖チャペル",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB30",
+  "ptrs": [
+   "0FAC0C"
+  ],
+  "max": 11,
+  "jp": "蓮沼街・空",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB3C",
+  "ptrs": [
+   "0FAC08"
+  ],
+  "max": 15,
+  "jp": "蓮沼街・山道",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB4C",
+  "ptrs": [
+   "0FAC04"
+  ],
+  "max": 15,
+  "jp": "ポールの部屋",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB5C",
+  "ptrs": [
+   "0FAC00"
+  ],
+  "max": 19,
+  "jp": "ポール邸内黄金仏",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB70",
+  "ptrs": [
+   "0FABFC"
+  ],
+  "max": 15,
+  "jp": "ポール邸内廊下",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB80",
+  "ptrs": [
+   "0FABF8"
+  ],
+  "max": 11,
+  "jp": "ポール邸庭",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB8C",
+  "ptrs": [
+   "0FABF4"
+  ],
+  "max": 11,
+  "jp": "牧村邸２Ｆ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEB98",
+  "ptrs": [
+   "0FABF0"
+  ],
+  "max": 19,
+  "jp": "牧村邸１Ｆ・風呂場",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEBAC",
+  "ptrs": [
+   "0FABEC"
+  ],
+  "max": 11,
+  "jp": "牧村邸１Ｆ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEBB8",
+  "ptrs": [
+   "0FABE8"
+  ],
+  "max": 7,
+  "jp": "蓮沼街",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEBC0",
+  "ptrs": [
+   "0FABE4"
+  ],
+  "max": 23,
+  "jp": "関東スラム・マミー薬局",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEBD8",
+  "ptrs": [
+   "0FABE0"
+  ],
+  "max": 19,
+  "jp": "家・アイテム屋Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEBEC",
+  "ptrs": [
+   "0FABDC"
+  ],
+  "max": 19,
+  "jp": "家・アイテム屋Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC00",
+  "ptrs": [
+   "0FABD8"
+  ],
+  "max": 19,
+  "jp": "家・アイテム屋Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC14",
+  "ptrs": [
+   "0FABD4"
+  ],
+  "max": 19,
+  "jp": "家・アイテム屋Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC28",
+  "ptrs": [
+   "0FABD0"
+  ],
+  "max": 19,
+  "jp": "家・アイテム屋Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC3C",
+  "ptrs": [
+   "0FABCC"
+  ],
+  "max": 19,
+  "jp": "家・マミー薬局Ｆ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC50",
+  "ptrs": [
+   "0FABC8"
+  ],
+  "max": 19,
+  "jp": "家・マミー薬局Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC64",
+  "ptrs": [
+   "0FABC4"
+  ],
+  "max": 19,
+  "jp": "家・マミー薬局Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC78",
+  "ptrs": [
+   "0FABC0"
+  ],
+  "max": 19,
+  "jp": "家・マミー薬局Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEC8C",
+  "ptrs": [
+   "0FABBC"
+  ],
+  "max": 19,
+  "jp": "家・マミー薬局Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CECA0",
+  "ptrs": [
+   "0FABB8"
+  ],
+  "max": 19,
+  "jp": "家・マミー薬局Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CECB4",
+  "ptrs": [
+   "0FABB4"
+  ],
+  "max": 15,
+  "jp": "家・風呂場３Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CECC4",
+  "ptrs": [
+   "0FABB0"
+  ],
+  "max": 15,
+  "jp": "家・風呂場３Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CECD4",
+  "ptrs": [
+   "0FABAC"
+  ],
+  "max": 15,
+  "jp": "家・風呂場３Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CECE4",
+  "ptrs": [
+   "0FABA8"
+  ],
+  "max": 15,
+  "jp": "家・風呂場３Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CECF4",
+  "ptrs": [
+   "0FABA4"
+  ],
+  "max": 15,
+  "jp": "家・風呂場３Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED04",
+  "ptrs": [
+   "0FABA0"
+  ],
+  "max": 15,
+  "jp": "家・風呂場２Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED14",
+  "ptrs": [
+   "0FAB9C"
+  ],
+  "max": 15,
+  "jp": "家・風呂場２Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED24",
+  "ptrs": [
+   "0FAB98"
+  ],
+  "max": 15,
+  "jp": "家・風呂場２Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED34",
+  "ptrs": [
+   "0FAB94"
+  ],
+  "max": 15,
+  "jp": "家・風呂場２Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED44",
+  "ptrs": [
+   "0FAB90"
+  ],
+  "max": 15,
+  "jp": "家・風呂場２Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED54",
+  "ptrs": [
+   "0FAB8C"
+  ],
+  "max": 15,
+  "jp": "家・風呂場１Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED64",
+  "ptrs": [
+   "0FAB88"
+  ],
+  "max": 15,
+  "jp": "家・風呂場１Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED74",
+  "ptrs": [
+   "0FAB84"
+  ],
+  "max": 15,
+  "jp": "家・風呂場１Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED84",
+  "ptrs": [
+   "0FAB80"
+  ],
+  "max": 15,
+  "jp": "家・風呂場１Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CED94",
+  "ptrs": [
+   "0FAB7C"
+  ],
+  "max": 15,
+  "jp": "家・風呂場１Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEDA4",
+  "ptrs": [
+   "0FAB78"
+  ],
+  "max": 15,
+  "jp": "家・民家３Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEDB4",
+  "ptrs": [
+   "0FAB74"
+  ],
+  "max": 15,
+  "jp": "家・民家３Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEDC4",
+  "ptrs": [
+   "0FAB70"
+  ],
+  "max": 15,
+  "jp": "家・民家３Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEDD4",
+  "ptrs": [
+   "0FAB6C"
+  ],
+  "max": 15,
+  "jp": "家・民家３Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEDE4",
+  "ptrs": [
+   "0FAB68"
+  ],
+  "max": 15,
+  "jp": "家・民家３Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEDF4",
+  "ptrs": [
+   "0FAB64"
+  ],
+  "max": 15,
+  "jp": "家・民家２Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE04",
+  "ptrs": [
+   "0FAB60"
+  ],
+  "max": 15,
+  "jp": "家・民家２Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE14",
+  "ptrs": [
+   "0FAB5C"
+  ],
+  "max": 15,
+  "jp": "家・民家２Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE24",
+  "ptrs": [
+   "0FAB58"
+  ],
+  "max": 15,
+  "jp": "家・民家２Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE34",
+  "ptrs": [
+   "0FAB54"
+  ],
+  "max": 15,
+  "jp": "家・民家２Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE44",
+  "ptrs": [
+   "0FAB50"
+  ],
+  "max": 15,
+  "jp": "家・民家１Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE54",
+  "ptrs": [
+   "0FAB4C"
+  ],
+  "max": 15,
+  "jp": "家・民家１Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE64",
+  "ptrs": [
+   "0FAB48"
+  ],
+  "max": 15,
+  "jp": "家・民家１Ｃ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE74",
+  "ptrs": [
+   "0FAB44"
+  ],
+  "max": 15,
+  "jp": "家・民家１Ｂ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE84",
+  "ptrs": [
+   "0FAB40"
+  ],
+  "max": 15,
+  "jp": "家・民家１Ａ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEE94",
+  "ptrs": [
+   "0FAB3C"
+  ],
+  "max": 11,
+  "jp": "魔王の城Ｅ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEEA0",
+  "ptrs": [
+   "0FAB38"
+  ],
+  "max": 11,
+  "jp": "魔王の城Ｄ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEEAC",
+  "ptrs": [
+   "0FAB34"
+  ],
+  "max": 15,
+  "jp": "魔王の城Ｃ０２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEEBC",
+  "ptrs": [
+   "0FAB30"
+  ],
+  "max": 15,
+  "jp": "魔王の城Ｃ０１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEECC",
+  "ptrs": [
+   "0FAB2C"
+  ],
+  "max": 15,
+  "jp": "魔王の城Ｂ０２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEEDC",
+  "ptrs": [
+   "0FAB28"
+  ],
+  "max": 15,
+  "jp": "魔王の城Ｂ０１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEEEC",
+  "ptrs": [
+   "0FAB24"
+  ],
+  "max": 15,
+  "jp": "魔王の城Ａ０２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEEFC",
+  "ptrs": [
+   "0FAB20"
+  ],
+  "max": 15,
+  "jp": "魔王の城Ａ０１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF0C",
+  "ptrs": [
+   "0FAB1C"
+  ],
+  "max": 15,
+  "jp": "戸来村洞窟２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF1C",
+  "ptrs": [
+   "0FAB18"
+  ],
+  "max": 15,
+  "jp": "戸来村洞窟１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF2C",
+  "ptrs": [
+   "0FAB14"
+  ],
+  "max": 11,
+  "jp": "戸来村０９",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF38",
+  "ptrs": [
+   "0FAB10"
+  ],
+  "max": 11,
+  "jp": "戸来村０８",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF44",
+  "ptrs": [
+   "0FAB0C"
+  ],
+  "max": 11,
+  "jp": "戸来村０７",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF50",
+  "ptrs": [
+   "0FAB08"
+  ],
+  "max": 11,
+  "jp": "戸来村０６",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF5C",
+  "ptrs": [
+   "0FAB04"
+  ],
+  "max": 11,
+  "jp": "戸来村０５",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF68",
+  "ptrs": [
+   "0FAB00"
+  ],
+  "max": 11,
+  "jp": "戸来村０４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF74",
+  "ptrs": [
+   "0FAAFC"
+  ],
+  "max": 11,
+  "jp": "戸来村０３",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF80",
+  "ptrs": [
+   "0FAAF8"
+  ],
+  "max": 11,
+  "jp": "戸来村０２",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF8C",
+  "ptrs": [
+   "0FAAF4"
+  ],
+  "max": 11,
+  "jp": "戸来村０１",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEF98",
+  "ptrs": [
+   "0FAAF0"
+  ],
+  "max": 27,
+  "jp": "科学都市・キッカイ（廃棄）",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEFB4",
+  "ptrs": [
+   "0FAAEC"
+  ],
+  "max": 19,
+  "jp": "科学都市・瓜生４",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEFC8",
+  "ptrs": [
+   "0FAAE8"
+  ],
+  "max": 27,
+  "jp": "科学都市・瓜生３（廃棄）",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "r0CEFE4",
+  "ptrs": [
+   "0FAAE4"
+  ],
+  "max": 27,
+  "jp": "科学都市・瓜生２（廃棄）",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

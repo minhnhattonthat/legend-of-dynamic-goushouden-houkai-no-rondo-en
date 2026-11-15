@@ -4,6 +4,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 
 ## Commands (run from repo root)
 - Build:    `python -X utf8 build.py`        -> build/goushouden_en.gba (checks the dump against `rom.sha1` first; written in phase 3)
+- Marker:   `python -X utf8 build.py --marker` -> build/goushouden_marker.gba (ids + filler); `--qa FF.SS=TEXT` overrides one message
 - Check:    `python -X utf8 tools/check.py`  (tests + lint; the pre-commit hook runs this; `git config core.hooksPath tools/hooks` once per clone)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/goushouden_en.gba --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 $SKILL/scripts/emu.py build/goushouden_en.gba --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.txt` + `map_NNN` from `tools/debug/maps.tsv`; never ask the user to play to a scene)

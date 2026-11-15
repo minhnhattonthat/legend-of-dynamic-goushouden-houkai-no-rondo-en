@@ -34,6 +34,9 @@ SCRIPT = ROOT / "script"
 ROM = ROOT / "rom" / "Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba"
 JP = re.compile(r"[ぁ-ヿ一-鿿！-～　-〿]")  # kana, kanji, full-width forms
 CARRY = ("en", "status", "notes")
+# ROM strings the game reads two bytes per char: insert as fullwidth (sjis.fullwidth), budget = max // 2 chars.
+# 0D18BC / 0D18C4: default hero / heroine names (ASCII there blanked the name tag and the box, phase 5)
+FULLWIDTH = {0x0D18BC, 0x0D18C4}
 
 
 def message_ids(rom):
@@ -144,27 +147,27 @@ def translated(e):
     return bool(e.get("en")) and e.get("status") != "data"
 
 
-def text_of(e):
-    return e["en"] if translated(e) else e["jp"]
+def text_of(e, jp=False):
+    return e["en"] if translated(e) and not jp else e["jp"]
 
 
-def archive_texts():
-    """-> {file index: {slot: text}} from script/archive (en where translated, else jp)."""
+def archive_texts(jp=False):
+    """-> {file index: {slot: text}} from script/archive (en where translated, else jp; jp=True: all jp)."""
     out = {}
     for name in script_files():
         m = re.fullmatch(r"archive/f(\d+)\.json", name)
         if m:
-            out[int(m[1])] = {int(e["id"].split(".")[1]): text_of(e) for e in load(name)}
+            out[int(m[1])] = {int(e["id"].split(".")[1]): text_of(e, jp) for e in load(name)}
     return out
 
 
-def rom_texts():
+def rom_texts(jp=False):
     """-> [(offset, max, text, translated)] for every plain ROM string and record name."""
     out = []
     for name in script_files():
         if name.startswith("rom/"):
             for e in load(name):
-                out.append((int(e["id"][1:], 16), e["max"], text_of(e), translated(e)))
+                out.append((int(e["id"][1:], 16), e["max"], text_of(e, jp), translated(e) and not jp))
     return out
 
 

@@ -76,6 +76,23 @@ def encode(text):
     return bytes(out)
 
 
+def fullwidth(text):
+    """ASCII -> the fullwidth chars the game's own ASCII map uses (0x080FA6A0: ' -> ’, " -> ”, space -> U+3000),
+    for fields read two bytes per char (player names). Tags and [XX] escapes stay as they are."""
+    special = {" ": "　", "'": "’", '"': "”", "-": "－", "~": "～"}
+    out, i = [], 0
+    while i < len(text):
+        m = TOKEN.match(text, i)
+        if m:
+            out.append(m[0])
+            i = m.end()
+            continue
+        c = text[i]
+        out.append(special.get(c) or (chr(ord(c) + 0xFEE0) if "!" <= c <= "~" else c))
+        i += 1
+    return "".join(out)
+
+
 def is_japanese(text):
     """True if the text has any non-ASCII char (double-byte or half-width kana) outside tags and escapes."""
     return any(ord(c) > 0x7F for c in TOKEN.sub("", text))

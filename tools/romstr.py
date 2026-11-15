@@ -27,6 +27,8 @@ SITE_RANGES = ((0, 0x104DC0), (0x7B0000, 0x7F0000))
 # pointed strings that are not text (extracted with status "data", never translated)
 DATA_SPANS = (
     (0x0D9C58, 0x0D9CF8, "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"),
+    (0x0CE010, 0x0CE154, "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): "
+                         "English text depends on it (marker build blanked every box, phase 5)"),
 )
 MAXLEN = 600
 

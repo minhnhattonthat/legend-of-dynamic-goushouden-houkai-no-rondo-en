@@ -23,8 +23,8 @@ the font charset lists only double-byte codes). Half-width 0x20 (space) and some
 |---|---|---|---|
 | `0D` | 12,127 | newline | line break; the first line of a dialogue message is the speaker name (e.g. `不動明` CR `「黒い月が…」`) **guess** from RAM view |
 | `00` | 5,363 | (terminator, not in the text) | end of message, one per slot |
-| `\p` (5C 70) | 1,481 | `{p}` | **guess**: new page / wait for key |
-| `\s` (5C 73) | 325 | `{s}` | **guess**: player name (the hero is named at start; see 0x0201D9F0 RAM view `\s`) |
+| `\p` (5C 70) | 1,481 | `{p}` | **verified** phase 5: the hero's name (34.10 `{p}` CR `ここには…` shows the name tag `メイン`, the default name r0D18BC; the marker build shows `D18`). Not a page break |
+| `\s` (5C 73) | 325 | `{s}` | **guess** (phase 5): the heroine's name (`\p` is the hero = メイン "main"; the other default name is サブ "sub", r0D18C4) |
 | `\g` (5C 67) | 2 | `{g}` | **guess**: item-get name (`{g}を手に入れた`, 00.01) |
 | `!R`, `!W` (21 52 / 21 57) | 119 / 11 | `{!R}` `{!W}` | **guess**: inline codes (`了!R明`, `着く!W`, and `\p` CR `!R(…！)` at a line start) |
 | `20` | 5,213 | space | half-width space (padding/alignment) |
@@ -60,6 +60,11 @@ No other single byte occurs; there are no invalid double-byte pairs. Choices are
 - Onomatopoeia records at 0x0D9CF8-0x0DAFB8: 150 x 0x20 `{u32 id, u32, u32, char name[20]}` (base pointer at
   0x0C63B0); 145 named, in `script/rom/sfx.json` (id `xNAMEOFFSET`, `rec`). **guess**: drawn as sprites through the
   kana lookup above, so English needs graphics work.
+- 0x0CE010-0x0CE154: the ASCII -> fullwidth map rows (font.md) are status `data` (`romstr.DATA_SPANS`): the first
+  marker build replaced them and every box went blank.
+- `extract.FULLWIDTH` (r0D18BC / r0D18C4, the default hero / heroine names): read two bytes per char, so they are
+  inserted as fullwidth (`sjis.fullwidth`); ASCII there blanked the name tag. Player names typed in game are
+  fullwidth too; they draw with the VWF widths.
 - Debug-menu strings (`デバック（菊池）ＭＥＮＵ`, `バトルエフェクトマスク１`, the ESC-sequence block at 0x0D3641) are
   extracted like the rest; flag the debug-only ones in the marker build.
 - Coverage: no run of 2+ kana/kanji at any alignment in the sections outside an extracted string; outside the
