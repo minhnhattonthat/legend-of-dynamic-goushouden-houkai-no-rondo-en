@@ -18,6 +18,22 @@ the font charset lists only double-byte codes). Half-width 0x20 (space) and some
   file. Any growth needs relocation (phase 7; 5 pointer sites in `archive.POINTER_SITES`).
 - At run time a whole file is unpacked into EWRAM (around 0x0201D000..0x0201FFFF; the opening file sat at 0x0201D66C).
 
+## 1b. Five more archives right after it (found phase 5, NOT YET EXTRACTED; verified: decoded with lh5 + split_file)
+Same format (u16 count, count x u16 id -> number, then nfiles x {u32 offset, u32 size}, lh5 files of 100 slots),
+read by 0x0800FE88(id, archive, 1, dest) (lh5 0x08006538 into a heap buffer, then strcpy of the slot). Back to back:
+
+| base | ids | files | msgs | end | literal pools holding 0x08000000+base | content |
+|---|---|---|---|---|---|---|
+| 0x132E74 | 149 | 2 | 148 | 0x1348F8 | 0xADD8C | character book (キャラ図鑑, m1_book): name, 2 blank lines, description |
+| 0x1348F8 | 3 | 1 | 1 | 0x13492D | none found | one test line (この物語の主人公); probably unused |
+| 0x134930 | 293 | 3 | 290 | 0x13531E | 0x8843C, 0x9A548, 0xADE00 | item / skill descriptions (味方単体のＨＰを３０程度回復) |
+| 0x135320 | 93 | 1 | 92 | 0x1355DC | 0x9CDF4, 0x9CE90, 0xA38EC | equipment effects (ＤＰ１０％ＵＰ\n精神防御＋５) |
+| 0x1355DC | 313 | 4 | 312 | 0x135E6B | 0x96EEC, 0x96F98, 0x97328, 0x973D4 | map / place names (日本マップ) |
+
+0x135E6C onward is other data. Found by tracing the book text: menu printer 0x0800E3D0 <- wrapper 0x0800E87C <-
+0x080ADBD4(window, ?, ?, string) <- 0x080ADD1E, which fills a stack buffer from 0x0800FE88 with archive 0x08132E74
+(`tools/lua/srcprobe.lua`). Search for the flag-masked forms too before repointing (pipeline §Checks).
+
 ### Message format (complete single-byte census, SJIS-aware parse of all 5,363 messages, phase 4)
 | bytes | count | text form (`tools/sjis.py`) | meaning |
 |---|---|---|---|

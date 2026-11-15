@@ -14,6 +14,12 @@
     "status": "measured",
     "shot": "map_290, 'Baron Ashura (Male) Professor Kuruma' (36 bytes) fits, box ends at x=229 (work/qa/tag)"
   },
+  "item_list": {
+    "what": "item menu list name field (8x8 font, 8-px VWF): from the name's x to the count graphic; both columns",
+    "px": 69,
+    "status": "measured",
+    "shot": "m1_item marker build: left name x=25, count x=96; right name x=136, count x=205 (work/qa/v8_m1_item); not yet mapped to script/rom ids in the lint"
+  },
   "name_var": {
     "what": "{p} / {s}: the player-entered hero / heroine name, inserted at run time; counted at this width in a line",
     "px": 84,

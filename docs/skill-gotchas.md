@@ -13,3 +13,5 @@
 - SKILL.md Step 0 (template .gitignore): the unanchored `rom/` line also ignored `script/rom/`, so 1,849 extracted ROM strings were never committed through phase 4; anchor top-level dirs (`/rom/ /build/ /work/ /dist/ /release/`) in the template.
 - references/pipeline.md (Marker build): the game's ASCII -> fullwidth conversion table looked like text (fullwidth `！”＃…` rows, pointed from a table) and was extracted; marking it blanked every box. Before the marker build, check for tables whose rows are the ASCII/fullwidth sequence and mark them data.
 - references/platform-gba.md: Thumb BL reaches only +-4 MiB, so hooks for code in the first MiBs can't sit past 8 MiB; relocating a big block (here the script archive) to the expansion frees near space for hooks.
+- references/emulator-qa.md (sheet.py): --out into a directory that doesn't exist raises FileNotFoundError; it should mkdir the parent.
+- references/emulator-qa.md (emu.py): a --route given together with a warp.lua --script overrides the warp's own input from frame 0; save a state with STATE_OUT/HOLD and run the route from --state-in instead.

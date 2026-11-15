@@ -18,11 +18,22 @@ Updated at the end of every session. Keep it to what the next session needs; his
     - Width gate so far (`tools/windows.json`, read by `tools/lint.py`, run by `tools/check.py`):
       dialogue line 1 = 192 px, line 2 = 184 px (page arrow), 2 lines per page, blank line = new page (measured);
       name tag 36 bytes (measured); `{p}`/`{s}` = 84 px (7-char name entry x 12 px kana, measured).
-      Item list name field ~69 px before the count (m1_item, measured from the marker shot, not yet in windows.json).
+      Item list name field 69 px before the count (`item_list`, measured; not yet mapped to ROM string ids).
+    - Probes: `tools/lua/advprobe.lua` (advance sites: pen, pair, font mode, cell width), `tools/lua/srcprobe.lua`
+      (source pointer of every string the two printers draw, and its callers).
     - Marker tour 340 scenes (`work/qa/marker_tour/`): 337 ok; retail_newgame, game_over, ending_credits only need
       `--frames 4000`. Every box reached shows its id. `jp_left.py --gba-ptrs` on the marker build: 0 runs.
 - **Next (phase 5, `references/pipeline.md` §Width gate):**
-  - Review `work/qa/marker_sys/shots/` (non-map scenes, new marker build, `--frames 4000`): for each list/menu
+  - **First: extract the five hidden text archives** after the script archive (`docs/re/text.md` §1b: character
+    book, item/skill descriptions, equipment effects, map names; ~840 messages). The marker build shows the book in
+    Japanese (m1_book). Generalise `tools/archive.py` (base, file count, end as parameters), dump them to their own
+    `script/` files via `tools/extract.py` (roundtrip test + identity build must stay byte-exact), rebuild them in
+    new space after the main archive, repoint the literal pools listed there (assert the old value first; sweep for
+    other forms), add them to the marker build, re-run m1_book / m1_item / shop scenes to confirm ids.
+  - game_over fails the warp even with `--frames 4000` on the marker build (passed on the original in phase 2):
+    rerun on `build/goushouden_en.gba` and the original to see if the marker text breaks the battle/game-over path.
+  - Review `work/qa/marker_sys/shots/` (46/47 ok; m1_*/m2_* reviewed: dialogue/menus show ids, menu labels and
+    headers are graphics text = phase 8) (non-map scenes, new marker build, `--frames 4000`): for each list/menu
     field (item, skill, equipment effect, enemy names, shop, battle messages, map names, save/load, sfx) read the
     field x and the next element's x, record px budgets in `tools/windows.json` with the shot, and map the
     `script/rom` id ranges to them so the lint checks ROM strings in px (8-px font: `engine.eight_widths`).
