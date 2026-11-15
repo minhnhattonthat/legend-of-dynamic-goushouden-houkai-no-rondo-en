@@ -1,0 +1,9 @@
+# Phase 7 review I3: wave-1 cuts restored where the full form fits the measured field now that relocation lifted
+# the byte limit (skill_list 72 px, skill_party 76 px, battle_banner 230 px; char_name has no narrow field)
+r0DC13C	Sword
+r0DC238	Death Mask
+r0DC28C	Shuriken
+r0DC294	Shuriken
+r0DC810	Lightning Flare
+r0DC828	L.Flare
+r0DB860	Jiro Shutendo

@@ -21,6 +21,7 @@ Warnings (summary count; --warn lists them): none at present.
 """
 import argparse
 import collections
+import functools
 import json
 import re
 import sys
@@ -104,6 +105,12 @@ def line_px(line, widths):
     return px
 
 
+# ids whose English needs an edge blank the JP lacks (Japanese joins words without spaces)
+EDGE_OK = {"r0D1FAC": "glued after the enemy name by stpcpy (0x080870F8): needs its own leading space",
+           "r0D2234": "glued after the item name by stpcpy (0x0808C1CA)",
+           "r0D2270": "glued after the amount by stpcpy (0x0808C23E)"}
+
+
 def codes(text):
     return collections.Counter(TOKEN.findall(text))
 
@@ -122,6 +129,8 @@ def common(e, errs):
         errs.append("%s: control codes differ: jp %s en %s" % (e["id"], dict(codes(jp)), dict(codes(en))))
     lead = lambda s: len(s) - len(s.lstrip(" 　\n"))  # noqa: E731
     trail = lambda s: len(s) - len(s.rstrip(" 　\n"))  # noqa: E731
+    if e["id"] in EDGE_OK:
+        return
     if bool(lead(jp)) != bool(lead(en)) or bool(trail(jp)) != bool(trail(en)):
         errs.append("%s: leading/trailing blanks differ from the JP" % e["id"])
 
@@ -203,6 +212,28 @@ def lint_rom(e, errs):
             px = line_px(e["en"], widths)
             if px > win["px"]:
                 errs.append("%s: %r is %d px, the %s field holds %d" % (e["id"], e["en"], px, box, win["px"]))
+    for c in WINDOWS.get("composed", ()):
+        # name + suffix stpcpy'd into a fixed buffer: name + suffix + 00 must fit it, the message its box
+        lo, hi, stride = c["names"]
+        if not any(lo <= int(p, 16) < hi and (int(p, 16) - lo) % stride == 0 for p in e.get("ptrs", ())):
+            continue
+        text = e["en"] + rom_en(c["suffix"])
+        if len(sjis.encode(text)) + 1 > c["bytes"]:
+            errs.append("%s: %r is over its %d-byte message buffer" % (e["id"], text, c["bytes"]))
+        win = WINDOWS[c["box"]]
+        widths = {"8": char_widths8, "12": char_widths12}.get(win.get("font"), char_widths)()
+        if widths is not None and line_px(text, widths) > win["px"]:
+            errs.append("%s: %r is %d px, the %s box holds %d" % (e["id"], text, line_px(text, widths), c["box"],
+                                                                 win["px"]))
+
+
+@functools.lru_cache(maxsize=None)
+def rom_en(sid):
+    """The shipped English (or JP, if none yet) of ROM string `sid` (rNNNNNN)."""
+    for e in json.loads((ROOT / "script" / "rom" / ("%03X000.json" % (int(sid[1:], 16) >> 12))).read_text(encoding="utf-8")):
+        if e["id"] == sid:
+            return e["en"] or e["jp"]
+    raise KeyError(sid)
 
 
 def check_entry(e, part, errs, warns):

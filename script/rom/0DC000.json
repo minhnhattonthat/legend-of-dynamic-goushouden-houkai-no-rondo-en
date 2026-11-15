@@ -314,7 +314,7 @@
   ],
   "max": 3,
   "jp": "剣",
-  "en": "Cut",
+  "en": "Sword",
   "status": "done",
   "notes": ""
  },
@@ -564,7 +564,7 @@
   ],
   "max": 7,
   "jp": "死の面",
-  "en": "Mask",
+  "en": "Death Mask",
   "status": "done",
   "notes": ""
  },
@@ -647,7 +647,7 @@
   ],
   "max": 7,
   "jp": "手裏剣",
-  "en": "Stars",
+  "en": "Shuriken",
   "status": "done",
   "notes": ""
  },
@@ -658,7 +658,7 @@
   ],
   "max": 11,
   "jp": "シュリケン",
-  "en": "Stars",
+  "en": "Shuriken",
   "status": "done",
   "notes": ""
  },
@@ -1921,7 +1921,7 @@
   ],
   "max": 23,
   "jp": "ライトニング・フレア",
-  "en": "Bolt Flare",
+  "en": "Lightning Flare",
   "status": "done",
   "notes": ""
  },
@@ -1932,7 +1932,7 @@
   ],
   "max": 11,
   "jp": "Ｌ・フレア",
-  "en": "Bolt Flare",
+  "en": "L.Flare",
   "status": "done",
   "notes": ""
  },

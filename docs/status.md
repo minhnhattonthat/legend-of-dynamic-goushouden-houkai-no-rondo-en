@@ -2,8 +2,24 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: not started. Phase 7 done 2026-11-16: build green (check.py 39 tests + lint
-  0 errors; romdiff --writes clean, 2246 writes; smoke ok; build sha1 2d0b5d4b...).
+- **Phase:** 8. QA in the emulator: in progress (phase 7 review fixed first). Phase 7 done 2026-11-16.
+
+## Phase 7 review fixes (2026-11-16; review in ../.harness/reviews/...-phase7.md)
+- I1: r0CD95C (ASCII -> fullwidth lookup, 2 bytes per code, read by 0x08003DE4) was translated as text; now a
+  `romstr.DATA_SPANS` entry (status data). Test: every data span is byte-identical in the build.
+- I2: lint fails on empty English unless listed in `script/keep_jp.txt` (the 145 SFX sprite names, phase 8 graphics).
+- I3: wave-1 cuts restored where the full form now fits (fixes9: Sword, Death Mask, Shuriken, Lightning Flare,
+  Jiro Shutendo). The engine route was measured (D8): a narrower font saves 2-5 px, too little. D8 is provisional;
+  the remaining 55 short forms are listed in `docs/short-forms.md` for the user's sign-off.
+- I4: the battle banner messages are stpcpy chains with no separator: "<enemy>" + r0D1FAC (100-byte stack buffer),
+  "<item>" + r0D2234 (32-byte buffer), amount + r0D2270. The English read "Geninappeared!": the suffixes now carry a
+  leading space (`lint.EDGE_OK`), and `windows.json` `composed` makes the lint check name + suffix against the
+  buffer and the 230-px banner. The credit pairs have no code-literal reader (script-record field): check in game.
+- I5: stub last lines fail the lint; `batches.py wrap` re-wraps balanced (193 dialogue entries); meant ones in
+  `script/keep_stub.txt`. Minors: jp_left `--known tools/jp_known.txt`; check.py runs `batches.py check` (now 3 s);
+  short forms keep the Avoid check; tests for stale readers and per-table write counts.
+- Also: r0CFF38 "Kisarag" -> "Kisaragi Mansion". The "<item>を<n>個" message (0x08017FCE, RAM buffer 0x03004EE0)
+  reads "Item:3pcs": check where it shows in phase 8.
 
 ## Phase 7 (done)
 - `build.py insert_rom_strings` relocates every translated ROM string longer than its slot: written after the
@@ -96,7 +112,8 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
       114 px (save slot 現在地); ROM strings: item_list 69 px and equip_list 70 px (rec18), battle_name 54 px and
       menu_name 48 px (char_short), skill_list 72 px (battle, skill_name2), skill_party 76 px (both skill copies),
       battle_banner 230 px (skill_name, enemy_name). Map names (map_name table) show only in the leftover debug
-      menu; credits are graphics (phase 8).
+      menu. Credits: the staff/series pairs (0x0D22E8.., reached from script-record fields such as 0x104090) are
+      text drawn by the printer; any logo or title art in the credits is graphics (phase 8 checks both).
     - The "ASCII skill name blanks the battle skill list" bug was a shot-timing artefact (the window opens 0-6 frames
       later in some builds; shots at 2696-2700 catch it empty). `tools/bisect_marker.py --ink FRAME:X,Y,W,H[:N]`
       bisects a visual predicate now.
@@ -112,4 +129,5 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
     battle banner), not by VWF width; SFX names (`sfx.json`) probably sprites via the kana lookup 0x0D9C58; the
     graphics-text survey groups; `{g}` width in game.
 - **Open bugs:** none.
-- **Waiting on the user:** nothing.
+- **Waiting on the user:** (not blocking) sign-off on the D8 short forms in `docs/short-forms.md`: keep each, give
+  another, or ask for the column re-layout. The run continues with them as shipped.

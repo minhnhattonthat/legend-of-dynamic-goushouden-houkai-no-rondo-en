@@ -1,0 +1,7 @@
+# Phase 7 review I4: the enemy banner is stpcpy(name) + stpcpy(this), no separator
+# r0D2234 / r0D2270: glued after the item name / amount the same way (0x0808C1CA, 0x0808C23E)
+# r0CFF38: was cut to 7 bytes ("Kisarag"); it has a pointer, so it relocates
+r0D1FAC	 appeared!
+r0D2234	 stolen!
+r0D2270	 yen stolen!
+r0CFF38	Kisaragi Mansion

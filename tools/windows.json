@@ -27,7 +27,7 @@
     "px": 230,
     "font": "half",
     "categories": ["skill_name", "enemy_name"],
-    "status": "measured (bar); the enemy name + message total is not linted (sprintf)",
+    "status": "measured (bar); composed messages (name + suffix) are checked through the top-level `composed` list",
     "shot": "game_over marker build f2580 ('DE6A8:aD1FAC:abcde' from x=0), f2910 ('DBDEC:abcde' from x=43), f3110 ('DBD68:a' from x=71) (work/qa/bf_goushouden_marker, JP: work/qa/bf_goushouden_en)"
   },
   "menu_name": {
@@ -113,5 +113,23 @@
     "px": 84,
     "status": "measured",
     "shot": "name entry takes 7 chars (work/qa/namelen3: the 8th A confirms); kana draw at 12 px in a line ('|{p}|' with the default メイン = 36 px, work/qa/pvar), so 7 x 12. The JP keeps the same room (<= 9 other chars beside {p})"
-  }
+  },
+  "composed": [
+    {
+      "what": "'<enemy> appeared!': 0x080870E4 stpcpy(sp+0x28, enemy name) then stpcpy(end, r0D1FAC), no separator (the suffix carries its own leading space); stack buffer sp+0x28..sp+0x8C (frame sub sp,#0xA4 at 0x08087032; next local sp+0x8C) = 100 bytes; printed by 0x08086B38",
+      "names": [8255760, 8279220, 92],
+      "names_hex": "enemy_name table 0x7DF910..0x7E54B4 stride 0x5C",
+      "suffix": "r0D1FAC",
+      "bytes": 100,
+      "box": "battle_banner"
+    },
+    {
+      "what": "'<item> stolen!': 0x0808C1BA item name (0x08014E10: table 0x7C55D8, stride 0x18) stpcpy'd to sp+4, then stpcpy(end, r0D2234), no separator; buffer sp+4..sp+0x24 (the next local, a 32-byte struct copy) = 32 bytes; printed by 0x08086B38. The gold form (0x0808C238: itoa then r0D2270 ' yen stolen!') needs <= 19 digits: not linted",
+      "names": [8148440, 8157364, 24],
+      "names_hex": "item records 0x7C55D8..0x7C78B4 stride 0x18",
+      "suffix": "r0D2234",
+      "bytes": 32,
+      "box": "battle_banner"
+    }
+  ]
 }

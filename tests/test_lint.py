@@ -63,6 +63,25 @@ class LintTest(unittest.TestCase):
         lint.lint_rom(dict(e, en="Tomahawk Panther"), errs)
         self.assertTrue(any("battle_name field" in m for m in errs), errs)
 
+    @unittest.skipIf(lint.char_widths() is None, "no ROM dump")
+    def test_enemy_banner_composed(self):
+        # an enemy name (enemy_name table 0x7DF910, stride 0x5C) is checked with " appeared!" glued on (review I4)
+        self.assertTrue(lint.rom_en("r0D1FAC").startswith(" "))
+        e = {"id": "r0DE6A8", "jp": "下忍", "max": 7, "ptrs": ["7DF910"], "status": "", "notes": ""}
+        errs = []
+        lint.lint_rom(dict(e, en="Genin"), errs)
+        self.assertEqual(errs, [])
+        lint.lint_rom(dict(e, en="Mechanical Beast Baron Ashura the Great"), errs)
+        self.assertTrue(any("appeared!" in m and "px" in m for m in errs), errs)
+        errs = []
+        lint.lint_rom(dict(e, en="i" * 95), errs)
+        self.assertTrue(any("buffer" in m for m in errs), errs)
+        # an item name in "<item> stolen!" (32-byte buffer)
+        errs = []
+        item = {"id": "r0DCB58", "jp": "回復薬", "max": 7, "ptrs": ["7C55F0"], "status": "", "notes": ""}
+        lint.lint_rom(dict(item, en="i" * 24), errs)
+        self.assertTrue(any("32-byte" in m for m in errs), errs)
+
     def test_stub_last_line_fails(self):
         e, _ = self.errs("名前\nあ\nい", "Name\nThis is a long line\nso.")
         self.assertTrue(any("stub last line" in m for m in e), e)

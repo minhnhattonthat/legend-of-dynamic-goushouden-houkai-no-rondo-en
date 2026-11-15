@@ -25,7 +25,7 @@ r0DC100	Quick Draw
 r0DC110	Cleave
 r0DC11C	Cleave
 r0DC128	Getter Missile
-r0DC13C	Cut
+r0DC13C	Sword
 r0DC140	Dirty Fight
 r0DC14C	Dirty Fight
 r0DC15C	Photon Beam
@@ -47,15 +47,15 @@ r0DC208	Psycho Shock
 r0DC218	Death Punch
 r0DC224	Zanbato
 r0DC22C	Zanbato
-r0DC238	Mask
+r0DC238	Death Mask
 r0DC240	Gravity
 r0DC248	Gravity
 r0DC258	Iron Guard
 r0DC264	Iron Guard
 r0DC274	Friends
 r0DC27C	Friends
-r0DC28C	Stars
-r0DC294	Stars
+r0DC28C	Shuriken
+r0DC294	Shuriken
 r0DC2A0	Bile
 r0DC2A8	Bile
 r0DC2B4	Tendril
