@@ -18,6 +18,8 @@ Tools written in recon: `tools/packed.py` (all packed formats; `tests/test_codec
 (self-relative asset tables from unpack logs), `tools/romcover.py` (uncovered ROM ranges), `tools/gfxsweep.py` +
 `tools/sweep_quarters.py` + `tools/sweep_review.sh` + `tools/sweep_merge.py` (static graphics sweep),
 `tools/lua/unpacklog.lua` (log/dump every unpack), `tools/lua/watchval.lua` (log nonzero writes with registers).
+Phase 3: `tools/archive.py` (script archive read/rebuild, slot split/join), the lh5 encoder in `tools/lh5.py`,
+`build.py` (`--verify` identity, `--reencode` encoder test build), `tests/test_identity.py`.
 
 ## Gotchas
 - `watch.lua` logs the first write per PC, often a clear; use `tools/lua/watchval.lua` to see real values.
@@ -27,3 +29,5 @@ Tools written in recon: `tools/packed.py` (all packed formats; `tests/test_codec
 - Mesen Lua can patch the loaded ROM (`emu.write(off, v, emu.memType.gbaPrgRom)`) and set CPU registers
   (`emu.setState({["cpu.r0"]=n})`) from an exec hook: that is how warp.lua drives the debug menus.
 - The debug top menu ignores input for ~25 frames after it appears; route presses before that are lost.
+- Script archive: an unused message slot has offset 0; file 53 has slots 0..62 only. lh5.decode's byte count is
+  exact for these streams (next file offset = start + consumed), so archive.read() checks it per file.

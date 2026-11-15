@@ -28,6 +28,15 @@ sets, type 3 for small blocks (8 seen).
 - Decoder state at 0x030003xx: 0x0300039C source base, 0x030003A0 source position, 0x03000288 bytes left,
   0x03004024 bit buffer; 8 KiB ring at mask 0x1FFF; `len = sym - 253`; NC 510, NP 14, NT 19, CBIT 9, PBIT 4, TBIT 5.
   The read layer at 0x08006ECC / 0x08006F04 streams output and supports skipping (seek by decoding).
-- `tools/lh5.py`: `decode(data, off, size)`, `unpack(data, off)`. The encoder is not written yet (phase 3); the
-  identity test must re-encode the script archive (or keep original streams for unchanged files).
+- `tools/lh5.py`: `decode(data, off, size)`, `unpack(data, off)`, `encode(raw)` / `pack(raw)` (phase 3: greedy +
+  one-step lazy LZ, max distance 8191, package-merge Huffman <= 16 bits, blocks of 0x4000 symbols). Not
+  byte-identical to the original packer, but smaller (script archive 153,939 vs 154,060 bytes).
+  **verified**: decode(encode(x)) == x for all 54 archive files and all 10,106 scanned packed blocks; a build with
+  every archive file re-encoded (`build.py --reencode`) shows the same dialogue as the original at map_290.
+- Identity build (`build.py --verify`, `tests/test_identity.py`): unchanged archive files keep their original
+  stream, so the rebuilt ROM is byte-identical; edited files are re-encoded.
+- **Edited graphics plan**: repack any edited block as type 2 (`lh5.pack`), whatever its original type, since
+  unpack() dispatches on the header. **guess** until phase 8 boots one: no caller is known to call a codec
+  handler directly. lh5 is smaller in total (4.55 MB vs 5.20 MB over the scanned blocks) but 676 small blocks
+  grow, so an edited block may need relocation and its self-relative table entry rewritten.
 - BIOS LZ77 (type 0x10 via SWI): only 5 tiny blocks in the ROM.
