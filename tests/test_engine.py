@@ -13,7 +13,8 @@ ROM = ROOT / "rom" / "Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba
 
 # Where the build may write: archive pointer literals, the 12-px font, the free slot, ROM strings, new space.
 ALLOWED = [(s, s + 4) for s in archive.POINTER_SITES] + [(site, site + 4) for site, _ in engine.ADV_SITES] + [
-    (engine.FONT12, engine.FONT12 + 1691 * 24), engine.FREE, (0x0CD95C, 0x0D5000), (0x0D9000, 0x0DF000),
+    (site, site + 4) for site, _ in engine.HALF_SITES] + [
+    (engine.FONT12, engine.FONT12 + 1691 * 24), (engine.FONT6, engine.FONT6 + engine.FONT6_COUNT * 24), engine.FREE, (0x0CD95C, 0x0D5000), (0x0D9000, 0x0DF000),
     (engine.NEW_ARCHIVE, engine.ROM_SIZE)]
 
 
@@ -59,6 +60,18 @@ class EngineTest(unittest.TestCase):
         self.assertEqual(w[sjis.encode("\u3000")], engine.SPACE_ADV)
         self.assertTrue(all(1 < a <= 12 for a in w.values()))
         self.assertLess(w[sjis.encode("ｉ")], w[sjis.encode("ｍ")])
+
+    def test_half_widths(self):
+        w = engine.half_widths(self.orig)
+        self.assertEqual(w[sjis.encode("　")], engine.HALF_SPACE_ADV)
+        self.assertTrue(all(1 < a <= engine.HALF_ADV for a in w.values()))
+        self.assertEqual({w[sjis.encode(sjis.fullwidth(d))] for d in "0123456789"}, {engine.HALF_ADV})
+        self.assertLess(w[sjis.encode("ｉ")], w[sjis.encode("ｍ")])
+
+    def test_half_sites_call_the_hook(self):
+        for site, _ in engine.HALF_SITES:
+            hi, lo = struct.unpack_from("<HH", self.out, site)
+            self.assertEqual((hi & 0xF800, lo & 0xF800), (0xF000, 0xF800), "site %X is not a BL" % site)
 
     def test_hook_free_space(self):
         end = engine.apply(bytearray(self.orig), lambda *a: None, self.orig)

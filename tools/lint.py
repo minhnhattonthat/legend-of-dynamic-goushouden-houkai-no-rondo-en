@@ -1,0 +1,147 @@
+"""lint.py: text lint over script/ (run by tools/check.py; exit 1 on any error).
+
+  python -X utf8 tools/lint.py [--warn]     errors + a one-line summary; --warn also lists the warnings
+
+Per translated entry (en non-empty, status not "data"):
+  - ASCII only, no Japanese left; no `\\` (draws as the yen sign) or backtick (draws as a space); no literal `!R` / `!W`
+    (the printer reads them as codes; write {!R} / {!W} only where the JP has them)
+  - control codes: the multiset of {p} {s} {g} {!R} {!W} [XX] equals the JP's
+  - leading / trailing blanks and blank lines (page breaks) match the JP
+  - script archive: the speaker line fits the name tag (tools/windows.json name_tag); body lines fit the dialogue
+    budget in px (line 1 / line 2 of each 2-line page, engine.half_widths; {p}/{s} count as name_var px)
+  - ROM strings: encoded bytes <= max (in place for now)
+Warnings (summary count; --warn lists them): a stub last line (< 6 chars) in a multi-line paragraph.
+"""
+import argparse
+import collections
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "tools"))
+
+import engine  # noqa: E402
+import extract  # noqa: E402
+import sjis  # noqa: E402
+
+TOKEN = re.compile(r"\{(?:p|s|g|!R|!W)\}|\[[0-9A-F]{2}\]")
+JP = re.compile(r"[぀-ヿ一-鿿＀-￯　-〿]")
+WINDOWS = json.loads((ROOT / "tools" / "windows.json").read_text(encoding="utf-8"))
+_WIDTHS = None
+
+
+def char_widths():
+    """{ascii char: advance px} in the half-width font, from the original ROM (None without a dump)."""
+    global _WIDTHS
+    if _WIDTHS is None:
+        if not extract.ROM.exists():
+            return None
+        rom = extract.ROM.read_bytes()
+        pairs = engine.ascii_pairs(rom)
+        hw = engine.half_widths(rom)
+        _WIDTHS = {chr(c): hw.get(p, engine.HALF_ADV) for c, p in pairs.items()}
+    return _WIDTHS
+
+
+def line_px(line, widths):
+    var = WINDOWS["name_var"]["px"]
+    px = 0
+    for part in re.split(r"(\{[^}]*\}|\[[0-9A-F]{2}\])", line):
+        if part in ("{p}", "{s}"):
+            px += var
+        elif part.startswith("{") or part.startswith("["):
+            continue
+        else:
+            px += sum(widths.get(ch, 12) for ch in part)
+    return px
+
+
+def codes(text):
+    return collections.Counter(TOKEN.findall(text))
+
+
+def common(e, errs):
+    en, jp = e["en"], e["jp"]
+    bare = TOKEN.sub("", en)
+    if JP.search(en):
+        errs.append("%s: Japanese left in en" % e["id"])
+    bad = sorted({ch for ch in bare if not (" " <= ch <= "~" or ch == "\n") or ch in "\\`"})
+    if bad:
+        errs.append("%s: characters the font can't draw: %r" % (e["id"], "".join(bad)))
+    if "!R" in bare or "!W" in bare:
+        errs.append("%s: literal !R / !W (a printer code); reword" % e["id"])
+    if codes(en) != codes(jp):
+        errs.append("%s: control codes differ: jp %s en %s" % (e["id"], dict(codes(jp)), dict(codes(en))))
+    lead = lambda s: len(s) - len(s.lstrip(" 　\n"))  # noqa: E731
+    trail = lambda s: len(s) - len(s.rstrip(" 　\n"))  # noqa: E731
+    if bool(lead(jp)) != bool(lead(en)) or bool(trail(jp)) != bool(trail(en)):
+        errs.append("%s: leading/trailing blanks differ from the JP" % e["id"])
+
+
+def lint_archive(e, widths, errs, warns):
+    en, jp = e["en"], e["jp"]
+    el, jl = en.split("\n"), jp.split("\n")
+    if (el[0] == "{p}") != (jl[0] == "{p}") or (el[0] == "{s}") != (jl[0] == "{s}"):
+        errs.append("%s: speaker line must stay %s" % (e["id"], jl[0]))
+    if len(sjis.encode(el[0])) > WINDOWS["name_tag"]["bytes"]:
+        errs.append("%s: speaker %r over the name tag's %d bytes" % (e["id"], el[0], WINDOWS["name_tag"]["bytes"]))
+    if [i for i, s in enumerate(jl) if not s.strip()] and not [s for s in el[1:] if not s.strip()]:
+        errs.append("%s: the JP has page breaks (blank lines), the en none" % e["id"])
+    body = "\n".join(el[1:])
+    for para in body.split("\n\n"):
+        lines = para.split("\n")
+        for k, line in enumerate(lines):
+            if widths is not None:
+                budget = WINDOWS["dialogue"]["line1_px" if k % 2 == 0 else "line2_px"]
+                px = line_px(line, widths)
+                if px > budget:
+                    errs.append("%s: line %r is %d px, page line %d holds %d" % (e["id"], line, px, k % 2 + 1, budget))
+        if len(lines) > 1 and len(lines[-1].strip()) < 6:
+            warns.append("%s: stub last line %r" % (e["id"], lines[-1]))
+
+
+def lint_rom(e, errs):
+    off = int(e["id"][1:], 16)
+    text = sjis.fullwidth(e["en"]) if off in extract.FULLWIDTH else e["en"]
+    n = len(sjis.encode(text))
+    if n > e["max"]:
+        errs.append("%s: %d bytes, room for %d" % (e["id"], n, e["max"]))
+
+
+def run(show_warn=False):
+    widths = char_widths()
+    errs, warns = [], []
+    done = todo = 0
+    for path in sorted((ROOT / "script").glob("*/*.json")):
+        for e in json.loads(path.read_text(encoding="utf-8")):
+            if e.get("status") == "data" or not e["jp"].strip():
+                continue
+            if not e["en"]:
+                todo += 1
+                continue
+            done += 1
+            common(e, errs)
+            if path.parent.name == "archive":
+                lint_archive(e, widths, errs, warns)
+            elif "max" in e and e["id"].startswith("r"):
+                lint_rom(e, errs)
+    for m in errs:
+        print("ERROR", m)
+    if show_warn:
+        for m in warns:
+            print("warn ", m)
+    print("lint: %d translated, %d to do, %d errors, %d warnings%s" % (
+        done, todo, len(errs), len(warns), "" if widths else " (no ROM: widths not checked)"))
+    return not errs
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--warn", action="store_true")
+    sys.exit(0 if run(ap.parse_args().warn) else 1)
+
+
+if __name__ == "__main__":
+    main()

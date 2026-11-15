@@ -41,6 +41,17 @@
   the window's cell width ([win + mode*16 + 4]) is 12; other fonts and Japanese glyphs keep their advance.
 - Fullwidth Latin input (player names typed on the 英語 tab, fields encoded with `sjis.fullwidth`) gets the same
   widths, because the delta table is keyed by the SJIS pair.
+- **Plain ASCII does not draw with the 12-px font.** In dialogue it switches the window to font mode 3, the
+  half-width font 0x081FE078 (286 glyphs, same charset index, ink <= 5 px, advance 6), so the 12-px VWF above only
+  covers fullwidth input (names typed on the 英語 tab, `extract.FULLWIDTH` fields). Verified with
+  `tools/lua/advprobe.lua` at map_290: mode 3, pair at [sp+0x1C..0x1D] at every half-width advance.
+- **Half-width VWF** (`engine.HALF_SITES`, verified in game with a torture line): its 4 advance sites are
+  `adds r0, r7, #6; ldr rX, [sp, #0x38]` at 0x0F288, 0x0F300, 0x0F316 (rX = r3), 0x0F352; each becomes `bl` to a
+  stub that returns pen + 6 - HDELTA[pair] and reloads rX. The ASCII glyphs move to column 0, advance = ink + 1,
+  space 3; digits keep 6 px (number columns). Kana in a mode-3 line (a `{p}` name) still advance 12.
+- Glyph torture line (map_290): every printable ASCII draws; `\` is the yen sign and `` ` `` a blank (SJIS), so
+  the lint bans both. `"` and `'` draw as ” and ’.
+- Text is not clipped by the box: a long line draws over the border up to x=232 (24 tiles from x=40), then stops.
 - Not yet covered: the 8 and 16 px fonts (other window modes), and draw paths outside 0x0800E898 (the other
   callers of 0x0800AC34: 0x0800B6F2..0x0800DFD4 are inside the printer's glyph writers; menus still to check in
   the marker tour).

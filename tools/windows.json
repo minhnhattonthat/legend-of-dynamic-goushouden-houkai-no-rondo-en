@@ -1,0 +1,23 @@
+{
+  "_doc": "Measured text budgets per box variant (phase 5 width gate), read by tools/lint.py. px = sum of the half-width VWF advances (engine.half_widths) of the line; English is plain ASCII drawn with the half-width font (window font mode 3). status: measured (with the shot) or guess.",
+  "dialogue": {
+    "what": "script archive message body: the speaker box with a portrait (text from x=40); the engine pages every 2 lines, a blank line forces a new page, the page arrow sits at the right end of the 2nd line",
+    "line1_px": 192,
+    "line2_px": 184,
+    "lines_per_page": 2,
+    "status": "measured",
+    "shot": "map_290 with build.py --qa 34.10=...: 130 x I clipped at x=232 (pen 192); arrow at x=225-230 on line 2 (work/qa/torture3, work/qa/torture5)"
+  },
+  "name_tag": {
+    "what": "first line of a script archive message (speaker); the tag box grows with the byte count, about 6 px per byte from x=8",
+    "bytes": 36,
+    "status": "measured",
+    "shot": "map_290, 'Baron Ashura (Male) Professor Kuruma' (36 bytes) fits, box ends at x=229 (work/qa/tag)"
+  },
+  "name_var": {
+    "what": "{p} / {s}: the player-entered hero / heroine name, inserted at run time; counted at this width in a line",
+    "px": 84,
+    "status": "measured",
+    "shot": "name entry takes 7 chars (work/qa/namelen3: the 8th A confirms); kana draw at 12 px in a line ('|{p}|' with the default メイン = 36 px, work/qa/pvar), so 7 x 12. The JP keeps the same room (<= 9 other chars beside {p})"
+  }
+}
