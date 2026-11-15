@@ -2,7 +2,26 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; S7 map signs started: pharmacy plate done on maps 135 244 309 310; 18 sweep rows left; then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (graphics sweep closed: gfxleft 0; next the gate tour: tour sheets, qa_gate, vqa.sh, then inkbox, textcover, and the not-yet-seen labels). Phase 7 done 2026-11-16.
+
+## Phase 8 session 11 (2026-11-16): field teleport, S7 signs closed
+- **Teleport:** warp.lua step `at=X:Y` (player pixels at map load; camera = X-120, Y-88; docs/re/debug.md §Field
+  teleport). The game redraws the visible area screen-relative, so a ppudump of a teleported warp (camera a multiple
+  of 8) is the real screen: gfxlabel SCREENS can point at such a scene. `tools/debug/mapshot.py N..` stitches whole
+  maps (work/qa/maps/map_NNN.png + .txt with the at= per screen); warp.lua logs `FIELD map WxH cells camera X,Y`.
+- **S7 done:** every map that loads an S7 tile set rendered whole (44 maps). Only signs: the pharmacy plate
+  間身井薬局 on 135/147 (661050, sign135 already covers 147: same tiles; scene sign147 is its check), 245 (73E49C:
+  new sign245), 244, 309/310. All seen MUMMY / DRUGS in cold-boot EN warps (sign245, sign147, map_135). The other
+  tile sets place no sign anywhere (triaged in graphics_nodiff.tsv with the reason), 66D610 / 674910 / 3086C8 /
+  426368 never load, 301D08 = world-map building icons. `gfxleft.py`: 0 left.
+- warp_all: title_menu2 needs 3000 frames (MIN_FRAMES). Under load some original-ROM runs fail at start (exit 2,
+  no run dir): rerun those with `--only`.
+- **Next, in order:** (1) gate tour: tour_en (rerun on build 0dceb5e's ROM, in progress at session end if not in
+  work/qa/tour_en/summary.tsv) + tour_jp -> `tools/tour_sheets.py` -> `qa_gate.py init work/qa/manifest.tsv
+  work/qa/tour --glob "*.png" --build build/goushouden_en.gba` -> `qa_gate.py todo ... --size 12 --out-dir
+  work/qa/chunks` -> `JOBS=3 sh tools/vqa.sh` -> fix issues -> `qa_gate.py check`. (2) inkbox on choice/centred
+  boxes, textcover. (3) Labels drawn but not seen: RESUME (2FE9B8), SHOP (2F91C4), SYM (2F8BB8), CRITICAL!!/MISS
+  popups: find a scene for each or record why none exists.
 
 ## Phase 8 session 10 (2026-11-16): pharmacy plate fix, map-camera recon (partial)
 - **Fixed:** sign244's copy step had written MUMMY/DRUGS pieces into 7A0DD0, whose plate is a different 5-kanji
