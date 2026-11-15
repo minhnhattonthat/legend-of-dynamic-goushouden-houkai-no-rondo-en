@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; 16 sweep blocks left: S7 map signs (13 tilesets), 301D08, 3086C8, 426368; then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; 21 sweep rows left: S7 map signs (15 tilesets), 301D08, 3086C8, 426368; then the gate tour). Phase 7 done 2026-11-16.
 
 ## Phase 8 session 8 (2026-11-16): title menu, spoils page 2, shop banner, sweep triage
 - **Where the leftovers load:** `warp_all.py` now passes `--var` to probes; `--script tools/lua/unpackat.lua --var
@@ -19,7 +19,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   kept index; `x=` fixes the left edge) and `outline=None`. 1-row strips (battle2) unchanged.
 - graphics_nodiff.tsv: 2F74E4 / 2F7578 (party panel frame tiles), 7 malformed rows inside done blocks, 2F3E74
   (digit font), 4F23B0 (title OBJ art: eclipse arcs).
-- **Left (gfxleft: 16):**
+- **Left (gfxleft: 21 rows):**
   - **S7 map signs:** tileset blocks at BG 0x06008000: 553FE8 (map_002-004), 56B4C0 (map_011-016), 5767BC
     (017-020), 59184C (026-030), 5C11B8 (045), 632C74 (109), 637A28 (115-126+), 661050 (129 135 139 147), 66A918
     (131 136), 6702B4 (133), 673C2C (134), 67A910 (046 137 138), 73C13C (244), 73E49C (245), 7A0DD0 (309 310).
