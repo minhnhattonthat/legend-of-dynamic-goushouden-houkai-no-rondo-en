@@ -18,7 +18,9 @@ work/qa/review/fixesN.tsv and applied by `tools/apply_fixes.py` (whole entries b
   Hoin Taishi), Eisanbo Daihon (was Omoto Eisanbo), Hakase (was Hakayo). speakers.tsv updated to match.
 - Round 2 (work/qa/review/reports2/) on the 45 batches touched in round 1 (b005-b013 b017 b019 b020 b024 b025
   b033 b034 b037 b038 b040 b042-b050 b052-b058 b071-b073 b078 b079 b082 b084-b086 b001): **stopped by the host
-  for low memory** after b005-b010 (1 Important, fixed in fixes3: 04.76; Minors appended to polish.md). Re-run
+  for low memory** after b005-b010; codex runs it had started still finished b011-b013 b019 (all Approved). 1
+  Important so far, fixed in fixes3 (04.76); Minors appended to polish.md (minor2.tsv, minor2b.tsv). Any other
+  report that lands in reports2/ later is from those orphaned runs: read it with review_findings.py before re-running. Re-run
   with `R=work/qa/review/reports2 JOBS=3 sh tools/review.sh <same list>` (it skips the 6 done; use JOBS=3, six
   codex processes at once ran the machine low on memory), fix any C/I, then phase 6 is done.
 - Book cut added: series title "Iyahaya" for イヤハヤ南友 (B00.88 B00.89 B01.29 B01.39 B01.40): "Iyahaya Nantomo"
