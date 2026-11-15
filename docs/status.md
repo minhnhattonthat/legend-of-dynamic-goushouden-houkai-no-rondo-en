@@ -20,7 +20,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     - Fixed: `.gitignore` `rom/` hid `script/rom/` (1,849 ROM strings were never committed); now `/rom/`.
     - Dialogue box: 1 line held ~32 capitals (`ABCDEFGHIJ` x3 + `AB`) before clipping at the right edge.
 - **Next (phase 5, `references/pipeline.md` §Marker + §Width gate):**
-  - Review the marker tour `work/qa/marker_tour/shots/` (rerun: `python -X utf8 tools/debug/warp_all.py
+  - The first marker tour (`--jobs 4`) was stopped by Claude Code's low-memory guard after 46 of 340 scenes (43 ok;
+    retail_newgame, game_over, ending_credits FAIL "no WARP_DONE", probably cut off by the kill, not real: rerun
+    them alone). Rerun with `--jobs 1` or 2 after checking free memory, then review `work/qa/marker_tour/shots/` (rerun: `python -X utf8 tools/debug/warp_all.py
     build/goushouden_marker.gba --out work/qa/marker_tour --jobs 2`; send the shots to a read-only pass in chunks).
     Look for: Japanese left (text not extracted), blank or garbled boxes (non-text strings -> `DATA_SPANS`), menus
     drawn by fonts or paths the VWF doesn't cover yet (8/16 px fonts: their cell width isn't 12, the hook skips them).
