@@ -1,0 +1,208 @@
+   ctx 51.98 | Banko | ち 違うよ かあちゃん！ /  / 学校に行ったらさ / 誰も いねぇんだよ！
+   ctx EN: N-no, Ma!  I went to school, but there was nobody there!
+   ctx 51.99 | Banchiyo | あたしをごまかそうったって / そうは いかないわよ！
+   ctx EN: Don't think you can fool me!
+>> 52.00 | Boy | ホントよ おばさま！
+   EN: It's true, ma'am!
+>> 52.01 | Banchiyo | ホントなの？ /  / いや～ねぇ さっさと言ってよ / 蛮子！
+   EN: Is it true?  Oh, honestly, you should've said so sooner, Banji!
+>> 52.02 | Banko | そう言ったじゃん！
+   EN: I DID say so!
+>> 52.03 | {p} | 学校に行ったら / 誰も いなかった…？
+   EN: When he went to school, nobody was there...?
+>> 52.04 | Akira Fudo | もしかすると例の…
+   EN: Could it be that thing...
+>> 52.05 | Banko | 何か心当たりあるのかい？
+   EN: You got some idea what's goin' on?
+>> 52.06 | {p} | 実は…
+   EN: Actually...
+>> 52.07 | Banchiyo | 血が騒ぐぜ…！
+   EN: My blood's pumpin'...!
+>> 52.08 | Banko | ちょっと かあちゃん！
+   EN: Hey, Ma!
+>> 52.09 | Banchiyo | この話を聞いて 戦う意欲が / 沸かないのかい 蛮子！ / かあさんは おまえを そんな子に / 育てた覚えは ないよ！
+   EN: Hearing that, don't you feel the urge to fight, Banji!? I don't remember raising you to be that kind of kid!
+>> 52.10 | Banchiyo | {p}君！ / 女蛮千代 あなたに協力するわ！ / いいわね 蛮子！ / 男子ちゃん！
+   EN: {p}-kun! Banchiyo Suke will help you! You hear me, Banji! You too, Danshi-chan!
+>> 52.11 | Boy | え？ / あたしも！？
+   EN: Huh? Me too!?
+>> 52.12 | Banko | 大丈夫！ / 男子は俺が守っから！
+   EN: Don't worry! I'll protect Danshi!
+>> 52.13 | Banko | よろしくな 明！ / {p}！
+   EN: Good to have ya, Akira! {p}!
+>> 52.14 | {p} | これが… カイム・シレーヌ /  / なんて恐ろしくて… / なんて美しいんだろう…
+   EN: So this is... Kaim Sirene.  So terrifying... and so beautiful...
+>> 52.15 | {p} | カイム・シレーヌの身体に / 黒い魔物が…！
+   EN: A black fiend is on Kaim Sirene's body...!
+>> 52.16 | Sirene | ギャアアア！ /  / おのれ 私の身体を / 乗っ取ろうとするのは何者だ！
+   EN: GYAAAAH!  Curse you, who dares try to take over my body!
+>> 52.17 | Sirene | おのれ 貴様か！？
+   EN: Curse you, was it you!?
+>> 52.18 | Sirene | …う う～ん /  / はっ！？ / わ 私は…？
+   EN: ...Uhh... nnn...  Huh!? Wh-what happened to me...?
+>> 52.19 | {p} | あなたは 黒い魔物に / 操られていたんです
+   EN: You were being controlled by a black fiend.
+>> 52.20 | Sirene | 黒い魔物？ / なんだそれは…？
+   EN: A black fiend? What's that...?
+>> 52.21 | {p} | 実は…
+   EN: Actually...
+>> 52.22 | Sirene | この私が / 人間に救われるとは… / 妖鳥シレーヌも / 落ちぶれたものよ…
+   EN: To think I'd be saved by a human... Sirene the bird-demon has truly fallen low...
+>> 52.23 | {p} | ………
+   EN: .........
+>> 52.24 | Sirene | だが！ / こうしてはおれぬ！ / {p}！ / 貴様の話が本当ならば / 我がデーモンをしのぐ敵が / 地上を狙っていることになる！ / 私は貴様に手を貸そう /  / この地球を 魔王とやらに / 奪われてたまるか！
+   EN: But! This is no time for that! {p}! If your story is true, an enemy surpassing even we Demons is after the surface! I'll lend you a hand.  I won't let this Earth be taken by some Demon King!
+>> 52.25 | {p} | これが… カイム・シレーヌ
+   EN: So this is... Kaim Sirene.
+>> 52.26 | Akira Fudo | 俺は かつて こいつほど強く / 美しい敵を知らない…
+   EN: I've never known an enemy as strong and beautiful as her...
+>> 52.27 | Akira Fudo | 下がれ {p}！
+   EN: Get back, {p}!
+>> 52.28 | Akira Fudo | あれを見ろ！
+   EN: Look at that!
+>> 52.29 | {p} | カイム・シレーヌの身体に / 黒い魔物が…！
+   EN: A black fiend is on Kaim Sirene's body...!
+>> 52.30 | Sirene | ギャアアア！ /  / おのれ 私の身体を / 乗っ取ろうとするのは何者だ！
+   EN: GYAAAAH!  Curse you, who dares try to take over my body!
+>> 52.31 | Sirene | おのれ デビルマン！ / またしても貴様か！？
+   EN: Curse you, Devilman! You again!?
+>> 52.32 | Sirene | …う う～ん
+   EN: ...Uhh... nnn...
+>> 52.33 | Sirene | はっ！？ / わ 私は…？
+   EN: Huh!? Wh-what happened to me...?
+>> 52.34 | Akira Fudo | シレーヌ おまえは / 黒い魔物に操られていたんだ
+   EN: Sirene, you were being controlled by a black fiend.
+>> 52.35 | Sirene | 黒い魔物？ / なんだそれは…？
+   EN: A black fiend? What's that...?
+>> 52.36 | {p} | 実は…
+   EN: Actually...
+>> 52.37 | Sirene | よもや貴様らに救われるとは… /  / 妖鳥シレーヌも / 落ちぶれたものよ…
+   EN: To think I'd be saved by you of all people...  Sirene the bird-demon has truly fallen low...
+>> 52.38 | Akira Fudo | 気にいらねぇなら トドメを刺して / やっても いいんだぜ？
+   EN: If you don't like it, I can finish you off, y'know.
+>> 52.39 | {p} | 明君！
+   EN: Akira-kun!
+>> 52.40 | Sirene | その魔王とやらは 本当に世界を / 我が者にしようしているのか？
+   EN: This Demon King truly means to make the world his own?
+>> 52.41 | Akira Fudo | その通りだ
+   EN: That's right.
+>> 52.42 | Sirene | ならば{p}よ /  / 不本意ながら このシレーヌ / お前に 手を貸そう / この地球を 魔王とやらに / 奪われてたまるか！
+   EN: Then, {p},  much as it galls me, I, Sirene, will lend you a hand. I won't let this Earth be taken by some Demon King!
+>> 52.43 | {p} | シレーヌ…
+   EN: Sirene...
+>> 52.44 | Sirene | だが デビルマン！ 貴様と手を組む / わけでは ないぞ！ / 魔王を倒した後は…
+   EN: But Devilman! Don't think I'm joining hands with you! After the Demon King falls...
+>> 52.45 | Akira Fudo | 何度でも相手してやるぜ / シレーヌ！
+   EN: I'll take you on as many times as you like, Sirene!
+>> 52.46 | Mamii's Sister | オホホホ / おめでとうございま～す！ / あなたは 当店ご利用 / 大お得意様に 選ばれました！！
+   EN: Ohohoho! Congratulations! You've been chosen as one of our store's top VIP customers!!
+>> 52.47 | {p} | お得意様！？
+   EN: VIP customer!?
+>> 52.48 | Mamii's Sister | あら！？ / 記念品を 切らしてしまってるわ / オホホホ / しょうがないわねー / あたしを 記念品で / あげちゃいましょ！
+   EN: Oh my!? We're all out of commemorative gifts. Ohohoho, oh well. I'll just give you me as the gift!
+>> 52.49 | {p} | えーーっ！！
+   EN: Whaaat!!
+>> 52.50 | Mamii-kun | おね～タン 行ってしまうんかいな / お店 どないすんのやー？
+   EN: Big sis, you're leavin'? What about the store?
+>> 52.51 | Mamii's Sister | そーねー / 誰もいないのは 困るわねー / そうだ おと～とタン / あなたが やりなさいよ
+   EN: Hmm, I suppose it'd be bad with nobody here... Oh, I know, little brother, you run it!
+>> 52.52 | Mamii-kun | わいがでっか！ /  / よーし おね～タンの留守は / わいが守りまっせ！！
+   EN: Me!?  All right! I'll mind the store while big sis is away!!
+>> 52.53 | {p} | いっしょに行くのは嬉しいけど / 出かける準備は いいの？
+   EN: I'm glad you're coming, but are you ready to head out?
+>> 52.54 | Mamii's Sister | 服のかわりに バンソウコウさえ / あれば 大丈夫なのよ / 吹雪の大氷原でも / へっちゃらなの / さあ 出発しましょ！ / オホホホ
+   EN: As long as I've got sticking plasters instead of clothes, I'm fine! Even on a frozen plain in a blizzard, no problem! Now, let's go! Ohohoho!
+>> 52.55 | Ken Ishikawa | ムフフフ 僕 原作者 / 石川賢なのよね / 僕のキャラクター / みんな見つけてくれたのね / 慎一も 美勒も / たよりになるヤツなのねー / ここからは 僕も / お手伝いしてあげる / ゲッターのように / がんばるのよね～！
+   EN: Muhuhuhu, I'm the original creator, Ken Ishikawa, you know. You found all my characters, didn't you. Shinichi and Miroku are reliable guys, you know. From here on, I'll help you out too. I'll give it my all, just like Getter, you know!
+>> 52.56 | Go Nagai | あははは / 原作者でガス 永井豪でガス / たっぷり遊んでくれて / ありがとうでガス / これからは あっしも / お手伝いをするでガスよ / よろしくでガス！
+   EN: Ahahaha! I'm the original creator, gasu! Go Nagai, gasu! Thanks for playing so much, gasu! From now on, I'll be helping out too, gasu! Nice to meet ya, gasu!
+>> 52.57 | Mamii's Sister | ついに やったわねー / あたし達 勝ったのねー / でも 魔王が滅んじゃったから / うちの薬局 お客が減るわねー / 魔王 もう一回 / 復活しないかしら～
+   EN: We finally did it! We won! But with the Demon King gone, our pharmacy will lose customers... I wonder if the Demon King will come back to life just once more?
+>> 52.58 | {p} | 縁起でもないこと / 言わないでくださいよ / 間身井くんが待ってますよ / そろそろ帰ったほうがいいですよ
+   EN: Please don't say such ominous things. Mamii-kun is waiting for you. You'd better head home soon.
+>> 52.59 | Mamii's Sister | そーねー オホホホ / さんせい さんせい アルカリせい
+   EN: I suppose so, ohohoho! Agreed, agreed, and perfectly pH-balanced!
+>> 52.60 | {p} | 間身井くんにも よろしく！ /  / ホント / おもしろい おねーさんだったな
+   EN: Say hi to Mamii-kun for me!  She really was a funny lady.
+>> 52.61 | Ken Ishikawa | ムフフフ
+   EN: Muhuhuhu.
+>> 52.62 | {p} | ありがとうございました / 石川先生
+   EN: Thank you very much, Ishikawa-sensei.
+>> 52.63 | Ken Ishikawa | やったねー / ついに 魔王を倒したねー
+   EN: You did it, huh? You finally beat the Demon King.
+>> 52.64 | {p} | 石川先生や 仲間になってくれた / みんなのおかげです
+   EN: It's all thanks to you, Ishikawa-sensei, and everyone who joined us.
+>> 52.65 | Ken Ishikawa | どのキャラクターも / 強いヤツらばかりだからねー / これからも バンバン / 強いキャラクター達を描くから / ダイナミックのマンガを / 楽しみにしててね！ / それじゃあ / また あいましょうね～！
+   EN: Every one of those characters is a tough guy, you know. I'll keep drawing tough characters one after another, so look forward to Dynamic's manga! Well then, see you again!
+>> 52.66 | {p} | 先生も お元気で！！
+   EN: Take care, sensei!!
+>> 52.67 | Go Nagai | あははは
+   EN: Ahahaha.
+>> 52.68 | {p} | ありがとうございました / 永井先生
+   EN: Thank you very much, Nagai-sensei.
+>> 52.69 | Go Nagai | 楽しかったでガスな / また いっしょに遊ぶでガス / それじゃあ / さよならでガス！！
+   EN: That was fun, gasu! Let's play together again, gasu! Well then, goodbye, gasu!!
+>> 52.70 | {p} | あれ？ / よく考えてみると / 魔王が壊そうとした次元連鎖って / 永井先生が 生み出した世界… / 魔王のヤツ それに気づいて / 先生の所へ行かなきゃいいけど…
+   EN: Huh? Come to think of it, the Dimension Chain the Demon King tried to destroy is a world Nagai-sensei created... I hope the Demon King doesn't figure that out and go after sensei...
+>> 52.71 | Go Nagai | あははは / 大丈夫でガスよ / あっしのペンは / 無敵でガスからね
+   EN: Ahahaha! It's fine, gasu! My pen is invincible, gasu!
+>> 52.72 | {p} | ホント 大丈夫そうだね！
+   EN: Yeah, he really does seem fine!
+>> 52.73 |  | 消えかけた文字で / 「始まりの丘」と書いてある
+   EN: In fading letters, it says "Hill of Beginnings."
+>> 52.74 |  | そなえあれば うれいなし！ / この先 間身井薬局
+   EN: Better safe than sorry! Mamii Pharmacy ahead.
+>> 52.75 |  | お地蔵さまに 手をあわせましょう /  / ケガや 病気も たちまち回復 / みんな元気になるでしょう
+   EN: Put your hands together for the Jizo statue.  Injuries and illness will heal at once, and everyone will be full of energy.
+>> 52.76 |  | 「聖チャペル学園」と書いてある
+   EN: It says "St. Chapel Academy."
+>> 52.77 |  | ＨＰ ＤＰ が 回復した！ / みんな 元気になった！
+   EN: HP and DP restored! Everyone is full of energy!
+>> 52.78 |  | パートナー「{s}」が / アソートに加わった
+   EN: Partner "{s}" joined the party.
+>> 52.79 | Mamii's Sister | いらっしゃいませ
+   EN: Welcome!
+>> 52.80 | Mamii's Sister | ありがとうございました
+   EN: Thank you very much!
+>> 52.81 | Tobacchiri | いらっしゃいませ
+   EN: Welcome!
+>> 52.82 | Tobacchiri | ありがとうございました
+   EN: Thank you very much!
+>> 52.83 |  | パートナー「{s}」が / アソートから外れた
+   EN: Partner "{s}" left the party.
+>> 52.84 |  | {!R}Ｌボタンで ロボットメニューが / 開くようになりました / {!R}メニューでは ロボットへ乗り降り / ロボットの飛行が 選択できます / {!R}飛行中 もう一度Ｌボタンを押すと / 着地できます
+   EN: {!R}The L Button now opens the robot menu. {!R}From the menu you can board or leave a robot, or make it fly. {!R}While flying, press the L Button again to land.
+>> 52.85 |  | {!R}パートナーはバトラーとの組合せで / いろいろな効果を発揮する
+   EN: {!R}Partners bring out all kinds of effects depending on which battler they're paired with.
+>> 52.86 | Mamii-kun | いらっしゃいませ～
+   EN: Welcooome!
+>> 52.87 | Mamii-kun | ありがとうございました～
+   EN: Thank you very muuuch!
+>> 52.88 | Resident | アクセサリーは ステータス画面で / 忘れずに装備するんだよ / 持っているだけじゃ / 意味ないからね
+   EN: Don't forget to equip accessories on the status screen. Just carrying them does nothing.
+>> 52.89 |  | パートナー「{s}」が / アソートメンバーから外れた
+   EN: Partner "{s}" left the party members.
+>> 52.90 |  | {p}も / いれかえ可能に なりました / アソートメンバーの / 変更をしますか？
+   EN: {p} can now be swapped out too. Change party members?
+>> 52.91 |  | アソートメンバーの / 変更をしますか？
+   EN: Change party members?
+>> 52.92 | Resident | この前 ニュースを見たら / この町が報道されてて 驚いたよ / でも… ニュースになるようなこと / この町であったかな？
+   EN: I saw this town on the news the other day and got a shock. But... did anything newsworthy happen here?
+>> 52.93 | Resident | 最近 おかしいのよねー /  / 水道の水が くさくて / 飲むと お腹が痛くなるの
+   EN: Things have been weird lately.  The tap water stinks, and when I drink it my stomach hurts.
+>> 52.94 | Resident | これじゃ 趣味の登山にも / 行けないかなぁ…
+   EN: At this rate, I can't even go mountain climbing, my hobby...
+>> 52.95 | Resident | 科学都市ってのが あるらしいね / いつの間に できたんだろ？ / 俺が知らなかっただけ…なのかなぁ / う～ん そうかなぁ…？
+   EN: They say there's a place called Science City. When did that get built? Was it just me who didn't know...? Hmm, maybe...?
+>> 52.96 | Resident | この町の南東に / 死神警察署ってとこがある / 命が惜しいなら 近づかないことだ
+   EN: Southeast of this town there's a place called the Reaper Police HQ. If you value your life, stay away.
+>> 52.97 | Resident | 関東の南端に / 震災砦って言われてる場所がある / 関東地獄地震の孤児達が / 集まって暮らしてるそうだ
+   EN: At the southern tip of Kanto, there's a place called the Quake Fort. They say orphans of the Kanto Hellquake gather there to live.
+>> 52.98 | Resident | 犬を飼うことにしたんだ /  / まずは犬小屋作りから / 始めるとするかな
+   EN: I've decided to get a dog.  Guess I'll start by building a doghouse.
+>> 52.99 | Resident | 犬を飼うつもりで / 犬小屋まで作ったんだけどね… / やっぱり / 猫を飼うことにしたんだ！
+   EN: I built a doghouse and everything, planning to get a dog... But I decided to get a cat after all!
+   ctx 53.00 | Resident | 犬を飼うつもりで / 犬小屋まで作ったんだけどね… / やっぱり / 猫を飼うことにしたんだ！ / …けど やっぱり犬も捨て難いよね / う～ん どうしよう？
+   ctx EN: I built a doghouse and everything, planning to get a dog... But I decided to get a cat after all! ...Still, a dog's hard to give up too. Hmm, what should I do?
+   ctx 53.01 | Receptionist | ただ今 満室でございまして / お泊りにはなれません
+   ctx EN: I'm terribly sorry, but we're fully booked at the moment. We can't offer you a room.

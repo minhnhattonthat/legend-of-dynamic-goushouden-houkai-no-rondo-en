@@ -1,0 +1,208 @@
+   ctx 17.98 | {p} | 今頃 無事に この月を見てるよ…
+   ctx EN: I bet they're safe and looking at this moon right now...
+   ctx 17.99 | {s} | そうだといいわね…
+   ctx EN: I hope so...
+>> 18.00 | Honey Kisaragi | …ここが ポール玉玉氏邱ね？
+   EN: ...So this is Mr. Paul Tamatama's mansion?
+>> 18.01 | Seiji Hayami | そうだ…って なんで オヤジが / ついてくるんだよ！
+   EN: That's right... Hey, why are you tagging along, Pop!?
+>> 18.02 | Danbei | おまえよりは 役に立つわい！ / 早見団兵衛 武芸の達人じゃぞ！
+   EN: I'm more use than you, boy! Danbei Hayami is a master of the martial arts, I'll have you know!
+>> 18.03 | Honey Kisaragi | それに… 夏ちゃんまで！
+   EN: And... even Natsu-chan!
+>> 18.04 | Natsuko Aki | だって 面白そうなんだもん！
+   EN: Well, it sounded like fun!
+>> 18.05 | Honey Kisaragi | でも 良かったわ / ちゃんと 早見君の家があって！ / まさか 夏ちゃんにまで逢えるとは / 思っていなかったけどね
+   EN: But I'm so glad your house was really there, Hayami-kun! Though I never expected to meet Natsu-chan, too.
+>> 18.06 | Seiji Hayami | ホントだよなぁ おまけに / 特ダネまで 飛び込んできたし！
+   EN: No kidding! And a big scoop fell right into my lap, too!
+>> 18.07 | Danbei | せがれよ パンサークローとやらが / 狙っているのは 何じゃ？
+   EN: Tell me, boy, what is this Panther Claw after?
+>> 18.08 | Seiji Hayami | 何十億か 何百億か 見当もつかない / 等身大の黄金仏さ
+   EN: A life-size golden Buddha. Worth billions, maybe tens of billions, who knows?
+>> 18.09 | Paul Tamatama | ホントに黄金仏は大丈夫じゃろな？
+   EN: Is the golden Buddha really safe, eh?
+>> 18.10 | Police Officer | 家のまわりは 警官隊が / 取り巻いております！ / しかも 部屋の中には / 今世紀 最低最悪！ / 自称・名探偵 / イボ痔小五郎先生がいます！
+   EN: The house is surrounded by a police squad! What's more, inside the room is the lowest, worst so-called great detective of the century, Kogoro Iboji-sensei!
+>> 18.11 | Kogoro Iboji | ジャ～ン！
+   EN: Ta-daaa!
+>> 18.12 | Paul Tamatama | こいつがいるから / よけい心配なのじゃが…
+   EN: It's because HE'S here that I'm even more worried...
+>> 18.13 | Kogoro Iboji | 更に屋敷の庭には！ /  / 性悪探偵団リーダー こややし君が / ひそんでおるのですぞ！
+   EN: And in the mansion garden!  Koyayashi-kun, leader of the Rotten Detectives Club, lies in wait!
+>> 18.14 | Paul Tamatama | それがまた / 頭痛のタネなんだけどなぁ…
+   EN: And he's another headache, too...
+>> 18.15 | Koyayashi | ぼっぼっぼっぼっ… / 僕 こややし少年で～す！
+   EN: B-b-b-b-b... I'm Koyayashi, boy detectiiive!
+>> 18.16 | Natsuko Aki | きゃ～！
+   EN: Kyaaa!
+>> 18.17 | Koyayashi | むむ…？
+   EN: Hmmm...?
+>> 18.18 | Police Officer | 女の子の悲鳴が 聞こえなかった？
+   EN: Didn't you hear a girl scream?
+>> 18.19 | Police Officer | 聞こえた 聞こえた！
+   EN: I heard it, I heard it!
+>> 18.20 | Police Officer | 悲鳴は どこから？
+   EN: Where'd the scream come from?
+>> 18.21 | Police Officer | どこでしょ？
+   EN: Where, I wonder?
+>> 18.22 | Natsuko Aki | きゃ～ 助けてぇ～！
+   EN: Kyaaa, heeelp!
+>> 18.23 | Seiji Hayami | えへへ！ まてぇ～！ / えへへ！！
+   EN: Heh heh! Come back here! Heh heh!!
+>> 18.24 | Police Officer | 女の子が 襲われてる！
+   EN: A girl's being attacked!
+>> 18.25 | Police Officer | コラ！ 仲間に…じゃない / やめろ～！
+   EN: Hey! Lemme join... I mean, stop that!
+>> 18.26 | Honey | うふふ！ 青児君と夏子ちゃん / うまく警官をひきつけてくれたわ / おじさん / 忍び込むとしましょうか？
+   EN: Tee-hee! Seiji-kun and Natsuko-chan lured the police away nicely. Shall we sneak in, mister?
+>> 18.27 | Danbei | オウ！ ハニーちゃんや！
+   EN: You bet, Honey-chan!
+>> 18.28 | Koyayashi | あ～ え～？ / だ だれだぁ～？
+   EN: Uhh... ehh? Wh-who's thaaat?
+>> 18.29 | Honey Kisaragi | えっ…っと その…
+   EN: Um... well...
+>> 18.30 | Danbei | 正義の味方じゃよ！
+   EN: Champions of justice, of course!
+>> 18.31 | Koyayashi | そっか～ じゃ みかただなぁ～
+   EN: Ohh... then you're on our siiide...
+>> 18.32 | Honey Kisaragi | そうそう 味方 味方！
+   EN: That's right, on your side, on your side!
+>> 18.33 | Kogoro Iboji | こややし少年！ / 物音がしたが異常ないか？
+   EN: Koyayashi-boy! I heard a noise, anything abnormal?
+>> 18.34 | Koyayashi | あ～ え～ ん～ / べつにぃ～ なんだぁ～
+   EN: Uhh... ehh... mmm... not reeeally... it's, like...
+>> 18.35 | Kogoro Iboji | 異常があるのか無いのか ね！ / 言って こややし少年！ / 言って 言って ねぇ～！？
+   EN: Is there anything abnormal or not!? Tell me, Koyayashi-boy! Tell me, tell me, pleeease!?
+>> 18.36 | Koyayashi | イジョ～が イジョ～に / イジョ～なくらい / イジョ～が イジョ～に / イジョ～なようで…
+   EN: It's abnormally normal, normally abnormal, so normal it's abnormal, abnormally abnormal-ish normal...
+>> 18.37 | Kogoro Iboji | こややし少年 あるかないか / それだけ言って！ それだけ！
+   EN: Koyayashi-boy, just tell me yes or no! Just that!
+>> 18.38 | Koyayashi | アルがアルで アルにアルアル / なのにナイのに ナイのナイのか / アルのかアルナイのか… / アルルルルル…
+   EN: Yes is yes, and yes-yes is yes, but no is no, no-no is it no, is it yes, is it yes-no... Yes-yes-yes-yes-yes...
+>> 18.39 | Kogoro Iboji | ……………
+   EN: ...............
+>> 18.40 | Honey Kisaragi | ホッ…
+   EN: Phew...
+>> 18.41 | Danbei | みごとな ごまかしかたじゃった！
+   EN: Splendidly muddled, that was!
+>> 18.42 | Koyayashi | ぼ ボク…正義の味方？
+   EN: I-I'm... a champion of justice?
+>> 18.43 | Honey Kisaragi | 味方 味方！
+   EN: On our side, on our side!
+>> 18.44 | Honey Kisaragi | これが黄金仏ね / キレイ…
+   EN: So this is the golden Buddha. It's beautiful...
+>> 18.45 | Danbei | そいじゃ 運び出すとするか！ /  / じゃ ハニーちゃん / がんばってのう！
+   EN: Well then, let's haul it out!  Good luck, Honey-chan!
+>> 18.46 | Honey Kisaragi | おじさんも 気をつけて…！
+   EN: You be careful too, mister...!
+>> 18.47 | Honey Kisaragi | さ～て 始めるとするか… /  / ハニー！ / フラ～ッシュ！
+   EN: Okaaay, time to get started...  Honey... FLAAASH!
+>> 18.48 | Paul Tamatama | もうすぐ パンサークローが / 予告した時間じゃが…
+   EN: It's almost the time Panther Claw announced, but...
+>> 18.49 | Kogoro Iboji | ご安心ください！ / 黄金仏はホレ このと～り！ / アレ？
+   EN: Fear not! The golden Buddha is right here, see! Eh?
+>> 18.50 | Kogoro Iboji | はて？ / こんな顔だったかな…？
+   EN: Hmm? Was its face like this...?
+>> 18.51 | Golden Buddha | ……………
+   EN: ...............
+>> 18.52 | Paul Tamatama | むっ！？ / １２時じゃ！
+   EN: Hm!? It's twelve o'clock!
+>> 18.53 | Paul Tamatama | 時間ぴったりの訪問客！ / もしや パンサークローでは！？
+   EN: A visitor right on the dot! Could it be Panther Claw!?
+>> 18.54 | Kogoro Iboji | それだから トウシローは / 困るんだよなぁ～！ / 犯人がですよ 玄関から / ブザー押して来ますか フツ～？
+   EN: That's why amateurs are such a pain! Would a crook come in the front door and ring the buzzer? Seriously?
+>> 18.55 | Paul Tamatama | し しかし 万が一という場合が…
+   EN: B-but just in case...
+>> 18.56 | Kogoro Iboji | 犯人は意外な方法で黄金仏を盗んで / 我々をアッ！と言わせる… / これ 探偵モノのジョーシキだよ！
+   EN: The crook steals the golden Buddha by some unexpected method and leaves us all going "Whoa!"... That's basic detective-story common sense!
+>> 18.57 | Paul Tamatama | そんなもんかのぉ…？
+   EN: Is that so...?
+>> 18.58 | Kogoro Iboji | 誰か お客様を見てきなさい！
+   EN: Somebody go see to our guest!
+>> 18.59 | Police Officer | は～い！
+   EN: Okaaay!
+>> 18.60 | Kogoro Iboji | お～ / お客様は どなたです～？
+   EN: Sooo, who's our guest?
+>> 18.61 | Police Officer | お客様は パンサークローでした！
+   EN: Our guest was Panther Claw!
+>> 18.62 | Sister Jill | パンサークローだ！ 約束通り / 黄金仏をいただきにきた！ / 抵抗すれば 命はない！
+   EN: This is Panther Claw! As promised, we've come for the golden Buddha! Resist and you die!
+>> 18.63 | Kogoro Iboji | ヒェ～！ そんな約束 / 守らなくてもい～のにな～！
+   EN: Eeek! You didn't have to keep THAT promise!
+>> 18.64 | Paul Tamatama | ほれみろ！ だからわしが…！！
+   EN: See!? That's why I said...!!
+>> 18.65 | Sister Jill | うむ… これが黄金仏か…！ / なんという美しさ…！！
+   EN: Mm... So this is the golden Buddha...! What beauty...!!
+>> 18.66 | Golden Buddha | ……………
+   EN: ...............
+>> 18.67 | Paul Tamatama | イボ痔君！ / なにしてる つかまえんか！
+   EN: Iboji-kun! What are you doing, catch them!
+>> 18.68 | Kogoro Iboji | そんなこと言ったって / 命がなくなるって言ってますよ！ / ここはひとつ ことを荒立てず…
+   EN: Easy for you to say, but they said we'd die! Let's not make a fuss here, shall we...
+>> 18.69 | Paul Tamatama | ウ～ヌ～！！
+   EN: Grrrrr!!
+>> 18.70 | Sister Jill | ふふふ では諸君！ / ありがたくちょうだいする！
+   EN: Hohoho, well then, everyone! We'll gratefully take it!
+>> 18.71 | Kogoro Iboji | ホッ… あ～ ヨカッタ！ / お互い無事で なによりですな！ / はっはっは…！
+   EN: Phew... Ahh, thank goodness! The main thing is we're all safe! Hahaha...!
+>> 18.72 | Paul Tamatama | …何のために / おまえは ここにいるのだ？
+   EN: ...What exactly are you here for?
+>> 18.73 | Kogoro Iboji | 決まってるじゃないですか～ /  / おたくの黄金仏を / 守るためじゃないですか～！
+   EN: Isn't it obvious?  To protect your golden Buddha, of course!
+>> 18.74 | Paul Tamatama | その仏像は！？ /  / 貴様というやつは～！ / びてい骨わりチョ～ップ！
+   EN: That statue!?  You, you...! TAILBONE-SPLITTER CHOP!
+>> 18.75 | Kogoro Iboji | ぎゃ～！！
+   EN: GYAAAH!!
+>> 18.76 | Danbei | 黄金仏はホレ このとおり！
+   EN: The golden Buddha's right here, see!
+>> 18.77 | Koyayashi | ここにあ～る～！
+   EN: It's riiight heeere!
+>> 18.78 | Paul Tamatama | おぉ！ これは まさしく黄金仏！
+   EN: Ohh! This is the golden Buddha, all right!
+>> 18.79 | Kogoro Iboji | でかした こややし君！
+   EN: Well done, Koyayashi-kun!
+>> 18.80 | Paul Tamatama | すると ヤツらが運び出した / 黄金仏は！？
+   EN: Then the golden Buddha they carried off is...!?
+>> 18.81 | Danbei | ニセモノ！
+   EN: A fake!
+>> 18.82 | Paul Tamatama | パンサークローを出し抜いたのか！ / 愉快 愉快！ はっはっは！
+   EN: You outfoxed Panther Claw! Splendid, splendid! Hahaha!
+>> 18.83 | Danbei | 黄金仏は確かにお返ししましたぞ！ / これにて失礼！
+   EN: The golden Buddha is duly returned to you! We'll take our leave!
+>> 18.84 | Paul Tamatama | ど どちらへ…！？
+   EN: Wh-where are you going...!?
+>> 18.85 | Danbei | パンサークローをとっちめに… / でさぁ！
+   EN: To give Panther Claw a thrashin', that's where!
+>> 18.86 | Koyayashi | でさぁ！
+   EN: That's where!
+>> 18.87 | Kogoro Iboji | さすが 性悪探偵団リーダーだ / こややし君！
+   EN: Just what I'd expect from the leader of the Rotten Detectives Club, Koyayashi-kun!
+>> 18.88 | Paul Tamatama | 貴様というやつは～！
+   EN: You, you...!
+>> 18.89 | Kogoro Iboji | ひぇ～ いってきま～す！ / こややし君 まって～！
+   EN: Eeek, I'm off! Wait for me, Koyayashi-kun!
+>> 18.90 | Danbei | 心配無用！
+   EN: No need to worry!
+>> 18.91 | Sister Jill | まんまと黄金仏を手に入れたわ…
+   EN: We got our hands on the golden Buddha slick as you please...
+>> 18.92 | Panther Claw Member | ジル様！ / まもなく幻城に到着です！
+   EN: Jill-sama! We'll soon arrive at Mirage Castle!
+>> 18.93 | Golden Buddha | …パンサークローの秘密基地！？
+   EN: ...Panther Claw's secret base!?
+>> 18.94 | Sister Jill | …？ /  / ふ～む…
+   EN: ...?  Hmmm...
+>> 18.95 | Golden Buddha | ………
+   EN: .........
+>> 18.96 | Sister Jill | …気のせいか
+   EN: ...Must be my imagination.
+>> 18.97 | Seiji Hayami | 作戦成功！
+   EN: Mission accomplished!
+>> 18.98 | Danbei | パンサークローも まさか / ハニーちゃんが変身した黄金仏に / 発信機が着いているとは 思うまい
+   EN: Panther Claw would never dream the golden Buddha Honey-chan turned into has a transmitter on it.
+>> 18.99 | Natsuko Aki | おじ様 ステキ～！ /  / でもハニー 発信機を / どこに隠し持ってるの？ / たしか… / 黄金仏に化ける時には / 裸になっちゃうって / ハニー言ってたけど…
+   EN: Oh, mister, you're wonderful!  But where's Honey hiding the transmitter? Honey said she ends up naked when she turns into the golden Buddha...
+   ctx 19.00 | Seiji Hayami | ドキッ！ / 裸でも隠せる場所… / それは… え～と…
+   ctx EN: *Gulp!* A place you can hide something even when you're naked... that would be... uh...
+   ctx 19.01 | Danbei | イッヒッヒッヒ…！
+   ctx EN: Ihhihhihhi...!

@@ -1,0 +1,26 @@
+   ctx r0DCF50 |  | サンダーガード
+   ctx EN: Volt Guard
+   ctx r0DCF60 |  | アイスガード
+   ctx EN: Ice Guard
+>> r0DCF70 |  | ファイアガード
+   EN: Fire Guard
+>> r0DCF80 |  | ハンマーガード
+   EN: Blunt Guard
+>> r0DCF90 |  | ソードガード
+   EN: Slash Guard
+>> r0DCFA0 |  | マインドオーブ
+   EN: Mind Orb
+>> r0DCFB0 |  | サンダーオーブ
+   EN: Bolt Orb
+>> r0DCFC0 |  | アイスオーブ
+   EN: Ice Orb
+>> r0DCFD0 |  | ファイアオーブ
+   EN: Fire Orb
+>> r0DCFE0 |  | ハンマーオーブ
+   EN: Blunt Orb
+>> r0DCFF0 |  | ソードオーブ
+   EN: Slash Orb
+   ctx r0DD000 |  | マインドシンボル
+   ctx EN: Mind Symbol
+   ctx r0DD014 |  | サンダーシンボル
+   ctx EN: Bolt Symbol

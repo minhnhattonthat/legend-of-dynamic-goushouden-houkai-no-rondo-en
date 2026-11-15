@@ -1,0 +1,208 @@
+   ctx 35.98 | Honey Kisaragi | もしも魔王を倒したなら… /  / その時は 魔王を貫いた剣で / あなたを倒すわ！
+   ctx EN: If we defeat the Demon King...  then I'll defeat you with the same sword that pierced him!
+   ctx 35.99 | Sister Jill | 望むところよ…！ /  / よし ならば行くぞ！ / ぐずぐずするな！
+   ctx EN: Just what I want...!  Good, then let's go! Don't dawdle!
+>> 36.00 | {p} | ドラゴンに襲われてる！？ / 助けなきゃ！
+   EN: The Dragons are attacking her!? We've got to help!
+>> 36.01 | Dragon | おのれ 邪魔立てするか！？ / 容赦せんぞ！！
+   EN: Curse you, you'd interfere!? No mercy!!
+>> 36.02 | Dragon | 容赦せんぞ！？
+   EN: No mercy!?
+>> 36.03 | {p} | あなたは スラムクィーン！
+   EN: You're the Slum Queen!
+>> 36.04 | Slum Queen | 覚えてくれていたの？ / うれしいわ / 探した甲斐が あるってものね
+   EN: You remember me? How lovely. It made searching for you worth it.
+>> 36.05 | {p} | 僕を探していた…だって？
+   EN: You were searching for me?
+>> 36.06 | Slum Queen | そうよ… 見たでしょ？ / ドラゴンが私を襲うのを…？ / ドラゴンが / 魔王に操られてしまったのよ / スラムキングを捨てて
+   EN: Yes... You saw it, didn't you? The Dragons attacking me? The Dragons are being controlled by the Demon King. They've abandoned the Slum King.
+>> 36.07 | {p} | まさか 僕を魔王に引き渡し / ドラゴン達を元に戻そうと！？
+   EN: Don't tell me you want to hand me over to the Demon King to get the Dragons back to normal!?
+>> 36.08 | Slum Queen | あたしは それほど / バカじゃないわ / 魔王に あなたを引き渡したら / 恐ろしいことが起こる！
+   EN: I'm not that foolish. If I handed you over to the Demon King, something terrible would happen!
+>> 36.09 | {p} | それじゃ どうして僕を？
+   EN: Then why were you looking for me?
+>> 36.10 | Slum Queen | あなたが「始まりの丘」に / 向かう姿を 夢で見たの… / それがあたしの力 予知夢よ
+   EN: I saw you heading for the "Hill of Beginnings" in a dream... That is my power: prophetic dreams.
+>> 36.11 | {p} | ………
+   EN: .........
+>> 36.12 | Slum Queen | いずれあなたは「始まりの丘」に / 向かうでしょう / 魔王と戦うために！ / それが あなたの運命！
+   EN: Someday you'll head for the "Hill of Beginnings." To fight the Demon King! That is your fate!
+>> 36.13 | {p} | 僕の運命… 教えて！ / それで僕はどうなるの！？ / {s}は…！？
+   EN: My fate... Tell me! What happens to me!? And to {s}...!?
+>> 36.14 | Slum Queen | わからないわ でもたったひとつ / 明らかなことがあるの / それはあなたが 魔王と戦える / 唯一の人ってことよ
+   EN: I don't know. But one thing is clear: you are the only one who can fight the Demon King.
+>> 36.15 | Slum Queen | 一緒に来なさい / スラムキングに逢わせるわ
+   EN: Come with me. I'll have you meet the Slum King.
+>> 36.16 | {p} | …！？
+   EN: ...!?
+>> 36.17 | Slum Queen | スラムキングに反旗を翻したのは / ドラゴンだけじゃないの / もちろん みな / 魔王に操られてのことよ
+   EN: The Dragons aren't the only ones who've turned against the Slum King. All of them controlled by the Demon King, of course.
+>> 36.18 | {p} | ………
+   EN: .........
+>> 36.19 | Slum Queen | 人々が操られ始めたのは / 異変の前兆 / スラムキングも / それは理解しているわ / そこで あたしに / 探すように命じたのよ / 最悪の事態を回避出来る者を…
+   EN: People starting to be controlled is an omen of disaster. The Slum King understands that too. So he ordered me to search... for one who can avert the worst.
+>> 36.20 | {p} | …わかった / スラムキングに逢おう！
+   EN: ...All right. I'll meet the Slum King!
+>> 36.21 | Slum Queen | いい子ね…
+   EN: Good boy...
+>> 36.22 | Slum King | 待ちかねたぞ スラムクィーン！ / 救世主は見つかったか！？
+   EN: I've been waiting, Slum Queen! Have you found the savior!?
+>> 36.23 | Slum Queen | お連れしましたわ
+   EN: I've brought him.
+>> 36.24 | Slum King | ご苦労！ よくやった！ / 救世主どのよ いざ ここに！
+   EN: Well done! Excellent! O savior, come forth!
+>> 36.25 | {p} | あ あの… こんにちは
+   EN: U-um... hello.
+>> 36.26 | Slum King | スラムクィーン / これは何の冗談だ？
+   EN: Slum Queen, what sort of joke is this?
+>> 36.27 | Slum Queen | この者こそ 異変から関東を / 世界を救う人物ですわ！
+   EN: This is the very person who will save Kanto, and the world, from disaster!
+>> 36.28 | {p} | え え～と {p}です
+   EN: Uh, um, I'm {p}.
+>> 36.29 | Slum King | あっはっはっはっは！ / 片腹痛い！ / スラムクィーン おまえの力も / 衰えたようだな！
+   EN: Ahahahahaha! Don't make me laugh! Slum Queen, it seems your powers have faded!
+>> 36.30 | Slum Queen | ならば 立ち合ってみては / いかがですか？
+   EN: Then why not cross swords with him?
+>> 36.31 | {p} | ええ～っ！？
+   EN: Whaaat!?
+>> 36.32 | Slum King | あ～っはっはっはっは！ /  / この俺に 子供の相手を / しろというのか？
+   EN: Ahahahahaha!  You'd have me fight a child?
+>> 36.33 | Slum Queen | もしも あなたと立ち合い / そして死んだならば / それは あたしの予知夢が外れた / …ということ / その時は あたしも死にましょう！
+   EN: If he crosses swords with you and dies, that means my prophetic dream was wrong. In that case, I shall die as well!
+>> 36.34 | {p} | …！？
+   EN: ...!?
+>> 36.35 | Slum King | そこまで この子供に賭けるか / スラムクィーン… / ならば 立ち合おうではないか！
+   EN: You'd stake that much on this child, Slum Queen... Then let us cross swords!
+>> 36.36 | Slum King | いざ 来い！ {p}よ！
+   EN: Come at me! {p}!
+>> 36.37 | Slum King | 不覚…！！
+   EN: I've been bested...!!
+>> 36.38 | Slum Queen | スラムキング この子を / お認め下さいますね？
+   EN: Slum King, you'll acknowledge this boy now, won't you?
+>> 36.39 | Slum King | 致し方あるまい！ /  / {p}よ！ スラムキング / おまえに助力するぞ！
+   EN: I have no choice!  {p}! The Slum King will lend you his aid!
+>> 36.40 | {p} | は はい…！！
+   EN: Y-yes, sir...!!
+>> 36.41 | Slum King | スラムクィーン！ / 共をいたせ！
+   EN: Slum Queen! Come with me!
+>> 36.42 | Slum Queen | {p} / おみごとだったわ
+   EN: {p}, that was splendid.
+>> 36.43 | {p} | ありがとう / スラムクィーンさん！
+   EN: Thank you, Slum Queen-san!
+>> 36.44 | Resident | 噂だけど スラムキングが / 大変なことになってるらしいぞ / ドラゴンからも暴徒になった連中が / 出たらしくてさ… / いったい 関東に / 何が起ころうとしてるんだ…？
+   EN: Just a rumor, but they say the Slum King's in big trouble. Seems even some of the Dragons turned into rioters... What on earth is about to happen to Kanto...?
+>> 36.45 | {p} | 誰もいないのかな？
+   EN: Isn't anyone here?
+>> 36.46 | Higegodzilla | 今日 女子の方達は / 身体検査がありますから / お残りになってねぇ～ / おほほほほ / 男子の方は さっさと / 帰ってちょね～ イッヒッヒ…
+   EN: Today the girls have a physical exam, so do stay behind, darlings! Ohohoho! Boys, run along home now, mm-kay? Eehee hee...
+>> 36.47 | Higegodzilla | …なんて言っても / 誰もいないのよ～ / はぁ～ さみちいのよ～
+   EN: ...Not that there's anybody here to hear it... *Sigh*, I'm so wonewy...
+>> 36.48 | {p} | ひとりで 何やってるの…？
+   EN: What are you doing all by yourself...?
+>> 36.49 | Higegodzilla | 世の中 物騒になっちゃって / イヤだわ～ / それで / 生徒も来なくなっちゃったの…
+   EN: The world's gotten so dangerous, I hate it! And so the students stopped coming...
+>> 36.50 | Higegodzilla | 里帰りする お金もなく あたちは / ひとり 授業を続けるのよ～！ / およよ およよ うわ～ん！
+   EN: I haven't the money to go home, so I'll keep teaching all by my wittle self! Boo-hoo, boo-hoo, waaah!
+>> 36.51 | Yamagishi | ヒゲゴジラ…
+   EN: Higegodzilla...
+>> 36.52 | Higegodzilla | その声は…！？ /  / きゃ～！ / わたち うれちいわよ～！
+   EN: That voice...!?  Kyaaa! I'm sooo happy!
+>> 36.53 | Higegodzilla | う～ん ぶちゅ！ ぶちゅ！
+   EN: Mmmm, smooch! Smooch!
+>> 36.54 | Yamagishi | やめやがれ！ 気色悪ぃ～！
+   EN: Knock it off! That's gross!
+>> 36.55 | Jubei | イヤ～ン やめて！
+   EN: Ewww, stop it!
+>> 36.56 | Fukurokoji | うわっ なんだよ こいつ～！
+   EN: Whoa, what's with this guy!?
+>> 36.57 | Higegodzilla | さみちいのよぉ～！ /  / お願い わたちを連れてってぇ～ん！ / ね！ ね！
+   EN: I'm so wonewy!  Pwease, take me with youuu! Pwetty pwease!
+>> 36.58 | Yamagishi | しょうがねぇなぁ そのかわり / 俺の召し使いだぞ！
+   EN: Fine, whatever. But you're my servant!
+>> 36.59 | Jubei | 先生 なんだか かわいそう… / いいわ 連れて行ってあげる！
+   EN: I kinda feel sorry for sensei... Okay, we'll take you along!
+>> 36.60 | Fukurokoji | わかったよ / オヤブンに話してやるよ
+   EN: Fine, I'll talk to the Boss about it.
+>> 36.61 | Higegodzilla | きゃ～！ うれし～！ / 一生ついてくわ～！！
+   EN: Kyaaa! I'm so happy! I'll follow you forever!!
+>> 36.62 | {p} | 里帰りするのに / いくら かかるんだい？
+   EN: How much does it cost to go home?
+>> 36.63 | Higegodzilla | 初乗り１３０円よ～ / 改札さえ通っちゃえば 後は… / イヒヒ
+   EN: The base fare's 130 yen, darling! Once I'm through the ticket gate, the rest is... Eehee hee.
+>> 36.64 | Higegodzilla | ま～ わたち うれちいわ～！
+   EN: Oh my, I'm so vewy happy!
+>> 36.65 | Higegodzilla | う～ん ぶちゅ！ ぶちゅ！
+   EN: Mmmm, smooch! Smooch!
+>> 36.66 | Higegodzilla | わたち / 里帰り出来てうれちいのよ～ / おかあちゃま～！ /  / あなたのさゆりが / 今 帰るわよ～！
+   EN: I'm so vewy happy I get to go home! Mommy!  Your Sayuri is coming home now!
+>> 36.67 | Kibutsu Clan | 壊せ 壊せ！
+   EN: Smash it, smash it!
+>> 36.68 | Kibutsu Clan | 鬼獄界など / もはや存在しないのだ！
+   EN: The Kigoku World no longer exists!
+>> 36.69 | Kibutsu Clan | 魔王が世界を再生する！ / 鬼獄界は不要！ 暗黒寺も不要！
+   EN: The Demon King will remake the world! No need for the Kigoku World! No need for the Dark Temple!
+>> 36.70 | Kibutsu Clan | おぬしは…！ / 魔王が求める「再生の太陽」！？
+   EN: You...! The "Sun of rebirth" the Demon King seeks!?
+>> 36.71 | Kibutsu Clan | おぬしを差し出せば / 魔王がお慶びになる！
+   EN: If we hand you over, the Demon King will be pleased!
+>> 36.72 | Kibutsu Clan | 魔王のために！
+   EN: For the Demon King!
+>> 36.73 | Onitani | 外が静かになったと思ったら… / 手天童子と一緒にいた者だな？ / 鬼仏衆を倒してくれたのか
+   EN: I thought it had gone quiet outside... You're the one who was with the Shutendoji, aren't you? You defeated the Kibutsu Clan for me.
+>> 36.74 | {p} | あなたは 鬼谷さん？ / 寺の中に いたの？
+   EN: Are you Kitani-san? You were inside the temple?
+>> 36.75 | Onitani | いかに俺でも大勢の鬼仏衆相手に / ひとりでは どうにもならん / 寺の中で自刃し / 火をかけるつもりだったのだ / では…
+   EN: Even I can't do anything alone against so many of the Kibutsu Clan. I meant to take my own life inside the temple and set it ablaze. Well then...
+>> 36.76 | {p} | …ちょ ちょっと！
+   EN: ...H-hey, wait!
+>> 36.77 | Onitani | 外が静かになったと思ったら… / 手天童子か… / 貴様 何しに寺を訪れたのだ？
+   EN: I thought it had gone quiet outside... The Shutendoji, is it... What brings you to the temple?
+>> 36.78 | Jiro | おまえには関係のないことだ！
+   EN: That's none of your business!
+>> 36.79 | Onitani | そうはいかん！ 俺は 寺を / 外敵から護らねばならぬ！
+   EN: It is! I must protect the temple from outside enemies!
+>> 36.80 | Jiro | ならばなぜ 鬼仏衆に / 好き勝手させていたのだ？
+   EN: Then why did you let the Kibutsu Clan do as they pleased?
+>> 36.81 | Onitani | いかに俺でも大勢の鬼仏衆相手に / ひとりでは どうにもならん / 寺の中で自刃し / 火をかけるつもりだったのだ / では…
+   EN: Even I can't do anything alone against so many of the Kibutsu Clan. I meant to take my own life inside the temple and set it ablaze. Well then...
+>> 36.82 | {p} | …ちょ ちょっと！
+   EN: ...H-hey, wait!
+>> 36.83 | Jiro | 仇敵とはいえ 見捨てるわけには / いかないな
+   EN: He may be my sworn enemy, but I can't abandon him.
+>> 36.84 | {p} | ダメだよ / 寺に火をかけるなんて！
+   EN: No! You can't set the temple on fire!
+>> 36.85 | Onitani | いくら祈りを捧げても / 鬼獄界からは何も聞こえてこない / こんなことは初めてだ…
+   EN: No matter how much I pray, I hear nothing from the Kigoku World. This has never happened before...
+>> 36.86 | {p} | …………
+   EN: ............
+>> 36.87 | Onitani | 鬼仏衆までが 俺に抗い始めた /  / なぜ 鬼獄界は 俺の呼びかけに / 応えてくれぬのだ！？
+   EN: Even the Kibutsu Clan has begun to defy me.  Why won't the Kigoku World answer my call!?
+>> 36.88 | {p} | もしかしたら…！
+   EN: Maybe...!
+>> 36.89 | Onitani | …なるほど！ /  / ここは 魔王の作った / ツギハギの世界であり / 俺の本当の世界は 別に存在する！ /  / そこには これまで通り / 鬼獄界が あるのだな！？
+   EN: ...I see!  This is a patchwork world made by the Demon King, and my true world exists elsewhere!  And there, the Kigoku World is just as it always was!?
+>> 36.90 | {p} | はっきりとは言い切れないけどね
+   EN: I can't say for sure, though.
+>> 36.91 | Onitani | いや 間違いない /  / 黒い月があがる以前 / 鬼獄界は存在していた / 俺は それを感じたし 鬼獄界は / 俺の呼びかけに応えてくれた
+   EN: No, I'm certain of it.  Before the black moon rose, the Kigoku World existed. I felt it, and the Kigoku World answered my call.
+>> 36.92 | {p} | 今は まったくそれがないの？
+   EN: And now there's nothing at all?
+>> 36.93 | Onitani | そのとおりだ {p}！ / 俺も共に戦うぞ！ / 魔王は 鬼獄界の存亡に関る / 重大な敵だ / この敵と戦わずにいられようか！
+   EN: That's right, {p}! I'll fight with you too! The Demon King is a grave enemy who threatens the very existence of the Kigoku World. How could I not fight him!
+>> 36.94 | Jiro | 鬼獄界を護る者と 鬼獄界を壊す / 運命にあるという 俺が / 共に戦うというのも皮肉だな
+   EN: The one who guards the Kigoku World fighting alongside me, the one fated to destroy it... How ironic.
+>> 36.95 | Onitani | だが 俺とおまえは仇敵同士だ！ / そのことを忘れるな！
+   EN: But you and I are sworn enemies! Don't forget that!
+>> 36.96 | Jiro | お互いに…な
+   EN: Same goes for you.
+>> 36.97 | Onitani | 行くぞ {p}
+   EN: Let's go, {p}.
+>> 36.98 | Kedaman | いや～ おもしろかったぜ！ / なっ！ 怒良野！
+   EN: Man, that was a blast! Right, Dorano!
+>> 36.99 | Dorano | ふん！ 隙をみて ケダマンを / やっつけようと思ってたのに / それどころじゃなかったぜ…
+   EN: Hmph! I was planning to take Kedaman down when he let his guard slip, but I never got the chance...
+   ctx 37.00 | Kedaman | なんだと！
+   ctx EN: What'd you say!
+   ctx 37.01 | Dorano | なんでもないよ！
+   ctx EN: Nothin'!

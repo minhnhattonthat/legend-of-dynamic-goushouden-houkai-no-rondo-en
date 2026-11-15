@@ -1,0 +1,202 @@
+>> 00.01 |  | {g}を手に入れた
+   EN: Got {g}!
+>> 00.02 |  | {g}円 / 手に入れた
+   EN: Got {g} yen!
+>> 00.03 |  | 何も入っていない
+   EN: There's nothing inside.
+>> 00.04 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしが死にぎわに残した / 魔神はすごいぞ！ / 神となり人類を救う事も / 悪魔となり世界を滅ぼすことも / 自由だ！！ / すべて思いのままなのだ！ / もし君が魔神のパイロットと / 出会う事ができたなら / 君は強力な味方を得る事が / できるだろう！！
+   EN: I am Juzo Kabuto, a scientist who builds robots. The Demon God I left behind as I died is something else! It can become a god and save mankind, or become a devil and destroy the world! The choice is yours! It will do whatever you wish! If you ever meet the Demon God's pilot, you'll have a mighty ally on your side!!
+>> 00.05 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしの死後 数多くのロボットが / 生み出されたと聞く / 中でも宇宙開発の結果 / 発見されたエネルギー / 微量で膨大なエネルギーになる / 魔法の光体… ゲッター線 / その応用で作られた / ロボットがあると聞く… / わっはっはっは / 見て見たいものだ！ / 死してなお ロボット開発に / 興味が尽きんからな！！
+   EN: I am Juzo Kabuto, a scientist who builds robots. I hear that after my death, many robots were born. Among them, I hear, is one built on an energy found through space research: a magic light where a mere trace gives enormous power... Getter Rays! Wahahaha! I'd love to see it! Even dead, I can't get enough of robot building!!
+>> 00.06 |  | はい / いいえ / 
+   EN: Yes No 
+>> 00.07 | {p} | メールが届いた… / 何だろう？ / 「黒い月が輝く時 / 　お逢いしましょう」…だって？ / なんのことだろう？
+   EN: Got an e-mail... What's this? "When the black moon shines, let us meet"... huh? What's that supposed to mean?
+>> 00.08 | {p} | いけね！ / だいぶ遅くなっちゃった！
+   EN: Oh no! I'm way late!
+>> 00.09 | ??? | おそいよ {p}！ /  / まったく / あたしを誰だと思ってるのよ！？
+   EN: You're late, {p}!  Honestly! Who do you think I am!?
+>> 00.10 | {p} | 誰…って
+   EN: Who... well...
+>> 00.11 | {p} | {s}だろ？
+   EN: You're {s}, right?
+>> 00.12 | {s} | わかってるじゃない / それなのに こんなに待たせて！ / だいたい {p}は / いつも 時間にルーズなのよね！
+   EN: So you DO know! And still you keep me waiting this long! You're always so sloppy about time, {p}!
+>> 00.13 | {p} | だって 急に呼び出すんだもん… / 僕にも 予定が…
+   EN: But you called me out of nowhere... I had plans too...
+>> 00.14 | {s} | いいわけ無用！ もう知らない！
+   EN: No excuses! I'm through with you!
+>> 00.15 | {p} | 怒らないでよ！ /  / ところで 話したいことがある… / って なんなの？
+   EN: Don't be mad!  So, what's this thing you wanted to talk about?
+>> 00.16 | {s} | え えっとぉ… / じつはぁ…
+   EN: W-well, um... the thing is...
+>> 00.17 | {s} | 今まで 黙ってたんだけど…
+   EN: I've been keeping quiet about it, but...
+>> 00.18 | {s} | ちょっとぉ 聞いてるのぉ！？ / 何メールなんか見てるのよ！
+   EN: Hey! Are you even listening!? Why are you looking at e-mail!?
+>> 00.19 | {p} | い いや / 黒い月が…って
+   EN: N-no, it says... a black moon...
+>> 00.20 | {s} | 黒い月？ 何言ってるの？ / 月が黒いわけないじゃん！
+   EN: A black moon? What are you on about? The moon can't be black!
+>> 00.21 | {s} | …え？
+   EN: ...Huh?
+>> 00.22 | {s} | …ちょっと なによ あれ？
+   EN: ...Hey, what's THAT?
+>> 00.23 | {p} | 「黒い月が輝く時 / 　お逢いしましょう」…
+   EN: "When the black moon shines, let us meet"...
+>> 00.24 | {s} | …なによ それ？
+   EN: ...What's that?
+>> 00.25 | {p} | さっき 届いたメールの内容だよ
+   EN: It's the e-mail I just got.
+>> 00.26 | {s} | 見て！ 月が… / 黒い月が 大きくなって行くわ！
+   EN: Look! The moon... The black moon is getting bigger!
+>> 00.27 | {p} | 地震だ！ /  / うわ～！！
+   EN: An earthquake!  Whoaaa!!
+>> 00.28 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 00.29 | {p} | 地震だ！ /  / 次元連鎖が再び始まる！？ / そんな バカな！！
+   EN: An earthquake!  The Dimension Chain is starting again!? No, that's impossible!!
+>> 00.30 | {p} | こ ここは…？ / いったい何が起こったんだろう？
+   EN: Wh-where am I...? What on earth happened?
+>> 00.31 | {p} | だ 大丈夫？ / {s}！ しっかりして！
+   EN: A-are you okay? {s}! Hang in there!
+>> 00.32 | {s} | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 00.33 | {p} | 良かった！ / 気がついたみたいだね！
+   EN: Thank goodness! Looks like you've come to!
+>> 00.34 | {s} | あたし達 どうしたの？
+   EN: What happened to us?
+>> 00.35 | {p} | わからない / 月が黒くなって… それから…
+   EN: I don't know. The moon went black... and then...
+>> 00.36 | {p} | あ 人が倒れてる…！
+   EN: Hey, someone's lying there...!
+>> 00.37 | {s} | …でも 公園には あたし達しか / いなかったはずよ！
+   EN: ...But there was nobody in the park but the two of us!
+>> 00.38 | {p} | ともかく 様子を見てみなきゃ…
+   EN: Anyway, we'd better see how they are...
+>> 00.39 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you all right!?
+>> 00.40 | Girl | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 00.41 | Girl | …大丈夫よ
+   EN: ...I'm all right.
+>> 00.42 | {p} | か 可愛い…
+   EN: Sh-she's cute...
+>> 00.43 | {s} | ちょっと！ / なに 赤くなってるのよ！ / ほら / あっちにも 人が倒れてるわよ！
+   EN: Hey! What are you blushing for!? Look, there's someone lying over there too!
+>> 00.44 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you all right!?
+>> 00.45 | Boy | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 00.46 | {s} | いい男だけど / なんだか 頼りない感じの子ね…
+   EN: He's good-looking, but he seems kind of a pushover...
+>> 00.47 | Boy | ごめん…
+   EN: Sorry...
+>> 00.48 | {s} | あ あら 聞こえてたの！ / ごめんなさい…
+   EN: Oh, d-did you hear that!? I'm sorry...
+>> 00.49 | Boy | いいんだ / 君達が 助けてくれたのかい？
+   EN: It's fine. Did you two save us?
+>> 00.50 | {p} | 助けた…ってわけでも / ないんだけど…
+   EN: Well, I wouldn't really call it saving...
+>> 00.51 | {s} | あたし達も / 何がなんだか わからないのよ
+   EN: We don't know what's going on either!
+>> 00.52 | Boy | そうなんだ /  / 僕は 不動明 / 君達は…？
+   EN: I see.  I'm Akira Fudo. And you two are...?
+>> 00.53 | Girl | あたしは 如月ハニーよ
+   EN: I'm Honey Kisaragi.
+>> 00.54 | {p} | 僕は {p}
+   EN: I'm {p}.
+>> 00.55 | {s} | あたしは {s}よ / よろしくね！
+   EN: And I'm {s}. Nice to meet you!
+>> 00.56 | {p} | …すると 明君は / 下校途中だったわけだね
+   EN: ...So, Akira-kun, you were on your way home from school?
+>> 00.57 | Akira Fudo | 下宿先の 牧村さん家に / 帰る途中だったんだ / 美樹ちゃん / 心配してるだろうなぁ…
+   EN: I was heading back to the Makimuras', where I board. Miki-chan must be worried sick...
+>> 00.58 | Honey Kisaragi | 美樹ちゃんって 彼女？ / いいわね / あたしなんて / 全寮制の 女子校だもん
+   EN: Miki-chan... your girlfriend? Lucky! Me, I'm at an all-girls boarding school.
+>> 00.59 | {s} | 彼氏 いないの？
+   EN: No boyfriend?
+>> 00.60 | Honey Kisaragi | まわりは 女の子ばっかだから…
+   EN: It's nothing but girls around me...
+>> 00.61 | {s} | ハニーは どこにいたの？
+   EN: Where were you, Honey?
+>> 00.62 | Honey Kisaragi | ルームメイトと待ち合わせてたの /  / 門限 過ぎると / 寮に戻れなくなっちゃうから…
+   EN: I was meeting my roommate.  If we miss curfew, we're locked out of the dorm...
+>> 00.63 | {p} | ふたりで / こっそり 寮に戻ろうと？
+   EN: So you two were sneaking back into the dorm together?
+>> 00.64 | Honey Kisaragi | うん
+   EN: Uh-huh.
+>> 00.65 | Akira Fudo | あ ちょっとごめんね / もしもし…
+   EN: Oh, sorry, one sec. Hello...?
+>> 00.66 | Ryo Asuka | {!R}明 おまえに用が出来た / 俺の家まで来てくれ / 左の道を進めば 俺の家に着く{!W}
+   EN: {!R}Akira, I need you. Come to my house. Take the left path and you'll reach it.{!W}
+>> 00.67 | Akira Fudo | ちょっと待ってよ / じ 実は俺 弱ってんだ その…
+   EN: Hold on! A-actually, I'm kind of in a bind here, you see...
+>> 00.68 | Ryo Asuka | {!R}俺の用のほうが 重要だ / 来い{!W}
+   EN: {!R}My business is more important. Come.{!W}
+>> 00.69 | Akira Fudo | まったく 了のヤツ… /  / 親友の 飛鳥了ってヤツが / 僕のことを 呼んでるんだ / 強引なんで 困っちゃうよ
+   EN: Geez, that Ryo...  My best friend, Ryo Asuka, is calling for me. He's so pushy, it drives me nuts.
+>> 00.70 | Honey Kisaragi | あら パパからだわ！ / もしもし…
+   EN: Oh, it's from Papa! Hello...?
+>> 00.71 | Dr. Kisaragi | {!R}ハニー 来てくれ ハニー{!W}
+   EN: {!R}Honey, come to me... Honey...{!W}
+>> 00.72 | Honey Kisaragi | パパ！ いったい どうしたの？
+   EN: Papa! What's wrong!?
+>> 00.73 | Dr. Kisaragi | {!R}ハニー 来てくれ ハニー /  / 右の道を進めば / 私の研究所へ 着くはずだ / ハニー 来てくれ ハニー{!W}
+   EN: {!R}Honey, come to me... Honey...  Take the right path and you should reach my laboratory. Honey, come to me... Honey...{!W}
+>> 00.74 | Honey Kisaragi | 切れちゃったわ… / なにかあったのかしら…？
+   EN: It cut off... Did something happen...?
+>> 00.75 | {p} | そうだ！ / これを見てよ！
+   EN: Oh, right! Look at this!
+>> 00.76 | Akira Fudo | どれどれ？
+   EN: Let's see...
+>> 00.77 | Honey Kisaragi | 「黒い月が輝く時 / 　お逢いしましょう」…？
+   EN: "When the black moon shines, let us meet"...?
+>> 00.78 | Akira Fudo | そういえば…！
+   EN: Now that you mention it...!
+>> 00.79 | Honey Kisaragi | あたしも見たわ…！
+   EN: I saw it too...!
+>> 00.80 | {p} | なんだって！？
+   EN: What!?
+>> 00.81 | {s} | あなた達も 黒い月を…！？
+   EN: You two saw the black moon...!?
+>> 00.82 | {p} | あれ！？
+   EN: Huh!?
+>> 00.83 | {s} | どうしたの？
+   EN: What's wrong?
+>> 00.84 | {p} | 僕の携帯だけ 圏外になってる…
+   EN: Only my phone has no signal...
+>> 00.85 | Akira Fudo | 僕のも 圏外になってる…
+   EN: Mine has no signal either...
+>> 00.86 | Honey Kisaragi | あたしのもよ…
+   EN: Mine too...
+>> 00.87 | {s} | うそ！ さっき 電話が かかって / きたじゃない…！
+   EN: No way! You both just got calls a second ago!
+>> 00.88 | Honey Kisaragi | ともかく / はっきりしていることは… / あたしは右の道へ 明君は左の道へ / 行かなきゃならないことね
+   EN: Anyway, one thing's clear... I have to take the right path, and Akira-kun has to take the left.
+>> 00.89 | Akira Fudo | …ひとりで行くの！？
+   EN: ...You're going alone!?
+>> 00.90 | {s} | 大丈夫よ / ひとりで行かせないから！
+   EN: Don't worry! We won't let you go alone!
+>> 00.91 | {s} | 何があるか 解らないもん…
+   EN: Who knows what's out there...
+>> 00.92 | Honey Kisaragi | パパは 右の道を行けって / 言ってたけど / 研究所の近くに / こんな場所は 無かった…
+   EN: Papa said to take the right path, but there was no place like this near the lab...
+>> 00.93 | Akira Fudo | 了の家の近くにも / こんな場所は 無かった！
+   EN: There was no place like this near Ryo's house, either!
+>> 00.94 | Honey Kisaragi | 単独行動は危険…ってことね
+   EN: So going it alone is dangerous... right.
+>> 00.95 | {s} | それじゃ こうしましょ！
+   EN: Then here's the plan!
+>> 00.96 | {s} | 明君と ハニーは それぞれ / 行かなきゃいけない場所がある / そこで 明君チームと / ハニーチームに 別れるの / 目的を達成したら この場所で / 落ち合うのよ どう？
+   EN: Akira-kun and Honey each have somewhere they have to go. So we split into Team Akira and Team Honey. Once we've done what we came for, we meet back here. How's that?
+>> 00.97 | Akira Fudo | それいいね！
+   EN: Sounds good!
+>> 00.98 | Honey Kisaragi | 賛成！
+   EN: I'm in!
+>> 00.99 | {s} | それじゃ {p}は / 誰と一緒に行く？
+   EN: So, {p}, who are you going with?
+   ctx 01.00 | {s} | 明君と 一緒に行くのね？
+   ctx EN: So you're going with Akira-kun?
+   ctx 01.01 | {s} | ハニーと 一緒に行くのね？
+   ctx EN: So you're going with Honey?

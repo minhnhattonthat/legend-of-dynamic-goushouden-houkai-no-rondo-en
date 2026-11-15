@@ -145,7 +145,7 @@
    11720
   ],
   "jp": "墓世\nこのゲームは じつに不可能を\n可能に してしまうやろ\nなぜ こんなにかんたんに\n可能にできるかというと…\nこのゲームが\nいいかげんだからだー",
-  "en": "Hakayo\nThis game really makes the impossible\npossible, don'tcha think? And why is\nit so easy to make it possible? 'Cause\nthis game is slapdash, that's why!",
+  "en": "Hakase\nThis game really makes the impossible\npossible, don'tcha think? And why is\nit so easy to make it possible? 'Cause\nthis game is slapdash, that's why!",
   "status": "done",
   "notes": ""
  },
@@ -335,7 +335,7 @@
    11757
   ],
   "jp": "墓世\nドクター・ヘルの サルードは\n北西の島に おるそうや\nそこには 機械獣って\nオモロイ マシンがあるんやて\nいっぺん拝みに\n行きまひょかー！",
-  "en": "Hakayo\nThey say Dr. Hell's Saluud is at an\nisland to the northwest. And there's\nthese funky machines called\nMechanical Beasts there. Whaddaya\nsay we go take a gander!",
+  "en": "Hakase\nThey say Dr. Hell's Saluud is at an\nisland to the northwest. And there's\nthese funky machines called\nMechanical Beasts there. Whaddaya\nsay we go take a gander!",
   "status": "done",
   "notes": ""
  },
@@ -425,7 +425,7 @@
    16008
   ],
   "jp": "菊の助\n確か… 家早南友！",
-  "en": "Kikunosuke\nYeah... Nanyu Iyahaya!",
+  "en": "Kikunosuke\nYeah... Nantomo Iyahaya!",
   "status": "done",
   "notes": ""
  },
@@ -435,7 +435,7 @@
    16009
   ],
   "jp": "{p}\nへぇ 僕 {p}！\nよろしく 南友君！",
-  "en": "{p}\nHuh. I'm {p}! Nice to meet\nyou, Nanyu-kun!",
+  "en": "{p}\nHuh. I'm {p}! Nice to meet\nyou, Nantomo-kun!",
   "status": "done",
   "notes": ""
  },
@@ -465,7 +465,7 @@
    16012
   ],
   "jp": "さよ子\n南友君 助けて！\n果扨虹蛇に追われてるの！",
-  "en": "Sayoko\nNanyu-kun, help! Nijija Hatesa is after\nme!",
+  "en": "Sayoko\nNantomo-kun, help! Koja Hatesate is\nafter me!",
   "status": "done",
   "notes": ""
  },
@@ -475,7 +475,7 @@
    16013
   ],
   "jp": "果扨虹蛇\n見つけたぞ\n家早さよ子 家早南友！\n日本経済は果扨家が握るのよ！\n家早は退きなさい！",
-  "en": "Nijija Hatesa\nFound you, Sayoko Iyahaya, Nanyu\nIyahaya! The Hatesa family controls\nJapan's economy! The Iyahayas should\nstep aside!",
+  "en": "Koja Hatesate\nFound you, Sayoko Iyahaya, Nantomo\nIyahaya! The Hatesate family\ncontrols Japan's economy! The\nIyahayas should step aside!",
   "status": "done",
   "notes": ""
  },
@@ -485,7 +485,7 @@
    16014
   ],
   "jp": "さよ子\n南友君 助けて！",
-  "en": "Sayoko\nNanyu-kun, help!",
+  "en": "Sayoko\nNantomo-kun, help!",
   "status": "done",
   "notes": ""
  },
@@ -505,7 +505,7 @@
    16016
   ],
   "jp": "{p}\nちょっと 南友君…？",
-  "en": "{p}\nUm, Nanyu-kun...?",
+  "en": "{p}\nUm, Nantomo-kun...?",
   "status": "done",
   "notes": ""
  },
@@ -535,7 +535,7 @@
    16019
   ],
   "jp": "さよ子\nありがとう！\n助かりましたわ！\n果扨家は 何かと家早を目の敵に\nするのよ\n新興の成り上がり者はイヤね！",
-  "en": "Sayoko\nThank you! You saved me! The Hatesa\nfamily is always out to get the\nIyahayas. Upstart nouveau riche are\nso tiresome!",
+  "en": "Sayoko\nThank you! You saved me! The\nHatesate family is always out to get\nthe Iyahayas. Upstart nouveau riche\nare so tiresome!",
   "status": "done",
   "notes": ""
  },
@@ -575,7 +575,7 @@
    16023
   ],
   "jp": "さよ子\nまぁ！\n南友君 聞いた？",
-  "en": "Sayoko\nMy! Did you hear that, Nanyu-kun?",
+  "en": "Sayoko\nMy! Did you hear that, Nantomo-kun?",
   "status": "done",
   "notes": ""
  },
@@ -605,7 +605,7 @@
    16026
   ],
   "jp": "さよ子\n南友君 あたし達{p}達を\n手伝いましょう！\n何が起こってるのか解らないけど\n\nきっと家早の財力で\n解決してみせるわ！",
-  "en": "Sayoko\nNanyu-kun, let's help\n{p} and the others! I\ndon't know what's going on,\n\nbut the Iyahaya fortune will surely\nsolve it!",
+  "en": "Sayoko\nNantomo-kun, let's help\n{p} and the others! I\ndon't know what's going on,\n\nbut the Iyahaya fortune will surely\nsolve it!",
   "status": "done",
   "notes": ""
  },
@@ -855,7 +855,7 @@
    16070
   ],
   "jp": "法印大子\nあたしは法印大子\n極悪人ハンターよ！",
-  "en": "Hoin Taishi\nI'm Taishi Hoin, villain hunter!",
+  "en": "Daiko Hoin\nI'm Daiko Hoin, villain hunter!",
   "status": "done",
   "notes": ""
  },
@@ -875,7 +875,7 @@
    16072
   ],
   "jp": "法印大子\n正義のため！ 世の中に害をなす\n極悪人を捕らえているの\n今の世の中にとって 超Ａクラスの\n極悪人とは 黒い魔物！\nあたしは そう考えてるのよ！",
-  "en": "Hoin Taishi\nFor justice! I capture villains who do\nharm to the world. In today's world,\nthe super-A-class villains are the\nblack fiends! That's what I think!",
+  "en": "Daiko Hoin\nFor justice! I capture villains who do\nharm to the world. In today's world,\nthe super-A-class villains are the\nblack fiends! That's what I think!",
   "status": "done",
   "notes": ""
  },
@@ -895,7 +895,7 @@
    16074
   ],
   "jp": "法印大子\nそうよ\nところであなた 誰？",
-  "en": "Hoin Taishi\nThat's right. By the way, who are you?",
+  "en": "Daiko Hoin\nThat's right. By the way, who are you?",
   "status": "done",
   "notes": ""
  },
@@ -915,7 +915,7 @@
    16076
   ],
   "jp": "法印大子\n魔王が狙っているのが\nあなただったとはね…\nでも魔王のやり方\nあたしは気に入らないわ！\nあなたに手を貸しましょう！\n共に戦うのよ！",
-  "en": "Hoin Taishi\nSo you're the one the Demon King is\nafter... But I don't like the Demon\nKing's methods! I'll lend you a hand!\nWe'll fight together!",
+  "en": "Daiko Hoin\nSo you're the one the Demon King is\nafter... But I don't like the Demon\nKing's methods! I'll lend you a hand!\nWe'll fight together!",
   "status": "done",
   "notes": ""
  },
@@ -955,7 +955,7 @@
    16093
   ],
   "jp": "{p}\n女の子なのに 男子？",
-  "en": "{p}\nA girl, but a boy?",
+  "en": "{p}\nShe's a girl, but her name means\n\"boy\"?",
   "status": "done",
   "notes": ""
  },

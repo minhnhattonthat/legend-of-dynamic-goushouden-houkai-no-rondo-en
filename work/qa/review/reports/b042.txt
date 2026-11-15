@@ -1,0 +1,3 @@
+IMPORTANT | 41.00 | "血が騒ぐぜ！" means being fired up with excitement. | "My blood's boilin'" conveys anger instead of eagerness to fight. | I'm itchin' for a fight!
+IMPORTANT | 41.37 | "バケモノのような姿になった" means he was left looking like a monster; "失ったものの大きさ" stresses how much he lost. | "Became a monster-like thing" obscures the disfigurement, while "the size of what I lost" undermines his threatening speech. | I am General Hisan! War wounded me and left me looking like a monster. Revenge! I'll punish every last human who starts wars! I'll make the whole world understand how deeply I've been scarred... how much I've lost!
+ASSESSMENT | b042 | Needs fixes | Two lines misrepresent the intended emotion or weaken the meaning of the Japanese.

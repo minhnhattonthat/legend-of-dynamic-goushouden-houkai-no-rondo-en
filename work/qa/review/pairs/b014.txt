@@ -1,0 +1,208 @@
+   ctx 12.98 | {p} | 待って！ / 僕達は 敵じゃない！
+   ctx EN: Wait! We're not your enemy!
+   ctx 12.99 | Shusha | ………信用出来ない！
+   ctx EN: .........I can't trust you!
+>> 13.00 | Immortal Corps | 追え～！ まだ そのあたりに / いるはずだ～！
+   EN: After him! He's gotta still be around here!
+>> 13.01 | {p} | 不死団とは 僕らも因縁がある！ /  / ここは 僕らがヤツらを / 食い止めるから 逃げて！
+   EN: We've got a score to settle with the Immortal Corps too!  We'll hold them off here, so run!
+>> 13.02 | Shusha | …………
+   EN: ............
+>> 13.03 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 13.04 | {p} | 早く！
+   EN: Hurry!
+>> 13.05 | Immortal Corps | いたぞ～！ あれだ～！
+   EN: There he is! That's him!
+>> 13.06 | Immortal Corps | 逃がすな～ ヤツだ！
+   EN: Don't let him get away! It's him!
+>> 13.07 | Jiro | おっと！ あのふたりには / 近寄らせないぜ！
+   EN: Whoa there! We're not letting you anywhere near those two!
+>> 13.08 | Jiro | 不死団のヤツらは / あちこちに いるようだな / あの二人 / 無事に逃げられただろうか？
+   EN: Looks like the Immortal Corps is all over the place. I wonder if those two got away safely?
+>> 13.09 | {p} | ふたりを探そう！
+   EN: Let's find them!
+>> 13.10 | Goda | 朱紗は 俺と全力で戦い / 負かした男 / そいつの運命が かかっているなら / 俺の拳の力 貸すぜ！
+   EN: Shusha's the guy who fought me with everything he had and beat me. If his fate's on the line, I'll lend him the power of my fists!
+>> 13.11 | Immortal Corps | お～い いたかぁ～！？
+   EN: Heeey, find him yet!?
+>> 13.12 | Immortal Corps | わから～ん！
+   EN: Beats meee!
+>> 13.13 | Shusha | いいかい 雪代さん / 俺が ヤツらを引きつける！
+   EN: Listen, Yukishiro-san. I'll draw them off!
+>> 13.14 | Yukishiro | 朱紗君…！？
+   EN: Shusha-kun...!?
+>> 13.15 | Shusha | な～に 大丈夫！ / しばらく じっとしてて！
+   EN: Hey, it's fine! Just stay put for a while!
+>> 13.16 | Yukishiro | 朱紗君…！！
+   EN: Shusha-kun...!!
+>> 13.17 | Immortal Corps | いたぞ～！ あれだ～！
+   EN: There he is! That's him!
+>> 13.18 | {p} | 良かった 無事だったね！ / でも 彼女はどこ？
+   EN: Thank goodness, you're okay! But where's your girlfriend?
+>> 13.19 | Shusha | そうだ 雪代さん…！？
+   EN: Oh right, Yukishiro-san...!?
+>> 13.20 | Shusha | 雪代さ～ん！？ /  / いない！？
+   EN: Yukishiro-saaan!?  She's gone!?
+>> 13.21 | Shusha | 雪代さん… / いったい どこに…？
+   EN: Yukishiro-san... where could you be...?
+>> 13.22 | Mitsurugi | 朱紗君 私と共に来て！
+   EN: Shusha-kun, come with me!
+>> 13.23 | {p} | 美剣さん…
+   EN: Mitsurugi-san...
+>> 13.24 | Mitsurugi | 預言者・真理阿を / 一緒に探して欲しいの / 彼女なら 雪代さんの居場所が / 解るかもしれない…
+   EN: I want you to help me search for Maria the prophet. She might know where Yukishiro-san is...
+>> 13.25 | Shusha | …！？
+   EN: ...!?
+>> 13.26 | {p} | 美剣さん あなたはどうして / 真理阿を探しているの？
+   EN: Mitsurugi-san, why are you looking for Maria?
+>> 13.27 | Mitsurugi | …伝説の荒ぶる神 / スサノオウノミコト… / 凄ノ王の目覚めには / 危険が ともなうの
+   EN: ...The legendary raging god, Susanoo-no-Mikoto... The awakening of Susano-oh brings danger with it.
+>> 13.28 | {p} | 戸来村で言っていた / 「来るべき災厄」って…？
+   EN: The "coming calamity" you talked about in Herai Village...?
+>> 13.29 | Mitsurugi | 吉と出れば 英雄神が目覚めるわ / でも もしも…！ / 凶と出れば / 破壊神が目覚めてしまう
+   EN: If fortune smiles, a hero god will awaken. But if...! If it goes ill, a god of destruction will awaken.
+>> 13.30 | {p} | どちらが目覚めるのか / 知りたいんだね？
+   EN: You want to know which one will awaken?
+>> 13.31 | Mitsurugi | そのとおりよ 何故なら / もしも 破壊神が目覚めたなら / それを倒すのが / 我が美剣一族の運命だから！
+   EN: Exactly. Because if a god of destruction awakens, it is the destiny of my Mitsurugi clan to defeat it!
+>> 13.32 | Shusha | 美剣さん…
+   EN: Mitsurugi-san...
+>> 13.33 | Mitsurugi | そして朱紗君… あなたこそ…！
+   EN: And Shusha-kun... you are the very...!
+>> 13.34 | Shusha | よしてくれよ / 俺が その 凄ノ王だってのかい？
+   EN: Give me a break. You're saying I'm this Susano-oh?
+>> 13.35 | {p} | ええっ！？
+   EN: Whaaat!?
+>> 13.36 | Mitsurugi | あなたの超能力は / 日増しに強くなっているはずよ！
+   EN: Your psychic power must be growing stronger by the day!
+>> 13.37 | Shusha | ……
+   EN: ......
+>> 13.38 | Mitsurugi | 瓜生麗の野望を 止めなくては！
+   EN: We must stop Rei Uryu's ambitions!
+>> 13.39 | {p} | 瓜生麗だって！？
+   EN: Rei Uryu!?
+>> 13.40 | Mitsurugi | 瓜生麗を知っているの？
+   EN: You know Rei Uryu?
+>> 13.41 | {p} | 戸来村に瓜生麗がやってきたんだよ
+   EN: Rei Uryu showed up in Herai Village.
+>> 13.42 | Shusha | 確かに 瓜生麗は 一時 俺に / しつこく つきまとってきた / 正義のための行動に手を貸せ！って
+   EN: It's true, Rei Uryu was hounding me for a while. "Lend me a hand in the cause of justice!" he'd say.
+>> 13.43 | Mitsurugi | あの人のしようとしていることは… / 悪よ！
+   EN: What that man is trying to do... is evil!
+>> 13.44 | {p} | 瓜生麗はどうして預言者・真理阿を / 探しているんだろう？
+   EN: Why is Rei Uryu looking for Maria the prophet?
+>> 13.45 | Shusha | ……
+   EN: ......
+>> 13.46 | Shusha | …よし！ 美剣さん / あなたと共に 真理阿を探そう！
+   EN: ...All right! Mitsurugi-san, I'll search for Maria with you!
+>> 13.47 | Mitsurugi | 朱紗君！
+   EN: Shusha-kun!
+>> 13.48 | {p} | 良かったね 美剣さん！
+   EN: That's great, Mitsurugi-san!
+>> 13.49 | Mitsurugi | ええ…… / でも そういえば / あなた達は どうして真理阿を / 探しているの…？
+   EN: Yes... But come to think of it, why are you looking for Maria...?
+>> 13.50 | {p} | 実は…
+   EN: Actually...
+>> 13.51 | Shusha | …信じがたい話だ
+   EN: ...That's hard to believe.
+>> 13.52 | {p} | 君が 恐ろしい邪神になるかも / しれない…ってのもそうだよ！
+   EN: So is you maybe turning into some terrible evil god!
+>> 13.53 | Shusha | 確かに！ / 俺にも 信じられない！
+   EN: Fair enough! I can't believe it either!
+>> 13.54 | Mitsurugi | {p}君！ /  / 私達を あなたのお仲間に / 加えていただけないかしら？
+   EN: {p}-kun!  Would you let us join your party?
+>> 13.55 | {p} | 大歓迎だよ！ / でもどうして…？
+   EN: You're more than welcome! But why...?
+>> 13.56 | Mitsurugi | あなた達には / 不思議な力を感じるの… / その力こそ 来るべき災厄を / 防ぐ手だてになるかもしれない…
+   EN: I sense a strange power in all of you... That power may be the very means to prevent the coming calamity...
+>> 13.57 | Shusha | {p}達には / 借りが出来ちゃったしな / 真理阿って人を探して / 雪代さんを見つけるには / 仲間は 多い方がいい！
+   EN: I owe you guys one now, {p}. To find this Maria and track down Yukishiro-san, the more friends the better!
+>> 13.58 | {p} | こちらこそ よろしく頼むよ！
+   EN: Glad to have you!
+>> 13.59 | ??? | 世界を壊す神… / 世界を再生する神… / 目覚めの時は近い… / それは我が望みへの第一歩…
+   EN: The god who destroys the world... The god who remakes the world... The time of awakening is near... The first step toward my desire...
+>> 13.60 | Demon Beast Hunter | まて おまえら！ / ここで何をやっている！？ / …ん？ / 戸来村の連中じゃないようだな？ / かまわねぇ / やっちまえ！
+   EN: Hold it, you lot! What are you doing here!? ...Hm? You're not from Herai Village, are you? Who cares, get 'em!
+>> 13.61 | Jiro | なぜ あいつらが / ここにいるんだ？ / …この奥が あやしいな / {p} 行ってみよう
+   EN: Why are those guys here? ...Something's fishy back there. {p}, let's go have a look.
+>> 13.62 | {p} | 戸来村が… 消えた…！？ /  / 黒い月が 戸来村を / 消してしまった…！？ / そんな… / それじゃ 村の人達は…
+   EN: Herai Village... is gone...!?  The black moon erased Herai Village...!? No way... Then the villagers...
+>> 13.63 | {p} | なんだろう この装置は？
+   EN: What's this machine?
+>> 13.64 | Jiro | 今は誰もいないが ここでも誰かが / 研究しているようだな… / きっと / シャフトの仲間に違いない
+   EN: Nobody's here now, but someone's doing research here too... Must be Shaft's people.
+>> 13.65 | Professor Yumi | …黒い月が 世界を連結する力を / 持っていることは / これで 疑いようがないな…
+   EN: ...Now there's no doubt that the black moon has the power to link worlds...
+>> 13.66 | {p} | どういうことですか？
+   EN: What do you mean?
+>> 13.67 | Professor Yumi | 黒い月が出たら 戸来村は消え / 倉庫のある空き地になっていた…
+   EN: When the black moon appeared, Herai Village vanished and became a vacant lot with a warehouse...
+>> 13.68 | Mitsurugi | つまり 空間が / 入れ替わってしまった…？
+   EN: So the spaces swapped places...?
+>> 13.69 | Professor Yumi | その通りだ 美剣君
+   EN: Exactly, Mitsurugi-kun.
+>> 13.70 | Shusha | 新しい世界が 現れるたびに / 世界のどこかが消えてしまう！？ / まさか 雪代さんが消えたのは… / そのせい？
+   EN: Every time a new world appears, some part of the world disappears!? Don't tell me Yukishiro-san vanished because of that?
+>> 13.71 | Professor Yumi | 雪代さんが 消えたのは / 黒い月が出た後だから / その可能性は 無いと思う
+   EN: Yukishiro-san vanished after the black moon appeared, so I don't think that's possible.
+>> 13.72 | Shusha | 良かった…
+   EN: Thank goodness...
+>> 13.73 | Jiro | 恋人が違う世界に行ってしまったら / 助けようがない
+   EN: If your girlfriend got sent to another world, there'd be no way to save her.
+>> 13.74 | Mitsurugi | 一刻も早く 預言者・真理阿を / 見つけないと…！ / 瓜生麗よりも先にね！
+   EN: We must find Maria the prophet as soon as possible...! Before Rei Uryu does!
+>> 13.75 | Professor Yumi | 瓜生コンツェルンの瓜生麗かね？
+   EN: Rei Uryu, of the Uryu Conglomerate?
+>> 13.76 | Shusha | ご存じですか？
+   EN: You know him?
+>> 13.77 | Professor Yumi | う～む… /  / 謎の人物・瓜生麗は 科学都市の / 出資者のひとりでもあるのだ！
+   EN: Hmmm...  The mysterious Rei Uryu is also one of Science City's investors!
+>> 13.78 | Professor Yumi | 噂では / 瓜生麗は 密かに / 来留間博士にも 資金援助を / しているらしい
+   EN: Rumor has it Rei Uryu is secretly funding Dr. Kuruma as well.
+>> 13.79 | Professor Yumi | ふたりとも今の世界を認めていない / という共通点がある
+   EN: The two have one thing in common: neither accepts the world as it is.
+>> 13.80 | Mitsurugi | 確かに そのとおりですわ /  / 瓜生麗は この世界を滅ぼし / 再生しようとしています / そのために朱紗君…いえ 凄ノ王を / 悪用しようとしています！
+   EN: That's exactly right.  Rei Uryu intends to destroy this world and rebuild it. And to do that, he means to misuse Shusha-kun... no, Susano-oh!
+>> 13.81 | Professor Yumi | 来留間博士は / 人類の力を認めていない / 異なる生物同士を合体させ / それを進化と呼んでいる！
+   EN: Dr. Kuruma doesn't recognize the strength of humankind. He fuses different creatures together and calls it evolution!
+>> 13.82 | Jiro | やり方はともかく / ふたりとも人類を滅ぼし / 自分達が理想とする世界を / 作ろうとしているわけだ
+   EN: Whatever their methods, they both want to wipe out humankind and build the world they see as ideal.
+>> 13.83 | Shusha | どうした {p}…？
+   EN: What's wrong, {p}...?
+>> 13.84 | {p} | …今の世界は 決していい世界とは / 言えない / だからといって 誰かが勝手に / 作り替えていいわけがない！
+   EN: ...You can't really call the world we have now a good one. But that doesn't give anybody the right to remake it however they like!
+>> 13.85 | Professor Yumi | そのとおりだ！ /  / これまで 君が出逢った仲間達 / すべて異なる世界の住人だ！ / たとえ それぞれ目的は違えど / 君達は素晴らしい仲間だ！ / 世界は / みんなで変えていくべきなのだ！
+   EN: Exactly right!  Every friend you've met so far comes from a different world! Even if each of you has a different goal, you're wonderful friends! The world should be changed by all of us together!
+>> 13.86 | Jiro | 本当にそうなのかな…？
+   EN: Is that really true...?
+>> 13.87 | Professor Yumi | 子郎君？
+   EN: Jiro-kun?
+>> 13.88 | Jiro | 僕はいずれ 鬼獄界に / 帰らなければならない… / だけど！ 鬼達が殺し合いを / しているような世界に / 誰が帰りたいと思う！？
+   EN: Someday I have to go back to the Kigoku World... But who would want to go back to a world where oni kill each other!?
+>> 13.89 | Jiro | もしも 僕が黒い月だったら… /  / まっさきに / 鬼獄界を 消してやるよ…
+   EN: If I were the black moon...  I'd erase the Kigoku World first thing...
+>> 13.90 | {p} | でも子郎君！ / 世界がツギハギされるたび / それまで そこにいた人達が / 消えちゃうんだよ…
+   EN: But Jiro-kun! Every time the worlds get patched together, the people who were there before disappear...
+>> 13.91 | Jiro | …！？
+   EN: ...!?
+>> 13.92 | Jiro | 鬼獄界のことは 僕自身の問題だ /  / 僕は この問題に / 決着をつけなくてはならない！ / だけど 君の言うとおり / 今の状況は 間違ってる！
+   EN: The Kigoku World is my own problem.  I have to settle it myself! But like you said, what's happening now is wrong!
+>> 13.93 | {p} | 子郎君！
+   EN: Jiro-kun!
+>> 13.94 | Professor Yumi | 子郎君 決意を固めたようだね /  / ところで美剣君！ / 瓜生麗の居場所に 心当たりは？
+   EN: It seems you've made up your mind, Jiro-kun.  Now then, Mitsurugi-kun! Any idea where Rei Uryu might be?
+>> 13.95 | Shusha | 俺が 瓜生麗と会ったのは / ヤツのマンションだった
+   EN: When I met Rei Uryu, it was at his condo.
+>> 13.96 | Mitsurugi | 瓜生麗は マンションを / 幾つも持っているのよ
+   EN: Rei Uryu owns a number of condos.
+>> 13.97 | Professor Yumi | 実は 科学都市には / 立ち入り禁止エリアがある / 出資者用の居住区としてね
+   EN: The truth is, Science City has an off-limits area, a residential district for investors.
+>> 13.98 | {p} | そこに瓜生麗が…？
+   EN: Rei Uryu is there...?
+>> 13.99 | Professor Yumi | 来留間博士と共に / 隠れていても おかしくはない
+   EN: It wouldn't be strange if he were hiding there with Dr. Kuruma.
+   ctx 14.00 | Shusha | それじゃあ そこに…！
+   ctx EN: Then he's there...!
+   ctx 14.01 | Mitsurugi | 力を合わせて乗り込むのよ！
+   ctx EN: We storm in together!

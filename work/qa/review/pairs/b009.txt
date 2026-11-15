@@ -1,0 +1,208 @@
+   ctx 07.98 | Goki | はい！ 童子！！
+   ctx EN: Yes, Doji!!
+   ctx 07.99 | {p} | よし！ / 僕らも行くぞ えん魔くん！
+   ctx EN: All right! Let's go too, Enma-kun!
+>> 08.00 | Enma-kun | おう！！
+   EN: You got it!!
+>> 08.01 | Jiro | 美雪さん！
+   EN: Miyuki-san!
+>> 08.02 | Miyuki | 子郎君！
+   EN: Jiro-kun!
+>> 08.03 | Enma-kun | ひぇ～ アツアツだね！
+   EN: Whoo-hoo, you two lovebirds!
+>> 08.04 | Goki | あのふたりは いずれ / 離れ離れになる運命なのです…
+   EN: Those two are fated to be torn apart someday...
+>> 08.05 | Enma-kun | なんでさ！？
+   EN: How come!?
+>> 08.06 | Goki | 時が来たら 童子は鬼獄界へ / 帰らなければ ならないのです / それが… 童子の運命なのです！
+   EN: When the time comes, Doji must return to the Kigoku World. That... is Doji's fate!
+>> 08.07 | {p} | そんな…
+   EN: But that's...
+>> 08.08 | Miyuki | 私も連れて行って… /  / 命なんかいらない！ / どんなに恐ろしい世界でもいい！ / もしも その時が来たら / 美雪も鬼獄界へ連れて行って！
+   EN: Take me with you...  I don't care about my life! I don't care how terrible the world is! If that time ever comes, take me, Miyuki, to the Kigoku World too!
+>> 08.09 | {p} | 美雪さん…
+   EN: Miyuki-san...
+>> 08.10 | Jiro | 護鬼 俺は {p}と / 一緒に行こうと思う
+   EN: Goki, I'm thinking of going with {p}.
+>> 08.11 | Goki | 童子 私もそれを提案しようと / 考えていました
+   EN: Doji, I was about to suggest the same.
+>> 08.12 | {p} | 実は… 僕もなんだ /  / 閻魔大王の言っていたとおり / 次元の異なる別世界は / 確かに存在するんだ / 鬼獄界のような世界がね
+   EN: Actually... so am I.  Just like Great King Enma said, other worlds in other dimensions really do exist. Worlds like the Kigoku World.
+>> 08.13 | Goki | その鬼獄界に いずれ我々は / 帰らなければならない
+   EN: And someday, we must return to that Kigoku World.
+>> 08.14 | Enma-kun | そっか！ / 子郎達と{p}って…！
+   EN: Oh, I get it! Jiro's gang and {p}...!
+>> 08.15 | {p} | 同じような境遇なんだよ /  / どうしてこの世界に現れたのか？ / どうやって元の世界に帰るのか？
+   EN: We're in the same boat.  Why did we show up in this world? How do we get back to our own?
+>> 08.16 | Jiro | 本当は 鬼獄界へは 行きたくない / …でも 行かなくちゃいけない
+   EN: The truth is, I don't want to go to the Kigoku World... But I have to.
+>> 08.17 | Miyuki | 美雪 どこまでもついて行くわ……
+   EN: I, Miyuki, will follow you anywhere...
+>> 08.18 | Enma-kun | ともかく！ {p}と子郎が / 行動を共にすることで… / お互いの謎を解けるんじゃないか？ / ってことだな！
+   EN: Anyway! If {p} and Jiro team up... maybe they can solve each other's mysteries? That's the idea!
+>> 08.19 | Jiro | こうして出逢えたのも / 何か理由が あるのだと思う
+   EN: I think there's a reason we met like this.
+>> 08.20 | Goki | 鬼獄界を作った何者かの意志か… / あるいは別の…
+   EN: The will of whoever created the Kigoku World... or perhaps something else...
+>> 08.21 | {p} | …別の？
+   EN: ...Something else?
+>> 08.22 | Goki | いや それすら 何も / 解らないのです…
+   EN: No... I know nothing even of that...
+>> 08.23 | {p} | でも その謎を / すべて解かなきゃ！
+   EN: But we've got to solve every one of those mysteries!
+>> 08.24 | Enma-kun | そのとおりだぜ {p}！ / さて 地獄別荘に帰るか！
+   EN: That's the spirit, {p}! Well, let's head back to Hell Villa!
+>> 08.25 | Jiro | 地獄別荘？
+   EN: Hell Villa?
+>> 08.26 | Enma-kun | 俺んちのことさ！ /  / ふたりのための / 部屋を用意してやるよ！
+   EN: It's my place!  I'll fix up a room for the two of you!
+>> 08.27 | Onitani | くっ…手天童子！ / この戦い ひとまず あずけるぞ！
+   EN: Grr... Shutendoji! We'll settle this another time!
+>> 08.28 | {s} | なんか… 寝つけないなぁ… /  / どうしてかしら？ / 胸騒ぎがする…
+   EN: I just... can't get to sleep...  Why is that? I've got a bad feeling...
+>> 08.29 | {s} | キレイな月… /  / いつになったら / 元の世界に戻れるんだろ…
+   EN: What a pretty moon...  When will we ever get back to our own world...
+>> 08.30 | {s} | …！ / 大変！
+   EN: ...! Oh no!
+>> 08.31 | {s} | 痛ッ！ / なに…！？
+   EN: Ow! What...!?
+>> 08.32 | ??? | よくぞ 我が招きに応じた…
+   EN: You have answered my summons well...
+>> 08.33 | {s} | だ 誰！？
+   EN: Wh-who's there!?
+>> 08.34 | ??? | 我が何者か… / いずれ知ることになる / そなたは 我のモノとなり / すべてを知るのだ…！
+   EN: Who I am... you will learn in time. You shall become mine, and know everything...!
+>> 08.35 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 08.36 | {p} | 今の悲鳴は！？
+   EN: What was that scream!?
+>> 08.37 | Honey Kisaragi | {s}がいないわ！
+   EN: {s} is gone!
+>> 08.38 | {p} | あ！ あそこに！
+   EN: Ah! Over there!
+>> 08.39 | Honey Kisaragi | 大変！ 室内に運ばないと！
+   EN: Oh no! We have to get her inside!
+>> 08.40 | {p} | 黒い月！？
+   EN: The black moon!?
+>> 08.41 | Enma-kun | どうしたんだ？ / あ 黒い月だ！？ / でもおかしいな / 地震は起きなかったよな…
+   EN: What's up? Whoa, the black moon!? But that's weird, there wasn't any earthquake...
+>> 08.42 | Jiro | もしかしたら 何か新たな展開が / 始まったのかもしれない
+   EN: Maybe something new is starting.
+>> 08.43 | {p} | 新たな展開…
+   EN: Something new...
+>> 08.44 | Ryoma | ちょっと 何やってんの！？ / {s} 凄い熱だよ！
+   EN: Hey, what are you doing!? {s} is burning up!
+>> 08.45 | {p} | 今 行くよ！
+   EN: I'm coming!
+>> 08.46 | ??? | …いずれ 我がモノに…
+   EN: ...In time, you shall be mine...
+>> 08.47 | {p} | {s}の容体はどう？
+   EN: How is {s} doing?
+>> 08.48 | Honey Kisaragi | 一晩たっても 熱は下がらないし / 眼も覚まさないわ…
+   EN: A whole night's passed and her fever hasn't gone down, and she won't wake up...
+>> 08.49 | Chapeau-jii | 高熱の原因が / 解らんのジャ…
+   EN: I can't tell what's causing the high fever, jaja...
+>> 08.50 | Enma-kun | 地獄界の医者じゃ 人間の病気は / 治せないしなぁ…
+   EN: Hell World doctors can't cure human sickness, either...
+>> 08.51 | Jiro | やっぱり / 医療設備の整った場所で / 優秀な医者に 診て貰ったほうが / いいんじゃないか？
+   EN: Wouldn't it be better to have a good doctor look at her somewhere with proper medical equipment?
+>> 08.52 | Mondo | 黒い月も まだ空に上がってるぜ /  / もう とっくに / 夜は明けたと言うのに…
+   EN: The black moon's still up in the sky, too.  And it's long past dawn...
+>> 08.53 | Enma-kun | な なんだ！？
+   EN: Wh-what was that!?
+>> 08.54 | {p} | 何かが 落ちてくる…！？
+   EN: Something's falling...!?
+>> 08.55 | Honey Kisaragi | あれを見て！
+   EN: Look at that!
+>> 08.56 | Jiro | この近くに落ちたようだ！
+   EN: Looks like it came down near here!
+>> 08.57 | Honey Kisaragi | 大変！ 助けに行かないと！
+   EN: Oh no! We have to go help!
+>> 08.58 | Yamagishi | なんだこりゃ？ / ヘリコプターかな？
+   EN: What the heck is this? A helicopter?
+>> 08.59 | Jubei | これに乗ってた人かしら？
+   EN: Could this be the person who was riding in it?
+>> 08.60 | {p} | おい 君！ / しっかりしろ！
+   EN: Hey, you! Hang in there!
+>> 08.61 | Boy | う う～ん…！
+   EN: Uhh... nnn...!
+>> 08.62 | Boy | …はっ！ / こ ここは…！？
+   EN: ...Huh! Wh-where am I...!?
+>> 08.63 | {p} | ここは 京都の暗黒寺近くの森だよ / 僕は{p} 君の名前は？
+   EN: You're in the forest near the Dark Temple in Kyoto. I'm {p}. What's your name?
+>> 08.64 | Boy | 兜… 甲児… /  / そ… そうだ！ 黒い月！！ /  / ガクッ…！！
+   EN: Koji... Kabuto...  Th-that's right! The black moon!!  *Thud*...!!
+>> 08.65 | {p} | 気絶しちゃった…
+   EN: He passed out...
+>> 08.66 | Yamagishi | …おい いま 黒い月って / 言わなかったか？
+   EN: ...Hey, didn't he just say "black moon"?
+>> 08.67 | Jubei | うん…
+   EN: Yeah...
+>> 08.68 | {p} | ともかく 地獄別荘に運ぼう！
+   EN: Anyway, let's carry him to Hell Villa!
+>> 08.69 | Honey Kisaragi | 兜甲児君が 眼を覚ましたわよ！
+   EN: Koji Kabuto-kun is awake!
+>> 08.70 | {p} | 甲児君の様子は…？
+   EN: How's Koji-kun doing...?
+>> 08.71 | Honey Kisaragi | それが あの人も / 別の世界の人みたいよ
+   EN: Well, it looks like he's from another world too.
+>> 08.72 | {p} | やはり 黒い月に…？
+   EN: The black moon again...?
+>> 08.73 | Honey Kisaragi | それっぽいわね /  / ここは あたしに任せて / 甲児君と話してらっしゃい
+   EN: Seems that way.  Leave things here to me. Go talk with Koji-kun.
+>> 08.74 | Honey Kisaragi | ここはあたしに任せて / 甲児君と話してらっしゃい
+   EN: Leave things here to me. Go talk with Koji-kun.
+>> 08.75 | Princess Yukiko | {s}は / まだ目を覚まさないわ… / 甲児君なら １階の和室で / えん魔くんと お話してるわよ
+   EN: {s} still hasn't woken up... Koji-kun is talking with Enma-kun in the Japanese-style room on the first floor.
+>> 08.76 | Princess Yukiko | {s}は / まだ目を覚まさないわ…
+   EN: {s} still hasn't woken up...
+>> 08.77 | Yamagishi | あの機械 / パイルダー号っていうらしいぜ！
+   EN: Hear that machine's called the Pilder!
+>> 08.78 | Fukurokoji | ちょっと乗ってみたいですね
+   EN: I kinda wanna take it for a spin.
+>> 08.79 | Jubei | 兜甲児君…って / きっと 操縦へたっぴなのよ！ / だって パイルダー / 墜落させちゃうんだもん！
+   EN: That Koji Kabuto-kun must be a lousy pilot! I mean, he crashed the Pilder!
+>> 08.80 | Princess Yukiko | あら～ でも たった一人で / 戦うつもりだったんでしょ？ / 男らしくって素敵だわ～！
+   EN: Oh my, but he was going to fight all on his own, wasn't he? How manly and dreamy!
+>> 08.81 | Kapaeru | ボクと どっちがエエオトコやろ？
+   EN: Who's the better-lookin' fella, him or me, I wonder?
+>> 08.82 | Mondo | あいつの世界にはキカイジュウって / ヤツらが いるらしいぜ
+   EN: Seems his world's got these things called Mechanical Beasts.
+>> 08.83 | Ryoma | 巨大な機械の獣なんだって！
+   EN: They're giant machine beasts, apparently!
+>> 08.84 | {p} | 機械獣…か
+   EN: Mechanical Beasts, huh...
+>> 08.85 | Jack | 富士山麓に光子力研究所というのが / あるそうだ / 関東地獄地震が起きた時 / 富士山が噴火して / あのあたりは 海に沈んだはず…
+   EN: I hear there's a place called the Photon Power Lab at the foot of Mt. Fuji. When the Kanto Hellquake hit, Mt. Fuji erupted, and that whole area should have sunk into the sea...
+>> 08.86 | Jiro | 光子力研究所というところに / 弓教授という科学者がいるそうだよ
+   EN: I hear there's a scientist named Professor Yumi at a place called the Photon Power Laboratory.
+>> 08.87 | Miyuki | 弓教授に頼めば {s}の / 病気が 治るかもしれないわ！
+   EN: If we ask Professor Yumi, maybe he can cure {s}'s illness!
+>> 08.88 | Goki | この世の他には 鬼獄界以外 / 世界など ないと思ってました
+   EN: I believed there was no world beyond this one but the Kigoku World.
+>> 08.89 | Senki | 俺は使命を果たすだけ… / それ以外に関心は無い…！！
+   EN: I simply fulfill my mission... Nothing else concerns me...!!
+>> 08.90 | Koji Kabuto | 君か… / 助けてくれてありがとう
+   EN: So it was you... Thanks for saving me.
+>> 08.91 | Enma-kun | だいたいのことは説明しておいたよ
+   EN: I filled him in on most of it.
+>> 08.92 | Koji Kabuto | 黒い月が現れると 世界が / 繋がってしまうんだって？ / 俺は てっきり / 敵の新兵器かと 思ったよ
+   EN: So when a black moon shows up, worlds get connected? I was sure it was some new enemy weapon.
+>> 08.93 | Koji Kabuto | 機械獣軍団を率いるドクター・ヘル / は 世界征服を目論んでいる / 俺は おじいちゃんが作った / 巨大ロボット・マジンガーＺで / 機械獣軍団と 戦っているんだ
+   EN: Dr. Hell leads an army of Mechanical Beasts and is plotting to take over the world. I fight his Mechanical Beast army with the giant robot my grandpa built: Mazinger Z.
+>> 08.94 | {p} | マジンガーＺ？
+   EN: Mazinger Z?
+>> 08.95 | Koji Kabuto | 光子力研究所で 修理中なんだ
+   EN: It's being repaired at the Photon Power Lab.
+>> 08.96 | Enma-kun | そこには すっげ～科学者が / いるらしいぜ！
+   EN: I hear there's an awesome scientist there!
+>> 08.97 | Koji Kabuto | 弓教授のことだね / おじいちゃんの弟子だった人さ
+   EN: You mean Professor Yumi. He was my grandpa's apprentice.
+>> 08.98 | {p} | 光子力研究所に行けば / その弓教授にも 逢えるの？
+   EN: If we go to the Photon Power Lab, can we meet this Professor Yumi?
+>> 08.99 | Koji Kabuto | 教授は今 研究所には いないんだ /  / 世界屈指の科学者達が集まる / 研究会に 出席してるんだよ
+   EN: The professor's not at the lab right now.  He's attending a conference of the world's top scientists.
+   ctx 09.00 | Enma-kun | 教授の留守とマジンガーの修理中を / 狙われたわけか…
+   ctx EN: So they struck while the professor was away and Mazinger was under repair...
+   ctx 09.01 | Koji Kabuto | それで仕方なく 俺は / ホバーパイルダーで出たんだけど
+   ctx EN: So I had no choice but to head out in the Hover Pilder, and then...

@@ -1,0 +1,188 @@
+   ctx D01.98 |  | 敵単体を【斬】属性で攻撃
+   ctx EN: Slash attack on one enemy
+   ctx D01.99 |  | 敵単体を【斬】属性で攻撃
+   ctx EN: Slash attack on one enemy
+>> D02.00 |  | 敵全体を【斬】属性で攻撃
+   EN: Slash attack on all enemies
+>> D02.01 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D02.02 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D02.03 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.04 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.05 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.06 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.07 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.08 |  | 敵全体を【斬】属性で攻撃
+   EN: Slash attack on all enemies
+>> D02.09 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.10 |  | 他のキャラの技を使う
+   EN: Uses another character's skill
+>> D02.11 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.12 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.13 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.14 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.15 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.16 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.17 |  | 敵全体を【熱】属性で攻撃
+   EN: Fire attack on all enemies
+>> D02.18 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.19 |  | 敵全体を【斬】属性で攻撃
+   EN: Slash attack on all enemies
+>> D02.20 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.21 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.22 |  | 仲間や他者の力を借りて攻撃
+   EN: Attacks with the help of allies and others
+>> D02.23 |  | 敵全体を【熱】属性で攻撃
+   EN: Fire attack on all enemies
+>> D02.24 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.25 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D02.26 |  | 自分以外を【熱】属性で攻撃
+   EN: Fire attack on everyone but the user
+>> D02.27 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.28 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.29 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.30 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.31 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.32 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D02.33 |  | 敵全体を【熱】属性で攻撃
+   EN: Fire attack on all enemies
+>> D02.34 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.35 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.36 |  | 敵全体を【熱】属性で攻撃
+   EN: Fire attack on all enemies
+>> D02.37 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D02.38 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D02.39 |  | 敵全体を即死させる
+   EN: Kills all enemies instantly
+>> D02.40 |  | 敵単体からＤＰを吸収
+   EN: Drains DP from one enemy
+>> D02.41 |  | 敵全体を【熱】属性で攻撃
+   EN: Fire attack on all enemies
+>> D02.42 |  | 敵全体を【雷】属性で攻撃
+   EN: Bolt attack on all enemies
+>> D02.43 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.44 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D02.45 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D02.46 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.47 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.48 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.49 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.50 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.51 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.52 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.53 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.54 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.55 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.56 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.57 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.58 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.59 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.60 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.61 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.62 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.63 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.64 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.65 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.66 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.67 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.68 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.69 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.70 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.71 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.72 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.73 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.74 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.75 |  | 敵全体を【冷】属性で攻撃
+   EN: Ice attack on all enemies
+>> D02.76 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.77 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.78 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.79 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D02.80 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.81 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.82 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.83 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.84 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D02.85 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D02.86 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D02.87 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D02.88 |  | 敵全体を【精神】属性で攻撃
+   EN: Mind attack on all enemies
+>> D02.89 |  | カウンター攻撃
+   EN: Counterattack
+   ctx E00.00 |  | ＤＰ１０％ＵＰ / 精神防御＋５
+   ctx EN: DP +10% Mind Def +5
+   ctx E00.01 |  | ＡＬＬ５％ＵＰ / 精神攻撃＋１０
+   ctx EN: All +5% Mind Atk +10

@@ -1,0 +1,20 @@
+   ctx 51.92 | Akira Fudo | あ あいつは！？
+   ctx EN: Wh-what's HE doing here!?
+   ctx 51.93 | Banko | あれ？ / やぁやぁ この前は どうも！ / この子 クラスメートの男男子！
+   ctx EN: Huh? Hey hey, thanks for the other day! This here's my classmate, Danshi Otoko!
+>> 51.94 | Boy | こんにちは～！
+   EN: Hellooo!
+>> 51.95 | {p} | 女の子なのに 男子？
+   EN: She's a girl, but her name means "boy"?
+>> 51.96 | Banko | おいらスケバン！ / あっはっは！
+   EN: I'm Sukeban! Ahaha!
+>> 51.97 | Banchiyo | あ！ 蛮子！ / おまえ また学校さぼるのか！？
+   EN: Ah! Banji! Are you skipping school again!?
+>> 51.98 | Banko | ち 違うよ かあちゃん！ /  / 学校に行ったらさ / 誰も いねぇんだよ！
+   EN: N-no, Ma!  I went to school, but there was nobody there!
+>> 51.99 | Banchiyo | あたしをごまかそうったって / そうは いかないわよ！
+   EN: Don't think you can fool me!
+   ctx 52.00 | Boy | ホントよ おばさま！
+   ctx EN: It's true, ma'am!
+   ctx 52.01 | Banchiyo | ホントなの？ /  / いや～ねぇ さっさと言ってよ / 蛮子！
+   ctx EN: Is it true?  Oh, honestly, you should've said so sooner, Banji!

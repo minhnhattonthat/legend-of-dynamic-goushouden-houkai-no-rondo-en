@@ -1,0 +1,2 @@
+IMPORTANT | r0DD5E4 | 「ほういんだいこ」 names the character 法印大子. | "Hoin Daiko" conflicts with the established "Hoin Taishi" in speaker tags and the recruitment message. | Hoin Taishi
+ASSESSMENT | b084 | Needs fixes | One character name is inconsistent with its established English form.

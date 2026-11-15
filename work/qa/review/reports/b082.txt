@@ -1,0 +1,5 @@
+IMPORTANT | r0DC8BC | "剣の舞" means "Sword Dance." | "Fencing" replaces the named dance attack with a general sword-fighting discipline. | Sword Dance
+IMPORTANT | r0DC8C4 | "剣のまい" means "Sword Dance." | Same mistranslation as the kanji version. | Sword Dance
+IMPORTANT | r0DC9F8 | "墓世の爆弾" means Hakayo's bomb. | "Grave" translates part of a character's name literally, losing the reference to Hakayo. | Hakayo Bomb
+IMPORTANT | r0DCA04 | "はかせのばくだん" is the alternate label for "墓世の爆弾." | "Grave Bomb" repeats the proper-name mistranslation; keep both labels consistent. | Hakayo Bomb
+ASSESSMENT | b082 | Needs fixes | Correct the Sword Dance mistranslation and restore the character reference in both bomb labels.

@@ -1,0 +1,4 @@
+IMPORTANT | 40.40 | "関所に 誰もいない？ / スラムキングがジャックに負けて / 逃げ出したのかな？" wonders whether the guards fled after Slum King's defeat | English incorrectly makes Slum King the person who fled, rather than the missing guards. | Nobody at the checkpoint? Did the guards run off after Jack beat Slum King?
+MINOR | 40.13 | "勇者アモンの身体を奪った この俺が ... ふるえるなんて！" expresses disbelief at trembling despite possessing Amon's body | "Me, who stole" and "Amon the brave" make this dramatic reaction awkward. | I took the body of the Demon warrior Amon... and even I'm shaking just watching these two fight! Who the hell are those guys!?
+MINOR | 40.15 | "なんて酷い揺れ方だ！" reacts to violent shaking | "What a horrible shake!" sounds unnatural during an earthquake. | It's shaking like crazy!
+ASSESSMENT | b041 | Needs fixes | Correct the fleeing guards' implied subject and polish two awkward reactions.

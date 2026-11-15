@@ -1,0 +1,4 @@
+MINOR | 39.59 | オヤジやオフクロが身体を捨てて守ってくれた この命！ | "Gave their bodies" is an awkward rendering of the parents' sacrifice. | My mom and dad sacrificed themselves to save my life! Now I'm entrusting it to Ryu Takuma!
+MINOR | 39.81 | 暴力が支配する関東の覇者 | "The ruler of violence-ruled Kanto" is repetitive and stiff for Akira's rough voice. | The guy they call the ruler of Kanto, where violence reigns? This oughta be fun...!
+IMPORTANT | 39.99 | 人類最後の世界 means a world where humanity meets its end. | "The very last world of mankind" obscures the intended vision of humanity's destruction. | This world I reached while chasing you is truly delightful! A world devastated by an earthquake... The perfect setting for humanity's final days, just as the Demons desire!
+ASSESSMENT | b040 | Needs fixes | Jinmen's description of humanity's end needs clarification, and two awkward lines merit polishing.

@@ -1,0 +1,3 @@
+CRITICAL | 18.99 | "でもハニー 発信機を どこに隠し持ってるの？" asks where Honey is hiding the transmitter. | Wrong addressee: Honey has been carried away; Natsuko is asking her companions about her, not speaking to her. | Oh, mister, you're wonderful! But where is Honey hiding the transmitter? If I remember right, she said she ends up naked when she turns into the golden Buddha...
+MINOR | 18.74 | "その仏像は！？" means "And where is that statue!?" | "That statue!?" obscures the retort to the detective's claim that he is protecting it. | And where is that statue!? You, you...! TAILBONE-SPLITTER CHOP!
+ASSESSMENT | b019 | Needs fixes | Correct Natsuko's addressee and clarify the stolen-statue retort.

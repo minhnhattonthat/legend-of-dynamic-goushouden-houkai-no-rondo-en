@@ -1,0 +1,208 @@
+   ctx 25.98 | {p} | ………
+   ctx EN: .........
+   ctx 25.99 | Honey Kisaragi | 夏ちゃん…？
+   ctx EN: Natsu-chan...?
+>> 26.00 | ??? | 魔王が 世界を連結しなければ… / 今の悲劇が 確実に起こるの…
+   EN: If the Demon King does not link the worlds... that tragedy is certain to happen...
+>> 26.01 | Honey Kisaragi | それじゃ / 夏ちゃんは 生きてるの？ / さっきのは 幻！？
+   EN: Then is Natsu-chan alive? Was that just an illusion!?
+>> 26.02 | ??? | どれが 実際の出来事かは / 魔王にしか解らないわ / でもこれだけは事実よ / 魔王だけが悲劇を回避出来るのよ
+   EN: Only the Demon King knows which events are real. But this much is true: only the Demon King can prevent the tragedy.
+>> 26.03 | Honey Kisaragi | そんな…
+   EN: That's...
+>> 26.04 | {p} | 教えてくれ！ / こんな幻を 僕達に見せて / 魔王はいったい / どうしたいっていうんだよ！？
+   EN: Tell me! Showing us illusions like this... What on earth does the Demon King want!?
+>> 26.05 | ??? | 魔王はね 認めて欲しいのよ / 自分の考えを… / あなたが協力すれば / さっきの悲劇は 防げるの…
+   EN: The Demon King wants his ideas to be accepted, you see... If you cooperate, the tragedy you just saw can be prevented...
+>> 26.06 | Honey Kisaragi | …………
+   EN: ...............
+>> 26.07 | ??? | 安心して ハニー / 悲劇は起きないわ…
+   EN: Don't worry, Honey. The tragedy won't happen...
+>> 26.08 | Honey Kisaragi | どうして / そんなことが 言えるの？
+   EN: How can you say that?
+>> 26.09 | ??? | {p}が / 既に魔王の手の中だから… / そこは {p}のために / 用意された 牢獄 / 無数にある次元のひとつを / 連結した… 次元牢獄！
+   EN: Because {p} is already in the Demon King's hands... This is a prison made for {p}. One of countless dimensions, linked here... a Dimension Prison!
+>> 26.10 | Seiji Hayami | 次元牢獄だって！？
+   EN: A Dimension Prison!?
+>> 26.11 | Seiji Hayami | どこにも… 出られない！？
+   EN: There's... no way out!?
+>> 26.12 | ??? | もうすぐ 日蝕の時刻… / それまで あなたは次元牢獄の囚人 / 世界の… 仲間達の命運は / もう 尽きたも同然…
+   EN: The eclipse is almost here... Until then, you're a prisoner of the Dimension Prison. The fate of the world... of your friends... is as good as finished...
+>> 26.13 | {p} | そんな… / そんな…
+   EN: No... no...
+>> 26.14 | ??? | 魔王は あなたがいずれ あそこを / 出てくると 知っていたのよ / ただ 手下を使って / それを手助けしただけ…
+   EN: The Demon King knew you'd get out of there eventually. He just used his minions to help you along...
+>> 26.15 | {p} | 僕は 魔王の手のひらで / 遊ばされていたのか…
+   EN: So I was just dancing in the palm of the Demon King's hand...
+>> 26.16 | ??? | 誰も 魔王には逆らえないわ…
+   EN: No one can defy the Demon King...
+>> 26.17 | Seiji Hayami | なんとか出られないかな？
+   EN: Isn't there some way out?
+>> 26.18 | ??? | 無駄よ 次元牢獄の中から / 出ることは 出来ないわ / 外から 仕掛けを / 操作しない限りはね / あたしも… 試したもの…
+   EN: It's no use. You can't get out of the Dimension Prison from inside. Not unless someone works the mechanism from outside. I... tried it too...
+>> 26.19 | {p} | それじゃ やっぱり君は / {s}！？
+   EN: Then you really are {s}!?
+>> 26.20 | ??? | …………
+   EN: ...............
+>> 26.21 | {p} | そうなんだろ…！？
+   EN: You are, aren't you...!?
+>> 26.22 | ??? | いいえ！ / あたしは「破壊の月」！ / そしてあなたは「再生の太陽」！ /  / 時が来れば ふたりとも / ここから出してもらえるわ…
+   EN: No! I am the "Moon of destruction"! And you are the "Sun of rebirth"!  When the time comes, we'll both be let out of here...
+>> 26.23 | {p} | ふざけるな！ /  / 僕は… 僕は そんなの / 絶対 認めないぞ！
+   EN: Don't mess with me!  I... I'll never accept that!
+>> 26.24 | ??? | …………
+   EN: ...............
+>> 26.25 | {p} | {s}～！！
+   EN: {s}!!
+>> 26.26 | Shusha | ふぅ… どうやら / あらかた片づいたようだ…
+   EN: Phew... Looks like we've mostly cleaned them up...
+>> 26.27 | Professor Yumi | 朱紗君！ 大変だ！ / {p}君がいない！
+   EN: Shusha-kun! It's terrible! {p}-kun is gone!
+>> 26.28 | Shusha | …！？
+   EN: ...!?
+>> 26.29 | Professor Yumi | ハニー君と青児君も いないんだ /  / もしかしたら どこからか / 抜け出したのかも しれないぞ
+   EN: Honey-kun and Seiji-kun are gone too.  They may have slipped out from somewhere.
+>> 26.30 | Shusha | …だとすると 始まりの丘に / 向かったのかもしれません / 襲ってきた暴徒達は / あらかた片付けました / これから 始まりの丘に / 向かいます
+   EN: ...In that case, they may have headed for the Hill of Beginnings. We've mostly cleaned up the rioters who attacked. I'll head for the Hill of Beginnings now.
+>> 26.31 | Professor Yumi | そうしてくれるか！ / …しかし 間に合うかな？
+   EN: Would you!? ...But will you make it in time?
+>> 26.32 | Great King Enma | ワシに任せろ！ /  / ふん！
+   EN: Leave it to me!  Hmph!
+>> 26.33 | Great King Enma | ふん！
+   EN: Hmph!
+>> 26.34 | Great King Enma | あんたも 行くかね？ /  / ふん！
+   EN: You going too, eh?  Hmph!
+>> 26.35 | Great King Enma | 最後に ワシじゃ～！
+   EN: And last, me!
+>> 26.36 | Professor Yumi | 閻魔大王 ありがとう！ / これで 戦局を立て直せる！
+   EN: Thank you, Great King Enma! Now we can turn the battle around!
+>> 26.37 | Great King Enma | お安いご用だ / ガッハッハ！
+   EN: Easy as pie! Gahaha!
+>> 26.38 | Shusha | {p}君を… / 仲間達を助けなければ…！
+   EN: I have to save {p}-kun... and our friends...!
+>> 26.39 | Professor Yumi | 朱紗君 後は任せたぞ！
+   EN: Shusha-kun, I'm leaving the rest to you!
+>> 26.40 | Shusha | …どうやら みんな / この下に いるらしい
+   EN: ...Looks like everyone's down below.
+>> 26.41 | Enma-kun | くっそ～ / 外の様子が 気になるぜ…
+   EN: Dammit, I wanna know what's going on outside...
+>> 26.42 | Shinichi | 安心しろ / そろそろ 助けが来る頃だ…
+   EN: Relax. Help should be arriving about now...
+>> 26.43 | Enma-kun | なんだって？ / どうしてわかるんだい？
+   EN: Huh? How do you know?
+>> 26.44 | Shinichi | 真理阿が教えてくれる…
+   EN: Maria tells me...
+>> 26.45 | Shusha | みんな 無事か！？
+   EN: Everyone okay!?
+>> 26.46 | Enma-kun | お～ 待ちかねたぜェ～！
+   EN: Ohh, been waitin' for ya!
+>> 26.47 | Enma-kun | …{p}のヤツが / 飛び出しちまったぁ～？
+   EN: ...{p} ran off on his own!?
+>> 26.48 | Shusha | 暴徒との戦いの最中 / 混乱に乗じていつの間にか…
+   EN: In the middle of the fight with the rioters, he used the confusion to slip out...
+>> 26.49 | Shinichi | はっ！ あいつらしいじゃねぇか /  / よし！ / 俺達は マジンガーＺを助ける / 朱紗 おまえは / {p}を探してくれ！
+   EN: Ha! That's just like him.  All right! We'll rescue Mazinger Z. Shusha, you go find {p}!
+>> 26.50 | {p} | あれ なんだと思う？
+   EN: What do you think that is?
+>> 26.51 | Seiji Hayami | ん？ / 光が射し込んでるみたいだな…
+   EN: Hm? Looks like light shining in...
+>> 26.52 | Honey Kisaragi | まるで太陽ね…
+   EN: Just like the sun...
+>> 26.53 | Honey Kisaragi | ちょっと なに これ～！？
+   EN: Hey, what IS this!?
+>> 26.54 | {p} | うわ～！
+   EN: Whoaaa!
+>> 26.55 | Honey Kisaragi | きゃ～！
+   EN: Kyaaa!
+>> 26.56 | Seiji Hayami | ひぇ～！
+   EN: Eeeek!
+>> 26.57 | Shusha | {p}…？
+   EN: {p}...?
+>> 26.58 | {p} | あれ 朱紗君…？ / ここ…どこ？
+   EN: Huh, Shusha-kun...? Where... are we?
+>> 26.59 | Shusha | 始まりの丘に作られた城の中さ！ / 助けに来たんだよ！
+   EN: Inside the castle built on the Hill of Beginnings! We came to rescue you!
+>> 26.60 | Seiji Hayami | えっ！？ / それじゃ 俺達…
+   EN: What!? Then we're...
+>> 26.61 | Honey Kisaragi | 助かったのね！？
+   EN: Saved!?
+>> 26.62 | Honey Kisaragi | {p}君 危険だわ！
+   EN: {p}-kun, it's dangerous!
+>> 26.63 | Shusha | そこから離れるんだ！！
+   EN: Get away from there!!
+>> 26.64 | {p} | ここは… 始まりの丘？
+   EN: This is... the Hill of Beginnings?
+>> 26.65 | {s} | そうよ…
+   EN: That's right...
+>> 26.66 | {p} | {s}！
+   EN: {s}!
+>> 26.67 | {s} | 始まりの丘はね 魔王にとって / 特別な場所なの / もっとも力を得やすく / 力を発揮しやすい場所 / あたし達がいた公園 / 覚えてる？
+   EN: The Hill of Beginnings is a special place for the Demon King. The place where he most easily gains power and wields it. Remember the park where we were?
+>> 26.68 | {p} | …あの公園で 僕らは黒い月を見た
+   EN: ...In that park, we saw the black moon.
+>> 26.69 | {s} | あたし達の世界にある / あの公園と / この世界の この始まりの丘とは / 次元の壁が うすいんだって / それで たまたま公園にいた男女 / あたし達が魔王に選ばれたの…
+   EN: Between that park in our world and this Hill of Beginnings in this world, they say the wall between dimensions is thin. So the boy and girl who just happened to be in the park... we... were chosen by the Demon King...
+>> 26.70 | {p} | …！？
+   EN: ...!?
+>> 26.71 | {s} | あたし達が 「破壊の月」と / 「再生の太陽」にされたのは / ま～ったくの偶然だった… / ってわけ！
+   EN: Us being made the "Moon of destruction" and the "Sun of rebirth" was pure, total chance, you see!
+>> 26.72 | {p} | 次元の壁だとか 月とか太陽とか / 破壊とか再生とか…！ / いったい 魔王は / 何をしようとしているんだ！？
+   EN: Walls between dimensions, moons and suns, destruction and rebirth...! What on earth is the Demon King trying to do!?
+>> 26.73 | {s} | 無数にある次元世界… / それらを結合して / 余分なものを破壊し / 再生すること…よ！
+   EN: Join together the countless dimensional worlds, destroy whatever is unneeded, and remake them!
+>> 26.74 | {p} | 日蝕が起きたら 何が始まるの？
+   EN: What starts when the eclipse happens?
+>> 26.75 | {s} | 魔王は いつでも / 次元を連鎖させることが出来る / でも 真の意味で / それらを  ひとつにするには / より強い力が 必要 /  / それを可能にしてくれるのが / 日蝕なのよ
+   EN: The Demon King can chain dimensions together any time he likes. But to truly make them one, he needs greater power.  The eclipse is what makes that possible.
+>> 26.76 | {p} | 日蝕まで… / あと わずかだ…
+   EN: The eclipse... is almost here...
+>> 26.77 | {s} | そうよ… / もうすぐ 世界はひとつになるの
+   EN: That's right... Soon the world will become one.
+>> 26.78 | {s} | 日蝕と共に / 黒い太陽が出現するわ / その時 魔王は あたし達を / 体内に摂取するの…
+   EN: With the eclipse, a black sun will appear. Then the Demon King will take us into his body...
+>> 26.79 | {p} | 体内に摂取だって？ / それって つまり…
+   EN: Take us into his body? You mean...
+>> 26.80 | {s} | あたし達を 食べちゃう… / ってことよ
+   EN: He's going to eat us, that's what.
+>> 26.81 | {p} | …！？
+   EN: ...!?
+>> 26.82 | {s} | 魔王だって あたし達が 素直に / 食べられるとは 思ってないわ / そこで 次元牢獄に閉じ込めたのよ /  / 世界が ひとつにならないと / どんな悲劇が起こるか？ / それを見せ 納得ずくで食べられて / くれるように…ってね
+   EN: Even the Demon King doesn't think we'll just let ourselves be eaten. So he locked us in the Dimension Prison.  What tragedies happen if the world doesn't become one? He showed us that, so we'd agree to be eaten.
+>> 26.83 | {p} | ムチャクチャだよ
+   EN: That's insane.
+>> 26.84 | {s} | ムチャクチャなのは / 世界のほうよ / 世界は狂ってる…
+   EN: It's the world that's insane. The world has gone mad...
+>> 26.85 | {p} | それで どうすれば 魔王の野望を / 阻止 出来るの？
+   EN: So how can we stop the Demon King's ambition?
+>> 26.86 | {s} | 黒い太陽が照らす その陽の光の / 中に 足を踏み入れれば / あたし達ふたりは 元の世界に / 戻ることが出来るの
+   EN: If we step into the light the black sun shines, the two of us can go back to our own world.
+>> 26.87 | {p} | その時がチャンスってわけだね！
+   EN: So that's our chance!
+>> 26.88 | {s} | はははははは…！！ / あなた ホント バカね！ / ここが魔王にとって 重要な場所 / だって 教えてあげたでしょ！？ / あなたが ここに来ることも / 魔王は計算の上よ！
+   EN: Hahahahaha...!! You really are an idiot! Didn't I tell you this is an important place for the Demon King!? He planned on you coming here all along!
+>> 26.89 | {p} | …！？
+   EN: ...!?
+>> 26.90 | {s} | 何もかも / 魔王の策略通りなのよ！ / あたし達 この丘から / 逃げることは 出来ないわ！ / もう 終わり…なの！ / あれをごらんなさい！！
+   EN: Everything is going just as the Demon King planned! We can't escape from this hill! It's over...! Look at that!!
+>> 26.91 | Seiji Hayami | 腹減ったなぁ…
+   EN: Man, I'm starving...
+>> 26.92 | Honey Kisaragi | のんきなこと言わないの！
+   EN: This is no time to be so laid-back!
+>> 26.93 | Shusha | そういえば 慎一達は / どうしただろう？ / ここにいてもラチがあかない / 引き返してみようか？
+   EN: Come to think of it, what happened to Shinichi and the others? We're getting nowhere here. Want to head back?
+>> 26.94 | Shinichi | ここまで来て / 装置に近づけないなんて！
+   EN: We came all this way and we can't get near the device!
+>> 26.95 | Enma-kun | 朱紗なみの / 超能力者でもいれば / 装置に近づかなくても / 操作出来るだろうに… / 連れてくるんだったな…
+   EN: If we had a psychic as strong as Shusha, he could work it without getting close... Shoulda brought him...
+>> 26.96 | Enma-kun | お！ 朱紗！ 待ってたぜ！ / あれを なんとかしてくれ！
+   EN: Oh! Shusha! Been waiting for you! Do something about that!
+>> 26.97 | Shusha | あの装置か？
+   EN: That device?
+>> 26.98 | Shinichi | これでマジンガーＺは / 解放されるはずだ！
+   EN: That should free Mazinger Z!
+>> 26.99 | Enma-kun | …！？ / ちょっと アレ 見ろよ！
+   EN: ...!? Hey, look at that!
+   ctx 27.00 | Shusha | 急いで 広間に戻ろう！
+   ctx EN: Let's hurry back to the great hall!
+   ctx 27.01 | Koji Kabuto | やったぜ！ これで動けるぞ！ / マジンガー ゴー！！
+   ctx EN: All right! Now I can move! Mazinger, GO!!

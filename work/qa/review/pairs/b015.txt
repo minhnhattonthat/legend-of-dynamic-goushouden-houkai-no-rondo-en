@@ -1,0 +1,208 @@
+   ctx 13.98 | {p} | そこに瓜生麗が…？
+   ctx EN: Rei Uryu is there...?
+   ctx 13.99 | Professor Yumi | 来留間博士と共に / 隠れていても おかしくはない
+   ctx EN: It wouldn't be strange if he were hiding there with Dr. Kuruma.
+>> 14.00 | Shusha | それじゃあ そこに…！
+   EN: Then he's there...!
+>> 14.01 | Mitsurugi | 力を合わせて乗り込むのよ！
+   EN: We storm in together!
+>> 14.02 | Jiro | 瓜生麗 来留間博士を追及して
+   EN: We go after Rei Uryu and Dr. Kuruma...
+>> 14.03 | {p} | 真理阿の居場所を 突き止めよう！
+   EN: ...and find out where Maria is!
+>> 14.04 | Professor Yumi | その意気だ 諸君！！
+   EN: That's the spirit, everyone!!
+>> 14.05 | Shinichi | 富三郎 手がかりがつかめたぞ
+   EN: Tomisaburo, we've got a lead.
+>> 14.06 | Tomisaburo | あいつらを追え！って おいらの / 勘に 狂いはなかっただろ？ / なにせ おいらだって / 予知一族だかんな！
+   EN: Told ya my gut wasn't wrong when it said "follow those guys," right? After all, I'm Precog Clan too, y'know!
+>> 14.07 | Shinichi | だったら 真理阿の居場所を / あててみろ！
+   EN: Then tell me where Maria is!
+>> 14.08 | Tomisaburo | そ そこまでは…ちょっと / でへへ…！
+   EN: W-well, that's a bit... Heh heh...!
+>> 14.09 | Shinichi | ふん！ / 行くぞ 富三郎！
+   EN: Hmph! Let's go, Tomisaburo!
+>> 14.10 | Tomisaburo | まってくれよぉ～！
+   EN: Wait up for meee!
+>> 14.11 | Professor Yumi | 科学都市の立ち入り禁止エリアに / 瓜生麗のマンションがあるだろう / それを探し出すことが / 真理阿の居場所を突き止める / 唯一の方法のはず… / がんばってくれたまえ！
+   EN: Rei Uryu's condo must be in Science City's off-limits area. Finding it should be the only way to learn where Maria is... Do your best!
+>> 14.12 | {p} | {s}の具合は / どうですか？
+   EN: How is {s} doing?
+>> 14.13 | Professor Yumi | あ うん / え～と だいぶいいみたいだよ / 心配しなくても大丈夫だよ
+   EN: Ah, yes. Well, um, she seems much better. No need to worry.
+>> 14.14 | {p} | …ホントですか？ / 何か隠してないですか？
+   EN: ...Really? You're not hiding something?
+>> 14.15 | Professor Yumi | え！？ / いや その… / お～い！ 誰か あの書類 / どうなってるか知ってるかね！？ / すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: What!? No, well... Hey! Does anyone know what happened to those papers!? Sorry, {p}-kun! I'm busy right now!
+>> 14.16 | Professor | 来留間博士と / 科学都市のスポンサー瓜生麗とが / 手を組んでおったとはのう… / 気がつかなかったわい…
+   EN: Who'd have thought Dr. Kuruma and Rei Uryu, Science City's sponsor, were in cahoots... I never noticed, I tell you...
+>> 14.17 | Professor | マジンガーＺは / ちゃんと 整備しておいたよ / もちろん アフロダイＡと / ボスボロットもな！
+   EN: We gave Mazinger Z a proper tune-up. Aphrodite A and Boss Borot too, of course!
+>> 14.18 | Professor | ジェットスクランダーで空を飛べる / のは マジンガーＺだけだ
+   EN: Mazinger Z is the only one that can fly with the Jet Scrander.
+>> 14.19 | Professor Yumi | すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: Sorry, {p}-kun! I'm busy right now!
+>> 14.20 | {p} | とりあえず 地獄別荘に戻ろう…
+   EN: For now, let's head back to Hell Villa...
+>> 14.21 | {p} | これから僕は 科学都市へ / 行かなきゃならない！ / 一緒に行ってくれるよね？
+   EN: I have to go to Science City now! You'll all come with me, right?
+>> 14.22 | Jiro | ……………
+   EN: ...............
+>> 14.23 | Enma-kun | ……………
+   EN: ...............
+>> 14.24 | {p} | どうしたんだい みんな？
+   EN: What's wrong, everyone?
+>> 14.25 | Shusha | ……………
+   EN: ...............
+>> 14.26 | Mitsurugi | ……………
+   EN: ...............
+>> 14.27 | {p} | なぜ 黙ってるの？
+   EN: Why won't anyone say anything?
+>> 14.28 | Honey Kisaragi | …それはね {p}
+   EN: ...Well, you see, {p}...
+>> 14.29 | {s} | {p}！
+   EN: {p}!
+>> 14.30 | {p} | {s}！？
+   EN: {s}!?
+>> 14.31 | Enma-kun | 病気快復 おめでとう！
+   EN: Congrats on getting better!
+>> 14.32 | Honey Kisaragi | あなたを驚かせたくて / みんなず～っと黙ってたのよ！
+   EN: We all kept quiet the whole time because we wanted to surprise you!
+>> 14.33 | {p} | そうだったんだ！
+   EN: So that's what it was!
+>> 14.34 | {s} | {p}… / そして みんな…！ / 心配かけてごめんなさい！ / でも もう大丈夫よ！
+   EN: {p}... and everyone...! Sorry I made you worry! But I'm fine now!
+>> 14.35 | {p} | よ～し！ / 科学都市に向かって 出発だ！
+   EN: All riiight! Off to Science City!
+>> 14.36 | {p} | …！ 地震だ…！
+   EN: ...! An earthquake...!
+>> 14.37 | {s} | …！ もしかして…！？
+   EN: ...! Could it be...!?
+>> 14.38 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 14.39 | {p} | 黒い月！
+   EN: The black moon!
+>> 14.40 | {s} | な なんてことなの…！
+   EN: Wh-what is going on...!
+>> 14.41 | Honey Kisaragi | 大きいわ！ / いつもより揺れが激しい！
+   EN: It's a big one! The shaking's worse than usual!
+>> 14.42 | Jiro | また 世界が 結合されようと / している…！？
+   EN: Are the worlds trying to merge again...!?
+>> 14.43 | {s} | {p}… / あたし達 逃げられないの…？
+   EN: {p}... Can't we get away...?
+>> 14.44 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 14.45 | {p} | うわ～！
+   EN: Whoaaa!
+>> 14.46 | Announcer | {!R}非常事態です！ 非常事態です！
+   EN: {!R}This is an emergency! This is an emergency!
+>> 14.47 | {p} | う う～ん…？
+   EN: Uhh... nnn...?
+>> 14.48 | Shusha | …黒い月が現れる時って / あんな凄い地震が起きるのか？
+   EN: ...Does an earthquake that bad hit whenever the black moon shows up?
+>> 14.49 | Enma-kun | 今回は 特に酷かったぜ！
+   EN: This time was extra nasty!
+>> 14.50 | Honey Kisaragi | ちょっと / また何か起こったらしいわ！
+   EN: Hey, looks like something else happened!
+>> 14.51 | Announcer | {!R}世界各地で 異変が起こりました！ /  / {!R}北極点付近に 巨大な光の球が / 出現しました！ / {!R}付近一帯は消滅したもようです！ / 衛星からの写真をご覧ください
+   EN: {!R}Strange events have occurred all over the world!  {!R}A gigantic sphere of light has appeared near the North Pole! {!R}The entire surrounding area appears to have vanished! Please look at this satellite photo.
+>> 14.52 | Mitsurugi | 凄いエネルギーだわ！
+   EN: What tremendous energy!
+>> 14.53 | Announcer | {!R}国内からも / ニュースが入っております / {!R}蓮沼という沼が突如 消えてしまい / そこに住宅地が出現しました！
+   EN: {!R}News is also coming in from within Japan. {!R}A pond called Hasunuma suddenly vanished, and a housing area appeared in its place!
+>> 14.54 | Honey Kisaragi | ……………
+   EN: ...............
+>> 14.55 | Announcer | {!R}更に不思議なことに / 住宅地に住む人々は / {!R}蓮沼など知らない… / と言っているそうです！
+   EN: {!R}Even stranger, the people living in the housing area {!R}reportedly say they've never heard of any Hasunuma!
+>> 14.56 | {p} | ハニー / もしかしたら その住宅地に…？
+   EN: Honey, maybe that housing area is...?
+>> 14.57 | Honey Kisaragi | 早見青児君の家も あるかもね… / あたし 青児君に伝えてくるわ！
+   EN: Seiji Hayami-kun's house might be there... I'll go tell Seiji-kun!
+>> 14.58 | {p} | 僕達も 準備を調えて 科学都市へ / 向かったほうがいいみたい
+   EN: Looks like we'd better get ready and head for Science City too.
+>> 14.59 | {s} | あたしは 絶対に行くわよ / 誰がなんといってもね！
+   EN: I'm going for sure, no matter what anyone says!
+>> 14.60 | {p} | 大丈夫かい？ / {s}？
+   EN: Are you sure you're okay, {s}?
+>> 14.61 | {s} | 心配いらないわ！
+   EN: No need to worry!
+>> 14.62 | Shusha | 俺も行く {p} /  / 科学都市に 瓜生麗がいるなら / 行かないわけにはいかない！
+   EN: I'm coming too, {p}.  If Rei Uryu's in Science City, there's no way I'm not going!
+>> 14.63 | Mitsurugi | 私も行きます / 何か イヤな予感がするの…
+   EN: I'm going as well. I have a bad feeling about this...
+>> 14.64 | {p} | よし！ / ふたりは 一緒に来て！
+   EN: All right! You two come with me!
+>> 14.65 | Seiji Hayami | 俺達 蓮沼のあった場所に / 行ってみようと思うんだ / もしかしたら 今度こそ 俺んちが / あるかもしれないし…
+   EN: We're thinking of checking out where Hasunuma used to be. Maybe this time my house will actually be there...
+>> 14.66 | Honey Kisaragi | ふたりだと不安だから　何人かの / 仲間と 一緒に行こうと思うの
+   EN: Just the two of us would be risky, so I'm thinking of bringing some friends along.
+>> 14.67 | {p} | それで 誰と一緒に行くんだい？
+   EN: So who are you taking?
+>> 14.68 | Akira Fudo | {p}とハニーとは / 始まりの丘以来の縁だ / どちらかの手助けが出来るなら / うれしいよ
+   EN: I've been with {p} and Honey since the Hill of Beginnings. I'd be glad to help either of you.
+>> 14.69 | Mondo Saotome | 大変なことになってきたな / 血が騒ぐぜ！
+   EN: Things are gettin' serious. My blood's pumpin'!
+>> 14.70 | Ryoma Shindo | 俺は 門土と一緒なら / どこへでも行くよ
+   EN: As long as I'm with Mondo, I'll go anywhere.
+>> 14.71 | Jack | 世界が崩れ始めている… / そんな気がする…！
+   EN: The world is starting to crumble... That's how it feels...!
+>> 14.72 | Enma-kun | いつでも俺は {p}と / ハニーの 味方だぜ！
+   EN: I'm always on {p} and Honey's side!
+>> 14.73 | Kapaeru | 次から次へと 人間界も大変ねー
+   EN: One thing after another, the human world sure has it rough, I do declare.
+>> 14.74 | Princess Yukiko | 北極って 人間界で / 一番居心地良かったのに！
+   EN: And the North Pole was the comfiest place in the whole human world!
+>> 14.75 | Yamagishi | どっちと一緒に行っても / わくわく出来そうだぜ！
+   EN: Whoever I go with, it's gonna be a blast!
+>> 14.76 | Fukurokoji | 親分は 気楽に考えすぎですよー / でも…ダイジョブかな？
+   EN: Boss, you take things way too easy... But will we be okay?
+>> 14.77 | Jubei | {p}もハニーも / 油断は禁物よ！
+   EN: {p}, Honey, don't let your guard down!
+>> 14.78 | Jiro | 難しいことになったね / じっくり考えたほうがいい
+   EN: This has gotten tricky. Better think it through.
+>> 14.79 | Goki | どこだろうと 童子を護るのが / 私の役目です！
+   EN: Wherever it may be, my duty is to protect Doji!
+>> 14.80 | Senki | 鬼獄界にも / 危険が迫っているのだろうか？
+   EN: Is danger drawing near the Kigoku World as well?
+>> 14.81 | Miyuki Shiratori | あたし 恐いわ… / でも 負けはしない！
+   EN: I'm scared... But I won't give in!
+>> 14.82 | Koji Kabuto | マジンガーＺの底力 / 見せてやるよ！
+   EN: I'll show you what Mazinger Z's really got!
+>> 14.83 | Sayaka Yumi | アフロダイＡ / 今度こそ活躍するわよ！
+   EN: This time Aphrodite A's going to shine!
+>> 14.84 | Boss | ボスボロットをあなどるなよぉ～ / ハニーちゃん！
+   EN: Don't you underestimate Boss Borot, Honey-chan!
+>> 14.85 | Nuke | ボスについてくより / ハニーちゃんについてきたい！
+   EN: I'd rather follow Honey-chan than the Boss!
+>> 14.86 | Mucha | やるときゃ やるで！ / みとくれ ハニーちゃん！
+   EN: When it counts, we deliver! Watch us, Honey-chan!
+>> 14.87 | Goda | ボクサーとしての俺は 超高校級だ / ボディガードには最適だぜ！
+   EN: As a boxer, I'm way beyond high-school level. Perfect bodyguard material!
+>> 14.88 | {p} | うん わかったよ！ / お互い がんばろう！
+   EN: Yeah, got it! Let's both do our best!
+>> 14.89 | Honey Kisaragi | {p} / あなた達も気をつけて！
+   EN: {p}, you all be careful too!
+>> 14.90 | {p} | うわ～！
+   EN: Whoaaa!
+>> 14.91 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 14.92 | Shusha | なにごとだ！？
+   EN: What's going on!?
+>> 14.93 | Mitsurugi | わからないわ！ / 路肩に逃げましょう！
+   EN: I don't know! Let's get to the roadside!
+>> 14.94 | Shusha | どうやら / 待ち伏せされたらしいな…！
+   EN: Looks like we got ambushed...!
+>> 14.95 | {p} | 向こうから 魔獣ハンターがくる！
+   EN: Demon Beast Hunters coming from over there!
+>> 14.96 | Mitsurugi | こっちからは 不死団よ！
+   EN: And the Immortal Corps from this side!
+>> 14.97 | {p} | なんで 魔獣ハンターと不死団が / タッグを組んでるんだろ？
+   EN: Why are the Demon Beast Hunters and the Immortal Corps teaming up?
+>> 14.98 | Shusha | さぁ～な！ / 生き残れたら考えようぜ！
+   EN: Beats me! Let's think about it if we live!
+>> 14.99 | Tomisaburo | へっへ！ いよいよ始まったぜ！ /  / うまいこと隙をついて 科学都市の / 中に 入っちゃおうぜ！
+   EN: Heh heh! It's on now!  Let's slip in while they're distracted and get inside Science City!
+   ctx 15.00 | Shinichi | 果たして そう巧くいくかな？
+   ctx EN: Think it'll go that smoothly?
+   ctx 15.01 | Tomisaburo | んじゃ どうする？
+   ctx EN: Then whaddaya wanna do?

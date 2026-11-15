@@ -1,0 +1,32 @@
+   ctx P02.98 |  | 魔王の城
+   ctx EN: Demon King's Castle
+   ctx P02.99 |  | 医療機関
+   ctx EN: Medical Center
+>> P03.00 |  | 医療機関
+   EN: Medical Center
+>> P03.01 |  | 医療機関
+   EN: Medical Center
+>> P03.02 |  | 医療機関
+   EN: Medical Center
+>> P03.03 |  | 研究機関
+   EN: Research Center
+>> P03.04 |  | 研究機関
+   EN: Research Center
+>> P03.05 |  | 研究機関
+   EN: Research Center
+>> P03.06 |  | 公園
+   EN: Park
+>> P03.07 |  | ホテル　Ｂ１Ｆ
+   EN: Hotel B1F
+>> P03.08 |  | ゼノン島
+   EN: Zennon Island
+>> P03.09 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P03.10 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P03.11 |  | 地獄別荘
+   EN: Hell Villa
+   ctx r0CD95C |  | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　！”＃＄％＆’（）＊＋，－．／０１２３４５６７８９：；＜＝＞？＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ［￥］＾＿‘ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｛｜｝～　
+   ctx EN:                                  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZY^_'abcdefghijklmnopqrstuvwxyz|~
+   ctx r0CDD28 |  | ＞
+   ctx EN: >

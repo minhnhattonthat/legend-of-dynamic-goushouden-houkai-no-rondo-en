@@ -1,0 +1,208 @@
+   ctx 16.98 | Uryu | 朱紗が 俺を見ている！？ /  / …いや！ / まだ ヤツは 凄ノ王だ！
+   ctx EN: Shusha is looking at me!?  ...No! He's still Susano-oh!
+   ctx 16.99 | Uryu | 俺の計画を 邪魔する者は / 皆殺しだ！ / 貴様らの死が 凄ノ王を / より強くするだろう…！
+   ctx EN: Anyone who gets in the way of my plan dies! Your deaths will make Susano-oh even stronger...!
+>> 17.00 | {p} | 瓜生！
+   EN: Uryu!
+>> 17.01 | {p} | …雪代さん！
+   EN: ...Yukishiro-san!
+>> 17.02 | Maria | 慎一…
+   EN: Shinichi...
+>> 17.03 | Shinichi | 真理阿！
+   EN: Maria!
+>> 17.04 | Maria | 美剣さん… 朱紗君は 自分の意志を / 取り戻しつつあるわ / でも 身体を「魔」に覆われて / 身動きとれないの…
+   EN: Mitsurugi-san... Shusha-kun is regaining his own will. But his body is covered in "Ma," and he can't move...
+>> 17.05 | Mitsurugi | どうすればいいの！？
+   EN: What should we do!?
+>> 17.06 | Maria | 怒りと 憎しみを鎮めるには / それを相殺する心を…！ / 怒りや 憎しみよりも 強い気持ちを / 勇気を 彼に与えるの！
+   EN: To calm rage and hatred, you need a heart that cancels them out...! Give him a feeling stronger than rage or hatred: courage!
+>> 17.07 | Mitsurugi | どうやって…！？
+   EN: How...!?
+>> 17.08 | Maria | 雪代さん… あなたの 朱紗君を / 想う気持ち… / それを 凄ノ王にぶつけるのよ… /  / そうすることで「魔」が剥がれ / 凄ノ王は 消滅する…
+   EN: Yukishiro-san... your feelings for Shusha-kun... Hurl them at Susano-oh...  That will peel away the "Ma," and Susano-oh will vanish...
+>> 17.09 | Yukishiro | そんな… あたし 普通の女の子よ / 超能力なんてないわ！
+   EN: But... I'm just a normal girl! I don't have any psychic powers!
+>> 17.10 | Maria | あなたは 朱紗君のことを / 想うだけでいいの…
+   EN: All you have to do is think of Shusha-kun...
+>> 17.11 | Yukishiro | でも…
+   EN: But...
+>> 17.12 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 17.13 | Maria | 凄ノ王は 次々に「魔」を / 吸収している… / それを妨げるのは… / 慎一 あなたの役目よ…
+   EN: Susano-oh keeps absorbing more and more "Ma"... Stopping that... is your role, Shinichi...
+>> 17.14 | Shinichi | 俺の役目…？
+   EN: My role...?
+>> 17.15 | Maria | あなたと 私の 役目なの… / それが… 未来なの
+   EN: Your role and mine... That is... the future.
+>> 17.16 | Maria | 慎一 あなたには / 無限の吸収力がある / 私は / あなたと ひとつになるの… / 慎一 私… 死ぬわ…
+   EN: Shinichi, you have a limitless power to absorb. I will become one with you... Shinichi, I... am going to die...
+>> 17.17 | Shinichi | なんだと！？ / おまえが 死ぬわけがねぇ！
+   EN: What!? There's no way you're gonna die!
+>> 17.18 | Maria | これは… 止められないこと… / 私の見た… 未来…！
+   EN: This... cannot be stopped... It's the future... I saw...!
+>> 17.19 | Shinichi | …真理阿？ /  / 真理阿！！
+   EN: ...Maria?  Maria!!
+>> 17.20 | Shinichi | 真理阿～～！！
+   EN: MARIAAA!!
+>> 17.21 | Maria | 慎一！ / 私と あなたは… ひとつよ！ / 私は あなたのもの…
+   EN: Shinichi! You and I... are one! I am yours...
+>> 17.22 | Shinichi | 真理阿…
+   EN: Maria...
+>> 17.23 | Shinichi | 真理阿～～！！
+   EN: MARIAAA!!
+>> 17.24 | Susano-oh | ググググググ…？
+   EN: Grrrrrrr...?
+>> 17.25 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 17.26 | Mitsurugi | …！！ 凄ノ王の身体から / 「魔」が 剥がれたわ！
+   EN: ...!! The "Ma" is peeling off Susano-oh's body!
+>> 17.27 | Susano-oh | ギャオオオオォ～！！
+   EN: GYAOOOOOH!!
+>> 17.28 | Yukishiro | やっぱりダメよ！ / 朱紗君を元に戻すなんて無理よ！
+   EN: It's no use after all! There's no way I can turn Shusha-kun back!
+>> 17.29 | Mitsurugi | いいえ あなたしかいないの！
+   EN: No, you're the only one who can!
+>> 17.30 | Uryu | あはははははは…！
+   EN: Ahahahahaha...!
+>> 17.31 | {p} | 瓜生！
+   EN: Uryu!
+>> 17.32 | Uryu | 超能力者でもない雪代が / どうやって「魔」を剥がすんだ？
+   EN: How is Yukishiro, who isn't even a psychic, supposed to peel off the "Ma"?
+>> 17.33 | {p} | 黙れ 瓜生！
+   EN: Shut up, Uryu!
+>> 17.34 | Uryu | 超能力の怪物！ / 魔神・凄ノ王が…！ / 全世界を滅ぼすさまを / 見せてもらうぜ！
+   EN: The psychic monster! The demon god Susano-oh...! Let me watch him destroy the whole world!
+>> 17.35 | Uryu | 雪代…！？
+   EN: Yukishiro...!?
+>> 17.36 | Yukishiro | 朱紗君をあのままにしておくことは / 出来ないわ！ / それに… それにあたしが…！ / あたしが 朱紗君を / 凄ノ王にしてしまう / 要因だったのだから！
+   EN: I can't leave Shusha-kun like that! Besides... besides, it was me...! I was the reason Shusha-kun turned into Susano-oh!
+>> 17.37 | Uryu | 雪代…
+   EN: Yukishiro...
+>> 17.38 | {p} | いいぞ 雪代さん！
+   EN: Way to go, Yukishiro-san!
+>> 17.39 | {s} | やっちゃえ そんなヤツ！
+   EN: Let that creep have it!
+>> 17.40 | Yukishiro | あなたには / 心というものが無いの！？ / 朱紗君の あの恐ろしい姿を見て / 心が痛まないの！？
+   EN: Don't you have a heart!? Doesn't it hurt you to see Shusha-kun in that terrible form!?
+>> 17.41 | Yukishiro | あの悪魔の姿は / 断じて朱紗君ではないわ！ / あなたよ！ 瓜生君！ / あの悪魔の姿は あなたの姿よ！
+   EN: That demon's form is absolutely not Shusha-kun! It's you, Uryu-kun! That demon's form is YOUR form!
+>> 17.42 | Yukishiro | 美剣さん…！ お願いします！
+   EN: Mitsurugi-san...! Please!
+>> 17.43 | Susano-oh | グ…ググ…グ… / ユ…ギ…ジ…ロ… / ググ…！
+   EN: Grr... grrr... grr... Yu... ki... shi... ro... Grrr...!
+>> 17.44 | {p} | …！？
+   EN: ...!?
+>> 17.45 | {s} | いま ユ・キ・シ・ロって / 言わなかった？
+   EN: Didn't he just say "Yu-ki-shi-ro"?
+>> 17.46 | Susano-oh | グ…ググ…グ… / ユ…ギ…ジ…ロ… / ググ…！
+   EN: Grr... grrr... grr... Yu... ki... shi... ro... Grrr...!
+>> 17.47 | {s} | やっぱり 言ってるわよ！
+   EN: He IS saying it!
+>> 17.48 | Shinichi | 真理阿が目覚めさせた / 朱紗の意志が 活動を始めている！ / 朱紗が 必死に 魔を / 剥がそうとしているんだ！
+   EN: Shusha's will, the one Maria awakened, is starting to act! Shusha's desperately trying to peel off the Ma!
+>> 17.49 | {p} | ホントに！？
+   EN: Really!?
+>> 17.50 | Shinichi | 真理阿が そう 教えてくれるんだ…
+   EN: Maria's telling me so...
+>> 17.51 | {p} | 真理阿さんが…
+   EN: Maria-san is...
+>> 17.52 | Uryu | 凄ノ王は 無限のエネルギーを持つ / 闇のようなもの / 光が強くなれば 闇は消滅する /  / 「魔」が剥がれることで / 闇が 徐々に弱まっている…！
+   EN: Susano-oh is like a darkness with limitless energy. When the light grows strong, the darkness vanishes.  As the "Ma" peels away, the darkness is gradually weakening...!
+>> 17.53 | Shinichi | 朱紗の意志が 力を持ち始め / 「魔」を剥がし始めているのか
+   EN: So Shusha's will is gaining strength and starting to peel off the "Ma."
+>> 17.54 | Uryu | 凄ノ王から 完全に「魔」を / 祓うことが出来れば / 朱紗を 元の姿に / 戻せるかもしれない！
+   EN: If we can completely purge the "Ma" from Susano-oh, we might be able to bring Shusha back to his true form!
+>> 17.55 | {p} | 瓜生…！？
+   EN: Uryu...!?
+>> 17.56 | Uryu | 凄ノ王… ヤツは /  / 世界を 滅ぼすどころか 地球をも / 破壊しかねない化け物だ / そうなってしまったら / 新しい世界を創るという / 俺の夢が 実現出来なくなって / しまうからな！
+   EN: Susano-oh... that thing  is a monster that could not only destroy the world, but wreck the whole Earth. If that happened, my dream of creating a new world could never come true!
+>> 17.57 | Shinichi | 瓜生！ 俺は おまえを / 許したわけじゃない
+   EN: Uryu! Don't think I've forgiven you.
+>> 17.58 | Uryu | わかっている… / そんなことを望んじゃいない…
+   EN: I know... I'm not asking you to...
+>> 17.59 | Shinichi | だが真理阿が 瓜生麗と共に戦え！ / と 告げるんだ
+   EN: But Maria's telling me to fight alongside Rei Uryu.
+>> 17.60 | {p} | 慎一君！ 瓜生さん！
+   EN: Shinichi-kun! Uryu-san!
+>> 17.61 | Uryu | 雪代と美剣が送るテレパシーに / 凄ノ王が反応した時がチャンスだ
+   EN: Our chance comes when Susano-oh reacts to the telepathy Yukishiro and Mitsurugi are sending.
+>> 17.62 | Shinichi | その時こそ 朱紗の意識が 必死に / 「魔」を剥がそうとしている時！
+   EN: That's exactly when Shusha's mind is desperately trying to peel off the "Ma"!
+>> 17.63 | {p} | タイミングを見て 凄ノ王から / 「魔」を剥がすんだね！
+   EN: So we time it right and peel the "Ma" off Susano-oh!
+>> 17.64 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 17.65 | {p} | 朱紗君の あの姿は…？
+   EN: What is that form Shusha-kun's taken...?
+>> 17.66 | Mitsurugi | あれこそ スサノオウノミコトよ！
+   EN: That is Susanoo-no-Mikoto!
+>> 17.67 | {s} | スサノオウノミコト…？
+   EN: Susanoo-no-Mikoto...?
+>> 17.68 | Mitsurugi | 「魔」の負のエネルギーに対する / 正のエネルギー！ / 宇宙の光のエネルギーを / 無限に取り入れられる… / そんな心の状態になった時 /  / 「魔」を祓う超人・英雄王真神が / 現れるの！
+   EN: The positive energy that opposes the negative energy of "Ma"! When the heart reaches a state where it can draw in the universe's energy of light without limit,  the superhuman who purges "Ma" appears: the hero king, the true god!
+>> 17.69 | Uryu | 雪代の呼びかけが / 朱紗に光を与えたわけか…
+   EN: So Yukishiro's call gave Shusha light...
+>> 17.70 | Shinichi | 俺にとって / 真理阿が 光となったように…
+   EN: Just like Maria became my light...
+>> 17.71 | {p} | 朱紗君にとって / 雪代さんが光になったわけだね！
+   EN: Yukishiro-san became Shusha-kun's light!
+>> 17.72 | Paramedic | どけどけぇ～ / ケガ人のお通りだぁ～！
+   EN: Outta the way, outta the way! Wounded coming through!
+>> 17.73 | Paramedic | 包帯が足りないので / 手配してくれ！
+   EN: We're short on bandages, get some sent over!
+>> 17.74 | Paramedic | 大丈夫 傷は浅いぞ / がっくりしろ！ / …いや しっかりしろ！
+   EN: Don't worry, it's only a flesh wound. Give up! ...Er, I mean, hang in there!
+>> 17.75 | Paramedic | …まったく！ どうすればこんなに / 破壊されるのやら…
+   EN: ...Honestly! How does anything get this wrecked...
+>> 17.76 | Injured Person | 痛いよぉ 痛いよぉ…
+   EN: It hurts, it hurts...
+>> 17.77 | Injured Person | 私の器材は無事か？ / 研究資料は？ 報告書は？
+   EN: Is my equipment safe? My research data? My reports?
+>> 17.78 | Injured Person | く 苦しい…
+   EN: I-it hurts...
+>> 17.79 | Worker | これが「魔」の残骸かぁ… /  / 死んでるとはいえ / 気持ち悪い感触…
+   EN: So these are the remains of the "Ma"...  It's dead, but it sure feels gross...
+>> 17.80 | Worker | 悪感情が 具体化したのが / 「魔」だとしたら / 誰でも 心の中に こんなのが / いるのかな？
+   EN: If "Ma" is bad feelings made solid, does everyone have something like this inside their hearts?
+>> 17.81 | Worker | 生き返ったら イヤだな… /  / うわ～ 想像しちゃったら / 頭から離れない～！
+   EN: I'd hate it if it came back to life...  Agh, now I've pictured it, I can't get it out of my head!
+>> 17.82 | Worker | 「魔」の正体って なんだんだ…？
+   EN: What is "Ma," really...?
+>> 17.83 | Worker | 怒りとか 憎しみとかの / 精神エネルギーだそうだ
+   EN: They say it's psychic energy, like rage and hatred.
+>> 17.84 | {s} | あたし達… これから… / どうなっちゃうんだろう…
+   EN: What's... going to happen to us now...
+>> 17.85 | {p} | 大丈夫！ きっと いつか必ず / 元の世界に戻れるさ！
+   EN: It'll be okay! Someday, for sure, we'll get back to our own world!
+>> 17.86 | {s} | 熱を出して / 倒れてしまった時ね… / 誰かに / 襲われたような気がするの…
+   EN: When I came down with that fever and collapsed... I feel like someone attacked me...
+>> 17.87 | {p} | …！？
+   EN: ...!?
+>> 17.88 | {s} | そいつに いつも / 見られているような気がするの…
+   EN: I feel like they're always watching me...
+>> 17.89 | {p} | そんな！
+   EN: No way!
+>> 17.90 | {s} | もう 心配性なんだから！
+   EN: Oh, you worry too much!
+>> 17.91 | {p} | あっ やっと笑った！
+   EN: Ah, you finally smiled!
+>> 17.92 | {s} | だって…！
+   EN: Well...!
+>> 17.93 | {s} | この世界に ふたりきり… / それが{p}で良かったわ / 黒い月が現れて どこかに / 連れて行かれそうな気がして / ひとりじゃ / 恐くてたまらないもん…
+   EN: The two of us alone in this world... I'm glad it's you, {p}. When the black moon comes out, I feel like I'm going to get carried off somewhere, and alone I'd be so scared I couldn't stand it...
+>> 17.94 | {p} | 大丈夫！ / 朱紗君が 元の姿に戻ったように / 僕らだって / 必ず元の世界に帰れるよ！
+   EN: It'll be okay! Just like Shusha-kun got back to his true form, we'll get back to our own world for sure!
+>> 17.95 | {s} | …そうね 帰れるわよね
+   EN: ...Yeah. We'll get back, won't we?
+>> 17.96 | {p} | 月だって あんなにキレイだし…
+   EN: And look how pretty the moon is...
+>> 17.97 | {s} | ハニー達 / あれから どうしてるかしら…
+   EN: I wonder how Honey and the others are doing...
+>> 17.98 | {p} | 今頃 無事に この月を見てるよ…
+   EN: I bet they're safe and looking at this moon right now...
+>> 17.99 | {s} | そうだといいわね…
+   EN: I hope so...
+   ctx 18.00 | Honey Kisaragi | …ここが ポール玉玉氏邱ね？
+   ctx EN: ...So this is Mr. Paul Tamatama's mansion?
+   ctx 18.01 | Seiji Hayami | そうだ…って なんで オヤジが / ついてくるんだよ！
+   ctx EN: That's right... Hey, why are you tagging along, Pop!?

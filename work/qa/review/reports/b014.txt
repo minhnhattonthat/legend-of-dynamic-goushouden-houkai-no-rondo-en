@@ -1,0 +1,3 @@
+MINOR | 13.52 | 君が 恐ろしい邪神になるかもしれない…ってのもそうだよ！ | "So is you maybe turning" is awkward English. | So is the idea that you might turn into a terrible evil god!
+MINOR | 13.80 | そのために朱紗君…いえ 凄ノ王を悪用しようとしています！ | "Misuse Shusha-kun" sounds unnatural when describing exploiting a person. | That's exactly right.  Rei Uryu intends to destroy this world and rebuild it. And to do that, he means to use Shusha-kun... no, Susano-oh for his own ends!
+ASSESSMENT | b014 | Approved | Meaning, terminology, and voices are preserved; only minor phrasing polish is needed.

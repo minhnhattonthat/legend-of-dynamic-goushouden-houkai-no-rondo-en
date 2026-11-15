@@ -1,0 +1,2 @@
+MINOR | 38.29 | デーモンと戦う方法 それは！ 自分自身が デーモンになることだ！ | "The way to fight the Demons is!" breaks the sentence awkwardly at the dramatic reveal. | The way to fight the Demons... is to become a Demon yourself!
+ASSESSMENT | b039 | Approved | No confident Critical or Important issues; only minor punctuation polish.

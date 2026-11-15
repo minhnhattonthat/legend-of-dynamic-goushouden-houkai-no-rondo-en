@@ -1,0 +1,1 @@
+ASSESSMENT | b069 | Approved | No confident translation errors found; shortened ROM labels fall under the stated field-length exception.

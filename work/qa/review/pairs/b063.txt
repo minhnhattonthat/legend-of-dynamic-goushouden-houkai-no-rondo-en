@@ -1,0 +1,208 @@
+   ctx E00.90 |  | ＮＰＣ / ＮＰＣ
+   ctx EN: NPC NPC
+   ctx E00.91 |  | ＤＦ５％ＵＰ / 熱攻撃＋５
+   ctx EN: DF +5% Fire Atk +5
+>> P00.00 |  | 日本マップ
+   EN: Map of Japan
+>> P00.01 |  | 飛鳥邸
+   EN: Asuka Mansion
+>> P00.02 |  | 飛鳥邸
+   EN: Asuka Mansion
+>> P00.03 |  | 飛鳥邸
+   EN: Asuka Mansion
+>> P00.04 |  | 飛鳥邸
+   EN: Asuka Mansion
+>> P00.05 |  | 飛鳥邸
+   EN: Asuka Mansion
+>> P00.06 |  | 飛鳥邸
+   EN: Asuka Mansion
+>> P00.07 |  | 関東スラム
+   EN: Kanto Slum
+>> P00.08 |  | 如月邸
+   EN: Kisaragi Mansion
+>> P00.09 |  | 公園
+   EN: Park
+>> P00.10 |  | 蓮沼
+   EN: Hasunuma
+>> P00.11 |  | 如月邸
+   EN: Kisaragi Mansion
+>> P00.12 |  | 如月邸
+   EN: Kisaragi Mansion
+>> P00.13 |  | 如月邸
+   EN: Kisaragi Mansion
+>> P00.14 |  | 如月邸
+   EN: Kisaragi Mansion
+>> P00.15 |  | 如月邸
+   EN: Kisaragi Mansion
+>> P00.16 |  | 如月邸
+   EN: Kisaragi Mansion
+>> P00.17 |  | 死神警察
+   EN: Reaper Police
+>> P00.18 |  | 死神警察
+   EN: Reaper Police
+>> P00.19 |  | 死神警察
+   EN: Reaper Police
+>> P00.20 |  | 死神警察
+   EN: Reaper Police
+>> P00.21 |  | 始まりの丘
+   EN: Hill of Beginnings
+>> P00.22 |  | 始まりの丘
+   EN: Hill of Beginnings
+>> P00.23 |  | 始まりの丘
+   EN: Hill of Beginnings
+>> P00.24 |  | 始まりの丘
+   EN: Hill of Beginnings
+>> P00.25 |  | 始まりの丘
+   EN: Hill of Beginnings
+>> P00.26 |  | 関東スラム
+   EN: Kanto Slum
+>> P00.27 |  | 関東スラム
+   EN: Kanto Slum
+>> P00.28 |  | 関東スラム
+   EN: Kanto Slum
+>> P00.29 |  | 関東スラム
+   EN: Kanto Slum
+>> P00.30 |  | 関東スラム
+   EN: Kanto Slum
+>> P00.31 |  | 関所
+   EN: Checkpoint
+>> P00.32 |  | 震災とりで
+   EN: Quake Fort
+>> P00.33 |  | 震災とりで内部
+   EN: Inside Quake Fort
+>> P00.34 |  | 死神警察署　周囲
+   EN: Near Reaper Police HQ
+>> P00.35 |  | 死神警察署　周囲
+   EN: Near Reaper Police HQ
+>> P00.36 |  | レストラン
+   EN: Restaurant
+>> P00.37 |  | 戦場
+   EN: Battlefield
+>> P00.38 |  | ロールスロイス
+   EN: Rolls-Royce
+>> P00.39 |  | レストランキング
+   EN: Restaurant King
+>> P00.40 |  | レストランキング
+   EN: Restaurant King
+>> P00.41 |  | レストランキング
+   EN: Restaurant King
+>> P00.42 |  | レストランキング
+   EN: Restaurant King
+>> P00.43 |  | レストランキング
+   EN: Restaurant King
+>> P00.44 |  | レストランキング
+   EN: Restaurant King
+>> P00.45 |  | 校庭
+   EN: Schoolyard
+>> P00.46 |  | 学校地下
+   EN: School Basement
+>> P00.47 |  | 校舎１Ｆ
+   EN: School 1F
+>> P00.48 |  | 校舎２Ｆ
+   EN: School 2F
+>> P00.49 |  | 校舎３Ｆ
+   EN: School 3F
+>> P00.50 |  | 屋上出口
+   EN: Roof Exit
+>> P00.51 |  | 屋上
+   EN: Rooftop
+>> P00.52 |  | 教室
+   EN: Classroom
+>> P00.53 |  | 教室
+   EN: Classroom
+>> P00.54 |  | 教室
+   EN: Classroom
+>> P00.55 |  | 教室
+   EN: Classroom
+>> P00.56 |  | 教室
+   EN: Classroom
+>> P00.57 |  | 教室
+   EN: Classroom
+>> P00.58 |  | 教室
+   EN: Classroom
+>> P00.59 |  | 教室
+   EN: Classroom
+>> P00.60 |  | 教室
+   EN: Classroom
+>> P00.61 |  | 教室
+   EN: Classroom
+>> P00.62 |  | 教室
+   EN: Classroom
+>> P00.63 |  | 教室
+   EN: Classroom
+>> P00.64 |  | 教室
+   EN: Classroom
+>> P00.65 |  | 教室
+   EN: Classroom
+>> P00.66 |  | 教室
+   EN: Classroom
+>> P00.67 |  | 男子トイレ
+   EN: Boys' Restroom
+>> P00.68 |  | 男子トイレ
+   EN: Boys' Restroom
+>> P00.69 |  | 男子トイレ
+   EN: Boys' Restroom
+>> P00.70 |  | 女子トイレ
+   EN: Girls' Restroom
+>> P00.71 |  | 女子トイレ
+   EN: Girls' Restroom
+>> P00.72 |  | 女子トイレ
+   EN: Girls' Restroom
+>> P00.73 |  | 体育館
+   EN: Gym
+>> P00.74 |  | 体育館倉庫
+   EN: Gym Storeroom
+>> P00.75 |  | 体育館倉庫
+   EN: Gym Storeroom
+>> P00.76 |  | 体育館倉庫
+   EN: Gym Storeroom
+>> P00.77 |  | 体育館倉庫
+   EN: Gym Storeroom
+>> P00.78 |  | 森の中
+   EN: In the Forest
+>> P00.79 |  | 地獄別荘　１Ｆ
+   EN: Hell Villa 1F
+>> P00.80 |  | 地獄別荘　１Ｆ
+   EN: Hell Villa 1F
+>> P00.81 |  | 地獄別荘　１Ｆ
+   EN: Hell Villa 1F
+>> P00.82 |  | 地獄別荘　１Ｆ
+   EN: Hell Villa 1F
+>> P00.83 |  | 地獄別荘　１Ｆ
+   EN: Hell Villa 1F
+>> P00.84 |  | 地獄別荘　２Ｆ
+   EN: Hell Villa 2F
+>> P00.85 |  | 地獄別荘　２Ｆ
+   EN: Hell Villa 2F
+>> P00.86 |  | 地獄別荘　２Ｆ
+   EN: Hell Villa 2F
+>> P00.87 |  | 地獄別荘　２Ｆ
+   EN: Hell Villa 2F
+>> P00.88 |  | 地獄別荘　３Ｆ
+   EN: Hell Villa 3F
+>> P00.89 |  | 地獄別荘　４Ｆ
+   EN: Hell Villa 4F
+>> P00.90 |  | 地獄別荘　４Ｆ
+   EN: Hell Villa 4F
+>> P00.91 |  | 森の外れ
+   EN: Forest's Edge
+>> P00.92 |  | 牙の草原
+   EN: Fang Plains
+>> P00.93 |  | 仙岩鬼の岩山
+   EN: Sengan Oni's Crag
+>> P00.94 |  | 仙岩鬼の洞窟
+   EN: Sengan Oni's Cave
+>> P00.95 |  | 仙岩鬼の洞窟出口
+   EN: Sengan Oni's Cave Exit
+>> P00.96 |  | 暗黒寺
+   EN: Dark Temple
+>> P00.97 |  | 暗黒寺
+   EN: Dark Temple
+>> P00.98 |  | 暗黒寺
+   EN: Dark Temple
+>> P00.99 |  | 暗黒寺
+   EN: Dark Temple
+   ctx P01.00 |  | 暗黒寺
+   ctx EN: Dark Temple
+   ctx P01.01 |  | 墜落現場
+   ctx EN: Crash Site

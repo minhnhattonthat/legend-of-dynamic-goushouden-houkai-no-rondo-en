@@ -1,0 +1,4 @@
+IMPORTANT | 49.60 | 「大雪山おろし 伝授してやるぞ！」 = I'll teach you Daisetsuzan Oroshi! | "Great Snow Mountain Drop" obscures the named move's connection to "Daisetsuzan" in the skill menu. | Judo's good too! I'll teach ya the Daisetsuzan Drop!
+MINOR | 49.41 | 魔王よ！ 俺は 貴様と戦わずにはいられない！ | "I can't help but fight you" sounds awkward and weakens Akira's impassioned challenge. | It's a patchwork world the Demon King made! Demon King! I can't let you go unchallenged!
+MINOR | 49.43 | おまえの気持ち イヤというほどよく解るぜ | "Exactly how you feel, way too well" is redundant and disrupts the emotional beat. | Miki was the reason I could hold on to my human heart. But now she's gone too... I know all too well how you feel, {p}...
+ASSESSMENT | b050 | Needs fixes | The named move needs consistent terminology; otherwise the translation is generally accurate, with a few awkward emotional lines.

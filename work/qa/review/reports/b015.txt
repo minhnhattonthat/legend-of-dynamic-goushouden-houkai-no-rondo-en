@@ -1,0 +1,2 @@
+MINOR | 14.56 | "もしかしたら その住宅地に...?" means "maybe in that residential area...?" | "That housing area is" leaves the wrong thought unfinished; Honey answers that Seiji's house might be there. | Honey, could that housing area have...?
+ASSESSMENT | b015 | Approved | No confident Critical or Important issues; one small dialogue-flow improvement suggested.

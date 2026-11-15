@@ -1,0 +1,208 @@
+   ctx 00.98 | Honey Kisaragi | 賛成！
+   ctx EN: I'm in!
+   ctx 00.99 | {s} | それじゃ {p}は / 誰と一緒に行く？
+   ctx EN: So, {p}, who are you going with?
+>> 01.00 | {s} | 明君と 一緒に行くのね？
+   EN: So you're going with Akira-kun?
+>> 01.01 | {s} | ハニーと 一緒に行くのね？
+   EN: So you're going with Honey?
+>> 01.02 | {s} | チーム分け 完了！ / それじゃ え～と…
+   EN: Teams all set! So then, uhh...
+>> 01.03 | {s} | ここは / 「始まりの丘」って場所らしいわ / お互い 目的を達成したら / 「始まりの丘」に集合ね！
+   EN: This place is apparently called the "Hill of Beginnings." Once we've each done what we came for, we all meet back at the "Hill of Beginnings"!
+>> 01.04 | {s} | それじゃ 行きましょ / 明君！
+   EN: Well then, let's go, Akira-kun!
+>> 01.05 | Akira Fudo | う うん / それじゃ みんな また後でね！
+   EN: Y-yeah. Well, see you all later!
+>> 01.06 | Honey Kisaragi | それじゃ 行きましょうか
+   EN: Well then, shall we go?
+>> 01.07 | {p} | じ 地震だ！
+   EN: Wh-whoa, an earthquake!
+>> 01.08 | Honey Kisaragi | きゃ～！！
+   EN: Kyaaa!!
+>> 01.09 | {p} | …道が 塞がれちゃった！ / 「始まりの丘」に戻れない！
+   EN: ...The path's blocked off! We can't get back to the "Hill of Beginnings"!
+>> 01.10 | Honey Kisaragi | 困ったわね… / ともかく 先を急ぎましょう / 山を降りたら / きっと 別の道が あると思うの
+   EN: What a pickle... Anyway, let's hurry on. Once we're down the mountain, I'm sure there'll be another way back.
+>> 01.11 | Akira Fudo | だ だいたいさ 右だの左だのって / どうして 僕達の場所が / わかるんだ？
+   EN: B-but seriously, all this "go right," "go left"... How do they even know where we are?
+>> 01.12 | Akira Fudo | だ だから / どうして 僕達の場所が…
+   EN: L-like I said, how do they know where we...
+>> 01.13 | Honey Kisaragi | つべこべ いってる場合じゃ / ないでしょ！ / それしかないんだから！
+   EN: This is no time to argue! It's the only lead we've got!
+>> 01.14 | Akira Fudo | 了は 左の道を進めって言ってた… / こっちじゃないよ
+   EN: Ryo said to take the left path... This isn't it.
+>> 01.15 | Honey Kisaragi | パパは 右の道を進めば / 研究所に着くって言ってたわ / こっちじゃないわね
+   EN: Papa said the right path leads to the laboratory. This isn't it.
+>> 01.16 | Akira Fudo | とりあえず 了を探さないと… / 家の中に行こう
+   EN: First I've got to find Ryo... Let's go into the house.
+>> 01.17 | Honey Kisaragi | パパが危ない！ / 研究所に急ぎましょう！
+   EN: Papa's in danger! Let's hurry to the laboratory!
+>> 01.18 | Honey Kisaragi | 不思議だわ こんなところに / どうして パパの研究所が…？
+   EN: How strange... Why would Papa's laboratory be in a place like this...?
+>> 01.19 | Dr. Kisaragi | {!R}ハニー 来てくれ ハニー！{!W}
+   EN: {!R}Honey, come quickly, Honey!{!W}
+>> 01.20 | Honey Kisaragi | どうして / パパの声が 聞こえるの？
+   EN: Why can I hear Papa's voice?
+>> 01.21 | Dr. Kisaragi | {!R}ハニーのイヤリングは / トランシーバーだ / 急いでくれ ハニー / 私はパンサークローに狙われた！{!W}
+   EN: {!R}Your earrings are a transceiver, Honey. Hurry! Panther Claw is after me!{!W}
+>> 01.22 | Honey Kisaragi | パンサークロー？
+   EN: Panther Claw?
+>> 01.23 | Dr. Kisaragi | {!R}恐ろしい敵だ！ / 私の命が 危ない！ / 急いでくれ ハニー！{!W}
+   EN: {!R}A terrifying enemy! My life is in danger! Hurry, Honey!{!W}
+>> 01.24 | Honey Kisaragi | 大変だわ！ / パパを 助けなくっちゃ！
+   EN: Oh no! I've got to save Papa!
+>> 01.25 | {p} | 何をするんだ！
+   EN: What do you think you're doing!?
+>> 01.26 | Honey Kisaragi | きゃ～！
+   EN: Kyaaa!
+>> 01.27 | Dr. Kisaragi | {!R}大丈夫だ ハニー / 首のハートを つまんで / ハニーフラッシュ！ / と 叫びなさい！{!W}
+   EN: {!R}Don't worry, Honey. Pinch the heart at your throat and shout "Honey Flash!"{!W}
+>> 01.28 | Honey Kisaragi | ハートをつまんで？ /  / ハニーッ フラッシュ！
+   EN: Pinch the heart?  Honey... FLASH!
+>> 01.29 | Cutie Honey | わ 私は一体…？
+   EN: Wh-what am I...?
+>> 01.30 | Cutie Honey | パパ 私は一体何者なの？ / なぜ こんな力があるの？ / 答えて パパ…！
+   EN: Papa, what am I, really? Why do I have this power? Answer me, Papa...!
+>> 01.31 | Cutie Honey | 急がないと… パパが危ないわ！
+   EN: I have to hurry... Papa's in danger!
+>> 01.32 | Honey Kisaragi | パパ！
+   EN: Papa!
+>> 01.33 | {p} | パパ？ 大変だ！
+   EN: Her papa? Oh no!
+>> 01.34 | Dr. Kisaragi | ハニー / 私のハニー…
+   EN: Honey... My Honey...
+>> 01.35 | Honey Kisaragi | パパ～！
+   EN: Papaaa!
+>> 01.36 | Dr. Kisaragi | {!R}うろたえるな ハニー{!W}
+   EN: {!R}Don't be alarmed, Honey.{!W}
+>> 01.37 | Dr. Kisaragi | {!R}私は 死んだ /  / だが 死してなお 話しておかねば / ならんことがある！ / ハニーの秘密を！{!W}
+   EN: {!R}I am dead.  But even in death, there is something I must tell you! Honey's secret!{!W}
+>> 01.38 | Honey Kisaragi | ハニーの秘密？
+   EN: Honey's secret?
+>> 01.39 | Dr. Kisaragi | {!R}ハニー おいで 私の部屋へ /  / 地下室の奥で / パパは おまえを待っている…{!W}
+   EN: {!R}Come, Honey, to my room.  Deep in the basement, Papa is waiting for you...{!W}
+>> 01.40 | Honey Kisaragi | パパが 呼んでるわ / 地下室で 私を待ってるの
+   EN: Papa's calling me. He's waiting for me in the basement.
+>> 01.41 | {p} | よし 地下室へ行こう！
+   EN: Right, to the basement!
+>> 01.42 | Honey Kisaragi | まっ！ あなた誰？
+   EN: Oh! Who are you?
+>> 01.43 | Man | いや ご安心 / 悪いヤツじゃない
+   EN: Now, now, relax. I'm not a bad guy.
+>> 01.44 | Honey Kisaragi | 悪人でないことは わかるわ
+   EN: I can tell you're not a villain.
+>> 01.45 | Seiji Hayami | 国際結社パンサークローに / ついては / 俺も 新聞記者として / 関心があるんだ / 一緒に行ってもいいかな？ / 博士の仇討ちに協力させてくれ！
+   EN: As a newspaper reporter, I've got my own interest in the international syndicate Panther Claw. Mind if I tag along? Let me help you avenge the doctor!
+>> 01.46 | Seiji Hayami | 新聞記者の 早見青児ですよ / はっはっは / 博士のインタビュー中に / パンサークローに襲われまして
+   EN: Seiji Hayami, newspaper reporter! Hahaha! Panther Claw jumped us while I was interviewing the doctor.
+>> 01.47 | Dr. Kisaragi | やぁ ハニー
+   EN: Hello there, Honey.
+>> 01.48 | Honey Kisaragi | …ロボット？
+   EN: ...A robot?
+>> 01.49 | Dr. Kisaragi | そうだ だが ハニーのような / 完全な アンドロイドではない
+   EN: Yes. But not a perfect android like you, Honey.
+>> 01.50 | Honey Kisaragi | アンドロイド？ / ハニーは 人間ではないの？
+   EN: An android? Honey... isn't human?
+>> 01.51 | {p} & Seiji Hayami | え～っ！？
+   EN: Whaaat!?
+>> 01.52 | Dr. Kisaragi | 君の身体は / 私の全頭脳と 情熱と 愛情の / すべてをかけて作ったものだ /  / 君の身体の ひとつひとつが / 髪の毛一本一本まで / すべてが / 私の愛の結晶なのだ！
+   EN: Your body is something I built with all my genius, my passion and my love.  Every part of your body, down to each single hair, all of it is the crystallization of my love!
+>> 01.53 | Honey Kisaragi | パパ…
+   EN: Papa...
+>> 01.54 | Dr. Kisaragi | ハニーの身体の内部には / 世紀の発明が 隠されている / 空中元素固定装置だ！
+   EN: Hidden inside Honey's body is the invention of the century: the Airborne Element Fixer!
+>> 01.55 | Honey Kisaragi | 空中元素固定装置？
+   EN: The Airborne Element Fixer?
+>> 01.56 | Dr. Kisaragi | 空気中の元素を 瞬時に組み合わせ / あらゆる物質を 作り出す装置だ / ダイヤモンドとて 無限に作れる
+   EN: A device that instantly combines the elements in the air to create any substance at all. It could even make diamonds without limit.
+>> 01.57 | Seiji Hayami | 聞いたか おい？
+   EN: Hey, did you hear that?
+>> 01.58 | {p} | うん…！
+   EN: Yeah...!
+>> 01.59 | Dr. Kisaragi | それを パンサークローに / 狙われた… / 残忍な パンサークローに / ハニーを奪われたら…
+   EN: That is what Panther Claw is after... If the cruel Panther Claw were to take you, Honey...
+>> 01.60 | Honey Kisaragi | 大丈夫 パパ /  / そのために ハニーに 人間以上の / 力を 与えてくれたんでしょう？ / 負けないわ 悪人なんかに！
+   EN: It's all right, Papa.  That's why you gave Honey more than human strength, isn't it? I won't lose to villains!
+>> 01.61 | Dr. Kisaragi | そうだ そのとおりだハニー
+   EN: Yes, that's exactly right, Honey.
+>> 01.62 | Dr. Kisaragi | 行きたまえ ハニー /  / 私のロボットが壊れた後 / この研究所は 爆破する！
+   EN: Go now, Honey.  Once my robot is destroyed, this laboratory will self-destruct!
+>> 01.63 | Dr. Kisaragi | この研究所の すべての手がかりを / 敵に つかませないために… / さようなら 永遠に美しいハニー / さようなら…
+   EN: So the enemy can never lay hands on a single clue here... Farewell, my eternally beautiful Honey. Farewell...
+>> 01.64 | {p} | さぁ 早く脱出しないと！
+   EN: Come on, we've got to get out of here fast!
+>> 01.65 | Seiji Hayami | そうだ / 急ごう ハニー！
+   EN: Right, let's hurry, Honey!
+>> 01.66 | Honey Kisaragi | さようなら パパ…
+   EN: Goodbye, Papa...
+>> 01.67 | {p} | ハニー あれを…！
+   EN: Honey, look at that...!
+>> 01.68 | Honey Kisaragi | 黒い月…！？
+   EN: A black moon...!?
+>> 01.69 | Seiji Hayami | え？ あ ホントだ / 月が黒いぞ！？
+   EN: Huh? Oh, you're right. The moon's gone black!?
+>> 01.70 | {p} | うわ～ ど どうしよ～！
+   EN: Whoaaa! Wh-what do we dooo!?
+>> 01.71 | Honey Kisaragi | いや～～～！！
+   EN: Nooooo!!
+>> 01.72 | Seiji Hayami | …ふたりとも どうしたの？ /  / うわ！
+   EN: ...What's wrong with you two?  Whoa!
+>> 01.73 | Sister Jill | 如月邱が 爆発したと？ /  / それで？ 如月が発明した / 空中元素固定装置は どうした？
+   EN: The Kisaragi mansion exploded, you say?  And? What of the Airborne Element Fixer Kisaragi invented?
+>> 01.74 | Panther Claw Member | それが まったく何も… / 恐らく 屋敷もろとも…
+   EN: Well, nothing at all, ma'am... Most likely it went up with the mansion...
+>> 01.75 | Sister Jill | ほほほ 屋敷もろとも / ふっ飛んだと お言いかい？
+   EN: Hohoho! Went up with the mansion, you say?
+>> 01.76 | Sister Jill | 愚か者めが！
+   EN: You fool!
+>> 01.77 | Sister Jill | 娘だ！ 如月博士の娘が / 超発明の鍵を 握っている！
+   EN: The daughter! Dr. Kisaragi's daughter holds the key to his great invention!
+>> 01.78 | Sister Jill | 何をぼやぼやしている！ /  / さっさと 如月博士の娘について / 調べるのだ！
+   EN: Why are you dawdling!?  Find out everything about Dr. Kisaragi's daughter, at once!
+>> 01.79 | Panther Claw Member | はっ！
+   EN: Yes, ma'am!
+>> 01.80 | ??? | …空中元素固定装置…
+   EN: ...The Airborne Element Fixer...
+>> 01.81 | Seiji Hayami | 大きな地震だったなぁ…
+   EN: That was one big earthquake...
+>> 01.82 | Honey Kisaragi | ホントね それにしても 地震前と / 同じ場所にいて 良かったわ
+   EN: It sure was. Still, I'm glad we ended up in the same place as before the quake.
+>> 01.83 | Seiji Hayami | …どういうことだい？
+   EN: ...What do you mean?
+>> 01.84 | {p} | 実は僕達…
+   EN: Actually, we...
+>> 01.85 | Honey Kisaragi | 実は…
+   EN: Actually...
+>> 01.86 | Seiji Hayami | …え～～～！？ /  / それ ホントかい？ / にわかには 信じがたいなぁ…
+   EN: ...Whaaat!?  Is that for real? That's pretty hard to swallow...
+>> 01.87 | {p} | あいつ 無事だろうか…？
+   EN: I hope she's okay...
+>> 01.88 | Seiji Hayami | オヤジ…！
+   EN: Pop...!
+>> 01.89 | Honey Kisaragi | お父様…？
+   EN: Your father...?
+>> 01.90 | Seiji Hayami | オヤジの名前は 団兵衛 / この近くに 住んでるんだ
+   EN: My old man's name is Danbei. He lives near here.
+>> 01.91 | {p} | 揺れがひどかったから 心配だね… /  / 僕も山を降りて「始まりの丘」に / 戻る道を 知りたいし / とりあえず 山を降りようよ
+   EN: That quake was really bad, so I'm worried too...  I want to find a way back to the "Hill of Beginnings" too, so let's head down the mountain for now.
+>> 01.92 | Seiji Hayami | 良かった！ クルマは無事だ / このクルマで 取材に来たんだよ / さ 乗った 乗った！
+   EN: Great! The car's in one piece. This is the car I drove up for the interview. C'mon, hop in, hop in!
+>> 01.93 | {p} | これじゃ 「始まりの丘」に / 戻れない…
+   EN: At this rate, we can't get back to the "Hill of Beginnings"...
+>> 01.94 | Honey Kisaragi | 明君が ついてるもの / ふたりとも 無事よ！
+   EN: She's got Akira-kun with her. They'll both be fine!
+>> 01.95 | Seiji Hayami | ひでぇな なんだここは？ /  / 山のふもとに こんな 廃墟みたい / な場所 あったっけな…
+   EN: Geez, what is this place?  Was there always a ruin like this at the foot of the mountain...?
+>> 01.96 | Honey Kisaragi | 誰か いないかしら？ / 探して 話を聞いてみましょうよ
+   EN: Isn't there anyone around? Let's find someone and ask.
+>> 01.97 | Resident | 無法地帯と化した関東で 平和な / 暮らしを望むなんて 無理な話さ
+   EN: Hoping for a peaceful life in Kanto now it's gone lawless? Not a chance.
+>> 01.98 | Resident | 関東地獄地震の記憶は / まだ 生々しいよ / ちょっとした揺れでも / 寿命が縮まるかと 思っちまう
+   EN: The memory of the Kanto Hellquake is still fresh. Even a little tremor feels like it takes years off my life.
+>> 01.99 | Resident | 海の向こうに 離れ離れになった / 家族が待ってる… / 関東が本州と切り離されちまった / こと 知ってるだろ？
+   EN: My family's waiting across the sea, torn away from me... You know Kanto got cut off from the rest of Honshu, right?
+   ctx 02.00 | Ayuko's Father | 娘の姿が 見えんのだ… /  / 日本政府が 関東を見捨ててから / 無法者が集まるばかり… / あゆ子のことが 心配だ…
+   ctx EN: I can't find my daughter anywhere...  Ever since the Japanese government abandoned Kanto, nothing but outlaws gather here... I'm so worried about Ayuko...
+   ctx 02.01 | Resident | 関東地獄地震から数年たったけど / 暮らしは 酷いものだ / 暴力が支配する世界じゃ / 弱者は 苦しむだけだ…
+   ctx EN: It's been a few years since the Kanto Hellquake, but life's still awful. In a world ruled by violence, the weak just suffer...

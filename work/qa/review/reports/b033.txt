@@ -1,0 +1,5 @@
+IMPORTANT | 32.77 | "わ～ けっこう！" means "Wow, what a fine sight!" | Untranslated "kekko" hides the admiring reaction and makes the joke unintelligible in English. | Wow! What a fine sight!
+IMPORTANT | 32.78 | "そうです けっこうです！" echoes "Fine indeed!" before her introduction. | "Quite kekko" repeats untranslated Japanese instead of delivering the cheeky response to the player's admiration. | Yes, a fine sight indeed! I hide my face, but never my body! Kekko Kamen!!
+MINOR | 32.76 | A champion fights day and night to save children suffering under cruel schooling. | "Weep under wicked studies" is awkward and obscures the school's abusive teaching. | A champion of justice, fighting day and night to save boys and girls driven to tears by brutal schoolwork!
+MINOR | 32.91 | She offers help provided they do not investigate her identity. | "I'll help ... shall I?" awkwardly mixes a promise with a request for permission. | If you don't pry into my true identity... I'll help you solve the mystery. Deal?
+ASSESSMENT | b033 | Needs fixes | The batch is largely faithful, but the Kekko Kamen exchange loses its joke through untranslated wording.

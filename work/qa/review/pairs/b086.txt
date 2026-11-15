@@ -1,0 +1,196 @@
+   ctx r0DDFE4 |  | 防御属性【雷】＋１０
+   ctx EN: Bolt defense +10
+   ctx r0DDFFC |  | 防御属性【冷】＋１０
+   ctx EN: Ice defense +10
+>> r0DE014 |  | 防御属性【熱】＋１０
+   EN: Fire defense +10
+>> r0DE02C |  | 防御属性【叩】＋１０
+   EN: Blunt defense +10
+>> r0DE044 |  | 防御属性【斬】＋１０
+   EN: Slash defense +10
+>> r0DE05C |  | 防御属性【精神】＋５
+   EN: Mind defense +5
+>> r0DE074 |  | 防御属性【雷】＋５
+   EN: Bolt defense +5
+>> r0DE088 |  | 防御属性【冷】＋５
+   EN: Ice defense +5
+>> r0DE09C |  | 防御属性【熱】＋５
+   EN: Fire defense +5
+>> r0DE0B0 |  | 防御属性【叩】＋５
+   EN: Blunt defense +5
+>> r0DE0C4 |  | 防御属性【斬】＋５
+   EN: Slash defense +5
+>> r0DE0D8 |  | 攻撃属性【精神】＋１０
+   EN: Mind attack +10
+>> r0DE0F0 |  | 攻撃属性【雷】＋１０
+   EN: Bolt attack +10
+>> r0DE108 |  | 攻撃属性【冷】＋１０
+   EN: Ice attack +10
+>> r0DE120 |  | 攻撃属性【熱】＋１０
+   EN: Fire attack +10
+>> r0DE138 |  | 攻撃属性【叩】＋１０
+   EN: Blunt attack +10
+>> r0DE150 |  | 攻撃属性【斬】＋１０
+   EN: Slash attack +10
+>> r0DE168 |  | 攻撃属性【精神】＋５
+   EN: Mind attack +5
+>> r0DE180 |  | 攻撃属性【雷】＋５
+   EN: Bolt attack +5
+>> r0DE194 |  | 攻撃属性【冷】＋５
+   EN: Ice attack +5
+>> r0DE1A8 |  | 攻撃属性【熱】＋５
+   EN: Fire attack +5
+>> r0DE1BC |  | 攻撃属性【叩】＋５
+   EN: Blunt attack +5
+>> r0DE1D0 |  | 攻撃属性【斬】＋５
+   EN: Slash attack +5
+>> r0DE1E4 |  | ＨＰ＋２５％
+   EN: HP+25%
+>> r0DE1F4 |  | ＨＰ＋２０％（男性専用）
+   EN: HP+20% (men only)
+>> r0DE210 |  | ＨＰ＋１５％
+   EN: HP+15%
+>> r0DE220 |  | ＨＰ＋１０％（男性専用）
+   EN: HP+10% (men only)
+>> r0DE23C |  | ＨＰ＋５％
+   EN: HP+5%
+>> r0DE248 |  | ＤＰ＋２５％
+   EN: DP+25%
+>> r0DE258 |  | ＤＰ＋２０％（女性専用）
+   EN: DP+20% (women only)
+>> r0DE274 |  | ＤＰ＋１５％
+   EN: DP+15%
+>> r0DE284 |  | ＤＰ＋１０％（女性専用）
+   EN: DP+10% (women only)
+>> r0DE2A0 |  | ＤＰ＋５％
+   EN: DP+5%
+>> r0DE2AC |  | ＤＦ＋２０％
+   EN: DF+20%
+>> r0DE2BC |  | ＤＦ＋１５％
+   EN: DF+15%
+>> r0DE2CC |  | ＤＦ＋１０％
+   EN: DF+10%
+>> r0DE2DC |  | ＤＦ＋２０
+   EN: DF+20
+>> r0DE2E8 |  | ＤＦ＋１５
+   EN: DF+15
+>> r0DE2F4 |  | ＤＦ＋１０
+   EN: DF+10
+>> r0DE300 |  | ＤＦ＋５
+   EN: DF+5
+>> r0DE30C |  | ＤＸ＋１５％（女性専用）
+   EN: DX+15% (women only)
+>> r0DE328 |  | ＤＸ＋１０（女性専用）
+   EN: DX+10 (women only)
+>> r0DE340 |  | ＤＸ＋５（女性専用）
+   EN: DX+5 (women only)
+>> r0DE358 |  | ＤＸ＋１５％（男性専用）
+   EN: DX+15% (men only)
+>> r0DE374 |  | ＤＸ＋１０（男性専用）
+   EN: DX+10 (men only)
+>> r0DE38C |  | ＤＸ＋５（男性専用）
+   EN: DX+5 (men only)
+>> r0DE3A4 |  | ＡＴ＋１５％
+   EN: AT+15%
+>> r0DE3B4 |  | ＡＴ＋１０％
+   EN: AT+10%
+>> r0DE3C4 |  | ＡＴ＋２０
+   EN: AT+20
+>> r0DE3D0 |  | ＡＴ＋１５
+   EN: AT+15
+>> r0DE3DC |  | ＡＴ＋１０
+   EN: AT+10
+>> r0DE3E8 |  | ＡＴ＋５
+   EN: AT+5
+>> r0DE3F4 |  | お腹が空いた時に食べよう
+   EN: Eat it when you're hungry
+>> r0DE410 |  | 味方全体の状態異常を治療
+   EN: Cures all allies' ailments
+>> r0DE42C |  | 味方全体のＨＰを２５０程度回復
+   EN: All allies regain about 250 HP
+>> r0DE44C |  | 味方全体のＨＰを８０程度回復
+   EN: All allies regain about 80 HP
+>> r0DE46C |  | 敵全体に【毒】を与える
+   EN: Poisons all enemies
+>> r0DE484 |  | 敵全体に【暗闇】を与える
+   EN: Blinds all enemies
+>> r0DE4A0 |  | 敵全体に【熱】属性攻撃
+   EN: Fire attack on all foes
+>> r0DE4B8 |  | 敵単体に【熱】属性攻撃
+   EN: Fire attack on one foe
+>> r0DE4D0 |  | 敵単体のＤＸが減少
+   EN: Lowers one foe's DX
+>> r0DE4E4 |  | 敵単体のＤＦが減少
+   EN: Lowers one foe's DF
+>> r0DE4F8 |  | 味方単体のＤＸが上昇
+   EN: Raises one ally's DX
+>> r0DE510 |  | 味方単体のＤＦが上昇
+   EN: Raises one ally's DF
+>> r0DE528 |  | 味方単体のＡＴが上昇
+   EN: Raises one ally's AT
+>> r0DE540 |  | 通常戦闘から100％逃げ出せる
+   EN: Always flee normal battles
+>> r0DE55C |  | 敵単体を混乱させる
+   EN: Confuses one enemy
+>> r0DE570 |  | 敵単体を魅了する
+   EN: Charms one enemy
+>> r0DE584 |  | 敵単体を眠らせる
+   EN: Puts one foe asleep
+>> r0DE598 |  | 敵単体を暗闇にする
+   EN: Blinds one enemy
+>> r0DE5AC |  | 戦闘不能を治療
+   EN: Revives from KO
+>> r0DE5BC |  | 戦闘不能以外の状態異常を治療
+   EN: Cures all ailments except KO
+>> r0DE5DC |  | 石化、凍結、魅了以外を治療
+   EN: All but Stone/Freeze/Charm
+>> r0DE5F8 |  | 味方単体のＤＰを８０程度回復
+   EN: One ally regains about 80 DP
+>> r0DE618 |  | 味方単体のＤＰを３０程度回復
+   EN: One ally regains about 30 DP
+>> r0DE638 |  | 味方単体のＨＰを２５０程度回復
+   EN: One ally regains about 250 HP
+>> r0DE658 |  | 味方単体のＨＰを８０程度回復
+   EN: One ally regains about 80 HP
+>> r0DE678 |  | 味方単体のＨＰを３０程度回復
+   EN: One ally regains about 30 HP
+>> r0DE698 |  | アイテム説明
+   EN: Description
+>> r0DE6A8 |  | 下忍
+   EN: Genin
+>> r0DE6B0 |  | 魔王グレイド
+   EN: Demon King Grade
+>> r0DE6C0 |  | 暴走メカ
+   EN: Rogue Mecha
+>> r0DE6CC |  | 操られた仲間
+   EN: Controlled Ally
+>> r0DE6DC |  | 暴徒
+   EN: Rioter
+>> r0DE6E4 |  | 機械獣
+   EN: Mechanical Beast
+>> r0DE6EC |  | ハチュウ人類
+   EN: Reptilian
+>> r0DE6FC |  | 魔獣ハンター
+   EN: Demon Beast Hunter
+>> r0DE70C |  | 幻魔衆
+   EN: Genma Clan
+>> r0DE714 |  | 争魔衆
+   EN: Soma Clan
+>> r0DE71C |  | 暴走族
+   EN: Biker
+>> r0DE724 |  | 無法者
+   EN: Outlaw
+>> r0DE72C |  | パラダイス中学生
+   EN: Paradise Student
+>> r0DE740 |  | 帝国軍人
+   EN: Imperial Soldier
+>> r0DE74C |  | 不良学生
+   EN: Delinquent
+>> r0DE758 |  | 死神警察　署長
+   EN: Reaper Police Chief
+>> r0DE768 |  | 死神警察
+   EN: Reaper Police
+>> r0DE774 |  | 外道会
+   EN: Gedo Gang
+>> r0DE77C |  | パンサー団員
+   EN: Panther Claw

@@ -435,7 +435,7 @@
    10821
   ],
   "jp": "早乙女博士\n黒い物体に操られた人々は\n\nみな 何者かの声を聞いたと\n言っているそうじゃ\nどんな言葉を聞いたのか\n調べてみんといかんな",
-  "en": "Dr. Saotome\nThe people controlled by the black\nthings...\n\nall say they heard someone's voice.\nWe'll have to find out what words\nthey heard.",
+  "en": "Dr. Saotome\nI'm told the people controlled by the\nblack things...\n\nall say they heard someone's voice. We\nshall have to find out just what\nwords they heard.",
   "status": "done",
   "notes": ""
  },
@@ -515,7 +515,7 @@
    10829
   ],
   "jp": "{p}\n…早乙女博士\n{s}は…",
-  "en": "{p}\n...Dr. Saotome, {s} is...",
+  "en": "{p}\n...Dr. Saotome, what about\n{s}...?",
   "status": "done",
   "notes": ""
  },

@@ -1,0 +1,10 @@
+   ctx r0D9BC4 |  | 中技
+   ctx EN: Mid
+   ctx r0D9BCC |  | バトルエフェクト番号指定
+   ctx EN: Set battle effect no.
+>> r0DAFFC |  | シャフトの息子
+   EN: Shaft Jr.
+   ctx r0DB00C |  | ドラゴン
+   ctx EN: Dragon
+   ctx r0DB018 |  | 次元獣グレイド
+   ctx EN: Grade

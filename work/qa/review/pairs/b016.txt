@@ -1,0 +1,208 @@
+   ctx 14.98 | Shusha | さぁ～な！ / 生き残れたら考えようぜ！
+   ctx EN: Beats me! Let's think about it if we live!
+   ctx 14.99 | Tomisaburo | へっへ！ いよいよ始まったぜ！ /  / うまいこと隙をついて 科学都市の / 中に 入っちゃおうぜ！
+   ctx EN: Heh heh! It's on now!  Let's slip in while they're distracted and get inside Science City!
+>> 15.00 | Shinichi | 果たして そう巧くいくかな？
+   EN: Think it'll go that smoothly?
+>> 15.01 | Tomisaburo | んじゃ どうする？
+   EN: Then whaddaya wanna do?
+>> 15.02 | Shinichi | …………
+   EN: ............
+>> 15.03 | {p} | あの粒子砲！ / なんとかしないとやばいよ…！
+   EN: That particle cannon! If we don't do something about it, we're in trouble...!
+>> 15.04 | Mitsurugi | 私が 粒子砲の背後に / テレポートするわ！
+   EN: I'll teleport behind the particle cannon!
+>> 15.05 | {p} | ダメだ 美剣さん！ / それは危険過ぎる！
+   EN: No, Mitsurugi-san! That's way too dangerous!
+>> 15.06 | {s} | あ！ あれを見て！
+   EN: Ah! Look over there!
+>> 15.07 | Demon Beast Hunter | きさま！
+   EN: You wretch!
+>> 15.08 | Immortal Corps | 邪魔をする気か！？
+   EN: You wanna get in our way!?
+>> 15.09 | Shinichi | おまえ達こそ 邪魔なんだ！
+   EN: You're the ones in MY way!
+>> 15.10 | {p} | 慎一君だ！
+   EN: It's Shinichi-kun!
+>> 15.11 | {s} | あたし達を / 援護してくれてるわ！
+   EN: He's covering us!
+>> 15.12 | Shusha | よし！ 今のうちだ！
+   EN: All right! Now's our chance!
+>> 15.13 | {p} | 慎一君！
+   EN: Shinichi-kun!
+>> 15.14 | Shinichi | おまえらに 手を貸してやる / そのかわり… / 真理阿を探すのを手伝ってくれ
+   EN: I'll lend you a hand. In exchange... help me find Maria.
+>> 15.15 | {p} | もちろんだよ 慎一君！
+   EN: Of course, Shinichi-kun!
+>> 15.16 | Tomisaburo | おう！ よろしくな…！
+   EN: Yo! Pleased to meetcha...!
+>> 15.17 | {s} | ところで あなた だ～れ？
+   EN: By the way, who are YOU?
+>> 15.18 | Tomisaburo | 富三郎ってんだ！ / よろしくたのむぜ！
+   EN: Name's Tomisaburo! Pleasure doin' business!
+>> 15.19 | {p} | 僕ら 立ち入り禁止エリアに / 行きたいんだけど…
+   EN: We want to get to the off-limits area, but...
+>> 15.20 | Tomisaburo | 科学都市の地下水路を通っていけば / 立ち入り禁止エリアに出れるぜ
+   EN: Go through Science City's underground waterway and you'll come out in the off-limits area.
+>> 15.21 | Shusha | 地下水路か… /  / 当然 瓜生麗も 地下水路のことを / 知ってるだろうな…
+   EN: The underground waterway, huh...  Naturally, Rei Uryu must know about the waterway too...
+>> 15.22 | Mitsurugi | どうしたの 朱紗君？
+   EN: What's wrong, Shusha-kun?
+>> 15.23 | Shusha | ちょっと待ってくれ…
+   EN: Hold on a second...
+>> 15.24 | Shinichi | あいつ どうしたんだ…？
+   EN: What's up with him...?
+>> 15.25 | Shusha | こっちだ…！ / こっちの方角に 何かを感じる！
+   EN: This way...! I sense something in this direction!
+>> 15.26 | Shinichi | どうして そんなことが解るんだ？
+   EN: How can you tell something like that?
+>> 15.27 | Mitsurugi | 朱紗君は 超能力者として / 進化しているのよ！
+   EN: Shusha-kun is evolving as a psychic!
+>> 15.28 | {p} | よし！ 朱紗君を信じよう！
+   EN: All right! Let's trust Shusha-kun!
+>> 15.29 | {p} | 今は 急いで地下室を探そう！ / そこに誰かいるはずだ！
+   EN: Right now, let's hurry and find the basement! Someone has to be in there!
+>> 15.30 | {p} | ここは… 地下室の扉みたいだな /  / …ダメだ 開かない / 他の場所から調べよう
+   EN: This looks like... the basement door.  ...No good, it won't open. Let's check somewhere else.
+>> 15.31 | {p} | 急いで / 美剣さんの所へ 戻ろう！
+   EN: Let's hurry back to Mitsurugi-san!
+>> 15.32 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.33 | {s} | こっちね！
+   EN: This way, huh!
+>> 15.34 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.35 | {p} | よし！
+   EN: All right!
+>> 15.36 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.37 | Shinichi | 行くぞ！
+   EN: Let's go!
+>> 15.38 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.39 | Mitsurugi | 行くわよ！
+   EN: Let's go!
+>> 15.40 | Researcher | 世界最大規模の 研究施設が / 世界最凶最悪の 戦場に…
+   EN: The world's largest research facility has become the world's most savage battlefield...
+>> 15.41 | Researcher | ひぇぇぇぇぇ…！ / 助けてぇぇぇぇぇ…！
+   EN: Eeeeeek...! Heeelp meee...!
+>> 15.42 | Researcher | 立ち入り禁止エリアですか？ / 確かあっちですよ  / 科学都市 / 広過ぎて よく解らないのです…
+   EN: The off-limits area? I think it's over that way. Science City's so big, I don't really know my way around...
+>> 15.43 | Researcher | たとえ この戦いで / 世界が滅ぼされても… / 私は研究を続けるのです！ / 世界のために…！
+   EN: Even if this battle destroys the world... I shall continue my research! For the sake of the world...!
+>> 15.44 | Researcher | なんだって？ 逃げたほうが / いいんじゃないかって？ / ちょっと / 研究の邪魔しないでくれたまえ！
+   EN: What's that? I ought to run? Excuse me, kindly don't disturb my research!
+>> 15.45 | Researcher | 瓜生コンツェルンが / スポンサーだったのか！ / そういえば / 瓜生麗を 良く見かけたかも！？
+   EN: So the Uryu Conglomerate was the sponsor! Come to think of it, I may have seen Rei Uryu around a lot!?
+>> 15.46 | Researcher | なんだか騒がしいねぇ…？ / えっ？ 戦闘！？ / ふむ… 非常時における人間心理の / 研究になるな…
+   EN: It's kind of noisy...? Eh? A battle!? Hmm... This could make for research on human psychology in emergencies...
+>> 15.47 | Researcher | なんか 柄の悪いヤツらが / いっぱいいるなぁ…？ / 君達も あんな大人に / ならないようにね！
+   EN: There sure are a lot of thugs around...? Don't you kids grow up to be grown-ups like that!
+>> 15.48 | Researcher | 優秀な医者ならいっぱいいるけど / こんなにケガ人が多くちゃ / どうしようもない！
+   EN: There are plenty of good doctors, but with this many wounded, there's nothing we can do!
+>> 15.49 | Researcher | なんで科学都市で戦闘が…！？
+   EN: Why is there fighting in Science City...!?
+>> 15.50 | Researcher | この研究成果が発表されたら / 世界中が驚くぞ！ / え！？ 科学都市で戦闘…！？ / びっくり！！
+   EN: When these research results are published, the whole world will be stunned! What!? A battle in Science City...!? What a shock!!
+>> 15.51 | Researcher | 研究している時が / 一番しあわせだけど / いのちあってのモノダネだぁ～！
+   EN: I'm happiest when I'm doing research, but you gotta be alive to enjoy it!
+>> 15.52 | Researcher | 計器の数値に異常無し！ /  / でも こんなことしてて / いいのかな？
+   EN: Instrument readings normal!  But should I really be doing this right now?
+>> 15.53 | Researcher | 外が騒がしいけど / 何かあったのかな？ / え～っ！ 戦闘！？
+   EN: It's noisy outside. I wonder if something happened? Whaaat! A battle!?
+>> 15.54 | Researcher | 見てくれ！ / 新しい器材がボロボロだぁ…！
+   EN: Look at this! The new equipment is in pieces...!
+>> 15.55 | Shusha | いた…！
+   EN: There...!
+>> 15.56 | {p} | いた…って 誰が…！？
+   EN: "There"... who's there...!?
+>> 15.57 | {p} | 消えちゃった！？ / 朱紗君の後を追わないと…！
+   EN: He vanished!? We've got to go after Shusha-kun...!
+>> 15.58 | Shinichi | だが ヤツは どこへ行ったんだ？
+   EN: But where did he go?
+>> 15.59 | Mitsurugi | ちょっと待って…
+   EN: Wait a moment...
+>> 15.60 | Mitsurugi | このちかくに 内部を透視出来ない / 建物があるわ… / 超能力が さえぎられている…
+   EN: There's a building nearby I can't see into... Something's blocking my psychic power...
+>> 15.61 | Uryu | …朱紗…！？
+   EN: ...Shusha...!?
+>> 15.62 | Shusha | 瓜生…！ / え…！？ / 雪代さん！ / どうして ここに…！？
+   EN: Uryu...! Wha...!? Yukishiro-san! Why are you here...!?
+>> 15.63 | Shusha | 雪代さん！ / どうして ここに…！？
+   EN: Yukishiro-san! Why are you here...!?
+>> 15.64 | Yukishiro | …朱紗君！
+   EN: ...Shusha-kun!
+>> 15.65 | Shusha | なぜだ！ / なぜ 君がここにいる！？
+   EN: Why!? Why are you here!?
+>> 15.66 | Uryu | あっはっはっはっはっは！ / 教えてやろう 朱紗真悟！ / その女は / 俺の命令を聞くしかないのさ！
+   EN: Ahahahahahaha! I'll tell you, Shingo Shusha! That girl has no choice but to obey my orders!
+>> 15.67 | Shusha | うそだ！
+   EN: That's a lie!
+>> 15.68 | Uryu | この女のオヤジが経営する会社を / 俺は乗っとった！ / 俺の命令を聞かなければ / この女の家族は / 一家心中しなきゃならんのだ！
+   EN: I took over the company her father runs! If she doesn't obey my orders, her whole family will have no choice but to kill themselves together!
+>> 15.69 | Yukishiro | ……………
+   EN: ...............
+>> 15.70 | Shusha | そ そんな…！
+   EN: Th-that's...!
+>> 15.71 | Uryu | 俺は おまえの超能力の才能を / ずっと以前から 見抜いていた / おまえと会う以前からだ /  / そこで俺は 雪代を転校させ / おまえに近づけたのさ
+   EN: I saw your psychic talent long ago, before I ever met you.  So I had Yukishiro transfer to your school and get close to you.
+>> 15.72 | Shusha | ウソだ！
+   EN: That's a lie!
+>> 15.73 | Uryu | すべては おまえの力を / 得たいがための計画だ / その女は 計画通り / よく働いてくれたよ！
+   EN: It was all a plan to get your power. And the girl did her job nicely, just as planned!
+>> 15.74 | Shusha | ウソだ！
+   EN: That's a lie!
+>> 15.75 | Uryu | おまえに惚れてる振りをしろ！と / 命じたのだ / だが ホントに惚れるとは / 予想外だったがな
+   EN: I ordered her to pretend she was in love with you. Though I never expected her to fall for you for real.
+>> 15.76 | Shusha | 雪代さん… /  / 君は 瓜生の計画を知ってて / 不死団に襲われたのか？
+   EN: Yukishiro-san...  Did you know about Uryu's plan when the Immortal Corps attacked you?
+>> 15.77 | Yukishiro | ……………
+   EN: ...............
+>> 15.78 | Shusha | ウソだろ？ ウソだと言ってくれ / 雪代さん…！！
+   EN: It's a lie, right? Tell me it's a lie, Yukishiro-san...!!
+>> 15.79 | Uryu | その女は / 本気でおまえに惚れたんだよ / だからといってそいつにはどうする / ことも出来なかったんだ！ / その女は / 俺の命令を聞くしかないのさ！
+   EN: The girl really did fall for you. But even so, there was nothing she could do about it! She has no choice but to obey my orders!
+>> 15.80 | Shusha | 雪代さん…
+   EN: Yukishiro-san...
+>> 15.81 | Yukishiro | 朱紗君… ごめんなさい…
+   EN: Shusha-kun... I'm sorry...
+>> 15.82 | Shusha | ぐっ…！！
+   EN: Ngh...!!
+>> 15.83 | {p} | どうしたの 美剣さん？
+   EN: What's wrong, Mitsurugi-san?
+>> 15.84 | Mitsurugi | 「魔」を感じるわ… /  / みにくい心 恐ろしい心 歪んだ心… / 悪しき心の集合体…それが魔よ！
+   EN: I sense "Ma"...  Ugly hearts, frightening hearts, twisted hearts... a mass of evil hearts. That is Ma!
+>> 15.85 | {s} | それを 感じるの…？
+   EN: You can sense that...?
+>> 15.86 | Mitsurugi | 魔は この世に破壊と殺りく / そして悲しみをもたらす！
+   EN: Ma brings destruction, slaughter and sorrow to this world!
+>> 15.87 | Mitsurugi | 空気に… 怒りと悲しみ / そして憎しみが満ちているわ…！ / はっ…！
+   EN: The air... is filled with rage and sorrow, and hatred...! Ah...!
+>> 15.88 | {s} | 美剣さん！ しっかりして！
+   EN: Mitsurugi-san! Hang in there!
+>> 15.89 | Mitsurugi | …いけない！ ダメよ 朱紗君！ / いけないわ…！！
+   EN: ...No! Don't, Shusha-kun! You mustn't...!!
+>> 15.90 | {p} | 美剣さん！？ / まさか 朱紗君の身に…！？
+   EN: Mitsurugi-san!? Don't tell me something's happening to Shusha-kun...!?
+>> 15.91 | Shusha | ウォォォォォォォ…！！
+   EN: Wooooooooh...!!
+>> 15.92 | Yukishiro | きゃあ～！
+   EN: Kyaaa!
+>> 15.93 | Uryu | 変身だ！ ふはははは！ / 朱紗が 変身するぞ！
+   EN: He's transforming! Fuhahahaha! Shusha is transforming!
+>> 15.94 | Yukishiro | す 朱紗君！
+   EN: Sh-Shusha-kun!
+>> 15.95 | Uryu | ふははは！ / 憎しみの巨人だ！ / 怒りと憎しみの / 巨人の出現だぞ～っ！
+   EN: Fuhahaha! The giant of hatred! Behold the coming of the giant of rage and hatred!
+>> 15.96 | Shusha | グォォォォォォ…！！
+   EN: Guooooooh...!!
+>> 15.97 | Mitsurugi | 遅かったわ…！ /  / 朱紗君の心に 怒りが満ちて / 理性のタガが外れた時 / 「魔」のエネルギーを 無限に / 呼び込んでしまい / 邪神・凄ノ王が / 誕生してしまうのよ！
+   EN: We're too late...!  When Shusha-kun's heart fills with rage and the restraints on his reason come off, he draws in endless "Ma" energy, and the evil god Susano-oh is born!
+>> 15.98 | Mitsurugi | 遅かったわ…！
+   EN: We're too late...!
+>> 15.99 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+   ctx 16.00 | {p} | 瓜生！
+   ctx EN: Uryu!
+   ctx 16.01 | Mitsurugi | なんてことを！
+   ctx EN: What have you done!

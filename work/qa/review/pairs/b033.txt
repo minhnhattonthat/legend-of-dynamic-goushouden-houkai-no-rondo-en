@@ -1,0 +1,208 @@
+   ctx 31.98 | {s} | 魔王が していることは / 革命と同じよ！ / 独裁者に苦しんでる人々のため / 世界を変えようとしているの！
+   ctx EN: What the Demon King is doing is just like a revolution! He's trying to change the world for people suffering under a dictator!
+   ctx 31.99 | {p} | {s}！ / 魔王は間違ってる！！ / 君もだ！ / 君は 魔王に騙されているんだ！
+   ctx EN: {s}! The Demon King is wrong!! And so are you! The Demon King is deceiving you!
+>> 32.00 | {s} | 間違っていないわ！ / 騙されてもいない！ / だって魔王は あの悲劇を / 防ぐことが出来るのよ！
+   EN: He's not wrong! And I'm not deceived! Because the Demon King can prevent that tragedy!
+>> 32.01 | {p} | あの悲劇を… / 防ぐことが出来る…
+   EN: He can prevent... that tragedy...
+>> 32.02 | {s} | 同じことの繰り返しに / 何の意味がある！？
+   EN: What is the point of repeating the same thing!?
+>> 32.03 | Grade | 日蝕が始まり / 我が力は 頂点に達した / 日蝕が終わるまで 我が力は / 維持されたままだ / かつて 貴様に告げた言葉だ / この場所で…な / 貴様 本当に 我に勝ったと / 思ったのか？ / 我が力は… 日蝕が終わるまで / 維持されたままなのだぞ？
+   EN: The eclipse has begun and my power has reached its peak. Until the eclipse ends, my power will hold. Words I once spoke to you, in this very place. Did you truly think you had beaten me? My power... holds until the eclipse ends, remember?
+>> 32.04 | Grade | 貴様が何故 「再生の太陽」と / 呼ばれたか 解ったか？ / 再生したのだよ 貴様は… / 世界を思い通りに…な！
+   EN: Do you understand now why you were called the "Sun of rebirth"? You remade it... the world, as you wished!
+>> 32.05 | {p} | …！？
+   EN: ...!?
+>> 32.06 | Grade | だが貴様には 迷いがあった / 世界をどうすべきか解らなかった / そのため「始まりの丘」から / 同じことが 繰り返されたのだ
+   EN: But you had doubts. You did not know what to do with the world. And so the same events repeated, starting from the "Hill of Beginnings."
+>> 32.07 | {p} | そ そんな…
+   EN: Th-that can't be...
+>> 32.08 | Grade | 不動明の身に起こる出来事を / 知っている おまえは / 不動明から逃げたのだ そして / 如月ハニーと 行動を共にした
+   EN: Knowing what would befall Akira Fudo, you ran from Akira Fudo. And traveled with Honey Kisaragi instead.
+>> 32.09 | {p} | 違う！ あの時は {s}が / 誰と行くかを勝手に決めたんだ！
+   EN: That's not true! That time, {s} decided on her own who went with who!
+>> 32.10 | Grade | 勝手に決めたと思うか…？
+   EN: Do you think she decided on her own...?
+>> 32.11 | {s} | あたしが 勝手に 決めたと / 思ってるの…？ ひどいわ… / あたしは あなたが もう / あんな悲劇は 見たくないって / そう思っているのが解ったから… / だから…！
+   EN: You think I decided on my own...? That's cruel... I could tell you never wanted to see a tragedy like that again... So...!
+>> 32.12 | {p} | {s}…
+   EN: {s}...
+>> 32.13 | {s} | あなたのことを想って / したことなのに！ なのに！！
+   EN: I did it thinking of you! And yet! And yet!!
+>> 32.14 | {p} | ………
+   EN: .........
+>> 32.15 | {s} | ひどい… / 言葉には出さなくても / あたしの気持ち 伝わっていると / 思っていたのに…
+   EN: That's cruel... Even without saying it, I thought you understood how I felt...
+>> 32.16 | {p} | ごめんよ {s}… / 本当に ごめん…
+   EN: I'm sorry, {s}... I'm really sorry...
+>> 32.17 | {s} | いいの もう いいのよ… /  / どうせ こうなる / 運命だったのだから…！
+   EN: It's fine. It doesn't matter anymore...  It was fated to end up like this anyway...!
+>> 32.18 | Grade | 受けれいるのだ / {p}よ… / 我と 同調すれば 安定した / 平和な世界を 創り出せる / すべての悲劇は防げるのだ… / 誰も苦しまず 悲しまない
+   EN: Accept it, {p}... If you are in tune with me, we can create a stable, peaceful world. Every tragedy can be prevented... No one will suffer or grieve.
+>> 32.19 | Grade | すべての迷いを消し去るのだ… /  / 案ずることはない… / 我にすべて ゆだねるのだ…
+   EN: Cast away all your doubts...  There is nothing to fear... Leave everything to me...
+>> 32.20 | {p} | 本当に 悲劇を防げるの？ / 誰も苦しまず 悲しまないの？
+   EN: Can you really prevent the tragedy? Will no one suffer or grieve?
+>> 32.21 | Grade | 我を信じよ…
+   EN: Trust in me...
+>> 32.22 | Honey Kisaragi | いけない！
+   EN: Don't!
+>> 32.23 | {p} | ハニー！
+   EN: Honey!
+>> 32.24 | Grade | 現れたな ザコどもが…
+   EN: So the small fry appear...
+>> 32.25 | Honey Kisaragi | 自分の運命を 他人にゆだねては / ダメよ！ / あなたは あなた自身の手で / 運命を変えなさい！
+   EN: Don't leave your fate in someone else's hands! Change your fate with your own hands!
+>> 32.26 | Grade | 愚かな… / 人間の力には 限りがある！
+   EN: Foolish... Human power has its limits!
+>> 32.27 | Honey Kisaragi | その限界に 挑戦し続けるのが / 人間よ 魔王！
+   EN: Humans are the ones who keep challenging those limits, Demon King!
+>> 32.28 | {p} | ハニー！ / そうだね そのとおりだ！ / 魔王！ / 僕は あきらめない！ / おまえの思い通りには / させない！ / 何度 同じことを繰り返そうとも / 僕は おまえと戦う！
+   EN: Honey! You're right, absolutely right! Demon King! I won't give up! I won't let you have your way! No matter how many times the same thing repeats, I'll fight you!
+>> 32.29 | Grade | 愚か者めらが！！
+   EN: FOOLS!!
+>> 32.30 | {p} | 本当に 魔王は死んだのかな…
+   EN: Is the Demon King really dead...?
+>> 32.31 | Honey Kisaragi | 「これで終わりではない！」 / なんて 悪役の捨てセリフよ！ / 気にしなくても平気よ / {p}！
+   EN: "This is not the end!" is just a villain's parting line! Don't let it bother you, {p}!
+>> 32.32 | {p} | ごめんね {s}… /  / やっぱり 僕は 君を助けることが / 出来なかった…
+   EN: I'm sorry, {s}...  In the end, I couldn't save you...
+>> 32.33 | {p} | あの時 ハニーが来なかったら / 僕は きっと… / 僕は きっと 魔王の考えを / 受けいれていた… / {s}… / 僕 恐いよ… / また / 繰り返されるのかと思うと…
+   EN: If Honey hadn't come that time, I'd have... I'd have accepted the Demon King's ideas for sure... {s}... I'm scared... When I think it might all repeat again...
+>> 32.34 | {p} | {s}… / 僕 恐いよ… / また / 繰り返されるのかと思うと…
+   EN: {s}... I'm scared... When I think it might all repeat again...
+>> 32.35 | {p} | だけど… 元の世界に戻れば… / また 君に逢えるはず！
+   EN: But... if I go back to our own world... I should be able to see you again!
+>> 32.36 | {p} | 日蝕の間 魔王の力は / 維持され続ける / 日蝕の間だけが 僕らが 元の世界に / 戻れるチャンスだった… / その力は / どこから 生み出されたのか… / そんなことが出来るのは / いったい誰か…
+   EN: During the eclipse, the Demon King's power holds. The eclipse was our only chance to get back to our own world... Where did that power come from... Who on earth could do something like that...
+>> 32.37 | {p} | それが出来るのは… / 魔王だけだ…
+   EN: The only one who could do that... is the Demon King...
+>> 32.38 | {p} | 魔王の言うなりになって / 魔王に取り込まれていたら… / 僕は すべての苦しみから / 解放された…はず / でも…そしたら 僕は / 君と再び逢えただろうか…！？
+   EN: If I'd done what the Demon King said and let him take me in... I'd have been freed from all suffering... But... then would I ever have seen you again...!?
+>> 32.39 | {p} | ハァ… ハァ… /  / でも！ そしたら 僕は / 君と再び逢えただろうか…！？
+   EN: *Pant*... *pant*...  But! Then would I ever have seen you again...!?
+>> 32.40 | {p} | たとえ… / たとえ 何度繰り返そうとも！ / 僕は 魔王の申し出を断る！ /  / そして… / いつか絶対 やっつけてやる！ / だって…
+   EN: Even... even if it repeats over and over! I'll refuse the Demon King's offer!  And... someday I'll beat him for sure! Because...
+>> 32.41 | {p} | ハァ… ハァ…
+   EN: *Pant*... *pant*...
+>> 32.42 | {p} | 自分で決めたことだ！
+   EN: It's my own decision!
+>> 32.43 | {p} | ハァ… ハァ…
+   EN: *Pant*... *pant*...
+>> 32.44 | {p} | 携帯が…
+   EN: My phone...
+>> 32.45 | {p} | メールだ…
+   EN: An e-mail...
+>> 32.46 | {p} | あの時 明君が来なかったら / 僕は きっと… / 僕は きっと 魔王の考えを / 受けいれていた… / {s}… / 僕 恐いよ… / また / 繰り返されるのかと思うと…
+   EN: If Akira-kun hadn't come that time, I'd have... I'd have accepted the Demon King's ideas for sure... {s}... I'm scared... When I think it might all repeat again...
+>> 32.47 | {p} | …なんか いろんな記憶が / ごちゃまぜになってる… / 頭が 痛いよ…
+   EN: ...All kinds of memories are getting jumbled up... My head hurts...
+>> 32.48 | Guard | 解ってらっしゃるクセに…
+   EN: As if you didn't already know...
+>> 32.49 | {p} | あ！ ガードマンさん！ / あれを見て！ / ガードマンさん… / そうか やっぱり…！
+   EN: Ah! Guard-san! Look at that! Guard-san... I see, so it's true...!
+>> 32.50 | {p} | イヤな予感がする… / この先には行かないほうがいいよ…
+   EN: I've got a bad feeling... We shouldn't go any further...
+>> 32.51 | Akira Fudo | 何言ってるんだよ / {p}！ / 他の道は 戦いが激しくて / とても通れないぜ？
+   EN: What are you talking about, {p}! The fighting's too heavy on the other roads. We'll never get through!
+>> 32.52 | Ryo Asuka | 不安を感じるのも無理はない /  / しかし この森を抜けていくしか / ないんだぞ {p}
+   EN: No wonder you feel uneasy.  But the only way is through this forest, {p}.
+>> 32.53 | {p} | う うん…
+   EN: Y-yeah...
+>> 32.54 | Grade | 現れたな ザコどもが…
+   EN: So the small fry appear...
+>> 32.55 | Akira Fudo | {p}！ 自分の運命を / 他人に委ねてはダメだ！ / 自分の力で / 運命を切り開くんだ！
+   EN: {p}! Don't leave your fate in someone else's hands! Carve out your fate with your own strength!
+>> 32.56 | Akira Fudo | 忘れたのかい？ 俺は悪魔の力を / 手に入れた人間…だぜ！ / 強い意志を持ち続ける限り / 俺は人間なんだ！
+   EN: Did you forget? I'm a human who got a devil's power! As long as I keep a strong will, I'm human!
+>> 32.57 | {p} | そうだ！ 強い意志と心こそ / 人間の最大の武器なんだ！ / 魔王！ 僕は あきらめない！ / おまえの思い通りにはさせない！ / 何度 同じことを繰り返そうとも / 僕は おまえと戦う！
+   EN: That's right! A strong will and heart are humanity's greatest weapons! Demon King! I won't give up! I won't let you have your way! No matter how many times the same thing repeats, I'll fight you!
+>> 32.58 | Akira Fudo | 「これで終わりではない！」なんて / 悪役の捨てセリフさ！ / 気にするなよ {p}！
+   EN: "This is not the end!" is just a villain's parting line! Don't let it get to you, {p}!
+>> 32.59 | {p} | あれ？ こんな階段 / さっきあったかな？ / もしかして… / 怒黒の隠れ家…！？
+   EN: Huh? Were these stairs here before? Could this be... Dokuro's hideout...!?
+>> 32.60 | Girl | いや～ん たすけて～
+   EN: Nooo, heeelp!
+>> 32.61 | {p} | 女の子が縛られてる！
+   EN: There's a girl tied up!
+>> 32.62 | Jubei | あんな子 うちの学校にいた？
+   EN: Was that girl at our school?
+>> 32.63 | {p} | 君も ハレンチ学園の生徒かい？
+   EN: Are you a Harenchi Gakuen student too?
+>> 32.64 | Girl | ハレンチ学園？ / あたしはスパルタ学園の生徒よ！
+   EN: Harenchi Gakuen? I'm a student at Sparta Academy!
+>> 32.65 | {p} | スパルタ学園？
+   EN: Sparta Academy?
+>> 32.66 | Mayumi | そうよ！ / あたしは１年Ｓ組の高橋真弓！ / サタンの足の爪に / 無実の罪を着せられたの！ / お姉様を引っ張り出すために！
+   EN: That's right! I'm Mayumi Takahashi of class 1-S! Satan's Toenail framed me for something I didn't do! To lure out Onee-sama!
+>> 32.67 | {p} | サタンの足の爪？ / お姉様？ / …ともかく助けてあげるよ！ / 話は それからだ！
+   EN: Satan's Toenail? Onee-sama? ...Anyway, let's get you free! We'll talk after!
+>> 32.68 | Mayumi | ひっく… ひっく…
+   EN: *Sniffle*... *sniffle*...
+>> 32.69 | {p} | もう 大丈夫だよ！
+   EN: You're safe now!
+>> 32.70 | Mayumi | ひっく… ひっく… /  / …ど～して いつも / あたしばかり…
+   EN: *Sniffle*... *sniffle*...  ...Why is it always me...
+>> 32.71 | Satan's Toenail | それはな！ おまえを苛めると / あいつが現れるからだ！
+   EN: I'll tell you why! Because when I torment you, SHE shows up!
+>> 32.72 | {p} | あいつが サタンの足の爪？
+   EN: So that's Satan's Toenail?
+>> 32.73 | Mayumi | そうよ / スパルタ学園の学園長よ！ / でもきっと お姉様が来て / 助けてくれるわ！
+   EN: That's right. The principal of Sparta Academy! But I'm sure Onee-sama will come save me!
+>> 32.74 | {p} | ねぇ お姉様って いったい…
+   EN: Hey, who is this Onee-sama...
+>> 32.75 | Satan's Toenail | むむ！？ / この曲は！
+   EN: Hmm!? That music!
+>> 32.76 | Onee-sama | あくどい勉強に 泣く / 少年少女を 救うため / 日夜戦う正義の人！
+   EN: To save the boys and girls who weep under wicked studies, a champion of justice fighting day and night!
+>> 32.77 | {p} | わ～ けっこう！
+   EN: Whoa... what a fine sight!
+>> 32.78 | Onee-sama | そうです けっこうです！ /  / 顔を隠して 身体を隠さない！ / けっこう仮面！！
+   EN: Yes, a fine sight indeed!  I hide my face, but never my body! Kekko Kamen!!
+>> 32.79 | Satan's Toenail | 現れたな けっこう仮面！
+   EN: So you've appeared, Kekko Kamen!
+>> 32.80 | Kekko Kamen | 真弓君！ 待っていなさい / すぐに助けてあげるわ！
+   EN: Mayumi-kun! Hold on, I'll save you right away!
+>> 32.81 | Kekko Kamen | カ～オは だ～れかは / し～らな～い け～れ～ど～！ / カラダは みいんな / し～ってい～るぅ～！ / けっこう仮面の姉さんは / 正義の味方だイ～イ女だ～！ / 疾風のように あらわれて～っ！ / タップリ見せて さってゆく～！ / けっこう仮面は 誰でしょう！！
+   EN: Nooo one knows whose face it iiis! But everybody knows her bodyyy! Kekko Kamen's a lady, champion of justice, one fine womaaan! She appears like a gust of wiiind! Shows it all, and off she gooes! Who is Kekko Kameeen!!
+>> 32.82 | Kekko Kamen | 残るは あなただけよ！ / 覚悟しなさい サタンの足の爪！
+   EN: Only you are left! Prepare yourself, Satan's Toenail!
+>> 32.83 | {p} | 脱出出来るぞ！
+   EN: We can get out!
+>> 32.84 | Kekko Kamen | きゃ～！
+   EN: Kyaaa!
+>> 32.85 | Satan's Toenail | ハッハッハッハッハ！ / いつもいつも 負けてばかりの / サタンの足の爪様じゃないぞ！
+   EN: Hahahahaha! I'm not the Satan's Toenail-sama who loses every single time!
+>> 32.86 | Mayumi | 大変！ お姉様を助けて！
+   EN: Oh no! Save Onee-sama!
+>> 32.87 | Kekko Kamen | 君 ありがとう！ /  / 見慣れない顔だけど / スパルタ学園の転校生？
+   EN: Thank you!  I don't recognize your face. Did you transfer to Sparta Academy?
+>> 32.88 | {p} | あ！ / 実は…
+   EN: Ah! Actually...
+>> 32.89 | Kekko Kamen | …不思議な話ね
+   EN: ...What a strange story.
+>> 32.90 | Mayumi | 真弓 ビックリ！
+   EN: Mayumi's amazed!
+>> 32.91 | Kekko Kamen | あなた達が / 私の正体を 詮索しなければ… / 謎を解く お手伝いをするわよ？
+   EN: If you don't pry into my true identity... I'll help you solve the mystery, shall I?
+>> 32.92 | {p} | ホントに！
+   EN: Really!
+>> 32.93 | Kekko Kamen | それと… あんまり / ジロジロ 見ないことね！
+   EN: And... don't stare too much!
+>> 32.94 | {p} | 扉を開ける 鍵を探そう / きっとどこかに あるはずだ！
+   EN: Let's find the key to open the door. It must be around here somewhere!
+>> 32.95 | {p} | なんか キッカイな家だな…
+   EN: What a weird house...
+>> 32.96 | {p} | うわ～！
+   EN: Whoaaa!
+>> 32.97 | Boy | 当たったかな？ / ポチめ ざま～みろ！ / いつもいつも 家の食べもん / 狙いやがるからだ！ / あれっ？
+   EN: Did I hit it? Take that, Pochi! That's what you get for always going after our food! Huh?
+>> 32.98 | {p} | あっぶないなぁ もう…！
+   EN: Geez, that was dangerous...!
+>> 32.99 | Boy | ポチじゃないの？
+   EN: You're not Pochi?
+   ctx 33.00 | Old Man | こらっ！ キッカイ！
+   ctx EN: Hey! Kikkai!
+   ctx 33.01 | Kikkai | おじいちゃん！
+   ctx EN: Grandpa!

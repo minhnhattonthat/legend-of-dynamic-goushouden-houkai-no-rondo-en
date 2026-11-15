@@ -1,0 +1,6 @@
+IMPORTANT | B00.05 | "奇跡の七変化のうち 戦闘に適した姿" means the combat form among her seven miraculous transformations. | "Her 7 miracles" misrepresents transformations as separate miracles. | Cutie Honey   Honey Kisaragi, warrior of love. The combat form of her seven transformations.
+IMPORTANT | B00.67 | "予知一族の少女" means a girl of the Precog Clan. | "Seer-clan" replaces the binding glossary name. | Maju Sensen   A Precog Clan girl with strong foresight. Shinichi's ally.
+IMPORTANT | B00.68 | "予知一族" names the Precog Clan. | "Seer clan" is inconsistent with the glossary. | Maju Sensen   Precog Clan. Foresees foes' moves and moves swiftly.
+IMPORTANT | B00.82 | "女蛮子に 好意を持つ女の子" means a girl who likes Banji Suke. | "Sukebanko" misreads the character's name; the glossary specifies Banji Suke. | Oira Sukeban   A girl sweet on Banji Suke. A Kanto yakuza boss's daughter.
+IMPORTANT | B00.83 | "女蛮子の母親" means Banji Suke's mother. | "Sukebanko" repeats the incorrect name. | Oira Sukeban   Banji Suke's mother. Nobody outfights her.
+ASSESSMENT | b056 | Needs fixes | Correct Honey's transformation description and the inconsistent character and clan names.

@@ -1,0 +1,132 @@
+   ctx r0D0FD0 |  | [0A]地下すいろのかぎ を[0A]手に入れた
+   ctx EN: [0A]Got the[0A]Waterway Key!
+   ctx r0D0FF0 |  | [0A]地下すいろのかぎ を[0A]使った
+   ctx EN: [0A]Used the[0A]Waterway Key.
+>> r0D100C |  | [0A]バトラー「朱紗真悟」が[0A]アソートに加わった
+   EN: [0A]Battler "Shingo Shusha"[0A]joined the party.
+>> r0D1038 |  | [0A]パートナー「美剣千草」が[0A]アソートに加わった
+   EN: [0A]Partner "Chigusa Mitsurugi"[0A]joined the party.
+>> r0D1068 |  | [0A]パートナー「合田」が[0A]アソートに加わった
+   EN: [0A]Partner "Goda"[0A]joined the party.
+>> r0D1094 |  | [0A]バトラー「来留間源三」が[0A]アソートに加わった
+   EN: [0A]Battler "Genzo Kuruma"[0A]joined the party.
+>> r0D10C4 |  | [0A]パートナー「永井豪」が[0A]アソートに加わった
+   EN: [0A]Partner "Go Nagai"[0A]joined the party.
+>> r0D10F0 |  | [0A]パートナー「石川賢」が[0A]アソートに加わった
+   EN: [0A]Partner "Ken Ishikawa"[0A]joined the party.
+>> r0D111C |  | [0A]パートナー「間身井の姉」が[0A]アソートに加わった
+   EN: [0A]Partner "Mamii's Sister"[0A]joined the party.
+>> r0D114C |  | [0A]パートナー「早見団兵衛」が[0A]アソートに加わった
+   EN: [0A]Partner "Danbei Hayami"[0A]joined the party.
+>> r0D117C |  | [0A]パートナー「法印大子」が[0A]アソートに加わった
+   EN: [0A]Partner "Daiko Hoin"[0A]joined the party.
+>> r0D11AC |  | [0A]パートナー「こややし少年」が[0A]アソートに加わった
+   EN: [0A]Partner "Young Koyayashi"[0A]joined the party.
+>> r0D11E0 |  | [0A]パートナー「イボ痔小五郎」が[0A]アソートに加わった
+   EN: [0A]Partner "Kogoro Iboji"[0A]joined the party.
+>> r0D1214 |  | [0A]パートナー「木刀政」が[0A]アソートに加わった
+   EN: [0A]Partner "Bokuto Masa"[0A]joined the party.
+>> r0D1240 |  | [0A]バトラー「シレーヌ」が[0A]アソートに加わった
+   EN: [0A]Battler "Sirene"[0A]joined the party.
+>> r0D126C |  | [0A]パートナー「カイム」が[0A]アソートに加わった
+   EN: [0A]Partner "Kaim"[0A]joined the party.
+>> r0D1298 |  | [0A]バトラー「無幻美勒」が[0A]アソートに加わった
+   EN: [0A]Battler "Miroku Mugen"[0A]joined the party.
+>> r0D12C4 |  | [0A]パートナー「泣きのグズ蟲」が[0A]アソートに加わった
+   EN: [0A]Partner "Crybaby Guzumushi"[0A]joined the party.
+>> r0D12F8 |  | [0A]パートナー「黒死丸」が[0A]アソートに加わった
+   EN: [0A]Partner "Kokushimaru"[0A]joined the party.
+>> r0D1324 |  | [0A]パートナー「早乙女博士」が[0A]アソートから外れた
+   EN: [0A]Partner "Dr. Saotome"[0A]left the party.
+>> r0D1354 |  | [0A]バトラー「宇津木涼」が[0A]アソートに加わった
+   EN: [0A]Battler "Ryo Utsugi"[0A]joined the party.
+>> r0D1380 |  | [0A]パートナー「メドッサ」が[0A]アソートに加わった
+   EN: [0A]Partner "Medossa"[0A]joined the party.
+>> r0D13B0 |  | [0A]日記を読む[0A]日記を読まない
+   EN: [0A]Read diary[0A]Don't read it
+>> r0D13CC |  | [0A]バトラー「阿仁丸ケダマン」が[0A]アソートに加わった
+   EN: [0A]Battler "Kedaman Animaru"[0A]joined the party.
+>> r0D1400 |  | [0A]バトラー「怒良野キラー」が[0A]アソートに加わった
+   EN: [0A]Battler "Killer Dorano"[0A]joined the party.
+>> r0D1430 |  | セーブデータ消去
+   EN: Erase save data
+>> r0D1444 |  | デバックデータ
+   EN: Debug data
+>> r0D1454 |  | 素材１確認
+   EN: Check art 1
+>> r0D1460 |  | 菊池
+   EN: Kikuchi
+>> r0D1468 |  | コ
+   EN: pc
+>> r0D146C |  | 努
+   EN: Tsu
+>> r0D1470 |  | 大出
+   EN: Oide
+>> r0D1478 |  | 製品版
+   EN: Retail
+>> r0D1480 |  | デバックＭＥＮＵ
+   EN: Debug MENU
+>> r0D14A0 |  | バトルチビキャラ
+   EN: Battle chibi
+>> r0D14B4 |  | チビキャラ表示（パートナー）
+   EN: Show chibi (Partner)
+>> r0D14D4 |  | チビキャラ表示（バトラー）
+   EN: Show chibi (Battler)
+>> r0D14F0 |  | 小フェース表示
+   EN: Show small face
+>> r0D1500 |  | バストバップの表示
+   EN: Show bust-up
+>> r0D1514 |  | フェースの表示
+   EN: Show face
+>> r0D1524 |  | デバック(大出）ＭＥＮＵ
+   EN: Debug (Oide) MENU
+>> r0D188C |  | 小フェース２０表示
+   EN: Show small face 20
+>> r0D18A0 |  | デバック（大出２）ＭＥＮＵ
+   EN: Debug (Oide 2) MENU
+>> r0D18BC |  | メイン
+   EN: Top
+>> r0D18C4 |  | サブ
+   EN: Sub
+>> r0D19EC |  | エンディング
+   EN: Ending
+>> r0D19FC |  | 中断ＧＡＭＥ
+   EN: SUSPEND GAME
+>> r0D1A0C |  | ＬＯＡＤ　ＧＡＭＥ
+   EN: LOAD GAME
+>> r0D1A20 |  | バトル大技BG
+   EN: Battle big BG
+>> r0D1A30 |  | ＤＴＳアニメーション
+   EN: DTS animation
+>> r0D1A48 |  | バトル小技
+   EN: Small skill
+>> r0D1A54 |  | バトルオブジェマスク
+   EN: Battle object mask
+>> r0D1A6C |  | バトルテスト
+   EN: Battle test
+>> r0D1A7C |  | カーソルテスト
+   EN: Cursor test
+>> r0D1A8C |  | Ｄ＿ＬＩＢ０Ａ
+   EN: D_LIB0A
+>> r0D1A9C |  | Ｄ＿ＬＩＢ０
+   EN: D_LIB0
+>> r0D1AAC |  | 戻る
+   EN: Back
+>> r0D1AB4 |  | データ無し
+   EN: No data
+>> r0D1F9C |  | 敵があらわれた
+   EN: Enemies appear!
+>> r0D1FAC |  | が現れた！
+   EN: appeared!
+>> r0D1FB8 |  | 不意打ちだ！
+   EN: Ambushed!
+>> r0D1FC8 |  | 先制攻撃だ！
+   EN: First strike!
+>> r0D1FE0 |  | 敵に逃げられた
+   EN: Enemy escaped.
+>> r0D1FF0 |  | 逃走
+   EN: Run
+   ctx r0D2018 |  | 逃げられない！
+   ctx EN: Can't escape!
+   ctx r0D2028 |  | 敵は逃げようとした！
+   ctx EN: Enemy tried to flee!

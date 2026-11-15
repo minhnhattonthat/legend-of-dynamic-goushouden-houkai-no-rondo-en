@@ -1,0 +1,4 @@
+IMPORTANT | 42.77 | "どっかに倒れてるんじゃねぇか？" means he may have collapsed somewhere. | "Lying around" loses the implication that the missing pilot is hurt or unconscious after the crash. | Maybe he's collapsed somewhere nearby?
+IMPORTANT | 42.93 | "わしは信じておる / わしと一緒に ... こんか？" expresses an elderly man's conviction and invitation. | The neutral phrasing flattens Dr. Saotome's distinctly elderly voice. | Knowing that lad, I daresay he's alive somewhere. Now then, {p}, won't you accompany me to the Saotome Lab?
+MINOR | 42.66 | He refuses to return until he has collected every brain. | The opening fragment followed by "I won't" makes the condition awkward to follow. | I won't go back to the Hell World... not until I've collected every brain in the world! I'll suck out loads of fresh brains!
+ASSESSMENT | b043 | Needs fixes | Restore the missing pilot's implied condition and Dr. Saotome's elderly register, and smooth Beehive Nyudo's declaration.

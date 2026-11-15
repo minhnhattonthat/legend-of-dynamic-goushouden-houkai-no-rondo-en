@@ -1,0 +1,2 @@
+IMPORTANT | 51.85 | 「あたしは法印大子」 introduces Hoin Taishi. | "Taishi Hoin" reverses the established name in tools/speakers.tsv and the displayed speaker tag. | I'm Hoin Taishi, villain hunter!
+ASSESSMENT | b052 | Needs fixes | The self-introduction should match the established character name; the remaining entries read accurately and naturally.

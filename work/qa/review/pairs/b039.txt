@@ -1,0 +1,208 @@
+   ctx 37.98 | {p} | 明君 いったい何を見てるの？
+   ctx EN: Akira-kun, what on earth are you seeing?
+   ctx 37.99 | Ryo Asuka | 地獄の光景 悪魔の世界さ！ /  / 弱さは 死を意味する / 強い者だけが生き残る力の歴史！
+   ctx EN: A vision of hell, the world of devils!  Weakness means death. A history of power, where only the strong survive!
+>> 38.00 | Akira Fudo | うう…！
+   EN: Ugh...!
+>> 38.01 | Ryo Asuka | 闘争の世界に生き残るため / デーモン一族は / 特殊な能力を 身につけた！
+   EN: To survive in a world of endless battle, the Demon race acquired a special ability!
+>> 38.02 | {p} | 特殊な能力？
+   EN: A special ability?
+>> 38.03 | Ryo Asuka | 合体能力だ /  / 他の生物と合体し / その体質を取り入れる能力だ
+   EN: The ability to merge.  The ability to fuse with other living things and take in their traits.
+>> 38.04 | Akira Fudo | あ 悪魔だ！
+   EN: Th-they're devils!
+>> 38.05 | Ryo Asuka | そう 悪魔だ！ /  / 強くなるために 次々と合体を / 繰り返したデーモンは / 異様な姿と能力を持つ / 怪物へと変貌していったのだ！
+   EN: That's right, devils!  Merging again and again to grow stronger, the Demons transformed into monsters with grotesque shapes and powers!
+>> 38.06 | Akira Fudo | 悪魔がホントにいたなんて…
+   EN: I can't believe devils really existed...
+>> 38.07 | {p} | 明君…
+   EN: Akira-kun...
+>> 38.08 | Ryo Asuka | いよいよ来たか デーモン！ / ふたりとも こっちだ！
+   EN: So they've come at last, the Demons! You two, this way!
+>> 38.09 | Ryo Asuka | 氷河期の氷に閉じこめられていた / デーモンが よみがえった！ / ヤツらは 人類から / 地球を取り戻そうとしている！
+   EN: The Demons sealed in Ice Age ice have revived! They mean to take the Earth back from mankind!
+>> 38.10 | Ryo Asuka | 逃げるぞ！ デーモンは 戦いが / 生き甲斐なんだ！ / 生き物を殺すのが / デーモンの喜びなんだ！
+   EN: We're running! Battle is what the Demons live for! Killing living things is a Demon's joy!
+>> 38.11 | Akira Fudo | 助けを呼ばないと！
+   EN: We have to call for help!
+>> 38.12 | Ryo Asuka | 人間が デーモンの存在を / 認めると思うのか？ / 俺達が 狂ってると / 思われるだけだ！
+   EN: You think humans would believe Demons exist? They'd just think we'd gone mad!
+>> 38.13 | Ryo Asuka | ひとつだけ / ヤツらを防げる部屋がある！ / あの程度のデーモンなら / 恐らく入れまい！
+   EN: There's one room that can keep them out! Demons of that level probably can't get in!
+>> 38.14 | {p} | あっ！
+   EN: Ah!
+>> 38.15 | Akira Fudo | 了！ 行き止まりだぞ！
+   EN: Ryo! It's a dead end!
+>> 38.16 | Ryo Asuka | しまった！ / 廊下を逆に走った！
+   EN: Damn! I ran the wrong way down the hall!
+>> 38.17 | Ryo Asuka | …というのはウソだ
+   EN: ...That was a lie.
+>> 38.18 | Ryo Asuka | ここなら ヤツらも / 簡単に入り込めまい
+   EN: Here, they won't get in so easily.
+>> 38.19 | {p} | でも どうして こんな部屋が…？
+   EN: But why is there a room like this...?
+>> 38.20 | Akira Fudo | 俺が見たデーモンの歴史では / ヤツらは 合体を繰り返していた / ここに逃げれば ヤツらの / 合体攻撃を防げるからだろ？
+   EN: In the Demon history I saw, they kept merging over and over. If we escape in here, we can block their merging attacks, right?
+>> 38.21 | {p} | なるほど！
+   EN: I see!
+>> 38.22 | Ryo Asuka | …違う / デーモンと戦うためだ
+   EN: ...Wrong. It's for fighting the Demons.
+>> 38.23 | Ryo Asuka | デーモンと戦う方法 / それは…
+   EN: The way to fight the Demons... is...
+>> 38.24 | {p} | デーモン！？
+   EN: A Demon!?
+>> 38.25 | Ryo Asuka | テレポートしてきたのか！？
+   EN: Did it teleport in!?
+>> 38.26 | Ryo Asuka | 明！
+   EN: Akira!
+>> 38.27 | {p} | 明君！
+   EN: Akira-kun!
+>> 38.28 | Akira Fudo | うわああああああ！
+   EN: WHOAAAAAAAA!
+>> 38.29 | Ryo Asuka | デーモンと戦う方法 / それは！ / 自分自身が / デーモンになることだ！
+   EN: The way to fight the Demons is! To become a Demon yourself!
+>> 38.30 | {p} | なんだって！？
+   EN: What!?
+>> 38.31 | Akira Fudo | …俺は 手に入れたぞ！ / 悪魔の身体を手に入れたぞ！ / 俺は… / 俺は デビルマンだ！
+   EN: ...I've got it! I've got a devil's body! I'm... I'm Devilman!
+>> 38.32 | Demon | ほこり高きデーモンの戦士 / 勇者アモン… / あなた / 人間に意識を乗っ取られたのね…
+   EN: Amon, proud warrior of the Demons, the brave one... So a human has taken over your mind...
+>> 38.33 | Devilman | 乗っ取ったと言って貰おうか！ /  / 俺は デーモンの身体 / 超能力を乗っ取ったのだ！ / きさま達 デーモンを / 滅ぼすために！
+   EN: Call it a hijacking!  I've hijacked a Demon's body and its powers! To wipe out you Demons!
+>> 38.34 | Ryo Asuka | {p}！ / 俺達と共に戦え！
+   EN: {p}! Fight with us!
+>> 38.35 | {p} | えっ！？
+   EN: What!?
+>> 38.36 | Ryo Asuka | 戦わなければ 巻き添えを食って / 死ぬのみだぞ！
+   EN: If you don't fight, you'll just get caught up in it and die!
+>> 38.37 | {p} | わ わかった…！
+   EN: G-got it...!
+>> 38.38 | Ryo Asuka | …俺は明と共に デビルマンに / なるつもりだった / {p} / 君を巻き込むつもりは なかった
+   EN: ...I meant for Akira and me both to become Devilman together. {p}, I never meant to drag you into this.
+>> 38.39 | {p} | どうして明君を？
+   EN: Why Akira-kun?
+>> 38.40 | Ryo Asuka | 邪悪な心を持つ者が / デーモンと合体すれば / たちまち / デーモンに なりきってしまう
+   EN: If someone with an evil heart merges with a Demon, he becomes a Demon through and through in an instant.
+>> 38.41 | {p} | 明君を信頼していたんだね
+   EN: You trusted Akira-kun.
+>> 38.42 | Ryo Asuka | 恐怖で理性を失い / 本能で行動しながらも / 明は人間の心を保ち続けてくれた
+   EN: Even while he lost his reason to fear and acted on instinct, Akira kept his human heart.
+>> 38.43 | Akira Fudo | …お 俺は？
+   EN: ...Wh-what about me?
+>> 38.44 | Ryo Asuka | 気がついたか 明！
+   EN: You've come around, Akira!
+>> 38.45 | {p} | 気分は どう？
+   EN: How do you feel?
+>> 38.46 | Akira Fudo | 気分？ / へへっ 最高だぜ！ / 戦うのが こんなに / 気持ちいいことだとはな！
+   EN: Feel? Heh heh, I feel great! Who knew fighting felt this good!
+>> 38.47 | Ryo Asuka | デーモンと合体したとはいえ / 優しく臆病だった明が…
+   EN: He merged with a Demon, but the Akira who was so gentle and timid...
+>> 38.48 | Akira Fudo | {p}！ 了！ / 早く ここから出ようぜ！ / この家にいるデーモンを / 片っ端から片づけてやる！
+   EN: {p}! Ryo! Let's get out of here! I'll wipe out every Demon in this house, one after another!
+>> 38.49 | {p} | 明君…
+   EN: Akira-kun...
+>> 38.50 |  | カギが かかっていて 開かない
+   EN: It's locked. It won't open.
+>> 38.51 | {p} | どうにか脱出 出来たね！
+   EN: We somehow made it out!
+>> 38.52 | Ryo Asuka | 安心するのは まだ早い！ / 急いで ここから離れないと！
+   EN: It's too early to relax! We have to get away from here, fast!
+>> 38.53 | Akira Fudo | 止まれ 了！
+   EN: Stop, Ryo!
+>> 38.54 | Ryo Asuka | どうしたんだ 明… /  / …！？
+   EN: What is it, Akira...  ...!?
+>> 38.55 | {p} | あれは…！？
+   EN: That's...!?
+>> 38.56 | Akira Fudo | 黒い月…！？
+   EN: A black moon...!?
+>> 38.57 | ??? | 恐怖が人類を狂わせる…
+   EN: Fear drives mankind mad...
+>> 38.58 | Ryo Asuka | …おさまったか？
+   EN: ...Has it stopped?
+>> 38.59 | Akira Fudo | 黒い月に 地震… / これらも デーモンの仕業なのか？
+   EN: A black moon and an earthquake... Is this the Demons' doing too?
+>> 38.60 | Ryo Asuka | ………
+   EN: .........
+>> 38.61 | {p} | ここは地震前と同じ場所のようだね / 良かった…
+   EN: Looks like we're in the same place as before the quake. Thank goodness...
+>> 38.62 | Ryo Asuka | どういう意味だ？
+   EN: What do you mean?
+>> 38.63 | {p} | 実は…
+   EN: Actually...
+>> 38.64 | Ryo Asuka | …！？ もしかしたら デーモンの / 宣戦布告なのかもしれん / だが それにしては 不可解だな…
+   EN: ...!? Perhaps it's the Demons' declaration of war. But even so, it's baffling...
+>> 38.65 | {p} | ………
+   EN: .........
+>> 38.66 | Akira Fudo | …美樹ちゃん！
+   EN: ...Miki-chan!
+>> 38.67 | Ryo Asuka | 美樹ちゃん？
+   EN: Miki-chan?
+>> 38.68 | {p} | 明君が お世話になってるっていう / 牧村家の美樹ちゃん？
+   EN: Miki-chan of the Makimura family, where Akira-kun boards?
+>> 38.69 | Akira Fudo | 大きな地震だった… / 美樹ちゃんのことが心配だ…
+   EN: That was a big earthquake... I'm worried about Miki-chan...
+>> 38.70 | {p} | そういえば {s}も / 無事だろうか…
+   EN: Come to think of it, I hope {s} is okay too...
+>> 38.71 | Ryo Asuka | 山を下りよう /  / {s}を見つけ / そして 牧村家へ向かうんだ
+   EN: Let's go down the mountain.  We'll find {s} and then head for the Makimura house.
+>> 38.72 | {p} | これじゃ 始まりの丘に戻れない…
+   EN: At this rate, we can't get back to the Hill of Beginnings...
+>> 38.73 | Ryo Asuka | 無事を信じて / 牧村家へ向かうしかないな
+   EN: We'll have to trust she's safe and head for the Makimura house.
+>> 38.74 | Akira Fudo | 山を下りれば きっと他の道が / 見つかるさ {p}！
+   EN: Once we're down the mountain, we'll find another way for sure, {p}!
+>> 38.75 | {p} | うん そうだね…
+   EN: Yeah, you're right...
+>> 38.76 | Ryo Asuka | 廃墟のようだ… 奇妙だな / こんな集落 あったかな？
+   EN: It looks like a ruin... Strange. Was there a village like this?
+>> 38.77 | Akira Fudo | デーモンに襲われたんじゃないか？
+   EN: Didn't the Demons attack it?
+>> 38.78 | {p} | もっと だいぶ前に壊れた感じだよ
+   EN: It looks like it was wrecked a lot longer ago.
+>> 38.79 | Ryo Asuka | 調べてみる必要があるな…
+   EN: We'll need to look into this...
+>> 38.80 | Akira Fudo | 関東地獄地震！ / それも数年前に起こっただって？ / デーモンは 時間を操ることも / 可能なのか？
+   EN: The Kanto Hellquake! And it happened years ago!? Can the Demons control time too?
+>> 38.81 | Ryo Asuka | デーモンに それが出来たら /  / ヤツらは とっくに地球を / 奪い返しているさ
+   EN: If the Demons could do that,  they'd have taken the Earth back long ago.
+>> 38.82 | Boy | あんた達 隠れたほうがいいぜ！
+   EN: You guys better hide!
+>> 38.83 | {p} | 君は？
+   EN: Who are you?
+>> 38.84 | Ryu Takuma | 俺は 逞馬竜！ / おまえは？
+   EN: I'm Ryu Takuma! And you?
+>> 38.85 | {p} | 僕は {p}
+   EN: I'm {p}.
+>> 38.86 | Akira Fudo | おい！ これから / 何が始まるっていうんだ？
+   EN: Hey! What's about to start?
+>> 38.87 | Ryu Takuma | あの男を追って ドラゴンが / 集落の近くに来てるんだ
+   EN: The Dragons are chasing that man, and they're near the village.
+>> 38.88 | Akira Fudo | あの男？ / ドラゴン？
+   EN: That man? The Dragons?
+>> 38.89 | Ryu Takuma | 入り口のほうを見てみなよ！
+   EN: Look over by the entrance!
+>> 38.90 | Resident | 大変だ！ / ドラゴンが来たぞ！
+   EN: We're in trouble! The Dragons are coming!
+>> 38.91 | {p} | あの巨大な男は…！？
+   EN: That giant man is...!?
+>> 38.92 | Ryu Takuma | 筋肉はゴリラ！ 牙は狼！ / 燃える瞳は原始の炎！ / ２メートル２０センチの全身には / 闘争エネルギーが満たされている / その名は バイオレンスジャック！
+   EN: Muscles of a gorilla! Fangs of a wolf! Burning eyes, the fire of the primeval! Seven foot two, every inch of him packed with fighting energy. His name is Violence Jack!
+>> 38.93 | {p} | バイオレンスジャック…
+   EN: Violence Jack...
+>> 38.94 | Ryu Takuma | アイツこそ「関東の怪物」と / 呼ばれる 大巨人さ
+   EN: He's the giant they call "the Monster of Kanto."
+>> 38.95 | Jack | グオオオオオオ！！
+   EN: GRAAAAAAAH!!
+>> 38.96 | Ryu Takuma | ドラゴンと戦うつもりだ！ / 行ってみようぜ！
+   EN: He's gonna fight the Dragons! Let's go see!
+>> 38.97 | Resident | 日本政府が 関東を見捨ててから / 無法者が集まるばかり…
+   EN: Ever since the Japanese government abandoned Kanto, nothing but outlaws gather here...
+>> 38.98 | {p} | 戦国時代の騎馬武者軍団みたい！
+   EN: It's like a band of mounted warriors from the Warring States era!
+>> 38.99 | Ryu Takuma | 無法化した / 関東の覇者・スラムキング / スラムキングが組織した軍団！ / それがヤツら ドラゴンさ！
+   EN: The Slum King, ruler of lawless Kanto! And the army he put together! That's them, the Dragons!
+   ctx 39.00 | Jack | グオオオオオオ！！
+   ctx EN: GRAAAAAAAH!!
+   ctx 39.01 | {p} | あの人 ひとりで戦うつもり！？
+   ctx EN: Is he going to fight them all by himself!?

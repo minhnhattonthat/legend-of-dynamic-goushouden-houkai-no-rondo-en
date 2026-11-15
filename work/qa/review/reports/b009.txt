@@ -1,0 +1,5 @@
+IMPORTANT | 08.27 | 「この戦い ひとまず あずけるぞ！」 means leaving this fight unsettled for now. | Calling the battle a draw invents a result; Onitani is withdrawing with unfinished business. | Grr... Shutendoji! We'll settle this another time!
+IMPORTANT | 08.59 | 「これに乗ってた人かしら？」 means "Could this be the person who was riding in it?" | Jubei is identifying the person they found, not asking whether the craft had an occupant. | Could this be the person who was riding in it?
+MINOR | 08.08 | 「美雪も鬼獄界へ連れて行って！」 uses Miyuki's name as an intimate first-person reference. | "Take me, Miyuki" sounds like she is identifying herself and interrupts the emotional plea. | Take me with you...  I don't care if I die! I don't care how terrifying that world is! If that time ever comes, take me to the Kigoku World too!
+MINOR | 08.17 | 「美雪 どこまでもついて行くわ」 means she will follow him anywhere. | "I, Miyuki" sounds ceremonious rather than tender. | I'll follow you anywhere...
+ASSESSMENT | b009 | Needs fixes | Two lines alter the meaning, and Miyuki's name-based self-reference needs more natural English.

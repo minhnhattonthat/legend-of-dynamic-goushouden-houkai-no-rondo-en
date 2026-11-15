@@ -1,0 +1,4 @@
+IMPORTANT | 19.28 | "おじさんが助けに行くから" means "I'll come save you," with a familiar older-man self-reference. | "Your uncle" incorrectly implies Danbei is Honey's uncle. | Honey-chan! Open the gate! Old Danbei's coming to save you!
+IMPORTANT | 19.37 | "おじさんが今 行くよ" means "I'm coming now," using an older-man self-reference. | "Your uncle" incorrectly implies a family relationship. | All righty! Old Danbei's coming now, Honey-chaaan!
+IMPORTANT | 19.44 | "おじさん ピンチよ" means "I'm in a pinch," using an older-man self-reference. | "Your uncle" incorrectly implies a family relationship. | Honey-chan... old Danbei's in a pinch...
+ASSESSMENT | b020 | Needs fixes | Three lines mistake Danbei's familiar self-reference for a literal family relationship.

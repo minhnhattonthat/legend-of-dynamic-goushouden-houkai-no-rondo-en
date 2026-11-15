@@ -1,0 +1,2 @@
+MINOR | r0CDDD8 | 目を疑ってしまった = could not believe my eyes | "Doubted my eyes" is an awkward literal rendering of the idiom. | I sprang to my feet and couldn't believe my eyes.
+ASSESSMENT | b067 | Approved | No confident Critical or Important issues; one minor idiomatic improvement.

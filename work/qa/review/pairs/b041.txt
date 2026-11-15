@@ -1,0 +1,208 @@
+   ctx 39.98 | Jinmen | カッカッカ…！ / どっちでもいいさ！ / どうせ おまえは俺に食われ… / 甲羅の模様になるのだからな！
+   ctx EN: Kakkakka...! Either way! You'll be eaten by me anyhow... and become a pattern on my shell!
+   ctx 39.99 | Jinmen | おまえを追ってたどりついた / この世界は 実に心地いいぞ！ / 地震によって崩壊した世界… /  / まさにデーモンが望む / 人類最後の世界！
+   ctx EN: This world I reached while chasing you is truly delightful! A world devastated by an earthquake...  The last days of mankind, just as the Demons desire!
+>> 40.00 | Jinmen | 人間とは 互いに争う生き物 / おまえが どうあがこうと… / いずれ… 自滅す…る…
+   EN: Humans are creatures who fight one another... No matter how you struggle... in the end... they'll destroy... them...selves...
+>> 40.01 | Ryo Asuka | 明…
+   EN: Akira...
+>> 40.02 | Akira Fudo | こいつの言ったことは / 本当だと思うか 了？
+   EN: Do you think what he said is true, Ryo?
+>> 40.03 | Ryo Asuka | デーモンの存在を知った人間は / 恐怖にかられるだろう / 疑心暗鬼にかられ / 何をしでかすか解らない…
+   EN: Humans who learn the Demons exist will be gripped by fear. Gripped by suspicion, there's no telling what they'll do...
+>> 40.04 | Akira Fudo | 人間には 恐怖を押さえて戦う / 勇気と知恵があるぜ！
+   EN: Humans have the courage and smarts to hold down their fear and fight!
+>> 40.05 | {p} | そうだよ！ / 逞馬竜が そのいい見本だよ！
+   EN: That's right! Ryu Takuma is a perfect example!
+>> 40.06 | Akira Fudo | …とんだ道草を食っちまった！ /  / スラムキングとジャックの対決が / 始まっちまう！
+   EN: ...We got way sidetracked!  The showdown between the Slum King and Jack is about to start!
+>> 40.07 | Voice | 助けて～…
+   EN: Heeelp...
+>> 40.08 | Voice | 苦しい～…
+   EN: It huuurts...
+>> 40.09 | {p} | なんてひどい…
+   EN: How horrible...
+>> 40.10 | Jinmen | カカカカ / 憎いか？ 憎むがいい！ / 憎しみを受けるのは / デーモンにとって誇りだよ！ / 強いヤツほど憎まれるからな！
+   EN: Kakakaka. Do you hate me? Then hate me! Being hated is a point of pride for a Demon! The stronger you are, the more they hate you!
+>> 40.11 | Akira Fudo | 許さん ジンメン！
+   EN: I won't forgive you, Jinmen!
+>> 40.12 | {p} | す 凄い戦いだ…！
+   EN: Wh-what an incredible fight...!
+>> 40.13 | Akira Fudo | デーモンの… 勇者アモンの身体を / 奪った この俺が / ふたりの戦いを見て / ふるえるなんて！ / あいつら いったい何者だ！？
+   EN: Me, who stole the body of a Demon, Amon the brave... shaking just watching these two fight! Who the hell are those guys!?
+>> 40.14 | Akira Fudo | ドラゴンが動いた！ / ジャックに加勢するぞ！
+   EN: The Dragons are moving! They're going to help Jack!
+>> 40.15 | Akira Fudo | なんて酷い揺れ方だ！
+   EN: What a horrible shake!
+>> 40.16 | {p} | 関東地獄地震の再来…！？
+   EN: The Kanto Hellquake all over again...!?
+>> 40.17 | Ryu Takuma | 良かった！ / みんな無事だね！
+   EN: Thank goodness! Everyone's okay!
+>> 40.18 | {p} | 逞馬君！
+   EN: Takuma-kun!
+>> 40.19 | Slum King | うぎゃ～！
+   EN: Gyaaah!
+>> 40.20 | Slum King | ぎゃ～！うお～！！
+   EN: Aaargh! Whoaaa!!
+>> 40.21 | Ryu Takuma | あんた達の協力で大勝利だ！ / ありがとう！
+   EN: A huge victory, thanks to your help! Thank you!
+>> 40.22 | {p} | 逞馬君や子供達 / みんなの勝利だよ！
+   EN: It's a victory for Takuma-kun and all the kids!
+>> 40.23 | Ryu Takuma | へへっ！ そうだな！
+   EN: Heh heh! Yeah, you're right!
+>> 40.24 | Jack | そうかな？ /  / 真の戦いが これから / 始まるとしたら どうする？
+   EN: Is that so?  What would you do if the real battle is only starting now?
+>> 40.25 | Ryu Takuma | あんたが去った後は 死体だけが / 残る…って噂があるよな / だが 俺達は死なない！ / あんたの噂 崩してやるよ！
+   EN: There's a rumor that after you leave, only corpses are left behind. But we won't die! We'll prove that rumor wrong!
+>> 40.26 | Jack | ………
+   EN: .........
+>> 40.27 | Ryu Takuma | ありったけの勇気を振り絞れば /  / どんなピンチも / くぐり抜けられるってもんだ！
+   EN: If you muster every ounce of courage you've got,  you can get through any pinch!
+>> 40.28 | {p} | 僕も そう思うよ！ /  / 絶対に {s}を / 見つけるんだ！
+   EN: I think so too!  I'm going to find {s} no matter what!
+>> 40.29 | Ryu Takuma | {p}！ / 俺 おまえを手伝うよ！
+   EN: {p}! I'll help you!
+>> 40.30 | {p} | うれしいけど 震災砦は…？
+   EN: I'm glad, but what about the Quake Fort...?
+>> 40.31 | Ryu Takuma | 外道会は追い払い / ドラゴンにも大打撃を与えた！ / これで震災砦も一目置かれるよ /  / もし襲われても 今日みたいに / みんなで力をあわせれば / もう怖くないって分かったんだ！ /  / しばらくは ここを留守にして / 大丈夫さ！
+   EN: We drove off the Gedo Gang and dealt the Dragons a heavy blow! Now people will respect the Quake Fort.  And if we get attacked, we've learned that if we all pull together like today, there's nothing to be scared of!  We'll be fine leaving this place for a while!
+>> 40.32 | Jack | ならば 俺も行こう…
+   EN: Then I'll come too...
+>> 40.33 | Jack | 不服か？
+   EN: Any objections?
+>> 40.34 | {p} | いや そんなことはないよ！
+   EN: No, not at all!
+>> 40.35 | Ryu Takuma | ただ なんでかな？ って…
+   EN: It's just, we're wondering why...
+>> 40.36 | Jack | ………
+   EN: .........
+>> 40.37 | Ryu Takuma | あいつの正体 目的 / なにひとつ解らないけど / バイオレンスジャックほど / 強い男はいない！ / 安心していいぜ {p}！ / でも…
+   EN: I don't know who he really is or what he's after, but there's no man stronger than Violence Jack! You can relax, {p}! But...
+>> 40.38 | {p} | …でも？
+   EN: ...But?
+>> 40.39 | Ryu Takuma | バイオレンスジャックを / 信用しないほうがいい / さ 行くぞ！
+   EN: Better not trust Violence Jack. Come on, let's go!
+>> 40.40 | Ryu Takuma | 関所に 誰もいない？ /  / スラムキングがジャックに負けて / 逃げ出したのかな？
+   EN: Nobody at the checkpoint?  Did the Slum King lose to Jack and run off?
+>> 40.41 | {p} | …関所の向こうに / 何があるんだろう / {s}… / あいつ 無事かな…
+   EN: ...I wonder what's past the checkpoint. {s}... I hope she's okay...
+>> 40.42 | Child | 北の関所も / 開放されたってよ！ / どこまでも 行けるのかな？
+   EN: They say the north checkpoint's open too! Can we go anywhere we want now?
+>> 40.43 | Child | スラム街の西北にある山の / 話を聞いたかい？ / 生きて誰も戻れない / 迷いの森があるんだって
+   EN: Have you heard about the mountain northwest of the slums? They say there's a Lost Forest nobody comes back from alive.
+>> 40.44 | Akira Fudo | 奇妙だ… このあたりに住宅地が / あるはずなんだが？ / お～い 美樹ちゃ～ん！
+   EN: Weird... There's supposed to be a housing area around here. Heeey, Miki-chaaan!
+>> 40.45 | Akira Fudo | …まさか デーモンの仕業か？
+   EN: ...Don't tell me it's the Demons' doing?
+>> 40.46 | Ryo Asuka | そうと決まったわけじゃない /  / それに どこにも住宅地なんて / 見当たらないじゃないか
+   EN: That's not certain yet.  Besides, I don't see a housing area anywhere.
+>> 40.47 | {p} | 森の中だもんね… / 少しまわりを歩いてみようよ / 何か解るかも？
+   EN: We're in a forest, after all... Let's walk around a little. Maybe we'll figure something out?
+>> 40.48 | Akira Fudo | そうだな…
+   EN: Yeah...
+>> 40.49 | {p} | …違う世界の町みたいだ！
+   EN: ...It's like a town from another world!
+>> 40.50 | Ryo Asuka | よく見ておけ 明！ /  / デーモンに世界を奪われたら / 地上はこうなるんだ！
+   EN: Take a good look, Akira!  If the Demons take the world, this is what the surface will become!
+>> 40.51 | Akira Fudo | でも見た感じ この町は平和だぜ？ /  / 地震が起きたわけでもなく / デーモンに襲われたわけでもない
+   EN: But this town looks peaceful to me.  No earthquake hit it, and no Demons attacked it.
+>> 40.52 | {p} | ここが どんな世界であれ / もっと調べてみないと…
+   EN: Whatever world this is, we need to look into it more...
+>> 40.53 | Resident | うひょ～！ / よくぞ聞いてくれました！ / なんと 沼の中に / 屋敷が浮かんでたんだぜ！
+   EN: Woo-hoo! I'm so glad you asked! Would you believe a mansion was floating in the pond!?
+>> 40.54 | Akira Fudo | 沼の中に屋敷だって？ / からかってるんじゃねぇよな？
+   EN: A mansion in the pond? You're not messing with us, are ya?
+>> 40.55 | Resident | やっぱり 疑ってる～！！
+   EN: Aww, you DO doubt me!!
+>> 40.56 | Akira Fudo | ふざけてるなら 容赦しねぇぜ！
+   EN: If you're jerking us around, I won't go easy on you!
+>> 40.57 | Resident | ………
+   EN: ...............
+>> 40.58 | Akira Fudo | どうなんだ？
+   EN: Well?
+>> 40.59 | Resident | …ホントだよ！ /  / １回や２回じゃないぞ / おいら 何回も見たんだ！
+   EN: ...It's true!  Not once or twice, either. I've seen it lots of times!
+>> 40.60 | Akira Fudo | 待て！
+   EN: Hold it!
+>> 40.61 | Akira Fudo | 他に何か無いか？
+   EN: Anything else?
+>> 40.62 | Ryo Asuka | 蓮沼に屋敷が浮かぶ時 / 何かきっかけみたいなものは？
+   EN: When the mansion floats on Hasunuma, is there any kind of trigger?
+>> 40.63 | Resident | そ～いえば 黒い月が浮かぶかな…
+   EN: Now that you mention it, a black moon comes up, I think...
+>> 40.64 | {p} | 黒い月！？
+   EN: A black moon!?
+>> 40.65 | Resident | この人達 恐いよ～！
+   EN: These people are scaaary!
+>> 40.66 | {p} | 今の聞いた？
+   EN: Did you hear that?
+>> 40.67 | Ryo Asuka | 黒い月…って言ってたな /  / もう少し調べてみるか / 沼まで戻ってみるべきか…？
+   EN: A black moon, he said.  Should we look around more, or head back to the pond...?
+>> 40.68 | {p} | ジャック 何を見てるの？
+   EN: Jack, what are you looking at?
+>> 40.69 | Akira Fudo | 旧星高等学校？
+   EN: Kyusei High School?
+>> 40.70 | Ryo Asuka | やけに にぎやかだ / 学園祭でもやってるのかな？
+   EN: Awfully lively. Some kind of school festival?
+>> 40.71 | Akira Fudo | いや 違うね！ / あれを見ろよ
+   EN: Nope! Look at that.
+>> 40.72 | {p} | ケンカ祭り？ / なんだ それ！？
+   EN: A Brawl Festival? What's that!?
+>> 40.73 | Akira Fudo | おもしろそうじゃねぇか！
+   EN: Sounds like a blast!
+>> 40.74 | Ryo Asuka | デーモンの血が騒ぐんだ…
+   EN: The Demon blood stirs...
+>> 40.75 | Student | なにやってんだ おまえら！ / 決勝トーナメントはもうすぐだぞ
+   EN: What're you guys doing? The finals tournament's about to start!
+>> 40.76 | Student | …え～と / 他のチームは全員揃ってるから / おまえら 血桜組だな
+   EN: ...Let's see, all the other teams are here, so you guys must be the Chizakura Gang.
+>> 40.77 | Student | 会場は体育館だ / その前に直次郎がいるぞ / あいつ 苛ついてたから / さっさと行ったほうがいいぜ！
+   EN: The venue's the gym. Naojiro's in front of it. He was all worked up, so you'd better hurry!
+>> 40.78 | Student | 血桜組は ほぼ全滅… /  / 菊の助と組むバトラーがいなくて / 出場辞退のピンチだからな！
+   EN: The Chizakura Gang got almost wiped out...  There's no brawler to team with Kikunosuke, so they're about to forfeit!
+>> 40.79 | {p} | 血桜組？ / 直次郎？ / …よくわかんないけど 体育館に / 行ったほうが よさそうだな…
+   EN: The Chizakura Gang? Naojiro? ...No idea what's going on, but we'd better head to the gym...
+>> 40.80 | Student | ケンカ祭りの最中に / 校舎に行って どうすんだ？ / 会場は体育館だ 出場者も / 見学者も そっちに行きな！
+   EN: What're you going to the school building for in the middle of the Brawl Festival? The venue's the gym. Fighters and spectators, head over there!
+>> 40.81 | Naojiro | ケンカ道 その１！ / 相手を顔で脅す！ / ぐあ～！
+   EN: The Way of the Brawl, rule one! Scare 'em with your face! GRAAAH!
+>> 40.82 | Kikunosuke | 直次郎 何やってるんだ？
+   EN: Naojiro, what are you doing?
+>> 40.83 | Naojiro | ケンカの極意を教えてやろうと…
+   EN: Teachin' the secrets of brawlin'...
+>> 40.84 | Kikunosuke | 誰にだよ！ /  / 味方は 予選で / 全滅しちゃったんだぜ！？
+   EN: To who!?  Our whole team got wiped out in the qualifiers!
+>> 40.85 | Naojiro | くくく…
+   EN: Heh heh heh...
+>> 40.86 | {p} | あの～ 血桜組に行け！って / 言われたんだけど…
+   EN: Um... someone told us to go to the Chizakura Gang...
+>> 40.87 | Naojiro | おぉ！ / おまえら 血桜組か！ / 良かった 良かった / これで決勝戦に出られる！
+   EN: Ohh! You're with the Chizakura Gang! Great, great! Now we can enter the finals!
+>> 40.88 | Kikunosuke | やったぜ 直次郎！
+   EN: All right, Naojiro!
+>> 40.89 | Naojiro | むぅ？ / 見慣れない顔だが 転校生か？
+   EN: Hm? Don't recognize your faces. Transfer students?
+>> 40.90 | {p} | いや その…
+   EN: Well, um...
+>> 40.91 | Naojiro | 俺は 悪馬尻直次郎！ /  / こっちは俺の妹 菊の助 / 悪馬尻菊の助！
+   EN: I'm Naojiro Abashiri!  And this here's my little sister, Kikunosuke. Kikunosuke Abashiri!
+>> 40.92 | {p} | よろしく！ / 僕 {p}！
+   EN: Nice to meet you! I'm {p}!
+>> 40.93 | Naojiro | 決勝トーナメントは ２つの / ブロックに分かれて行われる / 俺達はＢブロックだ！ / 出場者は３名！ / メンバーが決定したら / 会場へ行きやがれ！
+   EN: The finals tournament is split into two blocks. We're in Block B! Three fighters per team! Once you've picked your members, get your butts to the venue!
+>> 40.94 | Naojiro | ケンカ祭りの会場は体育館だ！ /  / メンバーが決定したら / 会場へ行きやがれ！
+   EN: The Brawl Festival venue is the gym!  Once you've picked your members, get your butts to the venue!
+>> 40.95 | Spectator | 旧星名物けんか祭り！ /  / わしゃ 毎月これを楽しみに / しとるのじゃよ！
+   EN: Kyusei's famous Brawl Festival!  I look forward to it every month, I do!
+>> 40.96 | Spectator | 優勝者は灰色グマと戦えるそうだ！ / 前回優勝者はライオンと戦った！ / …食われたけど
+   EN: They say the winner gets to fight a grizzly bear! Last time's winner fought a lion! ...Got eaten, though.
+>> 40.97 | Spectator | 激しい戦いの連続で 見てるだけで / 心臓マヒ起こしそう…
+   EN: One fierce fight after another. Just watching, I might have a heart attack...
+>> 40.98 | Spectator | 親として 子供のケンカを / 見届けるのは 当然の務め！
+   EN: As a parent, it's only right to see my child's fights through!
+>> 40.99 | Spectator | 極悪非道の あばしり一家！ /  / 血桜組には その次男と長女が / いるらしいぜ！
+   EN: The villainous, ruthless Abashiri Family!  They say the Chizakura Gang's got their second son and eldest daughter!
+   ctx 41.00 | Grunt | 血が騒ぐぜ！
+   ctx EN: My blood's pumpin'!
+   ctx 41.01 | Grunt | 場外乱闘開だぁ～！
+   ctx EN: Brawl in the stands, let's goooo!

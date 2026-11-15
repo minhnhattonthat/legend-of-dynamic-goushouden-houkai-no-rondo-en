@@ -1,0 +1,3 @@
+IMPORTANT | 09.13 | 「怪物達が 光子力研究所を 包囲しております！」 means the monsters are surrounding the lab. | "FLANKING" means approaching or positioning at the sides, not encircling the lab as stated here and in 09.52. | {!R}Pardon me! I got flustered! {!R}The monsters are currently SURROUNDING the Photon Power Lab!
+MINOR | 09.81 | 困ったな 弓教授に近寄れる雰囲気じゃない… | "It's not the kind of mood where we can get near" is awkward English. | This is bad... With everyone so worked up, we can't get near Professor Yumi...
+ASSESSMENT | b010 | Needs fixes | Correct the announcer's description of the siege; the rest largely preserves meaning and character voices.

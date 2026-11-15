@@ -208,7 +208,9 @@ def problems(part, entry, en, terms, people):
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
     for name in people:
         for jp_form, en_form in HONORIFICS.items():
-            if name + jp_form in jp_plain and en_form.lower() not in en.lower():
+            # 君達 / 君たち after a name is "you all" ("僕は 不動明\n君達は"), not -kun
+            hit = re.search(re.escape(name + jp_form) + r"(?!達|たち)", jp_plain)
+            if hit and en_form.lower() not in en.lower():
                 out.append(f"honorific {name}{jp_form} needs {en_form}")
     return out + width_problems(part, entry, en)
 

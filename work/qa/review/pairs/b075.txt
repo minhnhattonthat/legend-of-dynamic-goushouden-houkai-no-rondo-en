@@ -1,0 +1,18 @@
+   ctx r0D3FE4 |  | ＳＰＡＲＴＹ
+   ctx EN: SPARTY
+   ctx r0D3FF4 |  | ＳＨＯＰ
+   ctx EN: SHOP
+>> r0D4000 |  | ＢＳＥＬ
+   EN: BSEL
+>> r0D400C |  | ＴＯＰ
+   EN: TOP
+>> r0D4014 |  | テスト２
+   EN: Test 2
+>> r0D4044 |  | あぼーん！！
+   EN: KABOOM!!
+>> r0D4054 |  | ぼーん！！
+   EN: BOOM!!
+   ctx r0D9A34 |  | ＞
+   ctx EN: >
+   ctx r0D9A48 |  | スプライト
+   ctx EN: Sprite

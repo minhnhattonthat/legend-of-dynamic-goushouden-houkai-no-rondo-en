@@ -1,0 +1,3 @@
+IMPORTANT | 43.75 | "身体に教えてやろう" means "I'll teach you through physical punishment." | "I'll teach your bodies" translates the idiom literally and makes the threat sound awkward rather than menacing. | If words won't make you understand, I'll beat the lesson into you!
+MINOR | 43.24 | A tiny amount of Getter Rays produces enormous energy. | "A magic light where" and "That's Getter Rays" read awkwardly. | A miraculous light that produces enormous energy from just a trace! Those are Getter Rays! Dr. Saotome discovered them.
+ASSESSMENT | b044 | Needs fixes | The physical threat needs an idiomatic translation, and the Getter Rays explanation needs light polish.

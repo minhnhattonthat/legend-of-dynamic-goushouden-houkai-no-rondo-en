@@ -1,0 +1,32 @@
+   ctx B00.86 |  | キッカイくん /  /  / キッカイ一家の敵 / 科学力で対抗するが / 反対に徹底的に / 打ちのめされる
+   ctx EN: Kikkai-kun   The Kikkais' foe. Fights back with science, only to get crushed.
+   ctx B00.87 |  | キッカイくん /  /  / ドクター・ポチの / 子分だが / まったく主人を / 尊敬する気がない
+   ctx EN: Kikkai-kun   Dr. Pochi's lackey, yet has no respect for his master at all.
+>> B00.88 |  | イヤハヤ南友 /  /  / 記憶を無くして / 家早家に拾われる / 時折　神がかり的な / 力を見せる謎の少年
+   EN: Iyahaya   A mystery boy, amnesiac, taken in by Iyahayas. Godlike at times.
+>> B00.89 |  | イヤハヤ南友 /  /  / 家早家の娘 / 南友のパートナー / 金持ちとしての / 冷たい一面も持つ
+   EN: Iyahaya   The Iyahayas' girl. Partner to Nantomo. Rich, cold at times.
+>> B00.90 |  | あにまるケダマン /  /  / 謎の一族出身 / 狼に変身する能力 / 世界中につながった / 謎の屋敷に住む
+   EN: Animal Kedaman   Mystery clan. Becomes a wolf. His odd mansion spans the world.
+>> B00.91 |  | あにまるケダマン /  /  / ドラキュラの子孫 / 吸血鬼の遺伝子を / 引き継ぎ / ケダマンと敵対する
+   EN: Animal Kedaman   Dracula's heir. Has vampire genes. Kedaman's foe.
+>> B00.92 |  | けっこう仮面 /  /  / 顔を隠して / からだ隠さず / 永井作品究極の / キャラクター
+   EN: Kekko Kamen   Hides her face, not her body. Nagai's ultimate character.
+>> B00.93 |  | 魔王ダンテ /  /  / ヒマラヤでダンテに / 食われるが / 意識をのっとり / ダンテを支配する
+   EN: Mao Dante   Eaten by Dante in the Himalayas, he took its mind; he rules Dante.
+>> B00.94 |  | 魔王ダンテ /  /  / 失われた時代から / よみがえった魔王 / 百の魔力を持ち / 神々に戦いを挑む
+   EN: Mao Dante   From a lost age, a demon king of 100 powers, fights the gods.
+>> B00.95 |  | 魔王ダンテ /  /  / ダンテの部下 / 石化攻撃を持つ / 髪の長い女性の / 姿をしている
+   EN: Mao Dante   Dante's minion. Can petrify. Looks like a lady with long hair.
+>> B00.96 |  | 迷惑探偵！！ / イボ痔小五郎 /  / 悪性の痔を持つ探偵 / はたして　事件を / 解決したことが / あるのか？
+   EN: Meiwaku Tantei!! Iboji Kogoro  A sleuth with nasty piles. Has he ever solved a single case?
+>> B00.97 |  | 迷惑探偵！！ / イボ痔小五郎 /  / 性悪探偵団を組織 / 彼の桶に入っている / オブジェクトには / 誰もが恐怖する
+   EN: Meiwaku Tantei!! Iboji Kogoro  Runs the Nasty Detective Club. His tub's object terrifies all.
+>> B00.98 |  | ドロロンえん魔くん /  /  / えん魔くんがいつも / かぶっている / お目付け役としての / 役割を持つ　知恵袋
+   EN: Enma-kun   Always worn by Enma-kun. His minder, and a font of wisdom.
+>> B00.99 |  | あにまるケダマン /  /  / 間身井薬局を経営 / 大事な所に貼った / 特別バンソウコウが / ブレイク
+   EN: Animal Kedaman   Runs the Mamii Pharmacy. His special crotch plaster: a hit!
+   ctx B01.00 |  | キューティーハニー /  /  / 如月ハニーを / 造りあげた科学者 / パンサークローに / 殺害される
+   ctx EN: Cutie Honey   Scientist who built Honey Kisaragi. Slain by Panther Claw.
+   ctx B01.01 |  | マジンガーＺ /  /  / 弓さやかの父親 / 兜十蔵博士　亡き後 / マジンガーＺを / サポートする
+   ctx EN: Mazinger Z   Sayaka's father. Since Dr. Kabuto died, he backs Mazinger Z.

@@ -1,0 +1,208 @@
+   ctx 23.98 | {p} | そっか… 魔王が 僕を / 必要としているってことは… / {s}も 生きている / 可能性が 高いわけだ！
+   ctx EN: I see... If the Demon King needs me... then there's a good chance {s} is still alive too!
+   ctx 23.99 | Professor Yumi | 魔王は / 捕らえた {s}君を / 逃がさぬよう 見張っているのだ /  / そして人々を操り 君を手に / 入れようと しているのだろう
+   ctx EN: The Demon King is keeping watch over {s}-kun so she can't escape.  And he's probably controlling people to try to get his hands on you.
+>> 24.00 | {p} | 僕 {s}を / 助けに 始まりの丘に行きます！
+   EN: I'm going to the Hill of Beginnings to rescue {s}!
+>> 24.01 | Professor Yumi | いかん！
+   EN: You mustn't!
+>> 24.02 | {p} | どうしてですか！？
+   EN: Why not!?
+>> 24.03 | Honey Kisaragi | 日蝕の前に / 魔王は 君を 手に入れたいのよ
+   EN: The Demon King wants to get his hands on you before the eclipse.
+>> 24.04 | Professor Yumi | {p}君を手に入れるため / 暴徒達が / 総攻撃を仕掛けてくることが / 予測されるのだ！
+   EN: We expect the rioters to launch an all-out attack to capture you, {p}-kun!
+>> 24.05 | Professor Yumi | 君を 魔王の手に渡してしまうわけ / にはいかん！ / ここに留まってくれ！
+   EN: We can't let you fall into the Demon King's hands! Stay here!
+>> 24.06 | {p} | そんな…
+   EN: But...
+>> 24.07 | Shinichi | 真理阿を失った悲しみ… / あれをおまえに味あわせたくない / 俺は始まりの丘に行く！ / {s}を奪い返すために！
+   EN: The grief of losing Maria... I don't want you to taste that. I'll go to the Hill of Beginnings! To take {s} back!
+>> 24.08 | Professor Yumi | うむ！ / 行ってくれるか 慎一君！
+   EN: Good! Will you go, Shinichi-kun?
+>> 24.09 | {p} | 慎一さん… / {s}を…！
+   EN: Shinichi-san... Please, {s}...!
+>> 24.10 | Shinichi | まかせておけ！
+   EN: Leave it to me!
+>> 24.11 | Shusha | 俺はここに残ろう… / そして {p}君を守る！ / {p}君の活躍が無ければ / 俺が今頃… / 世界を滅ぼしていたかも / しれないのだから！
+   EN: I'll stay here... and protect {p}-kun! If it weren't for {p}-kun, I might have destroyed the world by now!
+>> 24.12 | {p} | 朱紗君…
+   EN: Shusha-kun...
+>> 24.13 | Shusha | 世界を滅ぼしかけた俺は / 世界を守りたい / つまり 君を…だよ
+   EN: I nearly destroyed the world, so I want to protect it. Which means protecting you.
+>> 24.14 | Honey Kisaragi | {p}君！ / 長い付き合いだもん / あたしも残るわ！ / 君を守るために…ね / イヤとは言わせないわよ！
+   EN: {p}-kun! We go way back, so I'm staying too! To protect you, that is. And I won't take no for an answer!
+>> 24.15 | {p} | ハニー ありがとう…！
+   EN: Honey, thank you...!
+>> 24.16 | Professor Yumi | 役割分担は 出来たようだね /  / 慎一君は 始まりの丘へ向かう / 攻撃隊に加わってくれたまえ！ / 朱紗君は ここに残り / 守備隊を率いるのだ！ / そしてハニー君は{p}君 / の側を 離れないように！
+   EN: It seems the roles are settled.  Shinichi-kun, join the assault team headed for the Hill of Beginnings! Shusha-kun, stay here and lead the defense team! And Honey-kun, don't leave {p}-kun's side!
+>> 24.17 | Shinichi | 任せてくれ {s}を / 奪い取ってくるぜ！
+   EN: Leave it to me. I'll snatch {s} back!
+>> 24.18 | Shusha | 誰も {p}には / 近づけさせないさ！
+   EN: Nobody's getting near {p}!
+>> 24.19 | Honey Kisaragi | あたしは {p}君に / べったりだからね！
+   EN: I'm sticking to {p}-kun like glue!
+>> 24.20 | {p} | …！？
+   EN: ...!?
+>> 24.21 | Koji Kabuto | 弓教授！ 始まりの丘が / 大変なことになってますよ！ / 暴徒達が続々と集まって / あそこは もはや城です！
+   EN: Professor Yumi! Something big is happening at the Hill of Beginnings! The rioters keep pouring in, and it's practically a castle now!
+>> 24.22 | Koji Kabuto | 敵の様子を 撮影してきました / これを見てください
+   EN: I took pictures of the enemy. Take a look at these.
+>> 24.23 | Koji Kabuto | 始まりの丘は 魔王にとって / 特別な意味があるようです / いつの間にか 黒い魔物が / こんなにたくさん…
+   EN: The Hill of Beginnings seems to mean something special to the Demon King. Before we knew it, there were this many black fiends...
+>> 24.24 | Professor Yumi | 凄い数だな… / 大きさは どれくらいなのかね？
+   EN: What numbers... How big are they?
+>> 24.25 | Koji Kabuto | どいつもこいつも デカいです / マジンガーＺといい勝負ですよ
+   EN: Every last one of 'em is huge. They'd give Mazinger Z a run for its money.
+>> 24.26 | Professor Yumi | う～む…
+   EN: Hmmm...
+>> 24.27 | Koji Kabuto | そして これです！
+   EN: And then there's this!
+>> 24.28 | {p} | 前に テレビのニュースで / 祭壇って言ってたのに…！
+   EN: The TV news said it was an altar before...!
+>> 24.29 | Koji Kabuto | それだけ魔王の力が増した…って / ことだ
+   EN: That's how much the Demon King's power has grown.
+>> 24.30 | Professor Yumi | 恐るべし 魔王…！！
+   EN: A fearsome foe, this Demon King...!!
+>> 24.31 | Professor Yumi | 黒い魔物が マジンガーや / 機械獣なみの大きさならば / 甲児君！ 君は先発部隊だ！ /  / 黒い魔物の注意をひき / 攻撃隊を守ってやってくれ！
+   EN: If the black fiends are as big as Mazinger or the Mechanical Beasts, then Koji-kun! You're the vanguard!  Draw the black fiends' attention and protect the assault team!
+>> 24.32 | Koji Kabuto | 解りました！ / さやか！ ボス！ 行くぞ！
+   EN: Got it! Sayaka! Boss! Let's go!
+>> 24.33 | Sayaka | パパ！ 行ってきます！
+   EN: Papa! I'm off!
+>> 24.34 | Professor Yumi | 頼んだぞ！
+   EN: I'm counting on you!
+>> 24.35 | Boss | お父様… いや 弓教授！ / さやかは 俺が守るぜ！
+   EN: Father... I mean, Professor Yumi! I'll protect Sayaka!
+>> 24.36 | Professor Yumi | う うむ / がんばってくれたまえ ボス！
+   EN: Y-yes, well. Do your best, Boss.
+>> 24.37 | Nuke | ボス～！ / 待ってくれよぉ～！
+   EN: Boss! Wait for meee!
+>> 24.38 | Mucha | く～！ / 腕がなるぜぇ～！
+   EN: Ooh! I'm rarin' to go!
+>> 24.39 | Enma-kun | 俺も 地獄別荘と一緒に / 攻撃隊に参加するぜ！ / でも大王様は / ここに残ってくれ  / もしかしたら 仲間を入れ換える / 必要が出るかもしれないからな！
+   EN: I'll join the assault team along with Hell Villa! But Great King-sama, you stay here. We might need to swap out party members!
+>> 24.40 | Professor Yumi | それは 素晴らしいアイデアだよ / えん魔くん！ / 閻魔大王！ / 私からも お願いする！
+   EN: That's a splendid idea, Enma-kun! Great King Enma! I ask this of you as well!
+>> 24.41 | Great King Enma | えん魔くんよ 地獄界を代表して / 活躍するのだぞ！
+   EN: Enma-kun, represent the Hell World well!
+>> 24.42 | Enma-kun | まかせとけって！
+   EN: Leave it to me!
+>> 24.43 | Princess Yukiko | ちょっと えん魔くん / 置いてかないでよ！
+   EN: Hey, Enma-kun, don't leave me behind!
+>> 24.44 | Kapaeru | あんさん そりゃ 殺生でっせぇ！
+   EN: Aw, c'mon, pal! That's downright cruel!
+>> 24.45 | Great King Enma | {p}よ 必要な時には / ワシに話しかけるのじゃぞ！ / ワシは 居住エリアの出口近くに / 待機しておるぞ！
+   EN: {p}, come speak to me whenever you need me, my boy! I shall be waiting near the exit of the residential area!
+>> 24.46 | Professor Yumi | よし！ / これにて 作戦会議を終える！ / 諸君！ 健闘を祈る！
+   EN: Good! That concludes our strategy meeting! Everyone! Good luck!
+>> 24.47 | Shusha | 守備隊のメンバーを / 俺が決めてもいいかな？ / 選ばれなかった仲間は みんな / 攻撃隊に加わって貰おうと思う
+   EN: Mind if I pick the defense team members? I'm thinking anyone not picked joins the assault team.
+>> 24.48 | {p} | 解ったよ 守備隊のメンバー選びが / 終わったら 教えてね！
+   EN: Got it. Let me know when you've finished picking the defense team!
+>> 24.49 | Akira Fudo | 守備隊と攻撃隊 / どっちに加わるかって？ / 攻撃隊に / 決まってるじゃねぇか…！
+   EN: Defense team or assault team? Assault team, obviously...!
+>> 24.50 | Seiji Hayami | 俺は ハニーと一緒に / {p}を守るよ
+   EN: I'll protect {p} with Honey.
+>> 24.51 | Mondo Saotome | 攻めるほうが / 性に合ってるんだが…
+   EN: Attacking's more my style, but...
+>> 24.52 | Ryoma Shindo | 俺は 門土と一緒なら / どっちでもいいよ
+   EN: As long as I'm with Mondo, either one's fine.
+>> 24.53 | Jack | …好きにしろ
+   EN: ...Do as you like.
+>> 24.54 | Yamagishi | 攻めるのも 面白そうだけど / 守るのも スリルありそう…
+   EN: Attacking sounds like a blast, but defending sounds like a thrill too...
+>> 24.55 | Fukurokoji | もちろん オヤブンに従います！
+   EN: I'll follow the Boss, of course!
+>> 24.56 | Jubei | {p}君には / 助けて貰ったもん / 今度は あたしが彼を / 助ける番だわ
+   EN: {p}-kun saved me. Now it's my turn to save him.
+>> 24.57 | Jiro | 美雪さんを 助けて貰った恩は / 忘れないよ / {p}次第さ / 俺は どちらでもいいよ
+   EN: I'll never forget how you saved Miyuki-san. It's up to {p}. Either one's fine with me.
+>> 24.58 | Goki | 童子を護るのが 私の役目 / 童子に従います
+   EN: My duty is to protect Doji. I will follow Doji.
+>> 24.59 | Senki | 戦うことが 俺の運命 / 攻めでも 守りでも！
+   EN: Fighting is my fate. Attack or defend!
+>> 24.60 | Miyuki Shiratori | 私 子郎君と一緒なら / どっちでもいい！
+   EN: As long as I'm with Jiro-kun, either one's fine!
+>> 24.61 | Danbei | ハニーちゃんが 心配じゃから / ここに残ったほうが良さそうじゃ
+   EN: I'm worried about Honey-chan, so I'd best stay here.
+>> 24.62 | Kogoro Iboji | え～と 安全なほう！
+   EN: Ummm, the safe one!
+>> 24.63 | Koyayashi | う～ん こ～げき？ しゅび？ / 美味しいほう！
+   EN: Hmmm, ass-ault? De-fense? The yummy one!
+>> 24.64 | Chigusa Mitsurugi | 世界を滅ぼす者を 倒すのが / 美剣一族の役目 / 攻撃隊でも 守備隊でも 最善を / 尽くす覚悟は 出来てるわ！
+   EN: Defeating those who would destroy the world is the Mitsurugi clan's duty. Assault or defense, I'm ready to do my best!
+>> 24.65 | Goda | ハードパンチャーで鳴らした / 俺だが ディフェンスも巧いぜ
+   EN: I made my name as a hard puncher, but my defense is good too.
+>> 24.66 | Uryu | 世界を滅ぼしそうに / なってしまった 俺だ / 俺に 選択の権利はない… / 任せるよ
+   EN: I almost destroyed the world. I have no right to choose... I'll leave it to you.
+>> 24.67 | Tomisaburo | 俺は 慎一と ずっと一緒だぜ！ / 攻撃隊さ！
+   EN: I'm stickin' with Shinichi all the way! Assault team!
+>> 24.68 | Shusha | 守備隊のメンバーは 決まったよ /  / 攻撃隊のメンバーが / 外に 集結している
+   EN: The defense team is decided.  The assault team members are gathering outside.
+>> 24.69 | Shusha | ここにいる連中から 守備隊を / 選ぶことも出来るが どうする？
+   EN: You can pick the defense team from the people here too. What do you want to do?
+>> 24.70 | Shinichi | 攻撃隊のリーダーを / 決めておいたほうが いいと思う
+   EN: I think we'd better pick a leader for the assault team.
+>> 24.71 | Professor Yumi | 私は 君でいいと思うのだが… / {p}君 君はどう思う？
+   EN: I think you'd be fine... {p}-kun, what do you think?
+>> 24.72 | Professor Yumi | そうか / 君は＊＊がいいと思うのか / よし！ それでは / 攻撃隊リーダーは ＊＊だ！ / 頼んだぞ！
+   EN: I see. You think ** would be good. Very well! Then the assault team leader is **! We're counting on you!
+>> 24.73 | Leader | はい！
+   EN: Yes!
+>> 24.74 | Koji Kabuto | 弓教授 先発部隊の準備が / 完了しました！ / これより 始まりの丘に / 向かいます！
+   EN: Professor Yumi, the vanguard is ready! We're heading for the Hill of Beginnings now!
+>> 24.75 | Professor Yumi | うむ！ / がんばってくれたまえ 甲児君！
+   EN: Good! Do your best, Koji-kun!
+>> 24.76 | {p} | 甲児君 がんばってね！
+   EN: Good luck, Koji-kun!
+>> 24.77 | Koji Kabuto | まかせとけよ！
+   EN: Leave it to me!
+>> 24.78 | Shinichi | 先発隊に続き / 攻撃隊 出撃！
+   EN: Following the vanguard, the assault team moves out!
+>> 24.79 | {p} | みんな 気をつけて！ / {s}を… お願い！
+   EN: Everyone, be careful! Please... save {s}!
+>> 24.80 | Shusha | 守備隊は / ホテルの入口で 待機します / 教授達は 奥の安全な場所に / いてください
+   EN: The defense team will wait at the hotel entrance. Professor, you all stay somewhere safe in the back.
+>> 24.81 | Professor Yumi | うむ よろしくたのむよ
+   EN: Good. I'm counting on you.
+>> 24.82 | Honey Kisaragi | 万が一の時は あたしが / {p}君を守るから / 安心して
+   EN: If worst comes to worst, I'll protect {p}-kun, so don't worry.
+>> 24.83 | Shusha | 大丈夫 ハニーの出番はないよ /  / 俺達が ここで敵の侵攻を / 食い止めるからね
+   EN: Don't worry, you won't be needed, Honey.  We'll stop the enemy advance right here.
+>> 24.84 | {p} | ありがとう 朱紗君！
+   EN: Thanks, Shusha-kun!
+>> 24.85 | Great King Enma | 守備隊と攻撃隊を 入れ換えたい / 時は ワシに話しかけるのじゃぞ / 地獄別荘に待機している / 仲間であれば / いつでも 入れ換え可能じゃ！
+   EN: Should you wish to swap members between the defense and assault teams, come speak to me, my boy. Any friend waiting in Hell Villa may be swapped in at any time!
+>> 24.86 | Shusha | はい 閻魔大王
+   EN: Yes, Great King Enma.
+>> 24.87 | Professor Yumi | {p}君 / 一緒に 奥の部屋へ戻ろう / あそこで 報告を待とうじゃないか
+   EN: {p}-kun, let's go back to the back room together. We'll wait for reports there.
+>> 24.88 | Shinichi | こいつが 城の周りに / バリアを発生させている装置か…
+   EN: So this is the device generating the barrier around the castle...
+>> 24.89 | Shusha | この装置を破壊すれば / 先発隊を助け出せるはず…！
+   EN: If we destroy this device, we should be able to rescue the vanguard...!
+>> 24.90 | Koji Kabuto | よ～し 行くぞ！
+   EN: All riiight, let's go!
+>> 24.91 | Koji Kabuto | きやがったな… いくぜ！
+   EN: Here they come... Let's do this!
+>> 24.92 | Researcher | マジンガーＺ率いる先発部隊が / 始まりの丘に向け 出発！ / 巨大な黒い魔物と / 交戦を開始しました！ / つづいて 地獄別荘の転送が / 完了しました！
+   EN: The vanguard led by Mazinger Z has set out for the Hill of Beginnings! They've begun engaging the giant black fiends! Next, Hell Villa's transfer is complete!
+>> 24.93 | Professor Yumi | …ついに始まったか！
+   EN: ...So it has begun at last!
+>> 24.94 | Enma-kun | 始まりの丘への転送が / 終わったぜ！ / 外に出て / 魔王と ご対面と行こうか！
+   EN: The transfer to the Hill of Beginnings is done! Let's head outside and come face to face with the Demon King!
+>> 24.95 | Researcher | 地獄別荘の転送 完了しました！
+   EN: Hell Villa's transfer is complete!
+>> 24.96 | Professor Yumi | ここまでは 予定どおりだ！
+   EN: So far, everything is going to plan!
+>> 24.97 | Koji Kabuto | くそッ！ / 城がバリアで囲まれてる！？ / マジンガーが城に近づけないぞ！ / なんとかしてくれ 攻撃隊！
+   EN: Dammit! The castle's surrounded by a barrier!? Mazinger can't get near the castle! Do something, assault team!
+>> 24.98 | Shinichi | マジンガーが 巨大な黒い魔物と / 戦ってるな / しかし 城には近づけないようだ…
+   EN: Mazinger's fighting the giant black fiends. But it looks like it can't get near the castle...
+>> 24.99 | Enma-kun | 城が バリアみたいなもので / 守られてるようだしな / でも 暴徒達だって 城の中に / いるんだろ？ / どこかに 入口があるのかな…
+   EN: The castle seems to be protected by some kind of barrier. But the rioters are inside the castle too, right? Maybe there's an entrance somewhere...
+   ctx 25.00 | Enma-kun | やったぜ！ これで / マジンガーＺが城内に入れる！
+   ctx EN: All right! Now Mazinger Z can get into the castle!
+   ctx 25.01 | Koji Kabuto | 城内に突入だ！
+   ctx EN: Storming the castle!

@@ -1,0 +1,208 @@
+   ctx 30.98 | {p} | どうしてかな？ この氷原 / 建物の敷地より 広いみたい…
+   ctx EN: How come? This ice field seems bigger than the building's grounds...
+   ctx 30.99 | {p} | こ・お・り・つ・く / と・こ・ろ・だ・った…！
+   ctx EN: I was al-most fro-zen so-lid...!
+>> 31.00 | {p} | 緑が多くて 大自然って感じ…
+   EN: So much green. It really feels like the great outdoors...
+>> 31.01 | Honey Kisaragi | しっ！ 何か聞こえるわ！ / ケダモノの唸り声みたい… / だんだん 大きくなるわ！
+   EN: Shh! I hear something! Like a beast growling... It's getting louder!
+>> 31.02 | ??? | グルルル… グルルルル…！
+   EN: Grrrr... Grrrrrr...!
+>> 31.03 | {p} | 逃げたほうが良くない？
+   EN: Shouldn't we run?
+>> 31.04 | ??? | やっと来たかぁ～！
+   EN: You finally showed uuup!
+>> 31.05 | ??? | グオオオオ！ / あれ…？
+   EN: GRAAAAH! Huh...?
+>> 31.06 | Honey | きゃっ！
+   EN: Eek!
+>> 31.07 | {p} | うわっ！
+   EN: Whoa!
+>> 31.08 | {p} | もしかして 今の唸り声 君？
+   EN: Um, was that growling you?
+>> 31.09 | Kedaman | えへへ 聞かれちゃった？ / 俺 阿仁丸ケダマン！ / 怒良野かと思って / 襲っちゃった… ごめんね！
+   EN: Heh heh, you heard that? I'm Animaru Kedaman! I thought you were Dorano, so I jumped ya... Sorry!
+>> 31.10 | {p} | 君の家 このジャングルの中に / あるの？
+   EN: Is your house somewhere in this jungle?
+>> 31.11 | Kedaman | ここが 家ん中だよ！
+   EN: This IS my house!
+>> 31.12 | Honey Kisaragi | 野生の生活してるみたいじゃない！
+   EN: It's like you're living in the wild!
+>> 31.13 | Kedaman | みたいでなくて してるのさ！ / 野生そのものの生活をよ！ / ところで お前ら 誰？
+   EN: Not LIKE, I AM! Living the wild life for real! So who are you guys?
+>> 31.14 | {p} | 僕 {p} / 彼らは 僕の仲間達だよ！
+   EN: I'm {p}. And they're my friends!
+>> 31.15 | Kedaman | へぇ 仲間が いっぱい いて / いいな！
+   EN: Wow, you've got lots of friends. Lucky!
+>> 31.16 | Honey Kisaragi | ところで 怒良野って？
+   EN: By the way, who's Dorano?
+>> 31.17 | Kedaman | ドラキュラ族の生き残りさ！
+   EN: A survivor of the Dracula clan!
+>> 31.18 | Honey Kisaragi | …！？ / もしかして 吸血鬼？
+   EN: ...!? You mean a vampire?
+>> 31.19 | Kedaman | ドラキュラ族は 一般に 血を吸う / 吸血鬼として知られているが… / あれは間違いなんだ！ /  / 正しくは… 血ではなく / 乳を吸い ケツにかぶりつく / 吸ケツ鬼なんだ…
+   EN: The Dracula clan's known as bloodsuckers, but... that's wrong!  The truth is... they don't suck blood. They suck boobs and chomp on butts. They're not bloodsuckers, they're BUTT-suckers...
+>> 31.20 | Honey Kisaragi | いや～ん！
+   EN: Eww!
+>> 31.21 | Kedaman | 怒良野のヤツ おいらに / ライバル心を 燃やしててね / 挑戦状が来たんだ！ / 決闘だってさ くくく…！
+   EN: That Dorano's got a big rivalry thing going with me, see. He sent me a challenge! A duel, he says. Heh heh heh...!
+>> 31.22 | {p} | それで怒良野…って / ここに来るの？
+   EN: So this Dorano's coming here?
+>> 31.23 | Kedaman | そ～だよ！ / でもあいつ もしかして… / 門を間違えたのかな？ / ま い～や！ / どっかで 怒良野を見かけたら / おいらが待ってるって伝えてよ！ / じゃな！
+   EN: Yep! But maybe he... went to the wrong gate? Eh, whatever! If you see Dorano anywhere, tell him I'm waiting! Later!
+>> 31.24 | Honey Kisaragi | …変わった子ね
+   EN: ...What an odd kid.
+>> 31.25 | {p} | 怒良野…？ / 変わった名前だな
+   EN: Dorano...? What a weird name.
+>> 31.26 | {p} | 怒良野…？ /  / 怒良野…って ケダマンの / 決闘相手じゃないか？
+   EN: Dorano...?  Isn't Dorano the guy Kedaman's dueling?
+>> 31.27 | {p} | あの…
+   EN: Um...
+>> 31.28 | Dorano | ぎゃっ！？ /  / あ～ ビックリした… / 勝手に 人んちに入るなよ！
+   EN: Gyah!?  Whoa, you scared me... Don't just barge into people's homes!
+>> 31.29 | {p} | ごめんなさい… /  / それより どうして / お墓の下に 住んでるの？
+   EN: Sorry...  But why do you live under a grave?
+>> 31.30 | Dorano | 地下に こっそり内緒に住んで / 土地は お墓として分譲！ / これぞドラキュラ族の / 財テクなのだ！
+   EN: Live secretly underground and sell the land up top as burial plots! That's the Dracula clan's money-making secret!
+>> 31.31 | {p} | ドラキュラ族… / それじゃ君 怒良野君？
+   EN: The Dracula clan... Then you're Dorano-kun?
+>> 31.32 | Dorano | 俺を 知ってるのか？
+   EN: You know me?
+>> 31.33 | {p} | ケダマンが / 君のこと 待ってるよ！
+   EN: Kedaman is waiting for you!
+>> 31.34 | Dorano | あ～！ しまった！！ /  / ケダマンとの 決闘に / 遅刻しちゃった！ / 今 行くぞ ケダマン！！
+   EN: Aaah! Oh no!!  I'm late for my duel with Kedaman! I'm coming, Kedaman!!
+>> 31.35 | Dorano | ケダマンとの 決闘に / 遅刻しちゃった！ / 今 行くぞ ケダマン！！
+   EN: I'm late for my duel with Kedaman! I'm coming, Kedaman!!
+>> 31.36 | Kedaman | よっ！ おまえら！
+   EN: Yo! You guys!
+>> 31.37 | {p} | ケダマン！
+   EN: Kedaman!
+>> 31.38 | Kedaman | もしかして…と思って / 来てみたんだ / やっぱり こいつ / 寝過ごしてやんの…！ / うぷぷぷ…！
+   EN: I had a hunch, so I came by. Sure enough, this guy overslept...! Pfffft...!
+>> 31.39 | Dorano | ウルサイ！ / 覚悟しろ ケダマン！ / 今日は ドラキュラ一族の / 誇りにかけて / おまえを やっつけてやる！
+   EN: Shut up! Prepare yourself, Kedaman! Today, on the pride of the Dracula clan, I'll beat you!
+>> 31.40 | Kedaman | てめ～ 怒良野 卑怯だぞ！
+   EN: Hey, Dorano, that's dirty!
+>> 31.41 | {p} | 決闘するなら １対１だよ / 怒良野君！
+   EN: If it's a duel, it's one on one, Dorano-kun!
+>> 31.42 | Dorano | 外野は黙ってろ！ / 行くぞ ケダマン！
+   EN: Bystanders butt out! Here I come, Kedaman!
+>> 31.43 | {p} | ケダマン 応援するよ！
+   EN: Kedaman, we've got your back!
+>> 31.44 | Kedaman | おう あんがと！
+   EN: Yeah, thanks!
+>> 31.45 | Kedaman | いや～ おまえら 強いな！
+   EN: Man, you guys are strong!
+>> 31.46 | {p} | へへっ それほどでもないよ
+   EN: Heh heh, not really.
+>> 31.47 | Kedaman | ところで なんか 町の様子が / 変わってるんだけど… / なんかあったのかな？
+   EN: By the way, the town looks kinda different... Did something happen?
+>> 31.48 | {p} | 君の町では / 地震が起きてなかったの？
+   EN: Didn't an earthquake happen in your town?
+>> 31.49 | Kedaman | …？
+   EN: ...?
+>> 31.50 | {p} | 実は…
+   EN: Actually...
+>> 31.51 | Kedaman | え～っ！？ / そんなことが起きたの！？
+   EN: Whaaat!? All that happened!?
+>> 31.52 | {p} | 何が起きているのか / まだハッキリとは / わからないんだけど…
+   EN: We still don't know exactly what's going on, though...
+>> 31.53 | Kedaman | おもしろそ～だな～ / 俺も一緒に行くぜ！
+   EN: Sounds like a blast! I'm coming with you!
+>> 31.54 | Dorano | ぎゃっ！
+   EN: Gyah!
+>> 31.55 | Kedaman | おまえも来い！ /  / 野生の血が騒ぐぜ！ / うおおおおお！！
+   EN: You're coming too!  My wild blood's boiling! Raaaaaah!!
+>> 31.56 | Kedaman | おい 怒良野！
+   EN: Hey, Dorano!
+>> 31.57 | Grade | 我はグレイド… /  / 我を忘れたか / 「再生の太陽」よ…？
+   EN: I am Grade...  Have you forgotten me, "Sun of rebirth"...?
+>> 31.58 | Grade | 「破壊の月」と「つがい」を / なす者よ  聞くがよい… / 世界は 生まれ変わりつつある…
+   EN: You who form a "pair" with the "Moon of destruction," hear me... The world is being reborn...
+>> 31.59 | Grade | やがて訪れる結合の時… その時 /  / おまえを 我が元へ いざいない / すべてを ひとつに… / あらゆる苦しみや 憎しみ / 悲しみから 解放される世界… / 我と来るなら おまえを すべてから / 解き放ってやろう…
+   EN: When the time of joining at last arrives...  I shall draw you to me, and make all things one... A world freed from every pain, hatred and sorrow... Come with me, and I shall free you from everything...
+>> 31.60 | {p} | …なんか いろんな記憶が / ごちゃまぜになってる… / 頭が 痛いよ…
+   EN: ...All kinds of memories are getting jumbled up... My head hurts...
+>> 31.61 | Honey Kisaragi | 大丈夫？
+   EN: Are you okay?
+>> 31.62 | Guard | やはり ここに来ましたね…
+   EN: So you came here after all...
+>> 31.63 | Guard | あなたは ここに来ることに / なっていたのです / わかってるでしょ？
+   EN: You were meant to come here. You know that, don't you?
+>> 31.64 | {p} | ガードマンさん… / そうか やっぱり…！
+   EN: Guard-san... I see, so it's true...!
+>> 31.65 | {p} | イヤな予感がする… この先には / 行かないほうがいいよ…
+   EN: I've got a bad feeling... We shouldn't go any further...
+>> 31.66 | Seiji Hayami | 何言ってるんだよ / {p}！ / 他の道は 戦いが激しくて / とても通れないぜ？
+   EN: What are you talking about, {p}! The fighting's too heavy on the other roads. We'll never get through!
+>> 31.67 | Honey Kisaragi | 不安なのもわかるけど / 仕方ないわよ 勇気を出して！
+   EN: I know you're uneasy, but there's nothing for it. Be brave!
+>> 31.68 | {p} | う うん…
+   EN: Y-yeah...
+>> 31.69 | {s} | あたし達は 「破壊の月」と / 「再生の太陽」に されたのは / ま～ったくの / 偶然だった…ってわけ！ / 最初は…ね
+   EN: Us being made the "Moon of destruction" and the "Sun of rebirth" was pure, total chance, you see! At first, anyway.
+>> 31.70 | {p} | 最初は…って どういう意味？
+   EN: "At first"... What do you mean?
+>> 31.71 | {s} | あなた / まったく覚えていないのね… / あなたは１度 魔王の申し出を / 拒絶したのよ / そして あなたは あなた自身の力 / で 世界を再生したの！
+   EN: You really don't remember anything... You refused the Demon King's offer once. And you remade the world with your own power!
+>> 31.72 | {p} | そんなバカな！
+   EN: That's ridiculous!
+>> 31.73 | {s} | もうすぐ日蝕だわ / そしたら 思い出すわよ
+   EN: The eclipse is almost here. Then you'll remember.
+>> 31.74 | {s} | ………
+   EN: .........
+>> 31.75 | {p} | どうして黙ってるんだい？
+   EN: Why won't you say anything?
+>> 31.76 | {s} | あなた / ホントに 何も覚えて無いのね / 無理もないけどね あたしだって / 思い出したの 最近だもん
+   EN: You really don't remember anything. Can't blame you, though. I only remembered recently myself.
+>> 31.77 | {p} | さっきから / 何を言ってるんだよ！？
+   EN: What have you been going on about!?
+>> 31.78 | {s} | 世界と同じようにあなたの記憶も / まるでツギハギね！
+   EN: Your memories are just like the world: a total patchwork!
+>> 31.79 | {p} | 僕の記憶も…
+   EN: My memories too...
+>> 31.80 | {s} | 魔王が何故 あなたを 次元牢獄に / 閉じ込めたか わかる？ / あなたに / 思い出して欲しいからよ！
+   EN: Do you know why the Demon King locked you in the Dimension Prison? Because he wants you to remember!
+>> 31.81 | {p} | 思い出す…？
+   EN: Remember...?
+>> 31.82 | {s} | あなた 次元牢獄で起きたような / 悲劇を １度 見ているでしょ？
+   EN: You've seen a tragedy like the one in the Dimension Prison once before, haven't you?
+>> 31.83 | {p} | 美樹ちゃんが 暴徒に…！
+   EN: Miki-chan, attacked by the rioters...!
+>> 31.84 | {s} | 思い出しのね 明君の身に起きた / 悲しい出来事を…
+   EN: So you remember. The sad thing that happened to Akira-kun...
+>> 31.85 | {p} | うぅ… 頭が 痛み始めた…
+   EN: Ugh... My head's starting to hurt...
+>> 31.86 | {s} | 頭が痛いの？ そう… / きっと 思い出したくないのね / 魔王を止めなきゃ…って / 思い込んでる あなたにとって / 理解するのは難しいことだもの…
+   EN: Your head hurts? I see... You must not want to remember. For you, so sure you have to stop the Demon King, it's hard to understand...
+>> 31.87 | {p} | それで どうすれば / あの悲劇を 阻止出来るの？
+   EN: So how can we stop that tragedy?
+>> 31.88 | {s} | 黒い太陽が照らす その陽の光の / 中に 足を踏み入れれば / あたし達 ふたりは 元の世界に / 戻ることが 出来るの / そしたら 次元連鎖によって / 起こった出来事は / すべて元に戻るわ…
+   EN: If we step into the light the black sun shines, the two of us can go back to our own world. Then everything that happened because of the Dimension Chain will go back to how it was...
+>> 31.89 | {p} | でも 頑張れば なんとかなるよ！
+   EN: But if we try hard, we can manage somehow!
+>> 31.90 | {s} | はははははは…！！
+   EN: Hahahahaha...!!
+>> 31.91 | {p} | 何が おかしいんだ！？
+   EN: What's so funny!?
+>> 31.92 | {s} | 世界が 結合されるってことはね / それぞれの世界の時間なんて / 無視されちゃうってことよ /  / 次元連鎖に / 時間の流れは 関係ないの
+   EN: When worlds are joined, the time in each world gets ignored, you know.  The flow of time has nothing to do with the Dimension Chain.
+>> 31.93 | {p} | だから なんだよ！
+   EN: So what!
+>> 31.94 | {s} | その気になれば魔王はいくらでも / やり直しが効くってことよ / まるでゲームのように / 気に入らなければ リセット！
+   EN: It means the Demon King can redo things as many times as he likes. Just like a game: if he doesn't like it, reset!
+>> 31.95 | {p} | だからといって 魔王の / 好きなように されるなんて！
+   EN: That doesn't mean we just let the Demon King do whatever he wants!
+>> 31.96 | {s} | 気に入らない？ / でもね {p}… / もう 終わり…なの！ / あれをごらんなさい！！
+   EN: You don't like it? But {p}... it's over...! Look at that!!
+>> 31.97 | {s} | ホントよ / あなただって 見たでしょ？ / 経験したでしょ？ /  / 魔王は 悲しみに包まれた世界を / 作り直そうとしているのよ！ / 誰も苦しまない / 憎しみも 怒りも無い世界へと！
+   EN: It's true. You saw it too, didn't you? You lived it, didn't you?  The Demon King is trying to remake a world wrapped in sorrow! Into a world where nobody suffers, with no hatred or anger!
+>> 31.98 | {s} | 魔王が していることは / 革命と同じよ！ / 独裁者に苦しんでる人々のため / 世界を変えようとしているの！
+   EN: What the Demon King is doing is just like a revolution! He's trying to change the world for people suffering under a dictator!
+>> 31.99 | {p} | {s}！ / 魔王は間違ってる！！ / 君もだ！ / 君は 魔王に騙されているんだ！
+   EN: {s}! The Demon King is wrong!! And so are you! The Demon King is deceiving you!
+   ctx 32.00 | {s} | 間違っていないわ！ / 騙されてもいない！ / だって魔王は あの悲劇を / 防ぐことが出来るのよ！
+   ctx EN: He's not wrong! And I'm not deceived! Because the Demon King can prevent that tragedy!
+   ctx 32.01 | {p} | あの悲劇を… / 防ぐことが出来る…
+   ctx EN: He can prevent... that tragedy...

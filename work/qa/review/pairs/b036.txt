@@ -1,0 +1,208 @@
+   ctx 34.98 | Medossa | …あなたから / 強い意志の力を感じます
+   ctx EN: ...I sense a strong willpower in you.
+   ctx 34.99 | Medossa | 誰にも負けない 強い精神力 /  / それこそ 魔王ダンテの / ダンテたる由縁！ / メドッサは / あなたに ついていきます
+   ctx EN: A strong spirit that yields to no one.  That is what makes Demon Lord Dante who he is! Medossa will follow you.
+>> 35.00 | Ryo Utsugi | うむ！
+   EN: Right!
+>> 35.01 | {p} | 何とか宇津木さんを / 救うことは できないだろうか…
+   EN: Isn't there some way to save Utsugi-san...?
+>> 35.02 | {p} | 宇津木さん… / あなたを助け出す事は… / もう二度と 人間の世界に / 戻ってくることはできないの？ / あなたの妹 / 沙織さんを残して…
+   EN: Utsugi-san... is there no way to save you...? Can you never come back to the human world? Leaving your sister Saori-san behind...
+>> 35.03 | Dante | 沙織… / 俺の妹…
+   EN: Saori... my sister...
+>> 35.04 | {p} | {!R}！？ / 宇津木さん！！ / {!R}氷の中で / まだ意識は生きているんだ！！ / {!R}そうだよ 宇津木さん！ /  / {!R}妹さんまで この世界から / 消すつもりかい！？
+   EN: {!R}!? Utsugi-san!! {!R}He's still conscious inside the ice!! {!R}That's right, Utsugi-san!  {!R}Are you going to erase your sister from this world too!?
+>> 35.05 | {p} | なんで こんな機械が… / 誰が運び込んだんだろう？
+   EN: Why is a machine like this here... Who brought it in?
+>> 35.06 | {p} | これ… もしかして…？
+   EN: Could this be...?
+>> 35.07 | Genzo Kuruma | 「魔」の残骸だ
+   EN: The remains of the "Ma."
+>> 35.08 | {p} | 来留間博士！？ / ここで いったい何を？
+   EN: Dr. Kuruma!? What on earth are you doing here?
+>> 35.09 | Genzo Kuruma | 知れたこと！ / おまえも見ただろう / あの「魔」の恐ろしさを！ / 無尽蔵とも言えるパワーを！
+   EN: Isn't it obvious! You saw it too, the terror of the "Ma"! Its practically inexhaustible power!
+>> 35.10 | Genzo Kuruma | 見ろ この身体を！ / この素晴らしい身体を！！ / 俺は この身体に / 「魔」を組み込む！ / そして より進化した人間に / 生まれ変わるのだ！
+   EN: Look at this body! This magnificent body!! I'll build the "Ma" into this body! And be reborn as a more evolved human!
+>> 35.11 | {p} | あなたの考えには / ついていけない…
+   EN: I can't go along with your ideas...
+>> 35.12 | Genzo Kuruma | それは / おまえが理解出来ないだけだ
+   EN: That's only because you can't understand them.
+>> 35.13 | {p} | …………
+   EN: ............
+>> 35.14 | Genzo Kuruma | まぁ よい / いずれわかる / 「魔」を取り込んだ / 俺の姿を見たら…な
+   EN: Well, never mind. You'll understand in time. Once you see me with the "Ma" built in...
+>> 35.15 | {p} | あなたは なぜ こんな研究を / しているんですか？ / 慎一君を… 自分の子供を / 犠牲にしてまで…
+   EN: Why are you doing this research? Even sacrificing Shinichi-kun... your own child...
+>> 35.16 | Genzo Kuruma | 汚染され 環境が変われば / どのような生物であれ 死滅する / 人類は 既にその日を / 目の前にしてしまった…
+   EN: When the environment is polluted and changes, any living thing will die out. Mankind already has that day right before its eyes...
+>> 35.17 | {p} | 環境汚染…
+   EN: Environmental pollution...
+>> 35.18 | Genzo Kuruma | 新しい時代に 生き残れる生物を / 生み出さねばならぬ / 凄まじき地獄を乗り切り 新しき / 時代に導いてくれる人類を…な / ダメだ…！
+   EN: We must create living things that can survive in a new age. A mankind that can endure a terrible hell and lead the way to a new age... No good...!
+>> 35.19 | Genzo Kuruma | サンプルが足りん… /  / 生きた「魔」か / 黒い魔物が 必要だな…
+   EN: Not enough samples...  I need living "Ma," or black fiends...
+>> 35.20 | Genzo Kuruma | 黒い魔物は 貴様を狙っている /  / おまえを守って闘えば / 無数のサンプルが手に入る！ / 必要な量のサンプルを採取するまで / おまえの安全を守ってやろう / どうだ？
+   EN: The black fiends are after you.  If I fight to protect you, I'll get countless samples! I'll keep you safe until I've collected all the samples I need. What do you say?
+>> 35.21 | Genzo Kuruma | 良い選択だ！ では行くぞ！
+   EN: A good choice! Then let's go!
+>> 35.22 | Genzo Kuruma | やはり子供だな この取引の / 損得勘定が 出来んとみえる… / 研究の邪魔だ 用がなければ / さっさと出て行け！
+   EN: Just a child after all. Seems you can't weigh the profit and loss of this deal... You're in the way of my research. If you've no business here, get out!
+>> 35.23 | Genzo Kuruma | ふん 気が変わって 俺の提案を / 受け入れる気になったのか？
+   EN: Hmph, changed your mind and decided to accept my offer?
+>> 35.24 | Shinichi | オヤジ！
+   EN: Old man!
+>> 35.25 | {p} | 来留間博士！？
+   EN: Dr. Kuruma!?
+>> 35.26 | Genzo Kuruma | 生きていたか 慎一… / あの小娘は どうした？
+   EN: So you're alive, Shinichi... What became of that little girl?
+>> 35.27 | Shinichi | 真理阿は…
+   EN: Maria is...
+>> 35.28 | Shinichi | 真理阿は俺の中にいる！
+   EN: Maria is inside me!
+>> 35.29 | Genzo Kuruma | ワッハッハッハッハ！ / そうか そうか！ / 慎一 きさま 真理阿を / 取り込んだな？ / そこまでして 力を求めるとは / さすが俺の息子だ！
+   EN: Wahahahaha! I see, I see! Shinichi, you've taken Maria into yourself? Going that far for power... That's my son!
+>> 35.30 | Shinichi | なんだと！？
+   EN: What did you say!?
+>> 35.31 | {p} | 来留間博士 / あなたは ここでいったい何を？
+   EN: Dr. Kuruma, what on earth are you doing here?
+>> 35.32 | Genzo Kuruma | 新しい時代に 生き残れる生物を / 生み出さねばならぬ / 凄まじき地獄を乗り切り 新しき / 時代に導いてくれる人類を…な
+   EN: We must create living things that can survive in a new age. A mankind that can endure a terrible hell and lead the way to a new age...
+>> 35.33 | Shinichi | たわけた事を言うな！！
+   EN: Don't talk such nonsense!!
+>> 35.34 | Genzo Kuruma | おまえには やはり解らんか…
+   EN: So you still don't understand...
+>> 35.35 | Shinichi | ふざけるな！！
+   EN: Don't screw with me!!
+>> 35.36 | Genzo Kuruma | 黙れ 慎一！！ / おまえに聞いているのでは無い / どうだ {p}？
+   EN: Silence, Shinichi!! I'm not asking you. Well, {p}?
+>> 35.37 | Shinichi | {p}！？ / なぜ！！
+   EN: {p}!? Why!!
+>> 35.38 | {p} | 今は少しでも力がほしい時だよ /  / 協力してくれるなら / この方がいい…
+   EN: Right now we need all the strength we can get.  If he's willing to help, this is better...
+>> 35.39 | Shinichi | くっ…！！
+   EN: Ngh...!!
+>> 35.40 | {p} | こんなところに豹が…？ / かわいそうに… 傷だらけだ
+   EN: A leopard, here...? Poor thing... It's covered in wounds.
+>> 35.41 | {p} | 行っちゃった… / だいぶ脅えているみたい…
+   EN: It ran off... It seemed really frightened...
+>> 35.42 | Panther Claw Member | あの女 どこへ隠れやがった？
+   EN: Where'd that woman hide?
+>> 35.43 | Panther Claw Member | 今まで 俺達を / アゴで使いやがって！
+   EN: Bossing us around all this time!
+>> 35.44 | Panther Claw Member | あの女 魔王に送ってやろうぜ！ / 召し使いとしてな！
+   EN: Let's send that woman to the Demon King! As a servant!
+>> 35.45 | Panther Claw Member | おい！ このガキ / 例のガキじゃねぇか！？
+   EN: Hey! Isn't this the kid everybody's talking about!?
+>> 35.46 | Panther Claw Member | ホントだ！ / こいつぁ 思わぬ拾いもんだ！
+   EN: It is! Now that's a lucky find!
+>> 35.47 | Panther Claw Member | シスター・ジルより / このガキのほうが魔王が喜ぶぜ！
+   EN: The Demon King'll be happier with this kid than with Sister Jill!
+>> 35.48 | {p} | この豹 あいつらに / 苛められてたんだ…
+   EN: Those guys were picking on this leopard...
+>> 35.49 | {p} | シスター・ジルの正体は / 豹だったのか…
+   EN: So Sister Jill was a leopard all along...
+>> 35.50 | Sister Jill | う う～ん… / ハッ！？
+   EN: Uhh... nnn... Huh!?
+>> 35.51 | Sister Jill | おまえは 如月ハニーと / 一緒にいた 小僧だね！？ / 私の手下達に / 何をした！？
+   EN: You're the brat who was with Honey Kisaragi!? What did you do to my underlings!?
+>> 35.52 | {p} | 手下達に？ 何のこと？
+   EN: To your underlings? What are you talking about?
+>> 35.53 | Sister Jill | しらを切るか！ 手下達を操り / 私を襲わせたクセに！
+   EN: Playing dumb!? You controlled my underlings and made them attack me!
+>> 35.54 | {p} | 知らないよ！ /  / それって 黒い魔物に / 操られたんじゃないの？
+   EN: I don't know anything about it!  Weren't they being controlled by black fiends?
+>> 35.55 | Sister Jill | 黒い魔物だと？ /  / 私を騙そうったって / そうはいかないよ！
+   EN: Black fiends?  Don't think you can fool me!
+>> 35.56 | {p} | 違うよ！ 聞いてよ！
+   EN: That's not it! Listen to me!
+>> 35.57 | Sister Jill | なんと！ そのようなことが / 起こっていたのか… / パンサー団員達を手玉にとるとは / 恐るべき敵だ…
+   EN: What! So that's what's been happening... An enemy who can toy with Panther Claw's members... a fearsome foe...
+>> 35.58 | {p} | 敵？
+   EN: Foe?
+>> 35.59 | Sister Jill | パンサー団員達を操り この / シスター・ジル様を襲ったのだ / 私にとって 黒い魔物とは敵だ！ /  / 私にもパンサークロー日本支部長 / としての メンツがある！
+   EN: It controlled Panther Claw's members and had them attack me, Sister Jill-sama! To me, the black fiends are the enemy!  I have my pride as head of Panther Claw's Japan branch!
+>> 35.60 | {p} | どうするつもり？
+   EN: What are you going to do?
+>> 35.61 | Sister Jill | 知れたこと！ 魔王と戦うのだ！ / 私は おまえと共に行くぞ！ / それが魔王への近道と見た！ / 異論があるか？
+   EN: Isn't it obvious! Fight the Demon King! I'm going with you! I see that as the shortcut to the Demon King! Any objections?
+>> 35.62 | Sister Jill | よし！ 利口な選択よ 坊や /  / うふふ… こいつと仲間になれば / あの美しいハニーとも…
+   EN: Good! A wise choice, little boy.  Tee-hee... If I team up with him, then that beautiful Honey...
+>> 35.63 | {p} | えっ？ なんか言った？
+   EN: Huh? Did you say something?
+>> 35.64 | Sister Jill | な なんでもないわ！ /  / さぁ ぐずぐずしないで / 行くわよ！
+   EN: N-nothing at all!  Come on, don't dawdle! Let's go!
+>> 35.65 | Sister Jill | そうか / では単身 魔王と戦うのみ！ / また逢おう！
+   EN: I see. Then I'll fight the Demon King alone! We'll meet again!
+>> 35.66 | Honey Kisaragi | 見て！ 豹よ！ / どうしてこんなところに…
+   EN: Look! A leopard! What's it doing here...
+>> 35.67 | {p} | かわいそうに… / 傷だらけだ
+   EN: Poor thing... It's covered in wounds.
+>> 35.68 | {p} | 行っちゃった… / だいぶ脅えているみたい…
+   EN: It ran off... It seemed really frightened...
+>> 35.69 | Honey Kisaragi | きっと誰かに / 苛められたんだろうね…
+   EN: Somebody must have been picking on it...
+>> 35.70 | {p} | この豹 あいつらに / 苛められてたんだ…
+   EN: Those guys were picking on this leopard...
+>> 35.71 | {p} | …！？
+   EN: ...!?
+>> 35.72 | Sister Jill | う う～ん… ハッ！？
+   EN: Uhh... nnn... Huh!?
+>> 35.73 | Sister Jill | ハニー！？
+   EN: Honey!?
+>> 35.74 | Honey Kisaragi | シスター・ジル… / あなたの正体は 豹だったのね…
+   EN: Sister Jill... So your true form was a leopard...
+>> 35.75 | Sister Jill | 見られてしまったか… / だが今はそれどころではない！ / おまえ達 私の手下達に / 何をした！？
+   EN: So you've seen it... But this is no time for that! What did you do to my underlings!?
+>> 35.76 | {p} | 手下達に？ 何のこと？
+   EN: To your underlings? What are you talking about?
+>> 35.77 | Sister Jill | しらを切るか！ 手下達を操り / 私を襲わせたクセに！
+   EN: Playing dumb!? You controlled my underlings and made them attack me!
+>> 35.78 | Honey Kisaragi | 手下に襲われたですって？ / 身から出たサビよ！
+   EN: Your own underlings attacked you? You reap what you sow!
+>> 35.79 | Sister Jill | 無礼な！
+   EN: How rude!
+>> 35.80 | {p} | まぁまぁ…
+   EN: Now, now...
+>> 35.81 | {p} | まぁまぁ… /  / …もしかして 手下達って / 黒い魔物に操られたんじゃ？
+   EN: Now, now...  ...Could your underlings have been controlled by black fiends?
+>> 35.82 | Sister Jill | 黒い魔物だと？ /  / 私を騙そうったって / そうはいかないよ！
+   EN: Black fiends?  Don't think you can fool me!
+>> 35.83 | {p} | 違うよ！ 聞いてよ！
+   EN: That's not it! Listen to me!
+>> 35.84 | Sister Jill | なんと！ そのようなことが / 起こっていたのか… / パンサー団員達を手玉にとるとは / 恐るべき敵だ…
+   EN: What! So that's what's been happening... An enemy who can toy with Panther Claw's members... a fearsome foe...
+>> 35.85 | {p} | 敵？
+   EN: Foe?
+>> 35.86 | Sister Jill | パンサー団員達を操り この / シスター・ジル様を襲ったのだ / 私にとって 黒い魔物とは敵だ！ /  / 私にもパンサークロー日本支部長 / としての メンツがある！
+   EN: It controlled Panther Claw's members and had them attack me, Sister Jill-sama! To me, the black fiends are the enemy!  I have my pride as head of Panther Claw's Japan branch!
+>> 35.87 | {p} | それで… どうするつもり？
+   EN: So... what are you going to do?
+>> 35.88 | Sister Jill | 知れたこと！ 魔王と戦うのだ！ / 私は おまえと共に行くぞ！
+   EN: Isn't it obvious! Fight the Demon King! I'm going with you!
+>> 35.89 | Honey Kisaragi | ちょっと やめてよ！
+   EN: Hey, cut it out!
+>> 35.90 | Jill | そんなにイヤがること / ないじゃない！ / おねーさま 悲しくなってよ
+   EN: There's no need to hate it so much! You'll make your big sister sad.
+>> 35.91 | {p} | ………
+   EN: .........
+>> 35.92 | Sister Jill | ごほん！ / え～ と ともかく…！ / それが魔王への近道と見た！ / 異論があるか？
+   EN: Ahem! Er, anyway...! I see it as the shortcut to the Demon King! Any objections?
+>> 35.93 | Honey Kisaragi | 勝手な女ね！ /  / おまえは / ハニーのパパを殺したのよ…！！
+   EN: What a selfish woman!  You killed Honey's papa...!!
+>> 35.94 | Sister Jill | おとなしく 空中元素固定装置を / 渡さぬからだ！
+   EN: Because he wouldn't hand over the Airborne Element Fixer like a good boy!
+>> 35.95 | Honey Kisaragi | なんですって！？
+   EN: What did you say!?
+>> 35.96 | Honey Kisaragi | シスター・ジル / 私は おまえが憎い！ / …でも 今は あなたと / 争っている時じゃないの
+   EN: Sister Jill, I hate you! ...But now is no time to fight with you.
+>> 35.97 | Sister Jill | そのとおりだ 魔王を倒さねば / 世界が危機を迎える…
+   EN: Exactly. If we don't defeat the Demon King, the world faces disaster...
+>> 35.98 | Honey Kisaragi | もしも魔王を倒したなら… /  / その時は 魔王を貫いた剣で / あなたを倒すわ！
+   EN: If we defeat the Demon King...  then I'll defeat you with the same sword that pierced him!
+>> 35.99 | Sister Jill | 望むところよ…！ /  / よし ならば行くぞ！ / ぐずぐずするな！
+   EN: Just what I want...!  Good, then let's go! Don't dawdle!
+   ctx 36.00 | {p} | ドラゴンに襲われてる！？ / 助けなきゃ！
+   ctx EN: The Dragons are attacking her!? We've got to help!
+   ctx 36.01 | Dragon | おのれ 邪魔立てするか！？ / 容赦せんぞ！！
+   ctx EN: Curse you, you'd interfere!? No mercy!!

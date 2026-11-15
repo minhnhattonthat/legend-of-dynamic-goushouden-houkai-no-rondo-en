@@ -2,8 +2,8 @@ r0DB00C	Dragon
 r0DB018	Grade
 r0DB028	M.Ashura
 r0DB038	Mech Beast Ashura
-r0DB04C	Misery
-r0DB060	Lord Misery
+r0DB04C	Hisan
+r0DB060	General Hisan
 r0DB06C	??????
 r0DB07C	Unno
 r0DB08C	Rokuro Unno
@@ -25,7 +25,7 @@ r0DB154	Grade
 r0DB164	Grade
 r0DB174	Grade
 r0DB180	Fiend
-r0DB190	Dark Fiend
+r0DB190	Black Fiend
 r0DB19C	Husk
 r0DB1AC	Evil Husk
 r0DB1B8	Dante
@@ -33,7 +33,7 @@ r0DB1C0	Utsugi
 r0DB1C8	Ryo Utsugi
 r0DB1D4	Kekko Kamen
 r0DB1E4	Koja
-r0DB1F0	Kasa Koja
+r0DB1F0	Koja Hatesate
 r0DB1FC	Kikkai
 r0DB208	Maka Kikkai
 r0DB218	Dorano

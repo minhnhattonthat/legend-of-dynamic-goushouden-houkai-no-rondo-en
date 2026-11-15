@@ -1,0 +1,1 @@
+ASSESSMENT | b081 | Approved | No confident translation errors found, allowing for the permitted shortening of ROM strings.

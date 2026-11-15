@@ -1,0 +1,208 @@
+   ctx 09.98 | Professor Yumi | 博士なら あっちのほうへ…
+   ctx EN: The doctor went that way...
+   ctx 09.99 | {p} | 行っちゃった…
+   ctx EN: He's gone...
+>> 10.00 | Professor Yumi | 甲児君 どうしてここへ？
+   EN: Koji-kun, what brings you here?
+>> 10.01 | Koji Kabuto[09] | 大変なんです 教授！ / 実は…！
+   EN: It's an emergency, Professor! The thing is...!
+>> 10.02 | Professor Yumi | 状況は解った / まず {p}君！ / こちらこそ 君に協力したい！ / 医療班を手配して すぐに / {s}君の診察に / あたらせよう！
+   EN: I understand the situation. First, {p}-kun! It's I who should be helping you! I'll arrange for the medical team to examine {s}-kun right away!
+>> 10.03 | {p} | ありがとうございます 弓教授！
+   EN: Thank you so much, Professor Yumi!
+>> 10.04 | Professor Yumi | それから 甲児君！ /  / マジンガーＺをドクター・ヘルに / 渡してはならん！ / もうすぐ アレも完成するはず… / 研究所へ戻るぞ！
+   EN: And Koji-kun!  We must not hand Mazinger Z over to Dr. Hell! THAT should be finished any moment now... Back to the lab!
+>> 10.05 | Koji Kabuto | 了解！ よ～し 待ってろよ / あしゅら男爵！
+   EN: Roger! All riiight, you just wait, Baron Ashura!
+>> 10.06 | Researcher | 現在 会議中です / こちらの通路は利用できません / 正面の扉から 入ってください
+   EN: A meeting is in session. This corridor is closed. Please enter by the front door.
+>> 10.07 | Professor Yumi | 科学都市の医療施設は完璧だ /  / {s}君も きっと すぐに / 良くなるだろう
+   EN: Science City's medical facility is first-rate.  I'm sure {s}-kun will be well again soon.
+>> 10.08 | {p} | 教授 / ホントにありがとうございます！
+   EN: Professor, thank you so much!
+>> 10.09 | Professor Yumi | 実は 今回の会議の本当の議題は / 次元連結現象についてだったんだ
+   EN: The truth is, the real agenda of this conference was the dimensional linking phenomenon.
+>> 10.10 | Jiro | それでは 教授達は この世界とは / 別の世界の存在を…？
+   EN: Then you scientists know about worlds other than this one...?
+>> 10.11 | Professor Yumi | もちろん 知っているよ / 理論上の話だがね / 次元の異なる様々な世界が / 連結するという現象が / 近頃 頻発しているようなのだ
+   EN: Of course we do. In theory, at least. It seems a phenomenon where various worlds in different dimensions link together has been happening frequently of late.
+>> 10.12 | {p} | やはり…！
+   EN: I knew it...!
+>> 10.13 | Professor Yumi | このままでは / 深刻な事態が 起こり得る！ / そこで 君の経験を 原因究明に / 役立てたいのだ！
+   EN: At this rate, something grave could happen! So I want to put your experiences to use in finding the cause!
+>> 10.14 | {p} | 喜んでお手伝いします！
+   EN: I'd be glad to help!
+>> 10.15 | Professor Yumi | ありがとう！ / だが まずは光子力研究所奪回だ！
+   EN: Thank you! But first, we retake the Photon Power Lab!
+>> 10.16 | Koji Kabuto | よ～し やってやるぜ！
+   EN: All riiight, let's do this!
+>> 10.17 | Koji Kabuto | 準備が出来たら / 光子力研究所に向けて出発しよう / 用意が出来たら 声をかけてくれ
+   EN: Once you're ready, we'll head out for the Photon Power Lab. Just say the word when you're set.
+>> 10.18 | Koji Kabuto | 準備はいいかい？
+   EN: All set?
+>> 10.19 | Koji Kabuto | それじゃ 出発しよう！
+   EN: Then let's go!
+>> 10.20 | Professor Yumi | さやか や ボス君も心配だ… / がんばってくれ 甲児君！
+   EN: I'm worried about Sayaka and Boss-kun too... Do your best, Koji-kun!
+>> 10.21 | Professor Yumi | まずは 光子力研究所奪回だ！
+   EN: First, we retake the Photon Power Lab!
+>> 10.22 | Koji Kabuto | よ～し / もう少しで 光子力研究所だ！
+   EN: All riiight, the Photon Power Lab's just ahead!
+>> 10.23 | {p} | 甲児君！ アレを見て！
+   EN: Koji-kun! Look at that!
+>> 10.24 | Ashura (Male) | ワハハハハハハ…！
+   EN: Wahahahahaha...!
+>> 10.25 | Ashura (Female) | ホホホホホホホ…！
+   EN: Hohohohohoho...!
+>> 10.26 | Ashura (Male) | マジンガーＺは 手に入れたぞ！
+   EN: Mazinger Z is ours!
+>> 10.27 | Ashura (Female) | マジンガーＺは / ドクター・ヘルのモノ！
+   EN: Mazinger Z belongs to Dr. Hell!
+>> 10.28 | Koji Kabuto | マジンガーが！？ /  / さやかさん達は / 何やってたんだ！？
+   EN: Mazinger!?  What were Sayaka-san and the others doing!?
+>> 10.29 | Sayaka Yumi | {!R}甲児君！ ごめんなさい！ /  / {!R}あしゅら男爵が / 総攻撃を開始したのよ！
+   EN: {!R}Koji-kun! I'm sorry!  {!R}Baron Ashura launched an all-out attack!
+>> 10.30 | Boss | {!R}すまねぇ！ こっちは 機械獣の / 相手で 精一杯なんでぃ！
+   EN: {!R}Sorry, pal! We got our hands full with these Mechanical Beasts, see!
+>> 10.31 | Koji Kabuto | マジンガーを取り戻すまで / もちこたえてくれ！
+   EN: Hold on till I get Mazinger back!
+>> 10.32 | Ashura (Male) | ふふふ！ ドクター・ヘルへの / 最高の土産が 手に入ったぞ！
+   EN: Heh heh! I've got the perfect gift for Dr. Hell!
+>> 10.33 | Ashura (Female) | 受け入れ準備はオーケーのようね！
+   EN: Looks like they're ready to receive it!
+>> 10.34 | Ashura (Male) | マジンガーＺを！
+   EN: Take Mazinger Z
+>> 10.35 | Ashura (Female) | 海底要塞サルードへ入れよ！
+   EN: into the undersea fortress Saluud!
+>> 10.36 | Ashura (Male) | ウッ！ パイルダー！？ / 来たな 甲児！ 我がライバルよ！
+   EN: Ngh! The Pilder!? So you've come, Koji! My rival!
+>> 10.37 | Ashura (Male) | パイルダーをマジンガーと / 合体させては ならぬ！
+   EN: The Pilder must not dock with Mazinger!
+>> 10.38 | Koji Kabuto | あしゅら男爵！ / 俺のマジンガーＺを！ / きさまなどに渡さんぞ！ /  / パイルダー！ / オ～ン！！
+   EN: Baron Ashura! My Mazinger Z! I won't hand it over to the likes of you!  Pilder! ON!!
+>> 10.39 | Ashura (Male) | おのれ / あと一歩というところを…！
+   EN: Curses! Just one step away...!
+>> 10.40 | Ashura (Female) | サルードを退避させる！ / 潜水！
+   EN: Pull back the Saluud! Dive!
+>> 10.41 | Koji Kabuto | マジンガーが海中に沈む！ /  / 海底で うまく 機械獣と / 戦えるだろうか…
+   EN: Mazinger's sinking into the sea!  Can I really fight Mechanical Beasts on the seabed...?
+>> 10.42 | {p} | でも うかつに海上に出たら / 集中砲火を浴びちゃう！
+   EN: But if we carelessly surface, we'll get hit by concentrated fire!
+>> 10.43 | Koji Kabuto | 海底を移動して / 光子力研究所に近づこう！
+   EN: Let's move along the seabed and get closer to the Photon Power Lab!
+>> 10.44 | Ashura (Male) | マジンガーは / 海中に沈んだようだな！？
+   EN: Mazinger seems to have sunk into the sea!?
+>> 10.45 | Ashura (Female) | 次は 光子力研究所の番よ！
+   EN: Next, it's the Photon Power Lab's turn!
+>> 10.46 | Sayaka | …甲児君
+   EN: ...Koji-kun.
+>> 10.47 | Boss | さやか！ 心配すんな！ / この俺が いるから 大丈夫！
+   EN: Sayaka! Don't you worry! You got me, so it's all good!
+>> 10.48 | Sayaka | アフロダイＡとボスボロットで / なんとかするしかないわね！ / ボス しっかりね！
+   EN: We'll just have to manage with Aphrodite A and Boss Borot! Hang in there, Boss!
+>> 10.49 | Boss | オーケーだわさ！ / さやかもな！
+   EN: Okey-dokey! You too, Sayaka!
+>> 10.50 | Ashura (Male) | 出たな ガラクタロボットどもめ！
+   EN: So you've shown up, you heaps of junk robots!
+>> 10.51 | Ashura (Female) | 機械獣あしゅら男爵の恐ろしさを / 見せてあげるわ！
+   EN: I'll show you the terror of Mechanical Beast Baron Ashura!
+>> 10.52 | Koji Kabuto | 見ろよ 機械獣用のデッキみたいだ / あそこから サルードの中に入り / 内部を移動してやる！
+   EN: Look, it's like a deck for Mechanical Beasts. I'll get inside the Saluud from there and move through it!
+>> 10.53 | Koji Kabuto | よ～し！ 外に出られたぞ！
+   EN: All riiight! We made it outside!
+>> 10.54 | {p} | 光子力研究所から / 離れちゃってる！ / いつの間にか 海底要塞が / 移動し始めてたんだ！
+   EN: We're far from the Photon Power Lab! The undersea fortress started moving at some point!
+>> 10.55 | Professor Yumi | {!R}聞こえるか 甲児君！？ /  / {!R}アレが完成したぞ！ / 現在 そちらに向かっている！
+   EN: {!R}Can you hear me, Koji-kun!?  {!R}THAT is finished! It's on its way to you now!
+>> 10.56 | Koji Kabuto | 科学都市で 開発していたアレが / 間に合ったんですね！
+   EN: So the thing they were building in Science City made it in time!
+>> 10.57 | {p} | アレってなに？
+   EN: What's "that"?
+>> 10.58 | Koji Kabuto | 見てればわかるさ / 来たぞ！
+   EN: Just watch and you'll see. Here it comes!
+>> 10.59 | Koji Kabuto | スクランダー！ / クロ～ス！
+   EN: Scrander! CROSS!
+>> 10.60 | {p} | 凄いよ 甲児君！
+   EN: Amazing, Koji-kun!
+>> 10.61 | Koji Kabuto | さやかさん！ ボス！ / 今 行くぞ！
+   EN: Sayaka-san! Boss! I'm coming!
+>> 10.62 | Ashura (Male) | マジンガーＺ！？
+   EN: Mazinger Z!?
+>> 10.63 | Ashura (Female) | おのれ 兜甲児！
+   EN: Curse you, Koji Kabuto!
+>> 10.64 | Koji Kabuto | あしゅら男爵 勝負だ！
+   EN: Baron Ashura, let's settle this!
+>> 10.65 | {p} | いっけ～ マジンガー！
+   EN: Gooo, Mazinger!
+>> 10.66 | Professor Yumi | 甲児君！ / そして {p}君！ / よくやってくれた！
+   EN: Koji-kun! And {p}-kun! Well done!
+>> 10.67 | {p} | あの… {s}は…？
+   EN: Um... how is {s}...?
+>> 10.68 | Professor Yumi | 科学都市の医療班が 全力をあげて / 治療にあたっているよ / 間もなく回復するだろう！
+   EN: Science City's medical team is doing everything they can to treat her. She should recover soon!
+>> 10.69 | {p} | 良かった…
+   EN: Thank goodness...
+>> 10.70 | Sayaka Yumi | 甲児君！
+   EN: Koji-kun!
+>> 10.71 | Boss | お～い！
+   EN: Heeey!
+>> 10.72 | Koji Kabuto | さやかさん！ ボス！
+   EN: Sayaka-san! Boss!
+>> 10.73 | {p} | 教授 仲間っていいですね…
+   EN: Professor, friends are a wonderful thing...
+>> 10.74 | Professor Yumi | 君にも 素晴らしい仲間達がいる / じゃないか {p}君！
+   EN: You have wonderful friends too, don't you, {p}-kun!
+>> 10.75 | {p} | みんな！
+   EN: Everyone!
+>> 10.76 | Professor Yumi | …さて / 次元連鎖という現象について / 詳しいことは / 何もわかっていないのが現状だ / そこで我々は 予知一族に / 協力を求めることにしたのだ
+   EN: ...Now then. At present, we know nothing in detail about this phenomenon called the Dimension Chain. So we've decided to ask the Precog Clan for their help.
+>> 10.77 | {p} | 予知一族？
+   EN: The Precog Clan?
+>> 10.78 | Sayaka Yumi | 預言者集団ともいわれている / 超能力者達のことね
+   EN: Psychics, also called a band of prophets.
+>> 10.79 | {p} | 予知一族って / どこにいるんですか？
+   EN: Where is the Precog Clan?
+>> 10.80 | Professor Yumi | 戸来村の出身であるということしか / 解らないのだ
+   EN: All we know is that they come from Herai Village.
+>> 10.81 | Boss | 戸来村って どこよ？ / さやか 知ってるか？
+   EN: Where's Herai Village? Sayaka, you know?
+>> 10.82 | Sayaka Yumi | 確か 北東の山の中よ
+   EN: In the mountains to the northeast, I think.
+>> 10.83 | Koji Kabuto | どこだって 大丈夫さ！ /  / ジェットスクランダーがあれば / ひとっ飛びだからな！
+   EN: Wherever it is, no problem!  With the Jet Scrander, it's just a hop away!
+>> 10.84 | Professor Yumi | それが そうもいかんのだよ / 甲児君 / 君達のロボットは / 修理が必要なんだ
+   EN: I'm afraid it isn't that simple, Koji-kun. Your robots need repairs.
+>> 10.85 | Koji Kabuto | え～っ！
+   EN: Whaaat!
+>> 10.86 | Sayaka Yumi | だいぶ やられちゃったもんね…
+   EN: They really took a beating...
+>> 10.87 | Boss | 俺のボスボロット… 可哀想に…
+   EN: My Boss Borot... You poor thing...
+>> 10.88 | {p} | では教授 僕 仲間と一緒に / 戸来村へ行きます！
+   EN: Then, Professor, I'll go to Herai Village with my friends!
+>> 10.89 | Koji Kabuto | 俺も手伝うぜ！
+   EN: I'll help out too!
+>> 10.90 | Sayaka Yumi | あたしも！
+   EN: Me too!
+>> 10.91 | Boss | よ～し 俺達も手伝うで～！
+   EN: All riiight, we're helpin' too!
+>> 10.92 | Mucha | ホイッス ボス！
+   EN: You got it, Boss!
+>> 10.93 | Nuke | ホヤ～！ ボス！
+   EN: Hoyaaa! Boss!
+>> 10.94 | Professor Yumi | 戸来村は ここから 北東 / 科学都市 北の 小さな村だ / そこに住む予知一族の力を借りれば / 次元連鎖の情報が得られるはずだ
+   EN: Herai Village is a small village northeast of here, north of Science City. With the help of the Precog Clan who live there, we should be able to learn about the Dimension Chain.
+>> 10.95 | Professor | 来留間博士は / 血も涙もない男じゃ / 奥さんや 息子さんまで / 研究の犠牲にしたらしい
+   EN: Dr. Kuruma is utterly heartless, I tell you. They say he even sacrificed his wife and son to his research.
+>> 10.96 | Professor | 来留間博士は 連結や混合こそ / 進化だと主張しとる / 彼は 動物同士を結合させる実験を / しているとの噂じゃ
+   EN: Dr. Kuruma insists that linking and mixing are evolution itself. Rumor has it he's experimenting with fusing animals together, I tell you.
+>> 10.97 | Professor | 予知一族の他にも / 優秀な超能力者達が存在する… / 科学者達の間では / 公然の秘密なんだ！
+   EN: Besides the Precog Clan, other gifted psychics exist... It's an open secret among scientists!
+>> 10.98 | {p} | あれ？ / こんなところに地獄別荘が…！
+   EN: Huh? Hell Villa's here...!
+>> 10.99 | Great King Enma | グワッハッハッハッ！
+   EN: GWAHAHAHAHA!
+   ctx 11.00 | {p} | 閻魔大王様！？
+   ctx EN: Great King Enma-sama!?
+   ctx 11.01 | Enma-kun | 地獄別荘を 光子力研究所の近くに / 移動してくれ！って頼んだんだ！ / そしたら ワシも行く！って / 言い出しちゃって…
+   ctx EN: I asked him to move Hell Villa near the Photon Power Lab! And then he goes, "I'm coming too!"...

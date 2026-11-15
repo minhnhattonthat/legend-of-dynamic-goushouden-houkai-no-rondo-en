@@ -1,0 +1,3 @@
+IMPORTANT | 44.50 | "あいつらが何者で / 俺が何をやらなければならないか": who they are and what I must do | "Those things" incorrectly identifies the referent as monsters; Ryo has just asked who {p} is, and Hayato deferred the explanation. | Who they are and what I've gotta do... I'll remember it all as I fight!
+MINOR | 44.27 | Something important remains at the edge of Ryo's memory | "In a corner of my head" and "it just won't come out" sound overly literal. | There's something important I gotta remember, at the back of my mind... Being in this machine sends shivers through my whole body... but I just can't remember!
+ASSESSMENT | b045 | Needs fixes | One mistaken referent disrupts Ryo's memory recovery scene; the rest is largely accurate and natural.

@@ -1,0 +1,104 @@
+   ctx B00.98 |  | ドロロンえん魔くん /  /  / えん魔くんがいつも / かぶっている / お目付け役としての / 役割を持つ　知恵袋
+   ctx EN: Enma-kun   Always worn by Enma-kun. His minder, and a font of wisdom.
+   ctx B00.99 |  | あにまるケダマン /  /  / 間身井薬局を経営 / 大事な所に貼った / 特別バンソウコウが / ブレイク
+   ctx EN: Animal Kedaman   Runs the Mamii Pharmacy. His special crotch plaster: a hit!
+>> B01.00 |  | キューティーハニー /  /  / 如月ハニーを / 造りあげた科学者 / パンサークローに / 殺害される
+   EN: Cutie Honey   Scientist who built Honey Kisaragi. Slain by Panther Claw.
+>> B01.01 |  | マジンガーＺ /  /  / 弓さやかの父親 / 兜十蔵博士　亡き後 / マジンガーＺを / サポートする
+   EN: Mazinger Z   Sayaka's father. Since Dr. Kabuto died, he backs Mazinger Z.
+>> B01.02 |  | デビルマン /  /  / 強力な精神攻撃を / 得意とし　その力は / デビルマンをも倒す
+   EN: Devilman   Strong mind attacks, enough to fell Devilman.
+>> B01.03 |  | 豪翔伝 /  /  / 世界を再生するため / 主人公達を狙う / 次元王グレイド
+   EN: Goushouden   To remake the world, Grade hunts heroes.
+>> B01.04 |  | 豪翔伝 /  /  / 日蝕によって力を / 手に入れた / 次元神グレイド / 天使のような姿
+   EN: Goushouden   Empowered by the eclipse: Dimension God Grade. Angelic.
+>> B01.05 |  | 豪翔伝 /  /  / 日蝕によって力を / 手に入れた / 次元獣グレイド / 最凶パワーの魔獣
+   EN: Goushouden   Empowered by the eclipse: Dimension Beast Grade. Savage!
+>> B01.06 |  | 迷惑探偵！！ / イボ痔小五郎 /  / 元プロレスラー / 巨万の富を持ち / パンサークローに / 黄金仏像を狙われる
+   EN: Meiwaku Tantei!! Iboji Kogoro  Ex-pro wrestler. Rich. His gold Buddha draws Panther Claw.
+>> B01.07 |  | 凄ノ王 /  /  / 朱紗真悟から / 破壊神　凄ノ王が / 抜け出た時 / 英雄王真神が出現
+   EN: Susano-oh   When the ruin god Susano-oh left Shusha, the Hero King rose.
+>> B01.08 |  | けっこう仮面 /  /  / スパルタ学園 / 学園長 / けっこう仮面の / 宿敵
+   EN: Kekko Kamen   Head of Sparta Academy. Kekko Kamen's archenemy.
+>> B01.09 |  | キューティーハニー /  /  / 両腕に巨大な斧を / 装備 / 鋭い刃先で / 相手を切り裂く
+   EN: Cutie Honey   Giant axes on both arms. Sharp blades rip foes apart.
+>> B01.10 |  | キューティーハニー /  /  / 右手が大きなはさみ / になっている / はさみには / マシンガンを装備
+   EN: Cutie Honey   Right hand is a giant scissor. Scissors with a machine gun.
+>> B01.11 |  | キューティーハニー /  /  / パンサークロー / 最強の戦士 / 高熱の炎を自在に / 操る
+   EN: Cutie Honey   Panther Claw's mightiest one. Wields scorching flames at will.
+>> B01.12 |  | デビルマン /  /  / 亀型の悪魔 / 食べた人間の顔を / 甲羅に取り込む / 残忍さは際立つ
+   EN: Devilman   A turtle demon. Puts the faces of its prey on its shell. Cruel!
+>> B01.13 |  | デビルマン /  /  / 多くの悪魔を / 配下に持つ / サタンの腹心であり / 影響力を持つ
+   EN: Devilman   Commands many demons. Satan's right hand, and very influential.
+>> B01.14 |  | ハレンチ学園 /  /  / ハレンチ学園教師 / パラソルのような / 服を着ている / 裏返しに弱い
+   EN: Harenchi Gakuen   Teacher there. Like a parasol, weak if turned inside out.
+>> B01.15 |  | ハレンチ学園 /  /  / ハレンチ学園教師 / イタリア出身の / ガンマン / 股間に銃をさげる
+   EN: Harenchi Gakuen   Teacher there. An Italian gunman with a crotch holster.
+>> B01.16 |  | あばしり一家 /  /  / 日本に復讐するため / 大帝国軍団を組織 / 強力な超能力で / 人を自在に操る
+   EN: Abashiri Family   Built the Great Empire army for revenge. Uses mind control.
+>> B01.17 |  | ドロロンえん魔くん /  /  / 頭に多くのハチを / 飼っている妖怪 / 脳すいバチを操り / 人を狂わせる
+   EN: Enma-kun   A yokai with a head of bees. Brain-sucking bees craze men.
+>> B01.18 |  | ドロロンえん魔くん /  /  / 妖怪夢魔族 / 夢のなかに入り / 永遠に悪夢を / 連続させる
+   EN: Enma-kun   A Muma yokai. Enters dreams for an endless nightmare loop.
+>> B01.19 |  | ドロロンえん魔くん /  /  / 人を怒り狂わせる / 黒い息を吐く / 息を吸った人間を / 三日後に食べる
+   EN: Enma-kun   Black breath drives men mad with rage. Eats them in 3 days.
+>> B01.20 |  | マジンガーＺ /  /  / 都市を壊滅させる / 威力のある炎攻撃 / 両手に鎖でつなが / れた鉄球を装備
+   EN: Mazinger Z   Its flames can raze a city. Chained iron balls in hand.
+>> B01.21 |  | マジンガーＺ /  /  / 強力な剣を装備し / アフロダイＡをも / 一刀両断にする
+   EN: Mazinger Z   Its mighty sword cleaves even Aphrodite A.
+>> B01.22 |  | マジンガーＺ /  /  / ドクター・ヘル配下 / 鉄十字軍団を統率 / 胴体から首が / 離れている
+   EN: Mazinger Z   Serves Dr. Hell. Heads the Iron Cross Corps. Detached head.
+>> B01.23 |  | ゲッターロボ /  /  / ハチュウ人類の / メカザウルス / たこのように吸盤の / ついた手足を持つ
+   EN: Getter Robo   A Reptilian Mechasaurus. Octopus-style sucker limbs.
+>> B01.24 |  | ゲッターロボ /  /  / ハチュウ人類の / メカザウルス / 翼　尻尾　胴三つの / 部分が分離する
+   EN: Getter Robo   A Reptilian Mechasaurus. Wing, tail, body: splits in three.
+>> B01.25 |  | ゲッターロボ /  /  / ハチュウ人類の / 地リュウ一族 / 頭部の角が / 強力な武器
+   EN: Getter Robo   A Reptilian of the Chiryu clan. Its head horn is a fierce weapon.
+>> B01.26 |  | ゲッターロボ /  /  / 一万ボルトの電撃で / 基地を警護する / メカザウルス / 三つの首を持つ
+   EN: Getter Robo   Guards its base with 10,000 volts A Mechasaurus with 3 heads.
+>> B01.27 |  | 虚無戦記 /  /  / 真田十勇士 / 魔陣腐糸は　触れた / ものと同化する / 溶解性の唾液
+   EN: Kyomu Senki   A Sanada Brave. Majin Fushi: acid spit that fuses on touch.
+>> B01.28 |  | 虚無戦記 /  /  / 真田十勇士 / 地獄の門 / 羅魔邪絵巻では / かいた絵が本物に
+   EN: Kyomu Senki   A Sanada Brave. 'Hell's Gate.' Ramaja Scroll brings art alive.
+>> B01.29 |  | イヤハヤ南友 /  /  / 果扨胴下の姉 / シチリアで / 殺し屋の修行中 / 天才的なムチの名手
+   EN: Iyahaya   Doshita's big sister. Trains to kill in Sicily. Whip ace.
+>> B01.30 |  | あにまるケダマン /  /  / 間身井薬局の子 / ミイラ男ではなく / いかなる時も / ほうたい姿の少年
+   EN: Animal Kedaman   Son of Mamii Pharmacy. Not a mummy, just a bandaged boy.
+>> B01.31 |  | マジンガーＺ /  /  / マジンガーＺの / 製作者 / 兜甲児にすべてを / 託し　倒れる
+   EN: Mazinger Z   Creator of Mazinger Z. Entrusted all to Koji, then fell.
+>> B01.32 |  | キッカイくん /  /  / キッカイ一家と / 一緒に暮らす / 天才的アイデアで / 発明を繰り返す
+   EN: Kikkai-kun   Lives with the Kikkai family. Genius ideas; keeps inventing.
+>> B01.33 |  | オモライくん /  /  / 知る人ぞ知る / 問題作品の主人公 / 地球全部が家という / 自由気ままな少年
+   EN: Omorai-kun   Lead of a cult problem manga. Free spirit; the Earth is home.
+>> B01.34 |  | バイオレンス / 　　　ジャック /  / 死神警察に / 拘束された少女 / 原作での初登場は / ハレンチ学園
+   EN: Violence       Jack  A girl held by Reaper Police. Debuted in Harenchi Gakuen
+>> B01.35 |  | けっこう仮面 /  /  / サタンの足の爪に / ひどい目にあわされ / けっこう仮面に / 何度もすくわれる
+   EN: Kekko Kamen   Satan's Toenail torments her; Kekko Kamen rescues her.
+>> B01.36 |  | 虚無戦記 /  /  / 九龍一族の当主 / 無幻美勒の父親 / 徳川家康も家来の / 一人である
+   EN: Kyomu Senki   Kuryu clan head. Miroku's father. Even Tokugawa Ieyasu's his man.
+>> B01.37 |  | 魔獣戦線 /  /  / 来留間源三の配下 / 十三人の学者の一人 / しかし、ひそかに / 源三に復讐を誓う
+   EN: Maju Sensen   Under Genzo. One of the 13 scholars. Plots secret revenge.
+>> B01.38 |  | おいら女蛮 /  /  / 女尊学園の支配者 / 女蛮子と敵対 / 実はパンサークロー / の幹部である
+   EN: Oira Sukeban   Rules Joson Academy, hates Banji Suke; high in Panther Claw!
+>> B01.39 |  | イヤハヤ南友 /  /  / 果扨財閥御曹司 / 家早家と敵対関係 / にあり　執拗に / イヤガラセを行う
+   EN: Iyahaya   Hatesate empire heir. Foe of the Iyahayas, he harasses them.
+>> B01.40 |  | イヤハヤ南友 /  /  / 果扨胴下の部下 / 家早家を倒すため / いろいろ知略を / めぐらす
+   EN: Iyahaya   Doshita's underling. Plots to beat the Iyahayas.
+>> B01.41 |  | けっこう仮面 /  /  / 少女王者 / ナイフが得意 / けっこう仮面への / 復讐心を燃やす
+   EN: Kekko Kamen   Girl champion. Knife expert. Out for revenge on Kekko Kamen
+>> B01.42 |  | けっこう仮面 /  /  / スパルタ学園 / お仕置き教師 / 日本刀を手にし / 残忍な性格
+   EN: Kekko Kamen   Sparta Academy punishment teacher. Sword. Cruel by nature.
+>> B01.43 |  | オリジナル /  /  / 凄ノ王からはがれた / 魔の残骸が黒い月の / 光によって / よみがえった物
+   EN: Original   Remains of Ma off Susano-oh, revived by the black moonlight.
+>> B01.44 |  | オリジナル /  /  / 魔の残骸が / 集まった姿 / 残骸よりも狂暴
+   EN: Original   Remains of Ma fused together. Even fiercer.
+>> B01.45 |  | オリジナル /  /  / 魔の残骸が集まった / 巨大な黒い魔物 / 姿を変化させる / ことが出来る
+   EN: Original   Remains of Ma merged into a big black fiend. Can shapeshift.
+>> B01.46 |  | デビルマン /  /  / 不動明の / 小さな友だち / ジンメンに食われ / 顔が甲羅に・・・
+   EN: Devilman   Akira's little friend. Eaten by Jinmen, her face is on its shell...
+>> B01.47 |  | あにまるケダマン /  /  / 登場するたびに / ろくな目にあわない / 学校の先生 / 今回は店主役で登場
+   EN: Animal Kedaman   Always unlucky in every role. A teacher; here, a shopkeeper.
+   ctx D00.00 |  | 味方単体のＨＰを３０程度回復
+   ctx EN: Restores about 30 HP to one ally
+   ctx D00.01 |  | 味方単体のＨＰを１８０程度回復
+   ctx EN: Restores about 180 HP to one ally

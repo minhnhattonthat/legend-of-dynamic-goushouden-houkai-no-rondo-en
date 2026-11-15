@@ -1,0 +1,208 @@
+   ctx 43.98 | Dr. Saotome | 何か強いショックを与えれば / 記憶が戻ることもあるが… / 時間を かけなければ治らない…
+   ctx EN: A strong shock can sometimes bring memories back... but otherwise, only time will heal it...
+   ctx 43.99 | {p} | ………
+   ctx EN: .........
+>> 44.00 | Dr. Saotome | ともかく リョウを ここから / 連れだそう
+   EN: Anyway, let's get Ryo out of here.
+>> 44.01 | Hayato | {!R}博士！ メカザウルスが / 研究所を襲ってきました！
+   EN: {!R}Doctor! A Mechasaurus is attacking the lab!
+>> 44.02 | Dr. Saotome | なんじゃと！ /  / え～い せっかくリョウを / 救出したというのに！
+   EN: What!?  Blast it, just when we'd finally rescued Ryo!
+>> 44.03 | Hayato | {!R}リョウは無事なんですか！？
+   EN: {!R}Is Ryo okay!?
+>> 44.04 | Dr. Saotome | 無事だとも… / 記憶は失っているがな…！
+   EN: He's safe... Though he's lost his memory...!
+>> 44.05 | Hayato | {!R}なんですって…！
+   EN: {!R}What...!
+>> 44.06 | Dr. Saotome | 隼人 ジャガー号で科学都市まで / 来い！ / イーグル号にはムサシを乗せろ！
+   EN: Hayato, come to Science City in the Jaguar! Put Musashi in the Eagle!
+>> 44.07 | Hayato | {!R}しかし それでは研究所を守る者が / いなくなります！
+   EN: {!R}But then there'll be nobody left to guard the lab!
+>> 44.08 | Dr. Saotome | 構わん！ 急ぐのだ！
+   EN: Never mind that! Hurry!
+>> 44.09 | Dr. Saotome | ベアー号に戻るぞ / {p}！
+   EN: Back to the Bear, {p}!
+>> 44.10 | Musashi | わはは！ / おまえ やはり生きとったか！ / おら うれしいぜ！ てっきり / 死んじゃったのかと思ってた！
+   EN: Wahaha! I knew you was alive! I'm so happy! I figured you was a goner for sure!
+>> 44.11 | Hayato | 博士 急いで研究所に戻らないと…
+   EN: Doctor, we need to hurry back to the lab...
+>> 44.12 | Dr. Saotome | わかっておる！ /  / ムサシ！ リョウを / イーグル号に乗せるんじゃ！
+   EN: I know!  Musashi! Put Ryo in the Eagle!
+>> 44.13 | {p} | でも博士！ / リョウさんは記憶喪失なんじゃ…
+   EN: But Doctor! Ryo-san has amnesia...
+>> 44.14 | Dr. Saotome | イーグル号のパイロットは / リョウしかいない！ / 荒療治じゃが / うまくすれば記憶が戻る！
+   EN: Ryo is the only one who can pilot the Eagle! It's rough treatment, but with luck his memory will come back!
+>> 44.15 | {p} | そんな！ / 危険ですよ 早乙女博士！
+   EN: No way! That's dangerous, Dr. Saotome!
+>> 44.16 | Hayato | 無駄だよ こと戦いに関して / 博士ほど非情な人はいないからな
+   EN: Save your breath. When it comes to fighting, there's nobody more ruthless than the doctor.
+>> 44.17 | Musashi | だからこそ / 頼りになるってもんだ！
+   EN: That's why we can count on him!
+>> 44.18 | Dr. Saotome | よし！ / ゲットマシン 出撃じゃ！
+   EN: Good! Getter Machines, launch!
+>> 44.19 | Dr. Saotome | 頼みがある {p}！ / 恐らく今頃 研究所は / ハチュウ人類に / 占領されてるはずじゃ / 下手をすると ゲッター線が / 暴走して大爆発するかもしれん！
+   EN: I have a favor to ask, {p}! By now the lab has most likely been occupied by the Reptilians. If things go badly, the Getter Rays could run wild and cause a huge explosion!
+>> 44.20 | {p} | なんですって！？
+   EN: What!?
+>> 44.21 | Dr. Saotome | そこで君に / 研究所を取り戻して欲しい！ / メカザウルスは / ゲッターが相手をする / その隙をつくのだ！
+   EN: So I want you to take the lab back! Getter will handle the Mechasaurus. Use that opening!
+>> 44.22 | {p} | わかりました 早乙女博士！
+   EN: Understood, Dr. Saotome!
+>> 44.23 | Musashi | リョウ！ イーグル号に乗って / 何か思い出したかい？
+   EN: Ryo! Remember anything, now you're in the Eagle?
+>> 44.24 | Ryo | うぅ…
+   EN: Ugh...
+>> 44.25 | Hayato | 今のリョウに思い出せと言っても / 苦しめるだけだぞ ムサシ！
+   EN: Telling Ryo to remember right now is only gonna torture him, Musashi!
+>> 44.26 | Musashi | でもよぉ…
+   EN: But still...
+>> 44.27 | Ryo | 思い出さなくちゃ ならない大切な / ものが 頭のすみにあるんだ… / このマシンに乗ると 身体が / ゾクゾクと震えるのに… / どうしても出てこねぇ！
+   EN: There's something important I gotta remember, in a corner of my head... When I ride this machine, my body tingles all over... but it just won't come out!
+>> 44.28 | Musashi | ………
+   EN: .........
+>> 44.29 | Hayato | メカザウルスが来たぞ！
+   EN: The Mechasaurus is here!
+>> 44.30 | Ryo | なんだ あの化けもんは！？
+   EN: What's that monster!?
+>> 44.31 | Hayato | あれが俺達の敵 / 恐竜帝国のメカザウルスだ！
+   EN: That's our enemy, the Dinosaur Empire's Mechasaurus!
+>> 44.32 | Ryo | 俺達の…敵？
+   EN: Our... enemy?
+>> 44.33 | Musashi | 来るぜ！
+   EN: Here it comes!
+>> 44.34 | Ryo | ………来い！
+   EN: .........Bring it on!
+>> 44.35 | Hayato | リョウ！？
+   EN: Ryo!?
+>> 44.36 | Musashi | そうこなくっちゃ！
+   EN: Now that's more like it!
+>> 44.37 | Ryo | 思い出した…！ /  / 俺は流竜馬… / このマシンはゲッターロボ！
+   EN: I remember...!  I'm Ryoma Nagare... and this machine is Getter Robo!
+>> 44.38 | Musashi | 記憶が戻ったのか リョウ！？
+   EN: Your memory's back, Ryo!?
+>> 44.39 | Ryo | 戻ったとも はっきりとな！
+   EN: It's back, all right, clear as day!
+>> 44.40 | Hayato | 早乙女博士の考えが / ズバリ的中したな
+   EN: Dr. Saotome's idea hit the bull's-eye.
+>> 44.41 | Ryo | 博士は 今 どこに？
+   EN: Where's the doctor now?
+>> 44.42 | Hayato | 研究所に向かってる /  / ハチュウ人類から / 取り戻すためにな！
+   EN: Headed for the lab.  To take it back from the Reptilians!
+>> 44.43 | Ryo | なんだって！？ / よし 急ぐぞ！
+   EN: What!? All right, let's hurry!
+>> 44.44 | Reptilian | ゴール様 早乙女博士らが / この研究所に到着しました！
+   EN: Gore-sama, Dr. Saotome and the others have arrived at the lab!
+>> 44.45 | Gore | ほう いよいよ来たか /  / 我々の計画を邪魔するヤツは / 許さん！ / 誰であろうと / 葬り去ってやるのみだ！
+   EN: Oho, so they've come at last.  I won't forgive anyone who interferes with our plans! Whoever it is, I'll simply bury them!
+>> 44.46 | Ryo | もうすぐ研究所だ！
+   EN: The lab's almost in sight!
+>> 44.47 | Musashi | 急がねぇと 博士や {p}が / やられちまうぜ！
+   EN: If we don't hurry, the doctor and {p} are gonna get whacked!
+>> 44.48 | Ryo | {p}？ / 誰だ それ？
+   EN: {p}? Who's that?
+>> 44.49 | Hayato | 説明は後だ！ / メカザウルスが来るぞ！
+   EN: Explanations later! The Mechasaurus is coming!
+>> 44.50 | Ryo | あいつらが何者で / 俺が何をやらなければならないか / 戦いの中で思い出してやる！
+   EN: Who they are and what I've gotta do... I'll remember it all as I fight!
+>> 44.51 | Gore | 死にに来たか 早乙女博士？
+   EN: Have you come to die, Dr. Saotome?
+>> 44.52 | {p} | おまえが ゴールか！？
+   EN: So you're Gore!?
+>> 44.53 | Gore | さよう 地底魔王ゴール / 全生物の支配者だ！ / 武器を捨てて 私に従え
+   EN: Indeed. Gore, Demon King of the Underworld, ruler of all living things! Throw down your weapons and obey me.
+>> 44.54 | Dr. Saotome | ふざけるな ゴール！
+   EN: Don't be absurd, Gore!
+>> 44.55 | Gore | おまえ達 人類の繁栄の時は / 終わったのだ / 地球は新しい時代を迎える… / ハチュウ人類の時代を！
+   EN: Your age of human prosperity is over. The Earth is entering a new age... the age of the Reptilians!
+>> 44.56 | Gore | なかなかやるな / だが…！ / サルに毛が生えた程度のきさまらの / 力で 私を倒せるものか！ / この勝負 預けたぞ！
+   EN: Not bad... But...! How could you, barely more than hairy apes, ever defeat me! We'll settle this another time!
+>> 44.57 | Dr. Saotome | 逃がすな！ / ゴールを追うのだ！
+   EN: Don't let him escape! After Gore!
+>> 44.58 | Gore | こちらは ゴールだ！ / マシンランドウ 浮上せよ！ / ……… /  / どうした？ / 返答せい！
+   EN: This is Gore! Machineland, surface! .........  What's wrong? Answer me!
+>> 44.59 | Reptilian | {!R}お気の毒ですが 帝王… /  / {!R}我々は まもなく / マグマ層に逃げこみます / {!R}帝王を 待つ時間が / なかったのです！！ / {!R}ゲッターの反撃にあい 帝国も / かなりの深手を負いました / {!R}このまま 闘い続けては / 帝国の死を 意味します / {!R}帝王のために 全ハチュウ人類を / 犠牲にはできません！
+   EN: {!R}We're very sorry, Emperor...  {!R}We'll soon be fleeing into the magma layer. {!R}We had no time to wait for you, Emperor!! {!R}Getter's counterattack has dealt the Empire a grievous wound. {!R}Fighting on like this would mean the death of the Empire. {!R}We cannot sacrifice all the Reptilians for the Emperor's sake!
+>> 44.60 | Gore | 何！？
+   EN: What!?
+>> 44.61 | Reptilian | {!R}我々は もう１度 地下に潜り / 力を蓄えます / {!R}ハチュウ人類が 再び地上を / 征服することを夢見て！
+   EN: {!R}We'll go underground once more and build up our strength. {!R}Dreaming of the day the Reptilians conquer the surface again!
+>> 44.62 | Gore | わしを見捨てるのか！？
+   EN: You'd abandon me!?
+>> 44.63 | Reptilian | {!R}偉大なる帝王ゴールに栄光あれ！
+   EN: {!R}Glory to the great Emperor Gore!
+>> 44.64 | Gore | 待て…！ /  / 待ってくれ…！
+   EN: Wait...!  Please, wait...!
+>> 44.65 | Dr. Saotome | 置いてけぼりとは あわれだな / ゴールよ
+   EN: Left behind... How pitiful, Gore.
+>> 44.66 | Gore | 黙れ！ /  / かくなるうえは ただ帝王として / ふさわしい死に方あるのみ！
+   EN: Silence!  Now all that's left is to die a death befitting an emperor!
+>> 44.67 | Gore | ハチュウ人類は必ずや / いつの日か地上に…戻る…！
+   EN: The Reptilians will surely, one day... return to the surface...!
+>> 44.68 | {p} | ゴール…
+   EN: Gore...
+>> 44.69 | Ryo | {!R}博士！ 研究所周辺の / メカザウルスは片づけたぜ！
+   EN: {!R}Doctor! We've wiped out the Mechasaurus around the lab!
+>> 44.70 | Dr. Saotome | ご苦労… / ゲッターロボ 帰還せよ…！
+   EN: Well done... Getter Robo, return to base...!
+>> 44.71 | ??? | しょせん 下等生物… /  / こうなることは / 当然の帰結だったのかもしれぬ…
+   EN: Lower life forms, after all...  Perhaps this outcome was only natural...
+>> 44.72 | Dr. Saotome | 外は ゲッターに任せよう / 研究所を 取り戻すのが先だ
+   EN: Let's leave the outside to Getter. Taking back the lab comes first.
+>> 44.73 | Researcher | ゲットマシンは只今出撃中です / 今は中には入れません
+   EN: The Getter Machines are out on a sortie right now. You can't go inside at the moment.
+>> 44.74 | Dr. Saotome | ご苦労だった 諸君！ /  / これで恐竜帝国の脅威から / 世界は救われた！ / そして{p}君！ / ありがとう！ 君のおかげだ
+   EN: Well done, everyone!  With this, the world is saved from the threat of the Dinosaur Empire! And {p}-kun! Thank you! It's all thanks to you.
+>> 44.75 | {p} | そ そんな…
+   EN: Oh, n-no...
+>> 44.76 | Ryo | 君には世話になったみたいだな / 礼を言わせてくれ
+   EN: Looks like I owe you one. Let me thank you.
+>> 44.77 | Hayato | 困ったことがあったら 言ってくれ
+   EN: If you're ever in a jam, just say so.
+>> 44.78 | Musashi | ゲッターチームは / いつでも君の味方だ！
+   EN: The Getter Team's always on your side!
+>> 44.79 | {p} | うん！ / みんな ありがとう！
+   EN: Yeah! Thanks, everyone!
+>> 44.80 | Dr. Saotome | それでは みんな / ゲッターの整備にかかってくれ
+   EN: Now then, everyone, get to work on Getter's maintenance.
+>> 44.81 | Ryo | え～！？
+   EN: Whaaat!?
+>> 44.82 | Hayato | 今すぐですか 博士？
+   EN: Right now, Doctor?
+>> 44.83 | Musashi | 腹減ったよ / 休ませてくれよぉ…
+   EN: I'm starvin'... Lemme rest...
+>> 44.84 | Dr. Saotome | いつまた 地球に大きな危機が / 訪れるとも わからんからな
+   EN: There's no telling when another great crisis might come to Earth.
+>> 44.85 | Ryo | しょうがない… / ふたりとも行こうぜ…
+   EN: No helping it... Let's go, you two...
+>> 44.86 | Musashi | おまえは いいよ！ / 記憶を無くしてたんだから！ / こっちはホント クタクタだよ…
+   EN: Easy for you to say! You lost your memory! Me, I'm plumb tuckered out...
+>> 44.87 | {p} | 大きな危機…ですか 博士？
+   EN: A great crisis... Doctor?
+>> 44.88 | Dr. Saotome | 何を言わんとしているか / 解るな {p}？
+   EN: You understand what I'm getting at, don't you, {p}?
+>> 44.89 | {p} | はい…
+   EN: Yes...
+>> 44.90 | Jiro | {p}！ / 科学都市から連絡が入ったぞ / {s}が / 回復に向かっているそうだ！
+   EN: {p}! Word came in from Science City. {s} is on the road to recovery!
+>> 44.91 | {p} | ホント！？
+   EN: Really!?
+>> 44.92 | Dr. Saotome | さすが / 世界最高峰の科学都市じゃ！ / だが その科学都市にも / 恐竜帝国が入り込んでいた
+   EN: Just what you'd expect from Science City, the finest in the world! But the Dinosaur Empire had infiltrated even Science City.
+>> 44.93 | {p} | それも… / 次元連鎖の影響なんでしょうか？
+   EN: Is that... the Dimension Chain's doing too?
+>> 44.94 | Dr. Saotome | 解らん… 気になるのは / 来留間博士の動向だ…
+   EN: I don't know... What concerns me is what Dr. Kuruma is up to...
+>> 44.95 | {p} | 科学都市の会議場で / 騒動を起こした あの人ですか？
+   EN: The man who caused that uproar in the Science City conference hall?
+>> 44.96 | Dr. Saotome | 来留間博士には / 悪い噂が絶えん / そのヤツが 戸来村の予知一族を / 追っているという噂がある
+   EN: There's no end of nasty rumors about Dr. Kuruma. And there's a rumor he's chasing the Precog Clan of Herai Village.
+>> 44.97 | Jiro | 戸来村の予知一族？
+   EN: The Precog Clan of Herai Village?
+>> 44.98 | Dr. Saotome | 東北地方にある小さな村 戸来村は / 預言者集団… / つまり / 超能力者の村と言われている
+   EN: Herai Village, a small village in the Tohoku region, is said to be a village of prophets... in other words, a village of psychics.
+>> 44.99 | {p} | 来留間博士が / どうして戸来村を…
+   EN: Why would Dr. Kuruma be after Herai Village...?
+   ctx 45.00 | Dr. Saotome | 次元連鎖という現象について / 詳しいことは / 何もわかっていないのが現状だ /  / そこで科学都市では 予知一族に / 協力を求めることが決まった
+   ctx EN: At present, we know nothing in detail about this phenomenon called the Dimension Chain.  So Science City has decided to ask the Precog Clan for their help.
+   ctx 45.01 | {p} | あの来留間博士と / 科学都市とが / 共に戸来村の預言者を / 探している！？
+   ctx EN: Dr. Kuruma and Science City are both searching for the prophet of Herai Village!?

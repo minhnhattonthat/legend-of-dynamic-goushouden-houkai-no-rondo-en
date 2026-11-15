@@ -1,0 +1,58 @@
+   ctx P03.10 |  | 間身井薬局
+   ctx EN: Mamii Pharmacy
+   ctx P03.11 |  | 地獄別荘
+   ctx EN: Hell Villa
+>> r0CD95C |  | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　！”＃＄％＆’（）＊＋，－．／０１２３４５６７８９：；＜＝＞？＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ［￥］＾＿‘ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｛｜｝～　
+   EN:                                  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZY^_'abcdefghijklmnopqrstuvwxyz|~
+>> r0CDD28 |  | ＞
+   EN: >
+>> r0CDD40 |  | [1B][5B]3w[1B][5B]15;0;0;14mスプライトの表示をするテスト[1B][5B]1e / [0A][1B][5B]15;1;0;12m[1B][5B]12;12s変換[1B][5B]18;18s制御コード付[1B][5B]12;12sテスト / [0A]変換[1B][5B]24;24s制御コード１付[1B][5B]12;12sテスト / 
+   EN: [1B][5B]3w[1B][5B]15;0;0;14mSprite display test[1B][5B]1e [0A][1B][5B]15;1;0;12m[1B][5B]12;12sConvert[1B][5B]18;18swith ctrl code[1B][5B]12;12stest [0A]Convert[1B][5B]24;24swith ctrl code 1[1B][5B]12;12stest 
+>> r0CDDD8 |  | 勢いよく立ち上がったボクはまず目を疑ってしまった。
+   EN: I sprang to my feet and doubted my eyes.
+>> r0CDE0C |  | スプライト5の表示
+   EN: Show sprite 5
+>> r0CDE20 |  | スプライト4の表示
+   EN: Show sprite 4
+>> r0CDE34 |  | スプライト3の表示
+   EN: Show sprite 3
+>> r0CDE48 |  | スプライト2の表示
+   EN: Show sprite 2
+>> r0CDE5C |  | スプライト1の表示
+   EN: Show sprite 1
+>> r0CDE70 |  | ＢＧテキスト
+   EN: BG text
+>> r0CDE80 |  | ＢＧＴＥＸＴ
+   EN: BGTEXT
+>> r0CDE90 |  | ＢＧテキスト３２７６８
+   EN: BG text 32768
+>> r0CDEA8 |  | ＢＧＴＥＸＴ３２７６８
+   EN: BGTEXT32768
+>> r0CDEC0 |  | スプライトの表示テスト０００２
+   EN: Sprite display test 0002
+>> r0CDEE0 |  | 変更スプライト１２３４５６７８
+   EN: Changed sprite 12345678
+>> r0CDF00 |  | 変更スプライト０１２３４５６７
+   EN: Changed sprite 01234567
+>> r0CDF20 |  | ＳＩＭＰＬＥＳＰ
+   EN: SIMPLESP
+>> r0CDF34 |  | ＳＰＲＩＴＥ１６ＥＸ
+   EN: SPRITE16EX
+>> r0CDF4C |  | ＴＥＳＴＳＰＲＩＴＥ
+   EN: TESTSPRITE
+>> r0CDF64 |  | ＴＥＳＴＢＩＴＭＡＰ
+   EN: TESTBITMAP
+>> r0CDF7C |  | ＴＥＳＴＢＧ２５６
+   EN: TESTBG256
+>> r0CDF90 |  | ＴＥＳＴＢＧ１６
+   EN: TESTBG16
+>> r0CDFA4 |  | ＥＳＣＡＰＥ
+   EN: ESCAPE
+>> r0CDFC8 |  | ミムメモヤユヨラリルレロワン゛゜
+   EN: MIMUMEMOYAYUYORARIRUREROWAN
+>> r0CDFEC |  | タチツテトナニヌネノハヒフヘホマ
+   EN: TACHITSUTETONANINUNENOHAHIFUHEHOMA
+   ctx r0CE644 |  | わたしは
+   ctx EN: I am
+   ctx r0CE650 |  | ペガサス
+   ctx EN: Pegasus

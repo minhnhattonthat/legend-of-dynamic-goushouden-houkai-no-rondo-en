@@ -1,0 +1,306 @@
+   ctx r0DAFFC |  | シャフトの息子
+   ctx EN: Shaft Jr.
+>> r0DB00C |  | ドラゴン
+   EN: Dragon
+>> r0DB018 |  | 次元獣グレイド
+   EN: Grade
+>> r0DB028 |  | メカあしゅら
+   EN: M.Ashura
+>> r0DB038 |  | 機械獣あしゅら男爵
+   EN: Mech Beast Ashura
+>> r0DB04C |  | ひさんしょうぐん
+   EN: Hisan
+>> r0DB060 |  | 悲惨将軍
+   EN: General Hisan
+>> r0DB06C |  | ？？？？？？
+   EN: ??????
+>> r0DB07C |  | うんのろくろう
+   EN: Unno
+>> r0DB08C |  | 海野六郎
+   EN: Rokuro Unno
+>> r0DB098 |  | いさにゅうどう
+   EN: Isa
+>> r0DB0A8 |  | 伊佐入道
+   EN: Isa Nyudo
+>> r0DB0B4 |  | サタン
+   EN: Satan
+>> r0DB0BC |  | サタンの足の爪
+   EN: Satan's Toenail
+>> r0DB0CC |  | デーモンC
+   EN: Demon C
+>> r0DB0D8 |  | デーモンB
+   EN: Demon B
+>> r0DB0E4 |  | デーモン
+   EN: Demon
+>> r0DB0F0 |  | デーモンA
+   EN: Demon A
+>> r0DB0FC |  | 巨大デビルマン
+   EN: Giant Devilman
+>> r0DB10C |  | Ｃ・シレーヌ
+   EN: K.Sirene
+>> r0DB11C |  | カイム・シレーヌ
+   EN: Kaim Sirene
+>> r0DB130 |  | スサノオウ
+   EN: Susanoo
+>> r0DB13C |  | 英雄王真神
+   EN: Divine Hero
+>> r0DB148 |  | ガードマン
+   EN: Guard
+>> r0DB154 |  | 次元神グレイド
+   EN: Grade
+>> r0DB164 |  | 次元王グレイド
+   EN: Grade
+>> r0DB174 |  | グレイド
+   EN: Grade
+>> r0DB180 |  | くろいまもの
+   EN: Fiend
+>> r0DB190 |  | 黒い魔物
+   EN: Black Fiend
+>> r0DB19C |  | まのざんがい
+   EN: Husk
+>> r0DB1AC |  | 魔の残骸
+   EN: Evil Husk
+>> r0DB1B8 |  | ダンテ
+   EN: Dante
+>> r0DB1C0 |  | うつぎ
+   EN: Utsugi
+>> r0DB1C8 |  | 宇津木涼
+   EN: Ryo Utsugi
+>> r0DB1D4 |  | けっこう仮面
+   EN: Kekko Kamen
+>> r0DB1E4 |  | こうじゃ
+   EN: Koja
+>> r0DB1F0 |  | 果扨虹蛇
+   EN: Koja Hatesate
+>> r0DB1FC |  | キッカイ
+   EN: Kikkai
+>> r0DB208 |  | 摩呵キッカイ
+   EN: Maka Kikkai
+>> r0DB218 |  | どらの
+   EN: Dorano
+>> r0DB220 |  | 怒良野キラー
+   EN: Dorano Killer
+>> r0DB230 |  | ケダマン
+   EN: Kedaman
+>> r0DB23C |  | 阿仁丸ケダマン
+   EN: Animaru Kedaman
+>> r0DB24C |  | みろく
+   EN: Miroku
+>> r0DB254 |  | 無幻美勒
+   EN: Miroku
+>> r0DB260 |  | Ｉ・カイザー
+   EN: I.Kaiser
+>> r0DB270 |  | アイアンカイザー
+   EN: Iron Kaiser
+>> r0DB284 |  | 暴走族Ｃ
+   EN: Biker C
+>> r0DB290 |  | 暴走族Ｂ
+   EN: Biker B
+>> r0DB29C |  | ぼうそうぞく
+   EN: Biker
+>> r0DB2AC |  | 暴走族Ａ
+   EN: Biker A
+>> r0DB2B8 |  | 無法者Ｃ
+   EN: Outlaw C
+>> r0DB2C4 |  | 無法者Ｂ
+   EN: Outlaw B
+>> r0DB2D0 |  | むほうもの
+   EN: Outlaw
+>> r0DB2DC |  | 無法者Ａ
+   EN: Outlaw A
+>> r0DB2E8 |  | 不良学生Ｃ
+   EN: Punk Kid C
+>> r0DB2F4 |  | 不良学生Ｂ
+   EN: Punk Kid B
+>> r0DB300 |  | ふりょうがくせい
+   EN: Punk Kid
+>> r0DB314 |  | 不良学生Ａ
+   EN: Punk Kid A
+>> r0DB320 |  | 下忍C
+   EN: Genin C
+>> r0DB328 |  | 下忍B
+   EN: Genin B
+>> r0DB330 |  | げにん
+   EN: Genin
+>> r0DB338 |  | 下忍A
+   EN: Genin A
+>> r0DB340 |  | 魔獣ハンターＣ
+   EN: Fiend Hunter C
+>> r0DB350 |  | 魔獣ハンターＢ
+   EN: Fiend Hunter B
+>> r0DB360 |  | まじゅうハンター
+   EN: Hunter
+>> r0DB374 |  | 魔獣ハンターＡ
+   EN: Fiend Hunter A
+>> r0DB384 |  | 不死団Ｃ
+   EN: Undying C
+>> r0DB390 |  | 不死団Ｂ
+   EN: Undying B
+>> r0DB39C |  | 不死団
+   EN: Undying
+>> r0DB3A4 |  | 不死団Ａ
+   EN: Undying A
+>> r0DB3B0 |  | ハチュウ人類Ｃ
+   EN: Reptilian C
+>> r0DB3C0 |  | ハチュウ人類Ｂ
+   EN: Reptilian B
+>> r0DB3D0 |  | ハチュウじんるい
+   EN: Reptilian
+>> r0DB3E4 |  | ハチュウ人類Ａ
+   EN: Reptilian A
+>> r0DB3F4 |  | メカザウルスＣ
+   EN: Mechasaurus C
+>> r0DB404 |  | メカザウルスＢ
+   EN: Mechasaurus B
+>> r0DB414 |  | メカザウルス
+   EN: M.Saurus
+>> r0DB424 |  | メカザウルスＡ
+   EN: Mechasaurus A
+>> r0DB434 |  | 機械獣Ｃ
+   EN: MechBeast C
+>> r0DB440 |  | 機械獣Ｂ
+   EN: MechBeast B
+>> r0DB44C |  | きかいじゅう
+   EN: M.Beast
+>> r0DB45C |  | 機械獣Ａ
+   EN: MechBeast A
+>> r0DB468 |  | 幻魔衆Ｃ
+   EN: Genmashu C
+>> r0DB474 |  | 幻魔衆Ｂ
+   EN: Genmashu B
+>> r0DB480 |  | げんましゅう
+   EN: Genma
+>> r0DB490 |  | 幻魔衆Ａ
+   EN: Genmashu A
+>> r0DB49C |  | 争魔衆Ｃ
+   EN: Somashu C
+>> r0DB4A8 |  | 争魔衆Ｂ
+   EN: Somashu B
+>> r0DB4B4 |  | そうましゅう
+   EN: Soma
+>> r0DB4C4 |  | 争魔衆Ａ
+   EN: Somashu A
+>> r0DB4D0 |  | 聖パラダイス中学生Ｃ
+   EN: St. Paradise Kid C
+>> r0DB4E8 |  | 聖パラダイス中学生Ｂ
+   EN: St. Paradise Kid B
+>> r0DB500 |  | パラ中生
+   EN: Para Kid
+>> r0DB50C |  | 聖パラダイス中学生Ａ
+   EN: St. Paradise Kid A
+>> r0DB524 |  | 大帝国軍人C
+   EN: Imperial C
+>> r0DB530 |  | 大帝国軍人B
+   EN: Imperial B
+>> r0DB53C |  | ていこくぐんじん
+   EN: Imperial
+>> r0DB550 |  | 大帝国軍人A
+   EN: Imperial A
+>> r0DB55C |  | 死神警察３
+   EN: Death Cop 3
+>> r0DB568 |  | 死神警察２
+   EN: Death Cop 2
+>> r0DB574 |  | 死神警察１
+   EN: Death Cop 1
+>> r0DB580 |  | 死神警察Ｃ
+   EN: Death Cop C
+>> r0DB58C |  | 死神警察Ｂ
+   EN: Death Cop B
+>> r0DB598 |  | しにがみけいさつ
+   EN: Deathcop
+>> r0DB5AC |  | 死神警察Ａ
+   EN: Death Cop A
+>> r0DB5B8 |  | 外道会３
+   EN: Gedo Gang 3
+>> r0DB5C4 |  | 外道会２
+   EN: Gedo Gang 2
+>> r0DB5D0 |  | 外道会１
+   EN: Gedo Gang 1
+>> r0DB5DC |  | 外道会Ｃ
+   EN: Gedo Gang C
+>> r0DB5E8 |  | 外道会Ｂ
+   EN: Gedo Gang B
+>> r0DB5F4 |  | げどうかい
+   EN: Gedo
+>> r0DB600 |  | 外道会Ａ
+   EN: Gedo Gang A
+>> r0DB60C |  | パンサー団員C
+   EN: Panther Claw C
+>> r0DB61C |  | パンサー団員B
+   EN: Panther Claw B
+>> r0DB62C |  | パンサーだんいん
+   EN: Panther
+>> r0DB640 |  | パンサー団員A
+   EN: Panther Claw A
+>> r0DB650 |  | うりゅう
+   EN: Uryu
+>> r0DB65C |  | 瓜生麗
+   EN: Uryu
+>> r0DB664 |  | ささき
+   EN: Sasaki
+>> r0DB66C |  | 佐々木剣道
+   EN: Sasaki
+>> r0DB678 |  | すさ
+   EN: Shusha
+>> r0DB680 |  | 朱紗真悟
+   EN: Shusha
+>> r0DB68C |  | げんぞう
+   EN: Genzo
+>> r0DB698 |  | 来留間源三
+   EN: Genzo
+>> r0DB6A4 |  | シャフト
+   EN: Shaft
+>> r0DB6B0 |  | シャフト博士
+   EN: Dr. Shaft
+>> r0DB6C0 |  | しんいち
+   EN: Shinichi
+>> r0DB6CC |  | 来留間慎一
+   EN: Shinichi
+>> r0DB6D8 |  | ゴール
+   EN: Gore
+>> r0DB6E0 |  | 地底魔王・ゴール
+   EN: Demon King Gore
+>> r0DB6F4 |  | モバ
+   EN: Moba
+>> r0DB6FC |  | ガロ
+   EN: Garo
+>> r0DB704 |  | ラド
+   EN: Rado
+>> r0DB70C |  | ジガ
+   EN: Jiga
+>> r0DB714 |  | りょうま
+   EN: Ryoma
+>> r0DB720 |  | 流竜馬
+   EN: Ryoma
+>> r0DB728 |  | ゲッター３
+   EN: Getter 3
+>> r0DB734 |  | ゲッター２
+   EN: Getter 2
+>> r0DB740 |  | ゲッター1
+   EN: Getter 1
+>> r0DB74C |  | ゲッター１
+   EN: Getter 1
+>> r0DB758 |  | Ｄｒ．ヘル
+   EN: Dr. Hell
+>> r0DB764 |  | ドクター・ヘル
+   EN: Dr. Hell
+>> r0DB774 |  | ブロッケン
+   EN: Brocken
+>> r0DB780 |  | ブロッケン伯爵
+   EN: Count Brocken
+>> r0DB790 |  | キングダン
+   EN: King Dan
+>> r0DB79C |  | キングダンＸ１０
+   EN: King Dan X10
+>> r0DB7B0 |  | ゴーストファイア
+   EN: Ghostfire
+>> r0DB7C4 |  | ボス
+   EN: Boss
+>> r0DB7CC |  | さやか
+   EN: Sayaka
+>> r0DB7D4 |  | 弓さやか
+   EN: Sayaka Yumi
+   ctx r0DB7E0 |  | ボスボロット
+   ctx EN: Borot
+   ctx r0DB7F0 |  | アフロダイＡ
+   ctx EN: Aphrodite A

@@ -1,0 +1,304 @@
+   ctx r0D2FC8 |  | テクニカルアドバイス
+   ctx EN: Technical Advice
+   ctx r0D2FE0 |  | 　永井 豪　　　　　　石川 賢
+   ctx EN:  Go Nagai      Ken Ishikawa
+>> r0D3000 |  | 原作
+   EN: Creator
+>> r0D3018 |  | ＥＸＩＴ
+   EN: EXIT
+>> r0D3024 |  | テスト２
+   EN: Test 2
+>> r0D3030 |  | テスト１
+   EN: Test 1
+>> r0D303C |  | 枠テスト
+   EN: Frame test
+>> r0D3048 |  | 文字列表示１６１６
+   EN: String disp 1616
+>> r0D305C |  | 文字列表示１２０６
+   EN: String disp 1206
+>> r0D3070 |  | 文字列表示１２
+   EN: String disp 12
+>> r0D3080 |  | 文字列表示８
+   EN: String disp 8
+>> r0D3090 |  | ＭＥＮＵ６
+   EN: MENU6
+>> r0D309C |  | ＯＤＥ
+   EN: ODE
+>> r0D30A4 |  | ３周目人間
+   EN: Run3 Human
+>> r0D30B0 |  | ３周目ロボ
+   EN: Run3 Robot
+>> r0D30BC |  | ＴＥＳＴ
+   EN: TEST
+>> r0D30C8 |  | ＭＥＮＵ０２
+   EN: MENU02
+>> r0D30D8 |  | ＭＥＮＵ０１
+   EN: MENU01
+>> r0D30E8 |  | ＳＥＴＵＰ
+   EN: SETUP
+>> r0D30F4 |  | ＪＵＭＰ２
+   EN: JUMP2
+>> r0D3100 |  | ＪＵＭＰ
+   EN: JUMP
+>> r0D310C |  | ＭＥＮＵ
+   EN: MENU
+>> r0D3118 |  | ＮＯ　ＭＥＳＳＡＧＥ
+   EN: NO MESSAGE
+>> r0D3130 |  | これにて終了なり　 メニュー項目２５
+   EN: That's all Menu item 25
+>> r0D3154 |  | テストテキスト描画 メニュー項目２４
+   EN: Test text Menu item 24
+>> r0D3178 |  | ただいまマイクのテ メニュー項目２３
+   EN: Mic test Menu item 23
+>> r0D319C |  | テストテキスト描画 メニュー項目２２
+   EN: Test text Menu item 22
+>> r0D31C0 |  | 本日は晴天なり　　 メニュー項目２１
+   EN: Fine today Menu item 21
+>> r0D31E4 |  | これにて終了なり　 メニュー項目２０
+   EN: That's all Menu item 20
+>> r0D3208 |  | テストテキスト描画 メニュー項目１９
+   EN: Test text Menu item 19
+>> r0D322C |  | ただいまマイクのテ メニュー項目１８
+   EN: Mic test Menu item 18
+>> r0D3250 |  | テストテキスト描画 メニュー項目１７
+   EN: Test text Menu item 17
+>> r0D3274 |  | 本日は晴天なり　　 メニュー項目１６
+   EN: Fine today Menu item 16
+>> r0D3298 |  | テストテキスト描画 メニュー項目１５
+   EN: Test text Menu item 15
+>> r0D32BC |  | さくらくさ　　　　 メニュー項目１４
+   EN: Racecar Menu item 14
+>> r0D32E0 |  | テストテキスト描画 メニュー項目１３
+   EN: Test text Menu item 13
+>> r0D3304 |  | しんぶんし　　　　 メニュー項目１２
+   EN: Kayak Menu item 12
+>> r0D3328 |  | テストテキスト描画 メニュー項目１１
+   EN: Test text Menu item 11
+>> r0D334C |  | うらわでわらう　　 メニュー項目１０
+   EN: Never odd or even Menu item 10
+>> r0D3370 |  | テストテキスト描画 メニュー項目９　
+   EN: Test text Menu item 9
+>> r0D3394 |  | たけやぶやけた　　 メニュー項目８　
+   EN: Step on no pets Menu item 8
+>> r0D33B8 |  | テストテキスト描画 メニュー項目７　
+   EN: Test text Menu item 7
+>> r0D33DC |  | 東京特許許可局　　 メニュー項目６　
+   EN: Toy boat toy boat Menu item 6
+>> r0D3400 |  | テストテキスト描画 メニュー項目５　
+   EN: Test text Menu item 5
+>> r0D3424 |  | 隣の客はよく柿　　 メニュー項目４　
+   EN: She sells seashells Menu item 4
+>> r0D3448 |  | テストテキスト描画 メニュー項目３　
+   EN: Test text Menu item 3
+>> r0D346C |  | 生麦生米生卵　　　 メニュー項目２　
+   EN: Red lorry yellow lorry Menu item 2
+>> r0D3490 |  | テストテキスト描画 メニュー項目１　
+   EN: Test text Menu item 1
+>> r0D34B4 |  | これにて２５
+   EN: That's all 25
+>> r0D34C4 |  | テストテ２４
+   EN: Test text 24
+>> r0D34D4 |  | ただいま２３
+   EN: Mic test 23
+>> r0D34E4 |  | テストテ２２
+   EN: Test text 22
+>> r0D34F4 |  | 本日は晴２１
+   EN: Fine today 21
+>> r0D3504 |  | これにて２０
+   EN: That's all 20
+>> r0D3514 |  | テストテ１９
+   EN: Test text 19
+>> r0D3524 |  | ただいま１８
+   EN: Mic test 18
+>> r0D3534 |  | テストテ１７
+   EN: Test text 17
+>> r0D3544 |  | 本日は晴１６
+   EN: Fine today 16
+>> r0D3554 |  | テストテ１５
+   EN: Test text 15
+>> r0D3564 |  | さくらく１４
+   EN: Racecar 14
+>> r0D3574 |  | テストテ１３
+   EN: Test text 13
+>> r0D3584 |  | しんぶん１２
+   EN: Kayak 12
+>> r0D3594 |  | テストテ１１
+   EN: Test text 11
+>> r0D35A4 |  | うらわで１０
+   EN: Never odd 10
+>> r0D35B4 |  | テストテキ９
+   EN: Test text 9
+>> r0D35C4 |  | たけやぶや８
+   EN: Step on no 8
+>> r0D35D4 |  | テストテキ７
+   EN: Test text 7
+>> r0D35E4 |  | 東京特許許６
+   EN: Toy boat 6
+>> r0D35F4 |  | テストメニ５
+   EN: Test menu 5
+>> r0D3604 |  | 隣の客はよ４
+   EN: She sells 4
+>> r0D3614 |  | 描画項目３　
+   EN: Draw item 3
+>> r0D3624 |  | 生麦生生卵２
+   EN: Red lorry 2
+>> r0D3634 |  | テストスト１
+   EN: Test str 1
+>> r0D3644 |  | [1B][5B]4;0a[1B][5B]1;0;14mテストテキスト描画 メニュー項目５　
+   EN: [1B][5B]4;0a[1B][5B]1;0;14mTest text Menu item 5
+>> r0D3678 |  | [1B][5B]2J[1B][5B]2wテストテキスト描画メニュー項目１[1B][5B]10e /  [0A][1B][5B]16;16s[1B][5B]2;2a[1B][5B]3;0;0;2m生麦生米生卵メニュー項目２[1B][5B]12;12s /  [0A][1B][5B]12;12sテストテキスト[1B][5B]3;0;14m描画 メニュー項目３[1B][5B]11e /  [0A]隣の客はよく柿[1B][5B]2m メニュー項目４
+   EN: [1B][5B]2J[1B][5B]2wTest text Menu item 1[1B][5B]10e  [0A][1B][5B]16;16s[1B][5B]2;2a[1B][5B]3;0;0;2mRed lorry yellow lorry Menu item 2[1B][5B]12;12s  [0A][1B][5B]12;12sTest text[1B][5B]3;0;14m draw Menu item 3[1B][5B]11e  [0A]She sells seashells[1B][5B]2m Menu item 4
+>> r0D38A4 |  | これにて終了なり　 項目２５
+   EN: That's all Item 25
+>> r0D38C0 |  | テストテキスト描画 項目２４
+   EN: Test text Item 24
+>> r0D38DC |  | ただいまマイクのテ 項目２３
+   EN: Mic test Item 23
+>> r0D38F8 |  | テストテキスト描画 項目２２
+   EN: Test text Item 22
+>> r0D3914 |  | 本日は晴天なり　　 項目２１
+   EN: Fine today Item 21
+>> r0D3930 |  | これにて終了なり　 項目２０
+   EN: That's all Item 20
+>> r0D394C |  | テストテキスト描画 項目１９
+   EN: Test text Item 19
+>> r0D3968 |  | ただいまマイクのテ 項目１８
+   EN: Mic test Item 18
+>> r0D3984 |  | テストテキスト描画 項目１７
+   EN: Test text Item 17
+>> r0D39A0 |  | 本日は晴天なり　　 項目１６
+   EN: Fine today Item 16
+>> r0D39BC |  | テストテキスト描画 項目１５
+   EN: Test text Item 15
+>> r0D39D8 |  | さくらくさ　　　　 項目１４
+   EN: Racecar Item 14
+>> r0D39F4 |  | テストテキスト描画 項目１３
+   EN: Test text Item 13
+>> r0D3A10 |  | しんぶんし　　　　 項目１２
+   EN: Kayak Item 12
+>> r0D3A2C |  | テストテキスト描画 項目１１
+   EN: Test text Item 11
+>> r0D3A48 |  | うらわでわらう　　 項目１０
+   EN: Never odd or even Item 10
+>> r0D3A64 |  | テストテキスト描画 項目９　
+   EN: Test text Item 9
+>> r0D3A80 |  | たけやぶやけた　　 項目８　
+   EN: Step on no pets Item 8
+>> r0D3A9C |  | テストテキスト描画 項目７　
+   EN: Test text Item 7
+>> r0D3AB8 |  | 東京特許許可局　　 項目６　
+   EN: Toy boat toy boat Item 6
+>> r0D3AD4 |  | テストテキスト描画 項目５　
+   EN: Test text Item 5
+>> r0D3AF0 |  | 隣の客はよく柿　　 項目４　
+   EN: She sells seashells Item 4
+>> r0D3B0C |  | テストテキスト描画 項目３　
+   EN: Test text Item 3
+>> r0D3B28 |  | 生麦生米生卵　　　 項目２　
+   EN: Red lorry yellow Item 2
+>> r0D3B44 |  | テストテキスト描画 項目１　
+   EN: Test text Item 1
+>> r0D3B60 |  | スプライトの表示をするテスト
+   EN: Sprite display test
+>> r0D3B80 |  | と
+   EN: and
+>> r0D3B84 |  | 全セーブデータを消しました[0A]
+   EN: All save data erased.[0A]
+>> r0D3BA0 |  | 　本当に消しますか？　　　　[0A]　　　[0A]　　　はい　　いいえ[0A]　
+   EN:  Really erase it?[0A]   [0A]            Yes          No[0A]
+>> r0D3BDC |  | 全セーブデータを消しますか？[0A]　　　[0A]　　　はい　　いいえ[0A]　
+   EN: Erase all save data?[0A]   [0A]            Yes          No[0A]
+>> r0D3C18 |  | ⑱ダイナミック企画[0A]⑱ＢＡＮＰＲＥＳＯＦＴ[0A]⑱ＢＡＮＰＲＥＳＴＯ ２００３
+   EN: (C)DYNAMIC PLANNING[0A](C)BANPRESOFT[0A](C)BANPRESTO 2003
+>> r0D3C60 |  | ロードしますか？　　[0A]　はい　　いいえ
+   EN: Load this data?[0A]    Yes          No
+>> r0D3C88 |  | セーブしました[0A]
+   EN: Game saved.[0A]
+>> r0D3C98 |  | 前のデータは消さ[0A]れます[0A]上書きしますか？[0A]　はい　　いいえ
+   EN: Old data will be[0A]erased.[0A]Overwrite it?[0A]    Yes          No
+>> r0D3CD4 |  | データがあり[0A]ません
+   EN: No save[0A]data.
+>> r0D3CE8 |  | 書き込みエラー[0A]
+   EN: Write error![0A]
+>> r0D3D08 |  | １２３４５６７８
+   EN: 12345678
+>> r0D3D1C |  | デビルマン１
+   EN: Devilman 1
+>> r0D3D2C |  | ゆみ１２３４
+   EN: Yumi1234
+>> r0D3D3C |  | カブト１２３
+   EN: Kabuto123
+>> r0D3D4C |  | はずす
+   EN: Remove
+>> r0D3D54 |  | １２３４５６７８９
+   EN: 123456789
+>> r0D3D68 |  | 次のレベルまであと
+   EN: To next level
+>> r0D3D7C |  | １２３４５６
+   EN: 123456
+>> r0D3D8C |  | ０１２３４５６７８９１２３４５６７
+   EN: 01234567891234567
+>> r0D3DB0 |  | 　Ｐ技　
+   EN:  P Skill
+>> r0D3DBC |  | 　中技　０１２３４５６７
+   EN:  Mid Skill 01234567
+>> r0D3DD8 |  | 　大技　０１２３４５６７
+   EN:  Big Skill 01234567
+>> r0D3DF4 |  | フリー
+   EN: Free
+>> r0D3DFC |  | レベル不足
+   EN: Low level
+>> r0D3E0C |  | 取消してよろしいですか？[0A]　　[0A]　はい　　　　いいえ[0A]　
+   EN: Really cancel?[0A]  [0A]    Yes                  No[0A]
+>> r0D3E44 |  | これでよろしいですか？[0A]　　　[0A]　はい　　　　いいえ[0A]　
+   EN: Is this OK?[0A]   [0A]    Yes                  No[0A]
+>> r0D3E7C |  | 取消してよろしいですか？[0A]　　[0A]　　はい　　いいえ[0A]　
+   EN: Really cancel?[0A]  [0A]        Yes          No[0A]
+>> r0D3EB0 |  | これでよろしいですか？[0A]　　　[0A]　　はい　　いいえ[0A]　
+   EN: Is this OK?[0A]   [0A]        Yes          No[0A]
+>> r0D3EE4 |  | やめる
+   EN: Exit
+>> r0D3EEC |  | 売る
+   EN: Sell
+>> r0D3EF4 |  | 買う
+   EN: Buy
+>> r0D3EFC |  | アイテムをせいとん
+   EN: Sort items
+>> r0D3F10 |  | アイテムをすてる
+   EN: Discard item
+>> r0D3F24 |  | アイテムをつかう
+   EN: Use item
+>> r0D3F40 |  | ＥＸＩＴ
+   EN: EXIT
+>> r0D3F4C |  | ＴＩＴＬＥ
+   EN: TITLE
+>> r0D3F58 |  | ＮＡＭＥＳＵＢ
+   EN: NAMESUB
+>> r0D3F68 |  | ＮＡＭＥ
+   EN: NAME
+>> r0D3F74 |  | ＬＯＡＤ
+   EN: LOAD
+>> r0D3F80 |  | ＳＡＶＥ
+   EN: SAVE
+>> r0D3F8C |  | ＩＴＥＭ
+   EN: ITEM
+>> r0D3F98 |  | ＳＴＡＴＵＳ
+   EN: STATUS
+>> r0D3FA8 |  | ＢＯＯＫ
+   EN: BOOK
+>> r0D3FB4 |  | ＣＲＯＰ
+   EN: CROP
+>> r0D3FC0 |  | ＰＡＲＴＹ
+   EN: PARTY
+>> r0D3FCC |  | テスト1
+   EN: Test 1
+>> r0D3FD8 |  | ＭＣＲＯＰ
+   EN: MCROP
+>> r0D3FE4 |  | ＳＰＡＲＴＹ
+   EN: SPARTY
+>> r0D3FF4 |  | ＳＨＯＰ
+   EN: SHOP
+   ctx r0D4000 |  | ＢＳＥＬ
+   ctx EN: BSEL
+   ctx r0D400C |  | ＴＯＰ
+   ctx EN: TOP

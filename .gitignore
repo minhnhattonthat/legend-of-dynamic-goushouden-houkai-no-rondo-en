@@ -2,6 +2,10 @@
 /build/
 /work/*
 !/work/tl/
+!/work/qa/
+/work/qa/*
+!/work/qa/review/
+/work/qa/review/reports/*.log
 /dist/
 /release/
 .venv/

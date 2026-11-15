@@ -1,0 +1,206 @@
+   ctx r0CFFE8 |  | 階
+   ctx EN: F
+   ctx r0CFFF0 |  | ゲッターで飛ぶ
+   ctx EN: Fly in Getter
+>> r0D0000 |  | マジンガーＺで飛ぶ
+   EN: Fly in Mazinger Z
+>> r0D0014 |  | ロボットから降りる
+   EN: Leave the robot
+>> r0D0028 |  | ロボットに乗る
+   EN: Board the robot
+>> r0D0038 |  | 戻る
+   EN: Back
+>> r0D00BC |  | 「
+   EN: "
+>> r0D00C0 |  | 」[0A]
+   EN: "[0A]
+>> r0D00C4 |  | 個
+   EN: pcs
+>> r0D00C8 |  | [0A]バトラー「マジンガーＺ」が[0A]アソートに加わった
+   EN: [0A]Battler "Mazinger Z"[0A]joined the party.
+>> r0D00F8 |  | [0A]バトラー「ゲッターロボ」が[0A]アソートに加わった
+   EN: [0A]Battler "Getter Robo"[0A]joined the party.
+>> r0D0128 |  | [0A]セーブする[0A]セーブしない
+   EN: [0A]Save[0A]Don't save
+>> r0D0144 |  | [0A]パートナー「飛鳥了」が[0A]アソートに加わった
+   EN: [0A]Partner "Ryo Asuka"[0A]joined the party.
+>> r0D0170 |  | [0A]パートナー「サイコジェニー」が[0A]アソートに加わった
+   EN: [0A]Partner "Psycho Jenny"[0A]joined the party.
+>> r0D01A4 |  | [0A]パートナー「閻魔大王」が[0A]アソートに加わった
+   EN: [0A]Partner "Great King Enma"[0A]joined the party.
+>> r0D01D4 |  | [0A]パートナー「早乙女博士」が[0A]アソートに加わった
+   EN: [0A]Partner "Dr. Saotome"[0A]joined the party.
+>> r0D0204 |  | [0A]パートナー「早見青児」が[0A]アソートに加わった
+   EN: [0A]Partner "Seiji Hayami"[0A]joined the party.
+>> r0D0234 |  | [0A]ろうやのかぎ を[0A]手に入れた
+   EN: [0A]Got the[0A]Jail Key!
+>> r0D0250 |  | [0A]ろうやのかぎ を使った
+   EN: [0A]Used the Jail Key.
+>> r0D0268 |  | [0A]不動明と 一緒に行く[0A]如月ハニーと 一緒に行く
+   EN: [0A]Go with Akira Fudo[0A]Go with Honey Kisaragi
+>> r0D0298 |  | [0A]はい[0A]いいえ
+   EN: [0A]Yes[0A]No
+>> r0D02A8 |  | [0A]バトラー「如月ハニー」が[0A]アソートに加わった
+   EN: [0A]Battler "Honey Kisaragi"[0A]joined the party.
+>> r0D02D8 |  | [0A]バトラー「不動明」が[0A]アソートに加わった
+   EN: [0A]Battler "Akira Fudo"[0A]joined the party.
+>> r0D0304 |  | [0A]バトラー「ジャック」が[0A]アソートに加わった
+   EN: [0A]Battler "Jack"[0A]joined the party.
+>> r0D0330 |  | [0A]パートナー「逞馬竜」が[0A]アソートに加わった
+   EN: [0A]Partner "Ryu Takuma"[0A]joined the party.
+>> r0D035C |  | [0A]パートナー「早乙女門土」が[0A]アソートに加わった
+   EN: [0A]Partner "Mondo Saotome"[0A]joined the party.
+>> r0D038C |  | [0A]パートナー「身堂竜馬」が[0A]アソートに加わった
+   EN: [0A]Partner "Ryoma Shindo"[0A]joined the party.
+>> r0D03BC |  | [0A]バトラー「スラムキング」が[0A]アソートに加わった
+   EN: [0A]Battler "Slum King"[0A]joined the party.
+>> r0D03EC |  | [0A]パートナー「スラムクィーン」が[0A]アソートに加わった
+   EN: [0A]Partner "Slum Queen"[0A]joined the party.
+>> r0D0420 |  | [0A]バトラー「柳生十兵衛みつ子」が[0A]アソートメンバーから外れた
+   EN: [0A]Battler "Jubei Mitsuko Yagyu"[0A]left the party.
+>> r0D045C |  | [0A]パートナー「山岸八十八」が[0A]アソートに加わった
+   EN: [0A]Partner "Yasoya Yamagishi"[0A]joined the party.
+>> r0D048C |  | [0A]パートナー「袋小路」が[0A]アソートに加わった
+   EN: [0A]Partner "Fukurokoji"[0A]joined the party.
+>> r0D04B8 |  | [0A]そうこのかぎ を[0A]手に入れた
+   EN: [0A]Got the[0A]Storeroom Key!
+>> r0D04D4 |  | [0A]バトラー「悪馬尻菊の助」が[0A]アソートに加わった
+   EN: [0A]Battler "Kikunosuke Abashiri"[0A]joined the party
+>> r0D0504 |  | [0A]パートナー「女蛮子」が[0A]アソートに加わった
+   EN: [0A]Partner "Banji Suke"[0A]joined the party.
+>> r0D0530 |  | [0A]パートナー「男男子」が[0A]アソートに加わった
+   EN: [0A]Partner "Danshi Otoko"[0A]joined the party.
+>> r0D055C |  | [0A]パートナー「女蛮千代」が[0A]アソートに加わった
+   EN: [0A]Partner "Banchiyo Suke"[0A]joined the party.
+>> r0D058C |  | [0A]地下室のかぎ を使った
+   EN: [0A]Used the Basement Key.
+>> r0D05A4 |  | [0A]地下室のかぎ を[0A]手に入れた
+   EN: [0A]Got the[0A]Basement Key!
+>> r0D05C0 |  | [0A]バトラー「けっこう仮面」が[0A]アソートに加わった
+   EN: [0A]Battler "Kekko Kamen"[0A]joined the party.
+>> r0D05F0 |  | [0A]バトラー「ヒゲゴジラ」が[0A]アソートに加わった
+   EN: [0A]Battler "Higegodzilla"[0A]joined the party.
+>> r0D0620 |  | [0A]バトラー「柳生十兵衛みつ子」が[0A]アソートに加わった
+   EN: [0A]Battler "Jubei Mitsuko Yagyu"[0A]joined the party.
+>> r0D0654 |  | [0A]そうこのかぎ を使った
+   EN: [0A]Used the Storeroom Key
+>> r0D066C |  | [0A]パートナー「悪馬尻駄ヱ門」が[0A]アソートに加わった
+   EN: [0A]Partner "Daemon Abashiri"[0A]joined the party.
+>> r0D06A0 |  | [0A]パートナー「悪馬尻五ヱ門」が[0A]アソートに加わった
+   EN: [0A]Partner "Goemon Abashiri"[0A]joined the party.
+>> r0D06D4 |  | [0A]パートナー「悪馬尻直次郎」が[0A]アソートに加わった
+   EN: [0A]Partner "Naojiro Abashiri"[0A]joined the party.
+>> r0D0708 |  | [0A]パートナー「悪馬尻吉三」が[0A]アソートに加わった
+   EN: [0A]Partner "Kichiza Abashiri"[0A]joined the party.
+>> r0D0738 |  | [0A]バトラー「えん魔くん」が[0A]アソートに加わった
+   EN: [0A]Battler "Enma-kun"[0A]joined the party.
+>> r0D0768 |  | [0A]パートナー「雪子姫」が[0A]アソートに加わった
+   EN: [0A]Partner "Princess Yukiko"[0A]joined the party
+>> r0D0794 |  | [0A]パートナー「カパエル」が[0A]アソートに加わった
+   EN: [0A]Partner "Kapaeru"[0A]joined the party.
+>> r0D07C4 |  | [0A]バトラー「兜甲児」が[0A]アソートに加わった
+   EN: [0A]Battler "Koji Kabuto"[0A]joined the party.
+>> r0D07F0 |  | [0A]バトラー「如月ハニー」が[0A]アソートメンバーから外れた
+   EN: [0A]Battler "Honey Kisaragi"[0A]left the party.
+>> r0D0828 |  | [0A]パートナー「早見青児」が[0A]アソートメンバーから外れた
+   EN: [0A]Partner "Seiji Hayami"[0A]left the party.
+>> r0D0860 |  | [0A]バトラー「不動明」が[0A]アソートメンバーから外れた
+   EN: [0A]Battler "Akira Fudo"[0A]left the party.
+>> r0D0894 |  | [0A]パートナー「飛鳥了」が[0A]アソートメンバーから外れた
+   EN: [0A]Partner "Ryo Asuka"[0A]left the party.
+>> r0D08C8 |  | [0A]バトラー「手天童子郎」が[0A]アソートに加わった
+   EN: [0A]Battler "Jiro Shutendo"[0A]joined the party.
+>> r0D08F8 |  | [0A]パートナー「護鬼」が[0A]アソートに加わった
+   EN: [0A]Partner "Goki"[0A]joined the party.
+>> r0D0924 |  | [0A]パートナー「戦鬼」が[0A]アソートに加わった
+   EN: [0A]Partner "Senki"[0A]joined the party.
+>> r0D0950 |  | [0A]パートナー「白鳥美雪」が[0A]アソートに加わった
+   EN: [0A]Partner "Miyuki Shiratori"[0A]joined the party.
+>> r0D0980 |  | [0A]バトラー「鬼谷妖次郎」が[0A]アソートに加わった
+   EN: [0A]Battler "Yojiro Kitani"[0A]joined the party.
+>> r0D09B0 |  | [0A]パートナー「魔動鬼」が[0A]アソートに加わった
+   EN: [0A]Partner "Madoki"[0A]joined the party.
+>> r0D09DC |  | [0A]バトラー「弓さやか」が[0A]アソートに加わった
+   EN: [0A]Battler "Sayaka Yumi"[0A]joined the party.
+>> r0D0A08 |  | [0A]バトラー「ボス」が[0A]アソートに加わった
+   EN: [0A]Battler "Boss"[0A]joined the party.
+>> r0D0A30 |  | [0A]パートナー「ムチャ」が[0A]アソートに加わった
+   EN: [0A]Partner "Mucha"[0A]joined the party.
+>> r0D0A5C |  | [0A]パートナー「ヌケ」が[0A]アソートに加わった
+   EN: [0A]Partner "Nuke"[0A]joined the party.
+>> r0D0A88 |  | [0A]バトラー「アフロダイＡ」が[0A]アソートに加わった
+   EN: [0A]Battler "Aphrodite A"[0A]joined the party.
+>> r0D0AB8 |  | [0A]バトラー「ボスボロット」が[0A]アソートに加わった
+   EN: [0A]Battler "Boss Borot"[0A]joined the party.
+>> r0D0AE8 |  | [0A]セーブする[0A]セーブしない
+   EN: [0A]Save[0A]Don't save
+>> r0D0B04 |  | [0A]シャッターが開いた
+   EN: [0A]Shutter opened!
+>> r0D0B18 |  | [0A]パートナー「あしゅら男爵」が[0A]アソートに加わった
+   EN: [0A]Partner "Baron Ashura"[0A]joined the party.
+>> r0D0B4C |  | [0A]バトラー「摩可キッカイ」が[0A]アソートに加わった
+   EN: [0A]Battler "Kikkai Maka"[0A]joined the party.
+>> r0D0B7C |  | [0A]パートナー「摩呵フユカイ」が[0A]アソートに加わった
+   EN: [0A]Partner "Fuyukai Maka"[0A]joined the party.
+>> r0D0BB0 |  | [0A]パートナー「美剣千草」が[0A]アソートメンバーから外れた
+   EN: [0A]Partner "Chigusa Mitsurugi"[0A]left the party.
+>> r0D0BE8 |  | [0A]バトラー「瓜生麗」が[0A]アソートに加わった
+   EN: [0A]Battler "Rei Uryu"[0A]joined the party.
+>> r0D0C14 |  | [0A]パートナー「雪代小百合」が[0A]アソートに加わった
+   EN: [0A]Partner "Sayuri Yukishiro"[0A]joined the party.
+>> r0D0C44 |  | [0A]巨大兵器 を[0A]手に入れた
+   EN: [0A]Got the[0A]Giant Weapon!
+>> r0D0C5C |  | [0A]食べ物を 渡す[0A]食べ物を 渡さない
+   EN: [0A]Give food[0A]Don't give food
+>> r0D0C80 |  | [0A]パートナー「ドクター・ポチ」が[0A]アソートに加わった
+   EN: [0A]Partner "Doctor Pochi"[0A]joined the party.
+>> r0D0CB4 |  | [0A]パートナー「アルフォンヌ」が[0A]アソートに加わった
+   EN: [0A]Partner "Alphonne"[0A]joined the party.
+>> r0D0CE8 |  | [0A]バトラー「朱紗真悟」が[0A]アソートメンバーから外れた
+   EN: [0A]Battler "Shingo Shusha"[0A]left the party.
+>> r0D0D1C |  | [0A]バトラー「流竜馬」が[0A]アソートに加わった
+   EN: [0A]Battler "Ryoma Nagare"[0A]joined the party.
+>> r0D0D48 |  | [0A]パートナー「神隼人」が[0A]アソートに加わった
+   EN: [0A]Partner "Hayato Jin"[0A]joined the party.
+>> r0D0D74 |  | [0A]パートナー「巴武蔵」が[0A]アソートに加わった
+   EN: [0A]Partner "Musashi Tomoe"[0A]joined the party.
+>> r0D0DA0 |  | [0A]バトラー「来留間慎一」が[0A]アソートに加わった
+   EN: [0A]Battler "Shinichi Kuruma"[0A]joined the party.
+>> r0D0DD0 |  | [0A]パートナー「天外富三郎」が[0A]アソートに加わった
+   EN: [0A]Partner "Tomisaburo Tengai"[0A]joined the party.
+>> r0D0E00 |  | [0A]パートナー「早乙女博士」が[0A]アソートに加わった
+   EN: [0A]Partner "Dr. Saotome"[0A]joined the party.
+>> r0D0E30 |  | [0A]はい[0A]いいえ
+   EN: [0A]Yes[0A]No
+>> r0D0E40 |  | [0A]バトラー「アイアンカイザー」が[0A]アソートに加わった
+   EN: [0A]Battler "Iron Kaiser"[0A]joined the party.
+>> r0D0E74 |  | [0A]パートナー「家早南友」が[0A]アソートに加わった
+   EN: [0A]Partner "Nantomo Iyahaya"[0A]joined the party.
+>> r0D0EA4 |  | [0A]パートナー「家早さよ子」が[0A]アソートに加わった
+   EN: [0A]Partner "Sayoko Iyahaya"[0A]joined the party.
+>> r0D0ED4 |  | [0A]バトラー「シスター・ジル」が[0A]アソートに加わった
+   EN: [0A]Battler "Sister Jill"[0A]joined the party.
+>> r0D0F08 |  | [0A]ＩＤカードＢ を使った
+   EN: [0A]Used ID Card B.
+>> r0D0F20 |  | [0A]ＩＤカードＢ を[0A]手に入れた
+   EN: [0A]Got the[0A]ID Card B!
+>> r0D0F3C |  | [0A]城門が開いた
+   EN: [0A]Gate opened!
+>> r0D0F4C |  | [0A]ＩＤカードＡ を使った
+   EN: [0A]Used ID Card A.
+>> r0D0F64 |  | [0A]ＩＤカードＡ を[0A]手に入れた
+   EN: [0A]Got the[0A]ID Card A!
+>> r0D0F80 |  | [0A]セキュリティ装置が停止した
+   EN: [0A]Security system disabled.
+>> r0D0F9C |  | [0A]ＩＤカードＣ を使った
+   EN: [0A]Used ID Card C.
+>> r0D0FB4 |  | [0A]ＩＤカードＣ を[0A]手に入れた
+   EN: [0A]Got the[0A]ID Card C!
+>> r0D0FD0 |  | [0A]地下すいろのかぎ を[0A]手に入れた
+   EN: [0A]Got the[0A]Waterway Key!
+>> r0D0FF0 |  | [0A]地下すいろのかぎ を[0A]使った
+   EN: [0A]Used the[0A]Waterway Key.
+   ctx r0D100C |  | [0A]バトラー「朱紗真悟」が[0A]アソートに加わった
+   ctx EN: [0A]Battler "Shingo Shusha"[0A]joined the party.
+   ctx r0D1038 |  | [0A]パートナー「美剣千草」が[0A]アソートに加わった
+   ctx EN: [0A]Partner "Chigusa Mitsurugi"[0A]joined the party.

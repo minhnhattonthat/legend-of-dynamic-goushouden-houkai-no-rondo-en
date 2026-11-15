@@ -1,0 +1,4 @@
+MINOR | 03.50 | ジャックとキングか！ 上等だ… ヘッ 上等すぎるぜ！ | "Way more than a fight" obscures Mondo's awed enthusiasm for the matchup. | Jack versus the King! Now that's a matchup... Heh, one hell of a matchup!
+MINOR | 03.59 | なんて酷い 揺れ方だ！ | "What a horrible shake" sounds unnatural for someone caught in an earthquake. | It's shaking like crazy!
+MINOR | 03.82 | あたし達だって 大きなピンチを乗り切ったんだから！ | "Made it through a big pinch" is an awkward literal rendering. | Don't worry, {p}. I'm sure {s} is fine. We made it out of a pretty tight spot ourselves, after all!
+ASSESSMENT | b004 | Approved | The translation preserves meaning and character voices, with only a few wording improvements needed.

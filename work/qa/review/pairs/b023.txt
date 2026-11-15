@@ -1,0 +1,208 @@
+   ctx 21.98 | Seiji Hayami | ハニーだって / 次元連鎖の被害者なんだぜ？ / もしも次元連鎖が起こらなかったら / ハニーのパパだって…
+   ctx EN: Honey's a victim of the Dimension Chain too, y'know? If the Dimension Chain had never happened, Honey's papa would still...
+   ctx 21.99 | {p} | …！！
+   ctx EN: ...!!
+>> 22.00 | Honey Kisaragi | あたしだって こんな世界… / イヤなの！
+   EN: I hate this world too...! I hate it!
+>> 22.01 | {p} | ハニー…
+   EN: Honey...
+>> 22.02 | Koji Kabuto | ホバーセット！ / パイルダー オーン！
+   EN: Hover set! Pilder ON!
+>> 22.03 | Koji Kabuto | スクランダー！ / クロース！
+   EN: Scrander! CROSS!
+>> 22.04 | Koji Kabuto | アレは…海底要塞サルード？ /  / でも 様子がおかしい… / 調べてみよう
+   EN: Is that... the undersea fortress Saluud?  But something's off... Let's check it out.
+>> 22.05 | Koji Kabuto | 行ってみよう！
+   EN: Let's go see!
+>> 22.06 | Koji Kabuto | 海底要塞サルードに / 黒い物体が張りついている！
+   EN: Black things are stuck all over the undersea fortress Saluud!
+>> 22.07 | Koji Kabuto | 黒い物体が 機械獣を操って / サルードを攻撃しているのか？
+   EN: Are the black things controlling the Mechanical Beasts and attacking the Saluud?
+>> 22.08 | Ashura (Male) | むむ？ あれはマジンガーＺ！
+   EN: Hmm? That's Mazinger Z!
+>> 22.09 | Ashura (Female) | もしや この黒い物体は / マジンガーＺの新しい武器なの？
+   EN: Could these black things be Mazinger Z's new weapon?
+>> 22.10 | Koji Kabuto | 弓教授に 相談したほうが / 良さそうだ…
+   EN: Better talk it over with Professor Yumi...
+>> 22.11 | Researcher | 弓教授！ 甲児くんから / 無線が入っています
+   EN: Professor Yumi! There's a radio call from Koji-kun.
+>> 22.12 | Professor Yumi | こちら弓だ どうした？
+   EN: Yumi here. What is it?
+>> 22.13 | Koji Kabuto | {!R}黒い物体が 機械獣を操り / 海底要塞サルードを攻撃してます / {!R}弓教授… / 俺は どうしたらいいでしょう？
+   EN: {!R}Black things are controlling the Mechanical Beasts and attacking the undersea fortress Saluud. {!R}Professor Yumi... what should I do?
+>> 22.14 | Professor Yumi | う～む…
+   EN: Hmmm...
+>> 22.15 | Researcher | 共倒れを狙う… / って手もありますけど？
+   EN: We could always let them wipe each other out...?
+>> 22.16 | Professor Yumi | いや それは…いかん！ /  / 甲児君！ / サルードを助けるんだ！
+   EN: No, that... won't do!  Koji-kun! Save the Saluud!
+>> 22.17 | Koji Kabuto | {!R}ドクター・ヘルの / 味方をするんですか？
+   EN: {!R}You want me to side with Dr. Hell?
+>> 22.18 | Professor Yumi | 機械獣軍団も 黒い物体も / 確かに我々の敵だ / しかし 黒い物体は / 次元連鎖と関係が深い
+   EN: The Mechanical Beast army and the black things are both our enemies, certainly. But the black things are deeply tied to the Dimension Chain.
+>> 22.19 | Koji Kabuto | {!R}ドクターヘルは / 世界征服を狙ってるけど / {!R}次元連鎖は世界を破壊する危険性が / ある…ってことですね！
+   EN: {!R}So Dr. Hell's after world domination, {!R}but the Dimension Chain could destroy the world, right?
+>> 22.20 | Professor Yumi | そのとおりだ 甲児君！
+   EN: Exactly, Koji-kun!
+>> 22.21 | Koji Kabuto | {!R}解りました 教授！ / サルードを救援します！
+   EN: {!R}Understood, Professor! I'll go rescue the Saluud!
+>> 22.22 | Professor Yumi | うむ 頼むぞ！
+   EN: Good. I'm counting on you!
+>> 22.23 | Professor Yumi | 事態は ますます 複雑に / なっていく… なんとかせねば！
+   EN: Things just keep getting more complicated... I must do something!
+>> 22.24 | Koji Kabuto | あしゅら男爵！ / 不本意だが 味方するぜ！
+   EN: Baron Ashura! I don't like it, but I'm on your side!
+>> 22.25 | Ashura (Male) | ふざけるな！
+   EN: Don't be absurd!
+>> 22.26 | Ashura (Female) | この黒い物体は / おまえの仲間じゃないの！？
+   EN: Aren't these black things your friends!?
+>> 22.27 | Koji Kabuto | 話は後だ！ 死にたくなければ / 俺と共に戦え！
+   EN: Talk later! If you don't wanna die, fight with me!
+>> 22.28 | Ashura (Male) | 黙れ！ 誰が貴様などと…
+   EN: Silence! As if I'd ever
+>> 22.29 | Ashura (Female) | 手を組んで戦うものか！
+   EN: join hands with the likes of you!
+>> 22.30 | Ashura (Male) | ぐぐぅ…！
+   EN: Ngggh...!
+>> 22.31 | Ashura (Female) | 機械獣 どうしてなの！？
+   EN: Mechanical Beasts, why!?
+>> 22.32 | Koji Kabuto | ちっ！ 見ちゃいられないぜ！
+   EN: Tch! I can't just stand here and watch!
+>> 22.33 | Dr. Hell | 話はわかった 兜甲児よ /  / 魔王は 我らにとって / 共通の敵のようだ
+   EN: I understand, Koji Kabuto.  It seems the Demon King is a common enemy to us both.
+>> 22.34 | Koji Kabuto | さすがドクター・ヘル / 飲み込みが早いぜ
+   EN: Just what I'd expect from Dr. Hell. You catch on quick.
+>> 22.35 | Dr. Hell | 次元連鎖については / ワシも 気がついていた / 世界を滅ぼされてたまるか！
+   EN: I had noticed the Dimension Chain as well. I won't let the world be destroyed!
+>> 22.36 | Ashura (Female) | ええ～っ！
+   EN: Whaaat!
+>> 22.37 | Dr. Hell | ドクター・ヘルの命令に / 従えぬのか！？
+   EN: You would disobey the orders of Dr. Hell!?
+>> 22.38 | Ashura (Male) | けっして
+   EN: Never,
+>> 22.39 | Ashura (Female) | そんな…
+   EN: but...
+>> 22.40 | Dr. Hell | よいな あしゅら男爵 / 兜甲児と共に行き 戦うのだ！
+   EN: Understood, Baron Ashura? Go with Koji Kabuto and fight!
+>> 22.41 | Koji Kabuto | …！？
+   EN: ...!?
+>> 22.42 | Dr. Hell | だが兜甲児よ！ /  / この戦いが終わった時 再び我らは / 敵となることを忘れるな！
+   EN: But mark me, Koji Kabuto!  When this battle is over, we shall be enemies once more. Never forget it!
+>> 22.43 | Koji Kabuto | 当たり前だ！
+   EN: Of course!
+>> 22.44 | Dr. Hell | わっはっはっはっは…！
+   EN: Wahahahahaha...!
+>> 22.45 | Dr. Hell | 良いか ヤツらの戦力をスパイする / 絶好の機会だ！
+   EN: Listen, this is the perfect chance to spy on their forces!
+>> 22.46 | Ashura (Male) | なるほど…！
+   EN: I see...!
+>> 22.47 | Dr. Hell | 戦いが終わったら 今度こそ / マジンガーＺを奪ってくるのだ！
+   EN: Once the battle is over, this time you WILL steal Mazinger Z!
+>> 22.48 | Ashura (Female) | 素晴らしい策略ですわ！
+   EN: A marvelous scheme!
+>> 22.49 | Koji Kabuto | おまえら 何をヒソヒソ話てんだ？
+   EN: What are you guys whispering about?
+>> 22.50 | Ashura (Male) | こっちの話だ！
+   EN: Our own business!
+>> 22.51 | Ashura (Female) | 盗み聞きなんて失礼だわ！
+   EN: Eavesdropping is so rude!
+>> 22.52 | Dr. Hell | よせよせ！ / 昨日の敵は 今日の友じゃ！ / わっはっはっはっは…！
+   EN: Now, now! Yesterday's enemy is today's friend! Wahahahahaha...!
+>> 22.53 | Dr. Hell | あしゅら男爵よ！ おまえは / 兜甲児と共に行くのだ！
+   EN: Baron Ashura! You will go with Koji Kabuto!
+>> 22.54 | Honey Kisaragi | 元気を出して {p}！ / 弓教授のことだもの / {s}を / 見捨てたわけじゃないわ！
+   EN: Cheer up, {p}! This is Professor Yumi we're talking about. He hasn't abandoned {s}!
+>> 22.55 | Seiji Hayami | マンガだって ゲームだって / 奪われたヒロインを救って / ハッピーエンドだろ？ / きっと うまくいくさ！
+   EN: In manga and games, they always save the kidnapped heroine for a happy ending, right? It'll work out for sure!
+>> 22.56 | {p} | ふたりとも ありがとう…
+   EN: Thanks, you two...
+>> 22.57 | Seiji Hayami | 弓教授に会いに行こうか？ / 何か つかんだかも しれないし / 弓教授は このフロアの奥の部屋に / いるはずだよ
+   EN: Wanna go see Professor Yumi? He might've found something. He should be in the room at the back of this floor.
+>> 22.58 | Honey Kisaragi | 甲児くんも / 戻ってきてるかも しれないわ！
+   EN: Koji-kun might be back too!
+>> 22.59 | {p} | そうだね…
+   EN: Yeah...
+>> 22.60 | Controlled Person | 黒い物体に操られていた時 / 不思議な安心感を感じたのです / ２つのものが１つに ピッタリと / はまったような感じだった…
+   EN: While the black thing was controlling me, I felt a strange sense of peace. It was as if two things clicked perfectly into one...
+>> 22.61 | Controlled Person | 素晴らしい 上司やリーダーと / めぐり会えた… / そんな気持ちになったよ /  / だから僕には 外の連中が 魔王を / 信奉するのも わかるんだよね
+   EN: It felt like I'd met a wonderful boss or leader...  So I can understand why the people outside worship the Demon King.
+>> 22.62 | Controlled Person | 黒い物体に操られると / 意識は消えちまう… / だけど 強い使命感を感じたんだ
+   EN: When the black thing controls you, your mind goes blank... But I felt a strong sense of mission.
+>> 22.63 | Controlled Person | 何をしても すべて許される！ / って気になったさ / だから あんなに 暴力的に / なったんだと思うのさ
+   EN: I felt like anything I did would be forgiven! I think that's why I got so violent.
+>> 22.64 | Professor Yumi | それは 興味深い話だな… / いや 報告ありがとう
+   EN: That's interesting... Thank you for the report.
+>> 22.65 | Guard | それでは 失礼します！
+   EN: Then I'll be going!
+>> 22.66 | Professor Yumi | ちょうど いいところに来た / 新しい情報が入ったぞ
+   EN: You came at just the right time. New information has come in.
+>> 22.67 | Professor Yumi | さっき ガードマン君が / 知らせてくれたんだ / ちょっと ニュースを / 見てみたまえ
+   EN: Our guard-kun just told me. Take a look at the news.
+>> 22.68 | Announcer | {!R}黒い物体に操られ 魔王の声を / 聞いたと言う人々が / {!R}ある場所に集まり始めています！
+   EN: {!R}People who were controlled by black things and claim to have heard the Demon King's voice {!R}are beginning to gather in one place!
+>> 22.69 | {p} | 始まりの丘だ！
+   EN: It's the Hill of Beginnings!
+>> 22.70 | Announcer | {!R}この人達は この丘に / 祭壇を 築き始めました！ / {!R}無気味な像まで 作っています！
+   EN: {!R}These people have begun building an altar on this hill! {!R}They're even making an eerie statue!
+>> 22.71 | Seiji Hayami | 祭壇に 像？
+   EN: An altar and a statue?
+>> 22.72 | Announcer | {!R}魔王を信奉する人々が / 続々と集まってきています！
+   EN: {!R}People who worship the Demon King are gathering one after another!
+>> 22.73 | Professor Yumi | 人々は / {p}君が聞いた言葉と / 同じ言葉を / 口にしているそうだよ
+   EN: They say the people are saying the same words you heard, {p}-kun.
+>> 22.74 | {p} | 僕が聞いた言葉？
+   EN: The words I heard?
+>> 22.75 | Professor Yumi | 結合の時…
+   EN: The time of joining...
+>> 22.76 | Honey Kisaragi | より強い力…
+   EN: Greater power...
+>> 22.77 | Seiji Hayami | 野望の実現…
+   EN: Ambition realized...
+>> 22.78 | {p} | …………
+   EN: ............
+>> 22.79 | Professor Yumi | これが 意味していることは / ひとつ！
+   EN: This can only mean one thing!
+>> 22.80 | {p} | 魔王は まだ / 完全な力を得ていない…！
+   EN: The Demon King hasn't gained his full power yet...!
+>> 22.81 | Professor Yumi | 結合の時が 何を意味しているのか / 解らない / だが その時 / 魔王が 真の力を発揮する！
+   EN: I don't know what the time of joining means. But when it comes, the Demon King will unleash his true power!
+>> 22.82 | Honey Kisaragi | その前に… なんとかしなくちゃ！
+   EN: Before that happens... we have to do something!
+>> 22.83 | Professor Yumi | 我々も なんとか 戦力を / 拡充したいところだな / あしゅら男爵が / 仲間になったように…
+   EN: We'd like to build up our forces somehow too. The way Baron Ashura joined us...
+>> 22.84 | {p} | え～っ！？
+   EN: Whaaat!?
+>> 22.85 | Honey Kisaragi | いや～ん！
+   EN: Nooo!
+>> 22.86 | Seiji Hayami | そりゃ / ガセネタじゃないんですか？
+   EN: Isn't that just a bogus tip?
+>> 22.87 | Professor Yumi | ホントだとも！ 実は 黒い物体が / 海底要塞サルードを襲ったのだ
+   EN: It's true! The fact is, black things attacked the undersea fortress Saluud.
+>> 22.88 | Professor Yumi | そこで 黒い物体の脅威に / 対抗するため / しばらくの間 機械獣軍団と / 手を組むことになったのだ
+   EN: So, to counter the threat of the black things, we've joined hands with the Mechanical Beast army for the time being.
+>> 22.89 | Seiji Hayami | それは… 頼もしいというか / なんというか…
+   EN: Well, that's... reassuring, or... something...
+>> 22.90 | Honey Kisaragi | 複雑な気持ちよね /  / それだけ 黒い物体が 猛威を / 振るってる…ってことだもん
+   EN: It's complicated, isn't it?  It just shows how fierce the black things have gotten.
+>> 22.91 | {p} | でも これまで敵だった人達と / 仲間になれるチャンスかも！
+   EN: But maybe it's a chance to make friends with people who used to be enemies!
+>> 22.92 | Professor Yumi | 我々は 一致団結して / 困難に 立ち向かわねばならん！
+   EN: We must all stand united against this crisis!
+>> 22.93 | Professor Yumi | 弓弦之助です /  / そうですか 解りました
+   EN: Gennosuke Yumi speaking.  I see. Understood.
+>> 22.94 | Professor Yumi | 居住エリア周辺から / 暴徒を追い出したそうだ / 私は これから 会議があるので / これで失礼するよ
+   EN: They've driven the rioters out of the area around the residential area. I have a meeting now, so I'll excuse myself.
+>> 22.95 | Honey Kisaragi | あしゅら男爵が仲間って / びみょ～な感じよね
+   EN: Baron Ashura on our side... It's a weird feeling, huh?
+>> 22.96 | {p} | 外へ出るのは 弓教授に / 状況を 確認してからだ
+   EN: We'll go outside after we check the situation with Professor Yumi.
+>> 22.97 | {p} | 外へ出るのは 早乙女博士に / 状況を 確認してからだ
+   EN: We'll go outside after we check the situation with Dr. Saotome.
+>> 22.98 | Professor Yumi | 魔王は / {p}君を「再生の太陽」と / {s}君を「破壊の月」と / 呼ぶ / また 暴徒達は {p}君を / 魔王に差し出せといっている / これは 魔王が言う「結合の時」に / 関係あると思われる
+   EN: The Demon King calls {p}-kun the "Sun of rebirth" and {s}-kun the "Moon of destruction." And the rioters are saying to hand {p}-kun over to the Demon King. I believe this is connected to what the Demon King calls the "time of joining."
+>> 22.99 | Professor Yumi | 居住エリアからは 出ないことだ / もしも 君が魔王に捕らえられたら / 結合の時とやらが / 訪れてしまうかもしれない…
+   EN: Don't leave the residential area. If the Demon King captures you, this "time of joining" may come...
+   ctx 23.00 | Scientist | う～む… わからん…！
+   ctx EN: Hmmm... I can't make sense of it...!
+   ctx 23.01 | Scientist | 謎を解くのが科学者のつとめじゃ！ / まかせなさい！
+   ctx EN: Solving mysteries is a scientist's duty, I tell you! Leave it to me!

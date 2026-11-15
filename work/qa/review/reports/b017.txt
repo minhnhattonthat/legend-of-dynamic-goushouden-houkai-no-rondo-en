@@ -1,0 +1,3 @@
+IMPORTANT | 16.21 | "生命を賭して" means risking one's life | "At the cost of our lives" makes death a required sacrifice rather than a risk. | It is the Mitsurugi clan's destiny to risk our lives to stop Susano-oh!
+MINOR | 16.43 | ひどい！ ひど過ぎるわ！ | "Way too awful" sounds awkward and weakens her outrage. | That's horrible! How could you!
+ASSESSMENT | b017 | Needs fixes | Mitsurugi's declaration changes risking her life into sacrificing it; the rest is largely accurate and consistent.

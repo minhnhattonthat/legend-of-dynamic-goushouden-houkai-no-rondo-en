@@ -1,0 +1,208 @@
+   ctx 02.98 | {p} | 警察なら むしろ安心なんじゃ？
+   ctx EN: Isn't the police a good thing, though?
+   ctx 02.99 | Shopkeeper | あんたらは 何も知らんから / そんなことがいえるんだ
+   ctx EN: You only say that because you don't know anything.
+>> 03.00 | Mondo | そりゃそうか / 無法地帯の関東の警察が / ただの警察のわけが ないよな
+   EN: Figures. Cops in lawless Kanto ain't gonna be just ordinary cops.
+>> 03.01 | Ayuko's Father | ヤツらは 自分の好きなように / 警察権力を 行使してやがる / 法を守るふりをして / この町を 牛耳ってやがるんだ！
+   EN: Those bastards wield police power however they please! They pretend to uphold the law while they run this town!
+>> 03.02 | {p} | なんてヤツらだ！
+   EN: What scumbags!
+>> 03.03 | Mondo | 権威をカサにきてるぶん / ゴキブリより始末が悪いぜ！
+   EN: Hiding behind a badge makes 'em worse than cockroaches!
+>> 03.04 | Shopkeeper | おまけにヤツらは 強い！
+   EN: And on top of that, they're strong!
+>> 03.05 | {p} | ともかく 放っておくわけには / いかないよ！
+   EN: Anyway, we can't just leave things like this!
+>> 03.06 | Jack | 死神警察に 殺された者の呻きが / 聞こえる… / ヤツらをひとり残らず殺してくれ / と 風が ささやいている…
+   EN: I hear the groans of those the Reaper Police have killed... The wind whispers to me: kill them, every last one...
+>> 03.07 | {p} | ジャック…
+   EN: Jack...
+>> 03.08 | Mondo | 久々に 血が騒いできたぜ…
+   EN: Been a while since my blood got pumping like this...
+>> 03.09 | Honey Kisaragi | 死神警察 許さない！
+   EN: I won't forgive the Reaper Police!
+>> 03.10 | {p} | よし 行こう！
+   EN: All right, let's go!
+>> 03.11 | Ayuko | だ 誰？
+   EN: Wh-who's there?
+>> 03.12 | {p} | 助けに来たよ もう大丈夫！
+   EN: We came to rescue you. You're safe now!
+>> 03.13 | Ayuko's Father | あゆ子！
+   EN: Ayuko!
+>> 03.14 | Ayuko | パパ～！
+   EN: Papaaa!
+>> 03.15 | Ayuko's Father | あんた達 なんと お礼を / 言ったらいいやら…
+   EN: I don't know how I can ever thank you all...
+>> 03.16 | Ayuko's Father | そうだ こうしちゃいられない！ /  / 大変なんだ / ドラゴンが また現れたんだ！ / それも今度は スラムキングが / ドラゴンを率いている！
+   EN: Oh, right, there's no time for this!  We're in trouble! The Dragons are back! And this time the Slum King himself is leading them!
+>> 03.17 | Mondo | なんだって！？
+   EN: What!?
+>> 03.18 | {p} | あゆ子ちゃん達は ここにいて / 僕達で 何とかするしかない！
+   EN: Ayuko-chan, you two stay here. It's up to us to handle this!
+>> 03.19 | Mondo | ジャックとスラムキングの対決… /  / 関東の覇者が / この戦いで決まるかもしれない…
+   EN: Jack versus the Slum King...  This fight might decide who rules Kanto...
+>> 03.20 | {p} | ジャック…！？
+   EN: Jack...!?
+>> 03.21 | Jack | グオオオオオオオ！
+   EN: GRAAAAAAAH!
+>> 03.22 | Ayuko | 今度はスラムキング…？ / やっと助かったと思ったのに…
+   EN: Now it's the Slum King...? And I thought we were finally safe...
+>> 03.23 | Ayuko's Father | 大変なんだ / ドラゴンが また現れたんだ！ / それも今度は スラムキングが / ドラゴンを率いている！
+   EN: We're in trouble! The Dragons are back! And this time the Slum King himself is leading them!
+>> 03.24 | {p} | 助けに来たよ もう大丈夫 / 一緒に ここを出よう！
+   EN: We came to rescue you. You're safe now. Let's get out of here together!
+>> 03.25 | {p} | 君が あゆ子ちゃんかい？
+   EN: Are you Ayuko-chan?
+>> 03.26 | Ayuko | だ 誰！？ / 助けに来てくれたの？ / …でも 鍵がないと この扉は / 開かないわ / 鍵は 死神警察署の署長が / 持ってるの
+   EN: Wh-who's there!? Did you come to save me? ...But this door won't open without the key. The chief of the Reaper Police HQ has it.
+>> 03.27 | Ayuko | 鍵がないと この扉は 開かないわ /  / 鍵は 死神警察署の署長が / 持ってるの
+   EN: This door won't open without the key.  The chief of the Reaper Police HQ has it.
+>> 03.28 | Shinigami Police Chief | 何者だ…怪しいやつらめ！ / 牢屋に叩き込んでやる！！
+   EN: Who goes there... Suspicious punks! I'll throw you all in the slammer!!
+>> 03.29 | Ayuko's Father | 死神警察署の地下には / 牢屋があると聞いたことがある… / きっと あゆ子はそこに…
+   EN: I've heard there's a jail under the Reaper Police HQ... Ayuko must be down there...
+>> 03.30 | ??? | やっと逢えたね 如月ハニー / …というより / アンドロイド・キューティーハニー / と 呼んだほうが いいかな？
+   EN: We meet at last, Honey Kisaragi. ...Or should I say, the android Cutie Honey?
+>> 03.31 | Honey Kisaragi | だれ！？
+   EN: Who's there!?
+>> 03.32 | Sister Jill | パンサークロー日本支部長 / シスター・ジル / おまえにとって / 父の仇というところ / 如月邸襲撃を 命令したのは / この私なのだから…
+   EN: Sister Jill, head of Panther Claw's Japan branch. To you, I suppose, your father's killer. After all, I'm the one who ordered the attack on the Kisaragi mansion...
+>> 03.33 | Honey Kisaragi | そうか… おまえが…
+   EN: So... it was you...
+>> 03.34 | Sister Jill | 素直に 空中元素固定装置を / 渡せば 死なずに済んだものを… / バカなヤツ
+   EN: If he had just handed over the Airborne Element Fixer like a good boy, he wouldn't have had to die... The fool.
+>> 03.35 | {p} | ハニー！ / 落ち着いて！
+   EN: Honey! Calm down!
+>> 03.36 | Sister Jill | それにしても 如月博士とは / たいしたものだな / おまえを 追っているうち / 私達は / この地震後の世界に / 迷いこんでしまったようだ / いったい / どんな技術を 用いたのだ？
+   EN: Still, that Dr. Kisaragi was quite something. While we were chasing you, it seems we wandered into this post-quake world. Just what sort of technology did he use?
+>> 03.37 | Ryoma | ね～ね～ 門土 /  / ひょっとして このお姉さん / スラムキングとは関係ないの？
+   EN: Hey, hey, Mondo.  Could it be this lady's got nothing to do with the Slum King?
+>> 03.38 | Sister Jill | スラムキング？ 何の話だ？
+   EN: The Slum King? What are you talking about?
+>> 03.39 | Mondo | …みてーだな
+   EN: ...Looks that way.
+>> 03.40 | {p} | それじゃ / この人も 僕達みたいに…
+   EN: Then she's just like us...
+>> 03.41 | Sister Jill | ええい / 何を わけのわからんことを！ / 我々は 固定装置を探したが / どうしても見つからぬ！ / だが おまえの存在を知って / 気がついた！
+   EN: Bah! What nonsense are you babbling!? We searched for the Fixer, but we couldn't find it anywhere! But when we learned you existed, it dawned on us!
+>> 03.42 | Honey Kisaragi | ぎく！
+   EN: *Gulp!*
+>> 03.43 | Sister Jill | 如月博士は もっとも安全な / 金庫に 装置を隠したのでは…と / 娘の身体という金庫に… /  / 可哀想だが おまえの身体を / 調べさせてもらうよ！ / 解剖してね！
+   EN: Dr. Kisaragi must have hidden the device in the safest vault of all... the vault that is his daughter's body...  A pity, but I'll be examining your body! By dissecting it!
+>> 03.44 | Mondo | おっかねえ 女だな おい！
+   EN: Whoa, that's one scary dame!
+>> 03.45 | Honey Kisaragi | 父の仇 シスター・ジル！ /  / あたしが受けた 心の痛み / この剣で 思い知らせてやるわ！
+   EN: Sister Jill, my father's killer!  The pain you've put in my heart, I'll make you feel it with this sword!
+>> 03.46 | Sister Jill | 覚えておいで！
+   EN: You'll regret this!
+>> 03.47 | Jack | グオオオオオオオ！
+   EN: GRAAAAAAAH!
+>> 03.48 | Slum King | 斬馬刀！
+   EN: Zanbato!
+>> 03.49 | Ryoma | す すっげ～
+   EN: Wh-whoa, amaaazing...
+>> 03.50 | Mondo | ジャックとキングか！ 上等だ… / ヘッ 上等すぎるぜ！
+   EN: Jack and the King, huh! Now that's a fight... Heh, that's way more than a fight!
+>> 03.51 | Dragon | スラムキング様が ピンチだ！ / 助太刀するぞ！
+   EN: Slum King-sama is in trouble! To his aid!
+>> 03.52 | Honey Kisaragi | あたし達も ジャックに / 加勢するわよ！
+   EN: We'll help Jack too!
+>> 03.53 | Slum King | うぎゃ～！ /  / ぎゃ～！ うお～！！
+   EN: Gyaaah!  Aaargh! Whoaaa!!
+>> 03.54 | Slum Queen | か 代わりの面あてを… 早く！ /  / キングは / 強すぎる筋肉を押さえる為 / 強靭なヨロイを / 身につけているのよ！ / 急いで 面を！ / キングの頭が 割れるわ！！
+   EN: H-his spare mask... Quickly!  The King wears his sturdy armor to hold back his overpowered muscles! Hurry, the mask! His head will split open!!
+>> 03.55 | Jack | はっはっは！
+   EN: Hahaha!
+>> 03.56 | {p} | …！？ / ま また地震！？
+   EN: ...!? A-another earthquake!?
+>> 03.57 | Dragon | ひぃ～～～！！
+   EN: Eeeeeek!!
+>> 03.58 | Dragon | じ 地震だぁ～！！
+   EN: E-earthquaaake!!
+>> 03.59 | Seiji Hayami | なんて酷い 揺れ方だ！
+   EN: What a horrible shake!
+>> 03.60 | Ryoma | 門土！ なんとかしてよ！
+   EN: Mondo! Do something!
+>> 03.61 | Mondo | ムチャ言うな！
+   EN: Don't be stupid!
+>> 03.62 | {p} | もしかして / 関東地獄地震の再来…？
+   EN: Could this be... the Kanto Hellquake all over again...?
+>> 03.63 | Ayuko | 良かった！ / みんな無事だったのね！
+   EN: Thank goodness! You're all okay!
+>> 03.64 | {p} | あゆ子ちゃん！
+   EN: Ayuko-chan!
+>> 03.65 | Ayuko's Father | このたびは なんと お礼を / 申し上げたら 良いのやら…
+   EN: I truly don't know how to thank you for all this...
+>> 03.66 | Shopkeeper | あんた達は / 俺達の救世主だよ！
+   EN: You folks are our saviors!
+>> 03.67 | Seiji Hayami | さて…と それじゃ…
+   EN: Welp... Guess it's time...
+>> 03.68 | Honey Kisaragi | そうね そろそろ
+   EN: Yes, we'd better be going.
+>> 03.69 | Mondo | そういえば あんた達 / どこへ行くんだい？
+   EN: By the way, where are you guys headed?
+>> 03.70 | {p} | 実は…
+   EN: Actually...
+>> 03.71 | Jack | …共に行こう
+   EN: ...I'll go with you.
+>> 03.72 | {p} | ジャック？
+   EN: Jack?
+>> 03.73 | Seiji Hayami | あんたが来てくれるなら / 百人力だ！ / {p}の面倒は / ジャックにみてもらって / 俺は ハニーと二人っきりで… / うっしっしっし…
+   EN: With you along, we've got the strength of a hundred! Jack can babysit {p}, and I'll have Honey all to myself... Heh heh heh heh...
+>> 03.74 | Mondo | それなら 俺達も行こう
+   EN: Then we'll come too.
+>> 03.75 | Ryoma | 門土が行くなら 俺も！
+   EN: If Mondo's going, so am I!
+>> 03.76 | Seiji Hayami | あらら… せっかくの計画が…
+   EN: Aw, man... There goes my big plan...
+>> 03.77 | Honey Kisaragi | しょげかえっちゃって / どうしたの？
+   EN: What's got you so down in the dumps?
+>> 03.78 | Seiji Hayami | なんでもないよ / とほほ…
+   EN: Nothing at all... *sigh*...
+>> 03.79 | {p} | それじゃ 行こう！
+   EN: All right, let's go!
+>> 03.80 | Shopkeeper | え？ 山に続く道…？ / さぁねぇ / 俺は ひとつしか知らないなぁ…
+   EN: Huh? A road to the mountains...? Hmm, beats me. I only know of the one...
+>> 03.81 | {p} | {s}…
+   EN: {s}...
+>> 03.82 | Honey Kisaragi | 心配しないで {p} / きっと {s}は無事よ / あたし達だって 大きなピンチを / 乗り切ったんだから！
+   EN: Don't worry, {p}. I'm sure {s} is fine. We made it through a big pinch ourselves, after all!
+>> 03.83 | Shopkeeper | どうしたんだい？ / 元気が無いぞ？ / 腹が減ったなら いつでも / たらふく 食わせてやるぞ！
+   EN: What's the matter? You look down. If you're hungry, I'll feed you till you're stuffed, anytime!
+>> 03.84 | {p} | ありがとう おじさん
+   EN: Thanks, mister.
+>> 03.85 | Resident | 死神警察が滅んでも / きっと次の無法者が現れるさ
+   EN: Even with the Reaper Police gone, I bet the next bunch of outlaws will turn up.
+>> 03.86 | Resident | さっきの地震で / 寿命が 縮まっちまったよ
+   EN: That quake just now took years off my life.
+>> 03.87 | Resident | 俺も 家族に逢いたいよ… /  / かといって 関東大断層を / 泳いで渡るなんて 無理だし…
+   EN: I want to see my family too...  But there's no way I can swim across the Great Kanto Fault...
+>> 03.88 | Resident | あんた達かい？ あゆ子ちゃんを / 助け出したってのは！？ / いや～ たいしたもんだねぇ！ /  / 死神警察の西にある / 関所も開放されたらしいし / 俺らも少しは / 希望を持っていいってことかな
+   EN: So you're the ones who rescued Ayuko-chan!? Well, that's really something!  I hear the checkpoint west of the Reaper Police has been opened too. Maybe that means we can have a little hope.
+>> 03.89 | Ayuko | 皆さんと また 逢いたいな…
+   EN: I hope I get to see you all again...
+>> 03.90 | Mondo | ああ いつでもＯＫだぜ
+   EN: Sure, anytime's OK by me.
+>> 03.91 | Ryoma | もう 門土ったら！
+   EN: Oh, Mondo, honestly!
+>> 03.92 | Ayuko's Father | その節は お世話になりました /  / これからは 平和な暮らしが / 送れると いいのですが…
+   EN: Thank you for everything you did for us.  I only hope we can live in peace from now on...
+>> 03.93 | Ayuko | 門土さん… ポッ
+   EN: Mondo-san... *blush*
+>> 03.94 | Seiji Hayami | こいつは いいもん見つけたぞ！
+   EN: Now this is a lucky find!
+>> 03.95 | Honey Kisaragi | まだ動きそう？
+   EN: Do you think it still runs?
+>> 03.96 | Seiji Hayami | 大丈夫だと思う
+   EN: I think it'll be fine.
+>> 03.97 | Seiji Hayami | よし！ 動くぞ！
+   EN: All right! It's running!
+>> 03.98 | Honey Kisaragi | きゃ～！ / 青児君 すっご～い！
+   EN: Kyaaa! Seiji-kun, you're amaaazing!
+>> 03.99 | Seiji Hayami | いやぁ… えへへ…
+   EN: Aw, shucks... Heh heh...
+   ctx 04.00 | {p} | これなら みんな乗れるね！
+   ctx EN: Now we can all fit!
+   ctx 04.01 | Dragon | スラムキング様の 許可なく / この先へ進むことは許さん！
+   ctx EN: No one passes beyond here without Slum King-sama's permission!

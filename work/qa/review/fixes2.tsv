@@ -1,0 +1,12 @@
+# Review round 1, refit of book entries that fixes1 pushed past the 108-px book line. The JP keeps blank lines
+# 1-2, so the series title stays on one line: "Iyahaya Nantomo" is 112 px, cut to "Iyahaya" (book title cut, like
+# "Enma-kun"; restore if the book box is widened).
+B00.40	Shutendoji\n\n\nBorn suddenly in\nKigoku World.\nAn esper with\nthe Goma Sword.
+B00.88	Iyahaya\n\n\nA mystery boy,\namnesiac, taken\nin by Iyahayas.\nGodlike at times.
+B00.89	Iyahaya\n\n\nThe Iyahayas'\ngirl. Partner to\nNantomo. Rich,\ncold at times.
+B01.14	Harenchi Gakuen\n\n\nTeacher there.\nLike a parasol,\nweak if turned\ninside out.
+B01.16	Abashiri Family\n\n\nBuilt the Great\nEmpire army for\nrevenge. Uses\nmind control.
+B01.29	Iyahaya\n\n\nDoshita's big\nsister. Trains to\nkill in Sicily.\nWhip ace.
+B01.34	Violence\n      Jack\n\nA girl held by\nReaper Police.\nDebuted in\nHarenchi Gakuen
+B01.39	Iyahaya\n\n\nHatesate empire\nheir. Foe of the\nIyahayas, he\nharasses them.
+B01.40	Iyahaya\n\n\nDoshita's\nunderling. Plots\nto beat the\nIyahayas.

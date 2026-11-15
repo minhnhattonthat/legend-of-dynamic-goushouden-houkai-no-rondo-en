@@ -1,0 +1,208 @@
+   ctx 27.98 | Koji Kabuto | それから 俺の特製コロッケも / 食べてくれよな！
+   ctx EN: And you've gotta try my special croquettes too!
+   ctx 27.99 | {p} | コロッケ？
+   ctx EN: Croquettes?
+>> 28.00 | Sayaka | こう見えて 甲児君 / お料理 上手なのよ！
+   EN: He may not look it, but Koji-kun's a great cook!
+>> 28.01 | {p} | 楽しみだな！
+   EN: I can't wait!
+>> 28.02 | Koji Kabuto | 必ずだぜ！ 忘れるなよ！
+   EN: For sure! Don't forget!
+>> 28.03 | {p} | 忘れないよ 甲児君…
+   EN: I won't forget, Koji-kun...
+>> 28.04 | Jiro | 戦鬼と護鬼が / 戻る時だ…って言うんだ
+   EN: Senki and Goki say it's time to go back...
+>> 28.05 | Goki | 魔王にも 鬼獄界は / 操れなかったようです / 鬼獄界とは 誰かが作った / 内なる世界なのかもしれません
+   EN: It seems even the Demon King could not control the Kigoku World. Perhaps the Kigoku World is an inner world someone created.
+>> 28.06 | Jiro | どんな世界でも / いつか その謎を突き止めるさ！
+   EN: Whatever kind of world it is, someday I'll get to the bottom of its mystery!
+>> 28.07 | Goki | 私は 常に童子をお護りします
+   EN: I will always protect Doji.
+>> 28.08 | Senki | 俺は 常に戦い続ける…
+   EN: I will always keep fighting...
+>> 28.09 | {p} | あなた達がいれば / 子郎君も安心だね！
+   EN: With you two around, Jiro-kun will be fine!
+>> 28.10 | Miyuki | イヤよ！
+   EN: No!
+>> 28.11 | Miyuki | 元の世界に戻ったら 鬼獄界へ / 戻らなきゃならないんでしょ！ / 美雪はイヤよ / 子郎君の側を離れない！
+   EN: When we go back to our world, you'll have to go back to the Kigoku World, won't you! I won't have it! I won't leave Jiro-kun's side!
+>> 28.12 | Jiro | 大丈夫だよ / 決して 離れはしないから…
+   EN: It's all right. I'll never leave you...
+>> 28.13 | {p} | そうだよ！ たとえ / 世界が別々でも 想いは一緒さ！
+   EN: That's right! Even if your worlds are apart, your hearts are together!
+>> 28.14 | Miyuki | うん！ / ありがとう {p}君！
+   EN: Yes! Thank you, {p}-kun!
+>> 28.15 | {p} | ふたりとも おしあわせに！
+   EN: Be happy, you two!
+>> 28.16 | Boss | あばよ {p}！
+   EN: So long, {p}!
+>> 28.17 | Enma-kun | {p}！ / 楽しかったぜ あばよ！
+   EN: {p}! It was a blast. So long!
+>> 28.18 | {p} | えん魔くん… どうしたの？
+   EN: Enma-kun... What's wrong?
+>> 28.19 | Great King Enma | 涙を見せたくないのじゃよ
+   EN: He doesn't want you to see his tears, my boy.
+>> 28.20 | Kapaeru | あ ホントだ！ / 泣いてる！
+   EN: Oh, it's true! He's cryin'!
+>> 28.21 | Enma-kun | うるせ～！
+   EN: Shaddap!
+>> 28.22 | Enma-kun | 地獄別荘は / 人間界のどこへでも 行ける / 今度 おまえの学校に / 遊びに行くよ！
+   EN: Hell Villa can go anywhere in the human world. I'll come hang out at your school sometime!
+>> 28.23 | Princess Yukiko | 体育倉庫で 待ってるわ！
+   EN: We'll be waiting in the gym storeroom!
+>> 28.24 | {p} | うん！ 必ず行くよ！
+   EN: Yeah! I'll definitely come!
+>> 28.25 | Enma-kun | きっとだぜ！ 約束だぜ！
+   EN: For sure! It's a promise!
+>> 28.26 | {p} | 君達とは 助けたり / 助けられたりだったね！
+   EN: We sure took turns saving each other, didn't we!
+>> 28.27 | Fukurokoji | なかなか スリルが / ありましたよー
+   EN: It was quite the thrill!
+>> 28.28 | Yamagishi | なんだよ おまえ いつも / 俺の影に 隠れてたじゃん！
+   EN: What're you talkin' about, you were always hidin' behind me!
+>> 28.29 | Fukurokoji | オヤブン それは言いっこなし
+   EN: Boss, don't bring that up.
+>> 28.30 | Jubei | ともかく {p}君からは / 多くのことを学んだわ！ / あたしも 柳生忍者の末裔として / 見習わなくっちゃ！
+   EN: Anyway, I learned a lot from {p}-kun! As a descendant of the Yagyu ninja, I've got to follow his example!
+>> 28.31 | Yamagishi | 十兵衛は マジメだなぁ～！
+   EN: Jubei, you're so serious!
+>> 28.32 | Fukurokoji | 元の世界に戻ったら / また宿題が待ってるのかなー？
+   EN: When we get back to our world, I wonder if homework'll be waiting again?
+>> 28.33 | Yamagishi | そんな心配よりも ヒゲゴジラの / 苛め方 考えようぜ！ / イッヒッヒッヒ…！
+   EN: Never mind that, let's think up ways to pick on Higegodzilla! Ihhihhihhi...!
+>> 28.34 | {p} | あの人達は / 少しも変らなかったな / でも / それが なんか うれしいや！
+   EN: Those guys didn't change one bit. But somehow, that makes me happy!
+>> 28.35 | {p} | 門土さん 竜馬さん / いろいろありがとう！
+   EN: Mondo-san, Ryoma-san, thanks for everything!
+>> 28.36 | Mondo | 俺 帰りたくないんだよな…
+   EN: I don't really wanna go back...
+>> 28.37 | Ryoma | なんでさ 門土！？
+   EN: How come, Mondo!?
+>> 28.38 | Mondo | 魔王が死んで この世界 / 支配者が いないわけだろ？ / なら 俺が…
+   EN: With the Demon King dead, this world's got no ruler, right? So I could...
+>> 28.39 | Ryoma | まったくも～奪う相手がいなきゃ / つまらないくせにぃ～
+   EN: Oh, come ooon, you'd be bored without anybody to take it from!
+>> 28.40 | Mondo | 確かに そりゃそうだ！ / いいところに気づいたじゃん！
+   EN: Yeah, that's true! Good thinkin'!
+>> 28.41 | Ryoma | あたりまえじゃん！ / 相棒だぜ！
+   EN: Of course! I'm your partner!
+>> 28.42 | {p} | いいコンビだよね ふたりは！
+   EN: You two make a great team!
+>> 28.43 | Ryoma | そうさ！ / 死んでも離れないのよ～ン！
+   EN: That's right! We'll never part, not even in death, hmmm~!
+>> 28.44 | Mondo | おいおい…！
+   EN: Hey, hey...!
+>> 28.45 | Jack | …死んでも…か /  / もしかしたら 元の世界で / もっと 過酷な運命が / おまえ達を / 待っているかもしれんぞ…
+   EN: ...Not even in death, eh...  An even harsher fate may be awaiting you two back in your world...
+>> 28.46 | {p} | ジャックさん / たまには 笑いなよ…
+   EN: Jack-san, you should smile once in a while...
+>> 28.47 | Jack | ………！？
+   EN: .........!?
+>> 28.48 | {p} | ジャックさん / 怒らせちゃったかな…？
+   EN: Did I make Jack-san mad...?
+>> 28.49 | Akira Fudo | {s}が / こんなことになって 残念だよ
+   EN: I'm sorry it turned out like this with {s}.
+>> 28.50 | {p} | 明君…
+   EN: Akira-kun...
+>> 28.51 | Akira Fudo | もしも 再び同じようなことが / あったとしたら… / 次は 君と一緒に / 行ってみたいな / 違った運命が / 待っているかもしれない…
+   EN: If something like this ever happens again... next time I'd like to go with you. A different fate might be waiting...
+>> 28.52 | {p} | …そうだね /  / でも もうこんなのは / ゴメンだよ！
+   EN: ...Yeah.  But I've had enough of this kind of thing!
+>> 28.53 | Akira Fudo | それもそうだ！
+   EN: Fair enough!
+>> 28.54 | {p} | もしも再び…か / 冗談じゃないや！
+   EN: If it ever happens again, huh... No way!
+>> 28.55 | Honey Kisaragi | {p}君… / とうとう あたし達だけね…
+   EN: {p}-kun... It's finally just us...
+>> 28.56 | {p} | ハニー…
+   EN: Honey...
+>> 28.57 | Danbei | ハニーちゃん…
+   EN: Honey-chan...
+>> 28.58 | Seiji Hayami | 元気出せ…なんて 言えないよな
+   EN: I can't exactly tell you to cheer up...
+>> 28.59 | Honey Kisaragi | 大丈夫よ 青児君 /  / ハニーは 夏ちゃんのこと / 決して忘れないもん！ / だから… / だから {p}も…ね！
+   EN: It's okay, Seiji-kun.  Honey will never forget Natsu-chan! So... so you too, {p}... okay?
+>> 28.60 | {p} | 大丈夫 きっと 夏ちゃん / 無事だよ！
+   EN: It'll be okay. I'm sure Natsu-chan is safe!
+>> 28.61 | Honey Kisaragi | そうね {p}君！ /  / 夏ちゃん 元の世界に帰れば / きっと元気だよね！
+   EN: You're right, {p}-kun!  When I get back to my world, I'm sure Natsu-chan will be just fine!
+>> 28.62 | Seiji Hayami | そうさ！ {s}だって / 君を待ってるよ！
+   EN: That's right! And {s}'s waiting for you too!
+>> 28.63 | {p} | そうだよね 青児さん！
+   EN: That's right, Seiji-san!
+>> 28.64 | Honey Kisaragi | {p}君！
+   EN: {p}-kun!
+>> 28.65 | {p} | さよなら ハニー！
+   EN: Goodbye, Honey!
+>> 28.66 | Honey Kisaragi | バイバイ！ {p}君！ / さよなら！
+   EN: Bye-bye! {p}-kun! Goodbye!
+>> 28.67 | Honey Kisaragi | ここは…
+   EN: This is...
+>> 28.68 | Honey Kisaragi | どこも なんともない… / それじゃ あれは やっぱり…！
+   EN: Everything's perfectly fine... Then that really was...!
+>> 28.69 | Honey Kisaragi | あの世界で… / 夏ちゃんは…
+   EN: In that world... Natsu-chan...
+>> 28.70 | Honey Kisaragi | ハニーを守るため  / 火に焼かれて…
+   EN: burned in the fire to protect Honey...
+>> 28.71 | Natsuko Aki | ハニー！
+   EN: Honey!
+>> 28.72 | Honey Kisaragi | きゃっ！ / な 夏ちゃん！？
+   EN: Eek! N-Natsu-chan!?
+>> 28.73 | Natsuko Aki | なによぉ～ 幽霊でも見るような / 目で見てぇ～！ / ハニーの帰りが遅いから 心配に / なって 迎えにきたのにぃ～！
+   EN: What's with that look, like you're seeing a ghost!? Honey was so late getting back, I got worried and came to get you!
+>> 28.74 | Honey Kisaragi | ごめ～ん！ / 夏ちゃん 大好き！
+   EN: I'm sorryyy! Natsu-chan, I love you!
+>> 28.75 | Natsuko Aki | ちょっと どうしたの / ハニー！？
+   EN: Hey, what's gotten into you, Honey!?
+>> 28.76 | Honey Kisaragi | ごめん / しばらく このままでいさせて！
+   EN: Sorry. Just let me stay like this for a while!
+>> 28.77 | Natsuko Aki | ダメ！
+   EN: No!
+>> 28.78 | Natsuko Aki | 館主の ヒストラーが / 見回りにきちゃう / のんびりしてると / 見つかっちゃうよ！！ / ほら こっちこっち…！
+   EN: Histler, the dorm head, is coming on her rounds. If you dawdle, she'll catch us!! Come on, this way, this way...!
+>> 28.79 | Natsuko Aki | 早く 早くぅ～！
+   EN: Hurry, hurry!
+>> 28.80 | Honey Kisaragi | ありがと 夏ちゃん…
+   EN: Thanks, Natsu-chan...
+>> 28.81 | Natsuko Aki | ちょっと ハニー！ / どこ触ってるの！
+   EN: Hey, Honey! Where are you touching!
+>> 28.82 | Honey Kisaragi | うふふ！ / 夏ちゃんのお尻 かわいい～！
+   EN: Tee-hee! Natsu-chan, your butt is so cute!
+>> 28.83 | {p} | ごめんね {s}… /  / 僕は 君を 助けることが / 出来なかった…
+   EN: I'm sorry, {s}...  I couldn't save you...
+>> 28.84 | {p} | 元の世界って そんなにイヤな / ところだったのかな…
+   EN: Was our own world really such an awful place...
+>> 28.85 | {p} | この世界よりは ましだよ / だって… / ここには 君が いない！
+   EN: It's better than this world. Because... you're not here!
+>> 28.86 | {p} | ここは… / 見覚えが あるけど… / 本当に ここは / 元の世界なんだろうか…？
+   EN: This place... I recognize it, but... is this really our own world...?
+>> 28.87 | {p} | 本当に ここは / 元の世界なんだろうか…？
+   EN: Is this really our own world...?
+>> 28.88 | {p} | 魔王が 自在に操った世界で / 様々なことが起こった… / でも そこで起こった出来事の / どれが本当の出来事かは / 魔王にしか解らない… /  / でも…
+   EN: All kinds of things happened in the world the Demon King controlled at will... But which of the things that happened there were real, only the Demon King knows...  But...
+>> 28.89 | {p} | 僕の腕の中に… / {s}の身体は…無い！ / ってことは…！！ /  / 世界が 修正を始めたんだ！
+   EN: In my arms... {s}'s body... isn't here! That means...!!  The world has started to set itself right!
+>> 28.90 | {p} | 世界が 修正を始めたんだ！
+   EN: The world has started to set itself right!
+>> 28.91 | {p} | 魔王は 死んだ！ / ツギハギの世界はもう無い！ / 世界は… 修正を始めた…！ /  / すべて… / すべて 元に戻るんだ！ / すべて 元に戻ったんだ～！
+   EN: The Demon King is dead! The patchwork world is gone! The world... has started to set itself right...!  Everything... everything is going back to how it was! Everything's back to how it was!
+>> 28.92 | {p} | すべて… / すべて 元に戻るんだ！ / すべて 元に戻ったんだ～！
+   EN: Everything... everything is going back to how it was! Everything's back to how it was!
+>> 28.93 | {p} | ハァ… ハァ…
+   EN: *Pant*... *pant*...
+>> 28.94 | {p} | すべて 元に戻ったんだ～！
+   EN: Everything's back to how it was!
+>> 28.95 | {p} | ハァ… ハァ…
+   EN: *Pant*... *pant*...
+>> 28.96 | {p} | 携帯に… / メールが…
+   EN: My phone... got an e-mail...
+>> 28.97 | {p} | メールが…
+   EN: An e-mail...
+>> 28.98 | {p} | 「黒い月が輝く時 / 　お逢いしましょう…」
+   EN: "When the black moon shines, let us meet..."
+>> 28.99 | Enma-kun | 俺達も 出発しようぜ！
+   EN: Let's head out too!
+   ctx 29.00 | Shinichi | …どこかに これと似たような / 装置が あるのかもしれないな / それを探し出そう
+   ctx EN: ...There might be another device like this somewhere. Let's find it.
+   ctx 29.01 | Enma-kun | {p}が魔王に捕まる前に / 見つけ出さないとな
+   ctx EN: We gotta find it before the Demon King catches {p}.

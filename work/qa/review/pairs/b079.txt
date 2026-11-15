@@ -1,0 +1,308 @@
+   ctx r0DB7CC |  | さやか
+   ctx EN: Sayaka
+   ctx r0DB7D4 |  | 弓さやか
+   ctx EN: Sayaka Yumi
+>> r0DB7E0 |  | ボスボロット
+   EN: Borot
+>> r0DB7F0 |  | アフロダイＡ
+   EN: Aphrodite A
+>> r0DB800 |  | マジンガーＺ
+   EN: Mazinger Z
+>> r0DB810 |  | こうじ
+   EN: Koji
+>> r0DB818 |  | 兜甲児
+   EN: Koji
+>> r0DB820 |  | きたに
+   EN: Kitani
+>> r0DB828 |  | 鬼谷妖次郎
+   EN: Yojiro Kitani
+>> r0DB834 |  | じゃわんぼう
+   EN: Jawanbo
+>> r0DB844 |  | 邪腕坊苦海
+   EN: Jawanbo
+>> r0DB850 |  | しゅてんどう
+   EN: Shutendo
+>> r0DB860 |  | 手天童子郎
+   EN: Jiro
+>> r0DB86C |  | ドクロ
+   EN: Dokuro
+>> r0DB874 |  | 怒黒
+   EN: Dokuro
+>> r0DB87C |  | ネコム
+   EN: Nekomu
+>> r0DB884 |  | 猫夢
+   EN: Nekomu
+>> r0DB88C |  | ハチの巣入道
+   EN: HiveMonk
+>> r0DB89C |  | えんまくん
+   EN: Enma
+>> r0DB8A8 |  | えん魔くん
+   EN: Enma-kun
+>> r0DB8B4 |  | だんじゅうろう
+   EN: Danjuro
+>> r0DB8C4 |  | 生首団十郎
+   EN: Danjuro
+>> r0DB8D0 |  | きくのすけ
+   EN: Kikunosuke
+>> r0DB8DC |  | 悪馬尻菊の助
+   EN: Kikunosuke
+>> r0DB8EC |  | 丸ゴシ
+   EN: Maru G.
+>> r0DB8F4 |  | ヒゲゴジラ
+   EN: Higegodzilla
+>> r0DB900 |  | マカロニ・キッド
+   EN: Macaroni Kid
+>> r0DB914 |  | パラソル
+   EN: Parasol
+>> r0DB920 |  | じゅうべえ
+   EN: Jubei
+>> r0DB92C |  | 柳生十兵衛みつ子
+   EN: Jubei Yagyu
+>> r0DB940 |  | スラムキング
+   EN: Slum King
+>> r0DB950 |  | ジャック
+   EN: Jack
+>> r0DB95C |  | バイオレンスジャック
+   EN: Violence Jack
+>> r0DB974 |  | ゼノン
+   EN: Zennon
+>> r0DB97C |  | シレーヌ
+   EN: Sirene
+>> r0DB988 |  | ジンメン
+   EN: Jinmen
+>> r0DB994 |  | あきら
+   EN: Akira
+>> r0DB99C |  | 不動明
+   EN: Akira
+>> r0DB9A4 |  | シスタージル
+   EN: Sister Jill
+>> r0DB9B4 |  | シスター・ジル
+   EN: Sister Jill
+>> r0DB9C4 |  | ドラゴン・Ｐ
+   EN: Dragon P
+>> r0DB9D4 |  | ドラゴン・パンサー
+   EN: Dragon Panther
+>> r0DB9E8 |  | シザース・Ｐ
+   EN: Scissor P
+>> r0DB9F8 |  | シザース・パンサー
+   EN: Scissors Panther
+>> r0DBA0C |  | トマホーク・Ｐ
+   EN: T.hawk P
+>> r0DBA1C |  | トマホーク・パンサー
+   EN: Tomahawk Panther
+>> r0DBA34 |  | キューティーハニー
+   EN: Cutie Honey
+>> r0DBA48 |  | ハニー
+   EN: Honey
+>> r0DBA50 |  | 如月ハニー
+   EN: Honey
+>> r0DBA5C |  | 男主人公
+   EN: Hero
+>> r0DBA68 |  | デビルマン
+   EN: Devilman
+>> r0DBA74 |  | シザーアタック
+   EN: Scissor Cut
+>> r0DBA84 |  | ヒール
+   EN: Heal
+>> r0DBA8C |  | メジャーヒール
+   EN: Mega Heal
+>> r0DBA9C |  | キュア
+   EN: Cure
+>> r0DBAA4 |  | キュアエイド
+   EN: Cure Aid
+>> r0DBAB4 |  | リフレッシュ
+   EN: Refresh
+>> r0DBAC4 |  | リカバー
+   EN: Recover
+>> r0DBAD0 |  | メジャーリカバー
+   EN: Mega Recover
+>> r0DBAE4 |  | アウェイクン
+   EN: Awaken
+>> r0DBAF4 |  | リバイブ
+   EN: Revive
+>> r0DBB00 |  | アイテムを盗む
+   EN: Steal Item
+>> r0DBB10 |  | アイテムをぬすむ
+   EN: Steal Item
+>> r0DBB24 |  | 怪しい薬
+   EN: Shady Drug
+>> r0DBB30 |  | あやしいくすり
+   EN: Shady Drug
+>> r0DBB40 |  | 威圧
+   EN: Menace
+>> r0DBB48 |  | いあつ
+   EN: Menace
+>> r0DBB50 |  | 応援
+   EN: Cheer
+>> r0DBB58 |  | おうえん
+   EN: Cheer
+>> r0DBB64 |  | お金を盗む
+   EN: Steal Cash
+>> r0DBB70 |  | おかねをぬすむ
+   EN: Steal Cash
+>> r0DBB80 |  | 怪力
+   EN: Brawn
+>> r0DBB88 |  | かいりき
+   EN: Brawn
+>> r0DBB94 |  | 隠れる
+   EN: Hide
+>> r0DBB9C |  | かくれる
+   EN: Hide
+>> r0DBBA8 |  | 噛み付く
+   EN: Bite
+>> r0DBBB4 |  | かみつく
+   EN: Bite
+>> r0DBBC0 |  | 強打
+   EN: Smash
+>> r0DBBC8 |  | きょうだ
+   EN: Smash
+>> r0DBBD4 |  | 斬りつける
+   EN: Slash
+>> r0DBBE0 |  | きりつける
+   EN: Slash
+>> r0DBBEC |  | 黒い息
+   EN: Miasma
+>> r0DBBF4 |  | くろいいき
+   EN: Miasma
+>> r0DBC00 |  | ケシゴム
+   EN: Eraser
+>> r0DBC0C |  | ゲッターウィング
+   EN: Getter Wing
+>> r0DBC20 |  | ゲッターキック
+   EN: Getter Kick
+>> r0DBC30 |  | 光線銃
+   EN: Ray Gun
+>> r0DBC38 |  | 強奪
+   EN: Plunder
+>> r0DBC40 |  | ごうだつ
+   EN: Plunder
+>> r0DBC4C |  | 自爆
+   EN: Explode
+>> r0DBC54 |  | じばく
+   EN: Explode
+>> r0DBC5C |  | 獣人化
+   EN: Feral
+>> r0DBC64 |  | じゅうじんか
+   EN: Feral
+>> r0DBC74 |  | ジェットスクランダー
+   EN: Jet Scrander
+>> r0DBC8C |  | Ｊ・スクランダー
+   EN: Jet Scrander
+>> r0DBCA0 |  | 精神攻撃
+   EN: Mind Blast
+>> r0DBCAC |  | せいしんこうげき
+   EN: Mind Blast
+>> r0DBCC0 |  | 精神崩壊
+   EN: Mind Break
+>> r0DBCCC |  | せいしんほうかい
+   EN: Mind Break
+>> r0DBCE0 |  | 体当たり
+   EN: Tackle
+>> r0DBCEC |  | たいあたり
+   EN: Tackle
+>> r0DBCF8 |  | 鷹の翼
+   EN: Skyhawk
+>> r0DBD00 |  | たかのツバサ
+   EN: Skyhawk
+>> r0DBD10 |  | 力を溜める
+   EN: Charge Up
+>> r0DBD1C |  | 力をためる
+   EN: Charge Up
+>> r0DBD28 |  | 調査
+   EN: Analyze
+>> r0DBD30 |  | ちょうさ
+   EN: Analyze
+>> r0DBD3C |  | 鉄パイプ
+   EN: Iron Pipe
+>> r0DBD48 |  | デビルウィング
+   EN: Devil Wing
+>> r0DBD58 |  | 突破
+   EN: Breach
+>> r0DBD60 |  | とっぱ
+   EN: Breach
+>> r0DBD68 |  | 殴る
+   EN: Punch
+>> r0DBD70 |  | なぐる
+   EN: Punch
+>> r0DBD78 |  | ハニーフラッシュ
+   EN: Honey Flash
+>> r0DBD8C |  | バリア
+   EN: Barrier
+>> r0DBD94 |  | バリアバチ
+   EN: Barrier Bee
+>> r0DBDA0 |  | パンサーウォーク
+   EN: Panther Walk
+>> r0DBDB4 |  | 反射神経
+   EN: Reflexes
+>> r0DBDC0 |  | はんしゃしんけい
+   EN: Reflexes
+>> r0DBDD4 |  | 引っかく
+   EN: Scratch
+>> r0DBDE0 |  | ひっかく
+   EN: Scratch
+>> r0DBDEC |  | 平手打ち
+   EN: Slap
+>> r0DBDF8 |  | ひらてうち
+   EN: Slap
+>> r0DBE04 |  | フィンガーロープ
+   EN: Finger Rope
+>> r0DBE18 |  | 古い薬
+   EN: Old Med
+>> r0DBE20 |  | 古いくすり
+   EN: Old Med
+>> r0DBE2C |  | 変身
+   EN: Morph
+>> r0DBE34 |  | へんしん
+   EN: Morph
+>> r0DBE40 |  | ガン
+   EN: Gun
+>> r0DBE48 |  | マッハスピード
+   EN: Mach Speed
+>> r0DBE58 |  | ミサイル
+   EN: Missile
+>> r0DBE64 |  | 目立つ
+   EN: Flaunt
+>> r0DBE6C |  | めだつ
+   EN: Flaunt
+>> r0DBE74 |  | 目潰し
+   EN: Eye Jab
+>> r0DBE7C |  | めつぶし
+   EN: Eye Jab
+>> r0DBE88 |  | 妖マントバリア
+   EN: Mantle Barrier
+>> r0DBE98 |  | 予知
+   EN: Foresee
+>> r0DBEA0 |  | らくがき
+   EN: Doodle
+>> r0DBEAC |  | 完全知覚
+   EN: Total Sense
+>> r0DBEB8 |  | ３連マグナム
+   EN: Tri-Magnum
+>> r0DBEC8 |  | ３れんマグナム
+   EN: Tri-Magnum
+>> r0DBED8 |  | アフロダイミサイル
+   EN: Aphro Missile
+>> r0DBEEC |  | Ａ・ミサイル
+   EN: Aphro Missile
+>> r0DBEFC |  | ゲッタートマホーク
+   EN: Getter Tomahawk
+>> r0DBF10 |  | Ｇ・トマホーク
+   EN: Getter Tomahawk
+>> r0DBF20 |  | 悪魔の髪
+   EN: Devil Hair
+>> r0DBF2C |  | あくまのかみ
+   EN: Devil Hair
+>> r0DBF3C |  | 悪夢
+   EN: Dread
+>> r0DBF44 |  | あくむ
+   EN: Dread
+>> r0DBF4C |  | アシッド
+   EN: Acid
+>> r0DBF58 |  | アタックバチ
+   EN: Attack Bee
+>> r0DBF68 |  | アルフォンヌ砲
+   EN: Alphonne Gun
+   ctx r0DBF78 |  | 稲妻
+   ctx EN: Bolt
+   ctx r0DBF80 |  | イナズマ
+   ctx EN: Bolt

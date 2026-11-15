@@ -1,0 +1,308 @@
+   ctx r0DCFE0 |  | ハンマーオーブ
+   ctx EN: Blunt Orb
+   ctx r0DCFF0 |  | ソードオーブ
+   ctx EN: Slash Orb
+>> r0DD000 |  | マインドシンボル
+   EN: Mind Symbol
+>> r0DD014 |  | サンダーシンボル
+   EN: Bolt Symbol
+>> r0DD028 |  | アイスシンボル
+   EN: Ice Symbol
+>> r0DD038 |  | ファイアシンボル
+   EN: Fire Symbol
+>> r0DD04C |  | ハンマーシンボル
+   EN: Blunt Symbol
+>> r0DD060 |  | ソードシンボル
+   EN: Slash Symbol
+>> r0DD070 |  | ボディタリスマン
+   EN: Body Amulet
+>> r0DD084 |  | タフネスベルト
+   EN: Tough Belt
+>> r0DD094 |  | タフネスリング
+   EN: Tough Ring
+>> r0DD0A4 |  | フィジカルベルト
+   EN: Physical Belt
+>> r0DD0B8 |  | フィジカルリング
+   EN: Physical Ring
+>> r0DD0CC |  | ワイズタリスマン
+   EN: Wise Amulet
+>> r0DD0E0 |  | ワイズピアス
+   EN: Wise Stud
+>> r0DD0F0 |  | ワイズリング
+   EN: Wise Ring
+>> r0DD100 |  | ウィズダムピアス
+   EN: Wisdom Stud
+>> r0DD114 |  | ウィズダムリング
+   EN: Wisdom Ring
+>> r0DD128 |  | セーブタリスマン
+   EN: Save Amulet
+>> r0DD13C |  | セーブリスト
+   EN: Save Band
+>> r0DD14C |  | セーブリング
+   EN: Save Ring
+>> r0DD15C |  | レジストリスト
+   EN: Resist Band
+>> r0DD16C |  | レジストリング
+   EN: Resist Ring
+>> r0DD17C |  | プロテクトリスト
+   EN: Protect Band
+>> r0DD190 |  | プロテクトリング
+   EN: Protect Ring
+>> r0DD1A4 |  | ミラージュローブ
+   EN: Mirage Robe
+>> r0DD1B8 |  | シャドーローブ
+   EN: Shadow Robe
+>> r0DD1C8 |  | ハイドローブ
+   EN: Hide Robe
+>> r0DD1D8 |  | ラピッドブーツ
+   EN: Rapid Boots
+>> r0DD1E8 |  | クイックブーツ
+   EN: Quick Boots
+>> r0DD1F8 |  | スピードブーツ
+   EN: Speed Boots
+>> r0DD208 |  | フォースリスト
+   EN: Force Band
+>> r0DD218 |  | フォースリング
+   EN: Force Ring
+>> r0DD228 |  | アタックリスト
+   EN: Attack Band
+>> r0DD238 |  | アタックリング
+   EN: Attack Ring
+>> r0DD248 |  | パワーリスト
+   EN: Power Band
+>> r0DD258 |  | パワーリング
+   EN: Power Ring
+>> r0DD268 |  | ハンター
+   EN: Hunter
+>> r0DD274 |  | いちもくさん
+   EN: Hightail
+>> r0DD284 |  | にんきもの
+   EN: Popular
+>> r0DD290 |  | きらわれもの
+   EN: Disliked
+>> r0DD2A0 |  | ギャンブラー
+   EN: Gambler
+>> r0DD2B0 |  | 運命のイタズラ
+   EN: Twist of Fate
+>> r0DD2C0 |  | ちょとつもうしん
+   EN: Reckless
+>> r0DD2D4 |  | もろはの刃
+   EN: Double Edge
+>> r0DD2E0 |  | やみくも
+   EN: Haphazard
+>> r0DD2EC |  | あばれるシシ
+   EN: Raging Lion
+>> r0DD2FC |  | ねむれるシシ
+   EN: Sleeping Lion
+>> r0DD30C |  | きまじめ
+   EN: Earnest
+>> r0DD318 |  | じゅんけつ
+   EN: Pure
+>> r0DD324 |  | がんきょう
+   EN: Robust
+>> r0DD330 |  | もえる体
+   EN: Fiery Body
+>> r0DD33C |  | きょうじんな心
+   EN: Iron Will
+>> r0DD34C |  | ビョウキしらず
+   EN: Never Ill
+>> r0DD35C |  | ふみん
+   EN: Wakeful
+>> r0DD364 |  | ドこんじょう
+   EN: True Grit
+>> r0DD374 |  | けいかいたいせい
+   EN: On Alert
+>> r0DD388 |  | せんせいこうげき
+   EN: First Strike
+>> r0DD39C |  | たいせい
+   EN: Resistant
+>> r0DD3A8 |  | ステップ
+   EN: Step
+>> r0DD3B4 |  | しゅうちゅう
+   EN: Focus
+>> r0DD3C4 |  | かそく
+   EN: Haste
+>> r0DD3CC |  | さいごっぺ
+   EN: Last Fart
+>> r0DD3D8 |  | ふしちょう
+   EN: Phoenix
+>> r0DD3E4 |  | ゆうじょう
+   EN: Friendship
+>> r0DD3F0 |  | ハイブリッド
+   EN: Hybrid
+>> r0DD400 |  | ひっちゅう
+   EN: Sure Hit
+>> r0DD40C |  | そうじゅく
+   EN: Early Bloom
+>> r0DD418 |  | ごうよく
+   EN: Greedy
+>> r0DD424 |  | ききいっぱつ
+   EN: Close Call
+>> r0DD434 |  | りきば
+   EN: Barrier
+>> r0DD43C |  | さいせい
+   EN: Regenerate
+>> r0DD448 |  | カウンター
+   EN: Counter
+>> r0DD454 |  | 敵用2
+   EN: Enemy2
+>> r0DD45C |  | 敵用4
+   EN: Enemy4
+>> r0DD464 |  | 敵用3
+   EN: Enemy3
+>> r0DD46C |  | ラヴァーズ効果
+   EN: Lovers Effect
+>> r0DD47C |  | サイコジェニー
+   EN: Psycho Jenny
+>> r0DD48C |  | まみいのあね
+   EN: Mamii's Sister
+>> r0DD49C |  | こややし
+   EN: Koyayashi
+>> r0DD4A8 |  | イボじこごろう
+   EN: Kogoro Iboji
+>> r0DD4B8 |  | メドッサ
+   EN: Medossa
+>> r0DD4C4 |  | さよこ
+   EN: Sayoko
+>> r0DD4CC |  | なんとも
+   EN: Nantomo
+>> r0DD4D8 |  | アルフォンヌ
+   EN: Alphonne
+>> r0DD4E8 |  | ポチ
+   EN: Pochi
+>> r0DD4F0 |  | フユカイ
+   EN: Fuyukai
+>> r0DD4FC |  | ばんちよ
+   EN: Banchiyo
+>> r0DD508 |  | おとこ
+   EN: Otoko
+>> r0DD510 |  | ばんじ
+   EN: Banji
+>> r0DD518 |  | グズむし
+   EN: Guzumushi
+>> r0DD524 |  | こくしまる
+   EN: Kokushimaru
+>> r0DD530 |  | ごうだ
+   EN: Goda
+>> r0DD538 |  | みつるぎ
+   EN: Mitsurugi
+>> r0DD544 |  | ゆきしろ
+   EN: Yukishiro
+>> r0DD550 |  | とみさぶろう
+   EN: Tomisaburo
+>> r0DD560 |  | さおとめ
+   EN: Saotome
+>> r0DD56C |  | むさし
+   EN: Musashi
+>> r0DD574 |  | はやと
+   EN: Hayato
+>> r0DD57C |  | あしゅら
+   EN: Ashura
+>> r0DD588 |  | ムチャ
+   EN: Mucha
+>> r0DD590 |  | ヌケ
+   EN: Nuke
+>> r0DD598 |  | まどうき
+   EN: Madoki
+>> r0DD5A4 |  | みゆき
+   EN: Miyuki
+>> r0DD5AC |  | ごき
+   EN: Goki
+>> r0DD5B4 |  | せんき
+   EN: Senki
+>> r0DD5BC |  | えんまだいおう
+   EN: Great King Enma
+>> r0DD5CC |  | カパエル
+   EN: Kapaeru
+>> r0DD5D8 |  | ゆきこひめ
+   EN: Princess Yukiko
+>> r0DD5E4 |  | ほういんだいこ
+   EN: Daiko Hoin
+>> r0DD5F4 |  | だえもん
+   EN: Daemon
+>> r0DD600 |  | きちざ
+   EN: Kichiza
+>> r0DD608 |  | なおじろう
+   EN: Naojiro
+>> r0DD614 |  | ごえもん
+   EN: Goemon
+>> r0DD620 |  | ふくろこうじ
+   EN: Fukurokoji
+>> r0DD630 |  | やまぎし
+   EN: Yamagishi
+>> r0DD63C |  | スラムクイーン
+   EN: Slum Queen
+>> r0DD64C |  | みどう
+   EN: Mido
+>> r0DD654 |  | もんど
+   EN: Mondo
+>> r0DD65C |  | たくま
+   EN: Takuma
+>> r0DD664 |  | カイム
+   EN: Kaim
+>> r0DD66C |  | まさ
+   EN: Masa
+>> r0DD674 |  | 敵用
+   EN: Enemy
+>> r0DD67C |  | りょう
+   EN: Ryo
+>> r0DD684 |  | だんべえ
+   EN: Danbei
+>> r0DD690 |  | せいじ
+   EN: Seiji
+>> r0DD698 |  | 敵用1
+   EN: Enemy1
+>> r0DD6A0 |  | いしかわけん
+   EN: Ken Ishikawa
+>> r0DD6B0 |  | ながいごう
+   EN: Go Nagai
+>> r0DD6BC |  | 副主人公
+   EN: Sub-Hero
+>> r0DD6C8 |  | 防御１
+   EN: Guard 1
+>> r0DD6D0 |  | アイテム
+   EN: Item
+>> r0DD6DC |  | にく
+   EN: Meat
+>> r0DD6E4 |  | スピードベルト
+   EN: Speed Belt
+>> r0DD6F4 |  | クイックベルト
+   EN: Quick Belt
+>> r0DD704 |  | ラピッドベルト
+   EN: Rapid Belt
+>> r0DD714 |  | ハイドピアス
+   EN: Hide Stud
+>> r0DD724 |  | シャドーピアス
+   EN: Shadow Stud
+>> r0DD734 |  | ミラージュピアス
+   EN: Mirage Stud
+>> r0DD748 |  | ホークフェザー
+   EN: Hawk Feather
+>> r0DD758 |  | てんこだま
+   EN: Tenkodama
+>> r0DD764 |  | ジャマー
+   EN: Jammer
+>> r0DD770 |  | ＩＤカードＡ
+   EN: ID Card A
+>> r0DD780 |  | ＩＤカードＢ
+   EN: ID Card B
+>> r0DD790 |  | ＩＤカードＣ
+   EN: ID Card C
+>> r0DD7A0 |  | 巨大兵器
+   EN: Huge Weapon
+>> r0DD7AC |  | スカウター
+   EN: Scouter
+>> r0DD7B8 |  | ろうやのかぎ
+   EN: Cell Key
+>> r0DD7C8 |  | そうこのかぎ
+   EN: Storage Key
+>> r0DD7D8 |  | 地下すいろのかぎ
+   EN: Sewer Key
+>> r0DD7EC |  | 沙羅のしゃしん
+   EN: Sara's Photo
+>> r0DD7FC |  | 地下室のかぎ
+   EN: Cellar Key
+   ctx r0DD80C |  | キーアイテム用スペース2
+   ctx EN: Key Slot 2
+   ctx r0DD824 |  | キーアイテム用スペース3
+   ctx EN: Key Slot 3

@@ -1,0 +1,5 @@
+IMPORTANT | r0DB04C | "ひさんしょうぐん" = General Hisan | "Misery" conflicts with the character's established name, General Hisan. | Hisan
+IMPORTANT | r0DB060 | "悲惨将軍" = General Hisan | "Lord Misery" changes both the established name and the military title. | General Hisan
+IMPORTANT | r0DB190 | "黒い魔物" = black fiend | "Dark Fiend" conflicts with the glossary's "black fiend"; this is not a shortening. | Black Fiend
+IMPORTANT | r0DB1F0 | "果扨虹蛇" = Nijija Hatesa | "Kasa Koja" conflicts with the glossary and speaker table for this character. | Nijija Hatesa
+ASSESSMENT | b078 | Needs fixes | Several character and enemy names conflict with established terminology.

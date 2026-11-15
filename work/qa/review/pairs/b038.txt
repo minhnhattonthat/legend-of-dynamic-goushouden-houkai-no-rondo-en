@@ -1,0 +1,208 @@
+   ctx 36.98 | Kedaman | いや～ おもしろかったぜ！ / なっ！ 怒良野！
+   ctx EN: Man, that was a blast! Right, Dorano!
+   ctx 36.99 | Dorano | ふん！ 隙をみて ケダマンを / やっつけようと思ってたのに / それどころじゃなかったぜ…
+   ctx EN: Hmph! I was planning to take Kedaman down when he let his guard slip, but I never got the chance...
+>> 37.00 | Kedaman | なんだと！
+   EN: What'd you say!
+>> 37.01 | Dorano | なんでもないよ！
+   EN: Nothin'!
+>> 37.02 | {p} | 君達 仲がいいんだか悪いんだか / わからないね！
+   EN: I can't tell if you two get along or not!
+>> 37.03 | Kedaman | あっはっはっは！
+   EN: Ahahahaha!
+>> 37.04 | Dorano | 仲良くねぇよ！
+   EN: We do NOT get along!
+>> 37.05 | {p} | そういえば ケダマンの家って / どういう仕掛けだったんだろ？ / あれも 次元連鎖と / 関係あったのかな？
+   EN: Come to think of it, how did Kedaman's house work? Did that have something to do with the Dimension Chain too?
+>> 37.06 | Miroku | 魔王が倒され / 次元連鎖が終わった以上 / 九龍の谷に よそ者が迷い込むこと / は ないだろう
+   EN: Now that the Demon King has fallen and the Dimension Chain is over, no more outsiders should stray into the Kuryu Valley.
+>> 37.07 | Kokushimaru | 真田忍者との戦いは これからだな
+   EN: The battle with the Sanada ninja starts now.
+>> 37.08 | Guzumushi | そ～だなぁ～
+   EN: Yeaaah...
+>> 37.09 | {p} | みんな がんばって！
+   EN: Good luck, everyone!
+>> 37.10 | Miroku | {p}の戦い / しかと見届けさせて貰った！ / これからの戦い 励みになるぜ！
+   EN: I've watched your fight closely, {p}! It'll spur me on in the battles to come!
+>> 37.11 | {p} | ずびずばの人によろしく！
+   EN: Say hi to the snrk-snff guy for me!
+>> 37.12 | Kekko Kamen | 君のような少年が / 果敢に魔王に立ち向かう / その姿に 私は感動したわ！ / 胸が高鳴っちゃった！
+   EN: A boy like you bravely standing up to the Demon King... I was so moved! My chest is pounding!
+>> 37.13 | {p} | む 胸が…！？ / そりゃ けっこう…
+   EN: Y-your chest...!? Well, that's... very fine indeed...
+>> 37.14 | {p} | けっこう仮面のお姉さん / ありがとう！ / どんなに時間がたっても / あなたの身体は忘れないよ！
+   EN: Kekko Kamen, thank you! No matter how much time passes, I'll never forget your body!
+>> 37.15 | Nanyu | {p}… 僕…
+   EN: {p}... I...
+>> 37.16 | Nanyu | お腹減った…
+   EN: I'm hungry...
+>> 37.17 | Sayoko | そうね 南友君 / いっぱい頑張ったものね！ / お屋敷へ戻ったら / ご馳走 食べさせてあげるわ！
+   EN: That's right, Nantomo-kun, you worked so hard! When we get back to the mansion, I'll treat you to a feast!
+>> 37.18 | {p} | いやはや なんとも…
+   EN: Iyahaya... nantomo...
+>> 37.19 | Kikkai-kun | いひひひ！
+   EN: Hee hee hee!
+>> 37.20 | {p} | どうしたの キッカイくん？
+   EN: What's up, Kikkai-kun?
+>> 37.21 | Kikkai-kun | なんでもないよ！ /  / 元の世界に戻れると思うと / うれしくってさ！
+   EN: Nothin'!  I'm just happy we get to go back to our world!
+>> 37.22 | {p} | ………
+   EN: .........
+>> 37.23 | Kikkai-kun | 今度 うちに遊びに来いよな！
+   EN: Come hang out at my place sometime!
+>> 37.24 | {p} | あのキッカイな家に？
+   EN: At that kooky house?
+>> 37.25 | Kikkai-kun | じゃ～な～！
+   EN: Seeee ya!
+>> 37.26 | Fuyukai | 待て～！ / ワシを置いてくな～！
+   EN: Wait! Don't leave me behind!
+>> 37.27 | Kikkai-kun | あら おじいちゃん / 気がついちゃった？
+   EN: Oh, Grandpa, you noticed?
+>> 37.28 | Fuyukai | {p}！ / この先も がんばるんじゃぞ！
+   EN: {p}! Keep up the good work from here on, ya hear!
+>> 37.29 | Kikkai | おじいちゃんもね！
+   EN: You too, Grandpa!
+>> 37.30 | Fuyukai | どういう意味じゃ！
+   EN: What's that supposed to mean!
+>> 37.31 | Kikkai | イヒヒヒ…！
+   EN: Hee hee hee...!
+>> 37.32 | Pochi | あ～！ / 行ってしまったぞ！
+   EN: Aaah! They've gone!
+>> 37.33 | Alphonne | ポチ～！ / おまえのせいだぞ！
+   EN: Pochi! It's your fault!
+>> 37.34 | Pochi | なんだと！？ それが ご主人様に / 向かって言うセリフか！ / 元の世界に帰る方法を考えるのだ！
+   EN: What!? Is that any way to talk to your master!? Think of a way to get back to our world!
+>> 37.35 | Alphonne | いつもいつも / 考えるのは俺なのだ～！ / それでも ご主人様か～！
+   EN: It's always me doing the thinking! Some master you are!
+>> 37.36 | Pochi | お～ この光は…！
+   EN: Ooh, this light...!
+>> 37.37 | Alphonne | 俺達も帰れるのだ～！
+   EN: We get to go home too!
+>> 37.38 | {p} | …キッカイな人達だったな
+   EN: ...What kooky people.
+>> 37.39 | Banko | ねぇねぇ 母ちゃん… /  / 元の世界に戻ったら 俺 男として / 学校に転入出来るかな？
+   EN: Hey, hey, Ma...  When we get back to our world, can I transfer to school as a boy?
+>> 37.40 | Boy | 男としてって どういう意味？
+   EN: As a boy? What does that mean?
+>> 37.41 | Banko | あ いやいや 何でもないよ！ / ははは…！
+   EN: Oh, no, no, nothin'! Hahaha...!
+>> 37.42 | Banchiyo | さぁ あんた達 帰るわよ！
+   EN: Come on, you lot, we're going home!
+>> 37.43 | {p} | 男の子がスケバンで / 女の子が男子かぁ / もしかして あの子達も / 次元連鎖の影響だったりして…？
+   EN: A boy who's a sukeban and a girl who's a boy, huh... Maybe they were affected by the Dimension Chain too...?
+>> 37.44 | Kogoro Iboji | えっへん！ 事件は みごと解決！ / 引き上げるぞ こややしくん！
+   EN: Ahem! The case is splendidly solved! We're pulling out, Koyayashi-kun!
+>> 37.45 | Young Koyayashi | そっか～ 解決したんだぁ～ / じゃ 帰ろうかぁ～！
+   EN: Ohh... it's solved... Then let's go hooome!
+>> 37.46 | Kogoro Iboji | これからも困ったことがあったら / この名探偵に相談しなさい！ / はっはっは！
+   EN: If you're ever in trouble again, consult this great detective! Hahaha!
+>> 37.47 | {p} | 迷探偵…
+   EN: More like a great defective...
+>> 37.48 | Ryo Utsugi | たとえ身体を奪われようとも / 強い意志があれば / 心を奪われることはない / それを おまえは教えてくれた
+   EN: Even if your body is taken, with a strong will your heart can't be taken. You taught me that.
+>> 37.49 | {p} | 宇津木さん… / でも… / その先に待っている道は / つらいものだよ…
+   EN: Utsugi-san... But... the road waiting ahead of you is a hard one...
+>> 37.50 | Ryo Utsugi | その通りだ だが それに立ち向かう / 勇気も 君が教えてくれた / ありがとう / 君のことは忘れない…
+   EN: That's true. But you also taught me the courage to face it. Thank you. I'll never forget you...
+>> 37.51 | {p} | 立ち向かう勇気…
+   EN: The courage to face it...
+>> 37.52 | Slum King | 外敵を退けたまでのこと / きさまが気にすることはない / 礼には及ばぬ！
+   EN: I merely drove off outside enemies. Don't concern yourself. No thanks are needed!
+>> 37.53 | Slum Queen | 坊や あなた / あたし好みだったわよ！
+   EN: Little boy, you were just my type!
+>> 37.54 | Ashura (Male) | ドクター・ヘルの命令に従い / 共に戦ったが
+   EN: I fought alongside you on Dr. Hell's orders, but
+>> 37.55 | Ashura (Female) | おまえの根性 気に入ったわよ！
+   EN: I like your guts!
+>> 37.56 | Sirene | 戦いこそが デーモンの生き甲斐 /  / この爪が 次なる獲物を / 求めているぞ！
+   EN: Battle is what a Demon lives for.  These claws hunger for their next prey!
+>> 37.57 | Sister Jill | 魔王の言葉は 美しくもあり / 醜くもあった / だが パンサークローの好みじゃ / なかったわ！
+   EN: The Demon King's words were both beautiful and ugly. But they weren't Panther Claw's taste!
+>> 37.58 | Iron Kaiser | 世界が修正を始めたならば / 元の世界へ戻ろう！ / 父・邪腕坊が 手天童子を倒す姿を / 見るために！
+   EN: If the world has begun setting itself right, I'll return to my own world! To see my father Jawanbo defeat the Shutendoji!
+>> 37.59 | Higegodzilla | いや～ん 帰れるのよ～！ / うれち～！
+   EN: Kyaaa, we get to go home! I'm so vewy happy!
+>> 37.60 | Medossa | ダンテが その使命を果たすまで / 私は ダンテと共にある / それはまだ 終わってはいない…
+   EN: Until Dante fulfills his mission, I remain with Dante. And it is not yet over...
+>> 37.61 | Onitani | 魔王を倒したことで / 我ら鬼仏衆と手天童子との戦いが / 再び始まろうとしている！ /  / いざ 我が戦場に帰らん！
+   EN: With the Demon King defeated, the war between us, the Kibutsu Clan, and the Shutendoji is about to begin again!  Now, back to my battlefield!
+>> 37.62 | Genzo Kuruma | 新人類創世が / 俺に課せられた使命なのだ / それを阻む魔王との戦いは / 避けられぬ道であった！ / さらばだ！
+   EN: Creating a new mankind is the mission laid upon me. Fighting the Demon King who stood in its way was unavoidable! Farewell!
+>> 37.63 | Psycho Jenny | 少年よ… 私は待つ… / 次なる目覚めの時を…
+   EN: Boy... I shall wait... for my next awakening...
+>> 37.64 | Hoin Taishi | 魔王が滅んでも 極悪人ハンターの / あたしの戦いは終わらないわ！ / すべての世界から 極悪人が / 滅ぶまでね！
+   EN: Even with the Demon King gone, my fight as a hunter of villains isn't over! Not until every villain in every world is gone!
+>> 37.65 | {p} | ここには誰か いないかな？
+   EN: Is anybody here?
+>> 37.66 | {p} | 町の人に話を聞いてみよう
+   EN: Let's ask the townspeople.
+>> 37.67 | {p} | 誰かに / 見られているような気がする…
+   EN: I feel like someone's watching me...
+>> 37.68 | {p} | この中は 他に通じている所は / ないのかな？
+   EN: Doesn't this place lead anywhere else?
+>> 37.69 | {p} | ここが 明君の言っていた / シレーヌと 戦った山か…
+   EN: So this is the mountain where Akira-kun said he fought Sirene...
+>> 37.70 | Akira Fudo | ここは…了の家だ！ / でも…
+   EN: This is... Ryo's house! But...
+>> 37.71 | Akira Fudo | なんか 周りの景色が / 変わっているような…
+   EN: It's like the scenery around here has changed...
+>> 37.72 | {p} | でも ここが 了君の家なら / ラッキーだよ！
+   EN: But if this is Ryo-kun's house, that's lucky!
+>> 37.73 | Akira Fudo | そうだね / 中に入ってみよう…
+   EN: Yeah. Let's go inside...
+>> 37.74 | Akira Fudo | まっくらだよ やだな～
+   EN: It's pitch dark. I hate this...
+>> 37.75 | {p} | 暗闇に何か光ってるよ…？
+   EN: Something's glowing in the dark...?
+>> 37.76 | Akira Fudo | うわぁ～！ / で 出た～！
+   EN: Whoaaa! Th-there's something here!
+>> 37.77 | Ryo Asuka | 慌てるな / よく見ろ 作り物だ
+   EN: Calm down. Look closely. It's an artifact.
+>> 37.78 | Akira Fudo | 作り物だって…？ / あ 了！
+   EN: An artifact...? Ah, Ryo!
+>> 37.79 | {p} | この人が 飛鳥了君？
+   EN: So this is Ryo Asuka-kun?
+>> 37.80 | Ryo Asuka | この像は 人間の持つ / 悪魔のイメージ そのもの / だが この像は 氷河期以前の / 地層から 発見された！
+   EN: This statue is the very image of the devil that humans hold. But this statue was found in strata older than the Ice Age!
+>> 37.81 | {p} | そんな時代に / 人間は いなかったはず…？
+   EN: But there shouldn't have been any humans back then...?
+>> 37.82 | Akira Fudo | 自然に出来たモノには / 見えないけどなぁ…
+   EN: It sure doesn't look like something that formed naturally...
+>> 37.83 | Ryo Asuka | 人間以外の者が作った！
+   EN: Something other than humans made it!
+>> 37.84 | Akira Fudo | 人間以外の者！？
+   EN: Something other than humans!?
+>> 37.85 | Ryo Asuka | 人間以前に 地球を支配した人類 / デーモン！ / 人間が持つ 悪魔のイメージこそ / 先住人類デーモンの姿なのだ！
+   EN: The race that ruled the Earth before humans: the Demons! The devil that humans picture is the true form of the Demons, the planet's former inhabitants!
+>> 37.86 | Akira Fudo | …了のヤツ / おかしくなっちゃったのかも？
+   EN: ...Maybe Ryo's lost it?
+>> 37.87 | Ryo Asuka | この像は 文字を持たない / デーモンが残した 歴史書なんだ / 明 この像をかぶってくれ！
+   EN: This statue is a history book left by the Demons, who had no writing. Akira, put this statue on!
+>> 37.88 | Ryo Asuka | この像をかぶると デーモンの / 世界の姿が 浮かんでくる…
+   EN: When you put this statue on, the Demons' world appears before you...
+>> 37.89 | Akira Fudo | う うすっきみ悪いなぁ / 次じゃダメ？
+   EN: Th-that's creepy... Can't I do it next time?
+>> 37.90 | Ryo Asuka | 親友の俺の言葉が / 信じられないのか！
+   EN: You can't believe the word of your best friend!?
+>> 37.91 | Akira Fudo | あっ 俺 その言葉に弱いなぁ… / わかったよ かぶるよ
+   EN: Ah, I'm a sucker for that line... Fine, I'll put it on.
+>> 37.92 | {p} | 明君…
+   EN: Akira-kun...
+>> 37.93 | Akira Fudo | うわぁ～！！
+   EN: WHOAAAA!!
+>> 37.94 | Ryo Asuka | 外すな！
+   EN: Don't take it off!
+>> 37.95 | {p} | で でも…！？
+   EN: B-but...!?
+>> 37.96 | Ryo Asuka | 明！ 見るんだ / しっかり見てくれ！
+   EN: Akira! Look! Look closely!
+>> 37.97 | Akira Fudo | うわぁ～！！
+   EN: WHOAAAA!!
+>> 37.98 | {p} | 明君 いったい何を見てるの？
+   EN: Akira-kun, what on earth are you seeing?
+>> 37.99 | Ryo Asuka | 地獄の光景 悪魔の世界さ！ /  / 弱さは 死を意味する / 強い者だけが生き残る力の歴史！
+   EN: A vision of hell, the world of devils!  Weakness means death. A history of power, where only the strong survive!
+   ctx 38.00 | Akira Fudo | うう…！
+   ctx EN: Ugh...!
+   ctx 38.01 | Ryo Asuka | 闘争の世界に生き残るため / デーモン一族は / 特殊な能力を 身につけた！
+   ctx EN: To survive in a world of endless battle, the Demon race acquired a special ability!

@@ -1,0 +1,3 @@
+IMPORTANT | r0D0504 | "女蛮子" = Banji Suke | "Banko Suke" contradicts the glossary's explicit name ruling. | [0A]Partner "Banji Suke"[0A]joined the party.
+IMPORTANT | r0D0980 | "鬼谷妖次郎" = Yojiro Onitani | "Kidani" conflicts with the established name Onitani used in dialogue and speaker tags. | [0A]Battler "Yojiro Onitani"[0A]joined the party.
+ASSESSMENT | b071 | Needs fixes | Two character names conflict with the established glossary and speaker tags.

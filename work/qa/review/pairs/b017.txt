@@ -1,0 +1,208 @@
+   ctx 15.98 | Mitsurugi | 遅かったわ…！
+   ctx EN: We're too late...!
+   ctx 15.99 | Susano-oh | グオオオオオォ～！！
+   ctx EN: GUOOOOOOOH!!
+>> 16.00 | {p} | 瓜生！
+   EN: Uryu!
+>> 16.01 | Mitsurugi | なんてことを！
+   EN: What have you done!
+>> 16.02 | Uryu | あはははは…！！
+   EN: Ahahahaha...!!
+>> 16.03 | Uryu | 見ろ あの姿を！ /  / 朱紗の精神が / 「魔」を吸い取ったのだ！ / 朱紗の魂が 邪悪な精神エネルギー / 「魔」を吸収し続けている！ / 精神が巨大化したため / 肉体も巨大化している！
+   EN: Look at him!  Shusha's mind has absorbed "Ma"! Shusha's soul keeps drinking in "Ma," that evil psychic energy! His mind has grown so huge that his body has grown huge as well!
+>> 16.04 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 16.05 | Uryu | もはや アレは朱紗ではない！ /  / 伝説の邪神・荒ぶる神！ / 凄ノ王なのだ！！
+   EN: That is no longer Shusha!  It is the legendary evil god, the raging god! It is Susano-oh!!
+>> 16.06 | Susano-oh | グワァッ！
+   EN: GWAAAH!
+>> 16.07 | {p} | マンションが…！
+   EN: The condo...!
+>> 16.08 | Uryu | 自分のまわりの重力を遮断して / 飛んでいる！ / なんという 凄まじい超能力だ！ /  / あはは…！ 魔王の誕生だ！ / 凄ノ王の降臨だ！
+   EN: He's cutting off the gravity around himself to fly! What tremendous psychic power!  Ahaha...! The birth of a demon king! Susano-oh descends!
+>> 16.09 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.10 | {p} | 美剣さん！ どうしよう！
+   EN: Mitsurugi-san! What do we do!?
+>> 16.11 | Mitsurugi | 凄ノ王は / まだ完全な力を 得ていないわ！ / でも急がないと！ /  / 完全な邪神となってしまったら / 世界は破滅を迎えてしまう！
+   EN: Susano-oh hasn't gained his full power yet! But we must hurry!  If he becomes a complete evil god, the world will meet its end!
+>> 16.12 | Shinichi | 真理阿を探そう！ /  / 真理阿に予知してもらうんだ！ / 凄ノ王を止める手段を！
+   EN: Let's find Maria!  We'll have her foresee it! A way to stop Susano-oh!
+>> 16.13 | {s} | でも…！ 未来が無ければ / 予知は出来ないわ！ / もしも 凄ノ王を / 止められなかったら…！？
+   EN: But...! If there's no future, she can't foresee anything! What if Susano-oh can't be stopped...!?
+>> 16.14 | {p} | 防げる…っていう未来を / 信じるしかないよ！
+   EN: We just have to believe in a future where we stop him!
+>> 16.15 | {s} | そ そうね！ / 確かに そのとおりだわ！
+   EN: Y-yeah! You're absolutely right!
+>> 16.16 | Mitsurugi | あっ！ ちょっと待って…！？
+   EN: Ah! Wait a moment...!?
+>> 16.17 | Mitsurugi | マンションの周囲が / 透視 出来るようになったわ！ / …地下室がある？ / そして… 誰かいるわ！
+   EN: I can see through to the area around the condo now! ...There's a basement? And... someone's in there!
+>> 16.18 | {p} | よし！ / 地下室の入り口を探そう！
+   EN: All right! Let's find the way into the basement!
+>> 16.19 | Mitsurugi | 私は ここに残るわ！ /  / なんとか 凄ノ王の成長を / 止めてみる！
+   EN: I'll stay here!  I'll try somehow to stop Susano-oh from growing!
+>> 16.20 | Shinichi | 危険過ぎる！ / 自殺行為だ！
+   EN: That's way too dangerous! It's suicide!
+>> 16.21 | Mitsurugi | 生命を賭して 凄ノ王を止めるのが / 美剣一族の運命！
+   EN: It is the Mitsurugi clan's destiny to risk our lives to stop Susano-oh!
+>> 16.22 | Mitsurugi | 私の力には 限界があるわ！ / 早く 真理阿を！
+   EN: My power has its limits! Find Maria, quickly!
+>> 16.23 | {s} | 美剣さん…！
+   EN: Mitsurugi-san...!
+>> 16.24 | Shinichi | ここは 美剣に任せるしかない！ / 行くぞ！
+   EN: We've got no choice but to leave this to Mitsurugi! Let's go!
+>> 16.25 | {p} | マンションが壊れている！！
+   EN: The condo's wrecked!!
+>> 16.26 | Mitsurugi | 今は 地下室をさがして！ / そこに 誰か いるはずよ！ / 私が 凄ノ王の成長を / 止めている間に… 急いで！
+   EN: Look for the basement now! Someone must be in there! While I'm holding back Susano-oh's growth... hurry!
+>> 16.27 | {p} | この人 どうしたんだろう…？
+   EN: What happened to this guy...?
+>> 16.28 | Shinichi | 真理阿は 自分に向けられた / 悪しき心を / 相手に跳ね返すことが出来るんだ
+   EN: Maria can throw evil intent aimed at her back at whoever sent it.
+>> 16.29 | {p} | 悪しき心を 相手に跳ね返す…？ / 相手を殺しちゃうの？
+   EN: Throw evil intent back at them...? Does it kill them?
+>> 16.30 | Shinichi | 真理阿は 決して他人を / 傷つけることはない / こいつの脳波や 脈拍は / 正常のはずだ / だが 真理阿が許しを与えるまで / 身動きひとつとれない
+   EN: Maria never hurts anyone. His brain waves and pulse should be normal. But he won't be able to move a muscle until Maria forgives him.
+>> 16.31 | {s} | …どうして真理阿は / 捕まっちゃったのかしら？ / 真理阿を捕まえようなんて / 悪意そのものじゃない？
+   EN: ...So how did Maria get caught? Isn't trying to capture Maria pure malice?
+>> 16.32 | Shinichi | …真理阿は預言者だ /  / 彼女の運命を大きく変えるような / ことでは ない限り / 真理阿が この力を発揮することは / ない…
+   EN: ...Maria is a prophet.  Unless it's something that would drastically change her fate, Maria doesn't use that power...
+>> 16.33 | {p} | それじゃ真理阿は運命を受け入れて / 捕まったことになるよ！？
+   EN: Then that means Maria accepted her fate and let herself get caught!?
+>> 16.34 | Shinichi | ………
+   EN: .........
+>> 16.35 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.36 | Maria | 慎一！
+   EN: Shinichi!
+>> 16.37 | Genzo Kuruma | 無駄だ 慎一！
+   EN: It's no use, Shinichi!
+>> 16.38 | Shinichi | オヤジ！！
+   EN: Old man!!
+>> 16.39 | {p} | 卑怯だぞ！ / 来留間博士！
+   EN: That's dirty, Dr. Kuruma!
+>> 16.40 | Genzo Kuruma | 危険に備えるのが 卑怯なものか！ /  / この女のような優秀な警報装置は / 他にはないわい！
+   EN: How is preparing for danger dirty!?  There's no alarm system finer than this woman!
+>> 16.41 | {p} | それじゃ / 真理阿の予知能力を使って…！？
+   EN: So you used Maria's power of precognition to...!?
+>> 16.42 | Genzo Kuruma | 計画を 邪魔されたくは / なかったのでな！ / そのためには 未来を知る力が / 必要だったのだ！
+   EN: I didn't want my plans interfered with! For that, I needed the power to know the future!
+>> 16.43 | {s} | ひどい！ ひど過ぎるわ！
+   EN: That's awful! Way too awful!
+>> 16.44 | Genzo Kuruma | 失敗作は おまえひとりで / じゅうぶんなのだ 慎一よ！
+   EN: One failure is quite enough, Shinichi, and that's you!
+>> 16.45 | Shinichi | 許さん！
+   EN: I won't forgive you!
+>> 16.46 | Shinichi | 真理阿！ 真理阿！！
+   EN: Maria! Maria!!
+>> 16.47 | Maria | 慎一…
+   EN: Shinichi...
+>> 16.48 | Maria | あなたのことを知ってるわ / {p}君ね…？ / それからあなたは… / {s}さん…
+   EN: I know about you. You're {p}-kun, right...? And you are... {s}-san...
+>> 16.49 | Maria | 行きましょう 慎一 / 美剣さんひとりでは… / 凄ノ王を止められない！
+   EN: Let's go, Shinichi. Mitsurugi-san alone... can't stop Susano-oh!
+>> 16.50 | Shinichi | 真理阿…
+   EN: Maria...
+>> 16.51 | {p} | 急ごう 慎一君！
+   EN: Let's hurry, Shinichi-kun!
+>> 16.52 | Genzo Kuruma | …俺の研究は / まだ終わっていない！ / こんなところで / 倒れるわけには いかんのだ！
+   EN: ...My research isn't finished yet! I can't fall in a place like this!
+>> 16.53 | Maria | あれが… 凄ノ王！
+   EN: That's... Susano-oh!
+>> 16.54 | {p} | 美剣さんは…！？
+   EN: Where's Mitsurugi-san...!?
+>> 16.55 | Maria | 慎一 あたしを… / 美剣さんのところまで…
+   EN: Shinichi, take me... to Mitsurugi-san...
+>> 16.56 | Shinichi | わかった
+   EN: Got it.
+>> 16.57 | Maria | 美剣さん…
+   EN: Mitsurugi-san...
+>> 16.58 | Mitsurugi | あ あなたが… 予知一族最大の / 預言者・真理阿…さん？
+   EN: Y-you're... the Precog Clan's greatest prophet... Maria-san?
+>> 16.59 | {p} | 美剣さん！
+   EN: Mitsurugi-san!
+>> 16.60 | Mitsurugi | だ 大丈夫よ {p}君… / ちょっと疲れただけ… / それよりも！ 真理阿さん… / 教えて…  / 凄ノ王を止める方法を…！
+   EN: I-I'm fine, {p}-kun... Just a little tired... More importantly! Maria-san... tell me... how to stop Susano-oh...!
+>> 16.61 | Shinichi | どうした 真理阿…？
+   EN: What's wrong, Maria...?
+>> 16.62 | Maria | なんでもないの 慎一 /  / 美剣さん よく聞いて… / 凄ノ王を止めるためには…
+   EN: It's nothing, Shinichi.  Mitsurugi-san, listen closely... To stop Susano-oh...
+>> 16.63 | Maria | きゃ～～～！！
+   EN: KYAAAAA!!
+>> 16.64 | Shinichi | 真理阿～～！？
+   EN: MARIAAA!?
+>> 16.65 | {p} | 誰だ～！？
+   EN: Who's theeere!?
+>> 16.66 | Uryu | ここまできて / 邪魔されてたまるか！
+   EN: I've come this far, I won't let you get in my way now!
+>> 16.67 | {p} | 瓜生！
+   EN: Uryu!
+>> 16.68 | {s} | あなたって… 最低！
+   EN: You are... the lowest of the low!
+>> 16.69 | Shinichi | きさま 許せん！
+   EN: You bastard, I won't forgive you!
+>> 16.70 | {p} | 僕もだ！ 僕は これまで / こんなに人を憎んだことはない！ / 瓜生麗！ / 僕は おまえを許せない！
+   EN: Me neither! I've never hated anyone this much! Rei Uryu! I'll never forgive you!
+>> 16.71 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.72 | Uryu | あはははは…！ / いいぞ いいぞぉ！ / おまえの怒りが / 凄ノ王に力を与えている！
+   EN: Ahahahaha...! Good, goood! Your rage is giving Susano-oh power!
+>> 16.73 | Mitsurugi | 怒りに我を忘れてはだめ！
+   EN: Don't lose yourself to rage!
+>> 16.74 | Shinichi | 心配するなよ 俺は冷静だ… /  / 真理阿を傷つけたヤツにどうやって / 復讐しようかってな！！
+   EN: Don't worry, I'm calm...  Calmly working out how to get revenge on the guy who hurt Maria!!
+>> 16.75 | Uryu | うっ…？
+   EN: Ngh...?
+>> 16.76 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.77 | Uryu | …何をするつもりだ！
+   EN: ...What are you going to do!?
+>> 16.78 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.79 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.80 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.81 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.82 | Uryu | あっはははは！ / 真理阿 残念だったな！ / 凄ノ王は 悪しき心の源泉だ！ / 「魔」の塊だ！ / いかにおまえでも 沸き続ける / 悪意には 太刀打ち出来ない！
+   EN: Ahahahaha! Too bad, Maria! Susano-oh is the wellspring of evil hearts! A mass of "Ma"! Not even you can stand up to malice that keeps welling up!
+>> 16.83 | Maria | 違うわ…
+   EN: You're wrong...
+>> 16.84 | Uryu | …！？
+   EN: ...!?
+>> 16.85 | Maria | あたしが 狙ったのは 「魔」の中に / 閉じ込められた者の心！ / 理性を失い 「魔」に取り憑かれた / 者の心を 目覚めさせたの…！
+   EN: What I aimed at was the heart of the one trapped inside the "Ma"! I awakened the heart of the one who lost his reason and was possessed by "Ma"...!
+>> 16.86 | Uryu | すると 貴様 朱紗の心を…！？
+   EN: Then you've reached Shusha's heart...!?
+>> 16.87 | Maria | 後は / 彼を包む「魔」を剥がすだけ…
+   EN: All that's left is to peel away the "Ma" that wraps around him...
+>> 16.88 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.89 | {p} | 凄ノ王が… 泣いている！？
+   EN: Susano-oh is... crying!?
+>> 16.90 | {s} | なんて哀しい叫び声…
+   EN: What a sorrowful cry...
+>> 16.91 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.92 | Maria | 今は まだ / 「魔」の勢いのほうが強い… / 早く… / 急がなければ…！
+   EN: Right now, the "Ma" is still stronger... Quickly... we must hurry...!
+>> 16.93 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.94 | {p} | 大丈夫…？
+   EN: Are you okay...?
+>> 16.95 | {s} | 死んじゃったりしないよね…！？
+   EN: You're not going to die, are you...!?
+>> 16.96 | Uryu | 真理阿に向けた 俺の悪意が / 凄ノ王の身体を 突き抜け / 朱紗を 目覚めさせる力と / なったわけか…？
+   EN: So the malice I aimed at Maria went right through Susano-oh's body and became the power that awakened Shusha...?
+>> 16.97 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.98 | Uryu | 朱紗が 俺を見ている！？ /  / …いや！ / まだ ヤツは 凄ノ王だ！
+   EN: Shusha is looking at me!?  ...No! He's still Susano-oh!
+>> 16.99 | Uryu | 俺の計画を 邪魔する者は / 皆殺しだ！ / 貴様らの死が 凄ノ王を / より強くするだろう…！
+   EN: Anyone who gets in the way of my plan dies! Your deaths will make Susano-oh even stronger...!
+   ctx 17.00 | {p} | 瓜生！
+   ctx EN: Uryu!
+   ctx 17.01 | {p} | …雪代さん！
+   ctx EN: ...Yukishiro-san!

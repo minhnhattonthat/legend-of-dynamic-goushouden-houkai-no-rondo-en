@@ -1,0 +1,208 @@
+   ctx 22.98 | Professor Yumi | 魔王は / {p}君を「再生の太陽」と / {s}君を「破壊の月」と / 呼ぶ / また 暴徒達は {p}君を / 魔王に差し出せといっている / これは 魔王が言う「結合の時」に / 関係あると思われる
+   ctx EN: The Demon King calls {p}-kun the "Sun of rebirth" and {s}-kun the "Moon of destruction." And the rioters are saying to hand {p}-kun over to the Demon King. I believe this is connected to what the Demon King calls the "time of joining."
+   ctx 22.99 | Professor Yumi | 居住エリアからは 出ないことだ / もしも 君が魔王に捕らえられたら / 結合の時とやらが / 訪れてしまうかもしれない…
+   ctx EN: Don't leave the residential area. If the Demon King captures you, this "time of joining" may come...
+>> 23.00 | Scientist | う～む… わからん…！
+   EN: Hmmm... I can't make sense of it...!
+>> 23.01 | Scientist | 謎を解くのが科学者のつとめじゃ！ / まかせなさい！
+   EN: Solving mysteries is a scientist's duty, I tell you! Leave it to me!
+>> 23.02 | Scientist | むむむ… むむむ…
+   EN: Hmmm... hmmm...
+>> 23.03 | Scientist | 月と太陽… いろいろ / 考える余地はありそうじゃな…
+   EN: The moon and the sun... There's a lot of room for thought there, I'd say...
+>> 23.04 | Doctor | みなさん だいぶショックを / 受けています / 仲間だった人が / 魔物に変ったんですからね
+   EN: Everyone's pretty badly shaken. After all, someone who was their friend turned into a monster.
+>> 23.05 | Akira Fudo | 誰かに 身体を操られるのは / もうごめんだぜ… / 信用していた仲間に 傷つけられ / るのは もっとイヤだ…！
+   EN: I've had enough of somebody controlling my body... And getting hurt by a friend I trusted is even worse...!
+>> 23.06 | Mondo Saotome | 裏切るのは慣れているが / 裏切られるのは慣れてないんでね / 誰のことかって？ / {s}さ！
+   EN: I'm used to doin' the betrayin', but not to bein' betrayed. Who do I mean? {s}, that's who!
+>> 23.07 | Ryoma Shindo | {p}の {s}への / 気持ちは わかるよ / でも アレはもう / {s}じゃない！ / 化け物だ！
+   EN: I get how you feel about {s}, {p}. But that thing's not {s} anymore! It's a monster!
+>> 23.08 | Jack | ……………
+   EN: ...............
+>> 23.09 | Enma-kun | もしかしたら {s}を / 地獄別荘に招いたのが / そもそも 失敗だったのかも
+   EN: Maybe inviting {s} to Hell Villa was a mistake to begin with.
+>> 23.10 | Kapaeru | いてェよぉ いてぇよぉ… / 頭いてェよぉ…
+   EN: It hurts, it hurts... My head hurts somethin' awful...
+>> 23.11 | Princess Yukiko | 寒気がするの… / こんなの はじめて…
+   EN: I've got chills... I've never felt like this before...
+>> 23.12 | Great King Enma | わしとしたことが 遅れをとった / わい 次は必ず仕留める！ / {s}のことは / 忘れるべきじゃぞ！
+   EN: To think that even I was bested! Next time, I'll finish it for sure! You should forget about {s}, my boy!
+>> 23.13 | Yamagishi | てやんでぇ これしきの傷！ / やられたら やりかえすぜ！ / たとえ相手が / 元{s}でもな！
+   EN: Bah, a scratch like this! You hit me, I hit back! Even if it's the former {s}!
+>> 23.14 | Fukurokoji | 痛いよ～！ オヤブン / もういやだ こんなの…
+   EN: Owww! Boss, I can't take this anymore...
+>> 23.15 | Jubei | {p}には気の毒だけど / もう忘れるべきよ / {s}のこと…
+   EN: I feel bad for you, {p}, but you should forget about {s} now...
+>> 23.16 | Jiro | 手天童子郎でもあり / 手天童子でもある / それでも俺は 俺であることに / かわりはない / しかし {s}は / 魔物になってしまった！
+   EN: I'm Jiro Shutendo, and I'm also the Shutendoji. Even so, I'm still me. But {s} has become a monster!
+>> 23.17 | Goki | あのような魔物を相手に / どこまで童子をお護り出来るか…
+   EN: Against such a monster, how long can I protect Doji...
+>> 23.18 | Senki | 戦いで 俺は 初めて恐怖を感じた / あいつは 恐ろしいヤツだ！
+   EN: In that fight, for the first time I felt fear. That one is terrifying!
+>> 23.19 | Miyuki Shiratori | 私 恐いの… 黒い魔物が…！ / {s}が…！
+   EN: I'm scared... of the black fiends...! Of {s}...!
+>> 23.20 | Sayaka Yumi | 一緒に戦ってきた仲間に 裏切ら / れたんだもん つらいわよ…
+   EN: A friend we fought side by side with betrayed us. It's hard...
+>> 23.21 | Boss | 許せねぇ！ / このボスを だますなんて！
+   EN: Unforgivable! Pullin' one over on the Boss!
+>> 23.22 | Nuke | いたいなぁ… いたいよぉ… / いたいぞぉ…
+   EN: Ouchie... it hurts... it hurts...
+>> 23.23 | Mucha | くそ～！ いてぇ～！ / なんとかしてくれぇ～！
+   EN: Dammit! It hurts! Somebody do somethin'!
+>> 23.24 | Chigusa Mitsurugi | ごめんなさい… 一生懸命 / {s}を信じようとしても / あの恐ろしい姿が / 忘れられないの！
+   EN: I'm sorry... No matter how hard I try to believe in {s}, I can't forget that terrifying form!
+>> 23.25 | Goda | 正直 恐かったよ / 今でも… 恐い…
+   EN: Honestly, I was scared. Even now... I'm scared...
+>> 23.26 | Uryu | 今まで 他人を意のままに / 操ってきた俺だが / 初めて 自分が 他人に操られて / しまった… イヤな気分だぜ！
+   EN: I've always bent others to my will, but this is the first time I've been controlled by someone else... What a lousy feeling!
+>> 23.27 | Tomisaburo | ガタガタ ブルブル… / お 恐ろしい…！
+   EN: Sh-shake, shiver... S-so scary...!
+>> 23.28 | Honey Kisaragi | みんな {s}のことが / 好きだったのよ… / それだけにショックを受けてるの / 気にしないほうが いいわ…
+   EN: Everyone liked {s}... That's why they're so shocked. Better not let it get to you...
+>> 23.29 | Honey Kisaragi | とても{s}とは / 思えない姿だったもの… / あたしだって 思い出すと / 恐いの…
+   EN: She looked nothing like {s}... Even I get scared remembering it...
+>> 23.30 | Honey Kisaragi | 黒い魔物に 操られた恐怖が / 忘れられないのね… / 自分が {s}のように / なっていたかもしれないんだもの
+   EN: They can't forget the terror of being controlled by the black fiends... They might have ended up like {s} themselves.
+>> 23.31 | Honey Kisaragi | いつか 解ってくれると思うの /  / それまでは 何を言われても / 気にしないほうが いいわ…
+   EN: I think they'll understand someday.  Until then, better not let what they say get to you...
+>> 23.32 | Akira Fudo | 身体を操り 仲間を裏切り / 傷つける… / 俺は 魔王を許さん！
+   EN: Controlling bodies, turning friends into traitors, hurting them... I won't forgive the Demon King!
+>> 23.33 | Mondo Saotome | 酷いことになったな / だが あきらめるなよ！ / どんなことでも / あきらめたら 終わりだぜ！
+   EN: Things got ugly. But don't give up! Whatever it is, you give up and it's over!
+>> 23.34 | Ryoma Shindo | 元気出しなよ {p}！ /  / 必ず {s}は / 元に戻るさ！
+   EN: Cheer up, {p}!  {s}'ll come back to normal for sure!
+>> 23.35 | Jack | 魔王の存在が気にかかる…
+   EN: The Demon King's existence troubles me...
+>> 23.36 | Enma-kun | まさか こんなことに / なるなんてな… / 俺は魔王をやっつけたくて / うずうずしてるぜ！
+   EN: Never thought it'd come to this... I'm itching to take down the Demon King!
+>> 23.37 | Kapaeru | あんさんの気持ちは / よ～ わかるで！
+   EN: I know just how you feel, I do!
+>> 23.38 | Princess Yukiko | あたしは 信じてないわよ /  / {s}が / 魔物になったなんて！
+   EN: I don't believe it!  That {s} turned into a monster!
+>> 23.39 | Great King Enma | 黒い物体で / 人々を意のままに操る… / 何者じゃ 魔王とは！
+   EN: Controlling people at will with black things... Who is this Demon King!?
+>> 23.40 | Yamagishi | ひっで～ことしやがるよなぁ / 魔王ってさ！
+   EN: That Demon King sure pulls some nasty stuff, huh!
+>> 23.41 | Fukurokoji | ボクは 怒ってますです！
+   EN: I'm mad, I really am!
+>> 23.42 | Jubei | {s}のことが心配でしょ？ / あたしもよ / でも必ず 助け出してあげるわ！ / だから元気だして！
+   EN: You're worried about {s}, right? Me too. But we'll rescue her for sure! So cheer up!
+>> 23.43 | Jiro | 自分が何者か解らないことは / とても つらいことだよ / {s}も きっと ひどく / 悩んでいると思うよ
+   EN: Not knowing what you are is really hard. I bet {s} is suffering terribly too.
+>> 23.44 | Goki | {s}が / 完全に魔物になったと / 決まったわけではない！
+   EN: It is not yet certain that {s} has become a monster completely!
+>> 23.45 | Senki | たとえ{s}相手でも / 俺は 戦わなくてはならない / 運命だ！
+   EN: Even against {s}, I must fight. That is my fate!
+>> 23.46 | Miyuki Shiratori | これから 世界は / どうなっちゃうのかしら…
+   EN: What's going to happen to the world now...
+>> 23.47 | Sayaka Yumi | アフロダイＡが 魔王を / やっつけるわよ！まかせて！
+   EN: Aphrodite A will beat the Demon King! Leave it to me!
+>> 23.48 | Boss | 俺に 恐いもんはねぇぜ！ / たとえ相手が 魔王だってな！
+   EN: I ain't scared of nothin'! Not even the Demon King!
+>> 23.49 | Nuke | 操られるのは イヤだから / 魔王をやっつけないとな！
+   EN: I hate gettin' controlled, so we gotta beat the Demon King!
+>> 23.50 | Mucha | 来るなら / いつでも来やがれ…ってんだ！
+   EN: Bring it on, anytime ya like!
+>> 23.51 | Goda | 元気出すんだ {p}！ / 俺の拳を信じてくれ！
+   EN: Cheer up, {p}! Believe in my fists!
+>> 23.52 | Danbei | おぬしの気持ちは わかるぞ / {p}よ / 心配じゃろ～なぁ / ワシ がんばっちゃうもんね！
+   EN: I know how you feel, {p}, my boy. You must be worried sick, eh? Well, this old man's gonna give it everything he's got!
+>> 23.53 | Kogoro Iboji | おっそろし～事件に / まきこまれちゃったみたい
+   EN: Seems we got caught up in a terrrifying case...
+>> 23.54 | Koyayashi | まお～ まお～ やっつける～！
+   EN: Demon Kiiing, Demon Kiiing, beat him uuup!
+>> 23.55 | Shinichi | 黒い物体が 人々を操れることは / みんなが知っている / なのに なんで{s}が / 魔物と呼ばれるんだろうな？
+   EN: Everyone knows the black things can control people. So why is {s} the one being called a monster?
+>> 23.56 | {p} | {s}が / 「破壊の月」だから…かな？ / でも「破壊の月」って / なんだろう…
+   EN: Because {s} is the "Moon of destruction," maybe? But what is the "Moon of destruction"...
+>> 23.57 | Shinichi | 謎が多過ぎるな…
+   EN: Too many mysteries...
+>> 23.58 | Shusha | 魔王は おまえのことを / 「再生の太陽」って呼んだんだろ？ / 「再生の太陽」って / どういう意味かな？
+   EN: The Demon King called you the "Sun of rebirth," right? What does "Sun of rebirth" mean?
+>> 23.59 | {p} | ………
+   EN: .........
+>> 23.60 | Shusha | 凄ノ王と呼ばれて / とても不安な気持ちになったよ / 今の{p}の気持ち / 俺には わかるよ
+   EN: When they called me Susano-oh, I felt really uneasy. I know how you feel right now, {p}.
+>> 23.61 | {p} | ありがとう 朱紗君
+   EN: Thanks, Shusha-kun.
+>> 23.62 | Professor Yumi | 破壊の月… 再生の太陽… / 結合の時… / う～ん…
+   EN: The Moon of destruction... the Sun of rebirth... the time of joining... Hmmm...
+>> 23.63 | Scientist | わからんことだらけじゃ… / わしゃ 疲れてきた…
+   EN: Nothing but mysteries... I'm getting tired, I tell you...
+>> 23.64 | Scientist | 謎を解こうとすると / 新たな謎が生まれる…
+   EN: Every time I try to solve a mystery, a new one appears...
+>> 23.65 | Scientist | むにゃむにゃ… ハッ！？ / いかん 寝てもうた…
+   EN: Mumble mumble... Huh!? Oh no, I dozed off...
+>> 23.66 | Scientist | ワシが思うに…！ あれ / なに言おうとしたんだっけ？
+   EN: In my opinion...! Huh, what was I going to say?
+>> 23.67 | Honey Kisaragi | ダメよ 居住エリアから出ちゃ！
+   EN: No, don't leave the residential area!
+>> 23.68 | Seiji Hayami | 君は 狙われてるんだぞ！
+   EN: They're after you, you know!
+>> 23.69 | Honey Kisaragi | どうしよう… 行っちゃったわ！
+   EN: What do we do... He's gone!
+>> 23.70 | Seiji Hayami | 弓教授に知らせてくる！
+   EN: I'll go tell Professor Yumi!
+>> 23.71 | Honey Kisaragi | …もう！ あの子ったら！！
+   EN: ...Honestly! That boy!!
+>> 23.72 | Honey Kisaragi | 良かった！ / 無事だったのね！ / ハニーを置いて行っちゃうなんて / 水臭いぞ！
+   EN: Thank goodness! You're okay! Leaving Honey behind like that... how cold!
+>> 23.73 | Seiji Hayami | 良かった！ / 無事みたいだね！ / ちょうど会議が終わったところだ / 弓教授が君に会いたがっているぞ！
+   EN: Thank goodness! Looks like you're okay! The meeting just ended. Professor Yumi wants to see you!
+>> 23.74 | {p} | この人達に見つかったら / 僕の命はない… / 別の場所へ行こう…
+   EN: If these people find me, I'm dead... Let's go somewhere else...
+>> 23.75 | Scientist | {p}君！ / よかった 無事みたいだね / ちょうど会議が終わったところだ / 弓教授が君に会いたがっているぞ
+   EN: {p}-kun! Thank goodness, looks like you're okay. The meeting just ended. Professor Yumi wants to see you.
+>> 23.76 | Scientist | {p}君！ / よかった 無事みたいだね / ちょうど会議が終わったところだ /  / 早乙女博士が / 君に会いたがっているぞ
+   EN: {p}-kun! Thank goodness, looks like you're okay. The meeting just ended.  Dr. Saotome wants to see you.
+>> 23.77 | {p} | 力を貸してくれる仲間が / まだ他にも いるかもしれない / きっと どこかに…
+   EN: There might still be more friends who'll lend us their strength. Somewhere out there...
+>> 23.78 | Doctor | 黒い魔物に操られた人の中には / 気を失って 病院に運ばれた人も / たくさん いました
+   EN: Many of the people controlled by the black fiends passed out and were taken to the hospital.
+>> 23.79 | Professor Yumi | {p}君！ / ようやく答えを見出せたよ！ / 魔王は 日蝕を待っているのだよ！
+   EN: {p}-kun! I've finally found the answer! The Demon King is waiting for a solar eclipse!
+>> 23.80 | {p} | 月が 太陽の光をさえぎる / あの日蝕ですか？
+   EN: You mean an eclipse, when the moon blocks the sun's light?
+>> 23.81 | Professor Yumi | そのとおり！ /  / 恐らく 日蝕の訪れと共に / 魔王は 真の力を得るのだと思う
+   EN: Exactly!  Most likely, the Demon King will gain his true power when the eclipse comes.
+>> 23.82 | {p} | …！？
+   EN: ...!?
+>> 23.83 | Professor Yumi | これまで 次元連鎖が起きるたびに / あるものが出現していた / 黒い月だ！ /  / …日蝕が起きたら / 何が出現するかね？
+   EN: Every time the Dimension Chain has occurred, a certain thing has appeared. The black moon!  ...So when an eclipse happens, what appears?
+>> 23.84 | {p} | え？… え～と あっ！
+   EN: Huh? ...Uh, um... Oh!
+>> 23.85 | Professor Yumi | そうだ 黒い太陽だ！ /  / 黒い太陽が 出現した時 / 魔王が 真の力を得るのだ！
+   EN: That's right, a black sun!  When the black sun appears, the Demon King will gain his true power!
+>> 23.86 | {p} | それで 次の日蝕は / いつなんですか？
+   EN: So when's the next eclipse?
+>> 23.87 | Professor Yumi | 明日だ…
+   EN: Tomorrow...
+>> 23.88 | {p} | 明日！？
+   EN: Tomorrow!?
+>> 23.89 | Professor Yumi | 至急 対策を立てねばならん！ /  / サロンに来てくれ！ / 作戦会議だ！
+   EN: We must make a plan at once!  Come to the salon! It's a strategy meeting!
+>> 23.90 | Scientist | 破壊の月 再生の太陽… そして / 間もなく訪れる 結合の時！ / これらのキーワードから / 導かれた推論が 日蝕なんじゃ
+   EN: The Moon of destruction, the Sun of rebirth... and the time of joining that's soon to come! The eclipse is the conclusion drawn from those keywords, I tell you.
+>> 23.91 | Scientist | 太陽の光とは 人々にとって / 恵みをもたらす / それを 月がさえぎる この時 / 魔王が 世界を破壊する！
+   EN: The sun's light brings blessings to people. At the moment the moon blocks it, the Demon King will destroy the world!
+>> 23.92 | Scientist | 魔王は 黒い月を利用して / 世界を結合させてきた / 黒い太陽を使って 魔王は / なにを目論んでいるのか…
+   EN: The Demon King has used the black moon to join the worlds together. What is he scheming to do with a black sun...?
+>> 23.93 | Scientist | 問題は 再生の太陽が / 何を意味しているか…じゃ / これだけは / まだ よくわからんのじゃよ
+   EN: The question is what the Sun of rebirth means, you see. That's the one thing we still don't quite understand.
+>> 23.94 | Professor Yumi | …というわけだ 諸君！ / 日蝕は 明日！ / もしも 私の推理が正しければ / 明日 魔王は 真の力を得る！
+   EN: ...So there you have it, everyone! The eclipse is tomorrow! If my reasoning is correct, tomorrow the Demon King gains his true power!
+>> 23.95 | Professor Yumi | そして {p}君！ / 君に言い忘れていたことがある / 恐らく {s}君は / 無事に生きているぞ！
+   EN: And {p}-kun! There's something I forgot to tell you. In all likelihood, {s}-kun is alive and well!
+>> 23.96 | {p} | …！
+   EN: ...!
+>> 23.97 | Professor Yumi | 君が生きていることが / その証しだよ / 魔王は {s}君を / 「月」と呼び / 君を「太陽」と呼んだのだからね
+   EN: The proof is that you're alive. After all, the Demon King called {s}-kun the "moon" and you the "sun."
+>> 23.98 | {p} | そっか… 魔王が 僕を / 必要としているってことは… / {s}も 生きている / 可能性が 高いわけだ！
+   EN: I see... If the Demon King needs me... then there's a good chance {s} is still alive too!
+>> 23.99 | Professor Yumi | 魔王は / 捕らえた {s}君を / 逃がさぬよう 見張っているのだ /  / そして人々を操り 君を手に / 入れようと しているのだろう
+   EN: The Demon King is keeping watch over {s}-kun so she can't escape.  And he's probably controlling people to try to get his hands on you.
+   ctx 24.00 | {p} | 僕 {s}を / 助けに 始まりの丘に行きます！
+   ctx EN: I'm going to the Hill of Beginnings to rescue {s}!
+   ctx 24.01 | Professor Yumi | いかん！
+   ctx EN: You mustn't!

@@ -1,0 +1,4 @@
+IMPORTANT | 04.08 | "俺と関ったら ただでは済まん" means getting involved with me will have dire consequences. | "Won't walk away clean" suggests moral taint rather than danger, weakening Jack's warning. | You'll understand in time... And you'll learn that getting mixed up with me comes at a price...
+IMPORTANT | 04.31 | "ホントだったら こりゃけっこうな話だね" means that would be delightful news, with a Kekko Kamen pun. | "How very kekko" leaves the punchline untranslated and unintelligible in English. | Speaking of weird, I heard something. Someone saw a naked woman around the school! If that's true, school's looking pretty revealing!
+MINOR | 04.62 | "人違いなら 出してくれよ！" means let us out if you've mistaken us for someone else. | "If it's the wrong people" sounds unnatural in a direct protest. | If you've got the wrong people, let us out!
+ASSESSMENT | b005 | Needs fixes | Most dialogue reads well, but Jack's warning and the naked-woman joke need clearer English.

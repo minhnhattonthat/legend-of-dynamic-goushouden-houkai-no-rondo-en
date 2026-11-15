@@ -1,0 +1,208 @@
+   ctx 28.98 | {p} | 「黒い月が輝く時 / 　お逢いしましょう…」
+   ctx EN: "When the black moon shines, let us meet..."
+   ctx 28.99 | Enma-kun | 俺達も 出発しようぜ！
+   ctx EN: Let's head out too!
+>> 29.00 | Shinichi | …どこかに これと似たような / 装置が あるのかもしれないな / それを探し出そう
+   EN: ...There might be another device like this somewhere. Let's find it.
+>> 29.01 | Enma-kun | {p}が魔王に捕まる前に / 見つけ出さないとな
+   EN: We gotta find it before the Demon King catches {p}.
+>> 29.02 | Shinichi | 俺達は マジンガーＺを助ける /  / 朱紗 おまえは / {p}を探してくれ！
+   EN: We'll rescue Mazinger Z.  Shusha, you go find {p}!
+>> 29.03 | Shinichi | 俺達は ゲッターロボを助ける /  / 朱紗 おまえは / {p}を探してくれ！
+   EN: We'll rescue Getter Robo.  Shusha, you go find {p}!
+>> 29.04 | Shusha | 何の反応も無い…
+   EN: No reaction at all...
+>> 29.05 | Shusha | …ん？ / これは…！？
+   EN: ...Hm? What's this...!?
+>> 29.06 | {p} | そうか… / 僕らは この太陽のレリーフに / 引き寄せられたんだ…
+   EN: I see... We were drawn in by this sun relief...
+>> 29.07 | Shusha | そうらしいな / どういう仕掛けかは解らないがな
+   EN: Seems that way. Though I've no idea how the mechanism works.
+>> 29.08 | {p} | ひょっとしたら 月のレリーフから / {s}が助け出せるかも…
+   EN: Maybe we can rescue {s} through the moon relief...
+>> 29.09 | Akira Fudo | 月が光る…黒い月！？
+   EN: The moon's shining... A black moon!?
+>> 29.10 | Shusha | 気をつけろ！ {p}! / 光の中から出るんだ！！
+   EN: Look out, {p}! Get out of the light!!
+>> 29.11 | Honey Kisaragi | 月が光る…黒い月！？
+   EN: The moon's shining... A black moon!?
+>> 29.12 | Shusha | ダメだ もう反応しない
+   EN: No good, it won't react anymore.
+>> 29.13 | Ryo Asuka | 違った運命…か
+   EN: A different fate... huh.
+>> 29.14 | Schoolgirl | この学園は もうダメよ / 中には誰も残ってないわ / あなた達も逃げて！！
+   EN: This school's done for. There's no one left inside. You should run too!!
+>> 29.15 | Honey Kisaragi | 夏ちゃんも きっと / 森の中に逃げているわ / 探してみましょう！
+   EN: I'm sure Natsu-chan ran into the forest too. Let's look for her!
+>> 29.16 | Honey Kisaragi | 火の勢いが強くて / 中には入れないわ
+   EN: The fire's too strong. We can't get inside.
+>> 29.17 | {p} | みんな / いろいろ ありがとう！
+   EN: Everyone, thanks for everything!
+>> 29.18 | Ryu Takuma | {p} / 俺 決めたよ！ / いつか俺は 関東を平和で安心して / 暮らせる場所にするんだ / 大人も子供も関係なく / 仲良く暮らせる場所にね！ / 震災砦の / 仲間達といっしょに！！
+   EN: {p}, I've made up my mind! Someday I'm gonna make Kanto a place where people can live in peace and safety. A place where grown-ups and kids alike can live together as friends! Together with my friends at the Quake Fort!!
+>> 29.19 | Jack | 元の世界では / もっとも過酷な運命が / おまえ達を / 待っているかもしれんぞ…
+   EN: Back in your world, the harshest of fates may be awaiting you...
+>> 29.20 | Ryu Takuma | 平気さ！ / 仲間といっしょならば！
+   EN: No problem! Not as long as I've got my friends!
+>> 29.21 | Mondo | 俺も 望むところよ！ /  / たいくつな世界は / こっちから 願い下げだぜ
+   EN: Bring it on, I say!  A boring world, I'll pass on, thanks.
+>> 29.22 | Ryoma | あははは… / 門土ったら！
+   EN: Ahahaha... Oh, Mondo!
+>> 29.23 | Jack | ………
+   EN: .........
+>> 29.24 | {p} | どんな世界であれ / みんななら うまくやれるさ！
+   EN: Whatever world it is, you guys will do just fine!
+>> 29.25 | {p} | まさか！？
+   EN: No way!?
+>> 29.26 | {p} | ホッ… 良かった…
+   EN: Phew... Thank goodness...
+>> 29.27 | {p} | いけね！ / {s}が 待ってる！
+   EN: Oh no! {s}'s waiting!
+>> 29.28 | {s} | おそいよ {p}！ / いつも時間にルーズなんだから！
+   EN: You're late, {p}! You're always so sloppy about time!
+>> 29.29 | {p} | い いや… 実は…って / 説明しても伝わるのかな…？
+   EN: W-well, um... the thing is... would she even understand if I explained...?
+>> 29.30 | {s} | いいわけ無用！ / もう知らない！
+   EN: No excuses! I'm through with you!
+>> 29.31 | {s} | …ちょっと なによ あれ？
+   EN: ...Hey, what's that?
+>> 29.32 | {p} | 黒い月！？ / まさか またアレが！？
+   EN: A black moon!? Don't tell me it's that again!?
+>> 29.33 | {s} | …なによ それ？ /  / 見て！ / 月が大きくなって行くわ！
+   EN: ...What are you talking about?  Look! The moon's getting bigger!
+>> 29.34 | {p} | う う～ん… / こ ここは…？ / うっ… 頭が 痛い… / 割れるようだ…
+   EN: Uhh... nnn... Wh-where am I...? Ugh... My head hurts... Like it's splitting...
+>> 29.35 | {p} | 大丈夫？ しっかりして！
+   EN: Are you okay? Hang in there!
+>> 29.36 | {s} | …あたし達 どうしたの？
+   EN: ...What happened to us?
+>> 29.37 | {p} | 黒い月が… 現れたんだ…！
+   EN: The black moon... appeared...!
+>> 29.38 | {s} | お 思い出したわ…！！
+   EN: I-I remember now...!!
+>> 29.39 | {p} | 人が倒れてる…！
+   EN: There's someone collapsed over there...!
+>> 29.40 | {s} | え？ でも 公園には あたし達しか / いなかったはずよ！
+   EN: Huh? But we were the only ones in the park!
+>> 29.41 | {p} | そ そうだね… / う… 頭が… 痛い… / う… 何か大切な事を / 忘れているような… / 解らない…
+   EN: Y-yeah... Ugh... My head... it hurts... Ugh... I feel like I'm forgetting something important... I don't know...
+>> 29.42 | {s} | 大丈夫 {p}？
+   EN: Are you okay, {p}?
+>> 29.43 | {p} | …大丈夫だよ / ともかく 様子を見なきゃ…
+   EN: ...I'm okay. Anyway, we should go check...
+>> 29.44 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you okay!?
+>> 29.45 | Girl | …大丈夫よ
+   EN: ...I'm fine.
+>> 29.46 | {p} | き 君は…？
+   EN: Wh-who are you...?
+>> 29.47 | {s} | ちょっと / なに見とれてるのよ！？ / ほら あっちにも人が / 倒れてるわよ！
+   EN: Hey, what are you staring at!? Look, there's somebody collapsed over there too!
+>> 29.48 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you okay!?
+>> 29.49 | {s} | なんだか 頼りない感じの子ね…
+   EN: He seems kind of a pushover...
+>> 29.50 | Boy | ごめん…
+   EN: Sorry...
+>> 29.51 | {s} | 聞こえちゃった？ / ごめんなさい…
+   EN: You heard that? I'm sorry...
+>> 29.52 | Boy | いいんだ / 君達が助けてくれたのかい？
+   EN: It's fine. Did you guys help me?
+>> 29.53 | {p} | 助けたことに…なるのかな？
+   EN: I guess... that counts as helping?
+>> 29.54 | {s} | あたし達も / 何がなんだか わからないのよ
+   EN: We don't know what's going on either.
+>> 29.55 | Boy | そうなんだ / 僕は 不動明 君達は…？
+   EN: I see. I'm Akira Fudo. And you guys are...?
+>> 29.56 | Girl | あたしは 如月ハニーよ
+   EN: I'm Honey Kisaragi.
+>> 29.57 | {p} | 僕は {p}… /  / でも 君達 どこかで / 逢ったことが あるような…
+   EN: I'm {p}...  But I feel like I've met you two somewhere before...
+>> 29.58 | Honey Kisaragi | そうかしら？
+   EN: Have you?
+>> 29.59 | Akira Fudo | …初対面だと思うよ
+   EN: ...I think this is the first time we've met.
+>> 29.60 | {p} | う～ん なんだろ この感じ… / デジャ・ヴってヤツかな？
+   EN: Hmmm, what is this feeling... Is it that deja vu thing?
+>> 29.61 | {s} | あたしは {s}よ / よろしくね！
+   EN: I'm {s}. Nice to meet you!
+>> 29.62 | {p} | …すると 明君は / 下校途中だったわけだね
+   EN: ...So, Akira-kun, you were on your way home from school.
+>> 29.63 | Akira Fudo | 下宿先の 牧村さん家に / 帰る途中だったんだ / 美樹ちゃん / 心配してるだろうなぁ…
+   EN: I was heading back to the Makimuras', where I board. Miki-chan must be worried...
+>> 29.64 | Honey Kisaragi | 美樹ちゃんって 彼女？ / いいわね / あたしなんて / 全寮制の 女子校だもん
+   EN: Is Miki-chan your girlfriend? Lucky you. Me, I'm at an all-girls boarding school.
+>> 29.65 | {s} | 彼氏 いないの？
+   EN: No boyfriend?
+>> 29.66 | Honey Kisaragi | まわりは 女の子ばっかだもん…
+   EN: It's nothing but girls around me...
+>> 29.67 | {s} | ハニーは どこにいたの？
+   EN: Where were you, Honey?
+>> 29.68 | Honey Kisaragi | ルームメイトと待ち合わせてたの
+   EN: I was meeting my roommate.
+>> 29.69 | Honey Kisaragi | 門限 過ぎると / 寮に戻れなくなっちゃうの / それで…
+   EN: If I miss curfew, I can't get back into the dorm. So...
+>> 29.70 | {p} | ふたりで / こっそり 寮に戻ろうと？
+   EN: The two of you were going to sneak back into the dorm?
+>> 29.71 | Honey Kisaragi | うん
+   EN: Uh-huh.
+>> 29.72 | Akira Fudo | あ ちょっとごめんね
+   EN: Oh, excuse me a second.
+>> 29.73 | {p} | …きっと 友達からだよ
+   EN: ...I bet that's from a friend.
+>> 29.74 | Akira Fudo | え？ あ もしもし…
+   EN: Huh? Oh, hello...
+>> 29.75 | {p} | …きっと お父さんからだよ
+   EN: ...I bet that's from your father.
+>> 29.76 | Honey Kisaragi | え？ あ もしもし…
+   EN: Huh? Oh, hello...
+>> 29.77 | Honey Kisaragi | 切れちゃったわ… / なにかあったのかしら…？ / それにしても… どうして / パパからだと 解ったの？
+   EN: It cut off... I wonder if something happened...? But anyway... how did you know it was Papa?
+>> 29.78 | Akira Fudo | そうだ！ 僕への電話も！
+   EN: That's right! The call for me too!
+>> 29.79 | {p} | わ わからない…
+   EN: I-I don't know...
+>> 29.80 | Honey Kisaragi | あたし達と 逢ったことがある / ようなことを 言ってたわね…？
+   EN: You said something like you'd met us before...?
+>> 29.81 | Akira Fudo | なんか 奇妙な感じだよ 君
+   EN: There's something strange about you.
+>> 29.82 | {s} | それじゃ あたしは / ハニーと一緒！ / こんな可愛い女の子と / 一緒に行かせたら… 危険だわ！
+   EN: Then I'm going with Honey! If I let you go with a girl this cute... it'd be dangerous!
+>> 29.83 | {p} | ど ど～ゆ～意味だい / {s}？
+   EN: Wh-wh-what's that supposed to mean, {s}?
+>> 29.84 | {s} | ふ～んだ！ / さ チーム分け完了ね！ / あたしは ハニーと / {p}は明君と一緒に / 行動するの！
+   EN: Hmph! There, teams all set! I'm going with Honey, and {p}'s going with Akira-kun!
+>> 29.85 | {s} | ここは / 「始まりの丘」って場所らしいわ / お互い 目的を達成したら / 「始まりの丘」に集合ね！
+   EN: This place is apparently called the "Hill of Beginnings." Once we've each done what we came for, we all meet back at the "Hill of Beginnings"!
+>> 29.86 | {s} | それじゃ 行きましょ ハニー！
+   EN: Well then, let's go, Honey!
+>> 29.87 | Honey Kisaragi | それじゃ みんな / また後でね！
+   EN: Well then, everyone, see you later!
+>> 29.88 | Akira Fudo | {p}君 / 僕らも行こうか？
+   EN: {p}-kun, shall we go too?
+>> 29.89 | Honey Kisaragi | …ともかく 明らかなのは / あたしはパパの呼ぶ右の道へ / 明君は了君の言っている 左の道へ / 行かなきゃならないことね
+   EN: ...Anyway, one thing's clear: I have to take the right path, where Papa's calling me, and Akira-kun has to take the left path, like Ryo-kun said.
+>> 29.90 | {p} | これじゃ 始まりの丘に / 戻れない…
+   EN: At this rate, we can't get back to the Hill of Beginnings...
+>> 29.91 | Honey Kisaragi | 行けるところまで / 行ってみましょうよ
+   EN: Let's go as far as we can.
+>> 29.92 | Seiji Hayami | 自動車じゃ 無理だな / 仕方ない 歩こう！
+   EN: No way the car'll make it. Oh well, let's walk!
+>> 29.93 | {p} | …これじゃ ダメだ…
+   EN: ...This is no good...
+>> 29.94 | Honey Kisaragi | こっちに道があるわ / 行ってみましょうか？
+   EN: There's a road over here. Shall we try it?
+>> 29.95 | {p} | うん！
+   EN: Yeah!
+>> 29.96 | Honey Kisaragi | ねぇ ねぇ！ / この道 さっきも通らなかった？
+   EN: Hey, hey! Didn't we come down this road a minute ago?
+>> 29.97 | {p} | やっぱり？ / 僕も そんな気がしてたんだ…
+   EN: You too? I had that feeling as well...
+>> 29.98 | Seiji Hayami | ふぅ… / いったい どうなってるんだろ？
+   EN: Phew... What on earth is going on?
+>> 29.99 | Mysterious Man | まて！
+   EN: Halt!
+   ctx 30.00 | Honey Kisaragi | なによ あなた！？
+   ctx EN: Who do you think you are!?
+   ctx 30.01 | Mysterious Man | ここは 並みの者では / 近づくことさえ かなわぬところ / 迷いの森を抜け / 九龍の谷に たどりつくとは…
+   ctx EN: No ordinary person can even approach this place. To pass through the Lost Forest and reach the Kuryu Valley...

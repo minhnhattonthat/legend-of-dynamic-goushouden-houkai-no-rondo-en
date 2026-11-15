@@ -1,0 +1,4 @@
+IMPORTANT | 47.24 | "全滅したはずのメカザウルスが復活を遂げた" means the Mechasaurus thought wiped out have returned. | Singular "has come back to life" changes the return of the eliminated forces into one creature's revival. | We'd like to build up our forces somehow too. A report has come in from the Getter Team. It seems the Mechasaurus we thought had all been wiped out have returned.
+IMPORTANT | 47.77 | "どいつもこいつも デカいです / ゲッターといい勝負ですよ" means they are all huge, comparable to Getter in size. | "Give Getter a run for its money" suggests combat strength rather than answering the question about size. | Every last one of 'em is huge. They're right up there with Getter in size.
+MINOR | 47.76 | 凄い数だな... | "What numbers..." sounds unnatural as a reaction to the sheer number of enemies. | So many of them... How big are they?
+ASSESSMENT | b048 | Needs fixes | Clarify the returning Mechasaurus forces and the comparison to Getter's size, and polish one awkward reaction.

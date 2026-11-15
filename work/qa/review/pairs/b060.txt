@@ -1,0 +1,208 @@
+   ctx D00.98 |  | 敵単体を【叩】属性で攻撃
+   ctx EN: Blunt attack on one enemy
+   ctx D00.99 |  | 敵単体を【斬】属性で攻撃
+   ctx EN: Slash attack on one enemy
+>> D01.00 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.01 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.02 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.03 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.04 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.05 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.06 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.07 |  | 敵単体を呪い状態にする
+   EN: Curses one enemy
+>> D01.08 |  | 自分以外を【叩】属性で攻撃
+   EN: Blunt attack on everyone but the user
+>> D01.09 |  | １ターンの間、全防御属性が大幅上昇
+   EN: All elemental defenses soar for 1 turn
+>> D01.10 |  | １ターンの間、全防御属性が大幅上昇
+   EN: All elemental defenses soar for 1 turn
+>> D01.11 |  | １ターンの間、全防御属性が大幅上昇
+   EN: All elemental defenses soar for 1 turn
+>> D01.12 |  | １ターンの間、全防御属性が大幅上昇
+   EN: All elemental defenses soar for 1 turn
+>> D01.13 |  | 仲間や他者の力を借りて攻撃
+   EN: Attacks with the help of allies and others
+>> D01.14 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.15 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.16 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.17 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.18 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.19 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.20 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.21 |  | 敵単体を石化状態にする
+   EN: Turns one enemy to stone
+>> D01.22 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.23 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D01.24 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.25 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.26 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.27 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.28 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.29 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.30 |  | ゲッター１にチェンジする
+   EN: Changes into Getter-1
+>> D01.31 |  | ゲッター２にチェンジする
+   EN: Changes into Getter-2
+>> D01.32 |  | ゲッター３にチェンジする
+   EN: Changes into Getter-3
+>> D01.33 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.34 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.35 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.36 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.37 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.38 |  | 敵単体を【冷】属性で攻撃
+   EN: Ice attack on one enemy
+>> D01.39 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.40 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D01.41 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.42 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.43 |  | 敵全体を【雷】属性で攻撃
+   EN: Bolt attack on all enemies
+>> D01.44 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.45 |  | 敵全体のＤＸを減少
+   EN: Lowers all enemies' DX
+>> D01.46 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.47 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.48 |  | 敵単体のＤＸを減少
+   EN: Lowers one enemy's DX
+>> D01.49 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.50 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.51 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.52 |  | 敵全体を【斬】属性で攻撃
+   EN: Slash attack on all enemies
+>> D01.53 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.54 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.55 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.56 |  | 敵単体を【精神】属性で攻撃
+   EN: Mind attack on one enemy
+>> D01.57 |  | 味方全体のＡＴを上昇
+   EN: Raises all allies' AT
+>> D01.58 |  | 敵全体のＤＦを下げる
+   EN: Lowers all enemies' DF
+>> D01.59 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.60 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.61 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.62 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.63 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.64 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.65 |  | キューティーハニーに変身
+   EN: Transforms into Cutie Honey
+>> D01.66 |  | １ターンの間、全防御属性上昇
+   EN: Raises all elemental defenses for 1 turn
+>> D01.67 |  | １ターンの間、全防御属性上昇
+   EN: Raises all elemental defenses for 1 turn
+>> D01.68 |  | １ターンの間、全防御属性上昇
+   EN: Raises all elemental defenses for 1 turn
+>> D01.69 |  | １ターンの間、全防御属性上昇
+   EN: Raises all elemental defenses for 1 turn
+>> D01.70 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.71 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.72 |  | 味方全体のＤＦを上昇
+   EN: Raises all allies' DF
+>> D01.73 |  | 味方全体のＤＦを上昇
+   EN: Raises all allies' DF
+>> D01.74 |  | 味方全体のＤＦを上昇
+   EN: Raises all allies' DF
+>> D01.75 |  | 味方全体のＤＦを上昇
+   EN: Raises all allies' DF
+>> D01.76 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.77 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.78 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.79 |  | ダンテに変身
+   EN: Transforms into Dante
+>> D01.80 |  | 英雄王真神に変身
+   EN: Transforms into Hero King Shinjin
+>> D01.81 |  | デビルマンに変身
+   EN: Transforms into Devilman
+>> D01.82 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.83 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.84 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.85 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.86 |  | 欠番
+   EN: Unused
+>> D01.87 |  | 欠番
+   EN: Unused
+>> D01.88 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.89 |  | 欠番
+   EN: Unused
+>> D01.90 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.91 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D01.92 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D01.93 |  | 敵単体を魅了状態にする
+   EN: Charms one enemy
+>> D01.94 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D01.95 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D01.96 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.97 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.98 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D01.99 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+   ctx D02.00 |  | 敵全体を【斬】属性で攻撃
+   ctx EN: Slash attack on all enemies
+   ctx D02.01 |  | 敵単体を【精神】属性で攻撃
+   ctx EN: Mind attack on one enemy

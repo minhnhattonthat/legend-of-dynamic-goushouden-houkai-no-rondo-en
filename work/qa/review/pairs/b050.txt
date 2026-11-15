@@ -1,0 +1,208 @@
+   ctx 48.98 | {p} | そうなんだろ…！？
+   ctx EN: You are, aren't you...!?
+   ctx 48.99 | ??? | いいえ あたしは「破壊の月」！ / そして あなたは「再生の太陽」！ / 時が来れば ふたりとも / ここから出してもらえるわ…
+   ctx EN: No, I am the "Moon of destruction"! And you are the "Sun of rebirth"! When the time comes, we'll both be let out of here...
+>> 49.00 | {p} | ふざけるな！ /  / 僕は… 僕は そんなの / 絶対認めないぞ！
+   EN: Don't mess with me!  I... I'll never accept that!
+>> 49.01 | ??? | ………
+   EN: .........
+>> 49.02 | {p} | {s}～！！
+   EN: {s}!!
+>> 49.03 | Dr. Saotome | 朱紗君 大変だ！ / {p}君がいない！
+   EN: Shusha-kun, it's terrible! {p}-kun is gone!
+>> 49.04 | Dr. Saotome | 明君と了君の姿も見当たらん！ /  / もしかしたら どこからか / 抜け出したのかもしれん
+   EN: Akira-kun and Ryo-kun are nowhere to be seen either!  They may have slipped out from somewhere.
+>> 49.05 | Dr. Saotome | そうしてくれるか！ / …しかし 間に合うかな？
+   EN: Would you!? ...But will you make it in time?
+>> 49.06 | Dr. Saotome | 閻魔大王 ありがとう！ / これで戦局を立て直せる！
+   EN: Thank you, Great King Enma! Now we can turn the battle around!
+>> 49.07 | Dr. Saotome | うむ！ / 朱紗君 後は任せたぞ！
+   EN: Good! Shusha-kun, I'm leaving the rest to you!
+>> 49.08 | Shinichi | はっ！ あいつらしいじゃねぇか /  / よし！ / 俺達は ゲッターロボを助ける / 朱紗 おまえは{p}を / 探してくれ！
+   EN: Ha! That's just like him.  All right! We'll rescue Getter Robo. Shusha, you go find {p}!
+>> 49.09 | Dr. Saotome | 閻魔大王 ありがとう！ / これで 戦局を立て直せる！
+   EN: Thank you, Great King Enma! Now we can turn the battle around!
+>> 49.10 | Dr. Saotome | 今は 少しでも / 戦力が多いほうがよい / 朱紗君 / 私も いっしょに行こう
+   EN: Right now, the more fighters the better. Shusha-kun, I'll come with you.
+>> 49.11 | {p} | あれ なんだと思う？
+   EN: What do you think that is?
+>> 49.12 | Akira Fudo | 光が射し込んでるみたいだな…
+   EN: Looks like light shining in...
+>> 49.13 | {p} | か 身体が浮き上がる！？
+   EN: M-my body's floating up!?
+>> 49.14 | {p} | うわ～！
+   EN: Whoaaa!
+>> 49.15 | Akira Fudo | うお～！
+   EN: Whoooa!
+>> 49.16 | Ryo Asuka | …！
+   EN: ...!
+>> 49.17 | Shusha | {p}…？
+   EN: {p}...?
+>> 49.18 | {p} | あれ 朱紗君…？ / ここ…どこ？
+   EN: Huh, Shusha-kun...? Where... are we?
+>> 49.19 | Shusha | 始まりの丘に作られた城の中さ！ / 助けに来たんだよ！
+   EN: Inside the castle built on the Hill of Beginnings! We came to rescue you!
+>> 49.20 | Akira Fudo | それじゃ 俺達…
+   EN: Then we're...
+>> 49.21 | Ryo Asuka | あそこから出られたのか！
+   EN: Out of that place!
+>> 49.22 | Akira Fudo | 黒い月！？ / {p} 用心しろ！
+   EN: A black moon!? {p}, watch yourself!
+>> 49.23 | Shusha | 光の中から出るんだ / {p}君！
+   EN: Get out of the light, {p}-kun!
+>> 49.24 | Akira Fudo | ダメだ！ / うんともすんとも言わない！
+   EN: No good! It won't make a peep!
+>> 49.25 | Ryo Asuka | あれから随分時間がたったな…
+   EN: A lot of time has passed since then...
+>> 49.26 | Shinichi | これでゲッターロボは / 解放されるはずだ！
+   EN: That should free Getter Robo!
+>> 49.27 | Ryo | やったぜ！ / 動けるぞ！
+   EN: All right! I can move!
+>> 49.28 | Hayato | リョウ！ / 来やがったぜ！
+   EN: Ryo! Here they come!
+>> 49.29 | Musashi | 今度こそ / ガタガタにしてやれぃ！
+   EN: This time, shake 'em to pieces!
+>> 49.30 | Hayato | リョウ！ 空だ！ / あれを見ろ！！
+   EN: Ryo! The sky! Look at that!!
+>> 49.31 | Musashi | げげっ！
+   EN: Yikes!
+>> 49.32 | Ryo | 月が！？ / とうとう 出やがったか…
+   EN: The moon!? So it's finally come out...
+>> 49.33 | Akira Fudo | {p} 無事か！
+   EN: {p}, are you okay!
+>> 49.34 | {p} | 明君！
+   EN: Akira-kun!
+>> 49.35 | Ryo Asuka | 安心しろ 無事だ！
+   EN: Relax, he's fine!
+>> 49.36 | {p} | 明君！
+   EN: Akira-kun!
+>> 49.37 | Akira Fudo | 待たせたな {p}！
+   EN: Sorry to keep you waiting, {p}!
+>> 49.38 | {p} | 明君 どうやってここへ？
+   EN: Akira-kun, how did you get here?
+>> 49.39 | Akira Fudo | 慎一が おまえ達の行き場所を / 予知したんだ / そして朱紗真悟が ここまで / テレポートさせてくれたのさ！
+   EN: Shinichi foresaw where you'd gone. And Shingo Shusha teleported us here!
+>> 49.40 | {p} | それじゃ ここは元の世界じゃ / ないんだね！
+   EN: So this isn't our own world after all!
+>> 49.41 | Akira Fudo | 魔王の作ったツギハギの世界だ！ /  / 魔王よ！ 俺は 貴様と戦わずには / いられない！
+   EN: It's a patchwork world the Demon King made!  Demon King! I can't help but fight you!
+>> 49.42 | {p} | {s}！！
+   EN: {s}!!
+>> 49.43 | Akira Fudo | 美樹が いたからこそ / 俺は人間の心を失わずにいられた / だが その美樹も もういない… /  / おまえの気持ち イヤというほど / よく解るぜ {p}…
+   EN: It was because Miki was there that I didn't lose my human heart. But now Miki's gone too...  I know exactly how you feel, way too well, {p}...
+>> 49.44 | {p} | ………
+   EN: .........
+>> 49.45 | Akira Fudo | 魔王が作ったツギハギの世界から？
+   EN: From the patchwork world the Demon King made?
+>> 49.46 | Akira Fudo | 本来の運命か… / だが既に美樹は…
+   EN: Our true fate, huh... But Miki's already...
+>> 49.47 | Akira Fudo | ホントか！？
+   EN: Really!?
+>> 49.48 | Kikunosuke | ………
+   EN: .........
+>> 49.49 | {p} | 菊の助 どうしたの？
+   EN: What's wrong, Kikunosuke?
+>> 49.50 | Kikunosuke | えへ 別れの時が来たと思ったら / 寂しくなっちゃった！
+   EN: Heh, I just got lonely, thinking it's time to say goodbye!
+>> 49.51 | {p} | 菊の助…
+   EN: Kikunosuke...
+>> 49.52 | Kikunosuke | {p} 楽しかったぜ！ / またな！
+   EN: {p}, it was a blast! See ya!
+>> 49.53 | {p} | うん！
+   EN: Yeah!
+>> 49.54 | Daemon | おぬし なかなかやるのう！ /  / 困ったことがあったら いつでも / あばしり一家に相談してくれ！
+   EN: You're not half bad, kid!  If you're ever in a jam, come to the Abashiri Family anytime!
+>> 49.55 | Goemon | もう１度 会いたいのよねー！
+   EN: I'd love to see you again, sweetie!
+>> 49.56 | Naojiro | また一緒に暴れようぜ / がははは！
+   EN: Let's cut loose together again! Gahahaha!
+>> 49.57 | Kichiza | 吉三のこと 忘れんなよな！
+   EN: Don't you forget Kichiza!
+>> 49.58 | {p} | あんな家族 僕も欲しいな…
+   EN: I'd like a family like that too...
+>> 49.59 | Ryo | 今度 空手を教えてやるよ！ / 男は強くなくちゃな！
+   EN: I'll teach you karate sometime! A man's gotta be strong!
+>> 49.60 | Musashi | 柔道も いいぜ！ / 大雪山おろし 伝授してやるぞ！
+   EN: Judo's good too! I'll teach ya the Daisetsuzan Oroshi!
+>> 49.61 | {p} | うん！ お手やわらかにね！
+   EN: Yeah! Go easy on me!
+>> 49.62 | Hayato | ふたりと付き合うのは ほどほどに / しておいたほうがいいぜ / 脳みそまで筋肉になっちまうぞ
+   EN: Better not spend too much time with these two. Your brain'll turn into muscle.
+>> 49.63 | Ryo | ハヤト！ てめぇ！
+   EN: Hayato! Why you...!
+>> 49.64 | Musashi | それは言い過ぎだ！
+   EN: That's goin' too far!
+>> 49.65 | {p} | みんな いつまでも仲良くね！
+   EN: Stay good friends forever, everyone!
+>> 49.66 | {p} | 僕も いつか / ゲッターチームに入りたいな！
+   EN: Someday I want to join the Getter Team too!
+>> 49.67 | Ryu Takuma | 俺 なんか いろんなことを / 学んだような気がするよ / 震災砦の仲間達がいれば / 大人の暴力なんて 恐くない！
+   EN: I feel like I learned a lot of things. As long as I've got my friends at the Quake Fort, I'm not scared of grown-ups' violence!
+>> 49.68 | {p} | いい仲間達だもんね！
+   EN: They're great friends!
+>> 49.69 | Ryu Takuma | いつか俺は 関東を平和で安心して / 暮らせる場所にするんだ / 大人も子供も関係なく / 仲良く暮らせる場所にね！
+   EN: Someday I'm gonna make Kanto a place where people can live in peace and safety. A place where grown-ups and kids alike can live together as friends!
+>> 49.70 | Jack | …はたして そう うまくいくかな？
+   EN: ...I wonder if it'll go that well.
+>> 49.71 | {p} | いくとも！
+   EN: It will!
+>> 49.72 | Ryu Takuma | 見てろよ ジャック！
+   EN: Just watch, Jack!
+>> 49.73 | {p} | 逞馬竜！ / 君なら きっとやれるよ！
+   EN: Ryu Takuma! I know you can do it!
+>> 49.74 | Honey | 初めて逢った時に比べて / あなた たくましくなったわね
+   EN: You've grown so much stronger since we first met.
+>> 49.75 | {p} | え そ そうかな？
+   EN: Huh? R-really?
+>> 49.76 | Honey | もしも 同じようなことが / 起こったとしたら / 今度は君と一緒に行ってみたいな
+   EN: If something like this ever happens again, I'd like to go with you next time.
+>> 49.77 | Seiji Hayami | でも 俺は こんなの / ２度とごめんだぜ？
+   EN: But I've had enough of this kind of thing!
+>> 49.78 | Honey | それもそうね！
+   EN: Fair enough!
+>> 49.79 | {p} | ハニー 素敵な人だったな…
+   EN: Honey was such a wonderful person...
+>> 49.80 | Akira Fudo | とうとう / 俺達だけになっちまったな
+   EN: Looks like it's finally just us.
+>> 49.81 | Ryo Asuka | ………
+   EN: .........
+>> 49.82 | {p} | 明君…
+   EN: Akira-kun...
+>> 49.83 | Akira Fudo | 俺は人類を… いや 美樹を守るため / デビルマンになった / だが結局 美樹を失ってしまった /  / そしておまえも / {s}を失った…
+   EN: I became Devilman to protect mankind... no, to protect Miki. But in the end, I lost Miki.  And you lost {s} too...
+>> 49.84 | Ryo Asuka | まだ そうと決まったわけじゃない
+   EN: That's not certain yet.
+>> 49.85 | Ryo Asuka | 慎一が言っていただろ？ /  / 世界が修復を始めている…って / 真理阿が告げていると
+   EN: Didn't Shinichi say so?  That Maria's telling him the world has started to repair itself.
+>> 49.86 | Akira Fudo | そうか！ もとの世界に戻ったら / 美樹ちゃんが…
+   EN: That's right! When we go back to our world, Miki-chan might...
+>> 49.87 | {p} | 生きてるかも？ / いや きっと無事だよ！
+   EN: Be alive? No, I'm sure she's safe!
+>> 49.88 | Akira Fudo | 希望が見えてきたな！ /  / {s}だって / きっと無事だぜ！
+   EN: There's hope after all!  I bet {s}'s safe too!
+>> 49.89 | {p} | そうだね！
+   EN: Yeah!
+>> 49.90 | Akira Fudo | {p}！ / おまえは俺の親友だ！ / この了と同じくな！ / それを決して忘れるなよ！
+   EN: {p}! You're my best friend! Same as Ryo here! Don't you ever forget it!
+>> 49.91 | {p} | ありがとう 明君！
+   EN: Thanks, Akira-kun!
+>> 49.92 | Akira Fudo | ここは 牧村家？ /  / 了？ / おい どこだ？ / …いない
+   EN: This is... the Makimura house?  Ryo? Hey, where are you? ...He's not here.
+>> 49.93 | Tare-chan | うわ～ん！
+   EN: Waaah!
+>> 49.94 | Miki | こら！ / 待ちなさい！
+   EN: Hey! Get back here!
+>> 49.95 | Akira Fudo | 美樹！
+   EN: Miki!
+>> 49.96 | Miki | あら 明君 / おかえりなさい！ / タレちゃん 捕まえるの / 手伝ってよ！
+   EN: Oh, Akira-kun, welcome home! Help me catch Tare-chan!
+>> 49.97 | Akira Fudo | いったい どうして…
+   EN: How on earth...
+>> 49.98 | Miki | タレちゃんたら / また おねしょしたのよ！
+   EN: Tare-chan wet the bed again!
+>> 49.99 | Tare-chan | だって！ 明兄ちゃんが 悪魔に / 変身する夢を見たんだもん！
+   EN: But! I dreamed big bro Akira turned into a devil!
+   ctx 50.00 | Miki | そんなこと あるわけないでしょ！ / ね 明君！
+   ctx EN: As if that could ever happen! Right, Akira-kun?
+   ctx 50.01 | Akira Fudo | そ そうだな！ / よ～し 俺も手伝うぜ 美樹！
+   ctx EN: R-right! All right, I'll help too, Miki!

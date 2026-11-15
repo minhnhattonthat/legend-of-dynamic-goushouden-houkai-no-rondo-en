@@ -1,0 +1,208 @@
+   ctx 46.98 | Akira Fudo | いつまで こうしているつもりだ / 了？
+   ctx EN: How long are you planning to keep this up, Ryo?
+   ctx 46.99 | Ryo Asuka | 落ち着け 明 /  / 今 おまえが出て行っても / 何も変わらん
+   ctx EN: Calm down, Akira.  Even if you go out there now, nothing will change.
+>> 47.00 | {p} | 明君 / 僕も行くよ
+   EN: Akira-kun, I'm coming too.
+>> 47.01 | Ryo Asuka | {p}！
+   EN: {p}!
+>> 47.02 | Ryo Asuka | 待て！ / 俺も行く
+   EN: Wait! I'm coming too.
+>> 47.03 | Akira Fudo | 了…
+   EN: Ryo...
+>> 47.04 | Ryo Asuka | 早乙女博士に 状況を聞こう / 対策をたてるのは それからだ / たしか 早乙女博士は このフロアの / 奥の部屋にいたはずだ…
+   EN: Let's ask Dr. Saotome about the situation. We'll make a plan after that. Dr. Saotome should be in the room at the back of this floor...
+>> 47.05 | Dr. Saotome | それは 興味深い話だな… / 報告ありがとう
+   EN: That's interesting... Thank you for the report.
+>> 47.06 | Guard | それでは 失礼します！
+   EN: Then I'll be going!
+>> 47.07 | Guard | フフ…
+   EN: Heh heh...
+>> 47.08 | Dr. Saotome | ちょうどいいところに来た / 新しい情報が入ったぞ / ニュースを見てみたまえ
+   EN: You came at just the right time. New information has come in. Take a look at the news.
+>> 47.09 | Announcer | 黒い物体に操られ / 魔王の声を聞いたと言う人々が / ある場所に集まり始めています！
+   EN: People who were controlled by black things and claim to have heard the Demon King's voice are beginning to gather in one place!
+>> 47.10 | {p} | 始まりの丘だ！
+   EN: It's the Hill of Beginnings!
+>> 47.11 | Announcer | この人達は この丘に / 祭壇を築き始めました！ / 無気味な像まで作っています！
+   EN: These people have begun building an altar on this hill! They're even making an eerie statue!
+>> 47.12 | Akira Fudo | 祭壇に像？
+   EN: An altar and a statue?
+>> 47.13 | Announcer | 魔王を信奉する人々が / 続々と集まってきています！
+   EN: People who worship the Demon King are gathering one after another!
+>> 47.14 | Dr. Saotome | 人々は {p}君が / 聞いた言葉と 同じ言葉を / 口にしているそうだよ
+   EN: They say the people are saying the same words you heard, {p}-kun.
+>> 47.15 | {p} | 僕が聞いた言葉？
+   EN: The words I heard?
+>> 47.16 | Dr. Saotome | 結合の時…
+   EN: The time of joining...
+>> 47.17 | Akira Fudo | より強い力…
+   EN: Greater power...
+>> 47.18 | Ryo Asuka | 野望の実現…
+   EN: Ambition realized...
+>> 47.19 | {p} | ………
+   EN: .........
+>> 47.20 | Dr. Saotome | これが意味していることは / ひとつ！
+   EN: This can only mean one thing!
+>> 47.21 | {p} | 魔王はまだ / 完全な力を得ていない…！
+   EN: The Demon King hasn't gained his full power yet...!
+>> 47.22 | Dr. Saotome | 結合の時が 何を意味しているのか / 解らない / だが その時 / 魔王が真の力を発揮する！
+   EN: I don't know what the time of joining means. But when it comes, the Demon King will unleash his true power!
+>> 47.23 | Akira Fudo | その前に なんとかしなけりゃ…！
+   EN: Before that happens, we've gotta do something...!
+>> 47.24 | Dr. Saotome | 我々も なんとか戦力を / 拡充したいところだな / ゲッターチームから / 報告が はいっておる / 全滅したはずのメカザウルスが / 復活を遂げたそうだ
+   EN: We'd like to build up our forces somehow too. A report has come in from the Getter Team. It seems the Mechasaurus we thought were all wiped out have come back.
+>> 47.25 | Dr. Saotome | 魔王は驚くべき勢いで 勢力を / 広げているとみるべきだ / 我々は一致団結して / 困難に立ち向かわねばならん！
+   EN: We should assume the Demon King is spreading his power at an astonishing rate. We must all stand united against this crisis!
+>> 47.26 | Ryo Asuka | しかし博士… /  / 人々が 黒い魔物に / 操られている以上 / 人間を守るために開発された兵器が / 人類滅亡に使用されることも…
+   EN: But Doctor...  As long as people are being controlled by the black fiends, weapons developed to protect humans could be used to wipe out mankind...
+>> 47.27 | Dr. Saotome | …無いとは言い切れん /  / もはや 誰が味方で 誰が敵か / 解らんからな
+   EN: ...I can't say it won't happen.  We can no longer tell who's friend and who's foe.
+>> 47.28 | Akira Fudo | そんな！
+   EN: No way!
+>> 47.29 | {p} | でも これまで敵だった人達と / 仲間になれるチャンスかも！
+   EN: But maybe it's a chance to make friends with people who used to be enemies!
+>> 47.30 | Akira Fudo | うまく行けば…な
+   EN: If it goes well, anyway.
+>> 47.31 | Dr. Saotome | 早乙女だ / …そうか 解った
+   EN: Saotome here. ...I see. Understood.
+>> 47.32 | Dr. Saotome | 居住エリア周辺から / 暴徒を追い出したそうだ / わしは これから会議があるので / これで失礼する
+   EN: They've driven the rioters out of the area around the residential area. I have a meeting now, so I'll excuse myself.
+>> 47.33 | Dr. Saotome | 魔王は 君を「再生の太陽」と /  / {s}を「破壊の月」と / 呼ぶ / また暴徒達は {p}君を / 魔王に差し出せといっている / これは 魔王が言う「結合の時」に / 関係あると思われる
+   EN: The Demon King calls you the "Sun of rebirth"  and {s} the "Moon of destruction." And the rioters are saying to hand {p}-kun over to the Demon King. I believe this is connected to what the Demon King calls the "time of joining."
+>> 47.34 | Dr. Saotome | 居住エリアからは出ないことだ / もしも君が魔王に捕らえられたら / 結合の時とやらが / 訪れてしまうかもしれない…
+   EN: Don't leave the residential area. If the Demon King captures you, this "time of joining" may come...
+>> 47.35 | Ryo Asuka | 君は狙われてるんだぞ！ / 居住エリアから出てはダメだ！
+   EN: They're after you! Don't leave the residential area!
+>> 47.36 | Guard | すみません！ 暴徒が窓を破って / 入って来ちゃいました！ / 手を貸して下さい！
+   EN: Excuse me! Rioters broke through a window and got in! Please give me a hand!
+>> 47.37 | Akira Fudo | なんだと！？
+   EN: What!?
+>> 47.38 | Akira Fudo | 暴徒ってのは どこにいるんだ？
+   EN: So where are these rioters?
+>> 47.39 | Guard | おかしいなぁ / 確か このあたりに…？
+   EN: That's odd, I'm sure they were around here...?
+>> 47.40 | Akira Fudo | 無事だったか {p}！ /  / おまえひとりじゃ危険だ / 俺も行こう！
+   EN: You're safe, {p}!  It's dangerous alone. I'm coming too!
+>> 47.41 | Ryo Asuka | ふたりとも戻ってきたか… / ちょうど会議が終わったところだ / 早乙女博士が / 君に会いたがっているぞ！
+   EN: So you're both back... The meeting just ended. Dr. Saotome wants to see you!
+>> 47.42 | Dr. Saotome | {p}君！ / ようやく答えが見つかったぞ！ / 魔王は 日蝕を待っているのだ！
+   EN: {p}-kun! I've finally found the answer! The Demon King is waiting for a solar eclipse!
+>> 47.43 | {p} | 月が太陽の光をさえぎる / あの日蝕ですか？
+   EN: You mean an eclipse, when the moon blocks the sun's light?
+>> 47.44 | Dr. Saotome | そうじゃ！ /  / 恐らく 日蝕の訪れと共に / 魔王は真の力を得るのだと思う
+   EN: That's right!  Most likely, the Demon King will gain his true power when the eclipse comes.
+>> 47.45 | {p} | …！？
+   EN: ...!?
+>> 47.46 | Dr. Saotome | これまで次元連鎖が起きるたびに / あるものが出現していた / 黒い月だ！ /  / 日蝕が起きたら / 何が出現するかね？
+   EN: Every time the Dimension Chain has occurred, a certain thing has appeared. The black moon!  So when an eclipse happens, what appears?
+>> 47.47 | {p} | え…？ / え～と あっ！
+   EN: Huh...? Uh, um... Oh!
+>> 47.48 | Dr. Saotome | そうじゃ 黒い太陽だ！ /  / 黒い太陽が出現した時 / 魔王が真の力を得るのだ！
+   EN: That's right, a black sun!  When the black sun appears, the Demon King will gain his true power!
+>> 47.49 | {p} | それで次の日蝕は / いつなんですか？
+   EN: So when's the next eclipse?
+>> 47.50 | Dr. Saotome | 明日だ…
+   EN: Tomorrow...
+>> 47.51 | {p} | 明日！？
+   EN: Tomorrow!?
+>> 47.52 | Dr. Saotome | 至急 対策を立てねばならん！ / サロンに来てくれ！ / 作戦会議だ！
+   EN: We must make a plan at once! Come to the salon! It's a strategy meeting!
+>> 47.53 | Dr. Saotome | …というわけだ 諸君！ / 明日に迫った日蝕！ / もしも 私の推理が正しければ / その時 魔王は真の力を得る！
+   EN: ...So there you have it, everyone! The eclipse is upon us tomorrow! If my reasoning is correct, that's when the Demon King gains his true power!
+>> 47.54 | Dr. Saotome | {p}君！ / 言い忘れていたことがある / 恐らく {s}は / 無事に生きとるぞ！
+   EN: {p}-kun! There's something I forgot to tell you. In all likelihood, {s} is alive and well!
+>> 47.55 | {p} | …！
+   EN: ...!
+>> 47.56 | Dr. Saotome | 君が生きていることが その証しだ /  / 魔王は{s}を「月」と呼び / 君を「太陽」と呼んだのだから！
+   EN: The proof is that you're alive.  After all, the Demon King called {s} the "moon" and you the "sun"!
+>> 47.57 | {p} | そっか… 魔王が 僕を / 必要としているってことは… / {s}も / 生きている可能性が高いわけだ！
+   EN: I see... If the Demon King needs me... then there's a good chance {s} is still alive too!
+>> 47.58 | Dr. Saotome | 魔王は捕らえた{s}を / 逃がさぬよう 見張っているのだ / そして人々を操り 君を手に / 入れようと しているのだろう
+   EN: The Demon King is keeping watch over {s} so she can't escape. And he's probably controlling people to try to get his hands on you.
+>> 47.59 | {p} | 僕 {s}を / 助けに始まりの丘に行きます！
+   EN: I'm going to the Hill of Beginnings to rescue {s}!
+>> 47.60 | Dr. Saotome | いかん！
+   EN: You mustn't!
+>> 47.61 | {p} | どうしてですか！？
+   EN: Why not!?
+>> 47.62 | Akira Fudo | 魔王が おまえを手に入れたがって / いるからさ / それも… 日蝕の前にな！
+   EN: 'Cause the Demon King wants to get his hands on you. Before the eclipse, too!
+>> 47.63 | Dr. Saotome | {p}君を手に入れるため / 暴徒達が / 総攻撃を仕掛けてくることが / 予測されるのだ！
+   EN: We expect the rioters to launch an all-out attack to capture you, {p}-kun!
+>> 47.64 | Dr. Saotome | 君を魔王の手に / 渡してしまうわけには いかん！ / ここに留まってくれ！
+   EN: We can't let you fall into the Demon King's hands! Stay here!
+>> 47.65 | {p} | そんな…
+   EN: But...
+>> 47.66 | Akira Fudo | 攻撃隊に参加したいのは / やまやまだが / 俺は おまえを守るため / ここに とどまろうと思う
+   EN: I'd love to join the assault team, but I'm gonna stay here to protect you.
+>> 47.67 | {p} | ありがとう 明君！
+   EN: Thanks, Akira-kun!
+>> 47.68 | Dr. Saotome | 役割分担は出来たようだな /  / 慎一君は始まりの丘へ向かう / 攻撃隊に加わってくれたまえ！ / 朱紗君は ここに残り / 守備隊を率いるのだ！ / そして明君は {p}の側を / 決して離れるな！
+   EN: It seems the roles are settled.  Shinichi-kun, join the assault team headed for the Hill of Beginnings! Shusha-kun, stay here and lead the defense team! And Akira-kun, never leave {p}'s side!
+>> 47.69 | Shinichi | 任せてくれ {s}を / 奪い取ってくるぜ！
+   EN: Leave it to me. I'll snatch {s} back!
+>> 47.70 | Shusha | 誰も{p}には / 近づけさせないさ！
+   EN: Nobody's getting near {p}!
+>> 47.71 | Akira Fudo | 万が一の時は / 俺に任せてくれ！
+   EN: If worst comes to worst, leave it to me!
+>> 47.72 | Dr. Saotome | 案ずるな / 万が一など あり得ない！ / 諸君らの力を集結すれば / 何者であっても倒せる！
+   EN: Don't worry, the worst won't come! Combine all your strength and you can defeat anyone!
+>> 47.73 | Ryo | 早乙女博士！ 始まりの丘が / 大変なことになってるぜ！ / 暴徒達が続々と集まって / まるで城みたいになってる！
+   EN: Dr. Saotome! Something big is happening at the Hill of Beginnings! The rioters keep pouring in, and it's turned into a castle!
+>> 47.74 | Ryo | 巨大な黒い魔物と戦った後 / 撮影してきたんだ / みんな これを観てくれ
+   EN: We took pictures after fighting the giant black fiends. Everybody, take a look.
+>> 47.75 | Ryo | 始まりの丘は 魔王にとって / 特別な意味があるようだ / いつの間にか 黒い魔物が / こんなにたくさん…
+   EN: The Hill of Beginnings seems to mean something special to the Demon King. Before we knew it, there were this many black fiends...
+>> 47.76 | Dr. Saotome | 凄い数だな… / 大きさは どれくらいなのかね？
+   EN: What numbers... How big are they?
+>> 47.77 | Ryo | どいつもこいつも デカいです / ゲッターといい勝負ですよ
+   EN: Every last one of 'em is huge. They're right up there with Getter in size.
+>> 47.78 | Dr. Saotome | う～む…
+   EN: Hmmm...
+>> 47.79 | Ryo | そして 始まりの丘…
+   EN: And the Hill of Beginnings...
+>> 47.80 | {p} | 前に テレビのニュースで / 祭壇って言ってたのに…！
+   EN: The TV news said it was an altar before...!
+>> 47.81 | Ryo | それだけ魔王の力が増した…って / ことだ
+   EN: That's how much the Demon King's power has grown.
+>> 47.82 | Dr. Saotome | 恐るべし 魔王…！！
+   EN: A fearsome foe, this Demon King...!!
+>> 47.83 | Dr. Saotome | 黒い魔物が ゲッターや / メカザウルスなみの大きさならば / リョウ！ / おまえは 先発部隊だ！ / 黒い魔物の注意をひき / 攻撃隊を守ってやってくれ！
+   EN: If the black fiends are as big as Getter or the Mechasaurus, then Ryo! You're the vanguard! Draw the black fiends' attention and protect the assault team!
+>> 47.84 | Ryo | 了解したぜ！
+   EN: Roger that!
+>> 47.85 | Dr. Saotome | それは素晴らしいアイデアだよ / えん魔くん！ / 閻魔大王！ / 私からも お願いする！
+   EN: That's a splendid idea, Enma-kun! Great King Enma! I ask this of you as well!
+>> 47.86 | Dr. Saotome | よし！ / これにて作戦会議を終える！ / 諸君！ 健闘を祈る！
+   EN: Good! That concludes our strategy meeting! Everyone! Good luck!
+>> 47.87 | Dr. Saotome | うむ！ / 行ってくれるか 慎一君！
+   EN: Good! Will you go, Shinichi-kun?
+>> 47.88 | Ryo | 早乙女博士 先発部隊の準備 / オッケーだぜ！ / ゲッターチーム これより / 始まりの丘に向かいます！
+   EN: Dr. Saotome, the vanguard's all set! The Getter Team is heading for the Hill of Beginnings!
+>> 47.89 | Dr. Saotome | うむ！ / 頼んだぞ リョウ！
+   EN: Good! I'm counting on you, Ryo!
+>> 47.90 | {p} | リョウさん 頑張ってね！
+   EN: Good luck, Ryo-san!
+>> 47.91 | Ryo | まかせとけよ！
+   EN: Leave it to me!
+>> 47.92 | Hayato | 俺達を信頼してくれ / {p}！
+   EN: Trust us, {p}!
+>> 47.93 | Musashi | 行ってくるぜぇ～！
+   EN: We're off!
+>> 47.94 | Shusha | 守備隊は ここで待機します /  / 博士達は 奥の安全な場所に / いてください
+   EN: The defense team will wait here.  Doctor, you all stay somewhere safe in the back.
+>> 47.95 | Dr. Saotome | うむ よろしくたのむよ
+   EN: Good. I'm counting on you.
+>> 47.96 | Akira Fudo | 信頼してるぜ 朱紗！
+   EN: I'm counting on you, Shusha!
+>> 47.97 | Shusha | ゆっくり休んでいてくれ / {p} / 俺達が ここにいる限り / おまえの出番は ないからな！
+   EN: Get some rest, {p}. As long as we're here, you won't be needed!
+>> 47.98 | {p} | ありがとう 朱紗君！
+   EN: Thanks, Shusha-kun!
+>> 47.99 | Dr. Saotome | {p} / 一緒に 奥の部屋へ戻ろう / あそこで 報告を待とうじゃないか
+   EN: {p}, let's go back to the back room together. We'll wait for reports there.
+   ctx 48.00 | Ryo | よ～し 行くぞ！
+   ctx EN: All riiight, let's go!
+   ctx 48.01 | Ryo | きやがったな… いくぜ！
+   ctx EN: Here they come... Let's do this!

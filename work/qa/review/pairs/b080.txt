@@ -1,0 +1,28 @@
+   ctx r0DBF58 |  | アタックバチ
+   ctx EN: Attack Bee
+   ctx r0DBF68 |  | アルフォンヌ砲
+   ctx EN: Alphonne Gun
+>> r0DBF78 |  | 稲妻
+   EN: Bolt
+>> r0DBF80 |  | イナズマ
+   EN: Bolt
+>> r0DBF8C |  | 腕マシンガン
+   EN: Arm Gatling
+>> r0DBF9C |  | うでマシンガン
+   EN: Arm Gatling
+>> r0DBFAC |  | オオカミ戦法
+   EN: Wolf Tactics
+>> r0DBFBC |  | オオカミせんぽう
+   EN: Wolf Tactics
+>> r0DBFD0 |  | 大爪
+   EN: Bigclaw
+>> r0DBFD8 |  | おっぴろげジャンプ
+   EN: Spread Jump
+>> r0DBFEC |  | おっぴろげＪ
+   EN: Spread Jump
+>> r0DBFFC |  | 鬼絵巻き
+   EN: Oni Scroll
+   ctx r0DC008 |  | オニえまき
+   ctx EN: Oni Scroll
+   ctx r0DC014 |  | 鬼の爪
+   ctx EN: Oniclaw

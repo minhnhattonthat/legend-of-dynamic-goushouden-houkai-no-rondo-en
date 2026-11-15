@@ -1,0 +1,4 @@
+IMPORTANT | 53.26 | "ドンカン...じゃなくて頑丈" means "insensitive/dull... I mean, sturdy." | "Numb" loses the comic insult and sounds like a medical condition. | Looking at the pilot test results, Musashi Tomoe-kun's aptitude is low, but he's far more thickheaded... I mean, sturdier than the other two.
+IMPORTANT | 53.34 | "暴徒だ魔王だと" means "with all this trouble over rioters and the Demon King." | "Demon Kings" incorrectly pluralizes the specific Demon King identified in the glossary. | Lately the world's in an uproar over rioters and the Demon King. ...Maybe this is no time to keep doing research?
+MINOR | 53.51 | Ryo asks whether oni are born that way or are transformed humans. | "Are oni oni from the start?" is awkward to parse. | Are oni born that way? Or are they humans who've transformed?
+ASSESSMENT | b055 | Needs fixes | Restore Musashi's insult gag and the singular Demon King reference; the remaining translation is generally accurate and readable.

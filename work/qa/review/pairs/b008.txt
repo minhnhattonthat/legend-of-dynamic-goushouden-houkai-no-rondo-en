@@ -1,0 +1,208 @@
+   ctx 06.98 | {p} | 大王様 ありがとう！
+   ctx EN: Thank you, Great King-sama!
+   ctx 06.99 | Great King Enma | 行け 京都へ！
+   ctx EN: Go, to Kyoto!
+>> 07.00 | Great King Enma | 様々な世界が ツギハギのように / 繋がり始めている… / いったい 何が起ころうとしておる / のじゃ…
+   EN: All sorts of worlds are starting to join together like a patchwork... Whatever is about to happen...?
+>> 07.01 | Enma-kun | 大王様 こいつは 妖怪パトロールの / 新メンバーなんです！ / {p}は / 妖怪・ハチの巣入道を / やっつけたんです！
+   EN: Great King-sama, he's a new member of the Yokai Patrol! {p} beat the yokai Beehive Nyudo!
+>> 07.02 | Great King Enma | うむ！ / 京都に 亜空間を作ってやろう！ / まずは おまえ達を送り込み / 続いて地獄別荘をそこに移そう！ / その前に えん魔よ / これを持っていくがよい
+   EN: Hmm! I shall create a subspace in Kyoto! First I'll send you there, then move Hell Villa after you! But before that, Enma, take this with you.
+>> 07.03 | Great King Enma | これは 地獄別荘にいる仲間を / 瞬時に 呼び出したり / また逆に 仲間を地獄別荘に送る / こともできる 道具なのじゃ / 人間界で使う限り / どんな場所でも使えるはずじゃ
+   EN: With this tool, my boy, you can summon your friends from Hell Villa in an instant, or send them back there. So long as you remain in the human world, it should work anywhere.
+>> 07.04 | Enma-kun | へぇ そいつは便利な道具だな / ありがとう 閻魔大王様！ / よ～し！ / 京都で鬼退治だ！
+   EN: Whoa, that's one handy gadget! Thanks, Great King Enma-sama! All riiight! Oni hunting in Kyoto!
+>> 07.05 | {p} | 大王様 ありがとう！
+   EN: Thank you, Great King-sama!
+>> 07.06 | Great King Enma | 行け 京都へ！
+   EN: Go, to Kyoto!
+>> 07.07 | {p} | それじゃ 明君の世界と…
+   EN: Then Akira-kun's world and...
+>> 07.08 | Enma-kun | 逞馬竜や / あばしり一家の世界…
+   EN: The world of Ryu Takuma and the Abashiri Family...
+>> 07.09 | Ryo Asuka | 明 こいつが お前の言っていた / {p}か…
+   EN: Akira, so this is the {p} you told me about...
+>> 07.10 | Akira Fudo | こいつは 飛鳥了 / 俺の 親友だ
+   EN: This is Ryo Asuka. My best friend.
+>> 07.11 | {p} | よろしく 了君
+   EN: Nice to meet you, Ryo-kun.
+>> 07.12 | Ryo Asuka | ああ…
+   EN: Yeah...
+>> 07.13 | Enma-kun | 本題に入ろうぜ！
+   EN: Let's get down to business!
+>> 07.14 | Seiji Hayami | 君が {p}だね！ / 話は聞いているよ / 俺は 早見青児 / 新聞記者なんだぜ！
+   EN: So you're {p}! I've heard about you. I'm Seiji Hayami, newspaper reporter!
+>> 07.15 | {p} | よろしく 青児さん
+   EN: Nice to meet you, Seiji-san.
+>> 07.16 | Seiji Hayami | ああ よろしく！
+   EN: Yeah, likewise!
+>> 07.17 | Enma-kun | 本題に入ろうぜ！
+   EN: Let's get down to business!
+>> 07.18 | {p} | ここはどこだろう？
+   EN: Where are we?
+>> 07.19 | Enma-kun | きっと 暗黒寺の近くだぜ
+   EN: Gotta be near the Dark Temple.
+>> 07.20 | {p} | どうして解るの？
+   EN: How can you tell?
+>> 07.21 | Enma-kun | 俺の妖怪アンテナが / すっげ～反応してるからさ / 近くに 地獄別荘があるはずだ / 準備を調えて暗黒寺へ向かおうぜ
+   EN: 'Cause my yokai antennae are going crazy. Hell Villa should be close by. Let's get ready and head for the Dark Temple.
+>> 07.22 | ??? | 鬼が来る… /  / やがて 目覚めを迎え / 少しずつ 少しずつ… / 我が元へ近づく…
+   EN: The oni come...  Soon to awaken, little by little, little by little... drawing near to me...
+>> 07.23 | Enma-kun | おい なんだこりゃ！ / あちこちで 人が倒れてるぜ！？
+   EN: Hey, what the heck is this!? There's people collapsed all over the place!?
+>> 07.24 | {p} | 鬼にやられたのかな？
+   EN: Did the oni do this?
+>> 07.25 | Kibutsu Clan | 手天童子郎の仲間か！
+   EN: Friends of Jiro Shutendo!
+>> 07.26 | Kibutsu Clan | 暗黒寺には向かわせんぞ！ / 我ら鬼仏衆の力を見よ！
+   EN: You will not reach the Dark Temple! Behold the power of the Kibutsu Clan!
+>> 07.27 | Enma-kun | なに言ってんだ こいつら？ / かまわねぇからやっちまおうぜ！
+   EN: What're these guys going on about? Whatever, let's just take 'em out!
+>> 07.28 | Jiro | 誰だ！？
+   EN: Who's there!?
+>> 07.29 | Enma-kun | うわ！ こいつ 角が生えてるぞ！ / さては おまえが鬼だな？
+   EN: Whoa! This guy's got horns! Aha, so you're the oni!
+>> 07.30 | {p} | ちょっと待ってよ えん魔くん / この人 様子が変だよ…
+   EN: Hold on, Enma-kun. Something's off about him...
+>> 07.31 | Jiro | 貴様ら 鬼仏衆か！？
+   EN: Are you the Kibutsu Clan, you wretches!?
+>> 07.32 | {p} | 鬼仏衆？ もしかして 君が / 手天童子郎くん？
+   EN: Kibutsu Clan? Could you be... Jiro Shutendo-kun?
+>> 07.33 | Jiro | どうして俺の名を？
+   EN: How do you know my name?
+>> 07.34 | {p} | 実はさっき 鬼仏衆ってヤツらに / 襲われたんだ
+   EN: Actually, some guys called the Kibutsu Clan attacked us just now.
+>> 07.35 | Jiro | 鬼仏衆と戦って 無事だったのか？ / 強いな 君達は
+   EN: You fought the Kibutsu Clan and came out fine? You're strong.
+>> 07.36 | Enma-kun | あったりまえよ！
+   EN: You bet we are!
+>> 07.37 | Jiro | 俺の仲間達も / 強者ばかりだった / だが 鬼仏衆に / 倒されてしまった…
+   EN: My friends were all strong fighters too. But the Kibutsu Clan took them down...
+>> 07.38 | Enma-kun | ひでぇ…
+   EN: That's awful...
+>> 07.39 | {p} | 君達は ここで何を…？
+   EN: What are you doing here...?
+>> 07.40 | Jiro | 白鳥美雪さんという女の子が / 鬼仏衆に さらわれた / 俺達は / 美雪さんを助けに来たんだ
+   EN: A girl named Miyuki Shiratori-san was kidnapped by the Kibutsu Clan. We came to rescue Miyuki-san.
+>> 07.41 | {p} | 美雪さんって / 君の恋人…？
+   EN: This Miyuki-san... is she your girlfriend...?
+>> 07.42 | Jiro | え？ / い いや… その…
+   EN: Huh? N-no... well... um...
+>> 07.43 | Enma-kun | よ～し 解った！ そ～ゆ～ことなら / 手伝ってやるぜ！ / なっ {p}！
+   EN: All right, got it! If that's how it is, we'll help you out! Right, {p}?
+>> 07.44 | Jiro | ちょっと 待って！ / 君達は いったい…！？
+   EN: Hold on! Who exactly are you...!?
+>> 07.45 | {p} | 実は…
+   EN: Actually...
+>> 07.46 | Jiro | …不思議な話だね /  / でも やっぱり 君達を / 巻き込むわけには いかない
+   EN: ...That's a strange story.  But still, I can't drag you into this.
+>> 07.47 | Enma-kun | どうしてさ！？
+   EN: Why not!?
+>> 07.48 | Jiro | 鬼仏衆は 俺を狙っているんだ
+   EN: The Kibutsu Clan is after me.
+>> 07.49 | {p} | なら なおさらだよ /  / 卑劣な鬼仏衆が / 待ち構えているところに / ひとりで 乗り込むのは危険だ！
+   EN: Then all the more reason!  Charging in alone where the dirty Kibutsu Clan is lying in wait is dangerous!
+>> 07.50 | Jiro | 危険だからこそ / 巻き込みたくないんだ！
+   EN: It's because it's dangerous that I don't want you involved!
+>> 07.51 | {p} | 僕は 元の世界に帰りたい！ /  / そのための 手がかりが / 欲しいんだ！
+   EN: I want to go back to my own world!  I need clues to get there!
+>> 07.52 | Jiro | ………
+   EN: .........
+>> 07.53 | Goki | 童子 この者達は / 信用して良さそうです
+   EN: Doji, I believe these people can be trusted.
+>> 07.54 | {p} | うわ～！
+   EN: Whoaaa!
+>> 07.55 | Goki | 私は / 地獄界から来た鬼ではない / 私は 手天童子郎を護るため / 鬼獄界で生まれた 護鬼
+   EN: I am no oni from the Hell World. I am Goki, born in the Kigoku World to protect Jiro Shutendo.
+>> 07.56 | {p} | 鬼獄界？ / 閻魔大王の言うように / 次元の異なる別世界って / たくさん存在するんだ…
+   EN: The Kigoku World? Just like Great King Enma said, there really are tons of other worlds in other dimensions...
+>> 07.57 | Goki | 童子 / この者達と共に 行きましょう
+   EN: Doji, let us go with them.
+>> 07.58 | Jiro | しかし これ以上 / 犠牲を増やすわけには…
+   EN: But I can't let anyone else be sacrificed...
+>> 07.59 | Goki | 犠牲を増やさぬために！ですよ / 童子
+   EN: It is precisely so no one else is sacrificed, Doji.
+>> 07.60 | Enma-kun | それに 俺達が犠牲になるなんて / 決めつけんなよな！
+   EN: Besides, don't go deciding we're gonna be the ones sacrificed!
+>> 07.61 | Jiro | …解った 一緒に行こう！
+   EN: ...All right. Let's go together!
+>> 07.62 | Jiro | 敵が 総攻撃を仕掛けてくるなら / ここだな
+   EN: If the enemy's launching an all-out attack, it'll be here.
+>> 07.63 | Enma-kun | あの牙のような岩は / 隠れるのに ちょうどいいしな
+   EN: Those fang-shaped rocks are perfect for hiding behind, too.
+>> 07.64 | {p} | 待ち伏せされてる…？
+   EN: Are they lying in wait for us...?
+>> 07.65 | Jawanbo | どうやら 手天童子を倒すのは / 我らの役目らしい / 生まれてきた甲斐が / あったというものだ…！ / ありがたや… 邪来さま…！
+   EN: It seems slaying the Shutendoji falls to us. It makes my birth worthwhile...! I give thanks... O Jarai-sama...!
+>> 07.66 | Jiro | 美雪さんは どこだ！？
+   EN: Where is Miyuki-san!?
+>> 07.67 | Jawanbo | 女を助けたくば この邪腕坊率いる / 争魔衆を倒してみせよ！
+   EN: If you would save the girl, defeat the Somashu led by I, Jawanbo!
+>> 07.68 | Jiro | ………邪腕坊！
+   EN: .........Jawanbo!
+>> 07.69 | {p} | …邪腕坊って / 人間だったみたいだけど…？
+   EN: ...That Jawanbo seemed like he was human...?
+>> 07.70 | Enma-kun | 人間にしては 強過ぎねぇか？
+   EN: Ain't he way too strong to be human?
+>> 07.71 | Jiro | ヤツら 鬼仏衆は / 鬼達の子孫なんだ / 鬼達の世界 鬼獄界を / 護ろうとしている
+   EN: Those Kibutsu Clan guys are descendants of oni. They're trying to protect the world of the oni, the Kigoku World.
+>> 07.72 | {p} | その鬼仏衆が なんで子郎君を？
+   EN: So why are the Kibutsu Clan after you, Jiro-kun?
+>> 07.73 | Goki | 手天童子こそ 鬼獄界を破壊すると / 言われているからです / 鬼獄界は 突如 発生した / 鬼の世界です / 私も そして童子も…！ / ある日 突然 鬼獄界の片隅に / 赤ん坊の姿で / 童子は「発生」したのです！
+   EN: Because it is said that the Shutendoji will destroy the Kigoku World. The Kigoku World is a realm of oni that came into being out of nowhere. As did I, and as did Doji...! One day, without warning, Doji "came into being" in a corner of the Kigoku World as a baby!
+>> 07.74 | Goki | 鬼同士が 共食いする鬼獄界では / 赤ん坊はエサ同然… / そして私は / 本能として知っていた！ / この赤ん坊を護るために / 自分が存在するのだと！
+   EN: In the Kigoku World, where oni devour each other, a baby is little more than prey... And I knew it by instinct! That I existed to protect this baby!
+>> 07.75 | {p} | 君は 確かに その時 / 生まれたのかい？ / 鬼獄界以前に / 過去があったんじゃないのかな？
+   EN: Were you really born at that moment? Didn't you have a past before the Kigoku World?
+>> 07.76 | Goki | 解りません 私自身 自分が / なんなのか知りたい！ / しかし 今 解っていることは /  / 自分が 手天童子を護るために / 存在していることのみ！ / だから私は / 童子と共に戦うのです！
+   EN: I do not know. I want to know what I am myself! But all I know now  is that I exist to protect the Shutendoji! That is why I fight at Doji's side!
+>> 07.77 | Jiro | …………護鬼
+   EN: ............Goki.
+>> 07.78 | Goki | 行きましょう… 童子…
+   EN: Let us go... Doji...
+>> 07.79 | {p} | 突如 発生した世界・鬼獄界… /  / いったい 幾つの世界が / 存在するんだろう…
+   EN: The Kigoku World, a world that came into being out of nowhere...  Just how many worlds are out there...?
+>> 07.80 | Enma-kun | お～い {p}！ / なにやってんだよ！ 行くぜ！
+   EN: Hey, {p}! What're you doing? Let's go!
+>> 07.81 | {p} | あ！ 今 行くよ！
+   EN: Oh! Coming!
+>> 07.82 | Onitani | 待っていたぞ 手天童子！
+   EN: I've been waiting for you, Shutendoji!
+>> 07.83 | Jiro | 鬼谷！？
+   EN: Kitani!?
+>> 07.84 | Enma-kun | なんだ あいつは？
+   EN: Who's that guy?
+>> 07.85 | Goki | 童子の学校に潜入し / 童子を監視していた男です / そしてあいつこそ 美雪さんを / 誘拐した 張本人なのです！！
+   EN: The man who infiltrated Doji's school to spy on him. And he is the very one who kidnapped Miyuki-san!!
+>> 07.86 | Jiro | 美雪さんは どこだ！？
+   EN: Where is Miyuki-san!?
+>> 07.87 | Onitani | 俺が とって喰ったとでも / 思っているのか？ / ここにいるぞ！
+   EN: Do you think I ate her alive? She's right here!
+>> 07.88 | Miyuki | たすけて～！
+   EN: Heeelp!
+>> 07.89 | Jiro | 美雪さん！
+   EN: Miyuki-san!
+>> 07.90 | Onitani | 手天童子よ！ /  / 美雪を助けたかろう / が それは叶わぬ夢だ！ / おまえ達は みな 俺の手に / かかって 死ぬ運命なのだ！ / いでよ 魔道鬼！！
+   EN: Shutendoji!  You'd like to save Miyuki, but that's an impossible dream! You are all fated to die by my hand! Come forth, Madoki!!
+>> 07.91 | Enma-kun | うわ～ すっげ～！！
+   EN: Whoa, amaaazing!!
+>> 07.92 | {p} | まさに鬼！
+   EN: A real oni!
+>> 07.93 | Onitani | おぉ！ 戦鬼か？！ /  / 鬼獄界に手天童子を護る鬼 / 二鬼ありと言う… / 二鬼の名を… 護鬼と戦鬼！
+   EN: Ohh! Senki!?  It is said two oni guard the Shutendoji in the Kigoku World... The names of those two... Goki and Senki!
+>> 07.94 | Goki | そのとおり！ /  / 我らがいる限り 手天童子には / 指一本とて触れさせん！
+   EN: Exactly!  As long as we live, not a finger shall touch the Shutendoji!
+>> 07.95 | Enma-kun | おい なんか / すっげ～展開になってるぞ！？
+   EN: Hey, this is getting super intense!?
+>> 07.96 | {p} | う うん…！
+   EN: Y-yeah...!
+>> 07.97 | Jiro | 護鬼！ 戦鬼！ 行くぞ！ / 鬼谷を倒し 美雪さんを助ける！
+   EN: Goki! Senki! Let's go! We beat Kitani and save Miyuki-san!
+>> 07.98 | Goki | はい！ 童子！！
+   EN: Yes, Doji!!
+>> 07.99 | {p} | よし！ / 僕らも行くぞ えん魔くん！
+   EN: All right! Let's go too, Enma-kun!
+   ctx 08.00 | Enma-kun | おう！！
+   ctx EN: You got it!!
+   ctx 08.01 | Jiro | 美雪さん！
+   ctx EN: Miyuki-san!

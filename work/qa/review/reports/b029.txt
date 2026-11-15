@@ -1,0 +1,3 @@
+MINOR | 28.73 | You look as though you've seen a ghost; I came to fetch you because you were late. | Switching from "Honey" to "you" while addressing Honey sounds unnatural. | What's with that look? You look like you've seen a ghost! You were so late getting back, I got worried and came to get you!
+MINOR | 28.81 | Hey, Honey! Where are you touching me?! | "Where are you touching!" is awkward English and weakens the comic protest. | Hey, Honey! Where do you think you're putting your hands?!
+ASSESSMENT | b029 | Approved | No confident Critical or Important issues; only two minor naturalness fixes.

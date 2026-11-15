@@ -1,0 +1,2 @@
+IMPORTANT | 51.95 | "女の子なのに 男子？" means "A girl, but named Danshi ('boy')?" | "A girl, but a boy?" loses the name pun and sounds like confusion about her sex. | She's a girl, but her name means "boy"?
+ASSESSMENT | b053 | Needs fixes | Restore the name joke in 51.95; the remaining entries read well.

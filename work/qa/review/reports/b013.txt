@@ -1,0 +1,3 @@
+IMPORTANT | 12.00 | 「き 貴様は…！？」: "Y-you...!?" expresses startled recognition. | "You wretch" replaces his shocked recognition with an insult. | Y-you...!?
+MINOR | 12.77 | 理性のタガがふっ飛び / 巨大な精神エネルギーが噴出する: reason's restraints break and immense psychic energy erupts. | "The restraints on your reason will blow off" is awkwardly literal; "a colossal psychic energy" is unnatural English. | When your beloved is hurt and your heart trembles with hatred and rage... your reason will shatter, unleashing a colossal surge of psychic energy! That will mark the birth of a terrifying psychic!
+ASSESSMENT | b013 | Needs fixes | One line loses its startled recognition, and the psychic awakening speech needs smoother English.

@@ -1,0 +1,3 @@
+MINOR | 34.53 | 俺は 怪物に 食い殺されたはずだ: the monster should have killed me by devouring me | "I should have been eaten alive" awkwardly suggests an expected experience rather than disbelief at surviving. | I'm... alive? Why!? That monster devoured me... I should be dead!
+MINOR | 34.98 | 強い意志の力を感じます: I sense strong willpower | "A strong willpower" is unnatural; "willpower" is uncountable. | ...I sense great willpower in you.
+ASSESSMENT | b035 | Approved | The batch preserves meaning, terminology, and dramatic voices, with only minor wording polish needed.

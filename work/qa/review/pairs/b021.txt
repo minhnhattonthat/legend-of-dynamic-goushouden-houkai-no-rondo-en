@@ -1,0 +1,208 @@
+   ctx 19.98 | Worker | …破壊の月を！
+   ctx EN: ...The Moon of destruction!
+   ctx 19.99 | Worker | …再生の太陽を！
+   ctx EN: ...The Sun of rebirth!
+>> 20.00 | {p} | …なんだろう…？ / イヤな予感がする…
+   EN: ...What is it...? I've got a bad feeling...
+>> 20.01 | Shinichi | どうした？
+   EN: What's up?
+>> 20.02 | {p} | 慎一君 起きてたの？
+   EN: Shinichi-kun, you were awake?
+>> 20.03 | Shinichi | ああ 他の連中は 部屋で / グッスリ寝ている / だが 俺は… /  / …あんなことがあった後で / 眠れるわけがない…
+   EN: Yeah. The others are sound asleep in their rooms. But me...  ...after what happened, how could I sleep...?
+>> 20.04 | {p} | …そうだよね ごめんなさい
+   EN: ...Of course. I'm sorry.
+>> 20.05 | Shinichi | いいんだ 謝ることはない /  / 真理阿は 俺の中にいるんだから…
+   EN: It's fine. No need to apologize.  Maria is inside me, after all...
+>> 20.06 | Shusha | すぅ… すぅ…
+   EN: Zzz... zzz...
+>> 20.07 | Tomisaburo | ぐお～ ぐお～
+   EN: SNORRRK... SNORRRK...
+>> 20.08 | {p} | ふたりとも よく寝てるようだね
+   EN: Looks like they're both sleeping like logs.
+>> 20.09 | Shinichi | 朱紗にとって / 大変な一日だったからな / 富三郎のデカいイビキは / いつものことさ！
+   EN: It was a rough day for Shusha. And Tomisaburo's huge snoring is nothing new!
+>> 20.10 | Shinichi | …ところで 眠れないのか？
+   EN: ...So, can't sleep?
+>> 20.11 | {p} | なんか イヤな予感がして…
+   EN: I just have a bad feeling...
+>> 20.12 | Shinichi | …気がついていたか？
+   EN: ...So you noticed?
+>> 20.13 | {p} | 慎一君も？
+   EN: You too, Shinichi-kun?
+>> 20.14 | Shinichi | 真理阿と ひとつになったことで / 俺は予知能力を身につけたらしい
+   EN: Becoming one with Maria seems to have given me the power of precognition.
+>> 20.15 | {p} | 何かが… 起こる…と？
+   EN: Something's... going to happen?
+>> 20.16 | Shinichi | かもな… / 外の様子でも見に行こうか？
+   EN: Maybe... Want to go take a look outside?
+>> 20.17 | Shusha | こんな夜更けに どうした？
+   EN: What's up, this late at night?
+>> 20.18 | {p} | イヤな予感がするんだ… / それでちょっと…
+   EN: I've got a bad feeling... so I thought I'd...
+>> 20.19 | Shusha | イヤな予感…？ / 俺も行くよ
+   EN: A bad feeling...? I'll come too.
+>> 20.20 | {p} | 誰か来る…
+   EN: Someone's coming...
+>> 20.21 | Shinichi | ガードマンのようだ
+   EN: Looks like a guard.
+>> 20.22 | Shusha | 様子がおかしい！
+   EN: Something's wrong with him!
+>> 20.23 | Shinichi | あれは 魔の残骸？ / 悪い予感が 当たったようだな！
+   EN: Is that the remains of the Ma? Looks like my bad hunch was right!
+>> 20.24 | {p} | 黒い月が出てる！！ /  / …黒い月が 魔を蘇らせてる！？
+   EN: The black moon is out!!  ...Is the black moon bringing the Ma back to life!?
+>> 20.25 | {p} | 黒い月が 魔を蘇らせてる！？
+   EN: Is the black moon bringing the Ma back to life!?
+>> 20.26 | Shusha | なんてことだ…
+   EN: Unbelievable...
+>> 20.27 | Shinichi | 気をつけろ！ / ヤツら 襲ってくるぞ！
+   EN: Watch out! They're coming at us!
+>> 20.28 | Shusha | あの人達は 魔に取り憑かれて / しまったのか？ / 俺から落ちた魔が あの人達に！？
+   EN: Are those people possessed by the Ma? Did the Ma that came off me get into them!?
+>> 20.29 | {p} | 違う あの人達を操っているのは / 黒い月だ！ そんな気がするよ！
+   EN: No, it's the black moon controlling them! That's what I think!
+>> 20.30 | Shinichi | 同感だぜ / こいつら 黒い月に操られてる！
+   EN: I agree. These people are being controlled by the black moon!
+>> 20.31 | {p} | 良かった 気絶しているだけだ！
+   EN: Thank goodness, they're just knocked out!
+>> 20.32 | Shusha | 他にも 操られてしまった人が / いるんじゃないか？
+   EN: Couldn't there be others being controlled?
+>> 20.33 | Shinichi | 俺達だけじゃ 手が足りない /  / 操られた人を 探しながら / 仲間を おこしにいこう
+   EN: There aren't enough of us alone.  Let's wake up our friends while we look for the people being controlled.
+>> 20.34 | Shinichi | …！
+   EN: ...!
+>> 20.35 | Shusha | …ここは ダメだ！ / 引き返そう！
+   EN: ...No good here! Let's turn back!
+>> 20.36 | {p} | 引き返そう！
+   EN: Let's turn back!
+>> 20.37 | {p} | 明君！ ジャック！ / 門土さん！ 竜馬さん！ / 山岸君！ 袋小路君！ / えん魔くん！ カパエル！ / 閻魔大王様！ 子郎君！ / 護鬼！ 戦鬼！ / 甲児君！ ボス！ / ムチャ！ ヌケ！ / 合田君！ 瓜生さん！
+   EN: Akira-kun! Jack! Mondo-san! Ryoma-san! Yamagishi-kun! Fukurokoji-kun! Enma-kun! Kapaeru! Great King Enma-sama! Jiro-kun! Goki! Senki! Koji-kun! Boss! Mucha! Nuke! Goda-kun! Uryu-san!
+>> 20.38 | Shinichi | くそっ！ 操られてるようだ！
+   EN: Damn! Looks like they're being controlled!
+>> 20.39 | {p} | なんてこと…！
+   EN: No way...!
+>> 20.40 | Shusha | 襲ってくるぞ！
+   EN: Here they come!
+>> 20.41 | Shinichi | 仕方がない！ 戦うぞ！
+   EN: No choice! We fight!
+>> 20.42 | {p} | ごめんね！
+   EN: I'm sorry!
+>> 20.43 | {p} | 良かった 息はあるよ…！
+   EN: Thank goodness, they're still breathing...!
+>> 20.44 | Shusha | 仲間達まで / 操られてしまうなんて…！
+   EN: Even our friends are being controlled...!
+>> 20.45 | Shinichi | ヤツらの狙いは なんだ…！？
+   EN: What are they after...!?
+>> 20.46 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 20.47 | {p} | …{s}の声！？ / 上のほうから聞こえた！ / {s}のいる部屋は / 上のフロアにある！ 急ごう！
+   EN: ...That's {s}'s voice!? It came from upstairs! {s}'s room is on the upper floor! Hurry!
+>> 20.48 | {s} | 十兵衛？ / 雪子姫？ / 美雪さん？ / さやかさん？ / 美剣さん？
+   EN: Jubei? Princess Yukiko? Miyuki-san? Sayaka-san? Mitsurugi-san?
+>> 20.49 | {s} | いったい どうして？
+   EN: What on earth is going on?
+>> 20.50 | {s} | そんな… いや… / きゃ～！
+   EN: No... no way... Kyaaa!
+>> 20.51 | {p} | {s}！
+   EN: {s}!
+>> 20.52 | {s} | {p}！ 助けて！
+   EN: {p}! Help me!
+>> 20.53 | {s} | {p}！
+   EN: {p}!
+>> 20.54 | {p} | もう 大丈夫だよ…
+   EN: It's okay now...
+>> 20.55 | Shusha | だが ここは危険だ
+   EN: But it's dangerous here.
+>> 20.56 | Shinichi | しかし / 仲間達まで操られちまってる！ / 逃げ場は無いぞ？
+   EN: But even our friends are being controlled! There's nowhere to run, is there?
+>> 20.57 | {s} | いったい 何が起こったの…？
+   EN: What on earth happened...?
+>> 20.58 | {p} | どうやら魔の残骸が / 蘇っちゃったらしいんだ…
+   EN: It looks like the remains of the Ma came back to life...
+>> 20.59 | {s} | もしかして… アレが？
+   EN: Could it be... that thing?
+>> 20.60 | Shusha | 今は 逃げ場を探すことが先決だ / 無事な仲間も いるかもしれない
+   EN: Right now, finding somewhere to run comes first. Some of our friends might still be safe.
+>> 20.61 | {s} | あたし… 恐い！
+   EN: I'm... scared!
+>> 20.62 | {p} | 大丈夫 僕が… / 僕達が 君を守るよ！
+   EN: It's okay, I'll... we'll protect you!
+>> 20.63 | Shusha | ここはダメだ / 別の道を探そう…！
+   EN: No good here. Let's find another way...!
+>> 20.64 | {p} | …大丈夫 / 気絶しているだけだ
+   EN: ...It's okay. They're just knocked out.
+>> 20.65 | {p} | みんな ごめんね…
+   EN: I'm sorry, everyone...
+>> 20.66 | Controlled People | 我らは… 黒い月の使者なり…
+   EN: We are... envoys of the black moon...
+>> 20.67 | Controlled People | 仰せのままに…
+   EN: As you command...
+>> 20.68 | Controlled People | 破壊の月は… いずこ？
+   EN: The Moon of destruction... where is it?
+>> 20.69 | Controlled People | 再生の太陽は… いずこ？
+   EN: The Sun of rebirth... where is it?
+>> 20.70 | Controlled People | 黒い月が求める… / 探せ…と命じる…
+   EN: The black moon desires... It commands us... to search...
+>> 20.71 | Shinichi | ふたりとも！ ぼさっとするな！
+   EN: You two! Don't just stand there!
+>> 20.72 | Shusha | ヤツらが来る！
+   EN: They're coming!
+>> 20.73 | {p} | みんな 眼を覚まして！
+   EN: Everyone, wake up!
+>> 20.74 | Shusha | 無駄だ {p}！ / 戦って 気絶させるしかない！
+   EN: It's no use, {p}! We'll have to fight and knock them out!
+>> 20.75 | Shinichi | 気絶させて / 元に戻る保証は無いぜ？
+   EN: There's no guarantee they'll go back to normal if we knock them out, though.
+>> 20.76 | Shusha | しかし！
+   EN: But!
+>> 20.77 | Shinichi | わかってるさ / それでも 戦わなきゃな！
+   EN: I know. Even so, we gotta fight!
+>> 20.78 | {p} | {s}を守るんだ！
+   EN: We have to protect {s}!
+>> 20.79 | {p} | しまった！
+   EN: Oh no!
+>> 20.80 | {s} | きゃ～ {p}！ / た す け…！
+   EN: Kyaaa, {p}! Hel... help...!
+>> 20.81 | {p} | {s}！
+   EN: {s}!
+>> 20.82 | Black Fiend | 我は… 我は遂に！ / 遂に手に入れたぞ！ / 破壊の月を…！！
+   EN: I... I have at last! At last I've obtained it! The Moon of destruction...!!
+>> 20.83 | Shinichi | 破壊の月…？
+   EN: The Moon of destruction...?
+>> 20.84 | {p} | {s}！
+   EN: {s}!
+>> 20.85 | Shusha | よせ！ 危険だ！
+   EN: Stop! It's dangerous!
+>> 20.86 | {p} | はなしてくれ！
+   EN: Let me go!
+>> 20.87 | Controlled Person | …う う～ん / いったい どうしたんだ？
+   EN: ...Uhh... nnn... What happened?
+>> 20.88 | Controlled Person | …なぜ 俺はこんなところに…？
+   EN: ...Why am I in a place like this...?
+>> 20.89 | Controlled Person | …頭が 割れるように… 痛い…！ /  / あれ？ / あれは…魔物！？
+   EN: ...My head feels like it's... splitting...!  Huh? Is that... a monster!?
+>> 20.90 | Black Fiend | グオオオオオオ…！
+   EN: GUOOOOOOOH...!
+>> 20.91 | Controlled Person | ぎゃ～！
+   EN: Gyaaah!
+>> 20.92 | Controlled Person | うわ～！
+   EN: Whoaaa!
+>> 20.93 | Controlled Person | ひえぇ～！
+   EN: Eeeek!
+>> 20.94 | Controlled People | ぐわ～！
+   EN: Gwaaah!
+>> 20.95 | {p} | …なんてことだ
+   EN: ...This is terrible.
+>> 20.96 | Shusha | 危ない！
+   EN: Look out!
+>> 20.97 | Shusha | ぐわっ！
+   EN: Gwah!
+>> 20.98 | Shinichi | おのれ！
+   EN: Damn you!
+>> 20.99 | Shinichi | おおっ！
+   EN: Whoa!
+   ctx 21.00 | {p} | …！！
+   ctx EN: ...!!
+   ctx 21.01 | {p} | やめてくれ… / やめるんだ {s}！！
+   ctx EN: Stop it... Stop, {s}!!

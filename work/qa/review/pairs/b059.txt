@@ -1,0 +1,208 @@
+   ctx B01.46 |  | デビルマン /  /  / 不動明の / 小さな友だち / ジンメンに食われ / 顔が甲羅に・・・
+   ctx EN: Devilman   Akira's little friend. Eaten by Jinmen, her face is on its shell...
+   ctx B01.47 |  | あにまるケダマン /  /  / 登場するたびに / ろくな目にあわない / 学校の先生 / 今回は店主役で登場
+   ctx EN: Animal Kedaman   Always unlucky in every role. A teacher; here, a shopkeeper.
+>> D00.00 |  | 味方単体のＨＰを３０程度回復
+   EN: Restores about 30 HP to one ally
+>> D00.01 |  | 味方単体のＨＰを１８０程度回復
+   EN: Restores about 180 HP to one ally
+>> D00.02 |  | 石化、凍結、魅了以外を治療
+   EN: Cures ailments except Stone, Freeze, Charm
+>> D00.03 |  | 欠番
+   EN: Unused
+>> D00.04 |  | 戦闘不能以外の状態異常を治療
+   EN: Cures all ailments except KO
+>> D00.05 |  | 味方全体のＨＰを８０程度回復
+   EN: Restores about 80 HP to all allies
+>> D00.06 |  | 味方全体のＨＰを２５０程度回復
+   EN: Restores about 250 HP to all allies
+>> D00.07 |  | ＭＨＰの１０％で戦闘に復帰
+   EN: Revives from KO with 10% of max HP
+>> D00.08 |  | ＭＨＰの１００％で戦闘に復帰
+   EN: Revives from KO with 100% of max HP
+>> D00.09 |  | 敵グループからアイテムを盗む
+   EN: Steals an item from an enemy group
+>> D00.10 |  | ランダムな状態異常にする
+   EN: Inflicts a random ailment
+>> D00.11 |  | 敵単体のＤＸを減少
+   EN: Lowers one enemy's DX
+>> D00.12 |  | 味方単体のＡＴを上昇
+   EN: Raises one ally's AT
+>> D00.13 |  | 敵グループからお金を盗む
+   EN: Steals money from an enemy group
+>> D00.14 |  | 自分のＡＴを上昇
+   EN: Raises the user's AT
+>> D00.15 |  | 欠番
+   EN: Unused
+>> D00.16 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.17 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.18 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.19 |  | 敵単体を混乱状態にする
+   EN: Confuses one enemy
+>> D00.20 |  | 敵単体を即死させる
+   EN: Kills one enemy instantly
+>> D00.21 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.22 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.23 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.24 |  | 殴りつつアイテムを奪う
+   EN: Hits and steals an item
+>> D00.25 |  | 最大ＨＰとの差分値ダメージ
+   EN: Deals damage equal to the user's lost HP
+>> D00.26 |  | 自分のＡＴを上昇
+   EN: Raises the user's AT
+>> D00.27 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.28 |  | 敵単体のＤＰを攻撃
+   EN: Attacks one enemy's DP
+>> D00.29 |  | 全ＤＰを使って敵のＤＰを攻撃
+   EN: Uses all DP to attack the enemy's DP
+>> D00.30 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.31 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.32 |  | 自分のＡＴを上昇
+   EN: Raises the user's AT
+>> D00.33 |  | 敵単体の能力を調べる
+   EN: Checks one enemy's stats
+>> D00.34 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.35 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.36 |  | ボス以外の敵から１００％逃走
+   EN: Always escapes, except from bosses
+>> D00.37 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.38 |  | 如月ハニーに戻る
+   EN: Turns back into Honey Kisaragi
+>> D00.39 |  | １ターンの間、全防御属性上昇
+   EN: Raises all elemental defenses for 1 turn
+>> D00.40 |  | １ターンの間、全防御属性上昇
+   EN: Raises all elemental defenses for 1 turn
+>> D00.41 |  | 自分のＡＴを上昇
+   EN: Raises the user's AT
+>> D00.42 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.43 |  | 敵単体を【斬】属性攻撃
+   EN: Slash attack on one enemy
+>> D00.44 |  | 敵単体を【叩】属性攻撃
+   EN: Blunt attack on one enemy
+>> D00.45 |  | 敵単体を【叩】属性攻撃
+   EN: Blunt attack on one enemy
+>> D00.46 |  | 敵単体を毒状態にする
+   EN: Poisons one enemy
+>> D00.47 |  | 不動明に戻る
+   EN: Turns back into Akira Fudo
+>> D00.48 |  | 宇津木涼に戻る
+   EN: Turns back into Ryo Utsugi
+>> D00.49 |  | 朱紗真悟に戻る
+   EN: Turns back into Shingo Shusha
+>> D00.50 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.51 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.52 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.53 |  | 欠番
+   EN: Unused
+>> D00.54 |  | 敵単体を暗闇状態にする
+   EN: Blinds one enemy
+>> D00.55 |  | １ターンの間、全防御属性上昇
+   EN: Raises all elemental defenses for 1 turn
+>> D00.56 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.57 |  | 敵単体のＤＦを下げる
+   EN: Lowers one enemy's DF
+>> D00.58 |  | 自分のＤＸを上昇
+   EN: Raises the user's DX
+>> D00.59 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.60 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.61 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.62 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D00.63 |  | 敵単体のＤＰを攻撃
+   EN: Attacks one enemy's DP
+>> D00.64 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.65 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D00.66 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.67 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D00.68 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D00.69 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.70 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.71 |  | 敵単体を魅了状態にする
+   EN: Charms one enemy
+>> D00.72 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.73 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.74 |  | 敵全体を【精神】属性で攻撃
+   EN: Mind attack on all enemies
+>> D00.75 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.76 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.77 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.78 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.79 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.80 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.81 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.82 |  | カイムと合体する
+   EN: Merges with Kaim
+>> D00.83 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.84 |  | 与えたダメージ分ＨＰが回復
+   EN: Restores HP equal to the damage dealt
+>> D00.85 |  | 与えたダメージ分ＨＰが回復
+   EN: Restores HP equal to the damage dealt
+>> D00.86 |  | 敵全体を【叩】属性で攻撃
+   EN: Blunt attack on all enemies
+>> D00.87 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.88 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.89 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.90 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.91 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.92 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.93 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.94 |  | 敵単体を【雷】属性で攻撃
+   EN: Bolt attack on one enemy
+>> D00.95 |  | 敵単体を【熱】属性で攻撃
+   EN: Fire attack on one enemy
+>> D00.96 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+>> D00.97 |  | 敵単体を暗闇状態にする
+   EN: Blinds one enemy
+>> D00.98 |  | 敵単体を【叩】属性で攻撃
+   EN: Blunt attack on one enemy
+>> D00.99 |  | 敵単体を【斬】属性で攻撃
+   EN: Slash attack on one enemy
+   ctx D01.00 |  | 敵単体を【斬】属性で攻撃
+   ctx EN: Slash attack on one enemy
+   ctx D01.01 |  | 敵単体を【叩】属性で攻撃
+   ctx EN: Blunt attack on one enemy

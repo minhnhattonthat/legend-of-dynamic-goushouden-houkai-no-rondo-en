@@ -1,0 +1,3 @@
+MINOR | 02.40 | 燃える瞳は 原始の炎！ = His burning eyes hold a primal fire! | "The fire of the primeval" sounds unnatural and weakens the dramatic introduction. | Muscles of a gorilla! Fangs of a wolf! Eyes blazing with primal fire!
+MINOR | 02.98 | 警察なら むしろ安心なんじゃ？ = Shouldn't she be safe with the police? | "Isn't the police a good thing" is awkward and obscures the concern for Ayuko's safety. | Shouldn't she be safe with the police, though?
+ASSESSMENT | b003 | Approved | Meaning, terminology, and character voices are preserved, with only minor wording polish suggested.

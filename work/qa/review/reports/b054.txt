@@ -1,0 +1,6 @@
+IMPORTANT | 52.07 | 「血が騒ぐぜ…！」 means her blood is stirring with excitement for a fight. | "My blood's boilin'" conveys anger instead of eagerness for battle. | I'm itchin' for a fight...!
+IMPORTANT | 52.18 | 「はっ！？ わ 私は…？」 expresses disorientation on regaining consciousness. | "What am I?" turns her confusion into a question about her identity or nature. | ...Uhh... nnn... Huh!? Wh-what happened to me...?
+IMPORTANT | 52.33 | 「はっ！？ わ 私は…？」 expresses disorientation on regaining consciousness. | "What am I?" incorrectly suggests she is questioning her identity or nature. | Huh!? Wh-what happened to me...?
+MINOR | 52.75 | 手をあわせましょう asks the player to join their hands in prayer. | "Put your hands together for" reads as a request for applause. | Join your hands in prayer before the Jizo statue. Injuries and illness will heal at once, and everyone will be full of energy.
+MINOR | 52.89 | アソートメンバーから外れた means the partner left the party. | "Left the party members" is unnatural and inconsistent with the equivalent notification at 52.83. | Partner "{s}" left the party.
+ASSESSMENT | b054 | Needs fixes | Correct the battle excitement and waking dialogue; two other entries need minor wording fixes.

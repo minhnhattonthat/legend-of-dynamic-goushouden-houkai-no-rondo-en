@@ -1,0 +1,208 @@
+   ctx 10.98 | {p} | あれ？ / こんなところに地獄別荘が…！
+   ctx EN: Huh? Hell Villa's here...!
+   ctx 10.99 | Great King Enma | グワッハッハッハッ！
+   ctx EN: GWAHAHAHAHA!
+>> 11.00 | {p} | 閻魔大王様！？
+   EN: Great King Enma-sama!?
+>> 11.01 | Enma-kun | 地獄別荘を 光子力研究所の近くに / 移動してくれ！って頼んだんだ！ / そしたら ワシも行く！って / 言い出しちゃって…
+   EN: I asked him to move Hell Villa near the Photon Power Lab! And then he goes, "I'm coming too!"...
+>> 11.02 | Great King Enma | シャッポじいからの / 報告を聞いたら / いてもたっても / いられなくなったのだ！
+   EN: When I heard Chapeau-jii's report, I simply couldn't sit still!
+>> 11.03 | {p} | ありがとう！ 閻魔大王様！
+   EN: Thank you, Great King Enma-sama!
+>> 11.04 | Great King Enma | わしも仲間に加えてくれ / {p}よ！
+   EN: Let me join your party too, {p}!
+>> 11.05 | {p} | はい！ 喜んで！
+   EN: Yes! Gladly!
+>> 11.06 | Great King Enma | グワッハッハッハッ！
+   EN: GWAHAHAHAHA!
+>> 11.07 | Jiro | 僕も連れて行ってくれないかな？ / 預言者に聞いてみたいんだ / 僕がいつ 鬼獄界に帰ることに / なるのか…を
+   EN: Could you take me with you too? I want to ask the prophet... when I'll have to go back to the Kigoku World.
+>> 11.08 | {p} | よし！ 一緒に行こうよ 子郎君！
+   EN: All right! Let's go together, Jiro-kun!
+>> 11.09 | Jiro | ありがとう
+   EN: Thanks.
+>> 11.10 | Jiro | 準備はいいかい？ / それじゃ 行こうか…！
+   EN: Ready? Then let's go...!
+>> 11.11 | Professor Yumi | 戸来村は ここから 北東 / 科学都市 北の 小さな村だ / 来留間博士も / 予知一族を探している / じゅうぶん / 気をつけてくれたまえ！
+   EN: Herai Village is a small village northeast of here, north of Science City. Dr. Kuruma is searching for the Precog Clan too. Be very careful!
+>> 11.12 | Koji Kabuto | 整備中の機械獣か？
+   EN: A Mechanical Beast under maintenance?
+>> 11.13 | Mechanical Beast | グガーーッ！！
+   EN: GUGAAAH!!
+>> 11.14 | Koji Kabuto | おっと！ / 動き出しやがった！！
+   EN: Whoa! It started moving!!
+>> 11.15 | Mechanical Beast | ガーーーッ！！
+   EN: GAAAAH!!
+>> 11.16 | Koji Kabuto | どんなやつが来ても / ぶっとばしてやる！！
+   EN: I don't care what comes at me, I'll smash it!!
+>> 11.17 | Jiro | 寂しい村だな…
+   EN: What a lonely village...
+>> 11.18 | {p} | いかにも 預言者がいそうだね /  / まずは 村の人達に / 話を聞いてみよう
+   EN: Sure looks like a place a prophet would live.  Let's start by asking the villagers.
+>> 11.19 | Villager | ………
+   EN: .........
+>> 11.20 | {p} | ダメだ… みんな 僕達を / 避けてるみたいだ
+   EN: No good... Everyone seems to be avoiding us.
+>> 11.21 | Jiro | 避けてるというより… /  / 警戒してる…って感じだな
+   EN: It's less like avoiding us...  and more like they're wary of us.
+>> 11.22 | {p} | うわっ！
+   EN: Whoa!
+>> 11.23 | Jiro | 何者！？
+   EN: Who's there!?
+>> 11.24 | Mysterious Girl | …！ / あなた達は…！？
+   EN: ...! You are...!?
+>> 11.25 | Mysterious Girl | 予知一族を 探しているのね…
+   EN: You're looking for the Precog Clan...
+>> 11.26 | {p} | …！
+   EN: ...!
+>> 11.27 | Jiro | 僕達の心を読んだな！？
+   EN: You read our minds!?
+>> 11.28 | Mysterious Girl | あなた達には 何かを感じるわ… / 朱紗君とは違う 何かの力を…
+   EN: I sense something in you... A power different from Shusha-kun's...
+>> 11.29 | {p} | 何かを感じる…？ / それに朱紗君って…？
+   EN: You sense something...? And who's Shusha-kun...?
+>> 11.30 | Mysterious Girl | 驚かせてごめんなさい / 私は 美剣千草と言います
+   EN: Sorry to startle you. My name is Chigusa Mitsurugi.
+>> 11.31 | {p} | あ ど ど～も / {p}です
+   EN: Oh, h-h-hi. I'm {p}.
+>> 11.32 | Jiro | 手天童子郎です
+   EN: I'm Jiro Shutendo.
+>> 11.33 | Mitsurugi | 私は来たるべき災厄に備えて / 優秀な予知能力者を探しています
+   EN: I'm searching for gifted precognitives to prepare for a coming calamity.
+>> 11.34 | {p} | 来るべき災厄？
+   EN: A coming calamity?
+>> 11.35 | Mitsurugi | 詳しいことは 言えません / でも危機が迫っているのです / そこで 戸来村に来たのですが… / 無駄でした / ここに予知一族は いません！
+   EN: I can't tell you the details. But danger is drawing near. That's why I came to Herai Village... but it was no use. The Precog Clan isn't here!
+>> 11.36 | {p} | …！
+   EN: ...!
+>> 11.37 | Jiro | それで 何か知っているか / 僕達の心を 読んだんだね？
+   EN: So you read our minds to see if we knew anything?
+>> 11.38 | Mitsurugi | お詫びしますわ / ごめんなさい
+   EN: I apologize. I'm sorry.
+>> 11.39 | {p} | いえ… その…
+   EN: No... um...
+>> 11.40 | Jiro | あなたは 信用できる人だ / そのことだけは 僕にも解る
+   EN: You're someone who can be trusted. That much even I can tell.
+>> 11.41 | {p} | う うん！ / 僕もそう！
+   EN: Y-yeah! Same here!
+>> 11.42 | Mitsurugi | くすっ… あなた達 / いい人達 みたいね！ / お詫びにお教えします /  / 予知一族最高の預言者・真理阿は / ここにはいません / 村から逃げ出したらしいの
+   EN: Tee-hee... You two seem like good people! As an apology, I'll tell you.  Maria, the Precog Clan's greatest prophet, isn't here. It seems she fled the village.
+>> 11.43 | {p} | 真理阿って人は どこに行ったの？
+   EN: Where did this Maria go?
+>> 11.44 | Mitsurugi | 解らないの 村の人達も 真理阿の / 行方を 探してるらしいわ / …！？
+   EN: I don't know. It seems the villagers are searching for her too... ...!?
+>> 11.45 | Mitsurugi | 私は これで失礼します /  / 機会があったら / またお逢いしましょう！
+   EN: I'll be taking my leave now.  If the chance comes, let's meet again!
+>> 11.46 | {p} | 消えちゃった…
+   EN: She vanished...
+>> 11.47 | Jiro | 凄い超能力者だな…
+   EN: What an incredible psychic...
+>> 11.48 | {p} | う うわ～ 今度はなに！？
+   EN: Wh-whoa, now what!?
+>> 11.49 | Jiro | 誰だ！？
+   EN: Who's there!?
+>> 11.50 | Mysterious Man | 寂しいところだな ここは…！
+   EN: What a lonely place this is...!
+>> 11.51 | Jiro | お おい！
+   EN: H-hey!
+>> 11.52 | Mysterious Man | 聞け！ / 私の名前は 瓜生麗！
+   EN: Listen! My name is Rei Uryu!
+>> 11.53 | Uryu | この村は 私が買い取った！ / さっさと出て行きたまえ！
+   EN: I've bought this village! Kindly clear out at once!
+>> 11.54 | Villager | ひぇ～！
+   EN: Eeeek!
+>> 11.55 | Villager | お おたすけ～！
+   EN: H-help us!
+>> 11.56 | Uryu | ふん！ / 力も無いヤツらに用は無い！
+   EN: Hmph! I've no use for the powerless!
+>> 11.57 | Uryu | ほう… これはこれは… / はじめまして 私の名前は…
+   EN: Oh my... Well, well... How do you do, my name is...
+>> 11.58 | Jiro | 瓜生麗…だろ？
+   EN: Rei Uryu, right?
+>> 11.59 | Uryu | ほう？ なぜ私の名を…？ / もしや 君達は超能力者！？
+   EN: Oh? How do you know my name...? Could it be you're psychics!?
+>> 11.60 | {p} | さっき 自分で名乗ったじゃん…
+   EN: You just told us yourself a second ago...
+>> 11.61 | Uryu | …！ / 美剣千草が ここに来たのか
+   EN: ...! So Chigusa Mitsurugi came here.
+>> 11.62 | Jiro | この男も 超能力者らしいぞ？
+   EN: Looks like this guy's a psychic too...?
+>> 11.63 | {p} | ………
+   EN: .........
+>> 11.64 | Uryu | はっ！ これは面白い！
+   EN: Ha! Now this is interesting!
+>> 11.65 | Uryu | 君達には 何か不思議な力を / 感じる！ / まるで 彼のような…
+   EN: I sense some strange power in you! Almost like his...
+>> 11.66 | Uryu | いや 朱紗真悟とも違うようだ…
+   EN: No, it seems different from Shingo Shusha's too...
+>> 11.67 | Jiro | 聞いたか？ / また朱紗って名前が出たぞ…？
+   EN: Did you hear that? The name Shusha came up again...?
+>> 11.68 | {p} | うん いったい 朱紗って人は…
+   EN: Yeah. Who is this Shusha anyway...?
+>> 11.69 | Uryu | ともかく！
+   EN: In any case!
+>> 11.70 | Uryu | ここに真理阿はいない！ /  / 君達には 非常に / そそられるものが あるが / 私にとって 真理阿を見つける / ことが最優先！ 悪く思うな！
+   EN: Maria is not here!  You two intrigue me greatly, but finding Maria is my top priority! No hard feelings!
+>> 11.71 | Jiro | …別にいいんだけど…
+   EN: ...Fine by us, but...
+>> 11.72 | Uryu | 最後に忠告しよう… /  / 美剣千草には / 関らないほうが身のためだ…！
+   EN: A final word of advice...  For your own good, stay away from Chigusa Mitsurugi...!
+>> 11.73 | Jiro | 美剣千草… 瓜生麗… / ふたりとも なんて超能力者だ！ / しかも彼らは 鬼の血を継ぐ者じゃ / ないようだ！
+   EN: Chigusa Mitsurugi... Rei Uryu... What psychics, the both of them! And they don't seem to have oni blood!
+>> 11.74 | {p} | それに… ふたりとも / 朱紗って人の名前を口にしたね…
+   EN: And... they both mentioned that Shusha guy...
+>> 11.75 | Jiro | 気になるな… /  / それに ふたりとも この村に / 真理阿はいないって言ってた…
+   EN: It bugs me...  And they both said Maria isn't in this village...
+>> 11.76 | Jiro | 気をつけろ {p}！
+   EN: Look out, {p}!
+>> 11.77 | Immortal Corps | イヤッホ～！
+   EN: Yahooo!
+>> 11.78 | Immortal Corps | 壊せ 壊せ ぶち壊せ～っ！
+   EN: Smash it, smash it, smash it all to bits!
+>> 11.79 | Immortal Corps | こんな村 / きれいさっぱり壊しちまえ～っ！
+   EN: Wreck this whole village clean off the map!
+>> 11.80 | {p} | 村の人達が危ない！
+   EN: The villagers are in danger!
+>> 11.81 | Villager | あ あんたがた… / オラが村を 助けてくれて…
+   EN: Y-you folks... savin' our village...
+>> 11.82 | Villager | すまんこってす！ / ありがと！ ありがと！ / オラ達に出来ることがあったら / 遠慮なく言ってくだせぇ！
+   EN: We're much obliged! Thank ya! Thank ya! If there's anythin' we can do fer ya, don't be shy!
+>> 11.83 | Jiro | 村の人達が せっかく 心を / 開いてくれたんだ / 何か聞けるといいんだが…
+   EN: The villagers finally opened up to us. I hope we can learn something...
+>> 11.84 | Villager | 予知一族の末裔・真理阿と富三郎は / ある日 突然 逃げるように / 村から いなくなって / しまったのですじゃ
+   EN: Maria and Tomisaburo, descendants of the Precog Clan, up and left the village one day, like they was runnin' away.
+>> 11.85 | Villager | 預言者としての真理阿は / そりゃ～ すげかった！ / あんな預言者は / もう二度と出ねぇべさ
+   EN: Maria was a mighty fine prophet, she was! Ain't never gonna be another one like her.
+>> 11.86 | Villager | 真理阿の力を利用しようとしている / 悪いヤツがいるべさ / そいつから / 真理阿は逃げたんじゃよ きっと
+   EN: There's a bad sort out to use Maria's power, I reckon. She ran off to get away from him, sure as anythin'.
+>> 11.87 | Villager | 真理阿には 恋人がいるべさ /  / 真理阿は逃げたんじゃなく / 恋人と 駆け落ちしたんだべ
+   EN: Maria's got herself a sweetheart, y'know.  She didn't run off, she eloped with him, I reckon.
+>> 11.88 | Villager | なんでこんな人里離れた場所に / 村があるのかって？ / そりゃ あんた！ / 人目につかんようするためだべ！
+   EN: Why's there a village way out in the sticks like this? Well, I'll tell ya! It's so nobody'd see it!
+>> 11.89 | Villager | おんや～ どうしたこった？ /  / 雪解けの季節でもねぇだに / 川の水が増えてるべ？
+   EN: Well, I'll be, what's goin' on?  It ain't snowmelt season, but the river's risin'?
+>> 11.90 | Dr. Shaft | もう少しで 洪水発生装置は / 完成だな！
+   EN: The Flood Generator is nearly complete!
+>> 11.91 | Assistant | シャフト博士 最大出力時テストの / 準備が出来ました
+   EN: Dr. Shaft, we're ready for the maximum output test.
+>> 11.92 | Assistant | 村を押し流す洪水を起こせれば / 実験は成功です！
+   EN: If we can make a flood that washes away the village, the experiment's a success!
+>> 11.93 | Dr. Shaft | 見せしめとしては 最適だな！ /  / これで あの女も 少しは考えを / 改めると良いのだが… / よし やれ！
+   EN: The perfect example to make of them!  I do hope it makes that woman reconsider a little... Very well, do it!
+>> 11.94 | {p} | やめろ！
+   EN: Stop!
+>> 11.95 | Dr. Shaft | なんだ おまえらは！？ / ん？ もしや…？ / おまえらか！ 科学都市で / 来留間博士の邪魔をしたのは！ / 私達の 神聖な目的を / 邪魔するとは おろかな… / 見せてやろう / 私の実験の結果を… / 出てこい 息子達よ！！
+   EN: Who are you people!? Hm? Could it be...? It's you! You're the ones who got in Dr. Kuruma's way in Science City! Fools, to interfere with our sacred goal... Let me show you the results of my experiments... Come forth, my sons!!
+>> 11.96 | {p} | …！？
+   EN: ...!?
+>> 11.97 | Dr. Shaft | 私の体の中には / 多くの息子達がいるのだ / 私の邪魔をする者は / 息子達が 排除する！ / やれ！ 息子達よ！！
+   EN: Inside my body are many sons. My sons will eliminate anyone who gets in my way! Get them, my sons!!
+>> 11.98 | {p} | これじゃ キリがない…！
+   EN: At this rate, there's no end to them...!
+>> 11.99 | Mysterious Man | シャフト…！
+   EN: Shaft...!
+   ctx 12.00 | Dr. Shaft | き 貴様は…！？
+   ctx EN: Y-you...!?
+   ctx 12.01 | Jiro | しめた！ シャフト博士は / あの男との戦いに 手一杯だ！ / ザコは 今のうちに / 片付けてしまおう！
+   ctx EN: Perfect! Dr. Shaft has his hands full fighting that man! Let's clean up the small fry while we can!

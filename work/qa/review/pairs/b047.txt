@@ -1,0 +1,208 @@
+   ctx 45.98 | Ryo Asuka | ………
+   ctx EN: .........
+   ctx 45.99 | Bokuto Masa | アニキ！ / あれを見てくだせぃ！
+   ctx EN: Bro! Take a look at that!
+>> 46.00 | Akira Fudo | 黒い月！
+   EN: A black moon!
+>> 46.01 | Ryo Asuka | あれは いったい…！？
+   EN: What on earth is that...!?
+>> 46.02 | Ryo Asuka | 明 あの光が示しているのは / 科学都市のある方向じゃないか？
+   EN: Akira, isn't that light pointing toward Science City?
+>> 46.03 | Akira Fudo | 科学都市？ / {p}達の身に何か…！
+   EN: Science City? Something's happened to {p} and the others...!
+>> 46.04 | Akira Fudo | 行ってはダメだ！
+   EN: Don't go!
+>> 46.05 | Akira Fudo | 大丈夫か {p}？
+   EN: You okay, {p}?
+>> 46.06 | {p} | 明君 僕… / 何があったの？
+   EN: Akira-kun, I... What happened?
+>> 46.07 | Shusha | 「連れて行って」なんて / 言ってたんだぞ
+   EN: You were saying "take me with you."
+>> 46.08 | Ryo Asuka | 覚えてないのか？
+   EN: You don't remember?
+>> 46.09 | Akira Fudo | 話は後だ…！
+   EN: Talk later...!
+>> 46.10 | Shinichi | …そうだな
+   EN: ...Right.
+>> 46.11 | Akira Fudo | てめぇら 油断するな！
+   EN: Don't you guys let your guard down!
+>> 46.12 | {p} | 明君…！
+   EN: Akira-kun...!
+>> 46.13 | Akira Fudo | 黙って見てろ！ / 行くぞ 朱紗！ 慎一！
+   EN: Just shut up and watch! Let's go, Shusha! Shinichi!
+>> 46.14 | Guard | {p}君 しばらく / このホテルから出ないで下さい
+   EN: {p}-kun, please don't leave this hotel for a while.
+>> 46.15 | {p} | どうしてですか？
+   EN: Why not?
+>> 46.16 | Guard | 外を見れば わかります…
+   EN: Look outside and you'll understand...
+>> 46.17 | Akira Fudo | 出て行け！ {p}に / こんな様子を見せやがって！
+   EN: Get out! Showing {p} a mess like this!
+>> 46.18 | Guard | ひ ひぇ～！
+   EN: Y-yikes!
+>> 46.19 | {p} | …なんてことだ
+   EN: ...This is terrible.
+>> 46.20 | Ryo Asuka | いつ 自分の身体に / 黒い魔物が取り憑き / 操られてしまうか / わからない恐怖… / 疑心暗鬼に駆られた / 人間どもは / 何をしでかすか わからない！
+   EN: The fear of not knowing when a black fiend might latch onto your body and control you... Humans gripped by suspicion... there's no telling what they'll do!
+>> 46.21 | Akira Fudo | ………
+   EN: .........
+>> 46.22 | Ryo Asuka | これが人間の弱さだ！
+   EN: This is human weakness!
+>> 46.23 | Akira Fudo | 人間には 恐怖を押さえて戦う / 勇気がある！ / 人間の精神は / そんな弱いもんじゃないぜ 了
+   EN: Humans have the courage to hold down their fear and fight! The human spirit ain't that weak, Ryo.
+>> 46.24 | Dr. Saotome | その通りだ！
+   EN: Exactly right!
+>> 46.25 | Dr. Saotome | だが事態は予断を許さない /  / 不安に駆られた人々が / 暴徒化している / 状況を急いで整理し / 分析する必要がある
+   EN: But the situation could go either way.  People driven by fear are turning into a mob. We need to sort out and analyze the situation, quickly.
+>> 46.26 | Dr. Saotome | さて 明君 了君 / 君達が 科学都市に着いた時 / その時の様子を / わしらに 聞かせてくれんか？
+   EN: Now, Akira-kun, Ryo-kun, would you tell us how things were when you arrived in Science City?
+>> 46.27 | Akira Fudo | …はい
+   EN: ...Sure.
+>> 46.28 | Akira Fudo | …様子が おかしい？ / いったい 何が起こったんだ！？
+   EN: ...Something's wrong? What the hell happened!?
+>> 46.29 | Ryo Asuka | どうした明？ / 牧村家のことが心配なのか？
+   EN: What is it, Akira? Worried about the Makimuras?
+>> 46.30 | Akira Fudo | ………
+   EN: .........
+>> 46.31 | Ryo Asuka | 心配するな 木刀政が あの子達を / 守ってくれるさ
+   EN: Don't worry, Bokuto Masa will protect those kids.
+>> 46.32 | Akira Fudo | 了！ / あれを見ろ！
+   EN: Ryo! Look at that!
+>> 46.33 | Worker | ひぃ～！
+   EN: Eeeek!
+>> 46.34 | Akira Fudo | 野郎！
+   EN: You bastard!
+>> 46.35 | Ryo Asuka | 待て 明！
+   EN: Wait, Akira!
+>> 46.36 | Worker | …仰せのままに
+   EN: ...As you command.
+>> 46.37 | Akira Fudo | はっ！？
+   EN: Huh!?
+>> 46.38 | Akira Fudo | きやがれ！
+   EN: Come on!
+>> 46.39 | Akira Fudo | こいつら なんなんだ！？
+   EN: What the hell are these guys!?
+>> 46.40 | Ryo Asuka | 見ろ 明！ / あちこちに黒いのがいる…
+   EN: Look, Akira! There are black things all over...
+>> 46.41 | Akira Fudo | 人々が黒い物体に操られている…？
+   EN: The people are being controlled by black things...?
+>> 46.42 | Ryo Asuka | 操られた人々を追っているうち / 屋上の事件に遭遇したわけです
+   EN: While we were following the controlled people, we came upon the incident on the roof.
+>> 46.43 | Dr. Saotome | 黒い物体に操られた人々は /  / みな 何者かの声を聞いたと / 言っているそうじゃ / どんな言葉を聞いたのか / 調べてみんといかんな
+   EN: I'm told the people controlled by the black things...  all say they heard someone's voice. We shall have to find out just what words they heard.
+>> 46.44 | Akira Fudo | 待ってくれ 早乙女博士
+   EN: Hold on, Dr. Saotome.
+>> 46.45 | Dr. Saotome | なんじゃ？
+   EN: What is it?
+>> 46.46 | Akira Fudo | {p}に / 何か言うことはねぇのかい？
+   EN: Don't you got anything to say to {p}?
+>> 46.47 | {p} | ………
+   EN: .........
+>> 46.48 | Dr. Saotome | …無い
+   EN: ...No.
+>> 46.49 | Akira Fudo | なんだと！？
+   EN: What!?
+>> 46.50 | Ryo Asuka | よせ 明！
+   EN: Stop it, Akira!
+>> 46.51 | {p} | …早乙女博士 / {s}は…
+   EN: ...Dr. Saotome, what about {s}...?
+>> 46.52 | Dr. Saotome | {s}を想う / 君の気持ちは わかる / だが君にも / わかって欲しいことがある
+   EN: I understand how you feel about {s}. But there's something I want you to understand, too.
+>> 46.53 | Dr. Saotome | 次元連鎖現象は 今も続いている /  / そして黒い月がもたらす悲劇は / 次の段階に入ったのだ / 黒い月によって「魔」の残骸が / 息を吹き返し / 黒い物体 黒い魔物となり / 人々を襲っている
+   EN: The Dimension Chain phenomenon is still going on.  And the tragedy the black moon brings has entered its next stage. The black moon has breathed life back into the remains of the "Ma," and they've become black things, black fiends, attacking people.
+>> 46.54 | Dr. Saotome | 黒い魔物に取り憑かれた人々は / 暴徒化し 魔王に操られる / 被害は広がるばかり… つまり / 魔王の力は強まりつつある！
+   EN: People possessed by the black fiends turn into rioters, controlled by the Demon King. The damage only spreads... In other words, the Demon King's power is growing!
+>> 46.55 | Dr. Saotome | この事態は / 人類にとっての脅威なのだ！ / わしは早乙女研究所の所長として / 人類を救うために / 努力せねば ならないのだ！ / たとえ どんな犠牲を払ってでも！
+   EN: This situation is a threat to mankind! As director of the Saotome Lab, I have to work to save mankind! Whatever the sacrifice!
+>> 46.56 | Akira Fudo | {s}に / 犠牲になれと言うのか！？
+   EN: You're telling {s} to be the sacrifice!?
+>> 46.57 | Ryo Asuka | ………
+   EN: .........
+>> 46.58 | Dr. Saotome | わしだって 出来るだけのことは / してやりたい！ / 誰一人として / 犠牲には したくないのだ！
+   EN: I want to do everything I can too! I don't want to sacrifice a single person!
+>> 46.59 | Akira Fudo | 早乙女博士… あんた…
+   EN: Dr. Saotome... you...
+>> 46.60 | {p} | ………
+   EN: .........
+>> 46.61 | Dr. Saotome | じゃが！ 今は そんなことを / 言ってられる状況ではないのだ！
+   EN: But! Right now the situation doesn't allow for that!
+>> 46.62 | Dr. Saotome | わかってくれ… 諸君
+   EN: Please understand... all of you.
+>> 46.63 | Researcher | 早乙女博士 / ゲッターチーム 出動しました
+   EN: Dr. Saotome, the Getter Team has launched.
+>> 46.64 | Dr. Saotome | では黒い物体に操られた人達の / 様子を 見に行こう
+   EN: Then let's go see how the people controlled by the black things are doing.
+>> 46.65 | {p} | …外の人達 みんな 僕を魔王に / 差し出せって？
+   EN: ...All those people outside want me handed over to the Demon King?
+>> 46.66 | Ryo Asuka | 黒い物体に / 操られた人達の中には / 次元連鎖を調べていた / 科学者が いるらしいんだ / そいつがなぜか / 君を魔王に差し出せ！ / そう 煽っているらしい
+   EN: Among the people controlled by the black things, there's apparently a scientist who was studying the Dimension Chain. For some reason, he's stirring them up, saying "Hand him over to the Demon King!"
+>> 46.67 | {p} | どうして？
+   EN: Why?
+>> 46.68 | Ryo Asuka | 君と同じ世界から来た / {s}が 黒い月に / 吸い寄せられていった / そう ウワサされているからだ
+   EN: Because there's a rumor that {s}, who came from the same world as you, was drawn into the black moon.
+>> 46.69 | {p} | …たったそれだけのことで？
+   EN: ...Just because of that?
+>> 46.70 | Ryo Asuka | 明 よく見ておくがいい！ /  / 守ろうとしている人間が / 黒い魔物に踊らされ 敵となる / 明日は我が身かもしれないぜ？
+   EN: Take a good look, Akira!  The humans you're trying to protect are dancing to the black fiends' tune and becoming your enemy. Tomorrow it could be you.
+>> 46.71 | Akira Fudo | だが {p}だって / この事件の被害者だぜ！？
+   EN: But {p}'s a victim in all this too!
+>> 46.72 | Ryo Asuka | 外のヤツらにとっては / 被害者じゃない！ 関係者さ！
+   EN: Not to the people outside! To them he's involved!
+>> 46.73 | {p} | やめてよ ふたりとも！ /  / 君達まで争い始めたら ますます / 魔王の思うつぼじゃないか！
+   EN: Stop it, you two!  If you start fighting too, it's playing right into the Demon King's hands!
+>> 46.74 | Akira Fudo | …そうだな すまん
+   EN: ...You're right. Sorry.
+>> 46.75 | Ryo Asuka | つらい戦いが待っているぞ / {p}
+   EN: A hard fight awaits you, {p}.
+>> 46.76 | {p} | ………
+   EN: .........
+>> 46.77 | Ryo Asuka | 人々は魔王を支持している /  / 君は 彼らを相手に / 戦わなくてはならんのだ！
+   EN: The people support the Demon King.  You'll have to fight against them!
+>> 46.78 | Akira Fudo | なぁ 了… /  / 俺は本当に… /  / デビルマンに ならなければ / いけなかったのだろうか？
+   EN: Hey, Ryo...  Did I really...  have to become Devilman?
+>> 46.79 | Ryo Asuka | 君が生き残るためには / 必要なことだ！
+   EN: It was necessary for you to survive!
+>> 46.80 | Akira Fudo | 生き残ることが 本来の目的じゃ / なかったはずだぜ…？
+   EN: Surviving was never supposed to be the real goal, was it...?
+>> 46.81 | Ryo Asuka | ………
+   EN: .........
+>> 46.82 | Akira Fudo | もしも / 次元連鎖なんてものがなかったら / 俺もデビルマンにならなくても / 済んだかもな…
+   EN: If there'd never been any Dimension Chain, maybe I wouldn't have had to become Devilman...
+>> 46.83 | {p} | 明君…
+   EN: Akira-kun...
+>> 46.84 | Ryo Asuka | ………
+   EN: .........
+>> 46.85 | Ryo | 地上は酷いありさまだな 刻々と / 暴徒の数は増えているようだ
+   EN: It's a mess down there. The number of rioters keeps growing by the minute.
+>> 46.86 | Hayato | 命を賭けて恐竜帝国から守った / 人類がこれじゃ イヤになるぜ
+   EN: We risked our lives protecting mankind from the Dinosaur Empire, and this is what we get. Makes me sick.
+>> 46.87 | Musashi | 地上の様子が気になるよなぁ / 少し降りてみねぇか？
+   EN: I'm worried about what's goin' on down there. Wanna drop down for a look?
+>> 46.88 | Ryo | そうしよう
+   EN: Let's do that.
+>> 46.89 | Musashi | メカザウルスが生き残ってるって / どういうこと？
+   EN: What do ya mean a Mechasaurus survived?
+>> 46.90 | Hayato | 気がつかなかったのか ムサシ？
+   EN: You didn't notice, Musashi?
+>> 46.91 | Musashi | 何をだよ？
+   EN: Notice what?
+>> 46.92 | Ryo | メカザウルスに / 黒い物体が張り付いていた…
+   EN: There was a black thing stuck to the Mechasaurus...
+>> 46.93 | Musashi | ぎょえ～！ /  / それじゃ メカザウルスまで / 黒い物体に操られてるってわけ？
+   EN: Yeeeegads!  So even the Mechasaurus is bein' controlled by black things?
+>> 46.94 | Hayato | 黒い月の光を浴びて / 「魔」の残骸が蘇ったように / メカザウルスも / 蘇ったのかもしれん
+   EN: Maybe the Mechasaurus came back to life, the same way the remains of the "Ma" did when the black moon's light hit them.
+>> 46.95 | Musashi | おいおい！ 黒い魔物って / あんなでっかかったっけ？
+   EN: Hey, hey! Were the black fiends always that huge!?
+>> 46.96 | Hayato | …早乙女博士に / 報告した方が良さそうだな
+   EN: ...Better report to Dr. Saotome.
+>> 46.97 | Ryo | よし 研究所に戻ろう！
+   EN: Right, back to the lab!
+>> 46.98 | Akira Fudo | いつまで こうしているつもりだ / 了？
+   EN: How long are you planning to keep this up, Ryo?
+>> 46.99 | Ryo Asuka | 落ち着け 明 /  / 今 おまえが出て行っても / 何も変わらん
+   EN: Calm down, Akira.  Even if you go out there now, nothing will change.
+   ctx 47.00 | {p} | 明君 / 僕も行くよ
+   ctx EN: Akira-kun, I'm coming too.
+   ctx 47.01 | Ryo Asuka | {p}！
+   ctx EN: {p}!

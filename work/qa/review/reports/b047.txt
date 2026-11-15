@@ -1,0 +1,4 @@
+IMPORTANT | 46.43 | 「言っているそうじゃ」「調べてみんといかんな」: reportedly they heard a voice; we must investigate | Saotome's elderly register is flattened into neutral prose, and the reported nature of the information is lost. | I'm told the people controlled by the black things... all say they heard someone's voice. We shall have to find out just what they heard.
+IMPORTANT | 46.51 | 「早乙女博士 {s}は…」: Dr. Saotome, what about {s}...? | "Is..." turns an unfinished inquiry about {s} into an unfinished statement. | ...Dr. Saotome, what about {s}...?
+MINOR | 46.46 | 「何か言うことはねぇのかい？」: haven't you got anything to say? | "Don't you got" reads as a grammatical error rather than natural rough speech. | Haven't you got anything to say to {p}?
+ASSESSMENT | b047 | Needs fixes | Correct the inquiry about {s}, restore Saotome's elderly register, and smooth one awkward grammatical construction.

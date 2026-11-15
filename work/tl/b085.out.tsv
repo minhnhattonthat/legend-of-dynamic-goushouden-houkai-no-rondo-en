@@ -23,10 +23,10 @@ r0DD960	Unused2
 r0DD968	Unused1
 r0DD970	Eisanbo Daihon
 r0DD97C	Daihonei
-r0DD98C	Doshita Hatesa
+r0DD98C	Doshita Hatesate
 r0DD998	Doshita
-r0DD9A4	Eliza Hyo
-r0DD9B0	Eliza Hyo
+r0DD9A4	Eriza Hyo
+r0DD9B0	Eriza Hyo
 r0DD9C0	Dr. Judas
 r0DD9CC	Judas
 r0DD9D4	Taigen Mugen
@@ -80,7 +80,7 @@ r0DDC00	Senki
 r0DDC08	Great King Enma
 r0DDC14	Great King Enma
 r0DDC20	Princess Yukiko
-r0DDC28	Hoin Daiko
+r0DDC28	Daiko Hoin
 r0DDC34	Daiko
 r0DDC3C	Daemon Abashiri
 r0DDC4C	Kichiza Abashiri
@@ -112,10 +112,10 @@ r0DDD70	Opens the basement door
 r0DDD88	Photo of Utsugi and Saori
 r0DDDA8	Opens the waterway door
 r0DDDC8	Gym storage key
-r0DDDD8	Shinigami Police cell key
+r0DDDD8	Reaper Police cell key
 r0DDDF4	Analyzes enemy stats
 r0DDE0C	Weapon no human can wield
-r0DDE28	Pass for Phantom Castle
+r0DDE28	Pass for Mirage Castle
 r0DDE40	Avoids weak foes a while
 r0DDE5C	Lets you swap partners
 r0DDE74	HP+20% (robots only)

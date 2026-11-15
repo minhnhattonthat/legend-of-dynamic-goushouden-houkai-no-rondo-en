@@ -1,0 +1,208 @@
+   ctx 03.98 | Honey Kisaragi | きゃ～！ / 青児君 すっご～い！
+   ctx EN: Kyaaa! Seiji-kun, you're amaaazing!
+   ctx 03.99 | Seiji Hayami | いやぁ… えへへ…
+   ctx EN: Aw, shucks... Heh heh...
+>> 04.00 | {p} | これなら みんな乗れるね！
+   EN: Now we can all fit!
+>> 04.01 | Dragon | スラムキング様の 許可なく / この先へ進むことは許さん！
+   EN: No one passes beyond here without Slum King-sama's permission!
+>> 04.02 | Mondo | おい 関所に誰もいないぜ？
+   EN: Hey, there's nobody at the checkpoint.
+>> 04.03 | Ryoma | スラムキングが ジャックに負けて / 逃げ出したんじゃない？
+   EN: Didn't the Slum King lose to Jack and run off?
+>> 04.04 | {p} | …関所の向こうに / 何があるんだろう / {s}… / あいつ 無事かな…
+   EN: ...I wonder what's past the checkpoint. {s}... I hope she's okay...
+>> 04.05 | Jack | …また会ったな {p}
+   EN: ...We meet again, {p}.
+>> 04.06 | Jack | …覚えてないのか /  / これも ヤツの仕業か… / それとも…？
+   EN: ...You don't remember?  Is this his doing too... Or...?
+>> 04.07 | {p} | ちょ ちょっと何を言ってるの？
+   EN: H-hey, what are you talking about?
+>> 04.08 | Jack | いずれ解る… 俺と関ったら / ただでは済まんことも…な
+   EN: You'll understand in time... And that anyone mixed up with me won't get off lightly.
+>> 04.09 | Shopkeeper | ついに この町にもドラゴンが…
+   EN: Now the Dragons have come to this town too...
+>> 04.10 | Shopkeeper | 死神警察署は この町から / 南東に向かったとこにある / あゆ子ちゃん / 無事だといいんだがな…
+   EN: The Reaper Police HQ is southeast of this town. I hope Ayuko-chan is all right...
+>> 04.11 | Shopkeeper | 腹が減ったなら いつでも / たらふく 食わせてやるぞ！
+   EN: If you're hungry, I'll feed you till you're stuffed, anytime!
+>> 04.12 | Seiji Hayami | おかしいなぁ… / このあたりのはずなんだけど…？
+   EN: That's weird... It should be right around here...?
+>> 04.13 | Honey Kisaragi | 青児君のお父様 / こんな森の中に 住んでるの？
+   EN: Seiji-kun, your father lives in a forest like this?
+>> 04.14 | Seiji Hayami | いや 住宅地の ど真ん中だよ
+   EN: Nope, right in the middle of a housing area.
+>> 04.15 | {p} | どう見ても ここ / 住宅地じゃないよ…
+   EN: This sure doesn't look like a housing area...
+>> 04.16 | Seiji Hayami | だよなぁ…？ / 方角は合ってるんだけど… / うちの近所に 沼なんか / 無かったしなぁ…？
+   EN: Right...? The direction's right, but... there was never any pond near our place...?
+>> 04.17 | {p} | 少しまわりを 歩いてみようよ / まわりを見渡せば 何か解るかも？
+   EN: Let's walk around a little. If we look around, maybe we'll figure something out?
+>> 04.18 | Seiji Hayami | とほほ… 申し訳ない…
+   EN: *Sigh*... Sorry about this...
+>> 04.19 | Resident | え？ 町の南東にある沼？ / あぁ 蓮沼のことかい？ / あの沼なら / ず～っと昔からあるぞ？
+   EN: Huh? The pond southeast of town? Oh, you mean Hasunuma? That pond's been there forever, y'know.
+>> 04.20 | Resident | 町の南東にあった 蓮沼が消えて / 住宅地が 現れたんだ！ / いや そんな気がするだけで / 昔から住宅地だったのかも…？
+   EN: Hasunuma, the pond southeast of town, vanished and a housing area appeared! Or maybe it just feels that way, and it was always a housing area...?
+>> 04.21 | Resident | あんたら見たかい？ / 町の向こうにある デッカイ壁！ / …ドラゴンの関所のことかって？ / あんたら 何言ってんだ？ / ありゃ 高速道路の工事だよ
+   EN: Did you see it? That huge wall past the town! ...The Dragons' checkpoint, you say? What are you on about? That's highway construction.
+>> 04.22 | {p} | なんか 妙だね…
+   EN: Something's weird here...
+>> 04.23 | Jack | この町は 関東ではない！
+   EN: This town is not in Kanto!
+>> 04.24 | Seiji Hayami | いや そんなことないんだけど…
+   EN: Nah, that can't be...
+>> 04.25 | Jack | 少なくとも 俺の知る関東では / ないということだ
+   EN: At least, not the Kanto I know.
+>> 04.26 | {p} | 確かに どこにも 震災の跡は / 見当たらないね… / 普通の… / うん ごく普通の町に見えるよ / まるで…
+   EN: It's true, there's no sign of the quake anywhere... It looks like an ordinary... yeah, a totally ordinary town. Just like...
+>> 04.27 | {p} | …違う世界の町みたいだ！
+   EN: ...a town from another world!
+>> 04.28 | Seiji Hayami | 確かに 俺 関東地獄地震なんて / 知らないしなぁ…
+   EN: Come to think of it, I've never heard of any Kanto Hellquake...
+>> 04.29 | Honey Kisaragi | パパの死が別世界の出来事だったら / どんなにいいか…
+   EN: If only Papa's death had happened in another world...
+>> 04.30 | {p} | ハニー… /  / ここが どんな世界であれ / もっと調べてみないと…
+   EN: Honey...  Whatever world this is, we need to look into it more...
+>> 04.31 | Resident | 奇妙って言えば / 俺 聞いたんだ / 学校のあたりで / 裸の女性を見たんだって！ / ホントだったら / こりゃけっこうな話だね
+   EN: Speaking of weird, I heard something. Someone saw a naked woman around the school! If that's true, how very splendid!
+>> 04.32 | Resident | 何か変わったことは / 無かったかって？ / そこの学校の先生なら / 変わった人達ばかりだよ
+   EN: Anything unusual, you ask? The teachers at that school there are all weirdos.
+>> 04.33 | Resident | ちょいと そこの人！ / あんたは 信じてくれるかな？ / おもしろい話が あるんだけど / 聞いてってよ ね！ ね！
+   EN: Hey, you there! Will you believe me? I've got an interesting story. Hear me out, okay? Okay!?
+>> 04.34 | Resident | 誰も信じてくれないんだけどさ… /  / なんと 沼の中に / 屋敷が 浮かんでたんだぜ！
+   EN: Nobody believes me, but...  Would you believe a mansion was floating in the pond!?
+>> 04.35 | Honey Kisaragi | 沼に屋敷が浮かんでた ですって？
+   EN: A mansion floating in the pond, you say?
+>> 04.36 | Resident | あ～ やっぱ 疑ってる～！！
+   EN: Aww, you DO doubt me!!
+>> 04.37 | {p} | ごめん ごめん / 疑ってないから 話を続けてよ
+   EN: Sorry, sorry. We don't doubt you, so go on.
+>> 04.38 | Seiji Hayami | 取材なら 新聞記者の俺に / 任せてよ！ / ねぇ 君 / 疑ってないから おせ～て
+   EN: Leave the interviewing to me, the newspaper reporter! Hey, kiddo, we don't doubt you, so spill it.
+>> 04.39 | Resident | 疑ってないならよし～！
+   EN: If you don't doubt me, okaaay!
+>> 04.40 | Seiji Hayami | 蓮沼に 屋敷が浮かぶ時って / 何か 予兆でもあるのかい？
+   EN: When the mansion floats on Hasunuma, is there some kind of omen?
+>> 04.41 | Resident | そ～いえば 黒い月が浮かぶな…
+   EN: Now that you mention it, a black moon comes up...
+>> 04.42 | {p} | 黒い月！？
+   EN: A black moon!?
+>> 04.43 | Resident | ひぇ～～～！！
+   EN: Eeeeek!!
+>> 04.44 | Honey Kisaragi | 今の 聞いた？
+   EN: Did you hear that?
+>> 04.45 | Seiji Hayami | 黒い月…って 言ってたな
+   EN: A black moon... that's what he said.
+>> 04.46 | Ryoma | 蓮沼まで 戻ってみる？
+   EN: Wanna head back to Hasunuma?
+>> 04.47 | Seiji Hayami | ハレンチ学園？ / 聞いたことないなぁ…？
+   EN: Harenchi Gakuen? Never heard of it...?
+>> 04.48 | {p} | ジャック 何を見てるの？
+   EN: Jack, what are you looking at?
+>> 04.49 | Honey Kisaragi | …あ！
+   EN: ...Oh!
+>> 04.50 | Mondo | おいおい / 誰か 縛りつけられてるぜ
+   EN: Hey hey, somebody's tied up out there.
+>> 04.51 | Ryoma | ここ学校でしょ？ / 宿題 忘れたんじゃないの？
+   EN: It's a school, right? Bet he forgot his homework.
+>> 04.52 | {p} | 助けたほうが いいんじゃない？
+   EN: Shouldn't we help him?
+>> 04.53 | Jack | そう思うか {p}…？
+   EN: You think so, {p}...?
+>> 04.54 | {p} | う うん…
+   EN: Y-yeah...
+>> 04.55 | Jack | ならば 行こう…
+   EN: Then let's go...
+>> 04.56 | {p} | うわ～！
+   EN: Whoaaa!
+>> 04.57 | Honey Kisaragi | きゃ～！
+   EN: Kyaaa!
+>> 04.58 | Ryoma | なんだ なんだ！？
+   EN: What the!? What the!?
+>> 04.59 | Marugoshi | がっはっはっは！
+   EN: Gahahaha!
+>> 04.60 | Higegodzilla | おほほほ / ざま～ごらんあそばせ / 山岸を助けようったって / そうはイカのキンちゃんよ / …あらら 十兵衛ちゃん達かと / 思ったら 違うわね / うちの生徒でも　ないみたいよ～！
+   EN: Ohohoho! Serves you right, darlings! Trying to rescue Yamagishi? Not so fast, sweet-cheeks! ...Oh my, I thought it was Jubei-chan's lot, but it isn't. They're not even our students!
+>> 04.61 | Mondo | 出せ この野郎！
+   EN: Let us out, you bastard!
+>> 04.62 | {p} | 人違いなら 出してくれよ！
+   EN: If it's the wrong people, let us out!
+>> 04.63 | Marugoshi | 構わねぇから放り込んでおきなさい / 吉永先生！
+   EN: Never mind, just toss 'em in, Yoshinaga-sensei!
+>> 04.64 | Higegodzilla | おほほほ それもそうよね / なんか 凶暴そうだし…
+   EN: Ohohoho, you're quite right. They do look savage...
+>> 04.65 | Young Girl | あいつら　人違いしちゃった… / ねえ　どうする？
+   EN: They got the wrong people... Hey, what do we do?
+>> 04.66 | Young Girl | ………
+   EN: .........
+>> 04.67 | Honey Kisaragi | まったくもう…！
+   EN: Oh, for crying out loud...!
+>> 04.68 | Mondo | ひでぇめにあったぜ！ / あの野郎！ とっちめてやる！
+   EN: What a raw deal! That bastard! I'll make him pay!
+>> 04.69 | {p} | ここは…？
+   EN: Where are we...?
+>> 04.70 | Seiji Hayami | もしや…？
+   EN: Could this be...?
+>> 04.71 | Ryoma | よりによって / トイレに閉じ込められた！
+   EN: Of all places, they locked us in the bathroom!
+>> 04.72 | {p} | …なんとか ここから出る方法を / 探さないとね
+   EN: ...We've got to find some way out of here.
+>> 04.73 | Mysterious Girl | こんにちは！
+   EN: Hiii!
+>> 04.74 | Mysterious Girl | ここは…男子トイレ！ / いや～も～ あたしったら！
+   EN: This is... the boys' bathroom! Oh my gosh, silly me!
+>> 04.75 | {p} | …あの 君は誰？
+   EN: ...Um, who are you?
+>> 04.76 | Mysterious Girl | あ ごめんなさい /  / あたしは 柳生十兵衛みつ子 / 十兵衛って呼んで
+   EN: Oh, sorry.  I'm Mitsuko Yagyu Jubei. Just call me Jubei.
+>> 04.77 | Jubei | あなた達 / あたしと 間違えられたの！ / それで あたし あなた達を / 助けに来たってわけ
+   EN: They mistook you guys for me! So I came to rescue you.
+>> 04.78 | Honey Kisaragi | あいつら なにもの？
+   EN: Who are those creeps?
+>> 04.79 | Jubei | ヒゲゴジラと 丸ゴシは / この学校の先生よ
+   EN: Higegodzilla and Marugoshi are teachers at this school.
+>> 04.80 | Jubei | あいつら みんなに苛められた / 仕返しを するつもりなの
+   EN: They're out for payback because everyone picks on them.
+>> 04.81 | Seiji Hayami | 苛めたくなる気持ちは 解るけど / でも先生でしょ…
+   EN: I get wanting to pick on them, but they ARE teachers...
+>> 04.82 | Jubei | だって 苛めると喜ぶんだもん
+   EN: But they love it when we pick on them!
+>> 04.83 | Jubei | ヒゲゴジラのヤツ / 丸ゴシを 抱き込んで / 山岸君を 捕まえちゃったの
+   EN: That Higegodzilla roped Marugoshi in, and they nabbed Yamagishi-kun.
+>> 04.84 | Mondo | 校庭の柱に 縛り付けられていた / あいつか？
+   EN: The guy tied to the post in the schoolyard?
+>> 04.85 | Jubei | うん
+   EN: Yep.
+>> 04.86 | Ryoma | そうかぁ あの罠は 君を捕まえる / ための ものだったんだ
+   EN: Ohh, so that trap was meant to catch you.
+>> 04.87 | Higegodzilla | 山岸を助けようったって / そうはいかないわよー！
+   EN: Trying to rescue Yamagishi? Not on my watch, darlings!
+>> 04.88 | Yamagishi | やい ヒゲゴジラ！ / よくも俺様を 苛めやがったな！ / ぶっとばすぞ！
+   EN: Hey, Higegodzilla! You got some nerve picking on me! I'll knock your block off!
+>> 04.89 | Higegodzilla | ひ～！
+   EN: Eeek!
+>> 04.90 | {p} | それくらいで やめておきなよ
+   EN: That's enough, okay?
+>> 04.91 | Yamagishi | ん？ / なんだ おめぇ？
+   EN: Huh? Who the heck are you?
+>> 04.92 | {p} | 僕は {p}だよ
+   EN: I'm {p}.
+>> 04.93 | Yamagishi | 十兵衛と一緒に 俺を助けてくれた / のは あんたか！ / ありがとよ！ …っと / ところで 十兵衛は？
+   EN: So you're the one who saved me with Jubei! Thanks! ...Uh, by the way, where's Jubei?
+>> 04.94 | Jubei | きゃ～！
+   EN: Kyaaa!
+>> 04.95 | Jubei | 助けて 山岸く～ん！！
+   EN: Help me, Yamagishi-kuuun!!
+>> 04.96 | Marugoshi | やかましい！ / 騒ぐと投げ落とすぞ！
+   EN: Shut it! Make a racket and I'll toss you off!
+>> 04.97 | Jubei | いや～ん！
+   EN: Noooo!
+>> 04.98 | Yamagishi | 十兵衛！ / くっそ～ 丸ゴシめぇ！
+   EN: Jubei! Dammit, Marugoshi!
+>> 04.99 | {p} | 十兵衛を 助けなくっちゃ！
+   EN: We've got to save Jubei!
+   ctx 05.00 | {p} | 十兵衛を返せ！
+   ctx EN: Give Jubei back!
+   ctx 05.01 | Marugoshi | ワシを倒すことが出来たなら / 返してやるわ！
+   ctx EN: If you can beat me, I'll give her back!

@@ -1,0 +1,208 @@
+   ctx 01.98 | Resident | 関東地獄地震の記憶は / まだ 生々しいよ / ちょっとした揺れでも / 寿命が縮まるかと 思っちまう
+   ctx EN: The memory of the Kanto Hellquake is still fresh. Even a little tremor feels like it takes years off my life.
+   ctx 01.99 | Resident | 海の向こうに 離れ離れになった / 家族が待ってる… / 関東が本州と切り離されちまった / こと 知ってるだろ？
+   ctx EN: My family's waiting across the sea, torn away from me... You know Kanto got cut off from the rest of Honshu, right?
+>> 02.00 | Ayuko's Father | 娘の姿が 見えんのだ… /  / 日本政府が 関東を見捨ててから / 無法者が集まるばかり… / あゆ子のことが 心配だ…
+   EN: I can't find my daughter anywhere...  Ever since the Japanese government abandoned Kanto, nothing but outlaws gather here... I'm so worried about Ayuko...
+>> 02.01 | Resident | 関東地獄地震から数年たったけど / 暮らしは 酷いものだ / 暴力が支配する世界じゃ / 弱者は 苦しむだけだ…
+   EN: It's been a few years since the Kanto Hellquake, but life's still awful. In a world ruled by violence, the weak just suffer...
+>> 02.02 | Honey Kisaragi | この集落 様子が おかしいわよ
+   EN: Something's not right about this village.
+>> 02.03 | {p} | 大地震が あったみたいだね
+   EN: Looks like there was a huge earthquake.
+>> 02.04 | Honey Kisaragi | 関東地獄地震？
+   EN: The Kanto Hellquake?
+>> 02.05 | {p} | うん 確かに 大地震から / 数年後…って感じだね
+   EN: Yeah. It sure feels like a few years after a big quake...
+>> 02.06 | Honey Kisaragi | これも パンサークローのしわざ / かしら？
+   EN: I wonder if this is Panther Claw's doing too?
+>> 02.07 | Shopkeeper | あんたら 見かけない顔だね… / よそもンだね / この町に住む気が あるのかい？
+   EN: Don't recognize your faces... Outsiders, huh? You planning to live in this town?
+>> 02.08 | Mondo | まぁー 気に入りゃな！
+   EN: Meh, if I like it!
+>> 02.09 | Shopkeeper | だったら / 警察に 届け出たほうがいい
+   EN: Then you'd best report to the police.
+>> 02.10 | Mondo | ケ ケーサツ！？ / な なんだそりゃ！ / そんなもん まだアリかよ？
+   EN: P-POLICE!? Wh-what the hell!? That kinda thing still exists?
+>> 02.11 | Ryoma | 冗談やめようよ / 関東は無法地帯じゃなかったの？
+   EN: Quit joking. Wasn't Kanto supposed to be lawless?
+>> 02.12 | Honey Kisaragi | あの～ ちょっとすみません / 警察署が あるんですか？
+   EN: Um, excuse me. There's a police station here?
+>> 02.13 | Shopkeeper | あんたらも 見かけない顔だね？
+   EN: Don't recognize your faces either, do I?
+>> 02.14 | Honey Kisaragi | えへ… / あたし 如月ハニーって言います
+   EN: Tee-hee... I'm Honey Kisaragi.
+>> 02.15 | {p} | 僕は {p}
+   EN: I'm {p}.
+>> 02.16 | Seiji Hayami | 俺は 早見青児 / 新聞記者です
+   EN: And I'm Seiji Hayami, newspaper reporter.
+>> 02.17 | Mondo | 新聞記者？
+   EN: A newspaper reporter?
+>> 02.18 | Ryoma | あ こっちもステキ！
+   EN: Ooh, this one's dreamy too!
+>> 02.19 | Seiji Hayami | どきっ！
+   EN: *Ba-dump!*
+>> 02.20 | Mondo | 騙されるなよ 記者さんよ / こいつは男だぜ
+   EN: Don't get fooled, Mr. Reporter. That one's a guy.
+>> 02.21 | Seiji Hayami | え～！？
+   EN: Whaaat!?
+>> 02.22 | Ryoma | ……
+   EN: ......
+>> 02.23 | Mondo | 新聞記者のくせに 俺達のこと / 知らないのか？ / 過激派「神の牙」の / 早乙女門土と…
+   EN: A newspaper reporter, and you don't know who we are? Mondo Saotome of the radicals, the "Fangs of God"...
+>> 02.24 | Ryoma | 身堂竜馬さ…
+   EN: ...and Ryoma Shindo.
+>> 02.25 | Seiji Hayami | い～え 知りません
+   EN: Nope. Never heard of you.
+>> 02.26 | Resident | 大変だ！ / ドラゴンが来たぞ！
+   EN: We're in trouble! The Dragons are coming!
+>> 02.27 | Shopkeeper | なんだって！
+   EN: What!?
+>> 02.28 | Shopkeeper | 死にたくなかったら / あんたらも 早く逃げろ！
+   EN: If you don't wanna die, you'd better run too!
+>> 02.29 | Resident | 終わりだ！ ドラゴンは アイツを / 追ってきたんだ！ / アイツが この町も滅ぼしちまう！
+   EN: It's over! The Dragons chased HIM here! He's gonna bring ruin to this town too!
+>> 02.30 | Mondo | ああ 行くぜ！
+   EN: Yeah, let's go!
+>> 02.31 | {p} | アイツって / いったい 誰のことだろう？
+   EN: "Him"? Who could they mean?
+>> 02.32 | Honey Kisaragi | あたし達も 行ってみましょう！
+   EN: Let's go have a look too!
+>> 02.33 | Ryoma | あ 可愛い！
+   EN: Ooh, she's cute!
+>> 02.34 | Ryoma | 門土？
+   EN: Mondo?
+>> 02.35 | Resident | ひぇぇぇぇ～！
+   EN: Eeeeek!
+>> 02.36 | Resident | ドラゴンだ！ / ドラゴンが来る～！
+   EN: It's the Dragons! The Dragons are coming!
+>> 02.37 | Resident | た た た たすけてくれ～！
+   EN: H-h-h-help meee!
+>> 02.38 | {p} | な なに！？ / あの でっかい人！
+   EN: Wh-what!? That huge guy!
+>> 02.39 | Mondo | アイツが 関東の怪物と呼ばれる / 大巨人さ
+   EN: That's the giant they call the Monster of Kanto.
+>> 02.40 | Ryoma | 筋肉はゴリラ！ 牙は狼！ / 燃える瞳は 原始の炎！
+   EN: Muscles of a gorilla! Fangs of a wolf! Burning eyes, the fire of the primeval!
+>> 02.41 | Mondo | ２メートル２０センチの全身には / 闘争エネルギーが満たされている / その名はジャック！
+   EN: Seven foot two, every inch of him packed with fighting energy. His name is Jack!
+>> 02.42 | Ryoma | バイオレンスジャック！
+   EN: Violence Jack!
+>> 02.43 | {p} | バイオレンスジャック…
+   EN: Violence Jack...
+>> 02.44 | Seiji Hayami | こっちに迫ってくるのは？
+   EN: And what's that bearing down on us?
+>> 02.45 | Honey Kisaragi | まるで / 戦国時代の 騎馬武者軍団だわ！
+   EN: It's like a band of mounted warriors from the Warring States era!
+>> 02.46 | Ryoma | 無法化した関東に / 覇を唱える スラムキング / そのスラムキングが組織した軍団 / ドラゴンさ
+   EN: The Slum King rules lawless Kanto, and that's the army he put together: the Dragons.
+>> 02.47 | Jack | グオオオオオオ！！
+   EN: GRAAAAAAH!!
+>> 02.48 | Honey Kisaragi | あの人 ひとりで戦うつもりよ！
+   EN: He's going to fight them all by himself!
+>> 02.49 | Seiji Hayami | ハニー！ まさか 加勢する気か！？ / 相手は 騎馬軍団だぜ！
+   EN: Honey! Don't tell me you're gonna help him!? They're a whole cavalry!
+>> 02.50 | {p} | だからといって あの巨人を / 見殺しには 出来ない！
+   EN: Even so, we can't just let that giant die!
+>> 02.51 | Ryoma | どうする 門土？
+   EN: What do we do, Mondo?
+>> 02.52 | Mondo | この関東を牛耳って / 帝王に なるためには / キングとジャック / 二人を倒さなきゃなんねぇ / やつらの力を見ておく / いいチャンスさ
+   EN: If I'm gonna run Kanto and be its emperor, I gotta take down both the King and Jack. This is a good chance to size 'em up.
+>> 02.53 | Ryoma | じゃあ…
+   EN: So then...
+>> 02.54 | Mondo | ああ 高みの見物としゃれこもうぜ /  / こんな おもしれぇ 見物 / 滅多にねえ！
+   EN: Yeah, let's kick back and enjoy the show.  A show this good don't come around often!
+>> 02.55 | Jack | なぜ 俺を助けた？
+   EN: Why did you help me?
+>> 02.56 | {p} | なぜ…って たったひとりじゃ / 殺されちゃうと思って…
+   EN: Why...? Well, I figured you'd get killed all on your own...
+>> 02.57 | Jack | …………
+   EN: ..........
+>> 02.58 | {p} | な なに？
+   EN: Wh-what?
+>> 02.59 | Jack | 名は… / 名は なんという…？
+   EN: Your name... What is your name...?
+>> 02.60 | {p} | …{p}
+   EN: ...{p}.
+>> 02.61 | Jack | 俺と関ったら ただでは済まんぞ /  / それでもいいのか！？ / {p}！！
+   EN: Get mixed up with me and you won't walk away clean.  Are you fine with that!? {p}!!
+>> 02.62 | {p} | ど どういう意味？
+   EN: Wh-what do you mean?
+>> 02.63 | Mondo | 噂で聞いたぜ そいつの目を見ると / 誰もが おかしくなっちまう / ジャックナイフの光が / 人間の原始を 呼び覚ますのさ
+   EN: Heard the rumors. Look that guy in the eye and anybody goes nuts. The gleam of his jackknife wakes up the primeval in people.
+>> 02.64 | Ryoma | そう ひっそりと暮らしていた / 人間までもが / 戦わずには いられなくなる /  / 関わり合った人間は / 必ず戦いに巻き込まれていく / それが / バイオレンスジャックさ…！
+   EN: That's right. Even folks living quiet little lives can't help but fight.  Anyone who gets involved with him gets dragged into battle, every time. That's Violence Jack...!
+>> 02.65 | Honey Kisaragi | そ そんな…
+   EN: B-but that's...
+>> 02.66 | Seiji Hayami | 確かに 戦いに / 巻き込まれちゃったもんなぁ…
+   EN: Well, we sure got dragged into a fight...
+>> 02.67 | {p} | …ほっとけなかったんだ
+   EN: ...I just couldn't leave him.
+>> 02.68 | Jack | ………… /  / おまえには俺が接したことのない / エネルギーを感じる / しばらく おまえと共にいよう
+   EN: ..........  I sense an energy in you unlike any I've ever met. I'll stay with you for a while.
+>> 02.69 | Mondo | そ～ゆ～ことなら / 俺も仲間に 加えてもらうぜ
+   EN: Well, if that's how it is, count me in too.
+>> 02.70 | Ryoma | ちょ ちょっと…！
+   EN: H-hey, wait...!
+>> 02.71 | Ryoma | 門土 いったいどういうつもり？
+   EN: Mondo, what are you thinking?
+>> 02.72 | Mondo | ここは ジャックに / 恩を売っておくのさ / いくら俺でも バケモノ二人を / 相手にするのは きつすぎる / 言うだろ？ / 敵の敵は 味方ってさ
+   EN: We get Jack owing us one. Even I can't take on two monsters at once, that's too much. You know what they say: the enemy of my enemy is my friend.
+>> 02.73 | Ryoma | まあね…
+   EN: I guess...
+>> 02.74 | {p} | 何を こそこそ…？
+   EN: What are you two whispering about...?
+>> 02.75 | Honey Kisaragi | あなた達…？
+   EN: You two...?
+>> 02.76 | Seiji Hayami | 何か 企んでないか？
+   EN: You aren't plotting something, are you?
+>> 02.77 | Ryoma | まっさかぁ～ / 考えすぎだよ ねえ？
+   EN: No way! You're overthinking it, right?
+>> 02.78 | Mondo | そうとも！ まともな世界じゃ / 生きられねぇ俺達にとって / この関東は 希望の地！ /  / ここには 俺達が求めていた / 自由がある！ / おまえ達の戦いぶりを見て / 血が騒いだだけさ！
+   EN: Damn right! For guys like us who can't live in a normal world, Kanto's the promised land!  It's got the freedom we've been looking for! Watching you fight just got my blood pumping, that's all!
+>> 02.79 | Jack | ふっふっふ… / 果たしてそうかな？ / ここは地獄だぞ？ / はっはっはっはっは…！！
+   EN: Heh heh heh... Is that so? This place is Hell, you know. Hahahahaha...!!
+>> 02.80 | {p} | 地獄…
+   EN: Hell...
+>> 02.81 | Slum King | ドラゴンが / バイオレンスジャックに敗れた？
+   EN: The Dragons were beaten by Violence Jack?
+>> 02.82 | Dragon | も 申し訳ありません！！ /  / 後一歩というところまで / 追い詰めたのですが / 見慣れぬ輩が 邪魔をしまして…
+   EN: F-forgive us!!  We had him cornered, one step from the kill, but some strangers got in our way...
+>> 02.83 | Slum King | 見慣れぬ輩…？
+   EN: Strangers...?
+>> 02.84 | Dragon | それがどうも… / こ 子供だったようで…
+   EN: Well, sire... It seems... th-they were children...
+>> 02.85 | Slum King | ドラゴンが / 子供にやられたと申すのか！？
+   EN: You mean to tell me the Dragons were beaten by children!?
+>> 02.86 | Dragon | も 申し訳ありません！！
+   EN: F-forgive us!!
+>> 02.87 | Slum King | 言い訳は聞かぬ！
+   EN: I'll hear no excuses!
+>> 02.88 | Slum King | どうした クィーン / 顔色が すぐれぬぞ？
+   EN: What is it, Queen? You look pale.
+>> 02.89 | Slum Queen | …昨夜 夢を見ました /  / 黒い月と共に 現れた者達が / 世界を滅ぼす夢です / その者達は 少年少女でした /  / 先程の報告と 夢との奇妙な符合が / 気になります…
+   EN: ...Last night I had a dream.  A dream that those who appeared with the black moon would destroy the world. They were a boy and a girl.  The strange match between that dream and the report just now troubles me...
+>> 02.90 | Slum King | 案ずるな クィーン！ /  / 俺が 自ら ドラゴンを率い / バイオレンスジャックを倒す！
+   EN: Fear not, Queen!  I shall lead the Dragons myself and crush Violence Jack!
+>> 02.91 | Dragon | はは～っ！
+   EN: Yes, sire!
+>> 02.92 | Shopkeeper | あんたら よくドラゴンと戦って / 無事だったねぇ… / でも あのでっかい人 本物の / バイオレンスジャックなのかい？
+   EN: You fought the Dragons and lived, huh... But that big guy, is he the real Violence Jack?
+>> 02.93 | Shopkeeper | ほら バイオレンスジャックが / 現れた町は 必ず滅びるって…
+   EN: You know, they say any town Violence Jack shows up in is doomed...
+>> 02.94 | Mondo | 関東のあちこちで 言われてるな
+   EN: They say that all over Kanto.
+>> 02.95 | Shopkeeper | あゆ子ちゃん 見つかったのか？
+   EN: Did you find Ayuko-chan?
+>> 02.96 | Ayuko's Father | 見つかりはしないが / 居場所は解った… / 死神警察署に / 連行されたらしい…
+   EN: I haven't found her, but I know where she is... It seems she was taken to the Reaper Police HQ...
+>> 02.97 | Shopkeeper | な なんだって！？
+   EN: Wh-what!?
+>> 02.98 | {p} | 警察なら むしろ安心なんじゃ？
+   EN: Isn't the police a good thing, though?
+>> 02.99 | Shopkeeper | あんたらは 何も知らんから / そんなことがいえるんだ
+   EN: You only say that because you don't know anything.
+   ctx 03.00 | Mondo | そりゃそうか / 無法地帯の関東の警察が / ただの警察のわけが ないよな
+   ctx EN: Figures. Cops in lawless Kanto ain't gonna be just ordinary cops.
+   ctx 03.01 | Ayuko's Father | ヤツらは 自分の好きなように / 警察権力を 行使してやがる / 法を守るふりをして / この町を 牛耳ってやがるんだ！
+   ctx EN: Those bastards wield police power however they please! They pretend to uphold the law while they run this town!

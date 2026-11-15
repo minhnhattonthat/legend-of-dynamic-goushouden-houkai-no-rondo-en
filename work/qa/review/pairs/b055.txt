@@ -1,0 +1,132 @@
+   ctx 52.98 | Resident | 犬を飼うことにしたんだ /  / まずは犬小屋作りから / 始めるとするかな
+   ctx EN: I've decided to get a dog.  Guess I'll start by building a doghouse.
+   ctx 52.99 | Resident | 犬を飼うつもりで / 犬小屋まで作ったんだけどね… / やっぱり / 猫を飼うことにしたんだ！
+   ctx EN: I built a doghouse and everything, planning to get a dog... But I decided to get a cat after all!
+>> 53.00 | Resident | 犬を飼うつもりで / 犬小屋まで作ったんだけどね… / やっぱり / 猫を飼うことにしたんだ！ / …けど やっぱり犬も捨て難いよね / う～ん どうしよう？
+   EN: I built a doghouse and everything, planning to get a dog... But I decided to get a cat after all! ...Still, a dog's hard to give up too. Hmm, what should I do?
+>> 53.01 | Receptionist | ただ今 満室でございまして / お泊りにはなれません
+   EN: I'm terribly sorry, but we're fully booked at the moment. We can't offer you a room.
+>> 53.02 | Receptionist | 流竜馬さま ですか？ / ……はて？ / お泊りのお客さまに流竜馬さまの / お名前は見当たりませんが？
+   EN: Ryoma Nagare-sama, you say? ...Hmm? I don't see the name Ryoma Nagare-sama among our guests.
+>> 53.03 | Receptionist | 非常時につき当ホテルは / オーナーである瓜生様のご命令で / 皆様をはじめ指定された方々に / 無料でご利用頂いております
+   EN: Due to the emergency, by order of our owner, Uryu-sama, this hotel is free of charge for you and the other designated guests.
+>> 53.04 | Guest | このホテルのオーナーは / 青年実業家らしいよ / 科学都市にも出資していると / 研究者が話していたな
+   EN: The owner of this hotel is supposedly a young entrepreneur. A researcher said he invests in Science City too.
+>> 53.05 | Guest | 顔じゅう包帯だらけの / 客と３階ですれ違ったよ / あんなにケガしてるなら / 入院すればいいのに
+   EN: I passed a guest with bandages all over his face on the third floor. If he's that badly hurt, he should be in the hospital.
+>> 53.06 | Guest | ホテルのＴＶチャンネルは / ニュース番組ばかりだなぁ / 君らの顔を見てたら　なぜか急に / 懐かしのアニメを見たくなったよ
+   EN: The hotel TV channels are nothing but news programs. Looking at your faces, for some reason I suddenly feel like watching some old-time anime.
+>> 53.07 | Guest | 左端の部屋は従業員以外 / 立ち入り禁止みたいですね / 地下水を制御する機械があると / ホテルの人から聞きましたよ
+   EN: The room at the far left seems to be staff only. Someone from the hotel told me there's a machine in there that controls the groundwater.
+>> 53.08 | Guest | 街中のマンホールから / いきなり男の子が出てきたの / 下水道で遊んでいたのかしら？
+   EN: A boy suddenly popped out of a manhole in the middle of town. Was he playing in the sewers?
+>> 53.09 | Guest | いつの間にか科学都市の東に / 妙なヘイがあるんだ / 表札のない門が東西南北にあるから / 誰かの家みたいだけど / あんな所に / 誰が住んでいるんだろう？
+   EN: At some point a strange wall appeared east of Science City. There are gates with no nameplates to the north, south, east and west, so it looks like someone's house, but who could live in a place like that?
+>> 53.10 | Guest | 科学都市の東にある大きな霊園の / 不思議な噂話を知ってる？ / 管理人の姿も見えないのに / いつも清潔に掃除されてるの
+   EN: Have you heard the strange rumor about the big cemetery east of Science City? There's never a caretaker in sight, but it's always swept spotless.
+>> 53.11 | Guest | 廊下にある銅像は / どっかで見たことあるんだよね / 世界各地にあるお地蔵さんも / 誰かに似てるような…
+   EN: I feel like I've seen the bronze statue in the hallway somewhere before. And the Jizo statues all over the world look kind of like someone too...
+>> 53.12 | Researcher | 科学都市に派遣されて / 単身赴任のホテル暮らしだよ / 反重力の推進装置を研究中だが / 兵器に悪用されないか心配だね
+   EN: I got sent to Science City, so I'm living in a hotel away from my family. I'm researching anti-gravity propulsion, but I worry it'll be misused for weapons.
+>> 53.13 | Guest | 外見も設備も立派なホテルだけど / 屋上の掃除がなってないね / さっき行ってみたら / 所々に雑草が生えてたよ
+   EN: It's a fine hotel inside and out, but the roof cleaning is shoddy. I went up there a while ago and there were weeds growing here and there.
+>> 53.14 | Guest | このフロアは変な臭いがするし / おかしな足跡もついている / 誰か大型のペットでも連れて / 泊まってるんじゃないかな
+   EN: This floor smells funny, and there are odd footprints too. I bet someone's staying here with some kind of big pet.
+>> 53.15 | Guest | 科学都市に出資しているという / 瓜生コンツェルンの名は初耳だな / 家早と果扨の二大財閥以外にも / すごい金持ちがいたのか
+   EN: First I've heard of this Uryu Conglomerate that invests in Science City. Besides the two great Iyahaya and Hatesate conglomerates, there was another big-money family?
+>> 53.16 | Researcher | 精神破壊銃という武器が / 実用化されたそうだ / 研究者が極悪人ハンターだとかで / 兵器開発も許可されたらしい
+   EN: They say a weapon called the Mind Destroyer Gun has been put into use. The researcher is supposedly a villain hunter, so weapons development was permitted.
+>> 53.17 | 警備員 | 光子力研究所には / 国の援助金も出ています / ロボット開発には莫大な資金が / 必要なんだそうです
+   EN: The Photon Power Lab receives government funding too. They say developing robots takes an enormous amount of money.
+>> 53.18 | Researcher | 指令室は右　地下格納庫は左の / エレベータが直通ですよ
+   EN: The elevator on the right goes straight to the command room, and the one on the left to the underground hangar.
+>> 53.19 | Researcher | 必要な備品があれば / 遠慮なく持って行くといいよ / 弓教授から許可が出てますから
+   EN: If there's any equipment you need, feel free to take it. Professor Yumi has given permission.
+>> 53.20 | Researcher | アフロダイＡのボディは合金Ｚ / マジンガーＺは超合金Ｚだ / ボスボロットは……クズ鉄かな？ / おっと ボスに失礼だな
+   EN: Aphrodite A's body is Alloy Z, and Mazinger Z's is Super Alloy Z. Boss Borot's is... scrap iron? Whoops, that's rude to Boss.
+>> 53.21 | Researcher | 機械獣はバードス島の遺跡に / 数千年も眠っていたという / 古代ミケーネに兜十蔵博士のような / 天才科学者がいたのだろうか？
+   EN: They say the Mechanical Beasts slept in the ruins on Bardos Island for thousands of years. Was there a genius scientist like Dr. Juzo Kabuto in ancient Mykene?
+>> 53.22 | Assistant | 研究所は小さな町に匹敵するほど / 膨大な電力を消費するんだ / 光子力エネルギーで発電してるから / まず電力不足にはならないがね
+   EN: The lab uses as much power as a small town. But since we generate it with photon power energy, we're never short.
+>> 53.23 | Professor | この格納庫の上は汚水処理プールで / 偽装しているんだよ / え？ みんな知っているって？ / うーむ… なぜだろう？
+   EN: The top of this hangar is disguised as a sewage treatment pool. What? Everyone knows? Hmmm... Why is that?
+>> 53.24 | Researcher | 地下にはゲットマシンの格納庫と / 機関室しかありませんよ / 医務室は壁沿いを北に行った部屋 / 研究所出口は ずっと西です
+   EN: There's nothing underground but the hangar for the Getter Machines and the engine room. The infirmary is the room north along the wall. The lab exit is far to the west.
+>> 53.25 | Researcher | ゲッターロボのパイロットを / 探すのに苦労しました / 強い意志と体力を持つ若者を / ３００人以上は調査しましたよ
+   EN: We had a hard time finding Getter Robo's pilots. We screened over 300 young people with strong wills and stamina.
+>> 53.26 | Researcher | パイロットテストの結果を見ると / 巴武蔵くんの適性は低いのだが / 彼の体は他の２人より はるかに / ドンカン…じゃなくて頑丈なんだ
+   EN: Looking at the pilot test results, Musashi Tomoe-kun's aptitude is low, but he's far more thickheaded... I mean, sturdier than the other two.
+>> 53.27 | Researcher | ゲッター光線が研究所の防御に / 使えないか考案中なんだ / ハチュウ人類はゲッター光線を / 苦手としているからね
+   EN: I'm working on a way to use the Getter Beam to defend the lab. The Reptilians can't stand Getter Beams, you see.
+>> 53.28 | Researcher | 徹夜作業が続いたから / 頭痛がひどいな… / 医務室は１階北東の角部屋だが / そこまで行くのは つらいなぁ
+   EN: All these all-nighters have given me an awful headache... The infirmary is the corner room in the northeast of the first floor, but getting there is a pain...
+>> 53.29 | Researcher | 科学者の中にはゲッター線を / 危険視する声もある / 原子力も放射能汚染があるように / 多少のリスクは覚悟しないとな
+   EN: Some scientists consider Getter Rays dangerous. Just as nuclear power comes with radioactive contamination, we have to accept a little risk.
+>> 53.30 | Resident | 間身井薬局を東にいったところに / 科学都市の廃材置き場があるの / 廃材とはいっても / 科学都市の廃材でしょ？ / 中には 危ない物も / 捨ててあるんじゃないかしら / ちゃんと処分してほしいわよね
+   EN: East of Mamii Pharmacy there's a Science City scrapyard. It may be scrap, but it's Science City scrap, right? Some dangerous things must be dumped in there too. I wish they'd dispose of it properly.
+>> 53.31 | Resident | 家の外にバリケードがあるのを / 見ただろ？ / あの先は 一般人は立ち入り禁止に / なってるエリアなんだよ / そこにマンションがあるらしいけど / 詳しくは知らないんだ
+   EN: You saw the barricade outside the house, right? Beyond it is an area off-limits to the general public. There's supposedly a condo in there, but I don't know the details.
+>> 53.33 | Scientist | 隣で手術をやってるらしいが… / 普通 病院でやるもんだよな？
+   EN: I hear there's an operation going on next door... Normally you'd do that in a hospital, right?
+>> 53.34 | Scientist | 最近 世間は 暴徒だ魔王だと / 騒がしくて しょうがない / …研究を続けてる場合じゃ / ないのかな？
+   EN: Lately the world's in an uproar over rioters and the Demon King. ...Maybe this is no time to keep doing research?
+>> 53.35 | Resident | ペットを飼おうと思ってるんだ / 王道は やっぱり犬か猫だよね / どっちにしようかなぁ… / よく考えて決めないとね
+   EN: I'm thinking of getting a pet. The classic choice is a dog or a cat, right? Which should I pick... I've got to think it over carefully.
+>> 53.36 | Resident | この町の学校は 生徒も先生も / 騒がしいったら ありゃしない！ / とても まともに授業やってるとは / 思えないのよね
+   EN: The students and teachers at this town's school are so noisy, I can't stand it! I can't believe they're having proper lessons.
+>> 53.37 | Resident | 最近 学校が静かだと思ったら / 生徒が来なくなったらしいのよ / 世の中 物騒だから / そのせいかしらね / でも 授業をやってるような声も / 聞いたことあるのよ… / 気のせいだったのかしら？
+   EN: I thought the school had been quiet lately, and it turns out the students stopped coming. The world's so dangerous these days, maybe that's why. But I've heard voices like someone giving a lesson... Was I imagining it?
+>> 53.38 | Receptionist | {s}様に面会ですか？ / １階右の部屋におられます
+   EN: Here to visit {s}-sama? She's in the room on the right of the first floor.
+>> 53.39 | Receptionist | 診察でしたら / １階左の部屋へどうぞ
+   EN: For an examination, please go to the room on the left of the first floor.
+>> 53.40 | Doctor | この娘の面会に来たのかい？ / 大丈夫 安心したまえ / 時間は かかるかもしれんが / 病気は絶対に治るよ
+   EN: Here to visit this girl? Don't worry, rest assured. It may take time, but her illness will be cured for sure.
+>> 53.41 | Doctor | また君たちか どうしたんだ？ / 今度は誰が入院するんだ？
+   EN: You lot again? What's the matter? Who's getting admitted this time?
+>> 53.42 | Doctor | 研究に熱心になるのもいいけど / 体調を崩さないようにしないとね / 治療も大切だけど 予防も大切だよ /  / ここの人達って そういうことを / 気にしない人が多いからさ…
+   EN: It's fine to be dedicated to research, but you have to keep from getting run down. Treatment matters, but so does prevention.  So many people here never think about that...
+>> 53.43 | Doctor | 
+   EN: ... 
+>> 53.44 | Doctor | 先日 突然 たくさんの怪我人が / 運ばれてきて ビックリしたよ / その後に テレビで暴徒のことを / 知って さらにビックリしたよ
+   EN: The other day a whole crowd of wounded people was suddenly brought in, and I was shocked. Then I learned about the rioters on TV and was even more shocked.
+>> 53.45 | Honey Kisaragi | 妖怪退治？ / 面白そうね！
+   EN: Hunting yokai? Sounds like fun!
+>> 53.46 | Honey Kisaragi | えん魔くんは / 近くの町に向かったわ / 学校があったところよね？ / 私達も急ぎましょう！
+   EN: Enma-kun headed to the nearby town. Where the school was, right? Let's hurry too!
+>> 53.47 | Seiji Hayami | 不思議な建物だなぁ /  / 外から見るより / 中は はるかに広いぜ
+   EN: What a strange building...  It's way bigger inside than it looks from outside.
+>> 53.48 | {s} | 閻魔大王に 逢うためだもん / 恐いけど がんばろう！
+   EN: It's to meet Great King Enma. It's scary, but let's do our best!
+>> 53.49 | Akira Fudo | 暗黒寺は ここから西の山奥に / あるらしい / …そこで 何か 手がかりが / つかめるといいがな
+   EN: The Dark Temple is supposed to be deep in the mountains west of here. ...I hope we can find some kind of clue there.
+>> 53.50 | Princess Yukiko | 暗黒寺って / 無気味な名前のお寺ね… / それに… 妙な冷気を感じるけど / なにかしら？
+   EN: The Dark Temple... What a creepy name for a temple... And I feel a strange chill. What could it be?
+>> 53.51 | Ryo Asuka | 鬼とは もともと鬼なのか？ / それとも 人間が変身した姿か？
+   EN: Are oni oni from the start? Or are they humans who've transformed?
+>> 53.52 | Enma-kun | 預言者に未来を予知してもらうのか / なんだか面白そうだな！ / 戸来村の場所は…確か 科学都市の / 北にあるって言ってたよな
+   EN: Getting a prophet to tell the future, huh? Sounds kinda fun! Herai Village is... north of Science City, I think they said.
+>> 53.53 | Jack | 未来は 切り拓こうとする者だけに / 見えるものだ
+   EN: The future is visible only to those who try to carve it out.
+>> 53.54 | Kapaeru | 最近 出逢いがないんだガナ / 予知してもらいたいんや…
+   EN: I ain't met anybody special lately, I do declare. I want my fortune told...
+>> 53.55 | Jiro | ハニー達は もう出発したよ / 俺達も 科学都市へ急ごう！
+   EN: Honey and the others have already left. Let's hurry to Science City too!
+>> 53.56 | Jiro | 明達は もう出発したよ / 俺達も 科学都市へ急ごう！
+   EN: Akira and the others have already left. Let's hurry to Science City too!
+>> 53.57 | Miyuki Shiratori | あたし 恐いわ… / でも がんばらなきゃね！
+   EN: I'm scared... But I have to do my best!
+>> 53.58 | Jack | 世界が崩れ始めている… / そんな気がする…！
+   EN: The world is starting to crumble... That's how it feels...!
+>> 53.59 | Jubei | みんな １階の和室にいるわよ / {p}を待ってるの / 早く 行ってあげてね / きっと いいことがあるから！
+   EN: Everyone's in the Japanese-style room on the first floor. They're waiting for you, {p}. Hurry and go see them. Something good's sure to happen!
+>> 53.60 | Kikunosuke | みんなが １階の和室で / {p}を待ってるよ / ほら 急ぎなよ！ / きっと いいことあるからさ！
+   EN: Everyone's waiting for you in the Japanese-style room on the first floor, {p}. C'mon, hurry! Something good's gonna happen for sure!
+>> 53.61 | Princess Yukiko | みんな １階の和室にいるわよ / {p}を待ってるの / 早く 行ってあげてね / きっと いいことがあるわよ！
+   EN: Everyone's in the Japanese-style room on the first floor. They're waiting for you, {p}. Hurry and go see them. Something good's sure to happen!
+>> 53.62 | Professor Yumi | 世界の命運は / きみたちにかかっている / 頼んだぞ みんな！
+   EN: The fate of the world rests on you. I'm counting on you, everyone!
+   ctx B00.00 |  | 豪翔伝 /  /  / この物語の主人公 / 不可解なメールを / 受け取った事により / 物語が始まる
+   ctx EN: Goushouden   Our hero. It all starts when he gets a baffling e-mail.
+   ctx B00.01 |  | 豪翔伝 /  /  / 明るく元気な女の子 / 夜の公園で /  / 事件に巻き込まれる
+   ctx EN: Goushouden   A bubbly girl. A park at night...  Trouble strikes!

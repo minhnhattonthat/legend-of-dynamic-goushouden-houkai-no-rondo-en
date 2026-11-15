@@ -1,0 +1,208 @@
+   ctx 40.98 | Spectator | 親として 子供のケンカを / 見届けるのは 当然の務め！
+   ctx EN: As a parent, it's only right to see my child's fights through!
+   ctx 40.99 | Spectator | 極悪非道の あばしり一家！ /  / 血桜組には その次男と長女が / いるらしいぜ！
+   ctx EN: The villainous, ruthless Abashiri Family!  They say the Chizakura Gang's got their second son and eldest daughter!
+>> 41.00 | Grunt | 血が騒ぐぜ！
+   EN: My blood's pumpin'!
+>> 41.01 | Grunt | 場外乱闘開だぁ～！
+   EN: Brawl in the stands, let's goooo!
+>> 41.02 | Grunt | ジロジロ見るんじゃねぇよ！
+   EN: Quit starin' at me!
+>> 41.03 | Grunt | やっちまえ ぶったおせ！
+   EN: Get 'em! Knock 'em flat!
+>> 41.04 | Grunt | 三度の飯よりケンカ大好き！
+   EN: I love fightin' more than three square meals!
+>> 41.05 | Grunt | 俺を甘く見るなよ！
+   EN: Don't you underestimate me!
+>> 41.06 | Grunt | なめとんのか この野郎！
+   EN: You mockin' me, you punk!?
+>> 41.07 | Grunt | ちょっと 足 踏まないでよ！
+   EN: Hey, quit stepping on my foot!
+>> 41.08 | Grunt | いやらしい目で見ないで！
+   EN: Don't look at me with those pervy eyes!
+>> 41.09 | Grunt | しんぼうたまらん！
+   EN: I can't hold back no more!
+>> 41.10 | Grunt | メラメラと燃える闘争心！
+   EN: My fighting spirit's burning bright!
+>> 41.11 | Grunt | オトコ～ オトコ～！
+   EN: MAN! MAN!
+>> 41.12 | Kikunosuke | あ パパ！
+   EN: Oh, Papa!
+>> 41.13 | {p} | お父さん？
+   EN: Your father?
+>> 41.14 | Kikunosuke | あばしり一家頭領・悪馬尻駄ヱ門！ / 俺のパパさ！
+   EN: Daemon Abashiri, head of the Abashiri Family! My papa!
+>> 41.15 | {p} | あばしり一家！？
+   EN: The Abashiri Family!?
+>> 41.16 | Daemon | 旦那 血桜組はどうですかねぇ？
+   EN: Mister, how d'ya like the Chizakura Gang's chances?
+>> 41.17 | Parent | へん！ たちまち くたばっちまう / だろうよ！
+   EN: Heh! They'll croak in no time!
+>> 41.18 | Daemon | なに！
+   EN: What!
+>> 41.19 | Daemon | 血桜組にゃ 可愛い息子達が / いるんだ！ / 気をつけて ものをいいやがれ！
+   EN: My precious kids are in the Chizakura Gang! Watch your mouth!
+>> 41.20 | Kikunosuke | どお 驚いた？ / パパ 超能力が使えるんだぜ！
+   EN: Well, surprised? Papa can use psychic powers!
+>> 41.21 | Daemon | 菊の助！ / パパは おまえを応援してるよ～！ / おや / あんたが血桜組の助っ人かい？ / 直と菊を よろしく頼むぜ！
+   EN: Kikunosuke! Papa's cheering for you! Oh? You the Chizakura Gang's ringer? Look after Nao and Kiku for me!
+>> 41.22 | {p} | は はい 僕 {p}です / がんばります…
+   EN: Y-yes, sir. I'm {p}. I'll do my best...
+>> 41.23 | Kikunosuke | こっちは / 兄貴の五ヱ門と弟の吉三！
+   EN: And this is my big brother Goemon and my little brother Kichiza!
+>> 41.24 | Goemon | 菊ちゃん 僕も応援してるわ！
+   EN: Kiku-chan, I'm cheering for you too, sweetie!
+>> 41.25 | Kichiza | 負けたら承知しねぇぜ！
+   EN: Lose and you'll be sorry!
+>> 41.26 | Daemon | 菊の助！ / パパは おまえを応援してるよ～！
+   EN: Kikunosuke! Papa's cheering for you!
+>> 41.27 | Parent | …なんだ！ / うわあああぁぁ！！
+   EN: ...What the! Whoaaaaaa!!
+>> 41.28 | Host | 準備は いいか？
+   EN: Ready?
+>> 41.29 | Host | Ｂブロック 決勝トーナメント / 第１回戦！ 出場者 入場！ / ルール無用の１本勝負！ /  / 生きて帰れるなんて / 思うんじゃねー！ / ケンカ始めっ！！
+   EN: Block B finals tournament, round one! Fighters, enter the ring! A one-fall match, no rules!  Don't think you're gettin' out alive! Let the brawl begin!!
+>> 41.30 | Host | Ｂブロック 決勝トーナメント / 第２回戦！ 出場者 入場！ / ルール無用の１本勝負！ /  / どっちのチームも 死ぬまで戦え！ /  / ケンカスタートっ！！
+   EN: Block B finals tournament, round two! Fighters, enter the ring! A one-fall match, no rules!  Both teams, fight to the death!  Brawl, START!!
+>> 41.31 | Host | Ｂブロック 決勝戦！ / 出場者 入場！ / ルール無用の１本勝負！ /  / 運よく 生きてりゃ / 次が 本当の最終決戦！ / 前祝いの血祭りケンカだ / とっとと 始めっ！！
+   EN: Block B final! Fighters, enter the ring! A one-fall match, no rules!  If you're lucky enough to live, next up is the real final showdown! This is a bloodbath to celebrate in advance, so get it started!!
+>> 41.32 | Host | ケンカ祭り 決勝戦！ / 出場者 入場！ / ルール無用の１本勝負！ / 優勝を決める恐怖デスマッチ！ / 地獄へ落とせ / ケンカ開始！！
+   EN: Brawl Festival final! Fighters, enter the ring! A one-fall match, no rules! A deathmatch of terror to decide the champion! Send 'em to Hell! Brawl, BEGIN!!
+>> 41.33 | Host | トーナメント決勝戦の準備には / もう少し 時間が かかる / 後で また来てくれ
+   EN: The tournament final needs a bit more time to set up. Come back later.
+>> 41.34 | Host | Ｂブロックの競技は / まだ 始らないぞ / 後で また来てくれ
+   EN: Block B's matches haven't started yet. Come back later.
+>> 41.35 | Schoolgirl | 権金学園からのゲストチーム / 強いわね！ / 特に あの小さな男の子！
+   EN: The guest team from Gongane Academy is so strong! Especially that little boy!
+>> 41.36 | Schoolgirl | 汚い格好してるけど / 強いわよねぇ～！ / Ａブロックの決勝は / きっと あの子ね！
+   EN: He's dressed all grubby, but he's sooo strong! I bet he wins the Block A final!
+>> 41.37 | General Hisan | 俺は 悲惨将軍！ / 戦争という争いの中で俺は傷つき / バケモノのような姿になった /  / 復讐だ！ 戦争をおこす人間を / 一人残らず成敗してやる！ / 俺が受けた傷の大きさ！ / 失ったものの大きさ！ / 世界中のヤツらに / 思い知らせてやる！
+   EN: I am General Hisan! War wounded me and left me looking like a monster.  Revenge! I'll punish every last human who starts wars! How deep my wounds are! How much I lost! I'll make the whole world feel it!
+>> 41.38 | Naojiro | 良くやった！ / 次はトーナメント決勝だ！
+   EN: Nice work! Next up is the tournament final!
+>> 41.39 | Kikunosuke | いよいよだぜ！
+   EN: Here we go!
+>> 41.40 | Naojiro | Ａブロックの決勝は / 不戦勝だったそうだ / 出場者が いなくなったらしい
+   EN: They say the Block A final was a forfeit win. Seems the fighters disappeared.
+>> 41.41 | {p} | 逃げたのかな？
+   EN: Did they run away?
+>> 41.42 | Kikunosuke | 対戦相手は ブロック決勝戦を / 戦わなかったわけだろ？ / これは俺達にとって不利だぜ…！
+   EN: So our opponents never fought their block final, right? That puts us at a disadvantage...!
+>> 41.43 | Naojiro | トーナメント決勝戦には / まだ時間がある / 少しでも身体を休めておけ！
+   EN: There's still time before the tournament final. Rest up while you can!
+>> 41.44 | Schoolgirl | ハンチングにコートの権金学園の子 / どうしちゃったの？
+   EN: What happened to that Gongane Academy kid with the hunting cap and coat?
+>> 41.45 | Schoolgirl | ふらふらと どっかに / 行っちゃったらしいわよ
+   EN: They say he wandered off somewhere.
+>> 41.46 | Hatesadoshita | ケンカ祭りの どさくさに紛れて / 家早の者を殺す！ / それが おまえの計画だったな？
+   EN: Kill the Iyahaya brat in the chaos of the Brawl Festival! That was your plan, wasn't it?
+>> 41.47 | Omoto Eisanbo | ははっ！
+   EN: Yes, sir!
+>> 41.48 | Hatesadoshita | なのに！ いなくなったって / どういうこときゃ～！？
+   EN: So what do you mean he's GONE!? Whaaa!?
+>> 41.49 | Omoto Eisanbo | 申し訳ありません！
+   EN: My deepest apologies!
+>> 41.50 | Hatesadoshita | まっちゃくもぉ～！ /  / また お姉ちゃんに / 怒られちゃう～！
+   EN: Jeez Louise!  Big sister's gonna yell at me again!
+>> 41.51 | Spectator | Ａブロック優勝は 極楽組！ /  / 聖パラダイス中学からの / ゲストチームじゃ！
+   EN: The Block A winner is the Gokuraku Gang!  A guest team from St. Paradise Middle School!
+>> 41.52 | Spectator | 極楽組のリーダーは / 聖パラダイス中学の校長らしいぞ
+   EN: They say the Gokuraku Gang's leader is the principal of St. Paradise Middle School.
+>> 41.53 | Daemon | 菊の助 パパの作った / 美味しい お弁当よ～！
+   EN: Kikunosuke, here's a yummy lunch Papa made!
+>> 41.54 | Kikunosuke | 天ぷら美味しそう！ / {p}も食べなよ！
+   EN: The tempura looks so good! Have some too, {p}!
+>> 41.55 | Kichiza | うめぇ うめぇ！
+   EN: Yum, yum!
+>> 41.56 | Goemon | おいち～ おいち～！
+   EN: Nummy, nummy!
+>> 41.57 | Naojiro | オヤジ 聞いたか？ /  / 決勝の相手は / パラ中の校長 生首団十郎だ！
+   EN: Pop, you hear?  Our opponent in the final is Paradise Middle's principal, Danjuro Namakubi!
+>> 41.58 | Daemon | なんじゃと！？ / あやつが！？
+   EN: What!? HIM!?
+>> 41.59 | {p} | 生首団十郎？
+   EN: Danjuro Namakubi?
+>> 41.60 | Kikunosuke | パラ中… / 聖パラダイス中学の校長さ / パラ中は / 殺し屋を育てる学校なんだ
+   EN: Paradise Middle... The principal of St. Paradise Middle School. Paradise Middle is a school that trains assassins.
+>> 41.61 | Daemon | クックックッ… / 生首か 面白い / そう聞いたんじゃ / 黙っちゃいられねぇ / せがれども わしらも飛び入りだ / 菊の助を助けるぞ！
+   EN: Heh heh heh... Namakubi, eh? Interesting. Hearin' that, I can't just sit still. Boys, we're jumpin' in too. We're helpin' Kikunosuke!
+>> 41.62 | Naojiro | おう！
+   EN: You got it!
+>> 41.63 | Kichiza | へっへ… 腕がなるぜ！
+   EN: Heh heh... I'm rarin' to go!
+>> 41.64 | Goemon | まかせてね～！
+   EN: Leave it to us!
+>> 41.65 | Daemon | あばしり一家 / ケンカ祭りに殴り込みだぁ～な！
+   EN: The Abashiri Family is crashin' the Brawl Festival!
+>> 41.66 | Kichiza | ひでぇ！ 校長が出るのは / ルール違反だろう？
+   EN: No fair! Isn't it against the rules for a principal to fight?
+>> 41.67 | Namakubi Danjuro | わしは ８０年の人生を / 殺人に費やしてきた… / わしに狙われて助かった者は / いなかった
+   EN: I have spent 80 years of my life on murder... No one I targeted ever survived.
+>> 41.68 | Kikunosuke | うちのオヤジ以外には…だろ？
+   EN: Except our old man, right?
+>> 41.69 | Namakubi Danjuro | だが今のわしは / 以前のわしではない！ / それを試すため / このケンカ祭りに出場したのだ！
+   EN: But I am not the man I was! I entered this Brawl Festival to test that!
+>> 41.70 | Naojiro | やったぜ 優勝だ！
+   EN: All right, we won!
+>> 41.71 | Kichiza | よ～し！ 祝砲だぜ！
+   EN: All riiight! Victory salute!
+>> 41.72 | Kikunosuke | 逃げて {p}！ /  / 吉三の服は 爆薬で作った / 特殊繊維なの！
+   EN: Run, {p}!  Kichiza's clothes are made of a special fiber made from explosives!
+>> 41.73 | {p} | てゆ～ことは / 服そのものがダイナマイト！？
+   EN: You mean... his clothes ARE dynamite!?
+>> 41.74 | Kichiza | そりゃ～！
+   EN: Hyaaah!
+>> 41.75 | {p} | うわ～！
+   EN: Whoaaa!
+>> 41.76 | Naojiro | ふぅ… / どうにか おさまったみたいだな
+   EN: Phew... Looks like things finally calmed down.
+>> 41.77 | Naojiro | おめぇらのおかげで優勝出来たぜ / あんがとよ！
+   EN: We won thanks to you guys. Thanks a bunch!
+>> 41.78 | Kikunosuke | {p}がいなかったら / 出場すら出来なかったもんね！
+   EN: If it weren't for {p}, we couldn't even have entered!
+>> 41.79 | Naojiro | {p}のような転校生が / 来てくれて 俺はうれしいぜ！
+   EN: I'm glad a transfer student like {p} showed up!
+>> 41.80 | {p} | 僕 転校生じゃないってば！ / 実は…
+   EN: I told you, I'm not a transfer student! Actually...
+>> 41.81 | Daemon | {p}！ あばしり一家 / おめぇさんに助太刀するぜ！ / ケンカ祭り優勝の恩に / 報いなきゃな！
+   EN: {p}! The Abashiri Family's gonna back you up! Gotta repay ya for winnin' the Brawl Festival!
+>> 41.82 | Kikunosuke | そうそう / それに おもしろそうだしね！
+   EN: Yeah, yeah! Besides, it sounds like fun!
+>> 41.83 | Kikunosuke | あ バカ！ / やめて 吉三！
+   EN: Ah, you idiot! Stop it, Kichiza!
+>> 41.84 | Kichiza | もう 遅いやい！
+   EN: Too late!
+>> 41.85 | Kichiza | そうだ！ さっき 体育館の天井から / こんなもんが落ちてきたんだ / どこかのカギかな？ / 渡しとくぜ！
+   EN: Oh yeah! This thing fell from the gym ceiling a minute ago. A key to somewhere, maybe? Here, you take it!
+>> 41.86 | ??? | 罪を恐れぬ者達が加わった… /  / そして / 世界を超える者達が加わる…
+   EN: Those who fear no sin have joined...  And those who cross between worlds join next...
+>> 41.87 | {p} | 閉じこめられた！？
+   EN: We're locked in!?
+>> 41.88 | Akira Fudo | …油断するなよ {p}！
+   EN: ...Don't let your guard down, {p}!
+>> 41.89 | Kapaeru | うるへ～！
+   EN: Pipe dooown!
+>> 41.90 | Akira Fudo | むっ！ / おまえ デーモンだな！？
+   EN: Hmm! You're a Demon, aren't ya!?
+>> 41.91 | Kapaeru | デーモン？ / ボク そんなんじゃないぞ / カッパだぞ！
+   EN: A Demon? I ain't nothin' like that! I'm a kappa!
+>> 41.92 | Akira Fudo | カッパだと？ ふざけたことを / ぬかすんじゃねぇ！
+   EN: A kappa? Don't give me that crap!
+>> 41.93 | Kapaeru | ちょ ちょっと あんさん…！ /  / え えん魔く～ん！
+   EN: H-hey now, mister...!  E-Enma-kuuun!
+>> 41.94 | Enma-kun | カパエル なに騒いでるんだ？
+   EN: Kapaeru, what're you making a racket about?
+>> 41.95 | Enma-kun | むっ！？ おまえら / 妖怪に取り憑かれているなー？ / 特に おまえ！
+   EN: Hmm!? You guys are possessed by a yokai, aren't ya? Especially you!
+>> 41.96 | Enma-kun | おまえ なんか怪しいぞ！
+   EN: There's something fishy about you!
+>> 41.97 | Akira Fudo | おもしれぇ…
+   EN: This oughta be fun...
+>> 41.98 | {p} | ちょ ちょっと待って！
+   EN: H-hold on a second!
+>> 41.99 | {p} | 僕 {p}！ / 君は いったい 何者なの？
+   EN: I'm {p}! Who exactly are you?
+   ctx 42.00 | {p} | 妖怪退治？
+   ctx EN: Hunt yokai?
+   ctx 42.01 | Akira Fudo | 地獄界？
+   ctx EN: The Hell World?

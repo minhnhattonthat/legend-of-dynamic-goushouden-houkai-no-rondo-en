@@ -1,0 +1,276 @@
+   ctx r0DD7EC |  | 沙羅のしゃしん
+   ctx EN: Sara's Photo
+   ctx r0DD7FC |  | 地下室のかぎ
+   ctx EN: Cellar Key
+>> r0DD80C |  | キーアイテム用スペース2
+   EN: Key Slot 2
+>> r0DD824 |  | キーアイテム用スペース3
+   EN: Key Slot 3
+>> r0DD83C |  | キーアイテム用スペース4
+   EN: Key Slot 4
+>> r0DD854 |  | キーアイテム用スペース5
+   EN: Key Slot 5
+>> r0DD86C |  | キーアイテム用スペース6
+   EN: Key Slot 6
+>> r0DD884 |  | キーアイテム用スペース7
+   EN: Key Slot 7
+>> r0DD89C |  | あしゅら男爵
+   EN: Baron Ashura
+>> r0DD8AC |  | トバッチリ
+   EN: Tobacchiri
+>> r0DD8B8 |  | とばっちり先生
+   EN: Tobacchiri-sensei
+>> r0DD8C8 |  | こども
+   EN: Child
+>> r0DD8D0 |  | ほうたいおとこ
+   EN: Bandage Man
+>> r0DD8E0 |  | 未登録パートナー
+   EN: Unregistered
+>> r0DD8F4 |  | ？？？
+   EN: ???
+>> r0DD8FC |  | ポール玉玉
+   EN: Paul Tamatama
+>> r0DD908 |  | ポールたまたま
+   EN: Paul Tamatama
+>> r0DD918 |  | ヒョウ
+   EN: Leopard
+>> r0DD920 |  | がくせい
+   EN: Student
+>> r0DD92C |  | けがにん
+   EN: Injured
+>> r0DD938 |  | むらびと
+   EN: Villager
+>> r0DD944 |  | まちびと
+   EN: Townsfolk
+>> r0DD950 |  | けんきゅういん
+   EN: Researcher
+>> r0DD960 |  | 欠番2
+   EN: Unused2
+>> r0DD968 |  | 欠番1
+   EN: Unused1
+>> r0DD970 |  | 大本栄惨坊
+   EN: Eisanbo Daihon
+>> r0DD97C |  | だいほんえい
+   EN: Daihonei
+>> r0DD98C |  | 果扨胴下
+   EN: Doshita Hatesate
+>> r0DD998 |  | どうした
+   EN: Doshita
+>> r0DD9A4 |  | 豹絵理座
+   EN: Eriza Hyo
+>> r0DD9B0 |  | ひょうえりざ
+   EN: Eriza Hyo
+>> r0DD9C0 |  | ユダ博士
+   EN: Dr. Judas
+>> r0DD9CC |  | ユダ
+   EN: Judas
+>> r0DD9D4 |  | 無幻大権
+   EN: Taigen Mugen
+>> r0DD9E0 |  | たいげん
+   EN: Taigen
+>> r0DD9EC |  | 高橋真弓
+   EN: Mayumi Takahashi
+>> r0DD9F8 |  | まゆみ
+   EN: Mayumi
+>> r0DDA00 |  | あゆ子
+   EN: Ayuko
+>> r0DDA08 |  | オモライくん
+   EN: Omorai-kun
+>> r0DDA18 |  | 少年（オモライくん）
+   EN: Boy (Omorai-kun)
+>> r0DDA30 |  | 真臣墓世
+   EN: Hakase
+>> r0DDA3C |  | はかせ
+   EN: Hakase
+>> r0DDA44 |  | 兜十蔵
+   EN: Juzo Kabuto
+>> r0DDA4C |  | じゅうぞう
+   EN: Juzo
+>> r0DDA58 |  | 弓教授
+   EN: Professor Yumi
+>> r0DDA60 |  | ゆみきょうじゅ
+   EN: Professor Yumi
+>> r0DDA70 |  | 如月博士
+   EN: Dr. Kisaragi
+>> r0DDA7C |  | きさらぎはかせ
+   EN: Dr. Kisaragi
+>> r0DDA8C |  | 間身井の姉
+   EN: Mamii's Sister
+>> r0DDA98 |  | 間身井くん
+   EN: Mamii-kun
+>> r0DDAA4 |  | まみいくん
+   EN: Mamii-kun
+>> r0DDAB0 |  | シャッポじい
+   EN: Chapeau-jii
+>> r0DDAC0 |  | こややし少年
+   EN: Young Koyayashi
+>> r0DDAD0 |  | イボ痔小五郎
+   EN: Kogoro Iboji
+>> r0DDAE0 |  | こごろう
+   EN: Kogoro
+>> r0DDAEC |  | 欠番4
+   EN: Unused4
+>> r0DDAF4 |  | 欠番3
+   EN: Unused3
+>> r0DDAFC |  | 欠番
+   EN: Unused
+>> r0DDB04 |  | 家早さよこ
+   EN: Sayoko Iyahaya
+>> r0DDB10 |  | 家早南友
+   EN: Nantomo Iyahaya
+>> r0DDB1C |  | アルフォンヌＬＳ３世
+   EN: Alphonne LS III
+>> r0DDB34 |  | ドクター・ポチ
+   EN: Doctor Pochi
+>> r0DDB44 |  | 摩呵フユカイ
+   EN: Maka Fuyukai
+>> r0DDB54 |  | 女蛮千代
+   EN: Banchiyo Suke
+>> r0DDB60 |  | 男男子
+   EN: Otoko
+>> r0DDB68 |  | 女蛮子
+   EN: Banji Suke
+>> r0DDB70 |  | 泣きのグズ蟲
+   EN: Weepy Guzumushi
+>> r0DDB80 |  | 黒死丸
+   EN: Kokushimaru
+>> r0DDB88 |  | 合田
+   EN: Goda
+>> r0DDB90 |  | 美剣千草
+   EN: Chigusa Mitsurugi
+>> r0DDB9C |  | 雪代小百合
+   EN: Sayuri Yukishiro
+>> r0DDBA8 |  | 天外富三郎
+   EN: Tomisaburo Tengai
+>> r0DDBB4 |  | 天外真理阿
+   EN: Maria Tengai
+>> r0DDBC0 |  | まりあ
+   EN: Maria
+>> r0DDBC8 |  | 早乙女博士
+   EN: Dr. Saotome
+>> r0DDBD4 |  | 巴武蔵
+   EN: Musashi Tomoe
+>> r0DDBDC |  | 神隼人
+   EN: Hayato Jin
+>> r0DDBE4 |  | 魔動鬼
+   EN: Madoki
+>> r0DDBEC |  | 白鳥美雪
+   EN: Miyuki Shiratori
+>> r0DDBF8 |  | 護鬼
+   EN: Goki
+>> r0DDC00 |  | 戦鬼
+   EN: Senki
+>> r0DDC08 |  | 閻魔大王
+   EN: Great King Enma
+>> r0DDC14 |  | えんま大王
+   EN: Great King Enma
+>> r0DDC20 |  | 雪子姫
+   EN: Princess Yukiko
+>> r0DDC28 |  | 法印大子
+   EN: Daiko Hoin
+>> r0DDC34 |  | だいこ
+   EN: Daiko
+>> r0DDC3C |  | 悪馬尻駄ヱ門
+   EN: Daemon Abashiri
+>> r0DDC4C |  | 悪馬尻吉三
+   EN: Kichiza Abashiri
+>> r0DDC58 |  | 悪馬尻直次郎
+   EN: Naojiro Abashiri
+>> r0DDC68 |  | 悪馬尻五ヱ門
+   EN: Goemon Abashiri
+>> r0DDC78 |  | 袋小路
+   EN: Fukurokoji
+>> r0DDC80 |  | 山岸八十八
+   EN: Yasohachi Yamagishi
+>> r0DDC8C |  | クイーン
+   EN: Queen
+>> r0DDC98 |  | 身堂竜馬
+   EN: Ryoma Shindo
+>> r0DDCA4 |  | 早乙女門土
+   EN: Mondo Saotome
+>> r0DDCB0 |  | 逞馬竜
+   EN: Ryu Takuma
+>> r0DDCB8 |  | 木刀政
+   EN: Bokuto Masa
+>> r0DDCC0 |  | 牧村タレ
+   EN: Tare Makimura
+>> r0DDCCC |  | タレちゃん
+   EN: Tare-chan
+>> r0DDCD8 |  | 牧村美樹
+   EN: Miki Makimura
+>> r0DDCE4 |  | みき
+   EN: Miki
+>> r0DDCEC |  | 飛鳥了
+   EN: Ryo Asuka
+>> r0DDCF4 |  | 早見団兵衛
+   EN: Danbei Hayami
+>> r0DDD00 |  | 早見青児
+   EN: Seiji Hayami
+>> r0DDD0C |  | 秋夏子
+   EN: Natsuko Aki
+>> r0DDD14 |  | なつこ
+   EN: Natsuko
+>> r0DDD1C |  | 石川賢
+   EN: Ken Ishikawa
+>> r0DDD24 |  | 永井豪
+   EN: Go Nagai
+>> r0DDD2C |  | 女主人公
+   EN: Heroine
+>> r0DDD3C |  | パート
+   EN: Part
+>> r0DDD44 |  | 古代ミケーネ文明の遺産
+   EN: Relic of ancient Mykene
+>> r0DDD5C |  | ゼノンを倒した証
+   EN: Proof Zennon fell
+>> r0DDD70 |  | 地下室の扉を開ける鍵
+   EN: Opens the basement door
+>> r0DDD88 |  | 宇津木と沙織が写っている写真
+   EN: Photo of Utsugi and Saori
+>> r0DDDA8 |  | 地下水路の扉を開けるための鍵
+   EN: Opens the waterway door
+>> r0DDDC8 |  | 体育館倉庫の鍵
+   EN: Gym storage key
+>> r0DDDD8 |  | 死神警察署にある牢屋の鍵
+   EN: Reaper Police cell key
+>> r0DDDF4 |  | 敵のステータスを分析
+   EN: Analyzes enemy stats
+>> r0DDE0C |  | 人間には使いこなせない兵器
+   EN: Weapon no human can wield
+>> r0DDE28 |  | 幻城内で使うパスカード
+   EN: Pass for Mirage Castle
+>> r0DDE40 |  | 一定時間、弱い敵と会わない
+   EN: Avoids weak foes a while
+>> r0DDE5C |  | 仲間の入れ替えができる
+   EN: Lets you swap partners
+>> r0DDE74 |  | ＨＰ＋２０％（ロボット専用）
+   EN: HP+20% (robots only)
+>> r0DDE94 |  | ＨＰ＋１０％（ロボット専用）
+   EN: HP+10% (robots only)
+>> r0DDEB4 |  | ＤＰ＋２０％（ロボット専用）
+   EN: DP+20% (robots only)
+>> r0DDED4 |  | ＤＰ＋１０％（ロボット専用）
+   EN: DP+10% (robots only)
+>> r0DDEF4 |  | ＤＦ＋１５％（ロボット専用）
+   EN: DF+15% (robots only)
+>> r0DDF14 |  | ＤＦ＋１０％（ロボット専用）
+   EN: DF+10% (robots only)
+>> r0DDF34 |  | ＤＸ＋１５％（ロボット専用）
+   EN: DX+15% (robots only)
+>> r0DDF54 |  | ＤＸ＋１０％（ロボット専用）
+   EN: DX+10% (robots only)
+>> r0DDF74 |  | ＡＴ＋１５％（ロボット専用）
+   EN: AT+15% (robots only)
+>> r0DDF94 |  | ＡＴ＋１０％（ロボット専用）
+   EN: AT+10% (robots only)
+>> r0DDFB4 |  | 技の発生速度が速くなる
+   EN: Skills activate faster
+>> r0DDFCC |  | 防御属性【精神】＋１０
+   EN: Mind defense +10
+>> r0DDFE4 |  | 防御属性【雷】＋１０
+   EN: Bolt defense +10
+>> r0DDFFC |  | 防御属性【冷】＋１０
+   EN: Ice defense +10
+   ctx r0DE014 |  | 防御属性【熱】＋１０
+   ctx EN: Fire defense +10
+   ctx r0DE02C |  | 防御属性【叩】＋１０
+   ctx EN: Blunt defense +10

@@ -1,0 +1,208 @@
+   ctx 33.98 | Iron Kaiser | おぉ それは妙案だ！ /  / 次元連鎖の謎を 解けば / 世界が元に戻る！ / さすれば 父・邪腕坊も生き返り / 童子を倒せる！
+   ctx EN: Oh, a splendid idea!  If we solve the mystery of the Dimension Chain, the world will go back to how it was! Then my father Jawanbo will come back to life and defeat Shutendoji!
+   ctx 33.99 | {p} | そうなったら… 困るけど…
+   ctx EN: If that happens... it'd be a problem, though...
+>> 34.00 | Iron Kaiser | 少年よ！ / おまえと共に行こう！ / おまえは 俺に パワーアップする / 意欲を与えてくれた！ / だが 手天童子と手を組むのは / ごめんだぞ！
+   EN: Boy! I'll go with you! You've given me the will to power up! But I refuse to team up with the Shutendoji!
+>> 34.01 |  | 巨大兵器を 渡しますか？
+   EN: Hand over the giant weapon?
+>> 34.02 | Scientist | 今 この中では / 手術が行われている… / この手術が終わったとき… / 人々は科学の偉大さを知るのだ！
+   EN: An operation is underway in here right now... When this operation is over... people will know the greatness of science!
+>> 34.03 | {p} | アイアンカイザー？ /  / ダメだ / 考えに夢中で 話を聞いてないや
+   EN: Iron Kaiser?  No good. He's so wrapped up in his thoughts, he's not listening.
+>> 34.04 | Iron Kaiser | その兵器は！？ /  / それさえあれば / 更にパワーアップができる！
+   EN: That weapon!?  With that, I could power up even more!
+>> 34.05 | {p} | （邪腕坊苦海…？ /  / 暗黒寺への途中で 僕らを襲った / 鬼の子孫の人だ… / この人 きっとあの時 / 近くで 戦いを見てたんだ…）
+   EN: (Kukai Jawanbo...?  That's the oni descendant who attacked us on the way to the Dark Temple... This guy must have been watching the fight from nearby...)
+>> 34.06 | Iron Kaiser | おや？ 貴様 手天童子郎と / 一緒にいた少年だな？
+   EN: Oh? You're the boy who was with Jiro Shutendo, aren't you?
+>> 34.07 | Climber | ここから西に行くと / 日本アルプスへの登山道があるよ
+   EN: Head west from here and you'll find the trail up into the Japanese Alps.
+>> 34.08 | Climber | 最近は 山の天候が / 悪くなるばかり… / まるで 人が近づくのを / 拒んでるようだな
+   EN: Lately the mountain weather just keeps getting worse... It's like it's trying to keep people away.
+>> 34.09 | Climber | 青い顔した兄ちゃんが 登山道の / ほうへ 行くのを見かけたんだ / 「誰だ 俺を呼ぶのは誰だ！？」 / とかってブツブツ言ってたな
+   EN: I saw a pale-faced young fella heading for the trail. He was muttering, "Who's there? Who's calling me!?"
+>> 34.10 | {p} | ここには誰もいないや
+   EN: There's nobody here.
+>> 34.11 | {p} | 写真だ… かわいい女の子だな / 「妹・沙織と」… / ！？ / 日記もある / 宇津木涼… / お兄さんの日記だ… / 読んじゃおう…かな
+   EN: A photo... What a cute girl. "With my sister Saori"... !? There's a diary too. Ryo Utsugi... It's her brother's diary... Should I... read it?
+>> 34.12 | {p} | なになに… /  / 「また 同じ夢を見た /  / もう１ヶ月以上 / 同じ夢が続いている / 巨大なクレバスの中で / 氷に埋もれた 大怪物の夢 / 悪魔が人間を襲い 食らう夢… / 悪魔の顔が 俺の顔に変る！ / 俺の身体が 巨大化する！」
+   EN: Let's see...  "I had the same dream again.  The same dream for over a month now. A dream of a huge monster buried in ice inside a giant crevasse. A dream of a devil attacking and devouring people... The devil's face turns into my face! My body grows enormous!"
+>> 34.13 | {p} | 「声に導かれて / とうとう雪山まで来てしまった / 気のせいか 西の方角から / 声がするようだ / これから / 西に向かってみようと思う / そして… 早く 沙織の待つ家に / 帰りたい…」 / 西に向かってみる… / 家に帰りたい… / 宇津木さん…
+   EN: "Led by the voice, I've finally come all the way to the snowy mountains. Maybe it's my imagination, but the voice seems to come from the west. I think I'll head west now. And then... I want to hurry home to Saori, who's waiting..." Head west... Want to go home... Utsugi-san...
+>> 34.14 | {p} | 人の日記を / 黙って読むのはよくないな
+   EN: It's not right to read someone's diary without asking.
+>> 34.15 | {p} | 宇津木さんの日記だ / やっぱり読もうかな？
+   EN: It's Utsugi-san's diary. Should I read it after all?
+>> 34.16 | {p} | 吹雪が渦を巻いてる！？ /  / 渦の真ん中に ぽっかりと / 無風の道が 出来てるみたいだ
+   EN: The blizzard's swirling!?  There seems to be a windless path open right in the middle of the vortex.
+>> 34.17 | Climber | 噂だけど 登山道で / 化け物を見たやつがいるらしい / まるで / 悪魔のような姿だったとか…
+   EN: It's just a rumor, but somebody saw a monster on the trail. It looked just like a devil, they say...
+>> 34.18 | Climber | 登山道の奥には洞窟があるらしいが / 命が惜しいなら近づくなよ / あそこに入って 生きて帰ってきた / 奴は いないんだ
+   EN: They say there's a cave at the end of the trail, but if you value your life, stay away. Nobody who's gone in there has come back alive.
+>> 34.19 | {p} | ここは… どこだろう？
+   EN: Where... is this?
+>> 34.20 | ??? | ヒマラヤ山脈の奥地よ…
+   EN: The depths of the Himalayas...
+>> 34.21 | Medossa | 私はメドッサ /  / 魔王ダンテの恋人にして / ダンテを護る者…
+   EN: I am Medossa.  The lover of Demon Lord Dante, and his protector...
+>> 34.22 | {p} | 魔王ダンテ？
+   EN: Demon Lord Dante?
+>> 34.23 | Medossa | ダンテは百万年もの間 / テレパシーで呼び続けた
+   EN: For a million years, Dante has called out by telepathy.
+>> 34.24 | {p} | 百万年間 テレパシーで / 呼び続けた…だって？
+   EN: He's been calling by telepathy for a million years...?
+>> 34.25 | Medossa | とうとう それに答え / ここまで来ることの出来る / 若者が 現れたのだ / ダンテの目覚めは近い！ / 引き返せ！ /  / さもなくば / お前は 死ぬことになる…
+   EN: At last a young man has appeared who answered, and was able to come this far. Dante's awakening is near! Turn back!  Otherwise, you will die...
+>> 34.26 | {p} | …ダメだ 扉が開かない / こっちは あきらめよう
+   EN: ...No good, the door won't open. Let's give up on this one.
+>> 34.27 | {p} | 凄い設備だ… もしかして / 科学都市より 進んでる？
+   EN: What amazing equipment... Could it be more advanced than Science City?
+>> 34.28 | {p} | モニターに何かうつったぞ！？
+   EN: Something came up on the monitor!?
+>> 34.29 | Young Man | どこだ！ どこにいる！？
+   EN: Where!? Where are you!?
+>> 34.30 | Mysterious Voice | 宇津木涼！ / 魔王ダンテの協力者よ！ / 力を貸すのだ！
+   EN: Ryo Utsugi! Ally of Demon Lord Dante! Lend me your strength!
+>> 34.31 | Dante | 私は 閉じ込められている… / 氷の中に！
+   EN: I am imprisoned... in the ice!
+>> 34.32 | Ryo Utsugi | 氷の中？ …夢で見たぞ！ / 夢の中で おまえの姿を見たぞ！ / おまえは怪物だ！ / 魔王ダンテ！
+   EN: In the ice? ...I saw it in my dream! I saw you in my dream! You're a monster! Demon Lord Dante!
+>> 34.33 | Dante | 違う 私は人間だ！ / 人間の心と 理性を持っている！ / 宇津木涼！ / 魔王ダンテの協力者よ！ / 力を貸すのだ！
+   EN: No, I am human! I have a human heart and human reason! Ryo Utsugi! Ally of Demon Lord Dante! Lend me your strength!
+>> 34.34 | Ryo Utsugi | 俺は… 協力者…
+   EN: I'm... an ally...
+>> 34.35 | Dante | おまえは ダンテのために / 力をかさねばならない！
+   EN: You must lend your strength to Dante!
+>> 34.36 | Ryo Utsugi | 俺は… 力を貸さねばならない… /  / そうだ 俺は 力を貸さねば / ならないんだ… ダンテに！！
+   EN: I... must lend my strength...  Yes, I must lend my strength... to Dante!!
+>> 34.37 | Dante | その機械を壊すのだ！ / ダンテの力を封じる機械を！
+   EN: Destroy that machine! The machine that seals Dante's power!
+>> 34.38 | Ryo Utsugi | うおおおおおお～！！
+   EN: RAAAAAAAAH!!
+>> 34.39 | {p} | 大変だ！ / あの人 心を操られているみたい！
+   EN: Oh no! It looks like that guy's mind is being controlled!
+>> 34.40 | {p} | モニターに文字が出てきた… / なになに？ / 拘束装置強制解除！？ /  / 補助動力を稼働させないと / 魔王ダンテが復活する…！？
+   EN: Words came up on the monitor... Let's see? Forced release of restraint system!?  If the auxiliary power isn't started, Demon Lord Dante will revive...!?
+>> 34.41 | {p} | 開かない！？ どこかに / スイッチがあるはずだ！
+   EN: It won't open!? There must be a switch somewhere!
+>> 34.42 | Ryo Utsugi | {!R}うわああああああ！
+   EN: {!R}Whoaaaaaaa!
+>> 34.43 | Dante | 宇津木涼！ / 私がダンテ 魔王ダンテだ！
+   EN: Ryo Utsugi! I am Dante, Demon Lord Dante!
+>> 34.44 | Ryo Utsugi | き きさま 俺の心を操ったな！ /  / 俺の心をねじ曲げて / 協力させたな！
+   EN: Y-you controlled my mind!  You twisted my mind and made me help you!
+>> 34.45 | Dante | 心を操られるのは / おまえの心が 弱いからだ！ / ガハハハハハ！
+   EN: Your mind was controlled because your heart is weak! Gahahahahaha!
+>> 34.46 | Dante | 宇津木涼 協力を感謝する！ /  / 魔王ダンテを / よくぞ蘇らせてくれた！
+   EN: Ryo Utsugi, I thank you for your help!  You did well to revive Demon Lord Dante!
+>> 34.47 | Ryo Utsugi | 現世に蘇り何をしようというのだ / 魔王ダンテ！？
+   EN: What do you mean to do now that you've come back to this world, Demon Lord Dante!?
+>> 34.48 | Dante | まずは… おまえを食う！ /  / そして 地上に存在する / すべての人間を滅ぼす！
+   EN: First... I'll eat you!  Then I'll wipe out every human on the face of the earth!
+>> 34.49 | Ryo Utsugi | 人類を滅ぼすために 俺を… / 利用した…のか！？
+   EN: You used me... to wipe out humanity!?
+>> 34.50 | Dante | 魔王ダンテにとって / 人間は敵なのだ！ / 全世界の人間がな！ / 手始めに… 貴様だ！
+   EN: To Demon Lord Dante, humans are the enemy! All the humans in the world! Starting... with you!
+>> 34.51 | {p} | 大変だ！
+   EN: Oh no!
+>> 34.52 | {p} | これは！ さっき 宇津木さんが / 着ていた服…！？ / はっ！？
+   EN: This is...! The clothes Utsugi-san was wearing just now...!? Huh!?
+>> 34.53 | Dante | 俺は… 生きているのか？ / なぜだ！？ / 俺は / 怪物に 食い殺されたはずだ…
+   EN: I'm... alive? Why!? I should have been eaten alive by the monster...
+>> 34.54 | Dante | この身体は！ あの悪魔の姿！ /  / 俺は… もはや 宇津木涼では / ないのか！？ / 俺は… 魔王ダンテに / なってしまったのか！？
+   EN: This body! It's that devil's form!  Am I... no longer Ryo Utsugi!? Have I... become Demon Lord Dante!?
+>> 34.55 | Dante | グオオオオオオ！
+   EN: GUOOOOOOOH!
+>> 34.56 | {p} | {!R}（う 宇津木さん…）
+   EN: {!R}(U-Utsugi-san...)
+>> 34.57 | Dante | くっくっくっく… / くっくっくっく… / ガッハッハッハッハ！
+   EN: Heh heh heh heh... Heh heh heh heh... Gahahahahaha!
+>> 34.58 | Dante | ワッハハハハハ！ / 俺はもう 人間じゃない！ / 俺は化け物だ 俺は悪魔だ！
+   EN: Wahahahahaha! I'm not human anymore! I'm a monster, I'm a devil!
+>> 34.59 | {p} | この機械 もしかして / 補助動力のスイッチ！？
+   EN: Could this machine be the auxiliary power switch!?
+>> 34.60 | {p} | よし！ 動くぞ！？
+   EN: All right! It's working!?
+>> 34.61 | {p} | {!R}…！ / また モニターに文字が…！？ / {!R}補助動力始動開始…って / ちょっとちょっと！
+   EN: {!R}...! More words on the monitor...!? {!R}Auxiliary power startup initiated... Hey, wait a minute!
+>> 34.62 | Dante | 貴様 誰だ…？ / どこで見ている…！
+   EN: Who are you...? Where are you watching from...!
+>> 34.63 | {p} | {!R}(…！)
+   EN: {!R}(...!)
+>> 34.64 | Dante | いや 誰であろうと どうでもいい / 頼みがある / …俺を殺してくれ
+   EN: No, it doesn't matter who you are. I have a favor to ask... Kill me.
+>> 34.65 | {p} | {!R}え…！？
+   EN: {!R}What...!?
+>> 34.66 | Dante | 俺の このおぞましい姿を / この世から消してくれ！
+   EN: Erase this hideous form of mine from the world!
+>> 34.67 | {p} | {!R}そ そんなこと…！
+   EN: {!R}I-I can't do that...!
+>> 34.68 | Dante | どうした 殺せないのか？ / 消せないのか？ / 貴様が 俺を消せないのなら / 俺が 貴様らを消してやる！ / ひとり残らず / 全世界から消してやる！ / 人間 ひとり残らず！！
+   EN: What's wrong, can't you kill me? Can't erase me? If you can't erase me, then I'll erase all of you! Every last one, from the whole world! Every last human!!
+>> 34.69 | Dante | グオオオオオオ！ /  / こ これは 冷凍ガス…！ / そうだ これで…これでいい…！
+   EN: GUOOOOOOOH!  Th-this is freezing gas...! Yes, with this... this is good...!
+>> 34.70 | Dante | グルルル… おのれ…！
+   EN: Grrrr... Curse you...!
+>> 34.71 | Dante | これで 俺は…再び 氷の中に…！ /  / グオオオオオオ！
+   EN: With this, I'll be... back in the ice...!  GUOOOOOOOH!
+>> 34.72 | Dante | ……………
+   EN: ...............
+>> 34.73 | {p} | {!R}（完全に 氷に / 閉じ込められちゃったみたいだ / {!R}ごめん 宇津木さん… / 僕 何も出来なかった…！）
+   EN: {!R}(Looks like he's completely sealed in the ice. {!R}I'm sorry, Utsugi-san... I couldn't do anything...!)
+>> 34.74 | {p} | {!R}…あれ？ 宇津木涼…？ / 聞き覚えがある… / {!R}…そうだ！ / テントの中で呼んだ日記の人！ / {!R}氷に埋もれた 大怪物の夢のこと… / 声によばれて ここに来たこと… / {!R}そして 早く 沙織さんの待つ家に / 帰りたいって…
+   EN: {!R}...Huh? Ryo Utsugi...? I've heard that name... {!R}...That's it! The guy whose diary I read in the tent! {!R}The dream of a huge monster buried in ice... being called here by a voice... {!R}And wanting to hurry home to Saori-san, who's waiting...
+>> 34.75 | Dante | 沙織…？ /  / 沙織… 俺の妹…
+   EN: Saori...?  Saori... my sister...
+>> 34.76 | {p} | {!R}そうだよ 宇津木さん！ /  / {!R}妹さんまで / この世界から消すつもりかい！？
+   EN: {!R}That's right, Utsugi-san!  {!R}Are you going to erase your sister from the world too!?
+>> 34.77 | Dante | ………
+   EN: .........
+>> 34.78 | Dante | 俺の この姿 この力… / もはや俺は化け物だ！ 悪魔だ！
+   EN: This form, this power... I'm a monster now! A devil!
+>> 34.79 | {p} | {!R}宇津木さん！ / 僕の話しを聞いてくれ！
+   EN: {!R}Utsugi-san! Listen to me!
+>> 34.80 | Dante | …次元連鎖だって？ /  / このままでは世界が滅ぶ… / それならば それで良い！
+   EN: ...The Dimension Chain?  At this rate the world will be destroyed... Then so be it!
+>> 34.81 | {p} | {!R}そんな…！
+   EN: {!R}You can't mean that...!
+>> 34.82 | Dante | この醜い姿が地上から消えるなら…
+   EN: If it means this ugly form disappears from the earth...
+>> 34.83 | {p} | {!R}妹さんも / 消えちゃうかもしれないんだよ！
+   EN: {!R}Your sister might disappear too!
+>> 34.84 | Dante | …そうだ / 君の言う通りだ… / これは 俺の身に起きた悲劇 / 沙織は なんの関係もない！
+   EN: ...That's right. You're right... This is a tragedy that happened to me. Saori has nothing to do with it!
+>> 34.85 | {p} | {!R}宇津木さん！
+   EN: {!R}Utsugi-san!
+>> 34.86 | Dante | 君は / こんな姿になった俺を / 宇津木涼という名前で / 呼んでくれる… / 俺は 君と共に行こう！ /  / ダンテの魔力を 沙織のため / 世界のため使おう！
+   EN: Even after I've become this, you still call me by the name Ryo Utsugi... I'll go with you!  I'll use Dante's demonic power for Saori, and for the world!
+>> 34.87 | {p} | ………
+   EN: .........
+>> 34.88 | Dante | 俺は 君と共に行こう！ /  / ダンテの魔力を 沙織のため / 世界のため使おう！
+   EN: I'll go with you!  I'll use Dante's demonic power for Saori, and for the world!
+>> 34.89 | Ryo Utsugi | 元の姿に戻った！？ / 君のおかげだよ！
+   EN: I'm back to my normal form!? It's thanks to you!
+>> 34.90 | Ryo Utsugi | ありがとう / 俺は 君と共に行こう / そして この力を きっと / 君のために役立てよう！ / 巨大な敵と戦う時には / 俺も変身して 力を貸すぜ！
+   EN: Thank you. I'll go with you, and I'll surely put this power to use for you! When we fight giant enemies, I'll transform and lend a hand too!
+>> 34.91 | Ryo Utsugi | うわぁ～～～っ！！
+   EN: WHOAAAAAA!!
+>> 34.92 | Dante | 少年よ おまえの名は…？
+   EN: Boy, what is your name...?
+>> 34.93 | {p} | {p}
+   EN: {p}.
+>> 34.94 | Dante | {p}よ / 俺は おまえに感謝するよ / この醜い姿のまま / 俺は生きたくはない  / ましてや 心優しい妹・沙織に / この姿を見せたくはない…
+   EN: {p}, I'm grateful to you. I don't want to live in this hideous form. And I certainly don't want my kindhearted sister Saori to see me like this...
+>> 34.95 | Dante | ありがとう {p}…
+   EN: Thank you, {p}...
+>> 34.96 | Medossa | 魔王ダンテ… 宇津木涼に / 心を乗っ取られたのですね…
+   EN: Demon Lord Dante... So your mind has been taken over by Ryo Utsugi...
+>> 34.97 | Ryo Utsugi | だったらどうする？
+   EN: And if it has?
+>> 34.98 | Medossa | …あなたから / 強い意志の力を感じます
+   EN: ...I sense a strong willpower in you.
+>> 34.99 | Medossa | 誰にも負けない 強い精神力 /  / それこそ 魔王ダンテの / ダンテたる由縁！ / メドッサは / あなたに ついていきます
+   EN: A strong spirit that yields to no one.  That is what makes Demon Lord Dante who he is! Medossa will follow you.
+   ctx 35.00 | Ryo Utsugi | うむ！
+   ctx EN: Right!
+   ctx 35.01 | {p} | 何とか宇津木さんを / 救うことは できないだろうか…
+   ctx EN: Isn't there some way to save Utsugi-san...?

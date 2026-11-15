@@ -1,0 +1,208 @@
+   ctx 11.98 | {p} | これじゃ キリがない…！
+   ctx EN: At this rate, there's no end to them...!
+   ctx 11.99 | Mysterious Man | シャフト…！
+   ctx EN: Shaft...!
+>> 12.00 | Dr. Shaft | き 貴様は…！？
+   EN: Y-you...!?
+>> 12.01 | Jiro | しめた！ シャフト博士は / あの男との戦いに 手一杯だ！ / ザコは 今のうちに / 片付けてしまおう！
+   EN: Perfect! Dr. Shaft has his hands full fighting that man! Let's clean up the small fry while we can!
+>> 12.02 | Jiro | 凄い！ いったい何者だ！？
+   EN: Incredible! Who on earth is he!?
+>> 12.03 | Mysterious Man | 真理阿は どこだ！？
+   EN: Where is Maria!?
+>> 12.04 | Dr. Shaft | 知らんと言ったら 知らん！！ / 本当だ…！ 信じてくれ！！
+   EN: I said I don't know, and I don't!! It's true...! Believe me!!
+>> 12.05 | Mysterious Man | 俺が / おまえを 信じると思うか…！？
+   EN: You think I'd believe you...!?
+>> 12.06 | {p} | やめなよ！ / この人 本当に知らないんだよ！
+   EN: Stop it! He really doesn't know!
+>> 12.07 | Mysterious Man | …俺の邪魔をするな！
+   EN: ...Don't get in my way!
+>> 12.08 | {p} | やりすぎだよ！
+   EN: You're going too far!
+>> 12.09 | Mysterious Man | この男達は 俺とお袋の身体を / 使って 人体実験をした！ / その結果 お袋は死んだ！ /  / 俺も死にかけ / こんな身体になった！
+   EN: These men used my mother's body and mine for human experiments! And because of it, my mother died!  I nearly died too, and ended up with a body like this!
+>> 12.10 | {p} | そんな…！
+   EN: That's horrible...!
+>> 12.11 | Mysterious Man | おまえも見ただろう？ / 俺の身体を…！ / こいつらが / 俺の身体を こんなにしたんだ！
+   EN: You saw it too, didn't you? My body...! These bastards made my body like this!
+>> 12.12 | {p} | …………
+   EN: ............
+>> 12.13 | Jiro | 大丈夫か {p}？
+   EN: You okay, {p}?
+>> 12.14 | {p} | う うん…
+   EN: Y-yeah...
+>> 12.15 | Mysterious Man | 復讐を遂げるまで / 俺は決して 手をゆるめない！
+   EN: I'll never let up until I've had my revenge!
+>> 12.16 | {p} | …待って！ あなたの名前は！？
+   EN: ...Wait! What's your name!?
+>> 12.17 | Mysterious Man | 来留間慎一…
+   EN: Shinichi Kuruma...
+>> 12.18 | Jiro | 来留間…？ / どこかで聞いたような…
+   EN: Kuruma...? I feel like I've heard that somewhere...
+>> 12.19 | {p} | 来留間博士！
+   EN: Dr. Kuruma!
+>> 12.20 | Shinichi | ふん！
+   EN: Hmph!
+>> 12.21 | Shinichi | おまえ達 / 親父を知っているのか？
+   EN: You know my old man?
+>> 12.22 | Jiro | 親父だって！？
+   EN: Your old man!?
+>> 12.23 | {p} | あの人 君のお父さんなの！？
+   EN: That man is your father!?
+>> 12.24 | Shinichi | …………
+   EN: ............
+>> 12.25 | Jiro | まさかとは思うけど… / 君の怒った顔 / 来留間博士に / 似ているような…
+   EN: I can hardly believe it, but... your angry face looks kind of like Dr. Kuruma's...
+>> 12.26 | Shinichi | オヤジに似てるだと！？ / 冗談じゃねぇ！
+   EN: I look like my old man!? Don't make me laugh!
+>> 12.27 | Jiro | 父親が 子供を あんな身体に… / なんて酷い！
+   EN: A father doing that to his own child's body... How horrible!
+>> 12.28 | {p} | 弓教授が 来留間博士を / 批難した理由が 解ったよ…
+   EN: Now I understand why Professor Yumi condemned Dr. Kuruma...
+>> 12.29 | {p} | 来留間博士には / 悪い噂が絶えないって / 早乙女博士が言っていた / わけが解ったよ…
+   EN: Now I understand why Dr. Saotome said there's no end of nasty rumors about Dr. Kuruma...
+>> 12.30 | Dr. Shaft | フハハハハハ…！
+   EN: Fuhahahahaha...!
+>> 12.31 | Dr. Shaft | あまいわ 慎一！
+   EN: Too soft, Shinichi!
+>> 12.32 | {p} | シャフト博士！？
+   EN: Dr. Shaft!?
+>> 12.33 | Dr. Shaft | ヤツは 源三博士の 真の恐ろしさを / 知らんのだ / それより 貴様ら / よくも息子達を…！
+   EN: He doesn't know Dr. Genzo's true terror. More importantly, you wretches... how dare you do that to my sons...!
+>> 12.34 | Jiro | 地震か？
+   EN: An earthquake?
+>> 12.35 | {p} | 子郎君！ アレを…！
+   EN: Jiro-kun! Look at that...!
+>> 12.36 | {p} | 黒い月だ！
+   EN: It's the black moon!
+>> 12.37 | Dr. Shaft | おぉ なんということだ！ / 息子達が蘇った！ / 息子達よ 復讐の時間だ！
+   EN: Oh, what's this! My sons have come back to life! My sons, it's time for revenge!
+>> 12.38 | Dr. Shaft | ぐはぁ…！ /  / ま…まだだ… / この実験だけは…！！
+   EN: Guhaaa...!  N-not yet... This experiment, at least...!!
+>> 12.39 | {p} | 大変だ！ 村の人達が…！
+   EN: Oh no! The villagers...!
+>> 12.40 | Villager | 最近 川上に みょうな連中が / 住み着いたみてぇなんだ… / あいつら あんなとこで / 何やってんだべ？
+   EN: Seems some strange folks settled upriver lately... What're they doin' way out there, I wonder?
+>> 12.41 | {p} | 川の上流で / 何か あったのかな？
+   EN: Did something happen upriver?
+>> 12.42 | Villager | あんたら 川上に行くのかい？ /  / だども 川上に行くには / 洞窟を通らなきゃいけねぇ / あとは 泳いでくぐらいだけんど… / おすすめは できねぇな
+   EN: You folks headin' upriver?  Well, to get upriver ya gotta go through the cave. Or else swim it, but... I wouldn't recommend that.
+>> 12.43 | Jiro | 戸来村が 消えてる！ /  / 黒い月が 戸来村を / 消してしまったのか？
+   EN: Herai Village is gone!  Did the black moon erase Herai Village?
+>> 12.44 | {p} | そんな… / それじゃ 村の人達は…！？
+   EN: No way... Then the villagers...!?
+>> 12.45 | Jiro | …………
+   EN: ............
+>> 12.46 | Jiro | そっちは 洞窟だ / 今は村の人を助けよう
+   EN: That way's the cave. Let's help the villagers for now.
+>> 12.47 | Immortal Corps | へへっ！ あいつらを / 助けようってんだな？
+   EN: Heh! You're here to rescue them, eh?
+>> 12.48 | Immortal Corps | そうはいかねぇぜ！
+   EN: Not so fast!
+>> 12.49 | {p} | なんの話？
+   EN: What are you talking about?
+>> 12.50 | Immortal Corps | とぼけんな！
+   EN: Don't play dumb!
+>> 12.51 | Immortal Corps | かまうこたぁねぇ / やっちまおうぜ！
+   EN: Who cares, let's take 'em out!
+>> 12.52 | Jiro | こいつら 戸来村を / 襲った連中じゃないか？ / 俺達が 誰かを助けにきたと / 思っていたようだ
+   EN: Aren't these the guys who attacked Herai Village? They seemed to think we came to rescue someone.
+>> 12.53 | {p} | この先に 何かあるんだろうか？
+   EN: Is there something up ahead?
+>> 12.54 | Immortal Corps | あの野郎 / まだ気を失ってるのか？
+   EN: That punk still out cold?
+>> 12.55 | Immortal Corps | そろそろ 眼を覚ましそうだぜ / 眼を覚ましたら 驚くぜェ～！
+   EN: He's about to come around. He's gonna get a shock when he does!
+>> 12.56 | Immortal Corps | 恋人を助けるつもりが / 逆に俺達に捕まっちまって…
+   EN: He came to save his girlfriend and got caught by us instead...
+>> 12.57 | Immortal Corps | おっと のんびりしてると / おもしれぇ場面を見逃しちまう
+   EN: Whoops, if we dawdle we'll miss the good part.
+>> 12.58 | Jiro | 聞いたか？
+   EN: Did you hear that?
+>> 12.59 | {p} | 不死団のヤツらに / 誰か 捕まってるみたいだね
+   EN: Looks like the Immortal Corps caught somebody.
+>> 12.60 | Jiro | 恋人を 助けようとして / 逆に捕われた…と / 放っておけないな…
+   EN: Tried to rescue his girlfriend and got captured instead... We can't just leave him...
+>> 12.61 | Jiro | 倉庫のまわりには / 誰もいないようだ / あそこに窓が見える… / 近づいてみよう！
+   EN: Looks like nobody's around the warehouse. There's a window over there... Let's get closer!
+>> 12.62 | {p} | アレを見て！
+   EN: Look at that!
+>> 12.63 | Jiro | 助けよう！
+   EN: Let's save them!
+>> 12.64 | {p} | ちょっと待って！
+   EN: Wait a second!
+>> 12.65 | Boy | う…ううう
+   EN: Ugh... nnngh...
+>> 12.66 | Boy | うっ…！ / くそ～！ / 不死団に捕まったか…ん？ / あっ！ ゆ 雪代さん！
+   EN: Ugh...! Dammit! The Immortal Corps got me... Huh? Ah! Y-Yukishiro-san!
+>> 12.67 | Girl | す…朱紗君…
+   EN: Sh... Shusha-kun...
+>> 12.68 | {p} | 聞いた？ 朱紗君…だって！？
+   EN: Did you hear that? "Shusha-kun"!?
+>> 12.69 | Jiro | すると あの少年が / 美剣千草と瓜生麗が口にしていた / 朱紗真悟か？
+   EN: Then that boy is the Shingo Shusha that Chigusa Mitsurugi and Rei Uryu mentioned?
+>> 12.70 | Shusha | 雪代さん…！ / な なぜ こんなところに…！？
+   EN: Yukishiro-san...! Wh-why are you here...!?
+>> 12.71 | Yukishiro | 学校の帰り道 いきなり後ろから / 麻酔を かがされたのよ… / そのまま気を失って… / 気がついたらここに…
+   EN: On my way home from school, someone suddenly made me breathe anesthetic from behind... I passed out... and when I came to, I was here...
+>> 12.72 | Shusha | くそっ！ 不死団のしわざか！ /  / …しかし不死団は / なぜ 雪代さんを狙ったんだ！
+   EN: Damn it! The Immortal Corps did this!  ...But why would the Immortal Corps go after Yukishiro-san!?
+>> 12.73 | Shusha | しかし不死団は なぜ / 雪代さんを狙ったんだ！
+   EN: But why would the Immortal Corps go after Yukishiro-san!?
+>> 12.74 | Immortal Corps | 教えてやろう！
+   EN: We'll tell you!
+>> 12.75 | Immortal Corps | それは 雪代小百合が / 朱紗真悟の恋人だからだ！
+   EN: It's because Sayuri Yukishiro is Shingo Shusha's girlfriend!
+>> 12.76 | Shusha | なに…！？
+   EN: What...!?
+>> 12.77 | Immortal Corps | 愛する者を傷つけられ おまえの / 心が 憎しみと怒りに震えた時…！ / おまえの 理性のタガがふっ飛び / 巨大な精神エネルギーが噴出する / それが 凄まじい 超能力者の / 誕生なのだ！
+   EN: When your beloved is hurt and your heart shakes with hatred and rage...! the restraints on your reason will blow off and a colossal psychic energy will erupt. That will be the birth of a terrifying psychic!
+>> 12.78 | Shusha | 俺の超能力を 目覚めさせるために / 雪代さんをこんな目に…！ / うお～！
+   EN: You did this to Yukishiro-san just to awaken my psychic power...! Raaaagh!
+>> 12.79 | Immortal Corps | 超能力で / 鎖を切ろうとしても 無駄だ！ / 我々全員の超能力で / おまえを縛っているのだ！
+   EN: It's no use trying to cut the chains with your powers! We're binding you with the powers of all of us!
+>> 12.80 | Shusha | くそぉ～！！
+   EN: Damn iiit!!
+>> 12.81 | {p} | 子郎君！
+   EN: Jiro-kun!
+>> 12.82 | Jiro | あのふたりを助けよう…！ /  / いいか…？ / １ ２ の ３！ で行くぞ！
+   EN: Let's save those two...!  Ready...? We go on one, two, THREE!
+>> 12.83 | Jiro | いいか…？ / １ ２ の ３！ で行くぞ！
+   EN: Ready...? We go on one, two, THREE!
+>> 12.84 | Jiro | １… /  / ２ の… /  / ３！
+   EN: One...  Two...  THREE!
+>> 12.85 | {p} | …！？
+   EN: ...!?
+>> 12.86 | Immortal Corps | ウワ～！
+   EN: Whoaaa!
+>> 12.87 | Immortal Corps | ファイアーバードだぁ～！
+   EN: It's the Firebiiird!
+>> 12.88 | Shusha | ムォ～！
+   EN: Mmmrraaah!
+>> 12.89 | Immortal Corps | しまった！ /  / ファイアーバードに気を取られて / 朱紗の呪縛をほどいてしまった！
+   EN: Damn!  The Firebird distracted us and we let Shusha's binding slip!
+>> 12.90 | Shusha | 雪代～っ！
+   EN: Yukishirooo!
+>> 12.91 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 12.92 | Immortal Corps | いかん！ 朱紗を捕らえろ！
+   EN: No! Seize Shusha!
+>> 12.93 | {p} | 美剣さん！？
+   EN: Mitsurugi-san!?
+>> 12.94 | Mitsurugi | 超能力を… 凄ノ王の力を / 悪用しようとする者には / 美剣一族が 相手をするわ！
+   EN: Anyone who tries to misuse psychic power... the power of Susano-oh... will answer to the Mitsurugi clan!
+>> 12.95 | Immortal Corps | 悪用ではない！ / 世直しだ！ / 新しい理想社会を築くためには / 強い力が 必要なのだ！
+   EN: This is not misuse! It's reform! To build a new ideal society, great power is needed!
+>> 12.96 | Mitsurugi | 合田君！
+   EN: Goda-kun!
+>> 12.97 | Mitsurugi | 朱紗君！ 今のうちに！
+   EN: Shusha-kun! Now's your chance!
+>> 12.98 | {p} | 待って！ / 僕達は 敵じゃない！
+   EN: Wait! We're not your enemy!
+>> 12.99 | Shusha | ………信用出来ない！
+   EN: .........I can't trust you!
+   ctx 13.00 | Immortal Corps | 追え～！ まだ そのあたりに / いるはずだ～！
+   ctx EN: After him! He's gotta still be around here!
+   ctx 13.01 | {p} | 不死団とは 僕らも因縁がある！ /  / ここは 僕らがヤツらを / 食い止めるから 逃げて！
+   ctx EN: We've got a score to settle with the Immortal Corps too!  We'll hold them off here, so run!

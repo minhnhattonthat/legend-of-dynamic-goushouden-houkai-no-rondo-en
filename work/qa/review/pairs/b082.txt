@@ -1,0 +1,308 @@
+   ctx r0DC728 |  | もりミサイル
+   ctx EN: Harpoon Shot
+   ctx r0DC738 |  | 柳生忍術
+   ctx EN: Yagyu Arts
+>> r0DC744 |  | やぎゅう忍術
+   EN: Yagyu Arts
+>> r0DC754 |  | 野獣の牙
+   EN: Beast Fang
+>> r0DC760 |  | やじゅうの牙
+   EN: Beast Fang
+>> r0DC770 |  | 野獣の爪
+   EN: Beast Claw
+>> r0DC77C |  | やじゅうの爪
+   EN: Beast Claw
+>> r0DC78C |  | ヤリ
+   EN: Lance
+>> r0DC794 |  | 妖力
+   EN: Mystic
+>> r0DC79C |  | ようりき
+   EN: Mystic
+>> r0DC7A8 |  | 雷撃
+   EN: Thunder
+>> r0DC7B0 |  | らいげき
+   EN: Thunder
+>> r0DC7BC |  | マグナム
+   EN: Magnum
+>> r0DC7C8 |  | ルストハリケーン
+   EN: Rust Hurricane
+>> r0DC7DC |  | レーザーガン
+   EN: Laser Gun
+>> r0DC7EC |  | ロケットパンチ
+   EN: Rocket Punch
+>> r0DC7FC |  | ロケットれんしゃ
+   EN: Rocket Salvo
+>> r0DC810 |  | ライトニング・フレア
+   EN: Bolt Flare
+>> r0DC828 |  | Ｌ・フレア
+   EN: Bolt Flare
+>> r0DC834 |  | アマノムラクモ
+   EN: Murakumo
+>> r0DC844 |  | 絵を描く
+   EN: Paint
+>> r0DC850 |  | オオアギト
+   EN: Great Jaws
+>> r0DC85C |  | オオガマ
+   EN: Giant Toad
+>> r0DC868 |  | 火遁の術
+   EN: Fire Jutsu
+>> r0DC874 |  | かとんのじゅつ
+   EN: Fire Jutsu
+>> r0DC884 |  | 兜割り
+   EN: Helmcut
+>> r0DC88C |  | かぶとわり
+   EN: Helmcut
+>> r0DC898 |  | カマ
+   EN: Sickle
+>> r0DC8A0 |  | ゲッタービーム
+   EN: Getter Beam
+>> r0DC8B0 |  | ゲヘナの炎
+   EN: Gehenna
+>> r0DC8BC |  | 剣の舞
+   EN: Sword Dance
+>> r0DC8C4 |  | 剣のまい
+   EN: Sword Dance
+>> r0DC8D0 |  | 降魔の大剣
+   EN: Great Bane
+>> r0DC8DC |  | ごうまの大剣
+   EN: Great Bane
+>> r0DC8EC |  | 虚空斬破
+   EN: Voidbreak
+>> r0DC8F8 |  | こくうざんぱ
+   EN: Voidbreak
+>> r0DC908 |  | ジャックナイフ
+   EN: Jackknife
+>> r0DC918 |  | 運命の絆
+   EN: Fated Bond
+>> r0DC924 |  | うんめいのきずな
+   EN: Fated Bond
+>> r0DC938 |  | 焦熱地獄
+   EN: Scorch Hell
+>> r0DC944 |  | しょうねつじごく
+   EN: Scorch Hell
+>> r0DC958 |  | 対ハチュウ人武器
+   EN: Anti-Reptilian
+>> r0DC96C |  | 対ハチュウ人ぶき
+   EN: Anti-Reptilian
+>> r0DC980 |  | 超小型核弾丸
+   EN: Mini Nuke
+>> r0DC990 |  | 鉄の爪
+   EN: Claws
+>> r0DC998 |  | てつの爪
+   EN: Claws
+>> r0DC9A4 |  | 凍結地獄
+   EN: Frozen Hell
+>> r0DC9B0 |  | とうけつじごく
+   EN: Frozen Hell
+>> r0DC9C0 |  | ドリルロック
+   EN: Drill Rock
+>> r0DC9D0 |  | ニードルプレス
+   EN: Needle Press
+>> r0DC9E0 |  | 破壊の光
+   EN: Ruin Light
+>> r0DC9EC |  | はかいの光
+   EN: Ruin Light
+>> r0DC9F8 |  | 墓世の爆弾
+   EN: Hakase Bomb
+>> r0DCA04 |  | はかせのばくだん
+   EN: Hakase Bomb
+>> r0DCA18 |  | 破滅の炎
+   EN: Doom Flame
+>> r0DCA24 |  | はめつの炎
+   EN: Doom Flame
+>> r0DCA30 |  | ブレストファイア
+   EN: Breast Fire
+>> r0DCA44 |  | ヘルファイア
+   EN: Hellfire
+>> r0DCA54 |  | 放電
+   EN: Static
+>> r0DCA5C |  | ほうでん
+   EN: Static
+>> r0DCA68 |  | ホワイト
+   EN: White
+>> r0DCA74 |  | マインドバスター
+   EN: Mind Buster
+>> r0DCA88 |  | 浄化の光
+   EN: Pure Light
+>> r0DCA94 |  | じょうかのひかり
+   EN: Pure Light
+>> r0DCAA8 |  | 滅びの雷
+   EN: Doom Bolt
+>> r0DCAB4 |  | ほろびのいかずち
+   EN: Doom Bolt
+>> r0DCAC8 |  | 魔獣の牙
+   EN: Fiend Fang
+>> r0DCAD4 |  | まじゅうの牙
+   EN: Fiend Fang
+>> r0DCAE4 |  | おっぴろげまわしげり
+   EN: Spread Kick
+>> r0DCAFC |  | まわしげり
+   EN: Spread Kick
+>> r0DCB08 |  | ムチの舞
+   EN: Whip Dance
+>> r0DCB14 |  | ムチのまい
+   EN: Whip Dance
+>> r0DCB20 |  | 乱舞
+   EN: Frenzy
+>> r0DCB28 |  | らんぶ
+   EN: Frenzy
+>> r0DCB30 |  | 大吹雪
+   EN: Flurry
+>> r0DCB38 |  | 大ふぶき
+   EN: Flurry
+>> r0DCB44 |  | 傷薬
+   EN: Salve
+>> r0DCB4C |  | きずぐすり
+   EN: Salve
+>> r0DCB58 |  | 回復薬
+   EN: Potion
+>> r0DCB60 |  | かいふくやく
+   EN: Potion
+>> r0DCB70 |  | メディカルシート
+   EN: Medical Sheet
+>> r0DCB84 |  | 気力の種
+   EN: Vigor Seed
+>> r0DCB90 |  | 気力のたね
+   EN: Vigor Seed
+>> r0DCB9C |  | 気力の果実
+   EN: Vigor Fruit
+>> r0DCBA8 |  | 気力のかじつ
+   EN: Vigor Fruit
+>> r0DCBB8 |  | 治療薬
+   EN: Remedy
+>> r0DCBC0 |  | ちりょうやく
+   EN: Remedy
+>> r0DCBD0 |  | 万能薬
+   EN: Panacea
+>> r0DCBD8 |  | ばんのうやく
+   EN: Panacea
+>> r0DCBE8 |  | 気付け薬
+   EN: Restorative
+>> r0DCBF4 |  | 気付けぐすり
+   EN: Restorative
+>> r0DCC04 |  | 煙幕
+   EN: Smoke
+>> r0DCC0C |  | えんまく
+   EN: Smoke
+>> r0DCC18 |  | 眠り薬
+   EN: Snooze
+>> r0DCC20 |  | ねむりぐすり
+   EN: Snooze
+>> r0DCC30 |  | 惚れ薬
+   EN: Philter
+>> r0DCC38 |  | ホレぐすり
+   EN: Philter
+>> r0DCC44 |  | 興奮剤
+   EN: Stim
+>> r0DCC4C |  | こうふんざい
+   EN: Stim
+>> r0DCC5C |  | 煙り玉
+   EN: Fogball
+>> r0DCC64 |  | ケムリ玉
+   EN: Fogball
+>> r0DCC70 |  | パワードリンク
+   EN: Power Drink
+>> r0DCC80 |  | タフネスドリンク
+   EN: Tough Drink
+>> r0DCC94 |  | クイックドリンク
+   EN: Quick Drink
+>> r0DCCA8 |  | ウィークポイズン
+   EN: Weak Poison
+>> r0DCCBC |  | スローポイズン
+   EN: Slow Poison
+>> r0DCCCC |  | 火炎瓶
+   EN: Molotov
+>> r0DCCD4 |  | かえんびん
+   EN: Molotov
+>> r0DCCE0 |  | ダイナマイト
+   EN: Dynamite
+>> r0DCCF0 |  | 手榴弾
+   EN: Grenade
+>> r0DCCF8 |  | しゅりゅうだん
+   EN: Grenade
+>> r0DCD08 |  | 閃光弾
+   EN: Dazzler
+>> r0DCD10 |  | せんこうだん
+   EN: Dazzler
+>> r0DCD20 |  | スモッグボトル
+   EN: Smog Bottle
+>> r0DCD30 |  | 回復の光
+   EN: Heal Light
+>> r0DCD3C |  | かいふくのひかり
+   EN: Heal Light
+>> r0DCD50 |  | 治癒の光
+   EN: Cure Light
+>> r0DCD5C |  | ちゆのひかり
+   EN: Cure Light
+>> r0DCD6C |  | キュアアロマ
+   EN: Cure Aroma
+>> r0DCD7C |  | 霊薬
+   EN: Elixir
+>> r0DCD84 |  | れいやく
+   EN: Elixir
+>> r0DCD90 |  | 逃げる
+   EN: Escape
+>> r0DCD98 |  | 交代
+   EN: Switch
+>> r0DCDA0 |  | 交替
+   EN: Switch
+>> r0DCDA8 |  | 闇の波動
+   EN: Dark Wave
+>> r0DCDB4 |  | やみのはどう
+   EN: Dark Wave
+>> r0DCDC4 |  | カウンタ－
+   EN: Counter
+>> r0DCDD0 |  | 深淵の闇
+   EN: Deep Dark
+>> r0DCDDC |  | しんえんのやみ
+   EN: Deep Dark
+>> r0DCDEC |  | 天光
+   EN: Halo
+>> r0DCDF4 |  | てんこう
+   EN: Halo
+>> r0DCE00 |  | ミケーネリング
+   EN: Mykene Ring
+>> r0DCE10 |  | 敵用パートナー
+   EN: Foe Partner
+>> r0DCE20 |  | エネルギータンク
+   EN: Energy Tank
+>> r0DCE34 |  | エネルギーパック
+   EN: Energy Pack
+>> r0DCE48 |  | バッテリータンク
+   EN: Battery Tank
+>> r0DCE5C |  | バッテリーパック
+   EN: Battery Pack
+>> r0DCE70 |  | メタルアーマー
+   EN: Metal Armor
+>> r0DCE80 |  | メタルコート
+   EN: Metal Coat
+>> r0DCE90 |  | メガスラスター
+   EN: Thruster+
+>> r0DCEA0 |  | スラスター
+   EN: Thruster
+>> r0DCEAC |  | メガコンデンサー
+   EN: Condenser+
+>> r0DCEC0 |  | コンデンサー
+   EN: Condenser
+>> r0DCED0 |  | マインドロザリー
+   EN: Mind Rosary
+>> r0DCEE4 |  | サンダーロザリー
+   EN: Volt Rosary
+>> r0DCEF8 |  | アイスロザリー
+   EN: Ice Rosary
+>> r0DCF08 |  | ファイアロザリー
+   EN: Fire Rosary
+>> r0DCF1C |  | ハンマーロザリー
+   EN: Mallet Rosary
+>> r0DCF30 |  | ソードロザリー
+   EN: Sword Rosary
+>> r0DCF40 |  | マインドガード
+   EN: Mind Guard
+>> r0DCF50 |  | サンダーガード
+   EN: Volt Guard
+>> r0DCF60 |  | アイスガード
+   EN: Ice Guard
+   ctx r0DCF70 |  | ファイアガード
+   ctx EN: Fire Guard
+   ctx r0DCF80 |  | ハンマーガード
+   ctx EN: Blunt Guard

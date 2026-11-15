@@ -138,9 +138,13 @@ alternatives) and no Avoid spelling. Name tags (speaker lines) come from `tools/
 ## Decisions from earlier batches
 - 魔王 alone = the Demon King (Grade). 魔王ダンテ = Demon Lord Dante (keeps the two apart).
 - 魔 (Susano-oh's evil energy) = "Ma" in quotes where the JP has 「魔」.
-- 家早 / 果扨 families (Iyahaya Nanyu): Nanyu Iyahaya, Sayoko Iyahaya; Doshita / Nijija Hatesa. Nanyu's tic
-  イヤハヤ なんとも stays romanised ("Iyahaya... nantomo...") because it is his name pun.
+- 家早 / 果扨 families (Iyahaya Nantomo): Nantomo Iyahaya, Sayoko Iyahaya; Doshita / Koja Hatesate (果扨 =
+  はてさて, the pun partner of イヤハヤ). Nantomo's tic イヤハヤ なんとも stays romanised ("Iyahaya... nantomo...")
+  because it is his name pun.
+- Readings from the ROM's own kana short names (wave 1 data), binding over guesses: 南友 なんとも Nantomo, 鬼谷
+  きたに Kitani (Yojiro Kitani), 虹蛇 こうじゃ Koja, 法印大子 だいこ Daiko Hoin, 大本栄惨坊 だいほんえい Eisanbo
+  Daihon, 墓世 はかせ Hakase, 無幻大権 たいげん Taigen.
 - 女蛮子 = Banji Suke ("Sukeban"; he introduces himself as 姓はスケ 名はバンジ); 蛮千代 = Banchiyo Suke.
-- 身堂竜馬 = Ryoma Shindo (matches the name tag). 鬼谷 = Onitani in dialogue (name tag), item/enemy data has Kitani.
+- 身堂竜馬 = Ryoma Shindo (matches the name tag). 鬼谷 = Kitani (the game's kana).
 - Go Nagai cameo keeps his でガス tic as ", gasu"; Chapeau-jii's ジャジャ as ", jaja".
 - ハチの巣入道 = Beehive Nyudo in dialogue (name tag); the 9-char enemy field abbreviates it.

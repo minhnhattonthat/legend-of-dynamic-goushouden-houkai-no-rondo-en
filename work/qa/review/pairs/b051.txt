@@ -1,0 +1,208 @@
+   ctx 49.98 | Miki | タレちゃんたら / また おねしょしたのよ！
+   ctx EN: Tare-chan wet the bed again!
+   ctx 49.99 | Tare-chan | だって！ 明兄ちゃんが 悪魔に / 変身する夢を見たんだもん！
+   ctx EN: But! I dreamed big bro Akira turned into a devil!
+>> 50.00 | Miki | そんなこと あるわけないでしょ！ / ね 明君！
+   EN: As if that could ever happen! Right, Akira-kun?
+>> 50.01 | Akira Fudo | そ そうだな！ / よ～し 俺も手伝うぜ 美樹！
+   EN: R-right! All right, I'll help too, Miki!
+>> 50.02 | Tare-chan | うわ～ん！
+   EN: Waaah!
+>> 50.03 | Akira Fudo | こら 待て！
+   EN: Hey, get back here!
+>> 50.04 | {s} | それじゃ あたしは明君と一緒！ /  / やっぱ 女の子同士だと / 不安だからね！
+   EN: Then I'm going with Akira-kun!  Two girls together would be too risky, after all!
+>> 50.05 | Honey Kisaragi | となると あたしは / {p}君と一緒ね / よろしく {p}君！
+   EN: So that means I'm with {p}-kun. Nice to have you, {p}-kun!
+>> 50.06 | {p} | う うん…
+   EN: Y-yeah...
+>> 50.07 | {s} | 組み合わせ / 換えた方がいいかも？ / こんな可愛い女の子と一緒に / 行かせたら… 危険だわ！
+   EN: Maybe we'd better switch the teams? If I let you go with a girl this cute... it'd be dangerous!
+>> 50.08 | {s} | ふ～んだ！ さ チーム分け完了ね！ / あたしは 明君と / {p}は ハニーと一緒に / 行動するの！
+   EN: Hmph! There, teams all set! I'm going with Akira-kun, and {p}'s going with Honey!
+>> 50.09 | {s} | それじゃ 行きましょ 明君！
+   EN: Well then, let's go, Akira-kun!
+>> 50.10 | Akira Fudo | は はい！
+   EN: Y-yes, ma'am!
+>> 50.11 | Honey | それじゃ みんな / また後でね！
+   EN: Well then, everyone, see you later!
+>> 50.12 | Honey | さて あたし達も行こっか！
+   EN: Now, shall we get going too?
+>> 50.13 | Ryo Asuka | おかしいな さっきも この道を / 通ったような気がする…
+   EN: That's odd. I feel like we came down this road a minute ago...
+>> 50.14 | Akira Fudo | おまえも そうか？
+   EN: You too?
+>> 50.15 | {p} | いったい どうなってるんだろ…
+   EN: What on earth is going on...
+>> 50.16 | Akira Fudo | …デーモンのしわざか？
+   EN: ...Is this the Demons' doing?
+>> 50.17 | Ryo Asuka | まだ解らん…
+   EN: It's too early to tell...
+>> 50.18 | {p} | うわっ！
+   EN: Whoa!
+>> 50.19 | Akira Fudo | てめぇ 何者だ？
+   EN: Who the hell are you?
+>> 50.20 | Mysterious Man | ここは 並みの者では / 近づくことさえ かなわぬところ / 迷いの森を抜け / 九龍の谷に たどりつくとは…
+   EN: No ordinary person can even approach this place. To pass through the Lost Forest and reach the Kuryu Valley...
+>> 50.21 | {p} | 九龍の谷？
+   EN: The Kuryu Valley?
+>> 50.22 | Mysterious Man | しらばっくれるな！ / 貴様ら 真田の手の者だな！？
+   EN: Don't play dumb! You're Sanada's people, aren't you!?
+>> 50.23 | {p} | ちょ ちょっと待ってよ / 誤解だよ！
+   EN: H-hold on a second! You've got it wrong!
+>> 50.24 | Akira Fudo | いいじゃねぇか / {p}よ / 迷路のような森を さんざん歩いて / むしゃくしゃしてんだ！
+   EN: Aw, who cares, {p}. I've been tramping through this maze of a forest forever and I'm fed up!
+>> 50.25 | {p} | 明君…！
+   EN: Akira-kun...!
+>> 50.26 | Mysterious Man | 威勢のいい男だな /  / 俺は九龍城城主・無幻大権が一子 / 無幻美勒！
+   EN: You've got spirit.  I am Miroku Mugen, son of Daigon Mugen, lord of Kuryu Castle!
+>> 50.27 | Miroku | 我が剣を受けてみよ！
+   EN: Taste my sword!
+>> 50.28 | {p} | うわぁ～！
+   EN: Whoaaa!
+>> 50.29 | Ninja | ぎゃ～！
+   EN: Gyaaah!
+>> 50.30 | {p} | …僕達を狙ったんじゃないの？
+   EN: ...You weren't aiming at us?
+>> 50.31 | Miroku | おまえらのその格好は目立ち過ぎる / とても忍びの服装とは思えん！
+   EN: The way you're dressed stands out way too much. No way that's a ninja's outfit!
+>> 50.32 | Ryo Asuka | あいつら まるで忍者のような / 格好を していたな…
+   EN: Those guys were dressed just like ninja...
+>> 50.33 | Miroku | 恐らく真田忍者だろう…
+   EN: Sanada ninja, most likely...
+>> 50.34 | {p} | 真田忍者…って / 時代劇じゃあるまいし…
+   EN: Sanada ninja...? This isn't some samurai drama...
+>> 50.35 | Miroku | 時代劇…？ / なんだ それは？ / そもそも おまえら / どこから来たんだ？
+   EN: Samurai drama...? What's that? Where did you people come from, anyway?
+>> 50.36 | {p} | 実は…
+   EN: Actually...
+>> 50.37 | Miroku | 妙な話だな… 大殿に相談してみた / ほうが いいかもしれん / だが 果たして… / う～ん…
+   EN: A strange tale... Maybe we'd better consult the great lord. But whether he'll... Hmm...
+>> 50.38 | {p} | どうしたの 美勒さん？
+   EN: What's wrong, Miroku-san?
+>> 50.39 | Big Man | でぇへへ… / 美勒 なにやってんだぁ～？
+   EN: Duh-heh-heh... Miroku, whatcha doin'?
+>> 50.40 | Miroku | こいつは / 九龍一族・泣きのグズ蟲だ！ / グズ蟲！ どうやら真田忍者が / 忍び込みはじめているらしい / みんなに注意をうながしてくれ！
+   EN: This is Guzumushi the Crybaby of the Kuryu clan! Guzumushi! It seems Sanada ninja have started sneaking in. Warn everyone!
+>> 50.41 | Guzumushi | い～よ～ それより～ / 城に戻ってくれとさ～ / 大殿が～ 目を～ 覚ましたんだ～
+   EN: Okaaay... But first, they want you back at the castle... The great lord has... woken up...
+>> 50.42 | Miroku | おやじ様が？ / わかった すぐ城に戻ろう / おぬし達も来るがいい
+   EN: My father has? Understood, I'll return to the castle at once. You lot come too.
+>> 50.43 | Akira Fudo | 美勒って野郎 / なかなかやるぜ…
+   EN: That Miroku guy's not bad...
+>> 50.44 | Ryo Asuka | 戦国時代末期にタイムスリップした / …って感じだな / 下手にうろつくのはかえって危険だ / ついて行ってみよう
+   EN: It's like we time-slipped back to the end of the Warring States era. Wandering around aimlessly would be more dangerous. Let's go with him.
+>> 50.45 | ??? | …時を越えた / …壁は 徐々に低くなる…
+   EN: ...Crossed through time... The walls grow lower, little by little...
+>> 50.46 | Daigon | ずび… ずば… / よう来たな 歓迎するぞ / {p}に… ずび… / 不動明に… ずば… 飛鳥了！ / そこに… ずび… 座れ
+   EN: *Snrk*... *snff*... Welcome, welcome. {p}... *snrk*... Akira Fudo... *snff*... Ryo Asuka! Sit... *snrk*... down.
+>> 50.47 | Miroku | 大殿の命令ではあるが 俺は まだ / おまえ達を信じたわけではない
+   EN: It's the great lord's order, but I don't trust you yet.
+>> 50.48 | Akira Fudo | それは俺達も同じだぜ？
+   EN: Same goes for us, y'know.
+>> 50.49 | Miroku | フフッ おまえ達の力 / 見せて貰おうか
+   EN: Heh. Let's see what you can do.
+>> 50.50 | Ryo Asuka | どうしろと言うのだ？
+   EN: And what are we supposed to do?
+>> 50.51 | {p} | うわぁ！
+   EN: Whoa!
+>> 50.52 | Akira Fudo | なんだ この糸は！？
+   EN: What's this thread!?
+>> 50.53 | {p} | …！？
+   EN: ...!?
+>> 50.54 | Akira Fudo | 身体が 動かない！
+   EN: I can't move!
+>> 50.55 | Akira Fudo | うわ！
+   EN: Whoa!
+>> 50.56 | {p} | 美勒さん！
+   EN: Miroku-san!
+>> 50.57 | Akira Fudo | 美勒 俺にもやらせろ！ /  / 気色悪い糸で縛られて / 黙っていられるか！
+   EN: Miroku, let me have a go too!  Tied up in this creepy thread, like I'm gonna just sit still!
+>> 50.58 | Akira Fudo | うるせぇ / 行くぞ {p}！
+   EN: Shut up! Let's go, {p}!
+>> 50.59 | Miroku | これまでの無礼 許してくれ
+   EN: Forgive my rudeness till now.
+>> 50.60 | Akira Fudo | わかりゃいいんだよ！
+   EN: As long as you get it!
+>> 50.61 | Miroku | さすが大殿の目に狂いは無かった /  / 俺は おまえ達に / この旅の命運をゆだねよう
+   EN: The great lord's eye was true after all.  I'll entrust the fate of this journey to you.
+>> 50.62 | Grade | …時を越えた / …壁は 徐々に低くなる…
+   EN: ...Crossed through time... The walls grow lower, little by little...
+>> 50.63 | {p} | 凄い立派な塀だね
+   EN: What an impressive wall.
+>> 50.64 | Ryu Takuma | 関東に こんなデカい建物 / あったかな？ / 入り口を見つけて入ってみようぜ！
+   EN: Was there ever a building this big in Kanto? Let's find the entrance and go in!
+>> 50.65 | Akira Fudo | 見渡す限り 砂だらけだな
+   EN: Nothing but sand as far as the eye can see.
+>> 50.66 | Ryo Asuka | この砂漠… / 建物の敷地よりも広くないか？
+   EN: Isn't this desert bigger than the building's grounds?
+>> 50.67 | {p} | ………
+   EN: .........
+>> 50.68 | {p} | 耳の中まで砂だらけ…だ
+   EN: I've got sand even in my ears...
+>> 50.69 | {p} | アフリカのサバンナみたいだね… / でもなんか ここ 広過ぎない？
+   EN: It's like the African savanna in here... But isn't this place way too big?
+>> 50.70 | {p} | 大自然を満喫しちゃった！
+   EN: I really soaked up the great outdoors!
+>> 50.71 | Ryu Takuma | ぶるぶる… さ 寒いよ！
+   EN: Brrr... I-it's cold!
+>> 50.72 | {p} | ぶるぶる… なんて寒いんだ！ /  / でも…どうしてかな？ この氷原 / 建物の敷地より 広いみたい…
+   EN: Brrr... It's so cold!  But... how come? This ice field seems bigger than the building's grounds...
+>> 50.73 | Akira Fudo | しっ！ / 何か聞こえる！ / ケダモノの唸り声のようだ… / だんだん 大きくなるぞ！
+   EN: Shh! I hear something! Like a beast growling... It's getting louder!
+>> 50.74 | Growl | グルルル… グルルルル…！
+   EN: Grrrr... Grrrrrr...!
+>> 50.75 | {p} | 逃げたほうが良くない？
+   EN: Shouldn't we run?
+>> 50.76 | Growl | やっと来たかぁ～！
+   EN: You finally showed uuup!
+>> 50.77 | {p} | うわっ！
+   EN: Whoa!
+>> 50.78 | {p} | 野生の生活してるみたい！
+   EN: It's like you're living in the wild!
+>> 50.79 | Akira Fudo | ところで怒良野って？
+   EN: By the way, who's Dorano?
+>> 50.80 | Akira Fudo | …！？ / もしかして 吸血鬼か？
+   EN: ...!? You mean a vampire?
+>> 50.81 | Akira Fudo | 吸血鬼と聞いて デーモンかと / 思ったが 違うようだな / むしろケダマンのほうが / デーモンに近いか？
+   EN: When I heard "vampire" I thought Demon, but I guess not. If anything, Kedaman's closer to a Demon, huh?
+>> 50.82 | {p} | でも デーモンとは / ま～ったく違うみたいだよ？
+   EN: But he seems totally different from a Demon.
+>> 50.83 | Akira Fudo | そうだな…
+   EN: Yeah...
+>> 50.84 | Akira Fudo | おまえ 関東地獄地震のことを / 知らないのか？
+   EN: You don't know about the Kanto Hellquake?
+>> 50.85 | Dr. Saotome | …黒い月が 世界を連結する力を / 持っていることは / これで 疑いようがないな…
+   EN: ...Now there's no doubt that the black moon has the power to link worlds...
+>> 50.86 | Dr. Saotome | 黒い月が出たら 戸来村は消え / 倉庫のある空き地になっていた…
+   EN: When the black moon appeared, Herai Village vanished and became a vacant lot with a warehouse...
+>> 50.87 | Dr. Saotome | その通りだ 美剣君
+   EN: Exactly, Mitsurugi-kun.
+>> 50.88 | Dr. Saotome | 雪代さんが 消えたのは / 黒い月が出た後だから / その可能性は 無いと思う
+   EN: Yukishiro-san vanished after the black moon appeared, so I don't think that's possible.
+>> 50.89 | Dr. Saotome | 瓜生コンツェルンの瓜生麗かね？
+   EN: Rei Uryu, of the Uryu Conglomerate?
+>> 50.90 | Dr. Saotome | う～む… /  / 謎の人物・瓜生麗は 科学都市の / 出資者のひとりでもあるのだ！
+   EN: Hmmm...  The mysterious Rei Uryu is also one of Science City's investors!
+>> 50.91 | Dr. Saotome | 噂では 瓜生麗は 密かに / 来留間博士にも 資金援助を / しているらしい
+   EN: Rumor has it Rei Uryu is secretly funding Dr. Kuruma as well.
+>> 50.92 | Dr. Saotome | ふたりとも今の世界を認めていない / という共通点がある
+   EN: The two have one thing in common: neither accepts the world as it is.
+>> 50.93 | Dr. Saotome | 来留間博士は / 人類の力を認めていない / 異なる生物同士を合体させ / それを進化と呼んでいる！
+   EN: Dr. Kuruma doesn't recognize the strength of humankind. He fuses different creatures together and calls it evolution!
+>> 50.94 | Dr. Saotome | そのとおりだ！ /  / これまで 君が出逢った仲間達 / すべて異なる世界の住人だ！ / たとえ それぞれ目的は違えど / 君達は素晴らしい仲間だ！ / 世界は / みんなで変えていくべきなのだ！
+   EN: Exactly right!  Every friend you've met so far comes from a different world! Even if each of you has a different goal, you're wonderful friends! The world should be changed by all of us together!
+>> 50.95 | Dr. Saotome | 子郎君？
+   EN: Jiro-kun?
+>> 50.96 | Dr. Saotome | 子郎君 決意を固めたようだね /  / ところで美剣君！ / 瓜生麗の居場所に 心当たりは？
+   EN: It seems you've made up your mind, Jiro-kun.  Now then, Mitsurugi-kun! Any idea where Rei Uryu might be?
+>> 50.97 | Dr. Saotome | 実は 科学都市には / 立ち入り禁止エリアがある / 出資者用の居住区としてね
+   EN: The truth is, Science City has an off-limits area, a residential district for investors.
+>> 50.98 | Dr. Saotome | 来留間博士と共に / 隠れていても おかしくはない
+   EN: It wouldn't be strange if he were hiding there with Dr. Kuruma.
+>> 50.99 | Dr. Saotome | その意気だ 諸君！！
+   EN: That's the spirit, everyone!!
+   ctx 51.00 | Dr. Saotome | あ うん / え～と だいぶいいみたいだよ / 心配しなくても大丈夫だよ
+   ctx EN: Ah, yes. Well, um, she seems much better. No need to worry.
+   ctx 51.01 | Dr. Saotome | え！？ / いや その… / お～い！ 誰か あの書類 / どうなってるか知ってるかね！？ / すまん {p}君！ / 私は 今 忙しいのだ！
+   ctx EN: What!? No, well... Hey! Does anyone know what happened to those papers!? Sorry, {p}-kun! I'm busy right now!

@@ -1,0 +1,184 @@
+   ctx 53.61 | Princess Yukiko | みんな １階の和室にいるわよ / {p}を待ってるの / 早く 行ってあげてね / きっと いいことがあるわよ！
+   ctx EN: Everyone's in the Japanese-style room on the first floor. They're waiting for you, {p}. Hurry and go see them. Something good's sure to happen!
+   ctx 53.62 | Professor Yumi | 世界の命運は / きみたちにかかっている / 頼んだぞ みんな！
+   ctx EN: The fate of the world rests on you. I'm counting on you, everyone!
+>> B00.00 |  | 豪翔伝 /  /  / この物語の主人公 / 不可解なメールを / 受け取った事により / 物語が始まる
+   EN: Goushouden   Our hero. It all starts when he gets a baffling e-mail.
+>> B00.01 |  | 豪翔伝 /  /  / 明るく元気な女の子 / 夜の公園で /  / 事件に巻き込まれる
+   EN: Goushouden   A bubbly girl. A park at night...  Trouble strikes!
+>> B00.02 |  | 原作者 /  /  / またの名を / 炎天家冷奴 / 多くのキャラ達の / 創造主である
+   EN: Original Creator   AKA Entenka Hiyayakko. Creator of many characters.
+>> B00.03 |  | 原作者 /  /  / ゲッターロボや / 虚無戦記を代表作 / とするマンガ家
+   EN: Original Creator   A manga artist best known for Getter Robo and Kyomu Senki.
+>> B00.04 |  | キューティーハニー /  /  / 如月博士に造られた / 美少女アンドロイド / 空中元素固定装置を / 体内に持っている
+   EN: Cutie Honey   A pretty android by Dr. Kisaragi. Built-in Airborne Element Fixer.
+>> B00.05 |  | キューティーハニー /  /  / 如月ハニーが / 変身した　愛の戦士 / 奇跡の七変化のうち / 戦闘に適した姿
+   EN: Cutie Honey   Honey Kisaragi as love's warrior. Combat form of her 7 changes.
+>> B00.06 |  | キューティーハニー /  /  / 如月ハニーの / 一番の親友 / 聖チャペル学園の / 生徒
+   EN: Cutie Honey   Honey Kisaragi's best friend. At St. Chapel Academy.
+>> B00.07 |  | キューティーハニー /  /  / 新聞記者 / ハニーの秘密を知り / 以後　如月ハニーを / 側面より支える
+   EN: Cutie Honey   A reporter. Knows Honey's secret; backs her up unseen.
+>> B00.08 |  | キューティーハニー /  /  / 早見青児の父親 / 自称　武芸の達人 / 悪馬尻駄ヱ門と / 同一人物！？
+   EN: Cutie Honey   Seiji's father. Self-styled ace. Is he Daemon Abashiri!?
+>> B00.09 |  | キューティーハニー /  /  / パンサークローの / 実行部隊長 / サディスティックな / 性格の豹の化身
+   EN: Cutie Honey   Panther Claw's field commander. A sadistic were-panther.
+>> B00.10 |  | デビルマン /  /  / 飛鳥了の企みにより / 勇者アモンと合体 / 壮大な物語の / 主人公となる
+   EN: Devilman   Ryo Asuka's plot fused him to brave Amon. Hero of an epic.
+>> B00.11 |  | デビルマン /  /  / 魔族の勇者アモンに / 明の意思が宿った姿 / 大魔神サタンに / 決死の戦いを挑む
+   EN: Devilman   Amon the brave, with Akira's will. Fights Satan to the bitter end.
+>> B00.12 |  | デビルマン /  /  / 不動明を　アモンと / 合体させた張本人 / その真の正体は / 大魔神サタンである
+   EN: Devilman   He fused Akira Fudo with Amon. His true self: Satan himself.
+>> B00.13 |  | デビルマン /  /  / 不動明が居候する / 牧村家の長女 / 明の永遠の思い人
+   EN: Devilman   Eldest girl of Akira's hosts. His eternal love.
+>> B00.14 |  | デビルマン /  /  / 牧村美樹の弟 / 姉と同様に / 不動明を慕う
+   EN: Devilman   Miki Makimura's little brother. Likes Akira too.
+>> B00.15 |  | デビルマン /  /  / 不動明の子分 / 牧村家の留守を / 明の命令で守る / 木刀の名手
+   EN: Devilman   Akira Fudo's lackey. Guards the Makimuras. Bokken expert.
+>> B00.16 |  | デビルマン /  /  / 鳥型の悪魔 / かつて愛した / アモンの体を奪い / 取った明を憎む
+   EN: Devilman   A bird demon. She hates Akira for taking Amon, whom she loved.
+>> B00.17 |  | デビルマン /  /  / シレーヌを愛する / サイ型の悪魔 / 自らの命をも棄てて / シレーヌと合体
+   EN: Devilman   Rhino demon in love with Sirene. Gave his life to fuse with Sirene.
+>> B00.18 |  | バイオレンス / 　　　ジャック /  / 関東地獄地震の / 生き残り / 孤児たちを集め / 一大勢力になる
+   EN: Violence       Jack  Survived the Kanto Hellquake. Rallied orphans into a big force.
+>> B00.19 |  | バイオレンス / 　　　ジャック /  / 全国で罪を重ねた / テロリスト / 関東への逃避を / 新たな人生とする
+   EN: Violence       Jack  Wanted all over. A terrorist. Fleeing to Kanto is his new life.
+>> B00.20 |  | バイオレンス / 　　　ジャック /  / 善悪を超えた独特な / 死生観を持つ巨人 / 関東に生きる人々に / 希望と絶望を与える
+   EN: Violence       Jack  A giant beyond good and evil. For Kanto, hope and despair.
+>> B00.21 |  | バイオレンス / 　　　ジャック /  / 早乙女門土を / パートナーとする / 高い戦闘力を持つ / 美しき殺人者
+   EN: Violence       Jack  Mondo Saotome is her partner. A deadly fighter, a lovely killer.
+>> B00.22 |  | バイオレンス / 　　　ジャック /  / スラムキングの愛人 / 冷たいまなざしに / 秘密を隠す
+   EN: Violence       Jack  Slum King's lady. Her cold eyes hide a secret.
+>> B00.23 |  | バイオレンス / 　　　ジャック /  / 全身を鎧でおおった / 関東の支配者 / 斬馬刀を前にして / 生き残る者はない
+   EN: Violence       Jack  Armored all over, ruler of Kanto. None survive his zanbato.
+>> B00.24 |  | ハレンチ学園 /  /  / ハレンチ学園の / ヒロイン / 忍者の子孫 / 脱がされると弱い
+   EN: Harenchi Gakuen   The school's heroine. Ninja by blood. Weak if stripped.
+>> B00.25 |  | ハレンチ学園 /  /  / ハレンチ学園の / ヒーロー / ケンカが特技 / 十兵衛が大好き
+   EN: Harenchi Gakuen   The school's hero. Good at fighting. Loves Jubei.
+>> B00.26 |  | ハレンチ学園 /  /  / 山岸を親分と慕い / いつも行動を / 共にしている / アダ名はイキドマリ
+   EN: Harenchi Gakuen   Calls Yamagishi boss and sticks with him always. AKA Ikidomari.
+>> B00.27 |  | ハレンチ学園 /  /  / ハレンチ学園教師 / 本名　吉永さゆり / スケベで　変態 / 最悪の性格
+   EN: Harenchi Gakuen   Teacher. Real name Sayuri Yoshinaga. Perv. Utterly vile.
+>> B00.28 |  | ハレンチ学園 /  /  / ハレンチ学園教師 / 本名　荒木又五郎 / 武芸の達人 / ふんどしが似合う
+   EN: Harenchi Gakuen   Teacher, born Matagoro Araki. Martial arts ace. Fundoshi fits!
+>> B00.29 |  | あばしり一家 /  /  / 極悪非道に敵なし / あばしり一家　長女 / 日本刀を使いこなし / 強さは天下一品
+   EN: Abashiri Family   No equal in evil. Eldest girl. Katana master, peerless might.
+>> B00.30 |  | あばしり一家 /  /  / あばしり一家　長男 / エッチなアイデアに / 天才的な才能あり / 女の子に特に強し
+   EN: Abashiri Family   Eldest son. A genius for dirty ideas. Deadly with girls.
+>> B00.31 |  | あばしり一家 /  /  / あばしり一家　次男 / 脳みそ以外は / すべて機械 / 体内に武器を持つ
+   EN: Abashiri Family   Second son. All machine but his brain. Has inner weapons.
+>> B00.32 |  | あばしり一家 /  /  / あばしり一家　三男 / 小学生ながら爆弾の / スペシャリスト / 性格は熱血
+   EN: Abashiri Family   Third son. A grade-school bomb expert. Hot-blooded.
+>> B00.33 |  | あばしり一家 /  /  / あばしり一家　当主 / 超能力者 / 仕込み杖で逆らう者 / すべて切りはらう
+   EN: Abashiri Family   Family head. An esper. His cane sword slays all rebels.
+>> B00.34 |  | あばしり一家 /  /  / 殺し屋の学校 / パラダイス学園校長 / 超能力者で / 殺人に人生を捧ぐ
+   EN: Abashiri Family   Heads the killer school, Paradise Academy. Esper who lives to kill.
+>> B00.35 |  | あばしり一家 /  /  / 小学６年生ながら / 身長３ｍを超す / 優秀な頭脳を持つ / 極悪人ハンター
+   EN: Abashiri Family   A sixth grader over 3 m tall. A brilliant mind, he hunts villains.
+>> B00.36 |  | ドロロンえん魔くん /  /  / 閻魔大王のおい / 炎の妖力をはじめ / さまざまな術を使う / 妖怪パトロール隊長
+   EN: Enma-kun   Great King Enma is his uncle. Leads the Yokai Patrol. Uses fire.
+>> B00.37 |  | ドロロンえん魔くん /  /  / 雪女一族の姫 / えん魔くんの強力な / パートナー / 氷系の妖術を使う
+   EN: Enma-kun   Snow Woman clan princess. Enma-kun's ally. Uses ice magic.
+>> B00.38 |  | ドロロンえん魔くん /  /  / カッパ一族 / 柔らかな身体を / 生かすことが特徴 / 性格はエッチ
+   EN: Enma-kun   A Kappa. His soft, bendy body is his edge. A real perv.
+>> B00.39 |  | ドロロンえん魔くん /  /  / 地獄界の裁きを司る / 支配者 / 人間界の妖怪退治に / えん魔くんを送る
+   EN: Enma-kun   Ruler and judge of Hell. Sends Enma-kun after yokai on Earth.
+>> B00.40 |  | 手天童子 /  /  / 謎の鬼獄界に突然 / 生まれた青年 / 超能力者であり / 降魔の利剣を使う
+   EN: Shutendoji   Born suddenly in Kigoku World. An esper with the Goma Sword.
+>> B00.41 |  | 手天童子 /  /  / 手天童子の守護者 / 強力なパワーと / 再生能力を持つ / テレパシーで話す
+   EN: Shutendoji   Shutendoji's guardian. Mighty, self-healing. Uses telepathy.
+>> B00.42 |  | 手天童子 /  /  / 手天童子の守護者 / より人間に近い姿を / した鬼 / 絶対的な忠義心
+   EN: Shutendoji   Shutendoji's guardian. A more humanlike oni. Fiercely loyal.
+>> B00.43 |  | 手天童子 /  /  / 手天童子郎を愛し / 次元を超えてまで / 子郎を追いかけ / 不思議な体験をする
+   EN: Shutendoji   She loves Jiro. Chasing him over dimensions, she meets wonders.
+>> B00.44 |  | 手天童子 /  /  / 争魔衆の一人 / アイアンカイザー / の父親でもある / 岩をも砕く怪力
+   EN: Shutendoji   A Soma-shu oni. Iron Kaiser's father. Crushes rocks.
+>> B00.45 |  | 手天童子 /  /  / 手天童子を倒すこと / を目的とする / バリア　念動力など / 超能力を操る
+   EN: Shutendoji   Out to destroy Shutendoji. Psi barriers, telekinesis, etc.
+>> B00.46 |  | 手天童子 /  /  / 巨大な鬼 / 獲物を捕らえるまで / 執ように追跡する / 再生能力を持つ
+   EN: Shutendoji   A giant oni. Stalks its prey relentlessly. Can regenerate.
+>> B00.47 |  | マジンガーＺ /  /  / マジンガーＺの / パイロット / 熱血の性格が色濃い / 正義の男
+   EN: Mazinger Z   The pilot of Mazinger Z. Hot-blooded, a just man.
+>> B00.48 |  | マジンガーＺ /  /  / 超合金Ｚで造られた / スーパーロボット / 多くの超性能を / 体内に秘める
+   EN: Mazinger Z   A super robot of Super Alloy Z. Hides many super powers.
+>> B00.49 |  | マジンガーＺ /  /  / マジンガーＺを / サポートする / 女性型ロボット / ミサイル標準装備
+   EN: Mazinger Z   Mazinger Z's support robot, female in form. Missiles built in.
+>> B00.50 |  | マジンガーＺ /  /  / マジンガーＺ達と / 共に戦う / クズ鉄から作られた / オンボロロボット
+   EN: Mazinger Z   Fights beside Mazinger Z. Made of scrap, a rickety robot.
+>> B00.51 |  | マジンガーＺ /  /  / アフロダイＡを / 操縦する / 兜甲児の永遠の / パートナー
+   EN: Mazinger Z   The pilot of Aphrodite A. Koji Kabuto's eternal partner.
+>> B00.52 |  | マジンガーＺ /  /  / ボスボロットを / 操縦する / 乱暴者だが正義感も / あわせ持つ
+   EN: Mazinger Z   The pilot of Boss Borot. A brute, but has a just streak.
+>> B00.53 |  | マジンガーＺ /  /  / ボスの子分 / マジンガーシリーズ / を通して登場 / ムチャとコンビ
+   EN: Mazinger Z   Boss's lackey. In all Mazinger series. Mucha's buddy.
+>> B00.54 |  | マジンガーＺ /  /  / ボスの子分 / マジンガーシリーズ / を通して登場 / ヌケとのコンビ
+   EN: Mazinger Z   Boss's lackey. In all Mazinger series. Nuke's buddy.
+>> B00.55 |  | マジンガーＺ /  /  / ドクター・ヘル配下 / あしゅら軍団幹部 / 左半身が男 / 右半身が女
+   EN: Mazinger Z   Dr. Hell's Ashura Corps leader. Left side male, right half female
+>> B00.56 |  | マジンガーＺ /  /  / あしゅら男爵の体型 / に似せ造られた / 機械獣 / 胸にロケット砲
+   EN: Mazinger Z   A Mechanical Beast built like Baron Ashura. Rocket in chest.
+>> B00.57 |  | マジンガーＺ /  /  / 世界征服の / 野望を抱き / 機械獣軍団を組織 / マジンガーと対決
+   EN: Mazinger Z   World conquest! With Mechanical Beasts, he's Mazinger's foe.
+>> B00.58 |  | ゲッターロボ /  /  / ゲットマシン三機が / 合体したロボット / イーグル号が中心の / 基本的な形態
+   EN: Getter Robo   Three Getter Machines united. The basic form, led by the Eagle.
+>> B00.59 |  | ゲッターロボ /  /  / ジャガー号中心の / 地中移動に適した / 形態 / ドリルを固定装備
+   EN: Getter Robo   Led by Jaguar. Built to go underground. Has a fixed drill.
+>> B00.60 |  | ゲッターロボ /  /  / ベアー号中心の / パワー中心で対応 / する場合の形態 / キャタピラ移動
+   EN: Getter Robo   Led by the Bear. For when brute power is needed. Rolls on treads.
+>> B00.61 |  | ゲッターロボ /  /  / ゲッター１の / パイロット / 空手を武器に / 攻撃力は高い
+   EN: Getter Robo   Pilot of Getter-1. Uses karate. Hits hard.
+>> B00.62 |  | ゲッターロボ /  /  / ゲッター２の / パイロット / 明晰な頭脳の持主 / ゲッター計画の要
+   EN: Getter Robo   Pilot of Getter-2. Brilliant mind. Key to Getter.
+>> B00.63 |  | ゲッターロボ /  /  / ゲッター３の / パイロット / 運動神経は劣るが / 努力家
+   EN: Getter Robo   Pilot of Getter-3. Not athletic, but hardworking.
+>> B00.64 |  | ゲッターロボ /  /  / ゲッター線を発見し / ゲッターロボ開発の / 基礎をつくる / 優秀な科学者
+   EN: Getter Robo   Discovered Getter Rays and began Getter Robo. A genius.
+>> B00.65 |  | ゲッターロボ /  /  / ハチュウ人類の / 支配者 / 地上征服のため / 人類抹殺を企てる
+   EN: Getter Robo   Ruler of the Reptilians. To seize Earth, he'd kill mankind.
+>> B00.66 |  | 魔獣戦線 /  /  / 父親の実験の犠牲者 / 能力吸収の力を持ち / 身体のなかに三匹の / 野獣が生きる
+   EN: Maju Sensen   Father's test victim. Absorbs powers. Three beasts within.
+>> B00.67 |  | 魔獣戦線 /  /  / 強い予知能力を持つ / 予知一族の少女 / 慎一のパートナー
+   EN: Maju Sensen   Strong precog. A Precog Clan girl. Shinichi's ally.
+>> B00.68 |  | 魔獣戦線 /  /  / 予知一族 / 予知能力から / 相手の行動を読み / 俊敏な動きをする
+   EN: Maju Sensen   Precog Clan. Foresees foes' moves, and is swift as can be.
+>> B00.69 |  | 魔獣戦線 /  /  / 慎一が追う十三人の / 学者の一人 / 自らの体内に三十人 / の息子を生かす
+   EN: Maju Sensen   One of the 13 scholars Shinichi hunts. 30 sons live in his body.
+>> B00.70 |  | 魔獣戦線 /  /  / 新人類創造を計る / 狂った科学者 / 実験のために息子と / 妻を犠牲にする
+   EN: Maju Sensen   Out to make a new humanity. A mad scientist, sacrificed family.
+>> B00.71 |  | 凄ノ王 /  /  / 人間の善悪を / 超えた存在としての / 破壊神　凄ノ王に / 変身する
+   EN: Susano-oh   Past good and evil, he turns into Susano-oh, god of ruin.
+>> B00.72 |  | 凄ノ王 /  /  / 凄ノ王を覚醒させる / いけにえの役割とし / 瓜生麗により / 操られる
+   EN: Susano-oh   The sacrifice to awaken Susano-oh, and Rei Uryu's pawn.
+>> B00.73 |  | 凄ノ王 /  /  / 美剣一族 / 超能力を駆使し / 邪悪な精神に / 立ち向かう
+   EN: Susano-oh   Of the Mitsurugi. Psychic powers fight evil minds.
+>> B00.74 |  | 凄ノ王 /  /  / ボクシング部主将 / 朱紗のライバル / 素手の攻撃力は / 極めて高い
+   EN: Susano-oh   Boxing captain. Shusha's rival. His bare fists hit very hard.
+>> B00.75 |  | 凄ノ王 /  /  / タイムリープにより / 戦国時代から / 連れてこられた侍 / 超殺人剣の使い手
+   EN: Susano-oh   Brought by time leap from the Sengoku era. A lethal samurai.
+>> B00.76 |  | 凄ノ王 /  /  / 超能力者 / 人類を滅ぼす道具 / として凄ノ王の覚醒 / を企てる
+   EN: Susano-oh   An esper. Plots to wake Susano-oh to wipe out man.
+>> B00.77 |  | 手天童子 /  /  / ２２世紀最強の / サイボーグ戦士 / 父親の仇　手天童子 / 打倒を宿命とする
+   EN: Shutendoji   Top cyborg of the 2100s. Fated to slay his father's foe.
+>> B00.78 |  | 虚無戦記 /  /  / 九龍一族 / 真田衆と敵対関係 / 空間を切り裂く / 虚空斬波が得意技
+   EN: Kyomu Senki   Kuryu clan. Foe of Sanada. Kokuu Zanpa cleaves space.
+>> B00.79 |  | 虚無戦記 /  /  / 九龍一族 / 炎術を駆使 / 炎を思い通りに / 操ることができる
+   EN: Kyomu Senki   Kuryu clan. Master of fire. Bends flames to his will.
+>> B00.80 |  | 虚無戦記 /  /  / 九龍一族 / 影を自由に操る / 身体の硬さを / 自在に調節する
+   EN: Kyomu Senki   Kuryu clan. Shadow master. Can harden or soften his body.
+>> B00.81 |  | おいら女蛮 /  /  / 男ながら女尊学園に / 女の子として転校 / ケンカが強いが / 母には極めて弱い
+   EN: Oira Sukeban   A boy, he joined Joson Academy as a girl. Tough, but fears Mom.
+>> B00.82 |  | おいら女蛮 /  /  / 女蛮子に / 好意を持つ女の子 / 関東ヤクザ / 男組の組長の娘
+   EN: Oira Sukeban   A girl sweet on Banji Suke. A Kanto yakuza boss's child.
+>> B00.83 |  | おいら女蛮 /  /  / 女蛮子の母親 / ケンカにおいては / 右に出る者はない
+   EN: Oira Sukeban   Banji Suke's mother. Nobody outfights her.
+>> B00.84 |  | キッカイくん /  /  / 科学力を駆使して / イタズラを働く / ブラックな性格は / 作品を象徴
+   EN: Kikkai-kun   Pulls pranks with science. His dark streak is the series' soul.
+>> B00.85 |  | キッカイくん /  /  / キッカイの / おじいちゃん / よく　いじめられる / ケナゲな人
+   EN: Kikkai-kun   Kikkai's grandpa. Often bullied, but ever plucky.
+>> B00.86 |  | キッカイくん /  /  / キッカイ一家の敵 / 科学力で対抗するが / 反対に徹底的に / 打ちのめされる
+   EN: Kikkai-kun   The Kikkais' foe. Fights back with science, only to get crushed.
+>> B00.87 |  | キッカイくん /  /  / ドクター・ポチの / 子分だが / まったく主人を / 尊敬する気がない
+   EN: Kikkai-kun   Dr. Pochi's lackey, yet has no respect for his master at all.
+   ctx B00.88 |  | イヤハヤ南友 /  /  / 記憶を無くして / 家早家に拾われる / 時折　神がかり的な / 力を見せる謎の少年
+   ctx EN: Iyahaya   A mystery boy, amnesiac, taken in by Iyahayas. Godlike at times.
+   ctx B00.89 |  | イヤハヤ南友 /  /  / 家早家の娘 / 南友のパートナー / 金持ちとしての / 冷たい一面も持つ
+   ctx EN: Iyahaya   The Iyahayas' girl. Partner to Nantomo. Rich, cold at times.

@@ -1,0 +1,4 @@
+IMPORTANT | 36.64 | "わたち うれちいわ～" means "I'm so happy!" in exaggerated baby talk. | Plain "I'm so happy" drops Higegodzilla's conspicuous lisp, preserved elsewhere in this scene. | Oh my, I'm so vewy happy!
+IMPORTANT | 36.66 | "わたち / 里帰り出来てうれちいのよ～ / おかあちゃま～！" expresses delight at going home in baby talk. | The translation loses the childish speech that carries the joke. | I'm so vewy happy I get to go home! Mommy! Your Sayuri is coming home now!
+MINOR | 36.19 | People falling under control herald a calamity. | "People starting to be controlled" reads awkwardly. | People falling under his control is an omen of disaster. The Slum King understands that too. So he ordered me to search... for someone who can avert the worst.
+ASSESSMENT | b037 | Needs fixes | Meaning is generally accurate, but two Higegodzilla entries lose his distinctive baby talk.

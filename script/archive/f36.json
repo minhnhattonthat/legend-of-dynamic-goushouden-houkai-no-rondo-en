@@ -645,7 +645,7 @@
    9123
   ],
   "jp": "ヒゲゴジラ\nま～ わたち うれちいわ～！",
-  "en": "Higegodzilla\nOh my, I'm so happy!",
+  "en": "Higegodzilla\nOh my, I'm so vewy happy!",
   "status": "done",
   "notes": ""
  },
@@ -665,7 +665,7 @@
    9125
   ],
   "jp": "ヒゲゴジラ\nわたち\n里帰り出来てうれちいのよ～\nおかあちゃま～！\n\nあなたのさゆりが\n今 帰るわよ～！",
-  "en": "Higegodzilla\nI'm so happy I get to go home! Mama!\n\nYour Sayuri is coming home now!",
+  "en": "Higegodzilla\nI'm so vewy happy I get to go home!\nMommy!\n\nYour Sayuri is coming home now!",
   "status": "done",
   "notes": ""
  },
@@ -735,7 +735,7 @@
    9208
   ],
   "jp": "鬼谷\n外が静かになったと思ったら…\n手天童子と一緒にいた者だな？\n鬼仏衆を倒してくれたのか",
-  "en": "Onitani\nI thought it had gone quiet outside...\nYou're the one who was with the\nShutendoji, aren't you? You defeated\nthe Kibutsu Clan for me.",
+  "en": "Kitani\nI thought it had gone quiet outside...\nYou're the one who was with the\nShutendoji, aren't you? You defeated\nthe Kibutsu Clan for me.",
   "status": "done",
   "notes": ""
  },
@@ -745,7 +745,7 @@
    9209
   ],
   "jp": "{p}\nあなたは 鬼谷さん？\n寺の中に いたの？",
-  "en": "{p}\nAre you Onitani-san? You were inside\nthe temple?",
+  "en": "{p}\nAre you Kitani-san? You were inside\nthe temple?",
   "status": "done",
   "notes": ""
  },
@@ -755,7 +755,7 @@
    9210
   ],
   "jp": "鬼谷\nいかに俺でも大勢の鬼仏衆相手に\nひとりでは どうにもならん\n寺の中で自刃し\n火をかけるつもりだったのだ\nでは…",
-  "en": "Onitani\nEven I can't do anything alone against\nso many of the Kibutsu Clan. I meant\nto take my own life inside the temple\nand set it ablaze. Well then...",
+  "en": "Kitani\nEven I can't do anything alone against\nso many of the Kibutsu Clan. I meant\nto take my own life inside the temple\nand set it ablaze. Well then...",
   "status": "done",
   "notes": ""
  },
@@ -775,7 +775,7 @@
    9216
   ],
   "jp": "鬼谷\n外が静かになったと思ったら…\n手天童子か…\n貴様 何しに寺を訪れたのだ？",
-  "en": "Onitani\nI thought it had gone quiet outside...\nThe Shutendoji, is it... What brings\nyou to the temple?",
+  "en": "Kitani\nI thought it had gone quiet outside...\nThe Shutendoji, is it... What brings\nyou to the temple?",
   "status": "done",
   "notes": ""
  },
@@ -795,7 +795,7 @@
    9218
   ],
   "jp": "鬼谷\nそうはいかん！ 俺は 寺を\n外敵から護らねばならぬ！",
-  "en": "Onitani\nIt is! I must protect the temple from\noutside enemies!",
+  "en": "Kitani\nIt is! I must protect the temple from\noutside enemies!",
   "status": "done",
   "notes": ""
  },
@@ -815,7 +815,7 @@
    9220
   ],
   "jp": "鬼谷\nいかに俺でも大勢の鬼仏衆相手に\nひとりでは どうにもならん\n寺の中で自刃し\n火をかけるつもりだったのだ\nでは…",
-  "en": "Onitani\nEven I can't do anything alone against\nso many of the Kibutsu Clan. I meant\nto take my own life inside the temple\nand set it ablaze. Well then...",
+  "en": "Kitani\nEven I can't do anything alone against\nso many of the Kibutsu Clan. I meant\nto take my own life inside the temple\nand set it ablaze. Well then...",
   "status": "done",
   "notes": ""
  },
@@ -855,7 +855,7 @@
    9231
   ],
   "jp": "鬼谷\nいくら祈りを捧げても\n鬼獄界からは何も聞こえてこない\nこんなことは初めてだ…",
-  "en": "Onitani\nNo matter how much I pray, I hear\nnothing from the Kigoku World. This\nhas never happened before...",
+  "en": "Kitani\nNo matter how much I pray, I hear\nnothing from the Kigoku World. This\nhas never happened before...",
   "status": "done",
   "notes": ""
  },
@@ -875,7 +875,7 @@
    9233
   ],
   "jp": "鬼谷\n鬼仏衆までが 俺に抗い始めた\n\nなぜ 鬼獄界は 俺の呼びかけに\n応えてくれぬのだ！？",
-  "en": "Onitani\nEven the Kibutsu Clan has begun to\ndefy me.\n\nWhy won't the Kigoku World answer my\ncall!?",
+  "en": "Kitani\nEven the Kibutsu Clan has begun to\ndefy me.\n\nWhy won't the Kigoku World answer my\ncall!?",
   "status": "done",
   "notes": ""
  },
@@ -895,7 +895,7 @@
    9235
   ],
   "jp": "鬼谷\n…なるほど！\n\nここは 魔王の作った\nツギハギの世界であり\n俺の本当の世界は 別に存在する！\n\nそこには これまで通り\n鬼獄界が あるのだな！？",
-  "en": "Onitani\n...I see!\n\nThis is a patchwork world made by the\nDemon King, and my true world exists\nelsewhere!\n\nAnd there, the Kigoku World is just as\nit always was!?",
+  "en": "Kitani\n...I see!\n\nThis is a patchwork world made by the\nDemon King, and my true world exists\nelsewhere!\n\nAnd there, the Kigoku World is just as\nit always was!?",
   "status": "done",
   "notes": ""
  },
@@ -915,7 +915,7 @@
    9237
   ],
   "jp": "鬼谷\nいや 間違いない\n\n黒い月があがる以前\n鬼獄界は存在していた\n俺は それを感じたし 鬼獄界は\n俺の呼びかけに応えてくれた",
-  "en": "Onitani\nNo, I'm certain of it.\n\nBefore the black moon rose, the\nKigoku World existed. I felt it, and\nthe Kigoku World answered my call.",
+  "en": "Kitani\nNo, I'm certain of it.\n\nBefore the black moon rose, the\nKigoku World existed. I felt it, and\nthe Kigoku World answered my call.",
   "status": "done",
   "notes": ""
  },
@@ -935,7 +935,7 @@
    9239
   ],
   "jp": "鬼谷\nそのとおりだ {p}！\n俺も共に戦うぞ！\n魔王は 鬼獄界の存亡に関る\n重大な敵だ\nこの敵と戦わずにいられようか！",
-  "en": "Onitani\nThat's right, {p}! I'll\nfight with you too! The Demon King is\na grave enemy who threatens the very\nexistence of the Kigoku World. How\ncould I not fight him!",
+  "en": "Kitani\nThat's right, {p}! I'll\nfight with you too! The Demon King is\na grave enemy who threatens the very\nexistence of the Kigoku World. How\ncould I not fight him!",
   "status": "done",
   "notes": ""
  },
@@ -955,7 +955,7 @@
    9241
   ],
   "jp": "鬼谷\nだが 俺とおまえは仇敵同士だ！\nそのことを忘れるな！",
-  "en": "Onitani\nBut you and I are sworn enemies! Don't\nforget that!",
+  "en": "Kitani\nBut you and I are sworn enemies! Don't\nforget that!",
   "status": "done",
   "notes": ""
  },
@@ -975,7 +975,7 @@
    9243
   ],
   "jp": "鬼谷\n行くぞ {p}",
-  "en": "Onitani\nLet's go, {p}.",
+  "en": "Kitani\nLet's go, {p}.",
   "status": "done",
   "notes": ""
  },

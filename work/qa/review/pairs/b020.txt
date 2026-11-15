@@ -1,0 +1,208 @@
+   ctx 18.98 | Danbei | パンサークローも まさか / ハニーちゃんが変身した黄金仏に / 発信機が着いているとは 思うまい
+   ctx EN: Panther Claw would never dream the golden Buddha Honey-chan turned into has a transmitter on it.
+   ctx 18.99 | Natsuko Aki | おじ様 ステキ～！ /  / でもハニー 発信機を / どこに隠し持ってるの？ / たしか… / 黄金仏に化ける時には / 裸になっちゃうって / ハニー言ってたけど…
+   ctx EN: Oh, mister, you're wonderful!  But where's Honey hiding the transmitter? Honey said she ends up naked when she turns into the golden Buddha...
+>> 19.00 | Seiji Hayami | ドキッ！ / 裸でも隠せる場所… / それは… え～と…
+   EN: *Gulp!* A place you can hide something even when you're naked... that would be... uh...
+>> 19.01 | Danbei | イッヒッヒッヒ…！
+   EN: Ihhihhihhi...!
+>> 19.02 | Koyayashi | いや～ん！ / エッチ！！
+   EN: Eww! You perverts!!
+>> 19.03 | Panther Claw Member | えっほ えっほ
+   EN: Heave-ho, heave-ho.
+>> 19.04 | Panther Claw Member | よいしょ よいしょ
+   EN: Hup, hup.
+>> 19.05 | Panther Claw Member | 黄金仏 設置完了しました！
+   EN: The golden Buddha is in place!
+>> 19.06 | Sister Jill | ご苦労！ さがってよい
+   EN: Good work! You may go.
+>> 19.07 | Panther Claw Member | はっ！
+   EN: Yes, ma'am!
+>> 19.08 | Sister Jill | 美しい… / 顔だちが なんとも言えぬ
+   EN: Beautiful... Its features are beyond words.
+>> 19.09 | Golden Buddha | ……………
+   EN: ...............
+>> 19.10 | Sister Jill | 国際的犯罪組織パンサークローの / コレクションに ふさわしい！ / オッホッホッホッホ！
+   EN: Worthy of the collection of Panther Claw, the international crime syndicate! Ohohohoho!
+>> 19.11 | Golden Buddha | ふう… 顔がいいって？ / うふふ！ そりゃ～ね！ / ハニー フラッシュ！
+   EN: Phew... A pretty face, she says? Tee-hee! Well, of course! Honey FLASH!
+>> 19.12 | Honey Kisaragi | だって… ハニーなんだもん！ /  / さ～て / 青児君達と合流しなきゃ！
+   EN: After all... I'm Honey!  Okaaay, I need to meet up with Seiji-kun and the others!
+>> 19.13 | Honey Kisaragi | これが警備装置ね /  / これを止めて青児くん達と / 合流しましょう
+   EN: So this is the security system.  Let's shut it down and meet up with Seiji-kun and the others.
+>> 19.14 | Honey Kisaragi | これは…セキュリティ装置？ /  / これを停止させれば / 動く床も止められるのね！
+   EN: Is this... a security device?  If I shut it down, the moving floors should stop too!
+>> 19.15 | Honey Kisaragi | これかな？
+   EN: This one?
+>> 19.16 | Honey Kisaragi | エイッ！
+   EN: Hyah!
+>> 19.17 | Honey Kisaragi | いやっ！
+   EN: Eek!
+>> 19.18 | Honey Kisaragi | まずい！
+   EN: Uh-oh!
+>> 19.19 | Honey Kisaragi | いや～ん！
+   EN: Nooo!
+>> 19.20 | Honey Kisaragi | やった！
+   EN: Yes!
+>> 19.21 | Honey Kisaragi | うまくいったわ！
+   EN: It worked!
+>> 19.22 | Honey Kisaragi | きゃ～ ハニー すご～い！
+   EN: Kyaaa, Honey, you're amaaazing!
+>> 19.23 | Honey Kisaragi | 恐らく これが最後の関門ね…
+   EN: This must be the last barrier...
+>> 19.24 | Honey Kisaragi | よし！ あとは青児君達を探して / 合流するだけだわ！
+   EN: All right! Now I just have to find Seiji-kun and the others and meet up!
+>> 19.25 | Honey Kisaragi | くっ！ ここまできて…！！
+   EN: Ngh! After coming this far...!!
+>> 19.26 | Seiji Hayami | ハニー！ / なんとかゲートを開けてくれ！
+   EN: Honey! Get the gate open somehow!
+>> 19.27 | Seiji Hayami | ハニーが ゲートを開けるまで / 待つしかないな…
+   EN: Guess we've gotta wait till Honey opens the gate...
+>> 19.28 | Danbei | ハニーちゃん！ おじさんが助けに / 行くから ゲートを開けて！
+   EN: Honey-chan! Open the gate, old Danbei's coming to save you!
+>> 19.29 | Danbei | 見つかっちゃう前に ゲートを / 開けておくれや ハニーちゃん！
+   EN: Open the gate before they find us, Honey-chan!
+>> 19.30 | Natsuko Aki | ハニー 早く開けて！ / 夏子 こわいよぉ…
+   EN: Honey, open it quick! Natsuko's scared...
+>> 19.31 | Natsuko Aki | きっと ハニーが / ゲートを開けてくれるわ！ / 信じて待ちましょう！
+   EN: I'm sure Honey will open the gate for us! Let's believe in her and wait!
+>> 19.32 | Kogoro Iboji | あら！ ゲートが閉まってます！
+   EN: Oh my! The gate is closed!
+>> 19.33 | Koyayashi | ゲートがしまってるのら～…
+   EN: The gate's closed, it iiis...
+>> 19.34 | Seiji Hayami | さっすが ハニー！
+   EN: Way to go, Honey!
+>> 19.35 | Seiji Hayami | やったぜ！ / 行くぜ みんな！
+   EN: All right! Let's go, everybody!
+>> 19.36 | Danbei | うっひょ～ ハニーちゃん！
+   EN: Woo-hoo, Honey-chan!
+>> 19.37 | Danbei | よっしゃ！ おじさんが今 行くよ / ハニーちゃ～ん！
+   EN: All righty! Old Danbei's coming now, Honey-chaaan!
+>> 19.38 | Natsuko Aki | あぁ ハニー！ / ゲートが開いたわ！
+   EN: Ah, Honey! The gate opened!
+>> 19.39 | Natsuko Aki | みなさん！ / 行きましょう！
+   EN: Everyone! Let's go!
+>> 19.40 | Kogoro Iboji | 開いた～！
+   EN: It opeeened!
+>> 19.41 | Koyayashi | ががががが！って 開いたぞ / ゲートぉ！
+   EN: It went grrrrrind and the gate opened!
+>> 19.42 | Seiji Hayami | なんてこった！
+   EN: Oh, no way!
+>> 19.43 | Seiji Hayami | ハニー まさか / 君が失敗してしまったのか！？
+   EN: Honey, don't tell me you failed!?
+>> 19.44 | Danbei | ハニーちゃん… / おじさん ピンチよ…
+   EN: Honey-chan... old Danbei's in a pinch...
+>> 19.45 | Danbei | もうダメじゃ… / 諦めるしかない…
+   EN: It's no use... We'll just have to give up...
+>> 19.46 | Natsuko Aki | あぁ ハニー！ あなたにもう二度と / 逢えないのね…！？
+   EN: Oh, Honey! Will I never see you again...!?
+>> 19.47 | Natsuko Aki | そんな そんな…！
+   EN: No, no...!
+>> 19.48 | Kogoro Iboji | ヒエー！ おしまいだー！
+   EN: Eeek! It's all over!
+>> 19.49 | Koyayashi | お およよ ダメなのかー？
+   EN: Oh, my my, is it no good?
+>> 19.50 | Natsuko Aki | ハニー！
+   EN: Honey!
+>> 19.51 | Natsuko Aki | うえ～ん！ 心配したんだよぉ～！
+   EN: Waaah! I was so worried about you!
+>> 19.52 | Honey Kisaragi | よしよし！ / 夏ちゃん もう恐くないわよ！
+   EN: There, there! Natsu-chan, there's nothing to be scared of now!
+>> 19.53 | Seiji Hayami | 夏ちゃん… / う うらやましい…
+   EN: Natsu-chan... I-I'm so jealous...
+>> 19.54 | Honey Kisaragi | あら…！？ / そ そんな…！？
+   EN: Oh...!? Wh-what...!?
+>> 19.55 | Honey Kisaragi | そんなに見つめちゃ いや～ん！
+   EN: Nooo, don't stare at me like that!
+>> 19.56 |  | コノ トビラ ヲ ヒラク ニハ / ＩＤカードＡ ガ ヒツヨウ デス
+   EN: TO OPEN THIS DOOR, ID CARD A IS REQUIRED.
+>> 19.57 |  | コノ トビラ ヲ ヒラク ニハ / ＩＤカードＢ ガ ヒツヨウ デス
+   EN: TO OPEN THIS DOOR, ID CARD B IS REQUIRED.
+>> 19.58 |  | コノ トビラ ヲ ヒラク ニハ / ＩＤカードＣ ガ ヒツヨウ デス
+   EN: TO OPEN THIS DOOR, ID CARD C IS REQUIRED.
+>> 19.59 | Honey Kisaragi | 今こそ / シスター・ジルを倒すチャンス！ / まだ 戻れないわ！
+   EN: Now's my chance to defeat Sister Jill! I can't go back yet!
+>> 19.60 | Panther Claw Member | ジル様！ / 黄金仏が消え失せました！
+   EN: Jill-sama! The golden Buddha has vanished!
+>> 19.61 | Sister Jill | な なに！ 城に いる者を / 総動員して探すのだ！
+   EN: Wh-what! Mobilize everyone in the castle and search for it!
+>> 19.62 | Panther Claw Member | ハッ！
+   EN: Yes, ma'am!
+>> 19.63 | Sister Jill | 警戒厳重な この幻城から / 黄金仏を奪うとは…！ / いったいどうやって？ / 何者のしわざだ？
+   EN: To steal the golden Buddha from this heavily guarded Mirage Castle...! How? Whose doing is this?
+>> 19.64 | Sister Jill | 貴様 どうやって この幻城に！？
+   EN: You! How did you get into this Mirage Castle!?
+>> 19.65 | Honey Kisaragi | あたしを この城に入れたのは / あなたよ！
+   EN: You're the one who brought me into this castle!
+>> 19.66 | Sister Jill | 私が おまえを この城に入れた？
+   EN: I brought you into this castle?
+>> 19.67 | Honey Kisaragi | あたしの身体は 黄金に輝き / あなたは 私の顔だちを / 美しいといったわ…
+   EN: My body shone with gold, and you called my features beautiful...
+>> 19.68 | Sister Jill | お おまえが黄金仏だったのか！？ / ば バカな！
+   EN: Y-you were the golden Buddha!? Th-that's impossible!
+>> 19.69 | Honey Kisaragi | ある時は 黄金仏… / そして またある時は如月ハニー / そして その実体は…！！ / ハニー フラ～ッシュ！！
+   EN: Sometimes I'm a golden Buddha... And other times I'm Honey Kisaragi... But my true identity is...!! Honey FLAAASH!!
+>> 19.70 | Sister Jill | おまえは！？
+   EN: You are...!?
+>> 19.71 | Cutie Honey | 如月博士が心血をこめて作り上げた / スーパーアンドロイド！ / そしてこの世を…パンサークローの / 悪の手から守る 愛の戦士！ / キューティーハニーだ！
+   EN: The super android Dr. Kisaragi built with all his heart and soul! The warrior of love who protects this world from the evil hands of Panther Claw! I am Cutie Honey!
+>> 19.72 | Natsuko Aki | きゃ～ ハニー かっこいい！ / ステキ！！
+   EN: Kyaaa, Honey, you're so cool! Wonderful!!
+>> 19.73 | Sister Jill | 飛んで火に入る夏の虫…とは / おまえのことよ！ / 黄金仏のかわりに / もっと値打ちのある / 空中元素固定装置が / 自ら飛び込んできたってわけさ！ / ハニー！ おまえの身体 / シスター・ジルが いただいた！
+   EN: Like a moth to the flame, that's you! Instead of a golden Buddha, the far more valuable Airborne Element Fixer flew right in by itself! Honey! Your body now belongs to Sister Jill!
+>> 19.74 | Cutie Honey | シスター・ジル 勝負！
+   EN: Sister Jill, let's settle this!
+>> 19.75 | Sister Jill | おのれ キューティーハニー！ /  / こうなれば / 幻城と道連れにしてやる！
+   EN: Curse you, Cutie Honey!  If it's come to this, I'll take you down with Mirage Castle!
+>> 19.76 | Sister Jill | オッホッホッホッホ…！ / 城と一緒に 崩れ落ちるがいい！
+   EN: Ohohohoho...! Crumble away along with the castle!
+>> 19.77 | Cutie Honey | シスター・ジル 逃がすか！
+   EN: Sister Jill, you won't escape!
+>> 19.78 | Seiji Hayami | ダメだ 危険だ！
+   EN: No, it's too dangerous!
+>> 19.79 | Honey Kisaragi | …シスター・ジル
+   EN: ...Sister Jill.
+>> 19.80 | Natsuko Aki | アレを見て！
+   EN: Look at that!
+>> 19.81 | Honey Kisaragi | 黒い月…！？
+   EN: A black moon...!?
+>> 19.82 | Kogoro Iboji | ひえ～ なんだ アレは！？
+   EN: Eeek, what is THAT!?
+>> 19.83 | Koyayashi | 月が 黒いぞ～？
+   EN: The moon's all blaaack?
+>> 19.84 | Honey Kisaragi | あ あれはいったい…！？
+   EN: Wh-what on earth is that...!?
+>> 19.85 | Seiji Hayami | ハニー あの光が示しているのは / 科学都市のある方向じゃないか？
+   EN: Honey, isn't that light pointing toward Science City?
+>> 19.86 | Honey Kisaragi | 科学都市？ / {p}達の身に何か…！
+   EN: Science City? Something's happened to {p} and the others...!
+>> 19.87 | Honey Kisaragi | まずは / 青児君達と合流しないと…！
+   EN: First I have to meet up with Seiji-kun and the others...!
+>> 19.88 | Honey Kisaragi | 門が閉まっていて 外に出れないわ / カギ穴も見当たらないし… / どこかに 門を開ける装置が / あるのかしら？
+   EN: The gate's shut, I can't get out. And I don't see a keyhole... I wonder if there's a device somewhere that opens the gate?
+>> 19.89 | Worker | ぐぅ… ぐぅ…
+   EN: Zzz... zzz...
+>> 19.90 | Worker | むにゃ むにゃ…
+   EN: Mumble, mumble...
+>> 19.91 | Guard | みんな 疲れ果ててるな…
+   EN: Everyone's worn out...
+>> 19.92 | Guard | 誰だ！
+   EN: Who's there!
+>> 19.93 | Guard | まさか！？ / 魔の残骸が蘇った…！？ / 急いで知らせないと…！
+   EN: It can't be!? The remains of the Ma came back to life...!? I have to warn everyone, quick...!
+>> 19.94 | Guard | うわ～！
+   EN: Whoaaa!
+>> 19.95 | Worker | ひぃ～！
+   EN: Eeeek!
+>> 19.96 | Worker | な なんだ…？ / …ぎゃっ！
+   EN: Wh-what the...? ...Gyah!
+>> 19.97 | Guard | …仰せのままに
+   EN: ...As you command.
+>> 19.98 | Worker | …破壊の月を！
+   EN: ...The Moon of destruction!
+>> 19.99 | Worker | …再生の太陽を！
+   EN: ...The Sun of rebirth!
+   ctx 20.00 | {p} | …なんだろう…？ / イヤな予感がする…
+   ctx EN: ...What is it...? I've got a bad feeling...
+   ctx 20.01 | Shinichi | どうした？
+   ctx EN: What's up?

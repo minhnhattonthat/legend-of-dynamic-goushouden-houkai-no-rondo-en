@@ -1,0 +1,4 @@
+IMPORTANT | 23.12 | "遅れをとった" means "was bested" here. | "Fall behind" obscures his admission that the enemy got the better of him in battle. | To think that even I was bested! Next time, I'll finish the beast for sure! You should forget about {s}, my boy!
+IMPORTANT | 23.52 | "おぬし...じゃろ" is elderly speech; "ワシ がんばっちゃうもんね！" switches to playfully childish determination. | The plain promise flattens Danbei's comic shift in register. | I know how you feel, my boy, {p}. You must be worried sick, eh? Well, this old man's gonna give it everything he's got!
+MINOR | 23.34 | "必ず {s}は 元に戻るさ！" promises that she will return to normal. | "Come back to normal" is an awkward English collocation. | Cheer up, {p}! {s}'ll be back to normal for sure!
+ASSESSMENT | b024 | Needs fixes | Generally accurate and readable, but one combat idiom and Danbei's comic voice need correction.

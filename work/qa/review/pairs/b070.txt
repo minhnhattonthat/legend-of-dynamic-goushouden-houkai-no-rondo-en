@@ -1,0 +1,82 @@
+   ctx r0CFDB4 |  | 関所
+   ctx EN: Checkpt
+   ctx r0CFDBC |  | 関東スラム・家５
+   ctx EN: Kanto Slum/House 5
+>> r0CFDD0 |  | 関東スラム・家４
+   EN: Kanto Slum/House 4
+>> r0CFDE4 |  | 関東スラム・家３
+   EN: Kanto Slum/House 3
+>> r0CFDF8 |  | 関東スラム・家２
+   EN: Kanto Slum/House 2
+>> r0CFE0C |  | 関東スラム・家１
+   EN: Kanto Slum/House 1
+>> r0CFE20 |  | 始まりの丘５
+   EN: HillBeginnings5
+>> r0CFE30 |  | 始まりの丘４
+   EN: HillBeginnings4
+>> r0CFE40 |  | 始まりの丘３
+   EN: HillBeginnings3
+>> r0CFE50 |  | 始まりの丘２
+   EN: HillBeginnings2
+>> r0CFE60 |  | 始まりの丘１
+   EN: HillBeginnings1
+>> r0CFE70 |  | 死神警察・Ｂ１Ｆ
+   EN: Reaper Police/B1F
+>> r0CFE84 |  | 死神警察・２Ｆ
+   EN: ReaperPolice/2F
+>> r0CFE94 |  | 死神警察・１ＦＢ
+   EN: Reaper Police/1FB
+>> r0CFEA8 |  | 死神警察・１ＦＡ
+   EN: Reaper Police/1FA
+>> r0CFEBC |  | 如月邸・Ｂ１ＦＣ
+   EN: Kisaragi/B1FC
+>> r0CFED0 |  | 如月邸・１ＦＣ
+   EN: Kisaragi/1FC
+>> r0CFEE0 |  | 如月邸・Ｂ１ＦＢ
+   EN: Kisaragi/B1FB
+>> r0CFEF4 |  | 如月邸・１ＦＢ
+   EN: Kisaragi/1FB
+>> r0CFF04 |  | 如月邸・Ｂ１Ｆ
+   EN: Kisaragi/B1F
+>> r0CFF14 |  | 如月邸・１Ｆ
+   EN: Kisaragi/1F
+>> r0CFF24 |  | 妖怪屋敷
+   EN: Yokai
+>> r0CFF30 |  | 公園
+   EN: Park
+>> r0CFF38 |  | 如月邸
+   EN: Kisarag
+>> r0CFF40 |  | 関東スラム
+   EN: Kanto Slum
+>> r0CFF4C |  | 飛鳥邸・Ｂ１Ｆ＿Ｂ（廃棄）
+   EN: Asuka Mansion/B1F_B(unused)
+>> r0CFF68 |  | 飛鳥邸・Ｂ１Ｆ＿Ａ（廃棄）
+   EN: Asuka Mansion/B1F_A(unused)
+>> r0CFF84 |  | 飛鳥邸・２Ｆ
+   EN: AsukaMansion/2F
+>> r0CFF94 |  | 飛鳥邸・１ＦＢ
+   EN: Asuka/1FB
+>> r0CFFA4 |  | 飛鳥邸・１ＦＡ
+   EN: Asuka/1FA
+>> r0CFFB4 |  | 飛鳥邸・外
+   EN: Asuka/Out
+>> r0CFFC0 |  | 日本マップ
+   EN: MapofJapan
+>> r0CFFCC |  | ？？？
+   EN: ???
+>> r0CFFD4 |  | を
+   EN: :
+>> r0CFFD8 |  | 個
+   EN: pcs
+>> r0CFFDC |  | ・
+   EN: /
+>> r0CFFE0 |  | 地下
+   EN: B
+>> r0CFFE8 |  | 階
+   EN: F
+>> r0CFFF0 |  | ゲッターで飛ぶ
+   EN: Fly in Getter
+   ctx r0D0000 |  | マジンガーＺで飛ぶ
+   ctx EN: Fly in Mazinger Z
+   ctx r0D0014 |  | ロボットから降りる
+   ctx EN: Leave the robot

@@ -1,0 +1,3 @@
+IMPORTANT | 11.84 | "予知一族の末裔・真理阿と富三郎" means Maria and Tomisaburo are descendants of the Precog Clan. | "The last of the Precog Clan" incorrectly asserts that no other descendants remain. | Maria and Tomisaburo, descendants of the Precog Clan, up and left the village one day, like they was runnin' away.
+MINOR | 11.93 | Destroying the village will serve as a warning and might make the woman reconsider. | "The perfect example to make of them!" awkwardly combines two English constructions. | This will be perfect for making an example of them! I do hope it makes that woman reconsider a little... Very well, do it!
+ASSESSMENT | b012 | Needs fixes | Correct the unsupported claim about the clan's last descendants; the rest largely preserves meaning and character voices.

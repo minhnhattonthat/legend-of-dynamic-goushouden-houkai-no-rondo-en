@@ -1,0 +1,42 @@
+   ctx r0D4044 |  | あぼーん！！
+   ctx EN: KABOOM!!
+   ctx r0D4054 |  | ぼーん！！
+   ctx EN: BOOM!!
+>> r0D9A34 |  | ＞
+   EN: >
+>> r0D9A48 |  | スプライト
+   EN: Sprite
+>> r0D9A54 |  | バトルエフェクトマスク４
+   EN: Battle effect mask 4
+>> r0D9A70 |  | バトルエフェクトマスク３
+   EN: Battle effect mask 3
+>> r0D9A8C |  | バトルエフェクトマスク２
+   EN: Battle effect mask 2
+>> r0D9AA8 |  | バトルエフェクトマスク１
+   EN: Battle effect mask 1
+>> r0D9AC4 |  | バトルエフェクト
+   EN: Battle effect
+>> r0D9AD8 |  | テスト２
+   EN: Test 2
+>> r0D9AE4 |  | テスト１
+   EN: Test 1
+>> r0D9AF0 |  | カーソルテスト
+   EN: Cursor test
+>> r0D9B00 |  | デバック（菊池）ＭＥＮＵ
+   EN: Debug (Kikuchi) MENU
+>> r0D9B8C |  | 大技アニメ
+   EN: Big anim
+>> r0D9B98 |  | 小技継続
+   EN: Small cont
+>> r0D9BA4 |  | 小技終了
+   EN: Small end
+>> r0D9BB0 |  | 小技開始
+   EN: Small start
+>> r0D9BBC |  | 大技
+   EN: Big
+>> r0D9BC4 |  | 中技
+   EN: Mid
+>> r0D9BCC |  | バトルエフェクト番号指定
+   EN: Set battle effect no.
+   ctx r0DAFFC |  | シャフトの息子
+   ctx EN: Shaft Jr.

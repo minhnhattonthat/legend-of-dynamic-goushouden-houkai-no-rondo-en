@@ -1,0 +1,5 @@
+IMPORTANT | r0DE6B0 | "魔王グレイド" means Demon King Grade. | "Dark Lord" conflicts with the glossary's title for Grade. | Demon King Grade
+IMPORTANT | r0DE758 | "死神警察　署長" means Reaper Police Chief. | "Shinigami Police" conflicts with the glossary and speaker tag. | Reaper Police Chief
+IMPORTANT | r0DE768 | "死神警察" means Reaper Police. | "Shinigami Police" is explicitly disallowed by the glossary. | Reaper Police
+MINOR | r0DE584 | 敵単体を眠らせる: puts one enemy to sleep. | "Puts one foe asleep" is unnatural English. | Puts one foe to sleep
+ASSESSMENT | b086 | Needs fixes | Three names conflict with established terminology, and one item description needs a small wording correction.

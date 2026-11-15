@@ -1,0 +1,2 @@
+MINOR | 50.61 | さすが大殿の目に狂いは無かった: the great lord's judgment was sound after all | "The great lord's eye was true" is an awkward literal rendering of an idiom about judgment. | The great lord judged you well after all. I'll entrust the fate of this journey to you.
+ASSESSMENT | b051 | Approved | The translation preserves meaning, terminology, and character voices, with only a minor idiomatic polish suggested.

@@ -1,0 +1,172 @@
+   ctx r0D1FE0 |  | 敵に逃げられた
+   ctx EN: Enemy escaped.
+   ctx r0D1FF0 |  | 逃走
+   ctx EN: Run
+>> r0D2018 |  | 逃げられない！
+   EN: Can't escape!
+>> r0D2028 |  | 敵は逃げようとした！
+   EN: Enemy tried to flee!
+>> r0D2040 |  | 逃げられなかった！
+   EN: Couldn't escape!
+>> r0D2234 |  | を盗んだ！
+   EN: stolen!
+>> r0D2260 |  | 盗めなかった！
+   EN: Couldn't steal!
+>> r0D2270 |  | 円を盗んだ！
+   EN: yen stolen!
+>> r0D22E8 |  | 迷惑探偵!![0A] イボ痔小五郎
+   EN: Pest Sleuth!![0A] Kogoro Iboji
+>> r0D2304 |  | マジンガーＺ
+   EN: Mazinger Z
+>> r0D2314 |  | 魔獣戦線
+   EN: Majuu Sensen
+>> r0D2320 |  | 魔王ダンテ
+   EN: Mao Dante
+>> r0D232C |  | ハレンチ学園
+   EN: Harenchi Gakuen
+>> r0D233C |  | バイオレンスジャック
+   EN: Violence Jack
+>> r0D2354 |  | ドロロンえん魔くん
+   EN: Dororon Enma-kun
+>> r0D2368 |  | デビルマン
+   EN: Devilman
+>> r0D2374 |  | 凄ノ王
+   EN: Susano-oh
+>> r0D237C |  | 手天童子
+   EN: Shutendoji
+>> r0D2388 |  | 豪翔伝
+   EN: Goushouden
+>> r0D2390 |  | 原作者
+   EN: Creator
+>> r0D2398 |  | ゲッターロボ
+   EN: Getter Robo
+>> r0D23A8 |  | けっこう仮面
+   EN: Kekko Kamen
+>> r0D23B8 |  | 虚無戦記
+   EN: Kyomu Senki
+>> r0D23C4 |  | キューティーハニー
+   EN: Cutie Honey
+>> r0D23D8 |  | キッカイくん
+   EN: Kikkai-kun
+>> r0D23E8 |  | オモライくん
+   EN: Omorai-kun
+>> r0D23F8 |  | おいら女蛮
+   EN: Oira Sukeban
+>> r0D2404 |  | イヤハヤ南友
+   EN: Iyahaya Nantomo
+>> r0D2414 |  | あばしり一家
+   EN: Abashiri Family
+>> r0D2424 |  | あにまるケダマン
+   EN: Animaru Kedaman
+>> r0D2BB0 |  | 　株式会社バンプレソフト
+   EN:  Banpresoft Co., Ltd.
+>> r0D2BCC |  | 企画・製作
+   EN: Production
+>> r0D2BD8 |  | 　株式会社バンプレスト
+   EN:  Banpresto Co., Ltd.
+>> r0D2BF0 |  | 販売
+   EN: Sold by
+>> r0D2BF8 |  | 株式会社ダイナミックプロダクション
+   EN: Dynamic Production Co., Ltd.
+>> r0D2C1C |  | 協力
+   EN: Support
+>> r0D2C24 |  | 　ポールトゥウィン株式会社
+   EN:  Pole To Win Co., Ltd.
+>> r0D2C40 |  | デバッグ
+   EN: Debugging
+>> r0D2C4C |  | 　株式会社キュービスト
+   EN:  Cubist Co., Ltd.
+>> r0D2C64 |  | アートワーク
+   EN: Artwork
+>> r0D2C74 |  | 渡部 隆 　　　古田 真美
+   EN: Takashi Watabe  Mami Furuta
+>> r0D2C8C |  | 渡辺 裕 　　　木村 知佳恵
+   EN: Yutaka Watanabe  Chikae Kimura
+>> r0D2CA8 |  | プロモーション
+   EN: Promotion
+>> r0D2CB8 |  | 門原 悠太
+   EN: Yuta Kadohara
+>> r0D2CC4 |  | 石川 肇　　　　師岡 輝幸
+   EN: Hajime Ishikawa  Teruyuki Morooka
+>> r0D2CE0 |  | 柳田 一利　　　山田 俊彦
+   EN: Kazutoshi Yanagida  Toshihiko Yamada
+>> r0D2CFC |  | 松田 史征
+   EN: Fumiyuki Matsuda
+>> r0D2D08 |  | 和気 正則　　　國政 修
+   EN: Masanori Wake  Osamu Kunimasa
+>> r0D2D20 |  | 斉藤 健
+   EN: Ken Saito
+>> r0D2D28 |  | 大橋 茂泰　　　中山 愛
+   EN: Shigeyasu Ohashi  Ai Nakayama
+>> r0D2D40 |  | 三浦 忠司　　　栗本 博史
+   EN: Tadashi Miura  Hiroshi Kurimoto
+>> r0D2D5C |  | 蓮沼 充男　　　巻嶋 和幸
+   EN: Mitsuo Hasunuma  Kazuyuki Makishima
+>> r0D2D78 |  | サンクス
+   EN: Thanks
+>> r0D2D84 |  | 館澤 貴人
+   EN: Takahito Tatezawa
+>> r0D2D90 |  | 氏家 英樹　　　川村 正一
+   EN: Hideki Ujiie  Shoichi Kawamura
+>> r0D2DAC |  | 坪井 雅之　　　松村 登
+   EN: Masayuki Tsuboi  Noboru Matsumura
+>> r0D2DC4 |  | グラフィック
+   EN: Graphics
+>> r0D2DD4 |  | 田中 一郎　　　菊池 貴則
+   EN: Ichiro Tanaka  Takanori Kikuchi
+>> r0D2DF0 |  | 大出 喬紀　　　河本 努
+   EN: Takanori Oide  Tsutomu Kawamoto
+>> r0D2E08 |  | プログラム
+   EN: Programming
+>> r0D2E14 |  | 高橋 義和　　　今村 聡
+   EN: Yoshikazu Takahashi  Satoshi Imamura
+>> r0D2E2C |  | 増田 辰男　　　高田 和広
+   EN: Tatsuo Masuda  Kazuhiro Takada
+>> r0D2E48 |  | プランナー
+   EN: Planners
+>> r0D2E54 |  | 　　　 NoisyCroak
+   EN:     NoisyCroak
+>> r0D2E68 |  | 　　　 坂本 英城
+   EN:     Hideki Sakamoto
+>> r0D2E7C |  | 　　サウンド
+   EN:   Sound
+>> r0D2E8C |  | 　　　 茂木 岳雄
+   EN:     Takeo Mogi
+>> r0D2EA0 |  | ゲームオリジナルシナリオ
+   EN: Original Game Scenario
+>> r0D2EBC |  | 　　佐伯 紀幸
+   EN:  Noriyuki Saeki
+>> r0D2ECC |  | 開発ディレクター
+   EN: Dev. Director
+>> r0D2EE0 |  | 　　蓮沼 尚夫
+   EN:  Hisao Hasunuma
+>> r0D2EF0 |  | 開発プロデューサー
+   EN: Dev. Producer
+>> r0D2F04 |  | 株式会社ウィル
+   EN: Will Co., Ltd.
+>> r0D2F14 |  | 　　音泉 貴英
+   EN:  Takahide Otoizumi
+>> r0D2F24 |  | ディレクター
+   EN: Director
+>> r0D2F34 |  | 　　土井 信一
+   EN:  Shinichi Doi
+>> r0D2F44 |  | プロダクトマネージャー
+   EN: Product Manager
+>> r0D2F5C |  | 　　河内 厚典
+   EN:  Atsunori Kawachi
+>> r0D2F6C |  | 総合プロデューサー
+   EN: Executive Producer
+>> r0D2F80 |  | 永井 一巨
+   EN: Kazumi Nagai
+>> r0D2F8C |  | 菊池 忠明　　　徳原 八州
+   EN: Tadaaki Kikuchi  Yashu Tokuhara
+>> r0D2FA8 |  | ダイナミック企画株式会社
+   EN: Dynamic Planning Co., Ltd.
+>> r0D2FC8 |  | テクニカルアドバイス
+   EN: Technical Advice
+>> r0D2FE0 |  | 　永井 豪　　　　　　石川 賢
+   EN:  Go Nagai      Ken Ishikawa
+   ctx r0D3000 |  | 原作
+   ctx EN: Creator
+   ctx r0D3018 |  | ＥＸＩＴ
+   ctx EN: EXIT

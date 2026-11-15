@@ -1,0 +1,300 @@
+   ctx r0CDFC8 |  | ミムメモヤユヨラリルレロワン゛゜
+   ctx EN: MIMUMEMOYAYUYORARIRUREROWAN
+   ctx r0CDFEC |  | タチツテトナニヌネノハヒフヘホマ
+   ctx EN: TACHITSUTETONANINUNENOHAHIFUHEHOMA
+>> r0CE644 |  | わたしは
+   EN: I am
+>> r0CE650 |  | ペガサス
+   EN: Pegasus
+>> r0CE65C |  | ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰ
+   EN: ABCDEFGHIJKLMNOP
+>> r0CE680 |  | １２３４５６７８９０１２３４５６
+   EN: 1234567890123456
+>> r0CE6A4 |  | ０１２３４５６７８９０１２３４５
+   EN: 0123456789012345
+>> r0CE6C8 |  | ９８７６５４３２１０９８７６５４
+   EN: 9876543210987654
+>> r0CE6EC |  | ロボットパーティー
+   EN: Robot party
+>> r0CE700 |  | 通常パーティー
+   EN: Normal party
+>> r0CE710 |  | ＳＥテスト
+   EN: SE test
+>> r0CE71C |  | ＢＧＭテスト
+   EN: BGM test
+>> r0CE72C |  | ＬＯＡＤテスト
+   EN: LOAD test
+>> r0CE73C |  | フィールド・如月後
+   EN: Field/post-Kisaragi
+>> r0CE750 |  | フィールドテスト
+   EN: Field test
+>> r0CE764 |  | 努テスト
+   EN: TsutomuTest
+>> r0CE770 |  | しゅじんこう
+   EN: Hero
+>> r0CE780 |  | 関東スラム・マミー薬局Ｆ２
+   EN: KantoSlum/MamiiPharmacyF2
+>> r0CE79C |  | 関東スラム・マミー薬局Ｆ
+   EN: Kanto Slum/Mamii Pharmacy F
+>> r0CE7B8 |  | ゼノン０１
+   EN: Zennon 01
+>> r0CE7C4 |  | 科学都市・ホテルＢ１Ｆｃ
+   EN: Science City/Hotel B1Fc
+>> r0CE7E0 |  | 公園Ｂ
+   EN: Park B
+>> r0CE7E8 |  | 科学都市・研究室１Ｆｄ＿２
+   EN: Science City/Lab 1Fd_2
+>> r0CE804 |  | 科学都市・研究室１Ｆｄ
+   EN: Science City/Lab 1Fd
+>> r0CE81C |  | 科学都市・研究室１Ｆｃ
+   EN: Science City/Lab 1Fc
+>> r0CE834 |  | 科学都市・医療室２Ｆｂ＿２
+   EN: SciCity/MedRoom 2Fb_2
+>> r0CE850 |  | 科学都市・医療室２Ｆｂ
+   EN: SciCity/MedRoom 2Fb
+>> r0CE868 |  | 科学都市・医療室１Ｆｃ
+   EN: SciCity/MedRoom 1Fc
+>> r0CE880 |  | 科学都市・医療室１Ｆｂ
+   EN: SciCity/MedRoom 1Fb
+>> r0CE898 |  | 魔王の城Ｆ
+   EN: DemonKing F
+>> r0CE8A4 |  | ケダマン６
+   EN: Kedaman 6
+>> r0CE8B0 |  | ケダマン５
+   EN: Kedaman 5
+>> r0CE8BC |  | ケダマン４
+   EN: Kedaman 4
+>> r0CE8C8 |  | ケダマン３
+   EN: Kedaman 3
+>> r0CE8D4 |  | ケダマン２
+   EN: Kedaman 2
+>> r0CE8E0 |  | ケダマン１
+   EN: Kedaman 1
+>> r0CE8EC |  | ダンテ６
+   EN: Dante 6
+>> r0CE8F8 |  | ダンテ５Ｄ
+   EN: Dante 5D
+>> r0CE904 |  | ダンテ５Ｃ
+   EN: Dante 5C
+>> r0CE910 |  | ダンテ５Ｂ
+   EN: Dante 5B
+>> r0CE91C |  | ダンテ５Ａ
+   EN: Dante 5A
+>> r0CE928 |  | ダンテ４
+   EN: Dante 4
+>> r0CE934 |  | ダンテ３
+   EN: Dante 3
+>> r0CE940 |  | ダンテ２
+   EN: Dante 2
+>> r0CE94C |  | ダンテ１
+   EN: Dante 1
+>> r0CE958 |  | 早乙女研究所Ｂ１ＦＢ
+   EN: Saotome Lab B1FB
+>> r0CE970 |  | 早乙女研究所Ｂ１ＦＡ
+   EN: Saotome Lab B1FA
+>> r0CE988 |  | 早乙女研究所１Ｆ
+   EN: Saotome Lab 1F
+>> r0CE99C |  | 早乙女研究所０７Ｂ
+   EN: Saotome Lab 07B
+>> r0CE9B0 |  | 早乙女研究所０７Ａ
+   EN: Saotome Lab 07A
+>> r0CE9C4 |  | 早乙女研究所０６
+   EN: Saotome Lab 06
+>> r0CE9D8 |  | 早乙女研究所０５
+   EN: Saotome Lab 05
+>> r0CE9EC |  | 早乙女研究所０４
+   EN: Saotome Lab 04
+>> r0CEA00 |  | 早乙女研究所０３
+   EN: Saotome Lab 03
+>> r0CEA14 |  | 早乙女研究所０２Ｃ
+   EN: Saotome Lab 02C
+>> r0CEA28 |  | 早乙女研究所０２Ｂ
+   EN: Saotome Lab 02B
+>> r0CEA3C |  | 早乙女研究所０２Ａ
+   EN: Saotome Lab 02A
+>> r0CEA50 |  | 早乙女研究所０１Ｃ
+   EN: Saotome Lab 01C
+>> r0CEA64 |  | 早乙女研究所０１Ｂ
+   EN: Saotome Lab 01B
+>> r0CEA78 |  | 早乙女研究所０１Ａ
+   EN: Saotome Lab 01A
+>> r0CEA8C |  | 黒ＢＧ
+   EN: BlackBG
+>> r0CEA94 |  | 迷いの森１０
+   EN: Lost Forest 10
+>> r0CEAA4 |  | 迷いの森９
+   EN: LostForest9
+>> r0CEAB0 |  | 迷いの森８
+   EN: LostForest8
+>> r0CEABC |  | 迷いの森７
+   EN: LostForest7
+>> r0CEAC8 |  | 迷いの森６
+   EN: LostForest6
+>> r0CEAD4 |  | 迷いの森５
+   EN: LostForest5
+>> r0CEAE0 |  | 迷いの森４
+   EN: LostForest4
+>> r0CEAEC |  | 迷いの森３
+   EN: LostForest3
+>> r0CEAF8 |  | 迷いの森２
+   EN: LostForest2
+>> r0CEB04 |  | 迷いの森１
+   EN: LostForest1
+>> r0CEB10 |  | 聖チャペル・黒い森
+   EN: Chapel/Black Forest
+>> r0CEB24 |  | 聖チャペル
+   EN: St. Chapel
+>> r0CEB30 |  | 蓮沼街・空
+   EN: HasunumaSky
+>> r0CEB3C |  | 蓮沼街・山道
+   EN: Hasunuma/MtPath
+>> r0CEB4C |  | ポールの部屋
+   EN: Paul's Room
+>> r0CEB5C |  | ポール邸内黄金仏
+   EN: PaulGoldenBuddha
+>> r0CEB70 |  | ポール邸内廊下
+   EN: Paul's Hallway
+>> r0CEB80 |  | ポール邸庭
+   EN: PaulGarden
+>> r0CEB8C |  | 牧村邸２Ｆ
+   EN: Makimura 2F
+>> r0CEB98 |  | 牧村邸１Ｆ・風呂場
+   EN: Makimura 1F/Bath
+>> r0CEBAC |  | 牧村邸１Ｆ
+   EN: Makimura 1F
+>> r0CEBB8 |  | 蓮沼街
+   EN: Hasunum
+>> r0CEBC0 |  | 関東スラム・マミー薬局
+   EN: KantoSlum/MamiiPharmacy
+>> r0CEBD8 |  | 家・アイテム屋Ｅ
+   EN: House/Item Shop E
+>> r0CEBEC |  | 家・アイテム屋Ｄ
+   EN: House/Item Shop D
+>> r0CEC00 |  | 家・アイテム屋Ｃ
+   EN: House/Item Shop C
+>> r0CEC14 |  | 家・アイテム屋Ｂ
+   EN: House/Item Shop B
+>> r0CEC28 |  | 家・アイテム屋Ａ
+   EN: House/Item Shop A
+>> r0CEC3C |  | 家・マミー薬局Ｆ
+   EN: House/Pharmacy F
+>> r0CEC50 |  | 家・マミー薬局Ｅ
+   EN: House/Pharmacy E
+>> r0CEC64 |  | 家・マミー薬局Ｄ
+   EN: House/Pharmacy D
+>> r0CEC78 |  | 家・マミー薬局Ｃ
+   EN: House/Pharmacy C
+>> r0CEC8C |  | 家・マミー薬局Ｂ
+   EN: House/Pharmacy B
+>> r0CECA0 |  | 家・マミー薬局Ａ
+   EN: House/Pharmacy A
+>> r0CECB4 |  | 家・風呂場３Ｅ
+   EN: House/Bath 3E
+>> r0CECC4 |  | 家・風呂場３Ｄ
+   EN: House/Bath 3D
+>> r0CECD4 |  | 家・風呂場３Ｃ
+   EN: House/Bath 3C
+>> r0CECE4 |  | 家・風呂場３Ｂ
+   EN: House/Bath 3B
+>> r0CECF4 |  | 家・風呂場３Ａ
+   EN: House/Bath 3A
+>> r0CED04 |  | 家・風呂場２Ｅ
+   EN: House/Bath 2E
+>> r0CED14 |  | 家・風呂場２Ｄ
+   EN: House/Bath 2D
+>> r0CED24 |  | 家・風呂場２Ｃ
+   EN: House/Bath 2C
+>> r0CED34 |  | 家・風呂場２Ｂ
+   EN: House/Bath 2B
+>> r0CED44 |  | 家・風呂場２Ａ
+   EN: House/Bath 2A
+>> r0CED54 |  | 家・風呂場１Ｅ
+   EN: House/Bath 1E
+>> r0CED64 |  | 家・風呂場１Ｄ
+   EN: House/Bath 1D
+>> r0CED74 |  | 家・風呂場１Ｃ
+   EN: House/Bath 1C
+>> r0CED84 |  | 家・風呂場１Ｂ
+   EN: House/Bath 1B
+>> r0CED94 |  | 家・風呂場１Ａ
+   EN: House/Bath 1A
+>> r0CEDA4 |  | 家・民家３Ｅ
+   EN: House/Home 3E
+>> r0CEDB4 |  | 家・民家３Ｄ
+   EN: House/Home 3D
+>> r0CEDC4 |  | 家・民家３Ｃ
+   EN: House/Home 3C
+>> r0CEDD4 |  | 家・民家３Ｂ
+   EN: House/Home 3B
+>> r0CEDE4 |  | 家・民家３Ａ
+   EN: House/Home 3A
+>> r0CEDF4 |  | 家・民家２Ｅ
+   EN: House/Home 2E
+>> r0CEE04 |  | 家・民家２Ｄ
+   EN: House/Home 2D
+>> r0CEE14 |  | 家・民家２Ｃ
+   EN: House/Home 2C
+>> r0CEE24 |  | 家・民家２Ｂ
+   EN: House/Home 2B
+>> r0CEE34 |  | 家・民家２Ａ
+   EN: House/Home 2A
+>> r0CEE44 |  | 家・民家１Ｅ
+   EN: House/Home 1E
+>> r0CEE54 |  | 家・民家１Ｄ
+   EN: House/Home 1D
+>> r0CEE64 |  | 家・民家１Ｃ
+   EN: House/Home 1C
+>> r0CEE74 |  | 家・民家１Ｂ
+   EN: House/Home 1B
+>> r0CEE84 |  | 家・民家１Ａ
+   EN: House/Home 1A
+>> r0CEE94 |  | 魔王の城Ｅ
+   EN: DemonKing E
+>> r0CEEA0 |  | 魔王の城Ｄ
+   EN: DemonKing D
+>> r0CEEAC |  | 魔王の城Ｃ０２
+   EN: DemonCastle C02
+>> r0CEEBC |  | 魔王の城Ｃ０１
+   EN: DemonCastle C01
+>> r0CEECC |  | 魔王の城Ｂ０２
+   EN: DemonCastle B02
+>> r0CEEDC |  | 魔王の城Ｂ０１
+   EN: DemonCastle B01
+>> r0CEEEC |  | 魔王の城Ａ０２
+   EN: DemonCastle A02
+>> r0CEEFC |  | 魔王の城Ａ０１
+   EN: DemonCastle A01
+>> r0CEF0C |  | 戸来村洞窟２
+   EN: HeraiCave 2
+>> r0CEF1C |  | 戸来村洞窟１
+   EN: HeraiCave 1
+>> r0CEF2C |  | 戸来村０９
+   EN: Herai 09
+>> r0CEF38 |  | 戸来村０８
+   EN: Herai 08
+>> r0CEF44 |  | 戸来村０７
+   EN: Herai 07
+>> r0CEF50 |  | 戸来村０６
+   EN: Herai 06
+>> r0CEF5C |  | 戸来村０５
+   EN: Herai 05
+>> r0CEF68 |  | 戸来村０４
+   EN: Herai 04
+>> r0CEF74 |  | 戸来村０３
+   EN: Herai 03
+>> r0CEF80 |  | 戸来村０２
+   EN: Herai 02
+>> r0CEF8C |  | 戸来村０１
+   EN: Herai 01
+>> r0CEF98 |  | 科学都市・キッカイ（廃棄）
+   EN: Science City/Kikkai(unused)
+>> r0CEFB4 |  | 科学都市・瓜生４
+   EN: Science City/Uryu 4
+>> r0CEFC8 |  | 科学都市・瓜生３（廃棄）
+   EN: Science City/Uryu 3(unused)
+>> r0CEFE4 |  | 科学都市・瓜生２（廃棄）
+   EN: Science City/Uryu 2(unused)
+   ctx r0CF000 |  | 科学都市・瓜生１（廃棄）
+   ctx EN: Science City/Uryu 1(unused)
+   ctx r0CF01C |  | 科学都市・ホテル部屋４
+   ctx EN: ScienceCity/HotelRoom4

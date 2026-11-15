@@ -1,0 +1,308 @@
+   ctx r0CEFC8 |  | 科学都市・瓜生３（廃棄）
+   ctx EN: Science City/Uryu 3(unused)
+   ctx r0CEFE4 |  | 科学都市・瓜生２（廃棄）
+   ctx EN: Science City/Uryu 2(unused)
+>> r0CF000 |  | 科学都市・瓜生１（廃棄）
+   EN: Science City/Uryu 1(unused)
+>> r0CF01C |  | 科学都市・ホテル部屋４
+   EN: ScienceCity/HotelRoom4
+>> r0CF034 |  | 科学都市・ホテル部屋３
+   EN: ScienceCity/HotelRoom3
+>> r0CF04C |  | 科学都市・ホテル部屋２
+   EN: ScienceCity/HotelRoom2
+>> r0CF064 |  | 科学都市・ホテル部屋１
+   EN: ScienceCity/HotelRoom1
+>> r0CF07C |  | 科学都市・ホテルＢ１Ｆｂ
+   EN: Science City/Hotel B1Fb
+>> r0CF098 |  | 科学都市・ホテルＢ１Ｆａ
+   EN: Science City/Hotel B1Fa
+>> r0CF0B4 |  | 科学都市・ホテル４Ｆｂ
+   EN: Science City/Hotel 4Fb
+>> r0CF0CC |  | 科学都市・ホテル４Ｆａ
+   EN: Science City/Hotel 4Fa
+>> r0CF0E4 |  | 科学都市・ホテル３Ｆ
+   EN: Science City/Hotel 3F
+>> r0CF0FC |  | 科学都市・ホテル２Ｆ
+   EN: Science City/Hotel 2F
+>> r0CF114 |  | 科学都市・ホテル１Ｆ
+   EN: Science City/Hotel 1F
+>> r0CF12C |  | 幻城Ｆ４・ゲート管理室１
+   EN: Mirage F4/GateCtrl 1
+>> r0CF148 |  | 幻城Ｆ４・宝物庫１
+   EN: MirageF4/Treasury1
+>> r0CF15C |  | 幻城Ｆ４
+   EN: Mirage F4
+>> r0CF168 |  | 幻城Ｆ３・セキュリティ管理室
+   EN: Mirage Castle F3/Security Room
+>> r0CF188 |  | 幻城Ｆ３・待機室３
+   EN: Mirage F3/Waiting 3
+>> r0CF19C |  | 幻城Ｆ３・待機室１
+   EN: Mirage F3/Waiting 1
+>> r0CF1B0 |  | 幻城Ｆ３・宝物庫２
+   EN: MirageF3/Treasury2
+>> r0CF1C4 |  | 幻城Ｆ３・右側
+   EN: Mirage F3/R
+>> r0CF1D4 |  | 幻城Ｆ３・左側
+   EN: Mirage F3/L
+>> r0CF1E4 |  | 幻城Ｆ２
+   EN: Mirage F2
+>> r0CF1F0 |  | 幻城Ｆ１・ゲート管理室２
+   EN: Mirage F1/GateCtrl 2
+>> r0CF20C |  | 幻城Ｆ１・待機室２
+   EN: Mirage F1/Waiting 2
+>> r0CF220 |  | 幻城Ｆ１・部屋１
+   EN: Mirage F1/Rm 1
+>> r0CF234 |  | 幻城Ｆ１・水晶玉の部屋
+   EN: Mirage F1/CrystalRm
+>> r0CF24C |  | 幻城Ｆ１・玉座
+   EN: MirageF1/Throne
+>> r0CF25C |  | 幻城Ｆ１
+   EN: Mirage F1
+>> r0CF268 |  | 幻城外・倒壊後
+   EN: MirageOut/Ruin
+>> r0CF278 |  | 幻城外・城門
+   EN: Mirage Out/Gate
+>> r0CF288 |  | 幻城外・山
+   EN: MirageOutMt
+>> r0CF294 |  | 地獄
+   EN: Hell
+>> r0CF29C |  | ハレンチ学園・小さな町
+   EN: Harenchi/Town
+>> r0CF2B4 |  | 科学都市・研究室２Ｆ
+   EN: Science City/Lab 2F
+>> r0CF2CC |  | 科学都市・研究室１Ｆｂ
+   EN: Science City/Lab 1Fb
+>> r0CF2E4 |  | 科学都市・研究室１Ｆａ
+   EN: Science City/Lab 1Fa
+>> r0CF2FC |  | 科学都市・医療室２Ｆ
+   EN: SciCity/MedRoom 2F
+>> r0CF314 |  | 科学都市・医療室１Ｆ
+   EN: SciCity/MedRoom 1F
+>> r0CF32C |  | 科学都市・大会議室１Ｆｂ
+   EN: SciCity/ConfHall 1Fb
+>> r0CF348 |  | 科学都市・大会議室１Ｆａ
+   EN: SciCity/ConfHall 1Fa
+>> r0CF364 |  | 科学都市・都市Ｋ
+   EN: Science City/City K
+>> r0CF378 |  | 科学都市・都市Ｊ
+   EN: Science City/City J
+>> r0CF38C |  | 科学都市・都市Ｉ
+   EN: Science City/City I
+>> r0CF3A0 |  | 科学都市・都市Ｈ
+   EN: Science City/City H
+>> r0CF3B4 |  | 科学都市・都市Ｇ
+   EN: Science City/City G
+>> r0CF3C8 |  | 科学都市・都市Ｆ
+   EN: Science City/City F
+>> r0CF3DC |  | 科学都市・都市Ｅ
+   EN: Science City/City E
+>> r0CF3F0 |  | 科学都市・都市Ｄ
+   EN: Science City/City D
+>> r0CF404 |  | 科学都市・都市Ｃ
+   EN: Science City/City C
+>> r0CF418 |  | 科学都市・都市Ｂ
+   EN: Science City/City B
+>> r0CF42C |  | 科学都市・都市Ａ
+   EN: Science City/City A
+>> r0CF440 |  | メカ専用ダンジョン
+   EN: Mecha Dungeon
+>> r0CF454 |  | サルード・地表
+   EN: Saluud/Surface
+>> r0CF464 |  | サルード・デッキ
+   EN: Saluud/Deck
+>> r0CF478 |  | サルード・出口Ｂ
+   EN: Saluud/Exit B
+>> r0CF48C |  | サルード・出口Ａ
+   EN: Saluud/Exit A
+>> r0CF4A0 |  | サルード・出口
+   EN: Saluud/Exit
+>> r0CF4B0 |  | サルード・３Ｆａ
+   EN: Saluud/3Fa
+>> r0CF4C4 |  | サルード・２Ｆｄ
+   EN: Saluud/2Fd
+>> r0CF4D8 |  | サルード・２Ｆｂ＿３（３階）
+   EN: Saluud/2Fb_3(3F)
+>> r0CF4F8 |  | サルード・２Ｆｂ＿２（２中）
+   EN: Saluud/2Fb_2(2 mid)
+>> r0CF518 |  | サルード・２Ｆｂ（２階右）
+   EN: Saluud/2Fb(2F right)
+>> r0CF534 |  | サルード・２Ｆａ
+   EN: Saluud/2Fa
+>> r0CF548 |  | サルード・１Ｆｂ
+   EN: Saluud/1Fb
+>> r0CF55C |  | サルード・１Ｆａ
+   EN: Saluud/1Fa
+>> r0CF570 |  | 光子力研究所外３（廃棄）
+   EN: Photon Power Lab Out3(cut)
+>> r0CF58C |  | 光子力研究所外２（廃棄）
+   EN: Photon Power Lab Out2(cut)
+>> r0CF5A8 |  | 光子力研究所外１（廃棄）
+   EN: Photon Power Lab Out1(cut)
+>> r0CF5C4 |  | 光子力研究所１０
+   EN: Photon Power Lab 10
+>> r0CF5D8 |  | 光子力研究所０９・モニター室
+   EN: Photon Power Lab 09/Monitor
+>> r0CF5F8 |  | 光子力研究所０８・地下格納庫
+   EN: Photon Power Lab 08/Hangar
+>> r0CF618 |  | 光子力研究所０７・発電室
+   EN: Photon Power Lab 07/Dynamo
+>> r0CF634 |  | 光子力研究所０６・西の部屋
+   EN: Photon Power Lab 06/West
+>> r0CF650 |  | 光子力研究所０５・北の部屋
+   EN: Photon Power Lab 05/North
+>> r0CF66C |  | 光子力研究所０４・東の部屋
+   EN: Photon Power Lab 04/East
+>> r0CF688 |  | 光子力研究所０３・エレベータ
+   EN: Photon Power Lab 03/Elevator
+>> r0CF6A8 |  | 光子力研究所０２・通路
+   EN: Photon Power Lab02/Hall
+>> r0CF6C0 |  | 光子力研究所０１
+   EN: Photon Power Lab 01
+>> r0CF6D4 |  | 暗黒寺１１・墜落現場
+   EN: DarkTemple11/CrashSite
+>> r0CF6EC |  | 暗黒寺１０・暗黒寺邪来像
+   EN: DarkTemple10/Jarai Statue
+>> r0CF708 |  | 暗黒寺０９・暗黒寺
+   EN: DarkTemple09/Temple
+>> r0CF71C |  | 暗黒寺０８・暗黒寺外部３
+   EN: DarkTemple08/DarkTempleExt3
+>> r0CF738 |  | 暗黒寺０７・暗黒寺外部２
+   EN: DarkTemple07/DarkTempleExt2
+>> r0CF754 |  | 暗黒寺０６・暗黒寺外部１
+   EN: DarkTemple06/DarkTempleExt1
+>> r0CF770 |  | 暗黒寺０５・仙岩鬼の出口（廃棄）
+   EN: DarkTemple05/SenganOniExit(unused)
+>> r0CF794 |  | 暗黒寺０４・仙岩鬼の内部
+   EN: DarkTemple 04/SenganIn
+>> r0CF7B0 |  | 暗黒寺０３・仙岩鬼の岩山
+   EN: DarkTemple03/SenganOniCrag
+>> r0CF7CC |  | 暗黒寺０２・牙の草原
+   EN: DarkTemple02/FangPlains
+>> r0CF7E4 |  | 暗黒寺０１・森の入り口＋外れ
+   EN: DarkTemple 01/ForestIn+Edge
+>> r0CF804 |  | 妖怪屋敷・４Ｆｂ（雪子姫）
+   EN: Yokai/4Fb(Princess Yukiko)
+>> r0CF820 |  | 妖怪屋敷・４Ｆａ
+   EN: Yokai Mansion/4Fa
+>> r0CF834 |  | 妖怪屋敷・３Ｆ（プール）
+   EN: Yokai Mansion/3F(Pool)
+>> r0CF850 |  | 妖怪屋敷・２Ｆｄ・ベッドルーム
+   EN: Yokai Mansion/2Fd/Bedroom
+>> r0CF870 |  | 妖怪屋敷・２Ｆｃ
+   EN: Yokai Mansion/2Fc
+>> r0CF884 |  | 妖怪屋敷・２Ｆｂトレーニング
+   EN: Yokai Mansion/2Fb Training
+>> r0CF8A4 |  | 妖怪屋敷・２Ｆａ
+   EN: Yokai Mansion/2Fa
+>> r0CF8B8 |  | 妖怪屋敷・１Ｆｅ（和室）
+   EN: Yokai/1Fe(Tatami)
+>> r0CF8D4 |  | 妖怪屋敷・１Ｆｄ（カパエル）
+   EN: Yokai Mansion/1Fd(Kapaeru)
+>> r0CF8F4 |  | 妖怪屋敷・１Ｆｃ
+   EN: Yokai Mansion/1Fc
+>> r0CF908 |  | 妖怪屋敷・１Ｆｂ
+   EN: Yokai Mansion/1Fb
+>> r0CF91C |  | 妖怪屋敷・１Ｆａ
+   EN: Yokai Mansion/1Fa
+>> r0CF930 |  | 妖怪屋敷・森の中
+   EN: Yokai/Forest
+>> r0CF944 |  | ハレンチ学園・倉庫２Ｆｂ（廃棄）
+   EN: HarenchiGakuen/Storeroom2Fb(unused)
+>> r0CF968 |  | ハレンチ学園・倉庫２Ｆａ
+   EN: HarenchiGakuen/Storeroom2Fa
+>> r0CF984 |  | ハレンチ学園・倉庫１Ｆｂ（廃棄）
+   EN: HarenchiGakuen/Storeroom1Fb(unused)
+>> r0CF9A8 |  | ハレンチ学園・倉庫１Ｆａ
+   EN: HarenchiGakuen/Storeroom1Fa
+>> r0CF9C4 |  | ハレンチ学園・体育館
+   EN: Harenchi Gakuen/Gym
+>> r0CF9DC |  | ハレンチ学園・女子トイレ３
+   EN: Harenchi/GirlsWC 3
+>> r0CF9F8 |  | ハレンチ学園・女子トイレ２
+   EN: Harenchi/GirlsWC 2
+>> r0CFA14 |  | ハレンチ学園・女子トイレ
+   EN: Harenchi/GirlsWC
+>> r0CFA30 |  | ハレンチ学園・男子トイレ３
+   EN: Harenchi/BoysWC 3
+>> r0CFA4C |  | ハレンチ学園・男子トイレ２
+   EN: Harenchi/BoysWC 2
+>> r0CFA68 |  | ハレンチ学園・男子トイレ
+   EN: Harenchi/BoysWC
+>> r0CFA84 |  | ハレンチ学園・教室Ｄ
+   EN: Harenchi/Classroom D
+>> r0CFA9C |  | ハレンチ学園・教室Ｃ２
+   EN: Harenchi/Classroom C2
+>> r0CFAB4 |  | ハレンチ学園・教室Ｃ
+   EN: Harenchi/Classroom C
+>> r0CFACC |  | ハレンチ学園・教室Ｂ６
+   EN: Harenchi/Classroom B6
+>> r0CFAE4 |  | ハレンチ学園・教室Ｂ５
+   EN: Harenchi/Classroom B5
+>> r0CFAFC |  | ハレンチ学園・教室Ｂ４
+   EN: Harenchi/Classroom B4
+>> r0CFB14 |  | ハレンチ学園・教室Ｂ３
+   EN: Harenchi/Classroom B3
+>> r0CFB2C |  | ハレンチ学園・教室Ｂ２
+   EN: Harenchi/Classroom B2
+>> r0CFB44 |  | ハレンチ学園・教室Ｂ
+   EN: Harenchi/Classroom B
+>> r0CFB5C |  | ハレンチ学園・教室Ａ６
+   EN: Harenchi/Classroom A6
+>> r0CFB74 |  | ハレンチ学園・教室Ａ５
+   EN: Harenchi/Classroom A5
+>> r0CFB8C |  | ハレンチ学園・教室Ａ４
+   EN: Harenchi/Classroom A4
+>> r0CFBA4 |  | ハレンチ学園・教室Ａ３
+   EN: Harenchi/Classroom A3
+>> r0CFBBC |  | ハレンチ学園・教室Ａ２
+   EN: Harenchi/Classroom A2
+>> r0CFBD4 |  | ハレンチ学園・教室Ａ
+   EN: Harenchi/Classroom A
+>> r0CFBEC |  | ハレンチ学園・４Ｆｂ
+   EN: Harenchi Gakuen/4Fb
+>> r0CFC04 |  | ハレンチ学園・４Ｆａ
+   EN: Harenchi Gakuen/4Fa
+>> r0CFC1C |  | ハレンチ学園・３Ｆ
+   EN: Harenchi Gakuen/3F
+>> r0CFC30 |  | ハレンチ学園・２Ｆ
+   EN: Harenchi Gakuen/2F
+>> r0CFC44 |  | ハレンチ学園・１Ｆ
+   EN: Harenchi Gakuen/1F
+>> r0CFC58 |  | ハレンチ学園・Ｂ１Ｆ
+   EN: Harenchi Gakuen/B1F
+>> r0CFC70 |  | ハレンチ学園・校庭
+   EN: Harenchi/Yard
+>> r0CFC84 |  | レストランキングＢ１Ｆ（廃棄）
+   EN: Restaurant King B1F(unused)
+>> r0CFCA4 |  | レストランキング３Ｆｂ（廃棄）
+   EN: Restaurant King 3Fb(unused)
+>> r0CFCC4 |  | レストランキング３Ｆａ（廃棄）
+   EN: Restaurant King 3Fa(unused)
+>> r0CFCE4 |  | レストランキング２Ｆ（廃棄）
+   EN: Restaurant King 2F(unused)
+>> r0CFD04 |  | レストランキング１Ｆｂ（廃棄）
+   EN: Restaurant King 1Fb(unused)
+>> r0CFD24 |  | レストランキング１Ｆａ（廃棄）
+   EN: Restaurant King 1Fa(unused)
+>> r0CFD44 |  | ロールスロイス
+   EN: Rolls-Royce
+>> r0CFD54 |  | 戦場
+   EN: Battle
+>> r0CFD5C |  | レストラン
+   EN: Restaurant
+>> r0CFD68 |  | 死神警察０２（迷路）
+   EN: Reaper Police 02(Maze)
+>> r0CFD80 |  | 死神警察０１（迷路）
+   EN: Reaper Police 01(Maze)
+>> r0CFD98 |  | 震災とりで内部
+   EN: QuakeFortInside
+>> r0CFDA8 |  | 震災とりで
+   EN: Quake Fort
+>> r0CFDB4 |  | 関所
+   EN: Checkpt
+>> r0CFDBC |  | 関東スラム・家５
+   EN: Kanto Slum/House 5
+   ctx r0CFDD0 |  | 関東スラム・家４
+   ctx EN: Kanto Slum/House 4
+   ctx r0CFDE4 |  | 関東スラム・家３
+   ctx EN: Kanto Slum/House 3

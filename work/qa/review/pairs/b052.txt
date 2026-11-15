@@ -1,0 +1,196 @@
+   ctx 50.98 | Dr. Saotome | 来留間博士と共に / 隠れていても おかしくはない
+   ctx EN: It wouldn't be strange if he were hiding there with Dr. Kuruma.
+   ctx 50.99 | Dr. Saotome | その意気だ 諸君！！
+   ctx EN: That's the spirit, everyone!!
+>> 51.00 | Dr. Saotome | あ うん / え～と だいぶいいみたいだよ / 心配しなくても大丈夫だよ
+   EN: Ah, yes. Well, um, she seems much better. No need to worry.
+>> 51.01 | Dr. Saotome | え！？ / いや その… / お～い！ 誰か あの書類 / どうなってるか知ってるかね！？ / すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: What!? No, well... Hey! Does anyone know what happened to those papers!? Sorry, {p}-kun! I'm busy right now!
+>> 51.02 | Dr. Saotome | すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: Sorry, {p}-kun! I'm busy right now!
+>> 51.03 | Dr. Saotome | 科学都市の立ち入り禁止エリアに / 瓜生麗のマンションがあるだろう / それを探し出すことが / 真理阿の居場所を突き止める / 唯一の方法のはず… / がんばってくれ！
+   EN: Rei Uryu's condo must be in Science City's off-limits area. Finding it should be the only way to learn where Maria is... Do your best!
+>> 51.04 | Dragon Panther | パンサークロー 最強の戦士 / ドラゴン・パンサーさまだ / これ以上 この城の中で 好き勝手に / させるわけには いかぬ！
+   EN: I'm Dragon Panther-sama, Panther Claw's mightiest warrior! I won't let you run wild in this castle any longer!
+>> 51.05 | Parasol | やるばい やるばい / まけんばい まけんばい / 敵は いく万 / ありとてばい！
+   EN: We'll do it, we'll do it! We won't lose, we won't lose! Even if the foe's ten thousand strong, y'all!
+>> 51.06 | Macaroni Kid | グラーチェ グラーチェ / ひさしぶりに 腕がなるぜ… / イタリアの鳥取県からきた / マカロニだ / てめえら ザコどもは / 消えるがいいのだ！
+   EN: Grazie, grazie! Been a while since I got to cut loose... I'm Macaroni, from Tottori Prefecture, Italy! You small fry can just vanish!
+>> 51.07 | Kendo Sasaki | おれは 佐々木剣道 /  / 戦国時代より あまたの時をこえ / この時代にきた おれに / ついに戦いのときがきたのだ… /  / おれは おまえを斬るために / この時代にきたのだ！！
+   EN: I am Kendo Sasaki.  I crossed countless ages from the Warring States era to come to this time, and at last my hour of battle has come...  I came to this time to cut you down!!
+>> 51.08 | ガロ | われわれ ハチュウ人類は / 全力をつくして / ゲッターロボを破壊する！
+   EN: We Reptilians will do everything in our power to destroy Getter Robo!
+>> 51.09 | Mamii-kun | 服なんか きんでええ /  / 売れのこりのほうたい / まいていけー いわれてまんのや
+   EN: Clothes? Don't need 'em.  They told me to wrap myself up in the bandages that didn't sell, see.
+>> 51.10 | Mamii-kun | ハハハハ / ミイラ怪人と思われて まっけど / ほんまは ただの人なの
+   EN: Hahaha! Folks think I'm a mummy monster, but really I'm just a regular guy.
+>> 51.11 | Mamii-kun | おねえちゃんは / ほうたい きらいで / 売れのこりのバンソウコウ / きてまんねん
+   EN: My big sis hates bandages, so she wears the sticking plasters that didn't sell.
+>> 51.12 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしの死後 数多くのロボットが / 生み出されたと聞く / 中でも宇宙開発の結果 / 発見されたエネルギー / 微量で膨大なエネルギーになる / 魔法の光体… ゲッター線 / その応用で作られた / ロボットがあると聞く… / わっはっはっは / 見て見たいものだ！
+   EN: I am Juzo Kabuto, a scientist who builds robots. I hear that after my death, many robots were born. Among them, I hear, is one built on an energy found through space research: a magic light where a mere trace gives enormous power... Getter Rays! Wahahaha! I'd love to see it!
+>> 51.13 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしが死にぎわに残した / 魔神はすごいぞ！ / 神となり人類を救う事も / 悪魔となり世界を滅ぼすことも / 自由だ！！ / すべて思いのままなのだ！
+   EN: I am Juzo Kabuto, a scientist who builds robots. The Demon God I left behind as I died is something else! It can become a god and save mankind, or become a devil and destroy the world! The choice is yours!! It will do whatever you wish!
+>> 51.14 | Hakayo | このゲームは じつに不可能を / 可能に してしまうやろ / なぜ こんなにかんたんに / 可能にできるかというと… / このゲームが / いいかげんだからだー
+   EN: This game really makes the impossible possible, don'tcha think? And why is it so easy to make it possible? 'Cause this game is slapdash, that's why!
+>> 51.15 | Dr. Judas | 私はうらむ 自分自身を… /  / 人類全体を / 苦しみのどん底に 落とすこと / 地獄を地球上に 創りあげること / けっして そうさせては ならない
+   EN: I curse myself...  Plunging all mankind into the depths of suffering, creating hell on Earth... That must never be allowed to happen.
+>> 51.16 | 豹絵里座 | この学園は / いってみれば あたしのもの / あたしの自由に / ならないことなんか ないのさ！
+   EN: This academy is mine, you might say. There's nothing here that doesn't go my way!
+>> 51.17 | Omorai-kun | あははは なぜか今日も / もうかりまへんなー / どない なっとんやろか
+   EN: Ahaha, somehow business is lousy again today. What's goin' on, I wonder?
+>> 51.18 | Omorai-kun | わい 学校にきても / こしかけないの / ゴザにすわらんと / おちつかんわ
+   EN: Even at school, I don't sit on no chair. I can't settle down unless I'm sittin' on my straw mat.
+>> 51.19 | Omorai-kun | 涙にうるんだ ひとみから / オモライくんは感じたぜ / 心にしみる なにかをさ / ジーンとしみる なにかがさ！！ / そいつに こたえるために / わいはいく！！ / それがオモライ 男意気！！
+   EN: From those eyes all wet with tears, Omorai-kun felt somethin'! Somethin' that sinks into your heart! Somethin' that sinks right in! To answer that, I'm goin'!! That's Omorai's manly spirit!!
+>> 51.20 | Omorai-kun | あったかいなー / 日なたぼっこは えーなー
+   EN: Sure is warm... Sunbathin's the best.
+>> 51.21 | Omorai-kun | あんまり暑いんで / 近くの沼で 泳いでもうた / それからなんや / なんでか 水道の水が / わい好みの味になったで
+   EN: It was so hot, I went for a swim in the pond nearby. And ever since, for some reason, the tap water tastes just how I like it.
+>> 51.22 | トマホーク・パンサー | 貴様が侵入者か？ / この場から逃れられると思うな / このトマホーク・パンサーが / 貴様を まっぷたつにしてやる！
+   EN: So you're the intruder? Don't think you can escape from here. I, Tomahawk Panther, will cut you in two!
+>> 51.23 | シーザス・パンサー | 私が シーザス・パンサーだ /  / ククク… / どうした 顔色がわるいぞ？ / そっちからこないなら / こっちからいくぞ！！
+   EN: I am Scissors Panther.  Heh heh heh... What's wrong, you look pale? If you won't come at me, I'll come at you!!
+>> 51.24 | Demon King Zennon | わが名は ゼノン / 悪魔王ゼノン！！ / 人間に告ぐ！！ /  / デーモン軍団が 全世界に / 攻撃をくわえるであろう / 人間よ 真の地球の支配者… / その力を 思い知れ！！
+   EN: My name is Zennon, Zennon the Demon King!! Hear me, humans!!  The Demon army will launch its attack on the whole world. Humans, feel the might of the Earth's true rulers!!
+>> 51.25 | Demon King Zennon | ひとりのこらず / 人間が 死に絶えるまで / 我々の攻撃は やまない /  / きさまも きさまも / きさまも 死ぬのだ！！
+   EN: Our attack will not stop until every last human is dead.  You, and you, and you will die!!
+>> 51.26 | Dr. Hell | 忘れたか…？ / 世界征服こそドクター・ヘルの夢 / おまえが本当に 妨げになるのか / 試してみるのも よかろう / ゆくぞ ブロッケン伯爵！
+   EN: Have you forgotten...? World conquest is Dr. Hell's dream. Let's test whether you're truly a hindrance. Come, Count Brocken!
+>> 51.27 | Count Brocken | ははっ！
+   EN: Yes, sir!
+>> 51.28 | Count Brocken | くっ！ / …ぬぅ～ おのれ！
+   EN: Ngh! ...Grr, curse you!
+>> 51.29 | Dr. Hell | わっはっはっ…！ / なかなか やるではないか！ / だが 今は ここまでだ /  / この続きは 我らが再び / 敵として合間見える時だ…！
+   EN: Wahahaha...! Not bad at all! But that's enough for now.  We'll continue this when we next meet as enemies...!
+>> 51.30 | Count Brocken | その時こそが 本当の戦い！ / 今日のようには いかぬぞ！
+   EN: THAT will be the true battle! It won't go like today!
+>> 51.31 | Dr. Hell | わっはっはっはっはっ…！！
+   EN: Wahahahahaha...!!
+>> 51.32 | Dr. Judas | はるか北西に / 悪魔の住む島があると聞く / 生きて帰ることの出来ない / 恐ろしい島だそうだ
+   EN: I hear there's an island of devils far to the northwest. A terrible island no one returns from alive.
+>> 51.33 | Hakayo | ドクター・ヘルの サルードは / 北西の島に おるそうや / そこには 機械獣って / オモロイ マシンがあるんやて / いっぺん拝みに / 行きまひょかー！
+   EN: They say Dr. Hell's Saluud is at an island to the northwest. And there's these funky machines called Mechanical Beasts there. Whaddaya say we go take a gander!
+>> 51.34 | {p} | 君 何してるの？
+   EN: What are you doing?
+>> 51.35 | Boy | あの… / その… / ぐぅ～～～～！
+   EN: Um... well... *GRRRROWL*!
+>> 51.36 | {p} | そっか お腹が減ったんだね！
+   EN: Oh, you're hungry!
+>> 51.37 | Boy | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.38 | Boy | えへへ！ ありがと！
+   EN: Heh heh! Thanks!
+>> 51.39 | Kikunosuke | この子 見たことあるぜ！ /  / 決勝トーナメントＡブロック決勝に / 進むはずだった / 権金学園の生徒だ！
+   EN: I've seen this kid!  He's the Gongane Academy student who was supposed to make the Block A final in the tournament!
+>> 51.40 | {p} | え？ / 君 ホントなの？
+   EN: Huh? Is that true?
+>> 51.41 | Boy | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.42 | Kikunosuke | 確か… 家早南友！
+   EN: Yeah... Nantomo Iyahaya!
+>> 51.43 | {p} | へぇ 僕 {p}！ / よろしく 南友君！
+   EN: Huh. I'm {p}! Nice to meet you, Nantomo-kun!
+>> 51.44 | Nanyu | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.45 | Nanyu | あ さよ子さん！
+   EN: Ah, Sayoko-san!
+>> 51.46 | Sayoko | 南友君 助けて！ / 果扨虹蛇に追われてるの！
+   EN: Nantomo-kun, help! Koja Hatesate is after me!
+>> 51.47 | 果扨虹蛇 | 見つけたぞ / 家早さよ子 家早南友！ / 日本経済は果扨家が握るのよ！ / 家早は退きなさい！
+   EN: Found you, Sayoko Iyahaya, Nantomo Iyahaya! The Hatesate family controls Japan's economy! The Iyahayas should step aside!
+>> 51.48 | Sayoko | 南友君 助けて！
+   EN: Nantomo-kun, help!
+>> 51.49 | Nanyu | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.50 | {p} | ちょっと 南友君…？
+   EN: Um, Nantomo-kun...?
+>> 51.51 | Kikunosuke | この女 出来る！ /  / {p}！ / 俺達が相手してやろうぜ！
+   EN: This woman's good!  {p}! Let's take her on!
+>> 51.52 | {p} | え～っ！？
+   EN: Whaaat!?
+>> 51.53 | Sayoko | ありがとう！ / 助かりましたわ！ / 果扨家は 何かと家早を目の敵に / するのよ / 新興の成り上がり者はイヤね！
+   EN: Thank you! You saved me! The Hatesate family is always out to get the Iyahayas. Upstart nouveau riche are so tiresome!
+>> 51.54 | {p} | ………
+   EN: .........
+>> 51.55 | Sayoko | ところであなた 権金学園の生徒？
+   EN: By the way, are you a Gongane Academy student?
+>> 51.56 | {p} | いや 僕は…
+   EN: No, I'm...
+>> 51.57 | Sayoko | まぁ！ / 南友君 聞いた？
+   EN: My! Did you hear that, Nantomo-kun?
+>> 51.58 | Nanyu | イヤハヤ なんとも / 不思議な話だね！
+   EN: Iyahaya, nantomo... What a strange story!
+>> 51.59 | Sayoko | 決めたわ！
+   EN: I've decided!
+>> 51.60 | Sayoko | 南友君 あたし達{p}達を / 手伝いましょう！ / 何が起こってるのか解らないけど /  / きっと家早の財力で / 解決してみせるわ！
+   EN: Nantomo-kun, let's help {p} and the others! I don't know what's going on,  but the Iyahaya fortune will surely solve it!
+>> 51.61 | {p} | ………
+   EN: .........
+>> 51.62 | Sayoko | だって家早に出来ないことは / ないもの！ おっほっほほ！
+   EN: After all, there's nothing the Iyahayas can't do! Ohohoho!
+>> 51.63 | Resident | 町の東の犬小屋に / 変な子供が入りこんだそうだよ / 見慣れない子供らしいから… / どこから来たんだろう？
+   EN: They say some odd kid snuck into the doghouse east of town. A kid nobody's seen before... Where'd he come from?
+>> 51.64 | {p} | デーモンの歴史が見えるという / 悪魔像 / 了君や明君は / いったい何を見たんだろう…？
+   EN: The devil statue that shows the history of the Demons... What on earth did Ryo-kun and Akira-kun see...?
+>> 51.65 | ??? | 悪魔像は あなたには / 何も見せてくれません
+   EN: The devil statue will show you nothing.
+>> 51.66 | Psycho Jenny | 私はサイコジェニー / この像と共にある者です
+   EN: I am Psycho Jenny. I am one with this statue.
+>> 51.67 | {p} | デ デーモン！？
+   EN: A-a Demon!?
+>> 51.68 | Psycho Jenny | そうです / 私はデーモン族です / あなたを お迎えに参りました
+   EN: That's right. I am of the Demon race. I have come to welcome you.
+>> 51.69 | Psycho Jenny | あなたが忘れてしまったことを / 思い出していただくため！
+   EN: To help you remember what you've forgotten!
+>> 51.70 | {p} | うわ～！
+   EN: Whoaaa!
+>> 51.71 | Psycho Jenny | どうです？ /  / 魔王について 次元連鎖について / 何か思い出しましたか？
+   EN: Well?  Have you remembered anything about the Demon King, about the Dimension Chain?
+>> 51.72 | {p} | …わ わからない
+   EN: ...I-I don't know.
+>> 51.73 | Psycho Jenny | そうですか… /  / ならば私は あなたと共に / 行きましょう
+   EN: I see...  Then I shall go with you.
+>> 51.74 | Psycho Jenny | あなたと共に行くことで 私は / より強い精神攻撃方法を学べます / お忘れですか？ デーモンは / より強くなることを望む / 戦う一族であるということを！
+   EN: By going with you, I can learn stronger methods of psychic attack. Have you forgotten? The Demons are a warrior race that always seeks to grow stronger!
+>> 51.75 | Resident | 世の中 どうなってるんだ？ / 黒い魔物やら… / 巨大な女の子やら？
+   EN: What's going on with the world? Black fiends... giant girls?
+>> 51.76 | Resident | 黒い魔物に襲われているところを / 女の子に助けられたんだ！ / ところが その子 可愛い顔して / ３メートルを超す大女！
+   EN: I was attacked by a black fiend and a girl saved me! But that girl, cute face and all, was a giantess over three meters tall!
+>> 51.77 | Resident | 黒い魔物を倒しても ちっとも / 儲からないわ…って言ってたわ / あの人 / 極悪人ハンターなんですって！ / その子？ / あっちへ行ったわ
+   EN: She said beating black fiends doesn't pay one bit... She's a hunter of villains, apparently! The girl? She went that way.
+>> 51.78 | Resident | 巨大な身体に / 大学教授顔負けの頭脳！ / それでも あの子 / 小学６年生なんだって！ / その子？ / 向こうに行ったみたいだよ
+   EN: A giant body and a brain that'd put a university professor to shame! And they say she's only in sixth grade! The girl? Looks like she went over there.
+>> 51.79 | Resident | きゃ～！
+   EN: Kyaaa!
+>> 51.80 | Resident | ありがとうございました！
+   EN: Thank you so much!
+>> 51.81 | {p} | なんだ！？ 地震…にしちゃ / おかしな揺れだぞ？
+   EN: What!? An earthquake...? It's a weird kind of shaking...
+>> 51.82 | {p} | あれ？ / 止まった
+   EN: Huh? It stopped.
+>> 51.83 | 大きな女 | あなたが 黒い魔物を / やっつけたの？
+   EN: Did you beat the black fiend?
+>> 51.84 | {p} | うわ～ き 君は？
+   EN: Whoa! Wh-who are you?
+>> 51.85 | Hoin Taishi | あたしは法印大子 / 極悪人ハンターよ！
+   EN: I'm Daiko Hoin, villain hunter!
+>> 51.86 | {p} | 極悪人ハンター？
+   EN: Villain hunter?
+>> 51.87 | Hoin Taishi | 正義のため！ 世の中に害をなす / 極悪人を捕らえているの / 今の世の中にとって 超Ａクラスの / 極悪人とは 黒い魔物！ / あたしは そう考えてるのよ！
+   EN: For justice! I capture villains who do harm to the world. In today's world, the super-A-class villains are the black fiends! That's what I think!
+>> 51.88 | {p} | それで黒い魔物から / 町の人を助けてたんだね
+   EN: So that's why you were saving the townspeople from the black fiends.
+>> 51.89 | Hoin Taishi | そうよ / ところであなた 誰？
+   EN: That's right. By the way, who are you?
+>> 51.90 | {p} | 僕 {p}！ / 実は僕…
+   EN: I'm {p}! Actually, I...
+>> 51.91 | Hoin Taishi | 魔王が狙っているのが / あなただったとはね… / でも魔王のやり方 / あたしは気に入らないわ！ / あなたに手を貸しましょう！ / 共に戦うのよ！
+   EN: So you're the one the Demon King is after... But I don't like the Demon King's methods! I'll lend you a hand! We'll fight together!
+>> 51.92 | Akira Fudo | あ あいつは！？
+   EN: Wh-what's HE doing here!?
+>> 51.93 | Banko | あれ？ / やぁやぁ この前は どうも！ / この子 クラスメートの男男子！
+   EN: Huh? Hey hey, thanks for the other day! This here's my classmate, Danshi Otoko!
+   ctx 51.94 | Boy | こんにちは～！
+   ctx EN: Hellooo!
+   ctx 51.95 | {p} | 女の子なのに 男子？
+   ctx EN: She's a girl, but her name means "boy"?

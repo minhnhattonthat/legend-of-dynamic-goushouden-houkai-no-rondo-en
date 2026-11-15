@@ -1,0 +1,1 @@
+ASSESSMENT | b080 | Approved | No confident translation errors found, allowing for shortened attack names in fixed-length fields.

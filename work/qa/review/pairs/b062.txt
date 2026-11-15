@@ -1,0 +1,192 @@
+   ctx D02.88 |  | 敵全体を【精神】属性で攻撃
+   ctx EN: Mind attack on all enemies
+   ctx D02.89 |  | カウンター攻撃
+   ctx EN: Counterattack
+>> E00.00 |  | ＤＰ１０％ＵＰ / 精神防御＋５
+   EN: DP +10% Mind Def +5
+>> E00.01 |  | ＡＬＬ５％ＵＰ / 精神攻撃＋１０
+   EN: All +5% Mind Atk +10
+>> E00.02 |  | ＡＬＬ５％ＵＰ / 精神防御＋１０
+   EN: All +5% Mind Def +10
+>> E00.03 |  | ＤＰ１０％ＵＰ / 熱防御＋５
+   EN: DP +10% Fire Def +5
+>> E00.04 |  | ＨＰ１０％ＵＰ / 叩攻撃＋５
+   EN: HP +10% Blunt Atk +5
+>> E00.05 |  | ＣＲＴ５％ＵＰ / 斬攻撃＋５
+   EN: CRT +5% Slash Atk +5
+>> E00.06 |  | ＨＰ１０％ＵＰ / 叩防御＋５
+   EN: HP +10% Blunt Def +5
+>> E00.07 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.08 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.09 |  | ＡＴ５％ＵＰ / 叩攻撃＋５
+   EN: AT +5% Blunt Atk +5
+>> E00.10 |  | ＨＰ１５％ＵＰ / 雷攻撃＋１０
+   EN: HP +15% Bolt Atk +10
+>> E00.11 |  | ＤＦ５％ＵＰ / 斬攻撃＋５
+   EN: DF +5% Slash Atk +5
+>> E00.12 |  | ＡＴ５％ＵＰ / 叩攻撃＋１０
+   EN: AT +5% Blunt Atk +10
+>> E00.13 |  | ＤＸ５％ＵＰ / 叩防御＋５
+   EN: DX +5% Blunt Def +5
+>> E00.14 |  | ＤＰ１０％ＵＰ / 精神防御＋５
+   EN: DP +10% Mind Def +5
+>> E00.15 |  | ＡＴ５％ＵＰ / 叩攻撃＋５
+   EN: AT +5% Blunt Atk +5
+>> E00.16 |  | ＤＸ５％ＵＰ / 叩防御＋５
+   EN: DX +5% Blunt Def +5
+>> E00.17 |  | ＤＰ１０％ＵＰ / 
+   EN: DP +10% 
+>> E00.18 |  | ＡＴ５％ＵＰ / 叩攻撃＋５
+   EN: AT +5% Blunt Atk +5
+>> E00.19 |  | ＤＸ５％ＵＰ / 熱攻撃＋５
+   EN: DX +5% Fire Atk +5
+>> E00.20 |  | ＤＦ１０％ＵＰ / 精神防御＋５
+   EN: DF +10% Mind Def +5
+>> E00.21 |  | ＨＰ１５％ＵＰ / 熱攻撃＋５
+   EN: HP +15% Fire Atk +5
+>> E00.22 |  | ＤＦ５％ＵＰ / 冷攻撃＋１０
+   EN: DF +5% Ice Atk +10
+>> E00.23 |  | ＨＰ１０％ＵＰ / 冷防御＋５
+   EN: HP +10% Ice Def +5
+>> E00.24 |  | ＨＰ１０％ＵＰ / 熱攻撃＋１０
+   EN: HP +10% Fire Atk +10
+>> E00.25 |  | ＡＴ１０％ＵＰ / 雷攻撃＋１０
+   EN: AT +10% Bolt Atk +10
+>> E00.26 |  | ＤＦ１０％ＵＰ / 斬防御＋５
+   EN: DF +10% Slash Def +5
+>> E00.27 |  | ＤＰ１０％ＵＰ / 冷防御＋５
+   EN: DP +10% Ice Def +5
+>> E00.28 |  | ＡＴ１０％ＵＰ / 斬攻撃＋５
+   EN: AT +10% Slash Atk +5
+>> E00.29 |  | ＤＸ５％ＵＰ / 叩防御＋５
+   EN: DX +5% Blunt Def +5
+>> E00.30 |  | ＤＦ５％ＵＰ / 熱防御＋５
+   EN: DF +5% Fire Def +5
+>> E00.31 |  | ＤＸ５％ＵＰ / 叩攻撃＋５
+   EN: DX +5% Blunt Atk +5
+>> E00.32 |  | ＨＰ１５％ＵＰ / 斬防御＋５
+   EN: HP +15% Slash Def +5
+>> E00.33 |  | ＤＦ５％ＵＰ / 熱攻撃＋５
+   EN: DF +5% Fire Atk +5
+>> E00.34 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.35 |  | ＤＦ５％ＵＰ / 精神防御＋５
+   EN: DF +5% Mind Def +5
+>> E00.36 |  | ＤＰ１０％ＵＰ / 精神防御＋５
+   EN: DP +10% Mind Def +5
+>> E00.37 |  | ＤＰ１５％ＵＰ / 精神防御＋５
+   EN: DP +15% Mind Def +5
+>> E00.38 |  | ＡＴ５％ＵＰ / 叩攻撃＋５
+   EN: AT +5% Blunt Atk +5
+>> E00.39 |  | ＡＴ５％ＵＰ / 熱攻撃＋５
+   EN: AT +5% Fire Atk +5
+>> E00.40 |  | ＤＦ５％ＵＰ / 斬防御＋５
+   EN: DF +5% Slash Def +5
+>> E00.41 |  | ＤＦ５％ＵＰ / 叩攻撃＋５
+   EN: DF +5% Blunt Atk +5
+>> E00.42 |  | ＤＸ５％ＵＰ / 叩防御＋５
+   EN: DX +5% Blunt Def +5
+>> E00.43 |  | ＡＴ５％ＵＰ / 叩攻撃＋５
+   EN: AT +5% Blunt Atk +5
+>> E00.44 |  | ＤＸ５％ＵＰ / 斬攻撃＋５
+   EN: DX +5% Slash Atk +5
+>> E00.45 |  | ＤＦ５％ＵＰ / 
+   EN: DF +5% 
+>> E00.46 |  | ＡＴ５％ＵＰ / 
+   EN: AT +5% 
+>> E00.47 |  | ＤＦ５％ＵＰ / 精神防御＋１０
+   EN: DF +5% Mind Def +10
+>> E00.48 |  | ＤＸ５％ＵＰ / 冷防御＋５
+   EN: DX +5% Ice Def +5
+>> E00.49 |  | ＨＰ１０％ＵＰ / 叩攻撃＋１０
+   EN: HP +10% Blunt Atk +10
+>> E00.50 |  | ＤＰ１０％ＵＰ / 叩防御＋５
+   EN: DP +10% Blunt Def +5
+>> E00.51 |  | ＤＦ５％ＵＰ / 冷攻撃＋１０
+   EN: DF +5% Ice Atk +10
+>> E00.52 |  | ＤＦ５％ＵＰ / 
+   EN: DF +5% 
+>> E00.53 |  | ＨＰ１０％ＵＰ / 
+   EN: HP +10% 
+>> E00.54 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.55 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.56 |  | ＨＰ１５％ＵＰ / 精神防御＋５
+   EN: HP +15% Mind Def +5
+>> E00.57 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.58 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.59 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.60 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.61 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.62 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.63 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.64 |  | ＣＲＴ５％ＵＰ / 精神攻撃＋５
+   EN: CRT +5% Mind Atk +5
+>> E00.65 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.66 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.67 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.68 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.69 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.70 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.71 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.72 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.73 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.74 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.75 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.76 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.77 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.78 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.79 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.80 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.81 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.82 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.83 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.84 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.85 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.86 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.87 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.88 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.89 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.90 |  | ＮＰＣ / ＮＰＣ
+   EN: NPC NPC
+>> E00.91 |  | ＤＦ５％ＵＰ / 熱攻撃＋５
+   EN: DF +5% Fire Atk +5
+   ctx P00.00 |  | 日本マップ
+   ctx EN: Map of Japan
+   ctx P00.01 |  | 飛鳥邸
+   ctx EN: Asuka Mansion

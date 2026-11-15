@@ -1,0 +1,308 @@
+   ctx r0DBFEC |  | おっぴろげＪ
+   ctx EN: Spread Jump
+   ctx r0DBFFC |  | 鬼絵巻き
+   ctx EN: Oni Scroll
+>> r0DC008 |  | オニえまき
+   EN: Oni Scroll
+>> r0DC014 |  | 鬼の爪
+   EN: Oniclaw
+>> r0DC01C |  | オニの爪
+   EN: Oniclaw
+>> r0DC028 |  | 怨念
+   EN: Grudge
+>> r0DC030 |  | おんねん
+   EN: Grudge
+>> r0DC03C |  | 怪光線
+   EN: Hex Ray
+>> r0DC044 |  | かいこうせん
+   EN: Hex Ray
+>> r0DC054 |  | 火炎
+   EN: Flame
+>> r0DC05C |  | 火炎車
+   EN: Blaze
+>> r0DC064 |  | 火炎放射
+   EN: Flame Spray
+>> r0DC070 |  | 火炎ほうしゃ
+   EN: Flame Spray
+>> r0DC080 |  | 火竜
+   EN: Drake
+>> r0DC088 |  | 火リュウ
+   EN: Drake
+>> r0DC094 |  | カサ
+   EN: Parasol
+>> r0DC09C |  | 家族の絆
+   EN: Family Bond
+>> r0DC0A8 |  | かぞくのきずな
+   EN: Family Bond
+>> r0DC0B8 |  | 合体
+   EN: Combine
+>> r0DC0C0 |  | 空手
+   EN: Karate
+>> r0DC0C8 |  | 吸血
+   EN: Leech
+>> r0DC0D0 |  | 吸収光線
+   EN: Drain Ray
+>> r0DC0DC |  | 吸収こうせん
+   EN: Drain Ray
+>> r0DC0EC |  | 巨石
+   EN: Boulder
+>> r0DC0F4 |  | 切りさく
+   EN: Lacerate
+>> r0DC100 |  | クイックドロー
+   EN: Quick Draw
+>> r0DC110 |  | 袈裟斬り
+   EN: Cleave
+>> r0DC11C |  | けさぎり
+   EN: Cleave
+>> r0DC128 |  | ゲッターミサイル
+   EN: Getter Missile
+>> r0DC13C |  | 剣
+   EN: Cut
+>> r0DC140 |  | ケンカ殺法
+   EN: Dirty Fight
+>> r0DC14C |  | ケンカさっぽう
+   EN: Dirty Fight
+>> r0DC15C |  | 光子力ビーム
+   EN: Photon Beam
+>> r0DC16C |  | 高電圧
+   EN: Voltage
+>> r0DC174 |  | こうでんあつ
+   EN: Voltage
+>> r0DC184 |  | 業火
+   EN: Inferno
+>> r0DC18C |  | ゴウ火
+   EN: Inferno
+>> r0DC194 |  | 降魔の利剣
+   EN: Bane Sword
+>> r0DC1A0 |  | ごうまの利剣
+   EN: Bane Sword
+>> r0DC1B0 |  | コウモリ
+   EN: Bats
+>> r0DC1BC |  | こうら
+   EN: Shell
+>> r0DC1C4 |  | 虚空斬
+   EN: Voidcut
+>> r0DC1CC |  | こくうざん
+   EN: Voidcut
+>> r0DC1D8 |  | 虚空閃
+   EN: Voidarc
+>> r0DC1E0 |  | こくうせん
+   EN: Voidarc
+>> r0DC1EC |  | こんぼう
+   EN: Club
+>> r0DC1F8 |  | サイコキネシス
+   EN: Psychokinesis
+>> r0DC208 |  | サイコショック
+   EN: Psycho Shock
+>> r0DC218 |  | 殺人パンチ
+   EN: Death Punch
+>> r0DC224 |  | 斬馬刀
+   EN: Zanbato
+>> r0DC22C |  | ざんば刀
+   EN: Zanbato
+>> r0DC238 |  | 死の面
+   EN: Mask
+>> r0DC240 |  | 重力球
+   EN: Gravity
+>> r0DC248 |  | じゅうりょく球
+   EN: Gravity
+>> r0DC258 |  | 守護鉄壁
+   EN: Iron Guard
+>> r0DC264 |  | しゅごてっぺき
+   EN: Iron Guard
+>> r0DC274 |  | 友の絆
+   EN: Friends
+>> r0DC27C |  | とものきずな
+   EN: Friends
+>> r0DC28C |  | 手裏剣
+   EN: Stars
+>> r0DC294 |  | シュリケン
+   EN: Stars
+>> r0DC2A0 |  | 消化液
+   EN: Bile
+>> r0DC2A8 |  | 消化えき
+   EN: Bile
+>> r0DC2B4 |  | 触手
+   EN: Tendril
+>> r0DC2BC |  | しょくしゅ
+   EN: Tendril
+>> r0DC2C8 |  | シルバーフルーレ
+   EN: Silver Fleuret
+>> r0DC2DC |  | 真空飛びひざ
+   EN: Vacuum Knee
+>> r0DC2EC |  | しんくうとびひざ
+   EN: Vacuum Knee
+>> r0DC300 |  | スピア
+   EN: Spear
+>> r0DC308 |  | 精神破壊
+   EN: Mind Crush
+>> r0DC314 |  | せいしんはかい
+   EN: Mind Crush
+>> r0DC324 |  | 石化
+   EN: Petrify
+>> r0DC32C |  | 旋風斬
+   EN: Cyclone
+>> r0DC334 |  | せんぷうざん
+   EN: Cyclone
+>> r0DC344 |  | しもべ
+   EN: Minion
+>> r0DC34C |  | 爪牙
+   EN: Maul
+>> r0DC354 |  | 双角
+   EN: Horns
+>> r0DC35C |  | 大雪山おろし
+   EN: Daisetsuzan
+>> r0DC36C |  | 大せつざんおろし
+   EN: Daisetsuzan
+>> r0DC380 |  | タコ殴り
+   EN: Beatdown
+>> r0DC38C |  | タコなぐり
+   EN: Beatdown
+>> r0DC398 |  | 太刀
+   EN: Tachi
+>> r0DC3A0 |  | チェンジ１
+   EN: Change 1
+>> r0DC3AC |  | チェンジ２
+   EN: Change 2
+>> r0DC3B8 |  | チェンジ３
+   EN: Change 3
+>> r0DC3C4 |  | 窒息締め
+   EN: Chokehold
+>> r0DC3D0 |  | ちっそくじめ
+   EN: Chokehold
+>> r0DC3E0 |  | 超殺人剣
+   EN: Death Sword
+>> r0DC3EC |  | 超パワー
+   EN: Super Power
+>> r0DC3F8 |  | 超能力
+   EN: Psychic
+>> r0DC400 |  | ちょうのうりょく
+   EN: Psychic
+>> r0DC414 |  | ツノ
+   EN: Horn
+>> r0DC41C |  | つららおとし
+   EN: Icicle Drop
+>> r0DC42C |  | 鉄球
+   EN: Flail
+>> r0DC434 |  | デビルサンダー
+   EN: Devil Thunder
+>> r0DC444 |  | デビルビーム
+   EN: Devil Beam
+>> r0DC454 |  | テレキネシス
+   EN: Telekinesis
+>> r0DC464 |  | 電撃
+   EN: Shock
+>> r0DC46C |  | でんげき
+   EN: Shock
+>> r0DC478 |  | 毒ヘビ
+   EN: Viper
+>> r0DC480 |  | どくヘビ
+   EN: Viper
+>> r0DC48C |  | 突風
+   EN: Gust
+>> r0DC494 |  | とっぷう
+   EN: Gust
+>> r0DC4A0 |  | 飛びかかる
+   EN: Pounce
+>> r0DC4AC |  | とびかかる
+   EN: Pounce
+>> r0DC4B8 |  | トマホーク
+   EN: Tomahawk
+>> r0DC4C4 |  | いたずらマシン
+   EN: Prank Machine
+>> r0DC4D4 |  | トラバサミ
+   EN: Bear Trap
+>> r0DC4E0 |  | ドリル
+   EN: Drill
+>> r0DC4E8 |  | ドリルアーム
+   EN: Drill Arm
+>> r0DC4F8 |  | なめし針のまい
+   EN: Needle Dance
+>> r0DC508 |  | 日本刀
+   EN: Katana
+>> r0DC510 |  | ヌンチャク
+   EN: Nunchaku
+>> r0DC51C |  | 念動力
+   EN: Kinesis
+>> r0DC524 |  | ねんどうりょく
+   EN: Kinesis
+>> r0DC534 |  | 念力
+   EN: Psi
+>> r0DC53C |  | ネンリキ
+   EN: Psi
+>> r0DC548 |  | バードスの杖
+   EN: Bardos Staff
+>> r0DC558 |  | ハードナックル
+   EN: Hard Knuckle
+>> r0DC568 |  | ハウンドドッグ
+   EN: Hound Dog
+>> r0DC578 |  | 爆弾
+   EN: Bomb
+>> r0DC580 |  | ばくだん
+   EN: Bomb
+>> r0DC58C |  | バストニードル
+   EN: Bust Needle
+>> r0DC59C |  | 発熱
+   EN: Fever
+>> r0DC5A4 |  | 発ねつ
+   EN: Fever
+>> r0DC5AC |  | ハニーブーメラン
+   EN: Honey Boomerang
+>> r0DC5C0 |  | バリアフィールド
+   EN: Barrier Field
+>> r0DC5D4 |  | 引きさく
+   EN: Rip
+>> r0DC5E0 |  | ファイアブレス
+   EN: Fire Breath
+>> r0DC5F0 |  | フォースシールド
+   EN: Force Shield
+>> r0DC604 |  | フォトンガン
+   EN: Photon Gun
+>> r0DC614 |  | 砲丸
+   EN: Shotput
+>> r0DC61C |  | 炎の吐息
+   EN: Hot Breath
+>> r0DC628 |  | 炎のといき
+   EN: Hot Breath
+>> r0DC634 |  | ボロットパンチ
+   EN: Borot Punch
+>> r0DC644 |  | 掴みかかる
+   EN: Grapple
+>> r0DC650 |  | つかみかかる
+   EN: Grapple
+>> r0DC660 |  | 魔王悪魔中技2
+   EN: Demon Skill 2
+>> r0DC670 |  | 魔王悪魔中技3
+   EN: Demon Skill 3
+>> r0DC680 |  | 双剣
+   EN: Swords
+>> r0DC688 |  | 魔王神中技2
+   EN: God Skill 2
+>> r0DC694 |  | 魔獣の爪
+   EN: Fiend Claw
+>> r0DC6A0 |  | まじゅうの爪
+   EN: Fiend Claw
+>> r0DC6B0 |  | マシンガンシャワー
+   EN: Gun Shower
+>> r0DC6C4 |  | マシンガン
+   EN: Gun Shower
+>> r0DC6D0 |  | またぐら挟み
+   EN: Crotch Clamp
+>> r0DC6E0 |  | またぐらはさみ
+   EN: Crotch Clamp
+>> r0DC6F0 |  | マリオネット
+   EN: Marionette
+>> r0DC700 |  | ミサイルパンチ
+   EN: Missile Punch
+>> r0DC710 |  | ムチ乱舞
+   EN: Whip Frenzy
+>> r0DC71C |  | ムチらんぶ
+   EN: Whip Frenzy
+>> r0DC728 |  | もりミサイル
+   EN: Harpoon Shot
+>> r0DC738 |  | 柳生忍術
+   EN: Yagyu Arts
+   ctx r0DC744 |  | やぎゅう忍術
+   ctx EN: Yagyu Arts
+   ctx r0DC754 |  | 野獣の牙
+   ctx EN: Beast Fang

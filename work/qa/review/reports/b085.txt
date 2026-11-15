@@ -1,0 +1,7 @@
+IMPORTANT | r0DD970 | "大本栄惨坊" names Omoto Eisanbo in tools/speakers.tsv. | "Eisanbo Daihon" conflicts with the established speaker name. | Omoto Eisanbo
+IMPORTANT | r0DD9A4 | "豹絵理座" names the character tagged Eriza Hyo. | "Eliza Hyo" conflicts with the established speaker name. | Eriza Hyo
+IMPORTANT | r0DD9B0 | "ひょうえりざ" is the kana form of the same character's name. | "Eliza Hyo" conflicts with the established Eriza Hyo spelling. | Eriza Hyo
+IMPORTANT | r0DDB10 | "家早南友" names Nanyu Iyahaya under the glossary ruling. | "Nantomo" contradicts the explicitly prescribed given name, Nanyu. | Nanyu Iyahaya
+IMPORTANT | r0DDDD8 | "死神警察署にある牢屋の鍵" means a key to a cell at Reaper Police HQ. | "Shinigami Police" is explicitly forbidden by the glossary. | Reaper Police cell key
+IMPORTANT | r0DDE28 | "幻城内で使うパスカード" means a pass card used inside Mirage Castle. | "Phantom Castle" is explicitly forbidden by the glossary. | Pass for Mirage Castle
+ASSESSMENT | b085 | Needs fixes | Several character names conflict with the repository references, and two place names use explicitly forbidden glossary alternatives.

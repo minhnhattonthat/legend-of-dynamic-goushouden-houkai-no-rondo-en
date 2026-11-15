@@ -1,0 +1,208 @@
+   ctx 44.98 | Dr. Saotome | 東北地方にある小さな村 戸来村は / 預言者集団… / つまり / 超能力者の村と言われている
+   ctx EN: Herai Village, a small village in the Tohoku region, is said to be a village of prophets... in other words, a village of psychics.
+   ctx 44.99 | {p} | 来留間博士が / どうして戸来村を…
+   ctx EN: Why would Dr. Kuruma be after Herai Village...?
+>> 45.00 | Dr. Saotome | 次元連鎖という現象について / 詳しいことは / 何もわかっていないのが現状だ /  / そこで科学都市では 予知一族に / 協力を求めることが決まった
+   EN: At present, we know nothing in detail about this phenomenon called the Dimension Chain.  So Science City has decided to ask the Precog Clan for their help.
+>> 45.01 | {p} | あの来留間博士と / 科学都市とが / 共に戸来村の預言者を / 探している！？
+   EN: Dr. Kuruma and Science City are both searching for the prophet of Herai Village!?
+>> 45.02 | Jiro | 俺達も戸来村へ行ってみよう / {p}！
+   EN: Let's go to Herai Village too, {p}!
+>> 45.03 | Dr. Saotome | それが良かろう /  / 戸来村は ここから 北東 / 科学都市 北の 小さな村だ / 来留間博士も / 予知一族を探している / 何が待っているか解らん / じゅうぶん 気をつけてくれ！
+   EN: That would be best.  Herai Village is a small village northeast of here, north of Science City. Dr. Kuruma is searching for the Precog Clan too. There's no telling what awaits you. Be very careful!
+>> 45.04 | Dr. Saotome | 戸来村は ここから 北東 / 科学都市 北の 小さな村だ / 来留間博士も / 予知一族を探している / 何が待っているか解らん / じゅうぶん 気をつけてくれ！
+   EN: Herai Village is a small village northeast of here, north of Science City. Dr. Kuruma is searching for the Precog Clan too. There's no telling what awaits you. Be very careful!
+>> 45.05 | Enma-kun | 地獄別荘を 早乙女研究所の近くに / 移動してくれ！って頼んだんだ！ / そしたら ワシも行く！って / 言い出しちゃって…
+   EN: I asked him to move Hell Villa near the Saotome Lab! And then he goes, "I'm coming too!"...
+>> 45.06 | Researcher | 
+   EN: ... 
+>> 45.07 | Akira Fudo | …それはな {p}
+   EN: ...Well, you see, {p}...
+>> 45.08 | Akira Fudo | おまえを驚かすために / みんなず～っと黙ってたんだ！
+   EN: We all kept quiet the whole time to surprise you!
+>> 45.09 | Akira Fudo | この地震 でかいぞ！
+   EN: This quake's a big one!
+>> 45.10 | Akira Fudo | おい また何か起こったらしいぜ！
+   EN: Hey, looks like something else happened!
+>> 45.11 | Akira Fudo | ………
+   EN: .........
+>> 45.12 | {p} | 明君 / もしかしたら その住宅地に…？
+   EN: Akira-kun, maybe that housing area is...?
+>> 45.13 | Akira Fudo | 美樹ちゃんの家が / あるかもしれない… / こうしちゃいられねぇ！
+   EN: Miki-chan's house might be there... I can't just sit here!
+>> 45.14 | {p} | 明君！？
+   EN: Akira-kun!?
+>> 45.15 | Akira Fudo | 俺達 蓮沼のあった場所に / 行ってみようと思うんだ / もしかしたら 美樹ちゃんに / 逢えるかもしれないからな / …急がないと美樹ちゃんが危ない / そんな気がするんだ！
+   EN: We're thinking of checking out where Hasunuma used to be. Maybe I'll find Miki-chan there. ...If I don't hurry, Miki-chan's in danger. I've got that feeling!
+>> 45.16 | Ryo Asuka | ひとりで行こうとする明を説得して / ここに連れてきた / 何が待っているか解らないからな / 仲間を連れて行ったほうがいい
+   EN: Akira was going to go alone, so I talked him around and brought him here. There's no telling what's waiting. Better to bring friends.
+>> 45.17 | {p} | 僕も そのほうが いいと思うよ / 明君…
+   EN: I think so too, Akira-kun...
+>> 45.18 | Akira Fudo | 急がないと美樹ちゃんが危ない… / そんな気がするんだ！
+   EN: If I don't hurry, Miki-chan's in danger... I've got that feeling!
+>> 45.19 | {p} | 明君 気をつけて…
+   EN: Be careful, Akira-kun...
+>> 45.20 | Akira Fudo | 解っている / おまえもな！
+   EN: I know. You too!
+>> 45.21 | {s} | 明君達 / あれから どうしてるかしら…
+   EN: I wonder how Akira-kun and the others are doing...
+>> 45.22 | Akira Fudo | いや～ みんなが無事で良かったよ
+   EN: Man, I'm glad everybody's safe.
+>> 45.23 | Miki | 明君ったら あたしのことを / 心配してくれてたんじゃないの？
+   EN: Oh, Akira-kun, weren't you worried about me?
+>> 45.24 | Tare-chan | 美樹ねぇちゃん 強いもん / 心配なんか いらないよね！
+   EN: Big sis Miki's tough! No need to worry about her, right?
+>> 45.25 | Miki | こらっ！
+   EN: Hey!
+>> 45.26 | Tare-chan | ひえ～っ！
+   EN: Yikes!
+>> 45.27 | Miki | まったくもう！ /  / 明君 お風呂わいてるからね
+   EN: Honestly!  Akira-kun, the bath's ready.
+>> 45.28 | Ryo Asuka | デビルマンとなった君は それ以前 / とは 人間が変わってしまった / だが ふたりは / それに気がついていない / それとも ふたりにとって / 今の君のほうが自然なのかも…
+   EN: Becoming Devilman changed you as a person. But those two haven't noticed. Or maybe the way you are now just seems more natural to them...
+>> 45.29 | Akira Fudo | あの出来事どころか 次元連鎖すら / 起こっていないみたいだな
+   EN: Looks like nothing happened here, not even the Dimension Chain.
+>> 45.30 | Ryo Asuka | もしかしたら / 記憶を消されているのかも…
+   EN: Maybe their memories were erased...
+>> 45.31 | Akira Fudo | 考えすぎだよ 了
+   EN: You're overthinking it, Ryo.
+>> 45.32 | Ryo Asuka | 時間の すすみ具合さえ違う世界… /  / そんな世界が / 無数に存在しているのかも…
+   EN: Worlds where even time passes at a different pace...  Maybe there are countless worlds like that...
+>> 45.33 | Miki | 明君 お風呂わいてるからね
+   EN: Akira-kun, the bath's ready.
+>> 45.34 | Akira Fudo | 誰だ おまえ！？
+   EN: Who the hell are you!?
+>> 45.35 | Miki | スケバン君！？ /  / お隣の女蛮子君よ / 通称 スケバン君
+   EN: Sukeban-kun!?  It's Banji Suke-kun from next door. Everybody calls him Sukeban-kun.
+>> 45.36 | Banko | 夜分に すんません！ /  / おいら 姓はスケ 名はバンジ！ / 通り名をスケバンと発しやす！ / ごめんよ～ 美樹ちゃん！ / これには わけがあるんだ…
+   EN: Beggin' your pardon this late at night!  Family name's Suke, given name's Banji! Folks call me Sukeban! Sorry, Miki-chan! See, there's a reason for all this...
+>> 45.37 | Akira Fudo | どんなわけだ！？
+   EN: What reason!?
+>> 45.38 | Miki | どうせまた 蛮千代おばさまに / 叱られてるんでしょ？
+   EN: Aunt Banchiyo's scolding you again, isn't she?
+>> 45.39 | Banchiyo | 逃がさんぞ 蛮子！
+   EN: You won't get away, Banji!
+>> 45.40 | Banko | あ～っ きた～っ！
+   EN: Aaah, she's heeere!
+>> 45.41 | Banchiyo | くたばれ 蛮子！
+   EN: Drop dead, Banji!
+>> 45.42 | Banko | ヒ～ッ！
+   EN: Eeeek!
+>> 45.43 | Akira Fudo | ………
+   EN: .........
+>> 45.44 | Miki | 蛮子君のお母さん / 伝説の女番長だったんだって！ / 普段は 凄く優しい人なんだけど / 怒り始めたら手がつけられないの
+   EN: They say Banji-kun's mom used to be a legendary girl gang boss! She's usually really sweet, but once she gets mad, nobody can handle her.
+>> 45.45 | Akira Fudo | 蛮子って たしか… / 男じゃなかったか？ / なんで あいつ / スカートはいてたんだ？
+   EN: That Banji... isn't he a guy? Why was he wearing a skirt?
+>> 45.46 | Miki | 転校した学校の制服なんだって！
+   EN: He says it's the uniform at the school he transferred to!
+>> 45.47 | Akira Fudo | でもあれ / どう見ても女の子の制服だぞ…
+   EN: But that sure looks like a girls' uniform to me...
+>> 45.48 | Tare-chan | ＺＺＺ… / ＺＺＺ…
+   EN: Zzz... Zzz...
+>> 45.49 | Miki | 明君も一緒に はいるぅ～？
+   EN: Akira-kun, wanna get in with me?
+>> 45.50 | Akira Fudo | …ばか！
+   EN: ...Idiot!
+>> 45.51 | Akira Fudo | ふぅ… / 美樹ちゃん 無事で良かった… / …だが おかしい / 妙な胸騒ぎがする / 俺の血が騒ぐ… / 戦いの時が迫っている… / 戦いのゴングが 間もなく鳴る！
+   EN: Phew... I'm glad Miki-chan's safe... But something's wrong. I've got a strange feeling. My blood's stirring... A fight's coming... The bell's about to ring!
+>> 45.52 | Sirene | 美しき月よ… そなたは これから / 起こることを 見ないほうが良い / 醜い血で染まりたくないならば…！
+   EN: O lovely moon... You'd best not watch what's about to happen. Not if you don't want to be stained with ugly blood...!
+>> 45.53 | Sirene | あはははは…！ / デビルマンを地獄に送る案内人！ / 戦うことしか知らぬ / デーモンの戦士達よ！ / 嵐と共に来たれ！
+   EN: Ahahahaha...! Guides who'll send Devilman to Hell! Demon warriors who know nothing but battle! Come with the storm!
+>> 45.54 | Miki | キャァ～ッ！
+   EN: KYAAAH!
+>> 45.55 | Akira Fudo | 鳴った！ / 戦いのゴングだ！
+   EN: There it is! The bell for the fight!
+>> 45.56 | Tare-chan | さっきの悲鳴 なに？ / びっくりして 漏らしちゃった…
+   EN: What was that scream? I got so scared I wet myself...
+>> 45.57 | Akira Fudo | 美樹ちゃんが いない！？ / さらわれたか！？
+   EN: Miki-chan's gone!? Was she kidnapped!?
+>> 45.58 | Ryo Asuka | 明！ / 誰かが玄関から出て行ったぞ！
+   EN: Akira! Someone went out the front door!
+>> 45.59 | Akira Fudo | 美樹ちゃん！？
+   EN: Miki-chan!?
+>> 45.60 | Akira Fudo | ひさしぶりに帰ってこれたんだ… / もう少し ゆっくりしよう
+   EN: First time I've been back in a while... Let's take it easy a bit longer.
+>> 45.61 | Akira Fudo | デーモン！ / 美樹ちゃんを返せ！
+   EN: Demon! Give Miki-chan back!
+>> 45.62 | Akira Fudo | 美樹ちゃん…
+   EN: Miki-chan...
+>> 45.63 | Ryo Asuka | 大丈夫 気を失っているだけだ
+   EN: It's all right. She's just unconscious.
+>> 45.64 | Akira Fudo | きさま 何者だ？
+   EN: Who the hell are you?
+>> 45.65 | Bokuto Masa | あっしは 木刀政… / あんたが来てくれなきゃ / 化けもんに / 食われてるところだったぜ！
+   EN: The name's Bokuto Masa... If you hadn't come, I'd've been eaten by that monster!
+>> 45.66 | Bokuto Masa | な なんだ あのでっけぇ鳥は！？
+   EN: Wh-what's that huge bird!?
+>> 45.67 | Ryo Asuka | 明！ / しまった！ / 木刀政とやら ついてこい！
+   EN: Akira! Damn! You, Bokuto Masa or whatever, come with me!
+>> 45.68 | Bokuto Masa | もちろんだ！
+   EN: You bet!
+>> 45.69 | Tare-chan | 美樹ねえちゃん！ / 大変だ 部屋に運ばなくちゃ！
+   EN: Big sis Miki! Oh no, we gotta get her to her room!
+>> 45.70 | Sirene | 勝った！ / 私の勝ちだ デビルマン！ / おまえが気を抜いた瞬間を / 狙っていたのさ！
+   EN: I've won! The victory is mine, Devilman! I was waiting for the moment you let your guard down!
+>> 45.71 | Akira Fudo | ぐぅ… シレーヌ？
+   EN: Ngh... Sirene?
+>> 45.72 | Sirene | アモンの記憶が残ってるようだね！ /  / 私を覚えていてくれて うれしいよ / デビルマン！
+   EN: So Amon's memories still remain!  How lovely that you remember me, Devilman!
+>> 45.73 | Akira Fudo | うっ / デビルマンに変身出来ない！？
+   EN: Ngh, I can't transform into Devilman!?
+>> 45.74 | Sirene | 私の爪には あらゆる超能力を / 防ぐ力があるのさ！ / おまえの身体を紙くずのように / 引き裂いてあげるわ！
+   EN: My claws have the power to block every psychic power! I'll tear your body to shreds like scrap paper!
+>> 45.75 | Ryo Asuka | 俺が不動明に 妖鳥シレーヌを / 打ち破る チャンスを与えよう！ / 待っていろ デビルマン！
+   EN: I'll give Akira Fudo the chance to defeat Sirene the bird-demon! Wait for me, Devilman!
+>> 45.76 | Bokuto Masa | いたぜ！ あそこだ！
+   EN: There she is! Over there!
+>> 45.77 | Ryo Asuka | よし！
+   EN: Good!
+>> 45.78 | Sirene | おまえは 美しい地球のゴミために / うごめく虫ケラだ！ / 虫ケラに ふさわしい死に方を / させてやるわ！
+   EN: You're a bug crawling in the beautiful Earth's garbage heap! I'll give you a death fit for a bug!
+>> 45.79 | Akira Fudo | 了！ / まさか…！？
+   EN: Ryo! Don't tell me...!?
+>> 45.80 | Sirene | ギエエエエエ～！
+   EN: GYEEEEEEH!
+>> 45.81 | Ryo Asuka | 明！ / 大丈夫か！？
+   EN: Akira! Are you all right!?
+>> 45.82 | Akira Fudo | シレーヌめ！ /  / 俺を 人間を ゴミためにうごめく / 虫ケラと言ったな！ / その虫ケラの力がどのようなものか / 見るがいい！
+   EN: Damn you, Sirene!  You called me, called humans, bugs crawling in a garbage heap! Now see what this bug can do!
+>> 45.83 | Akira Fudo | 行くぞ 了！ 政！
+   EN: Let's go, Ryo! Masa!
+>> 45.84 | Akira Fudo | …今 ここで シレーヌを倒す！ / まだ戻るわけには いかない！！
+   EN: ...I'm beating Sirene here and now! I can't go back yet!!
+>> 45.85 | Sirene | きさまを / 百の肉片に引きちぎってくれる！ / 来い デビルマン！
+   EN: I'll tear you into a hundred pieces of meat! Come, Devilman!
+>> 45.86 | Devilman | 悪あがきは よしやがれ / てめぇの負けだ シレーヌ
+   EN: Quit your struggling. You've lost, Sirene.
+>> 45.87 | Sirene | くっ！ キズが深い… / 勝てないのか… / このままでは死にきれぬ！ / デビルマンを倒す力が欲しい…！
+   EN: Ngh! The wound is deep... Can I not win... I can't die like this! I want the power to defeat Devilman...!
+>> 45.88 | Kaim | シレーヌ 俺の身体を使え！ / 合体だ！
+   EN: Sirene, use my body! Merge with me!
+>> 45.89 | Sirene | 合体？ / 何をいうのカイム！ / たとえデビルマンに勝っても / ふたりとも すぐに死ぬのよ！ / それでもいいの カイム！？
+   EN: Merge? What are you saying, Kaim! Even if we beat Devilman, we'll both die soon after! Are you all right with that, Kaim!?
+>> 45.90 | Kaim | 俺は 生き延びるつもりは無い… /  / シレーヌ 君に勝利の感激を / 味あわせたいだけだ
+   EN: I don't intend to survive...  Sirene, I just want you to taste the thrill of victory.
+>> 45.91 | Sirene | な なぜ…
+   EN: Wh-why...
+>> 45.92 | Kaim | シレーヌ / 血まみれでも君は美しい…
+   EN: Sirene... Even covered in blood, you're beautiful...
+>> 45.93 | Sirene | カイム！
+   EN: Kaim!
+>> 45.94 | Sirene | デビルマン！ /  / シレーヌの執念が カイムの命が！ / きさまを倒す！ / きさまの命をカイムに捧げる！
+   EN: Devilman!  Sirene's obsession and Kaim's life will defeat you! I'll offer your life to Kaim!
+>> 45.95 | Akira Fudo | くっ！ / シレーヌ！！ / …！？ /  / 強敵だったが こときれている… / シレーヌ 恐ろしい敵だった…
+   EN: Ngh! Sirene!! ...!?  A powerful enemy, but she's breathed her last... Sirene, you were a terrifying enemy...
+>> 45.96 | Ryo Asuka | いや 素晴らしい敵と褒めてやれよ / 明
+   EN: No, praise her as a magnificent enemy, Akira.
+>> 45.97 | Akira Fudo | 美しい…
+   EN: She's beautiful...
+>> 45.98 | Ryo Asuka | ………
+   EN: .........
+>> 45.99 | Bokuto Masa | アニキ！ / あれを見てくだせぃ！
+   EN: Bro! Take a look at that!
+   ctx 46.00 | Akira Fudo | 黒い月！
+   ctx EN: A black moon!
+   ctx 46.01 | Ryo Asuka | あれは いったい…！？
+   ctx EN: What on earth is that...!?

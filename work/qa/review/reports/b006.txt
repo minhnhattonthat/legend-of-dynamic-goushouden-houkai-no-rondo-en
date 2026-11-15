@@ -1,0 +1,2 @@
+IMPORTANT | 05.01 | 「ワシを倒すことが出来たなら返してやるわ！」 means "If you can defeat me, I'll give her back!" | "Maybe" adds uncertainty absent from his explicit conditional promise. | If you can beat me, I'll give her back!
+ASSESSMENT | b006 | Needs fixes | One conditional promise is mistranslated; the remaining entries preserve meaning and character voices well.

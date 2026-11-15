@@ -1,0 +1,208 @@
+   ctx 32.98 | {p} | あっぶないなぁ もう…！
+   ctx EN: Geez, that was dangerous...!
+   ctx 32.99 | Boy | ポチじゃないの？
+   ctx EN: You're not Pochi?
+>> 33.00 | Old Man | こらっ！ キッカイ！
+   EN: Hey! Kikkai!
+>> 33.01 | Kikkai | おじいちゃん！
+   EN: Grandpa!
+>> 33.02 | Old Man | たとえ社会では 弱い者を こっそり / 苛めるのが常識であっても / 我が家にあっては / そうではいかん！
+   EN: Even if society thinks it's normal to pick on the weak on the sly, in this house that won't fly!
+>> 33.03 | Kikkai | ふ～んだ！ / なまいきなこというと こうだ！
+   EN: Hmph! Talk back to me and this is what you get!
+>> 33.04 | Old Man | ひゃ～！
+   EN: Hyaaa!
+>> 33.05 | Kikkai | ひひひ…！ / 自動お部屋掃除装置さ！
+   EN: Hee hee hee...! The automatic room-cleaning device!
+>> 33.06 | Old Man | 年寄りを ゴミ扱いしおって！ / こりゃ！ 家にいれんか！！
+   EN: Treating your elders like garbage! Hey! Let me back in the house!!
+>> 33.07 | Kikkai | 悔しかったら ここまで来てみな！
+   EN: If you're so mad, come get me!
+>> 33.08 | Old Man | なに～！
+   EN: Whaaat!
+>> 33.09 | {p} | …………
+   EN: ............
+>> 33.10 | Old Man | いや～ おはずかしいところを / お見せしました
+   EN: Well, well, how embarrassing that you saw all that.
+>> 33.11 | Fuyukai | わしは 摩訶フユカイ /  / さっきのは / 孫の 摩訶キッカイじゃ！
+   EN: I'm Fuyukai Maka.  That was my grandson, Kikkai Maka!
+>> 33.12 | {p} | 僕 {p}です
+   EN: I'm {p}.
+>> 33.13 | Fuyukai | それにしても / 外の様子が変じゃの？ / なんじゃか 騒々しいし / 景色も変ってるようじゃ…
+   EN: Anyhow, things look odd outside, eh? It's awful noisy, and the scenery seems to have changed...
+>> 33.14 | {p} | 科学都市では 今…
+   EN: In Science City right now...
+>> 33.15 | Fuyukai | 科学都市！？ /  / ふん！ わしは 科学とか機械が / 大ッ嫌いなんじゃ！
+   EN: Science City!?  Hmph! I can't stand science or machines!
+>> 33.16 | Kikkai | ポチよけの地雷に / 引っかかりやがった！
+   EN: He fell for the land mine I set for Pochi!
+>> 33.17 | Fuyukai | ………
+   EN: .........
+>> 33.18 | ??? | なんでか知らないけど / あちこち機械と武器だらけ！ / わがはいの研究も / はかどるというものじゃ！
+   EN: No idea why, but there's machines and weapons all over the place! My research is going swimmingly!
+>> 33.19 | {p} | 科学都市の 壊れた機械を / 拾ってる…
+   EN: He's picking up broken machines from Science City...
+>> 33.20 | ??? | アルフォンヌ！
+   EN: Alphonne!
+>> 33.21 | Alphonne | …………
+   EN: ............
+>> 33.22 | ??? | フルネームで呼ばないと / 返事もしやがらねー / アルフォンヌ・ルイ・ / シュタインベック三世！
+   EN: He won't even answer unless I use his full name... Alphonne Louis Steinbeck the Third!
+>> 33.23 | Alphonne | なんだあー ポチ？
+   EN: Whaaat, Pochi?
+>> 33.24 | Doctor Pochi | あ～ またポチって / 呼び捨てにした～！ / セッカン セッカン！
+   EN: Aaah, you called me plain Pochi again! Punishment! Punishment!
+>> 33.25 | Alphonne | だって ポチって名だ
+   EN: But your name IS Pochi.
+>> 33.26 | Doctor Pochi | ドクターをつけろって / いつも言ってるだろ～！ / 家来のクセに わがはいより / 偉そうな名前つけやがって！
+   EN: I keep telling you to put "Doctor" in front! You're just my servant, and you've got a fancier name than me!
+>> 33.27 | Alphonne | 俺のほうが 偉いのだ
+   EN: 'Cause I'm the bigger shot.
+>> 33.28 | Doctor Pochi | セッカン セッカン！
+   EN: Punishment! Punishment!
+>> 33.29 | {p} | 変な人達…
+   EN: What weird people...
+>> 33.30 | Doctor Pochi | 使えそうな部品を集めるのだ！ /  / そして強力な武器をつくって / 摩訶一家をぶっ飛ばすのだ！
+   EN: Gather up any parts we can use!  Then we'll build a mighty weapon and blast the Maka family sky-high!
+>> 33.31 | Alphonne | ぶっ飛ばすのだ！
+   EN: Blast 'em sky-high!
+>> 33.32 | {p} | 相手にしないほうが良さそうだな…
+   EN: Better not get involved with them...
+>> 33.33 | Doctor Pochi | 使えそうな部品を 集めるのだ！
+   EN: Gather up any parts we can use!
+>> 33.34 | Alphonne | 摩訶一家を ぶっ飛ばすのだ！
+   EN: Blast the Maka family sky-high!
+>> 33.35 | Doctor Pochi | すすめ～ あっちゃ～！ / ドテチテタ～！
+   EN: Forward, that way! Rat-a-tat-taaat!
+>> 33.36 | Doctor Pochi | ばっぎゃろめ～ すすめぇ！が / わからんかぁ～？ / セッカン セッカン！
+   EN: You dummy, don't you know what "forward" means!? Punishment! Punishment!
+>> 33.37 | {p} | またやってる…
+   EN: There they go again...
+>> 33.38 | Doctor Pochi | アルフォンヌ！ さっさと運べ！
+   EN: Alphonne! Haul it, quick!
+>> 33.39 | Doctor Pochi | ばっぎゃろう！ / わがはいを運ぶのではない～！ / セッカン セッカン！ / アルフォンヌ アレを運ぶのだ！
+   EN: You dummy! Don't haul ME! Punishment! Punishment! Alphonne, haul THAT!
+>> 33.40 | Alphonne | …………
+   EN: ............
+>> 33.41 | Doctor Pochi | アルフォンヌ・ルイ・ / シュタインベック三世！ / アレを運ぶのだ！
+   EN: Alphonne Louis Steinbeck the Third! Haul THAT!
+>> 33.42 | {p} | …！？
+   EN: ...!?
+>> 33.43 | Fuyukai | キッカイ 大変じゃ！
+   EN: Kikkai, this is terrible!
+>> 33.44 | Kikkai | なんだよ おじいちゃん… / ひゃっ！
+   EN: What is it, Grandpa... Hyah!
+>> 33.45 | Doctor Pochi | 発射～！
+   EN: FIIIRE!
+>> 33.46 | Doctor Pochi | 失敗じゃ… /  / こんな武器 強力過ぎて / 人間には使えんわい…
+   EN: A failure...  This weapon's too powerful for a human to use...
+>> 33.47 | Kikkai | やった～！
+   EN: Yaaay!
+>> 33.48 | {p} | あのふたり 大丈夫かなぁ…？
+   EN: Are those two going to be okay...?
+>> 33.49 | Kikkai | へ～き へ～き！ / いつものことだからさ！ / …あれ？ / おじいちゃん ど～したの？
+   EN: They're fine, they're fine! Happens all the time! ...Huh? Grandpa, what's wrong?
+>> 33.50 | Fuyukai | まわりを見てみい / 景色が変っとる…
+   EN: Look around ya. The scenery's changed...
+>> 33.51 | Kikkai | あ～ ホントだ！？
+   EN: Whoa, you're right!?
+>> 33.52 | Kikkai | て～へんだ～！ いったい / 何が起こったんだろ！？ / そ～いえば あんたら 誰？
+   EN: Big trouble! What the heck happened!? Come to think of it, who are you guys?
+>> 33.53 | {p} | ぼ 僕？ / え～と 実は…
+   EN: M-me? Well, um, actually...
+>> 33.54 | Kikkai | え～ 別々の次元の いろんな / 世界が つながったぁ～！？
+   EN: Whaaat, all kinds of worlds from different dimensions got connected!?
+>> 33.55 | {p} | 常識では考えられないことが / 起こっているんだよ
+   EN: Things are happening that common sense says can't happen.
+>> 33.56 | Fuyukai | 常識なんてヤツは / くつがえされるもんじゃよ
+   EN: Common sense is the sort of thing that gets turned on its head, sonny.
+>> 33.57 | Kikkai | おじいちゃん いいこと言うぜ！ / よし 決めた！ / {p}の仲間になる！ / だって面白そうだもん イヒヒ…！
+   EN: Grandpa, that's a good one! All right, I've decided! I'm joining {p}'s party! 'Cause it sounds like fun, hee hee...!
+>> 33.58 | Fuyukai | わしも いくぞ～！
+   EN: I'm comin' too!
+>> 33.59 | {p} | こんなところに / 置きっぱなしにして… / あぶないなぁ
+   EN: Leaving this lying around in a place like this... how dangerous.
+>> 33.60 | Doctor Pochi | 腹減った… /  / アルフォンヌ 食べ物を / 手に入れる アイデアは出んか？
+   EN: I'm starving...  Alphonne, can't you come up with an idea to get food?
+>> 33.61 | Alphonne | むむ～
+   EN: Mmmmm...
+>> 33.62 | Doctor Pochi | 出た？
+   EN: Got one?
+>> 33.63 | Alphonne | 出そうな感じ！ / あっ 出る 出る！
+   EN: Feels like it's comin'! Oh, it's comin', it's comin'!
+>> 33.64 | Doctor Pochi | わ～い 良かった！
+   EN: Yaaay, great!
+>> 33.65 | Alphonne | ……………
+   EN: ...............
+>> 33.66 | Alphonne | やっと出たっ！
+   EN: Finally, it came out!
+>> 33.67 | Doctor Pochi | セッカン セッカン！
+   EN: Punishment! Punishment!
+>> 33.68 | Doctor Pochi | おぉっ！ 食べ物！！ /  / わがはい / あなたの家来になります！
+   EN: Ooh! Food!!  I'll be your servant!
+>> 33.69 | Alphonne | 一生 ついてく！
+   EN: I'll follow you for life!
+>> 33.70 | Doctor Pochi | 腹減った…
+   EN: I'm starving...
+>> 33.71 | Alphonne | 腹減った～
+   EN: Starviiing...
+>> 33.72 | {p} | これ… ロボットかな…？ / それともサイボーグ？ / なんか 全身 武器のカタマリ… / って感じだ
+   EN: Is this... a robot...? Or a cyborg? It's like a walking pile of weapons...
+>> 33.73 | Iron Kaiser | 俺はアイアンカイザー！ / 最強のサイボーグ戦士！ / 手術は終わったようだな…
+   EN: I am Iron Kaiser! The ultimate cyborg warrior! It seems the operation is complete...
+>> 33.74 | Iron Kaiser | むっ！ 貴様は 手天童子！
+   EN: Hmm! You! The Shutendoji!
+>> 33.75 | Jiro | 俺のことを知っているのか？
+   EN: You know me?
+>> 33.76 | Iron Kaiser | 俺には父がいた… /  / 誰にも負けたことのない / 強い男だった / しかし ある男の剣が… / 父の身体を両断した！
+   EN: I had a father...  A strong man who had never lost to anyone. But one man's sword... cut my father's body in two!
+>> 33.77 | Jiro | ！？
+   EN: !?
+>> 33.78 | Iron Kaiser | その場所は / 暗黒寺・牙の草原！ / 我が父の名は / 争魔衆・邪腕坊苦海！！
+   EN: The place was the Fang Meadow at the Dark Temple! My father's name was Kukai Jawanbo of the Somashu!!
+>> 33.79 | Jiro | 邪腕坊の息子！？
+   EN: Jawanbo's son!?
+>> 33.80 | {p} | うわ～！
+   EN: Whoaaa!
+>> 33.81 | Iron Kaiser | おまえを倒すため 俺は身体に / マシンを取り入れた！ / より強くなるために手術を重ね / 俺は今や 最強のサイボーグ！ / 手天童子！ 父・邪腕坊の遺志を / 継ぎ おまえを倒す！
+   EN: To defeat you, I took machines into my body! I underwent operation after operation to grow stronger, and now I am the ultimate cyborg! Shutendoji! I carry on the will of my father Jawanbo, and I will defeat you!
+>> 33.82 | {p} | ちょっと！ / ちょっとまってよ！
+   EN: Hey! Hold on a second!
+>> 33.83 | Iron Kaiser | おや？ 貴様 手天童子郎と / 一緒にいた少年だな？
+   EN: Oh? You're the boy who was with Jiro Shutendo, aren't you?
+>> 33.84 | Jiro | 今は おまえと / 戦っている場合では ないんだ
+   EN: This is no time for me to be fighting you.
+>> 33.85 | {p} | そう 聞いて アイアンカイザー /  / 今 世界は / 大変な状態になってるんだ…
+   EN: That's right. Listen, Iron Kaiser.  Right now, the world is in serious trouble...
+>> 33.86 | {p} | 身体を改造したの？
+   EN: You modified your body?
+>> 33.87 | Iron Kaiser | 父・邪腕坊苦海の仇 / 手天童子を倒すためだ！
+   EN: To defeat the Shutendoji, who killed my father, Kukai Jawanbo!
+>> 33.88 | {p} | う… うん
+   EN: Y-yeah...
+>> 33.89 | Iron Kaiser | 正体を明かした / おまえの勇気が気に入った！ / おまえも / 手天童子を護る一族の者か？
+   EN: I like the courage you showed revealing who you are! Are you also of a clan that protects the Shutendoji?
+>> 33.90 | {p} | 僕は…
+   EN: I'm...
+>> 33.91 | Iron Kaiser | 世界が連結され / 異変が生じている！？ / なるほど… / それで合点がいったわ！
+   EN: The worlds have been linked and strange things are happening!? I see... Now it all makes sense!
+>> 33.92 | {p} | …？
+   EN: ...?
+>> 33.93 | Iron Kaiser | あの強い父が 手天童子などに / 敗れるわけがないのだ！ / 父が破れたのは 世界が / 連結されてしまったためだ！ / 正しい世界であれば 邪腕坊苦海が / 手天童子に負けるものか！
+   EN: There's no way my strong father could lose to the likes of the Shutendoji! Father lost because the worlds were linked! In a proper world, Kukai Jawanbo would never lose to the Shutendoji!
+>> 33.94 | Iron Kaiser | 邪腕坊苦海が / 手天童子に負けるはずがない / 次元連鎖が起こした / 間違いだったのだ！
+   EN: Kukai Jawanbo could never lose to the Shutendoji. It was a mistake caused by the Dimension Chain!
+>> 33.95 | Iron Kaiser | 少年よ これを俺にくれるのか！ /  / これで俺は / ますますパワーアップだ！ / はっはっは！
+   EN: Boy, you're giving this to me!  With this, I'll power up even more! Hahaha!
+>> 33.96 | Iron Kaiser | …だが 強くなって / どうするというのだ？ / 童子を倒すという俺の目的は / 今や意味を失われたも同じ…
+   EN: ...But what's the point of getting stronger? My goal of defeating Shutendoji has all but lost its meaning...
+>> 33.97 | {p} | アイアンカイザー！ / 僕と一緒に来てよ！ / そして 次元連鎖の謎を / 解決するんだ！
+   EN: Iron Kaiser! Come with me! And let's solve the mystery of the Dimension Chain!
+>> 33.98 | Iron Kaiser | おぉ それは妙案だ！ /  / 次元連鎖の謎を 解けば / 世界が元に戻る！ / さすれば 父・邪腕坊も生き返り / 童子を倒せる！
+   EN: Oh, a splendid idea!  If we solve the mystery of the Dimension Chain, the world will go back to how it was! Then my father Jawanbo will come back to life and defeat Shutendoji!
+>> 33.99 | {p} | そうなったら… 困るけど…
+   EN: If that happens... it'd be a problem, though...
+   ctx 34.00 | Iron Kaiser | 少年よ！ / おまえと共に行こう！ / おまえは 俺に パワーアップする / 意欲を与えてくれた！ / だが 手天童子と手を組むのは / ごめんだぞ！
+   ctx EN: Boy! I'll go with you! You've given me the will to power up! But I refuse to team up with the Shutendoji!
+   ctx 34.01 |  | 巨大兵器を 渡しますか？
+   ctx EN: Hand over the giant weapon?

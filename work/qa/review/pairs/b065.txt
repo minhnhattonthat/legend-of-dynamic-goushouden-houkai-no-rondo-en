@@ -1,0 +1,208 @@
+   ctx P01.98 |  | 魔王の城
+   ctx EN: Demon King's Castle
+   ctx P01.99 |  | 魔王の城
+   ctx EN: Demon King's Castle
+>> P02.00 |  | 魔王の城
+   EN: Demon King's Castle
+>> P02.01 |  | 魔王の城
+   EN: Demon King's Castle
+>> P02.02 |  | 魔王の城
+   EN: Demon King's Castle
+>> P02.03 |  | 民家
+   EN: House
+>> P02.04 |  | 民家
+   EN: House
+>> P02.05 |  | 民家
+   EN: House
+>> P02.06 |  | 民家
+   EN: House
+>> P02.07 |  | 民家
+   EN: House
+>> P02.08 |  | 民家
+   EN: House
+>> P02.09 |  | 民家
+   EN: House
+>> P02.10 |  | 民家
+   EN: House
+>> P02.11 |  | 民家
+   EN: House
+>> P02.12 |  | 民家
+   EN: House
+>> P02.13 |  | 民家
+   EN: House
+>> P02.14 |  | 民家
+   EN: House
+>> P02.15 |  | 民家
+   EN: House
+>> P02.16 |  | 民家
+   EN: House
+>> P02.17 |  | 民家
+   EN: House
+>> P02.18 |  | 風呂場
+   EN: Bathroom
+>> P02.19 |  | 風呂場
+   EN: Bathroom
+>> P02.20 |  | 風呂場
+   EN: Bathroom
+>> P02.21 |  | 風呂場
+   EN: Bathroom
+>> P02.22 |  | 風呂場
+   EN: Bathroom
+>> P02.23 |  | 風呂場
+   EN: Bathroom
+>> P02.24 |  | 風呂場
+   EN: Bathroom
+>> P02.25 |  | 風呂場
+   EN: Bathroom
+>> P02.26 |  | 風呂場
+   EN: Bathroom
+>> P02.27 |  | 風呂場
+   EN: Bathroom
+>> P02.28 |  | 風呂場
+   EN: Bathroom
+>> P02.29 |  | 風呂場
+   EN: Bathroom
+>> P02.30 |  | 風呂場
+   EN: Bathroom
+>> P02.31 |  | 風呂場
+   EN: Bathroom
+>> P02.32 |  | 風呂場
+   EN: Bathroom
+>> P02.33 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P02.34 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P02.35 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P02.36 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P02.37 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P02.38 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P02.39 |  | ショップ
+   EN: Shop
+>> P02.40 |  | ショップ
+   EN: Shop
+>> P02.41 |  | ショップ
+   EN: Shop
+>> P02.42 |  | ショップ
+   EN: Shop
+>> P02.43 |  | ショップ
+   EN: Shop
+>> P02.44 |  | 間身井薬局
+   EN: Mamii Pharmacy
+>> P02.45 |  | 蓮沼街
+   EN: Hasunuma Town
+>> P02.46 |  | 牧村邸
+   EN: Makimura House
+>> P02.47 |  | 牧村邸
+   EN: Makimura House
+>> P02.48 |  | 牧村邸
+   EN: Makimura House
+>> P02.49 |  | ポール邸
+   EN: Paul's Mansion
+>> P02.50 |  | ポール邸
+   EN: Paul's Mansion
+>> P02.51 |  | ポール邸
+   EN: Paul's Mansion
+>> P02.52 |  | ポール邸
+   EN: Paul's Mansion
+>> P02.53 |  | 山道
+   EN: Mountain Path
+>> P02.54 |  | 空
+   EN: Sky
+>> P02.55 |  | 聖チャペル学園
+   EN: St. Chapel Academy
+>> P02.56 |  | 黒い森
+   EN: Black Forest
+>> P02.57 |  | 迷いの森
+   EN: Lost Forest
+>> P02.58 |  | 迷いの森
+   EN: Lost Forest
+>> P02.59 |  | 迷いの森
+   EN: Lost Forest
+>> P02.60 |  | 迷いの森
+   EN: Lost Forest
+>> P02.61 |  | 迷いの森
+   EN: Lost Forest
+>> P02.62 |  | 迷いの森
+   EN: Lost Forest
+>> P02.63 |  | 迷いの森
+   EN: Lost Forest
+>> P02.64 |  | 迷いの森
+   EN: Lost Forest
+>> P02.65 |  | 迷いの森
+   EN: Lost Forest
+>> P02.66 |  | 迷いの森
+   EN: Lost Forest
+>> P02.67 |  | 黒いＢＧ
+   EN: Black BG
+>> P02.68 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.69 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.70 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.71 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.72 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.73 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.74 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.75 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.76 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.77 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.78 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.79 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.80 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.81 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.82 |  | 早乙女研究所
+   EN: Saotome Lab
+>> P02.83 |  | 日本アルプス
+   EN: Japanese Alps
+>> P02.84 |  | クレバス
+   EN: Crevasse
+>> P02.85 |  | ダンテ
+   EN: Dante
+>> P02.86 |  | アルプスの麓
+   EN: Foot of the Alps
+>> P02.87 |  | テント
+   EN: Tent
+>> P02.88 |  | テント
+   EN: Tent
+>> P02.89 |  | テント
+   EN: Tent
+>> P02.90 |  | テント
+   EN: Tent
+>> P02.91 |  | クレバス　制御室
+   EN: Crevasse Control Room
+>> P02.92 |  | ケダマンハウス
+   EN: Kedaman House
+>> P02.93 |  | ケダマンハウス
+   EN: Kedaman House
+>> P02.94 |  | ケダマンハウス
+   EN: Kedaman House
+>> P02.95 |  | ケダマンハウス
+   EN: Kedaman House
+>> P02.96 |  | 怒良野の家
+   EN: Dorano's House
+>> P02.97 |  | 墓地
+   EN: Graveyard
+>> P02.98 |  | 魔王の城
+   EN: Demon King's Castle
+>> P02.99 |  | 医療機関
+   EN: Medical Center
+   ctx P03.00 |  | 医療機関
+   ctx EN: Medical Center
+   ctx P03.01 |  | 医療機関
+   ctx EN: Medical Center

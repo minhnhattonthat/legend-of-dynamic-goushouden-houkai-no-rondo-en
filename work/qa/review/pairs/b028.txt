@@ -1,0 +1,208 @@
+   ctx 26.98 | Shinichi | これでマジンガーＺは / 解放されるはずだ！
+   ctx EN: That should free Mazinger Z!
+   ctx 26.99 | Enma-kun | …！？ / ちょっと アレ 見ろよ！
+   ctx EN: ...!? Hey, look at that!
+>> 27.00 | Shusha | 急いで 広間に戻ろう！
+   EN: Let's hurry back to the great hall!
+>> 27.01 | Koji Kabuto | やったぜ！ これで動けるぞ！ / マジンガー ゴー！！
+   EN: All right! Now I can move! Mazinger, GO!!
+>> 27.02 | Koji Kabuto | 今度こそ やっつけてやるぜ！
+   EN: This time I'm gonna finish you off!
+>> 27.03 | Koji Kabuto | 月が！？ / とうとう 出やがったか…
+   EN: The moon!? So it's finally come out...
+>> 27.04 | {s} | …ごめんね {p}… / あたし 魔王の考えがわかるのよ / 受け入れたの 魔王を！
+   EN: ...I'm sorry, {p}... I understand what the Demon King is thinking. I accepted him!
+>> 27.05 | {p} | …！
+   EN: ...!
+>> 27.06 | {s} | あなたも 地獄地震後の関東を / 見たでしょ！ / ジャックの世界では / あれが現実なのよ！ / 手天童子郎君も / 鬼獄界に戻る宿命なの！ / 朱紗君の世界は 凄ノ王出現と共に / 滅んじゃうのよ！
+   EN: You saw Kanto after the Hellquake too! In Jack's world, that's reality! Jiro Shutendo-kun is fated to go back to the Kigoku World! Shusha-kun's world will be destroyed when Susano-oh appears!
+>> 27.07 | {p} | それは… 本当なの？
+   EN: Is that... true?
+>> 27.08 | {s} | 真実だからこそ 新たな世界を / 作り直そうとしているのよ / 誰も苦しまない 憎しみも / 怒りも無い世界をね！
+   EN: It's because it's true that he's trying to remake the world! A world where nobody suffers, with no hatred or anger!
+>> 27.09 | {p} | 作り直す前に すべてを / 壊さなければならない！ / 壊された世界に住む人達は / どうなるんだい！？
+   EN: Before he can remake it, he has to destroy everything! What happens to the people living in the worlds he destroys!?
+>> 27.10 | {s} | 知らないわ！ /  / そんなこと あたしの / 知ったことじゃないもん！
+   EN: I don't know!  That's none of my business!
+>> 27.11 | {p} | {s}！ / 魔王は間違ってる！！
+   EN: {s}! The Demon King is wrong!!
+>> 27.12 | {s} | ああ…
+   EN: Ahh...
+>> 27.13 | {p} | {s}…！？
+   EN: {s}...!?
+>> 27.14 | {s} | ああ… /  / もう 遅いのよ / {p}…
+   EN: Ahh...  It's too late now, {p}...
+>> 27.15 | {p} | 遅くないよ！
+   EN: It's not too late!
+>> 27.16 | {s} | 遅いのだ！！
+   EN: IT IS TOO LATE!!
+>> 27.17 | Grade | もはや「破壊の月」は / 我の中にある！ / おまえも来るのだ / 「再生の太陽」よ…
+   EN: The "Moon of destruction" is already within me! You will come too, "Sun of rebirth"...
+>> 27.18 | {p} | …！？
+   EN: ...!?
+>> 27.19 | Grade | 日蝕まで まだ間がある /  / 黒い太陽の訪れまでに / 我は おまえを食らおう / そして 日蝕の訪れと共に / 崩壊して行く世界の姿を / この丘の上から眺めるのだ…！！
+   EN: There is still time before the eclipse.  Before the black sun comes, I shall devour you. And as the eclipse arrives, I shall watch from atop this hill as the world crumbles...!!
+>> 27.20 | {p} | く 来るな！
+   EN: S-stay back!
+>> 27.21 | Grade | グハハハハハ…！ /  / 逃げられるものなら / 逃げてみるがよい！
+   EN: Guhahahahaha...!  Run if you can!
+>> 27.22 | {p} | 来るな～！
+   EN: Stay baaack!
+>> 27.23 | Honey Kisaragi | {p}君！
+   EN: {p}-kun!
+>> 27.24 | {p} | ハニー！
+   EN: Honey!
+>> 27.25 | Honey Kisaragi | 大丈夫！ / みんな 無事よ！
+   EN: It's okay! Everyone's safe!
+>> 27.26 | Grade | ほほう これは おもしろい！ / 日蝕までの 余興だ！ / 滅び行く世界の勇者達よ / 我が遊んでやろう！！
+   EN: Oho, how amusing! A little entertainment before the eclipse! Heroes of dying worlds, I shall play with you!!
+>> 27.27 | Grade | 準備は良いか！？ /  / 滅び行く世界の勇者達よ / 我が遊んでやろう！
+   EN: Are you ready!?  Heroes of dying worlds, I shall play with you!
+>> 27.28 | Grade | グワ～！！
+   EN: GWAAAH!!
+>> 27.29 | {p} | {s}！ / しっかりして！
+   EN: {s}! Hang in there!
+>> 27.30 | {p} | しっかりして！
+   EN: Hang in there!
+>> 27.31 | {s} | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 27.32 | {p} | 良かった 生きてる！
+   EN: Thank goodness, she's alive!
+>> 27.33 | {s} | {p}… /  / …時が …来たわ
+   EN: {p}...  ...The time... has come.
+>> 27.34 | {p} | …！？
+   EN: ...!?
+>> 27.35 | {p} | 日蝕が… 始まる…！！ / 黒い太陽が… 現れる…！！
+   EN: The eclipse... is starting...!! The black sun... is appearing...!!
+>> 27.36 | Honey Kisaragi | {p}！ /  / 消えた… /  / 魔王が倒れたから / 自分達の世界に戻ったの…？
+   EN: {p}!  They vanished...  With the Demon King gone, did they go back to their own world...?
+>> 27.37 | Akira Fudo | {p}！ /  / 消えた… /  / 魔王が倒れて / 自分達の世界に戻れたのか…？
+   EN: {p}!  They vanished...  With the Demon King down, did they make it back to their own world...?
+>> 27.38 | {p} | ここは…？ /  / {s}？ / …気絶しちゃったのか
+   EN: Where is this...?  {s}? ...She passed out.
+>> 27.39 | {p} | 元の世界に戻ったはずなんだけど / …違うのかな？ / 門土さん達の世界では / 大きな地震で / 関東は 地獄と化していた…
+   EN: We should be back in our own world... but maybe not? In Mondo-san's world, a huge earthquake turned Kanto into Hell...
+>> 27.40 | {p} | もしかして… 元の世界でも / 大地震が起きたのだろうか…
+   EN: Could it be... a huge earthquake happened in our world too...
+>> 27.41 | {p} | 黒い月！？ / いや 黒い太陽！？
+   EN: A black moon!? No, a black sun!?
+>> 27.42 | {s} | 愚か者め…
+   EN: Fool...
+>> 27.43 | {s} | 我が そう やすやすと倒されると / 思ったか？
+   EN: Did you think I would be defeated so easily?
+>> 27.44 | {p} | ウッ！
+   EN: Ngh!
+>> 27.45 | Grade | 日蝕が始まり / 我が力は 頂点に達した / 日蝕が終わるまで / 我が力は 維持されたままだ / 貴様の仲間達は / たいしたことはないが / 食卓をうろつく / ハエのようなモノ… / 邪魔されることなく貴様を食らう / ため 食卓を変えたまでよ！
+   EN: The eclipse has begun and my power has reached its peak. Until the eclipse ends, my power will hold. Your friends are nothing much, but they're like flies buzzing around the dinner table... I merely changed tables so I could devour you without interruption!
+>> 27.46 | Grade | おとなしく 喰われるがいい！ /  / 我が体内で「破壊の月」が / 貴様を待っているぞ！ / ア～ッハッハッハッハ！
+   EN: Be a good boy and be eaten!  The "Moon of destruction" awaits you inside me! Ahahahahaha!
+>> 27.47 | {p} | ハニー！
+   EN: Honey!
+>> 27.48 | Grade | 貴様 どうやって！
+   EN: You! How did you get here!
+>> 27.49 | Honey Kisaragi | {p}君 / もう 大丈夫！
+   EN: {p}-kun, you're safe now!
+>> 27.50 | {p} | ハニー / いったいどうやって ここへ？
+   EN: Honey, how on earth did you get here?
+>> 27.51 | Honey Kisaragi | 来留間慎一君が あなた達の / 行き場所を 予知したの / そこへ 朱紗真悟君が / テレポートさせてくれたのよ！
+   EN: Shinichi Kuruma-kun foresaw where you'd gone. And Shingo Shusha-kun teleported me there!
+>> 27.52 | {p} | それじゃ ここは / 元の世界じゃないんだ！
+   EN: So this isn't our own world after all!
+>> 27.53 | Honey Kisaragi | 魔王の作った ツギハギの世界よ！ / さぁ 魔王！ / キューティーハニーの この剣が / おまえの野望を断ち切ってやる！
+   EN: It's a patchwork world the Demon King made! Now, Demon King! This sword of Cutie Honey will cut your ambitions to pieces!
+>> 27.54 | {p} | 元の世界に戻ったはずなんだけど / …違うのかな？ / 逞馬君達の世界では / 大きな地震で / 関東は 地獄と化していた…
+   EN: We should be back in our own world... but maybe not? In Takuma-kun's world, a huge earthquake turned Kanto into Hell...
+>> 27.55 | Grade | ぐあああ…！ /  / あと… / あと少しの所だったのに… / ぐぐぐ… おのれ…！ / だが忘れるな！ / これで 終わりではないぞ…！！ /  / ぐあああああああ！！！！
+   EN: Guaaargh...!  So close... I was so close... Grrr... Curse you...! But never forget! This is not the end...!!  GUAAAAAAAAH!!!!
+>> 27.56 | {p} | 慎一君！ / 君のおかげで 助かったよ！
+   EN: Shinichi-kun! You saved us!
+>> 27.57 | Shinichi | 礼を言うなら 俺じゃない / 真理阿だ
+   EN: If you want to thank someone, it's not me. It's Maria.
+>> 27.58 | {p} | そうだったね！ / ありがとう 真理阿さん！
+   EN: That's right! Thank you, Maria-san!
+>> 27.59 | {p} | 朱紗君！ みんなを テレポート / させてくれて ありがとう！
+   EN: Shusha-kun! Thanks for teleporting everyone!
+>> 27.60 | Shusha | 俺は もはや凄ノ王ではなく / 英雄王真神だ / 世界と そして仲間のため / 力を使うのは 当然さ！
+   EN: I'm not Susano-oh anymore, I'm the hero king, the true god. Of course I'll use my power for the world and my friends!
+>> 27.61 | {p} | {s}！！
+   EN: {s}!!
+>> 27.62 | Honey Kisaragi | あたしも 夏ちゃんを / 失ったばかりだもん… / あなたの気持ちは よくわかるわ / {p}君…
+   EN: I just lost Natsu-chan too... I know exactly how you feel, {p}-kun...
+>> 27.63 | {p} | ………
+   EN: .........
+>> 27.64 | {p} | …ごめんよ ハニー
+   EN: ...I'm sorry, Honey.
+>> 27.65 | Honey Kisaragi | いいのよ
+   EN: It's okay.
+>> 27.66 | Shinichi | 真理阿の声が / 俺に教えてくれたことがある / 魔王が死に 日蝕が続いている /  / これは / 次元連鎖が崩れた証拠だと…
+   EN: Maria's voice told me something. The Demon King is dead, but the eclipse goes on.  She says that's proof the Dimension Chain is falling apart...
+>> 27.67 | {p} | …！？
+   EN: ...!?
+>> 27.68 | Shinichi | 俺達 みんなが / 元の自分の世界に戻れるんだ！
+   EN: All of us can go back to our own worlds!
+>> 27.69 | Honey Kisaragi | 魔王が作った / ツギハギの世界から？
+   EN: From the patchwork world the Demon King made?
+>> 27.70 | Shinichi | そうだ そして そこでは / 本来の運命が俺達を待っている / ツギハギにされた世界が / 修正を始めたんだ！
+   EN: That's right. And there, our true fates are waiting for us. The patched-together worlds have started to set themselves right!
+>> 27.71 | Honey Kisaragi | でも… 本来の運命といっても / 夏ちゃんは…
+   EN: But... even if it's our true fate, Natsu-chan is...
+>> 27.72 | Shinichi | …生きてるかもしれないぜ？
+   EN: ...She might be alive, you know.
+>> 27.73 | Honey Kisaragi | ホント！？
+   EN: Really!?
+>> 27.74 | Shinichi | あぁ 俺の中に響く真理阿の声も / どんどんと大きくなってきてる / まるで 耳元で 真理阿が 俺を / 呼んでいるみたいに…！！
+   EN: Yeah. Maria's voice echoing inside me keeps getting louder and louder. It's like Maria is calling me, right in my ear...!!
+>> 27.75 | {p} | それじゃ もしかして / 元の世界に戻ったら…！
+   EN: Then maybe, when we get back to our own world...!
+>> 27.76 | Shinichi | {s}に / 逢えるかもな…！
+   EN: Maybe you'll see {s}...!
+>> 27.77 | Shinichi | 富三郎！
+   EN: Tomisaburo!
+>> 27.78 | Tomisaburo | ほいほい！
+   EN: Yo-ho!
+>> 27.79 | Shinichi | 帰るぞ！ / 真理阿が待ってる…！
+   EN: We're going home! Maria's waiting...!
+>> 27.80 | Tomisaburo | やった～！！
+   EN: Yahooo!!
+>> 27.81 | {p} | 慎一君！ / ありがとう！
+   EN: Shinichi-kun! Thank you!
+>> 27.82 | Honey Kisaragi | 今度は あの人が帰る番のようね /  / ちゃんと / お別れを言ってらっしゃい
+   EN: Looks like it's his turn to go home now.  Go say a proper goodbye.
+>> 27.83 | Akira Fudo | 次は あいつの番のようだ / 先に 別れを告げてやりな
+   EN: Looks like it's his turn next. Go say your goodbyes first.
+>> 27.84 | Shusha | 俺の番が 来たようだ
+   EN: Looks like my turn has come.
+>> 27.85 | {p} | 朱紗君…
+   EN: Shusha-kun...
+>> 27.86 | Shusha | 元の世界で 俺が凄ノ王になるか / 英雄王真神になるか？ / それは 誰にもわからない /  / でも 大丈夫だよ / 俺には 雪代さんがいるから…
+   EN: Back in my world, will I become Susano-oh, or the hero king, the true god? Nobody knows.  But it'll be fine. I've got Yukishiro-san...
+>> 27.87 | Uryu | 俺は もう 世界を変えたいなんて / 思っちゃいない / だから 心配することはないさ / 朱紗
+   EN: I've no wish to change the world anymore. So there's nothing to worry about, Shusha.
+>> 27.88 | Mitsurugi | そうだといいけどね / 実はあたし達 幼馴染なのよ！
+   EN: I hope that's true. You know, we're actually childhood friends!
+>> 27.89 | {p} | へぇ！ それは知らなかったよ！
+   EN: Whoa! I never knew that!
+>> 27.90 | Mitsurugi | 小さい頃は / 一緒に お風呂にも入ったのよ！
+   EN: When we were little, we even took baths together!
+>> 27.91 | Uryu | おい 何を言い出すんだよ！！
+   EN: Hey, what are you saying!!
+>> 27.92 | {p} | 笑いながら お別れ出来て / 良かったよ 朱紗君…
+   EN: I'm glad we could say goodbye with a laugh, Shusha-kun...
+>> 27.93 | Koji Kabuto | そろそろ 俺達の番みたい
+   EN: Looks like it's our turn now.
+>> 27.94 | Boss | 今度 光子力研究所に / 遊びに来いよな！
+   EN: Come visit the Photon Power Lab sometime, ya hear!
+>> 27.95 | Sayaka | {p}君の世界にも / 光子力研究所 あるのかしら？
+   EN: I wonder if there's a Photon Power Lab in your world too, {p}-kun?
+>> 27.96 | Koji Kabuto | もしも 光子力研究所があったら / マジンガーＺに乗せてやるよ！
+   EN: If there's a Photon Power Lab, I'll give you a ride in Mazinger Z!
+>> 27.97 | {p} | うん！ ぜひ！！
+   EN: Yeah! I'd love that!!
+>> 27.98 | Koji Kabuto | それから 俺の特製コロッケも / 食べてくれよな！
+   EN: And you've gotta try my special croquettes too!
+>> 27.99 | {p} | コロッケ？
+   EN: Croquettes?
+   ctx 28.00 | Sayaka | こう見えて 甲児君 / お料理 上手なのよ！
+   ctx EN: He may not look it, but Koji-kun's a great cook!
+   ctx 28.01 | {p} | 楽しみだな！
+   ctx EN: I can't wait!

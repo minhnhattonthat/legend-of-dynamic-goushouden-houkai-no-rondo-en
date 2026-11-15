@@ -1,0 +1,208 @@
+   ctx 47.98 | {p} | ありがとう 朱紗君！
+   ctx EN: Thanks, Shusha-kun!
+   ctx 47.99 | Dr. Saotome | {p} / 一緒に 奥の部屋へ戻ろう / あそこで 報告を待とうじゃないか
+   ctx EN: {p}, let's go back to the back room together. We'll wait for reports there.
+>> 48.00 | Ryo | よ～し 行くぞ！
+   EN: All riiight, let's go!
+>> 48.01 | Ryo | きやがったな… いくぜ！
+   EN: Here they come... Let's do this!
+>> 48.02 | Researcher | ゲッターロボ率いる先発部隊が / 始まりの丘に向け 出発！ / 巨大な黒い魔物と / 交戦を開始しました！
+   EN: The vanguard led by Getter Robo has set out for the Hill of Beginnings! They've begun engaging the giant black fiends!
+>> 48.03 | Dr. Saotome | ついに始まったか！
+   EN: So it has begun at last!
+>> 48.04 | Researcher | 地獄別荘の転送 完了しました！
+   EN: Hell Villa's transfer is complete!
+>> 48.05 | Dr. Saotome | ここまでは予定どおりだ！
+   EN: So far, everything is going to plan!
+>> 48.06 | Ryo | くそッ！ / 城がバリアで囲まれてる！？ / ゲッターが城に近づけないぞ！ / なんとかしてくれ 攻撃隊！
+   EN: Dammit! The castle's surrounded by a barrier!? Getter can't get near the castle! Do something, assault team!
+>> 48.07 | Shinichi | ゲッターが 巨大な黒い魔物と / 戦ってるな / しかし 城には近づけないようだ…
+   EN: Getter's fighting the giant black fiends. But it looks like it can't get near the castle...
+>> 48.08 | Enma-kun | 城が バリアみたいなもので / 守られてるようだしな / でも 暴徒達だって 城の中に / いるんだろ？ / どこかに 入口があるのかな…
+   EN: The castle seems to be protected by some kind of barrier. But the rioters are inside the castle too, right? Maybe there's an entrance somewhere...
+>> 48.09 | Enma-kun | やったぜ！ これでゲッターロボが / 城内に入れる！
+   EN: All right! Now Getter Robo can get into the castle!
+>> 48.10 | Ryo | 城内に突入だ！
+   EN: Storming the castle!
+>> 48.11 | Ryo | しまった！
+   EN: Oh no!
+>> 48.12 | Researcher | 大変です 早乙女博士！ /  / ゲッターロボが / 敵に捕らえられてしまいました！
+   EN: It's terrible, Dr. Saotome!  Getter Robo has been captured by the enemy!
+>> 48.13 | Dr. Saotome | それで攻撃隊は…！？
+   EN: And the assault team...!?
+>> 48.14 | Researcher | それが 攻撃隊との通信も / 途絶えてしまいました！
+   EN: We've lost contact with the assault team too!
+>> 48.15 | {p} | そんな…
+   EN: No...
+>> 48.16 | Dr. Saotome | 急いで 対策を考えなければ / ならんな…
+   EN: We must think of a countermeasure quickly...
+>> 48.17 | Dr. Saotome | 厳しい状況だが 君は決して / ここを出ては いかんぞ！ / 敵の術中に はまるようなことを / するなよ！
+   EN: It's a grim situation, but you must not leave here under any circumstances! Don't go walking into the enemy's trap!
+>> 48.18 | Researcher | 暴徒達が現れました！ /  / 居住エリアに向かって / 進軍中です！
+   EN: The rioters have appeared!  They're marching on the residential area!
+>> 48.19 | Dr. Saotome | とうとう来たか… / 明君！ / {p}を 安全な場所に / 連れて行ってくれたまえ！
+   EN: So they've finally come... Akira-kun! Take {p} somewhere safe!
+>> 48.20 | Akira Fudo | 行くぞ {p}！
+   EN: Let's go, {p}!
+>> 48.21 | {p} | で でも…！
+   EN: B-but...!
+>> 48.22 | Akira Fudo | 行くんだ！
+   EN: Move it!
+>> 48.23 | Akira Fudo | 決して この部屋から出るなよ！ /  / 俺は 早乙女博士のところへ戻る /  / 新しい情報が入ったら / 教えに来るよ
+   EN: Don't you dare leave this room!  I'm going back to Dr. Saotome.  When new information comes in, I'll come tell you.
+>> 48.24 | {p} | 明君…
+   EN: Akira-kun...
+>> 48.25 | Akira Fudo | 耐えるんだ {p}！ / 俺だってホントは戦いたいんだ！
+   EN: Hang in there, {p}! I wanna fight too, you know!
+>> 48.26 | Ryo Asuka | デビルマンとなった明が / 戦うことをガマンしている / 何故だか解るかい / {p}？
+   EN: Akira, who became Devilman, is holding himself back from fighting. Do you know why, {p}?
+>> 48.27 | {p} | ………
+   EN: .........
+>> 48.28 | Ryo Asuka | 明は 君を守りたいんだよ /  / 君が うらやましいよ
+   EN: Akira wants to protect you.  I envy you.
+>> 48.29 | Akira Fudo | 何やっているんだ {p}！ / 部屋に戻るんだ！
+   EN: What are you doing, {p}! Get back to your room!
+>> 48.30 | Dr. Saotome | 部屋に戻りなさい / {p}君！ / 戦況に変化があったら / 必ず知らせるから！
+   EN: Go back to your room, {p}-kun! If anything changes in the battle, I'll be sure to tell you!
+>> 48.31 | Akira Fudo | あれだけ言ったのに / {p}の野郎 / どこへ行きやがった！？ / …ん？
+   EN: After everything I told him, where the hell did that idiot {p} run off to!? ...Hm?
+>> 48.32 | Akira Fudo | あいつ まさか…？
+   EN: Don't tell me he...?
+>> 48.33 | Ryo Asuka | …そういうことか
+   EN: ...So that's how it is.
+>> 48.34 | Guard | お おまえは！？
+   EN: Y-you!?
+>> 48.35 | Akira Fudo | {p} みごとにそいつに / 騙されちまったな
+   EN: {p}, you got completely fooled by this guy.
+>> 48.36 | Guard | ………
+   EN: .........
+>> 48.37 | Akira Fudo | {p}に / 暴徒達の姿を見せたり / 俺達と{p}を / 引き離そうとしたり / 怪しいと思ったぜ！
+   EN: Showing {p} the rioters, trying to separate {p} from us... I knew you were fishy!
+>> 48.38 | Guard | 気がつかれていたのか… / だが 邪魔は させんぞ！
+   EN: So you noticed... But I won't let you interfere!
+>> 48.39 | {p} | ごめん 明君… / 僕…
+   EN: Sorry, Akira-kun... I...
+>> 48.40 | Akira Fudo | 解ってるぜ {p}
+   EN: I know, {p}.
+>> 48.41 | Ryo Asuka | さて 行こうか！
+   EN: Now, shall we go?
+>> 48.42 | Akira Fudo | 始まりの丘へ！
+   EN: To the Hill of Beginnings!
+>> 48.43 | {p} | うん！
+   EN: Yeah!
+>> 48.44 | Ryo Asuka | …見覚えのある町並みだな？
+   EN: ...These streets look familiar, don't they?
+>> 48.45 | Akira Fudo | ここは / 美樹ちゃんちの近くだ！
+   EN: This is near Miki-chan's house!
+>> 48.46 | {p} | ええっ！ / そんなバカな…！
+   EN: Whaaat! That's impossible...!
+>> 48.47 | Rioter | あっはっはっは～！ / 燃えろ 燃えろぉ！
+   EN: Ahahahaha! Burn, buuurn!
+>> 48.48 | Rioter | 魔王に逆らう者は 皆殺しだ！
+   EN: Anyone who defies the Demon King dies!
+>> 48.49 | Rioter | 思い知るがいい！ / 魔王の怒りを！
+   EN: Feel it! The Demon King's wrath!
+>> 48.50 | Ryo Asuka | 暴徒が町を破壊している…
+   EN: The rioters are destroying the town...
+>> 48.51 | Akira Fudo | 美樹ちゃんを守らなくては！
+   EN: I've gotta protect Miki-chan!
+>> 48.52 | Akira Fudo | 政！ しっかりしろ！ / 美樹ちゃんは どうした！？
+   EN: Masa! Hang in there! What happened to Miki-chan!?
+>> 48.53 | Bokuto Masa | ふ 不動… / すまねぇ…
+   EN: F-Fudo... Sorry, man...
+>> 48.54 | {p} | 明君！ 急ごう！
+   EN: Akira-kun! Hurry!
+>> 48.55 | Akira Fudo | タレちゃん！
+   EN: Tare-chan!
+>> 48.56 | Tare-chan | 明にいちゃん… /  / な なんでボク達 / こんな目に…？
+   EN: Big bro Akira...  Wh-why is this happening to us...?
+>> 48.57 | {p} | こんな子供まで… / 酷すぎる！
+   EN: Even a little kid like this... It's too cruel!
+>> 48.58 | Akira Fudo | 美樹ちゃん！
+   EN: Miki-chan!
+>> 48.59 | Ryo Asuka | 明 危険だ！
+   EN: Akira, it's dangerous!
+>> 48.60 | Akira Fudo | だが美樹ちゃんが！
+   EN: But Miki-chan's...!
+>> 48.61 | Ryo Asuka | 彼女は もう…
+   EN: She's already...
+>> 48.62 | Akira Fudo | 止めるな 了！
+   EN: Don't stop me, Ryo!
+>> 48.63 | {p} | あぶない！
+   EN: Look out!
+>> 48.64 | Akira Fudo | 美樹！！ /  / うおおおおおお！
+   EN: MIKI!!  RAAAAAAAH!
+>> 48.65 | Akira Fudo | 生きる希望を… / 生きる意味を… / 俺は失ってしまった…
+   EN: My hope for living... my reason to live... I've lost it all...
+>> 48.66 | ??? | …今のは あるべき世界の姿なの
+   EN: ...That was how the world is meant to be.
+>> 48.67 | {p} | だ 誰！？
+   EN: Wh-who's there!?
+>> 48.68 | Ryo Asuka | あるべき世界の姿…！？
+   EN: How the world is meant to be...!?
+>> 48.69 | ??? | あなたも 次元連鎖の被害者なのよ / 明君 / この情景は あなたの世界で / これから起こる出来事なの…
+   EN: You're a victim of the Dimension Chain too, Akira-kun. What you just saw is something that is going to happen in your world...
+>> 48.70 | Akira Fudo | なんだと？ / どうして俺の名を…？
+   EN: What? How do you know my name...?
+>> 48.71 | ??? | ………
+   EN: .........
+>> 48.72 | Akira Fudo | 答えろ！
+   EN: Answer me!
+>> 48.73 | {p} | もしかして… / 君は {s}！？ / そうだろ / {s}なんだろ！？
+   EN: Could it be... you're {s}!? That's it, right? You're {s}, aren't you!?
+>> 48.74 | Ryo Asuka | {s}だって？ /  / {s}なら / どうして姿を現さないんだ！？
+   EN: {s}?  If it were {s}, why wouldn't she show herself!?
+>> 48.75 | {p} | ………
+   EN: .........
+>> 48.76 | Akira Fudo | 美樹…？
+   EN: Miki...?
+>> 48.77 | ??? | 魔王が 世界を連結しなければ… / 今の悲劇が確実に起こるの…
+   EN: If the Demon King does not link the worlds... that tragedy is certain to happen...
+>> 48.78 | Akira Fudo | それじゃ / 美樹は生きているのか！？
+   EN: Then is Miki alive!?
+>> 48.79 | ??? | それは魔王にしか解らないわ /  / でも これだけは事実よ / 魔王だけが悲劇を回避出来るのよ
+   EN: Only the Demon King knows that.  But this much is true: only the Demon King can prevent the tragedy.
+>> 48.80 | Ryo Asuka | 魔王だけが 悲劇を回避出来る…
+   EN: Only the Demon King can prevent the tragedy...
+>> 48.81 | {p} | 教えてくれ！ / こんな幻を 僕達に見せて / 魔王はいったい / どうしたいっていうんだよ！？
+   EN: Tell me! Showing us illusions like this... What on earth does the Demon King want!?
+>> 48.82 | ??? | 魔王はね 認めて欲しいのよ / 自分の考えを… / あなたが協力すれば / さっきの悲劇は防げるの…
+   EN: The Demon King wants his ideas to be accepted, you see... If you cooperate, the tragedy you just saw can be prevented...
+>> 48.83 | Akira Fudo | 美樹ちゃんは 死なずに済むのか？
+   EN: Then Miki-chan doesn't have to die?
+>> 48.84 | ??? | 安心して 明君 / 悲劇は起きないわ…
+   EN: Don't worry, Akira-kun. The tragedy won't happen...
+>> 48.85 | Ryo Asuka | どうして / そんなことが言い切れる？
+   EN: How can you be so sure?
+>> 48.86 | ??? | {p}が / 既に魔王の手の中だから… / そこは {p}のために / 用意された牢獄 / 無数にある次元のひとつを / 連結した… 次元牢獄！
+   EN: Because {p} is already in the Demon King's hands... This is a prison made for {p}. One of countless dimensions, linked here... a Dimension Prison!
+>> 48.87 | Ryo Asuka | 次元牢獄！？
+   EN: A Dimension Prison!?
+>> 48.88 | {p} | ここから… 出られないの？
+   EN: We can't... get out of here?
+>> 48.89 | ??? | もうすぐ 日蝕の時刻… / それまで あなたは次元牢獄の囚人 / 世界の… 仲間達の命運は / もう 尽きたも同然…
+   EN: The eclipse is almost here... Until then, you're a prisoner of the Dimension Prison. The fate of the world... of your friends... is as good as finished...
+>> 48.90 | {p} | そんな… そんな…
+   EN: No... no...
+>> 48.91 | ??? | 魔王は あなたがいずれ あそこを / 出てくると知っていたのよ / ただ 手下を使って / それを手助けしただけ…
+   EN: The Demon King knew you'd get out of there eventually. He just used his minions to help you along...
+>> 48.92 | {p} | 僕は 魔王の手のひらで / 遊ばされていたのか…
+   EN: So I was just dancing in the palm of the Demon King's hand...
+>> 48.93 | ??? | 誰も 魔王には逆らえないわ…
+   EN: No one can defy the Demon King...
+>> 48.94 | Akira Fudo | いい加減にしろ！ / 俺達を ここから出せ！
+   EN: Enough already! Let us out of here!
+>> 48.95 | ??? | 無駄よ 次元牢獄から出ることは / 出来ないわ / 外から仕掛けを操作しない限りはね /  / あたしも… / 試したもの…
+   EN: It's no use. You can't get out of the Dimension Prison. Not unless someone works the mechanism from outside.  I... tried it too...
+>> 48.96 | {p} | それじゃ / やっぱり君は {s}！？
+   EN: Then you really are {s}!?
+>> 48.97 | ??? | ………
+   EN: .........
+>> 48.98 | {p} | そうなんだろ…！？
+   EN: You are, aren't you...!?
+>> 48.99 | ??? | いいえ あたしは「破壊の月」！ / そして あなたは「再生の太陽」！ / 時が来れば ふたりとも / ここから出してもらえるわ…
+   EN: No, I am the "Moon of destruction"! And you are the "Sun of rebirth"! When the time comes, we'll both be let out of here...
+   ctx 49.00 | {p} | ふざけるな！ /  / 僕は… 僕は そんなの / 絶対認めないぞ！
+   ctx EN: Don't mess with me!  I... I'll never accept that!
+   ctx 49.01 | ??? | ………
+   ctx EN: .........

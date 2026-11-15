@@ -1,0 +1,4 @@
+IMPORTANT | 10.92 | "ホイッス ボス！" is a jaunty "You got it, Boss!" | "Hoisu" leaves an affirmative response untranslated and obscures Mucha's eager agreement. | You got it, Boss!
+IMPORTANT | 10.95 | "血も涙もない男じゃ" means he is utterly heartless. | "A man without blood or tears" translates the idiom literally, obscuring the accusation of cruelty. | Dr. Kuruma is utterly heartless, I tell you. They say he even sacrificed his wife and son to his research.
+MINOR | 10.50 | "ガラクタロボットどもめ" contemptuously calls the robots junk. | "You heaps of junk robots" is an awkward stack of nouns that weakens the taunt. | So you've shown up, you walking heaps of scrap!
+ASSESSMENT | b011 | Needs fixes | An untranslated acknowledgment and a literal rendering of an idiom need correction; the rest largely preserves meaning and character voices.

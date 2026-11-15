@@ -1,0 +1,208 @@
+   ctx 05.98 | {p} | {s} その話は後で…
+   ctx EN: {s}, let's talk about that later...
+   ctx 05.99 | {s} | そうね えん魔くんが / {p}を 待ってるわよ / 行きましょ！
+   ctx EN: Right. Enma-kun is waiting for you, {p}. Let's go!
+>> 06.00 | Honey Kisaragi | {p} あたし達 ここで / 一休みしてるわ / えん魔くんと 逢ってらっしゃい
+   EN: {p}, we'll take a little rest here. Go and see Enma-kun.
+>> 06.01 | Honey Kisaragi | えん魔くんとは もう話したの？
+   EN: Have you talked to Enma-kun yet?
+>> 06.02 | Seiji Hayami | 不思議な建物だなぁ /  / 外から見るより / 中は はるかに広いぜ
+   EN: What a strange building...  It's way bigger inside than it looks from outside.
+>> 06.03 | Mondo | 居心地 悪くねぇな / しばらく ここを根城にするか！
+   EN: Not a bad place to hang. Maybe I'll make this my hideout for a while!
+>> 06.04 | Ryoma | 飲み物や 食べ物も揃ってるよ / いい部屋じゃん ここ
+   EN: There's food and drinks and everything. Nice room, huh?
+>> 06.05 | Jack | 地獄別荘は / 亜空間に存在しているようだ / これを作った 閻魔大王とは / そうとうな力の 持ち主だ
+   EN: Hell Villa seems to exist in a subspace. This Great King Enma who built it must be very powerful.
+>> 06.06 | Yamagishi | うめぇ うめぇ！ / ごちそうが 食い放題だぜ！
+   EN: Yum! Yum! All the grub I can eat!
+>> 06.07 | Fukurokoji | オヤブン 食べ過ぎ… / ボクも負けないス
+   EN: Boss, you're eatin' too much... I ain't losin' either!
+>> 06.08 | Jubei | 山岸君ったら ここに来てから / 食べてばかりよ
+   EN: Ever since we got here, all Yamagishi-kun does is eat.
+>> 06.09 | Enma-kun | よう 来たな！
+   EN: Hey, you made it!
+>> 06.10 | {p} | えん魔くん！ / 君が {s}を…？
+   EN: Enma-kun! So you were the one who found {s}...?
+>> 06.11 | Enma-kun | 人間界で 悪さをする妖怪達を / やっつけるのが 俺の仕事 / 俺達は / 妖怪パトロールってわけさ / そしてパトロール中に / {s}を見つけたんだ
+   EN: My job's beating up yokai who make trouble in the human world. We're the Yokai Patrol, see? And while we were on patrol, we found {s}.
+>> 06.12 | {p} | それじゃ {s}は / 妖怪に襲われてたの？
+   EN: So {s} was attacked by yokai?
+>> 06.13 | {s} | いいえ 違うの / えん魔くんの妖怪アンテナがね…
+   EN: No, that's not it. Enma-kun's yokai antennae, you see...
+>> 06.14 | Akira Fudo | 俺に反応したのさ
+   EN: ...reacted to me.
+>> 06.15 | Akira Fudo | 久しぶりだな {p}！
+   EN: Long time no see, {p}!
+>> 06.16 | {p} | 明君！ どうして君に / 妖怪アンテナが…？
+   EN: Akira-kun! Why would the yokai antennae pick up on you...?
+>> 06.17 | Akira Fudo | 詳しいことは 後で…だ /  / 俺と一緒に戦うことがあれば / その時に解るよ
+   EN: I'll explain the details later.  If we ever fight side by side, you'll understand then.
+>> 06.18 | Enma-kun | おまえ達の身に / 何があったんだい？
+   EN: So what happened to you guys?
+>> 06.19 | {p} | 実は…
+   EN: Actually...
+>> 06.20 | Enma-kun | {p}と一緒にいた連中にも / そんな出来事があったのか / どう思う シャッポじい？
+   EN: So the folks who were with {p} went through stuff like that too. What do you think, Chapeau-jii?
+>> 06.21 | Chapeau-jii | 黒い月とは 地獄門に似とるのう / 地獄門は 黒い月となって現れる / じゃが 話に出てくる黒い月は… /  / ワシらの使う 地獄門とは / 違うようじゃ
+   EN: This black moon sounds like a Hell Gate, my boy. A Hell Gate appears as a black moon. However, the black moon in this story...  seems different from the Hell Gate we use, I say.
+>> 06.22 | Enma-kun | 地獄門は 地獄界と人間界を / 繋いでるんだ / でも {p}の話に / 出てくる 黒い月は…
+   EN: The Hell Gate links the Hell World and the human world. But the black moon in {p}'s story...
+>> 06.23 | Chapeau-jii | まるで いくつもの世界を / 繋げているかのようなんじゃ…
+   EN: ...seems to link many worlds together, it does...
+>> 06.24 | {p} | 世界を繋げてる…？
+   EN: Link worlds together...?
+>> 06.25 | Akira Fudo | 異なる次元を 黒い月が / 連結している…ということか？
+   EN: You mean the black moon is linking different dimensions together?
+>> 06.26 | Enma-kun | そうかもしれない / 俺には解んねぇけど… / …閻魔大王様なら もしかしたら / 解るかもしれねぇな
+   EN: Could be. I sure don't get it... ...But maybe the Great King Enma-sama would.
+>> 06.27 | {s} | 閻魔大王…って / 地獄にいるっていう あの？
+   EN: Great King Enma... You mean the one who's supposed to be in Hell?
+>> 06.28 | Enma-kun | そうだよ 地獄の閻魔大王！ / 俺のおじさんさ！
+   EN: Yep, Great King Enma of Hell! He's my uncle!
+>> 06.29 | Enma-kun | けど地獄界に人間を連れて行ったら / きっと大王様に怒られちゃうよ…
+   EN: But if I bring humans to the Hell World, I bet the Great King-sama'll chew me out...
+>> 06.30 | Chapeau-jii | {p}達を / 妖怪パトロールの一員に / 加えたらどうじゃな？ /  / 妖怪パトロールのメンバーなら /  / 大王様も きっと怒らんと / 思うのじゃが…？
+   EN: What if we made {p} and friends members of the Yokai Patrol, eh?  If they're members of the Yokai Patrol,  I daresay the Great King-sama won't be angry...?
+>> 06.31 | Enma-kun | ナイス！ シャッポじい！ /  / よし！ 今日から おまえらは / 妖怪パトロールの一員だ！
+   EN: Nice one, Chapeau-jii!  All right! Starting today, you guys are members of the Yokai Patrol!
+>> 06.32 | Enma-kun | おっ！？
+   EN: Whoa!?
+>> 06.33 | Enma-kun | 早速 妖怪アンテナが ビビッ！と / 来たぜ 妖怪退治に行くぞ！ / 仲間を決めたら / 地獄別荘の前に 集合だ！
+   EN: My yokai antennae are already going bzzt! Let's go hunt some yokai! Once you've picked your team, meet in front of Hell Villa!
+>> 06.34 | {p} | 妖怪退治か… / 大変なことになっちゃったね
+   EN: Yokai hunting, huh... This has gotten serious.
+>> 06.35 | {s} | おっかないけど / 離れ離れでいるよりは いいわ！
+   EN: It's scary, but it beats being apart!
+>> 06.36 | Enma-kun | パトロールのメンバーは / 決めたか？ / 近くの町から / 妖気が発しているようだぜ / 先に行ってるから 後から来いよ！
+   EN: Picked your patrol members yet? Looks like yokai energy's coming from a nearby town. I'll go on ahead, so catch up!
+>> 06.37 | {p} | 町の人達 / いったいどうしたんだろう？ / 急に襲いかかってくるなんて…
+   EN: What's wrong with the townspeople? Attacking us out of nowhere...
+>> 06.38 | Chapeau-jii | えん魔くん！ ひょっとすると / ひょっとジャジャ！ / この人の身体を / 良く見てみるのじゃ！
+   EN: Enma-kun! Could it be, could it be, jaja! Take a good look at this person's body!
+>> 06.39 | {p} | …なんか ドクロみたいな / アザがあるよ？
+   EN: ...There's a mark kind of like a skull?
+>> 06.40 | Chapeau-jii | やはり！ 妖怪・怒黒の息を / 吸ったのジャジャ！
+   EN: Just as I thought! They breathed the breath of the yokai Dokuro, jaja!
+>> 06.41 | Enma-kun | するって～と 怒りっぽいのは / 妖怪・怒黒のせいか…
+   EN: So that means they're all hotheaded 'cause of the yokai Dokuro...
+>> 06.42 | Chapeau-jii | さよう 怒黒の息を吸うとな 誰でも / 怒り狂っちまうのジャジャ！ / ヤツは地獄では 「無冠の帝王」と / 呼ばれておった！
+   EN: Indeed. Breathe Dokuro's breath and anyone flies into a rage, jaja! In Hell they called him "the Uncrowned Emperor"!
+>> 06.43 | {p} | 無冠の帝王…！
+   EN: The Uncrowned Emperor...!
+>> 06.44 | Enma-kun | へぇ / そいつは おもしれぇ！ / 怒黒をやっつければ / 立派な妖怪パトロールの一員だ！ / {p}を 地獄界へ / 連れて行けるぜ！
+   EN: Heh, that sounds like fun! Beat Dokuro and you're a real Yokai Patrol member! Then I can take {p} to the Hell World!
+>> 06.45 | Enma-kun | 学校のほうから / 強い妖気を 感じるな… / よし / 学校の中を捜してみるか！
+   EN: I'm sensing strong yokai energy from the school... All right, let's search inside the school!
+>> 06.46 | Enma-kun | あちこち 妖怪だらけだなぁ / 妖怪アンテナも フル稼働だぜ！
+   EN: It's yokai everywhere! My yokai antennae are working overtime!
+>> 06.47 | {p} | それじゃ 怒黒の居場所は…
+   EN: Then where's Dokuro...?
+>> 06.48 | Enma-kun | 妖怪アンテナじゃ解らない…って / ことだな！ / あっちこっち探して回るしかない！ / がんばれよ {p}！
+   EN: Means my yokai antennae can't tell! We'll just have to search all over! Good luck, {p}!
+>> 06.49 | {p} | あ！ / 待ってよ えん魔くん！！ / …行っちゃった
+   EN: Ah! Wait up, Enma-kun!! ...He's gone.
+>> 06.50 | Enma-kun | ややっ！ / 妖しの風が吹いてきたぞ！？
+   EN: Whoa!? An eerie wind's blowing in!?
+>> 06.51 | Chapeau-jii | 無冠の帝王・大妖怪・怒黒が / でるぞぞぞ！ / えん魔くん！ この戦いは / きつい戦いになるのジャジャ！
+   EN: The Uncrowned Emperor, the great yokai Dokuro, is coooming! Enma-kun! This is going to be a tough fight, jaja!
+>> 06.52 | Dokuro | わっはっはっは～！ /  / 世紀の大妖怪・怒黒の恐ろしさ / 骨のずいまで 思い知れ～！
+   EN: Wahahahaha!  Feel the terror of Dokuro, the great yokai of the century, down to the marrow of your bones!
+>> 06.53 | Enma-kun | よし！ / {p} 行け！
+   EN: All right! {p}, go!
+>> 06.54 | {p} | 行け…って 僕が戦うの？
+   EN: "Go"...? I'm the one fighting?
+>> 06.55 | Enma-kun | 一人前の 妖怪パトロールなら / こんなヤツ 倒せるだろ / そうすれば 地獄の大王様も / きっと 会ってくれるぜ！
+   EN: A full-fledged Yokai Patrol member can beat a guy like this, right? Then the Great King-sama of Hell'll be sure to see you!
+>> 06.56 | Dokuro | おのれ 舐めおって～！
+   EN: Grr, you dare mock me!
+>> 06.57 | Enma-kun | やったな {p}！ /  / これでおまえも / 立派な妖怪パトロール隊員だ！ / 俺にしっかりつかまってくれ！ / 地獄界へ出発だ！
+   EN: You did it, {p}!  Now you're a real Yokai Patrol member too! Hold on tight to me! We're off to the Hell World!
+>> 06.58 | Enma-kun | よ～し 行くぞ！
+   EN: All riiight, let's go!
+>> 06.59 | {p} | うわ～！
+   EN: Whoaaa!
+>> 06.60 | {p} | 黒い月だ！
+   EN: It's the black moon!
+>> 06.61 | Enma-kun | てゆ～より 地獄門さ！
+   EN: Nah, it's a Hell Gate!
+>> 06.62 | Chapeau-jii | さよう / ここを抜ければ 地獄界ですぞ
+   EN: Indeed, my boy. Pass through here and it's the Hell World.
+>> 06.63 | Enma-kun | 大王様 えん魔参上！
+   EN: Great King-sama, Enma reporting!
+>> 06.64 | Great King Enma | えん魔 なにごとじゃ！ / その者達は なんじゃ？ / 人間ではないか！？
+   EN: Enma, what is the meaning of this! Who are these people? Are they not humans!?
+>> 06.65 | Enma-kun | 大王様 こいつは 妖怪パトロールの / 新メンバーなんです！ / {p}は 妖怪・怒黒を / やっつけたんです！
+   EN: Great King-sama, he's a new member of the Yokai Patrol! {p} beat the yokai Dokuro!
+>> 06.66 | Great King Enma | ほほう それはたいしたもんじゃ！ /  / それで そのほう達 何用があって / 地獄に参ったのじゃ？
+   EN: Ohoh, that's quite something!  And what business brings you all to Hell?
+>> 06.67 | {p} | 実は…
+   EN: Actually...
+>> 06.68 | Great King Enma | ふ～む / 奇っかいな話じゃ… / だが おまえの言う 黒い月と / 地獄門とは別物…
+   EN: Hmmm. A most peculiar tale... But the black moon you speak of is not a Hell Gate...
+>> 06.69 | {p} | ホントですか！？
+   EN: Really!?
+>> 06.70 | Great King Enma | 黒い月の出現に続いて / 必ず地震が 起こるのじゃろう？ / えん魔くんと 一緒に / 黒い月を見つけた時 / 果たして地震は 起きたかな？
+   EN: An earthquake always follows the black moon's appearance, does it not? When you found the black moon with Enma-kun, did an earthquake strike?
+>> 06.71 | {p} | …！
+   EN: ...!
+>> 06.72 | Great King Enma | それに / 世界は決して ひとつではない / ただ お互いに それとは気づかない / ことが多いのじゃ
+   EN: And besides, the world is never just one. It's simply that they so often fail to notice one another.
+>> 06.73 | Enma-kun | 確かに人間界の連中は / 地獄界のことを知らないもんな…
+   EN: It's true, folks in the human world don't know about the Hell World...
+>> 06.74 | {p} | それじゃ 僕のいた世界は / こことは別の世界なんですか？
+   EN: Then the world I came from is a different world from this one?
+>> 06.75 | Great King Enma | 恐らくそうじゃ…
+   EN: Most likely...
+>> 06.76 | {p} | それじゃ ハニーの世界と…
+   EN: Then Honey's world and...
+>> 06.77 | Enma-kun | 早乙女門土と / 身堂竜馬の世界…
+   EN: Mondo Saotome and Ryoma Shindo's world...
+>> 06.78 | Great King Enma | そしてこの世界！ /  / すべて異なる世界であっても / 少しも不思議は ないのじゃ！
+   EN: And this world!  It would be no wonder at all if every one of them were a different world!
+>> 06.79 | {p} | ええっ！ そんな！ /  / それで 僕らは どうやれば / もとの世界に戻れるんですか！？
+   EN: Whaaat! No way!  Then how can we get back to our own world!?
+>> 06.80 | Great King Enma | 解らぬ… /  / 実は他にも ワシの理解を越えた / 事件が 起きているのじゃ！
+   EN: I do not know...  The truth is, other events beyond my understanding are happening as well!
+>> 06.81 | Chapeau-jii | 大王様 いったい何が / 起こったんですじゃ？
+   EN: Great King-sama, what on earth has happened, eh?
+>> 06.82 | Great King Enma | これを見よ！
+   EN: Behold!
+>> 06.83 | Great King Enma | 京都の 暗黒寺という寺じゃ /  / 最近 このあたりに / 鬼が出没しているらしい…
+   EN: A temple in Kyoto called the Dark Temple.  It seems oni have been appearing around it lately...
+>> 06.84 | Enma-kun | 鬼だって！？ 鬼なら 鬼が島に / いっぱいいるじゃん
+   EN: Oni!? There's a ton of oni on Onigashima.
+>> 06.85 | Great King Enma | 見よ これが京都に現れる / 鬼の姿じゃ！
+   EN: Behold, this is what the oni that appear in Kyoto look like!
+>> 06.86 | Enma-kun | ひぇ～！ / おっかねぇヤツら！
+   EN: Yikes! Scary-looking guys!
+>> 06.87 | {p} | まさに… / 鬼のイメージそのままだね…
+   EN: They really are... exactly what you picture an oni to be...
+>> 06.88 | Great King Enma | えん魔よ 京都へ行って / 暗黒寺に出没するという鬼を / 調べてくるのじゃ！ /  / その鬼達は ワシらの世界の / 鬼とは 異なる者どもじゃ！
+   EN: Enma, go to Kyoto and investigate the oni that appear at the Dark Temple!  Those oni are a different breed from the oni of our world!
+>> 06.89 | {p} | 別の世界の鬼達… / 閻魔大王！ 僕も行きます！
+   EN: Oni from another world... Great King Enma! I'm going too!
+>> 06.90 | Enma-kun | おいおい 大丈夫か？
+   EN: Whoa, whoa, you sure about this?
+>> 06.91 | {p} | 僕だって / 妖怪パトロールの一員だろ？
+   EN: I'm a member of the Yokai Patrol too, aren't I?
+>> 06.92 | Chapeau-jii | ひょひょひょ！ / いっぽん取られたようじゃの！
+   EN: Hyohyohyo! Looks like he got you there, my boy!
+>> 06.93 | {p} | でも どうやって京都まで行くの？ /  / 関東は 地震で日本列島から / 切り離されちゃってるよ
+   EN: But how do we get to Kyoto?  The earthquake cut Kanto off from the rest of Japan.
+>> 06.94 | Chapeau-jii | 地獄別荘を 京都へ移しては / どうですじゃ？
+   EN: Why not move Hell Villa to Kyoto, eh?
+>> 06.95 | Enma-kun | シャッポじい！ さえてるぞ！
+   EN: Chapeau-jii! You're on fire!
+>> 06.96 | Great King Enma | うむ！ / 京都に 亜空間を作ってやろう！ / まずは おまえ達を送り込み / 続いて地獄別荘をそこに移そう！
+   EN: Hmm! I shall create a subspace in Kyoto! First I'll send you there, then move Hell Villa after you!
+>> 06.97 | Enma-kun | よ～し！ 京都で鬼退治だ！
+   EN: All riiight! Oni hunting in Kyoto!
+>> 06.98 | {p} | 大王様 ありがとう！
+   EN: Thank you, Great King-sama!
+>> 06.99 | Great King Enma | 行け 京都へ！
+   EN: Go, to Kyoto!
+   ctx 07.00 | Great King Enma | 様々な世界が ツギハギのように / 繋がり始めている… / いったい 何が起ころうとしておる / のじゃ…
+   ctx EN: All sorts of worlds are starting to join together like a patchwork... Whatever is about to happen...?
+   ctx 07.01 | Enma-kun | 大王様 こいつは 妖怪パトロールの / 新メンバーなんです！ / {p}は / 妖怪・ハチの巣入道を / やっつけたんです！
+   ctx EN: Great King-sama, he's a new member of the Yokai Patrol! {p} beat the yokai Beehive Nyudo!

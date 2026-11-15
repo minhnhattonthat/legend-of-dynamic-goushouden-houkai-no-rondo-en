@@ -1,0 +1,3 @@
+MINOR | 20.09 | デカいイビキ: loud snoring | "Huge snoring" is an unnatural English collocation. | It was a rough day for Shusha. And Tomisaburo's loud snoring is nothing new!
+MINOR | 20.82 | 遂に手に入れたぞ！: At last I have obtained it! | "I have at last!" reads like an accidentally unfinished sentence and disrupts the triumphant declaration. | I... At last! At last I have it! The Moon of destruction...!!
+ASSESSMENT | b021 | Approved | Meaning, names, and character voices are preserved; only minor English polish remains.

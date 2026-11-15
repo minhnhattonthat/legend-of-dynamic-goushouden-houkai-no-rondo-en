@@ -1,0 +1,208 @@
+   ctx 08.98 | {p} | 光子力研究所に行けば / その弓教授にも 逢えるの？
+   ctx EN: If we go to the Photon Power Lab, can we meet this Professor Yumi?
+   ctx 08.99 | Koji Kabuto | 教授は今 研究所には いないんだ /  / 世界屈指の科学者達が集まる / 研究会に 出席してるんだよ
+   ctx EN: The professor's not at the lab right now.  He's attending a conference of the world's top scientists.
+>> 09.00 | Enma-kun | 教授の留守とマジンガーの修理中を / 狙われたわけか…
+   EN: So they struck while the professor was away and Mazinger was under repair...
+>> 09.01 | Koji Kabuto | それで仕方なく 俺は / ホバーパイルダーで出たんだけど
+   EN: So I had no choice but to head out in the Hover Pilder, and then...
+>> 09.02 | {p} | 黒い月に飲み込まれちゃった…って / わけだね？
+   EN: You got swallowed up by the black moon, right?
+>> 09.03 | Koji Kabuto | 急いで 科学都市まで 弓教授を / 迎えにいかないと… / 光子力研究所が 機械獣軍団に / 奪われてしまう！
+   EN: I've gotta hurry to Science City and bring Professor Yumi back... or the Photon Power Lab will fall to the Mechanical Beast army!
+>> 09.04 | Enma-kun | いろんな世界が ごちゃまぜに / なっちゃってるからなぁ / 科学都市が あるかどうか / ハッキリしないぜ？
+   EN: All kinds of worlds are getting jumbled together, y'know. Who knows if Science City's even there?
+>> 09.05 | Enma-kun | 気分転換に / ＴＶでも みてみようぜ！
+   EN: Let's watch some TV to take our minds off things!
+>> 09.06 | Announcer | {!R}番組の途中ですが ここで / 臨時ニュースを申し上げます！
+   EN: {!R}We interrupt this program to bring you a special news bulletin!
+>> 09.07 | Announcer | {!R}富士山麓を取り囲むかのように / 突如 海峡が出現しました！ / {!R}今回の異変で / 地震は計測されていません！ / {!R}どうして このようなことが / 起こったか？ / {!R}原因は まったく不明です！
+   EN: {!R}A strait has suddenly appeared, as if to encircle the foot of Mt. Fuji! {!R}No earthquake was recorded during this event! {!R}How could such a thing happen? {!R}The cause is a complete mystery!
+>> 09.08 | {p} | 関東地獄地震だ…
+   EN: It's the Kanto Hellquake...
+>> 09.09 | Koji Kabuto | …！？
+   EN: ...!?
+>> 09.10 | Enma-kun | ジャック達の世界が この世界を / 侵食し始めてる…ってわけか！？
+   EN: So Jack's world is starting to eat into this one!?
+>> 09.11 | Announcer | {!R}更に！ 海峡上空に 謎の怪物が / 出現しました！ / {!R}機械で出来た獣のような / 怪物達です！ / {!R}ヤツらは 光子力研究所を / 放屁しております
+   EN: {!R}What's more! Mysterious monsters have appeared in the skies over the strait! {!R}Monsters like beasts made of machinery! {!R}They are currently farting on the Photon Power Lab.
+>> 09.12 | Enma-kun | 今 放屁って言わなかったか…？
+   EN: Did he just say "farting"...?
+>> 09.13 | Announcer | {!R}失礼！ / 取り乱してしまいました！ / {!R}怪物達が 光子力研究所を / 包囲しております！
+   EN: {!R}Pardon me! I got flustered! {!R}The monsters are currently SURROUNDING the Photon Power Lab!
+>> 09.14 | Announcer | {!R}新たな情報です！ /  / {!R}科学都市の研究会に出席していた / 弓教授からの談話です！
+   EN: {!R}This just in!  {!R}A statement from Professor Yumi, who was attending the conference in Science City!
+>> 09.15 | Koji Kabuto | 弓教授！
+   EN: Professor Yumi!
+>> 09.16 | {p} | 科学都市は存在する！ / 弓教授もだ…！
+   EN: Science City exists! And so does Professor Yumi...!
+>> 09.17 | Enma-kun | あれ？ / 急に画面が乱れたぞ…！？
+   EN: Huh? The picture suddenly went fuzzy...!?
+>> 09.18 | Ashura (Male) | {!R}弓教授に告げる！
+   EN: {!R}Hear me, Professor Yumi!
+>> 09.19 | Ashura (Female) | {!R}私は あしゅら男爵！ / 機械獣を操る者だ！
+   EN: {!R}I am Baron Ashura! Master of the Mechanical Beasts!
+>> 09.20 | {p} | うわ！ なんだ この人！
+   EN: Whoa! What IS that!?
+>> 09.21 | Enma-kun | 男と女が ひとつになってるぞ！ / こんなヤツ地獄界にもいねぇぜ！
+   EN: A man and a woman stuck together as one! Not even the Hell World's got anybody like that!
+>> 09.22 | Koji Kabuto | ドクター・ヘルの腹心 / あしゅら男爵だ！
+   EN: It's Dr. Hell's right hand, Baron Ashura!
+>> 09.23 | Ashura (Male) | {!R}私の提案を聞いて貰いたい！ / 取引に応じるならば
+   EN: {!R}I want you to hear my proposal! If you agree to the deal,
+>> 09.24 | Ashura (Female) | {!R}全機械獣を / すべて引き上げさせましょう！
+   EN: {!R}we'll withdraw every last Mechanical Beast!
+>> 09.25 | Ashura (Male) | {!R}その提案とは…
+   EN: {!R}The proposal is this...
+>> 09.26 | Ashura (Female) | {!R}マジンガーＺを / 我々に差し出すのよ！
+   EN: {!R}Hand Mazinger Z over to us!
+>> 09.27 | Ashura (Male) | {!R}イエスか！？ / ノーか！？
+   EN: {!R}Yes!? Or no!?
+>> 09.28 | Ashura (Female) | {!R}よ～く考えるがいいわ！
+   EN: {!R}Think it over verrry carefully!
+>> 09.29 | Ashura (Male) | {!R}むろん 答えがノーなら… /  / {!R}日本人が ひとり残らず / 死に絶えるまで！
+   EN: {!R}Naturally, if the answer is no...  {!R}until every last Japanese is dead and gone,
+>> 09.30 | Ashura (Female) | {!R}機械獣が暴れまくるのよ！
+   EN: {!R}the Mechanical Beasts will run wild!
+>> 09.31 | Ashura (Male) | {!R}イエスか！？
+   EN: {!R}Yes!?
+>> 09.32 | Ashura (Female) | {!R}ノーか！？
+   EN: {!R}Or no!?
+>> 09.33 | Ashura (Male) | {!R}ワハハハハハハ…！
+   EN: {!R}Wahahahahaha...!
+>> 09.34 | Ashura (Female) | {!R}ホホホホホホホ…！
+   EN: {!R}Hohohohohoho...!
+>> 09.35 | Announcer | {!R}大変なことになりました！ /  / {!R}科学都市にいる 弓教授は / 果たしてどのような決断を…！？ / {!R}マジンガーＺは あしゅら男爵に / 奪われてしまうのでしょうか！？
+   EN: {!R}This is a terrible development!  {!R}What will Professor Yumi in Science City decide...!? {!R}Will Mazinger Z fall into Baron Ashura's hands!?
+>> 09.36 | Koji Kabuto | おのれ あしゅら男爵！
+   EN: Damn you, Baron Ashura!
+>> 09.37 | {p} | 甲児君！ どこへ！？
+   EN: Koji-kun! Where are you going!?
+>> 09.38 | Enma-kun | 後を追おう！
+   EN: Let's go after him!
+>> 09.39 | {s} | うーん… / はぁはぁ…
+   EN: Uhh... *pant, pant*...
+>> 09.40 | Koji Kabuto | …なんとか飛べそうだぞ！ /  / 俺は これから / 光子力研究所へ 行く！
+   EN: ...Looks like she'll still fly!  I'm heading to the Photon Power Lab now!
+>> 09.41 | {p} | 弓教授に 相談したほうが / いいんじゃない？ / それに… 実は 僕達 / 科学都市に行きたいんだ！
+   EN: Shouldn't you talk to Professor Yumi first? And besides... the truth is, we want to go to Science City!
+>> 09.42 | Koji Kabuto | なぜ？
+   EN: Why?
+>> 09.43 | {s} | {p}…！
+   EN: {p}...!
+>> 09.44 | {p} | {s}…！？ / ダメだよ 寝てなきゃ！
+   EN: {s}...!? No, you need to stay in bed!
+>> 09.45 | Enma-kun | ふたりは一緒に この世界に / 飛ばされてきたんだ / そして{s}は今 / 原因不明の病気にかかっている…
+   EN: Those two got flung into this world together. And now {s} has come down with some mystery illness...
+>> 09.46 | Koji Kabuto | それじゃ その子のために / 科学都市に…？ / よし 解った！ / 一緒に 科学都市へ行こう！
+   EN: So you want to go to Science City for her...? All right, got it! Let's go to Science City together!
+>> 09.47 | {p} | 甲児君！
+   EN: Koji-kun!
+>> 09.48 | Koji Kabuto | {s}は / パイルダーに乗せて行くよ / 準備が出来たら 科学都市に向けて / 出発しよう / 用意が出来たら 声をかけてくれ
+   EN: I'll take {s} in the Pilder. Once you're ready, we'll head out for Science City. Just say the word when you're set.
+>> 09.49 | Koji Kabuto | 準備はいいかい？
+   EN: All set?
+>> 09.50 | Koji Kabuto | それじゃ 出発しよう！
+   EN: Then let's go!
+>> 09.51 | Koji Kabuto | 用意が出来たら 声をかけてくれ
+   EN: Just say the word when you're set.
+>> 09.52 | {p} | 光子力研究所を / 機械獣が包囲してる…
+   EN: The Mechanical Beasts are surrounding the Photon Power Lab...
+>> 09.53 | Koji Kabuto | 機械獣め！ 科学都市から戻ったら / やっつけてやる！
+   EN: Damn Mechanical Beasts! Once I'm back from Science City, I'll smash 'em!
+>> 09.54 | Koji Kabuto | 科学都市に着いたぞ！ / 急いで弓教授を探そう！
+   EN: We're in Science City! Let's find Professor Yumi, quick!
+>> 09.55 | Researcher | 科学都市は 世界最大規模の / 研究都市さ / 最高峰の技術 設備 人材が / 揃ってるんだ
+   EN: Science City is the biggest research city in the world. It's got the very best technology, facilities and people.
+>> 09.56 | Researcher | 光子力研究所 機械獣に / 包囲されてる…って！？ / 弓教授なら 大会議場だけど / そのことを 知ってるのかな？
+   EN: The Photon Power Lab is surrounded by Mechanical Beasts!? Professor Yumi is at the Grand Conference Hall, but does he know about it?
+>> 09.57 | Researcher | 科学都市の北には / 大会議場 研究施設 医療施設と / ３つの施設が並んでいる / 覚えておくといいぞ
+   EN: North of Science City, three facilities stand side by side: the Grand Conference Hall, the research facility and the medical facility. Best keep that in mind.
+>> 09.58 | Researcher | たとえ 機械獣によって / 世界が滅ぼされようとも… / 私は 研究を続けるのです！ / 世界のために…！
+   EN: Even if the world is destroyed by Mechanical Beasts... I shall continue my research! For the sake of the world...!
+>> 09.59 | Researcher | え～と 円周率は およそ３だから… /  / ちょっと / 研究の邪魔しないでくれたまえ！
+   EN: Let's see, pi is roughly 3, so...  Excuse me, kindly don't disturb my research!
+>> 09.60 | Researcher | 研究資金が 豊富だからね / 仕事も はかどるよ！ / お金の出所は 知らないけどね / 興味ないから
+   EN: Research funding is plentiful, so the work's going great! No idea where the money comes from, though. Not interested.
+>> 09.61 | Researcher | なんだか騒がしいね…？ / え 機械獣！？ / ふむ… どんな仕組みに / なっているのか 興味あるな…
+   EN: It's kind of noisy...? Eh, Mechanical Beasts!? Hmm... I'm curious how they work...
+>> 09.62 | Researcher | なんか 柄の悪い男達が / いましたねぇ / 一緒にいたのは / 見たことのある男だったなぁ…？
+   EN: There were some shady-looking men around. The man with them looked familiar, though...?
+>> 09.63 | Researcher | 優秀な医者なら いっぱい いますよ /  / でも 誰かの紹介がないと / 診察は無理だよ
+   EN: There are plenty of good doctors.  But you can't get an examination without someone's referral.
+>> 09.64 | Researcher | え！？ 弓教授に / マジンガー引き渡し要求？ / それは 教授には / 伝わってないんじゃないかな？
+   EN: What!? A demand for Professor Yumi to hand over Mazinger? I don't think the professor's heard about that, has he?
+>> 09.65 | Researcher | この研究成果が発表されたら / 世界中が驚くぞ！ / どんな内容かって？ / いえませんよ～ まだ…！
+   EN: When these research results are published, the whole world will be stunned! What are they about? I can't tell you that... not yet!
+>> 09.66 | Researcher | ビバ 科学！ 研究しているときが / 一番 し・あ・わ・せ！ / 他のことには 興味ないのです！
+   EN: Viva science! I'm hap-pi-est when I'm doing research! Nothing else interests me!
+>> 09.67 | Researcher | 計器の数値に 異常はないようだ
+   EN: The instrument readings look normal.
+>> 09.68 | Researcher | 大会議場が騒がしいけど / 何かあったのかな？
+   EN: The Grand Conference Hall sounds rowdy. I wonder if something happened?
+>> 09.69 | Researcher | 見てくれ！ / 新しい器材が届いたんだ！
+   EN: Look at this! The new equipment just arrived!
+>> 09.70 | Genzo Kuruma | この来留間源三が / 自ら説明しているというのに / どうして貴様らは / 理解出来んのだ！？
+   EN: I, Genzo Kuruma, am explaining this myself, so why can you fools not understand!?
+>> 09.71 | Professor Yumi | あなたの理論は認める！ /  / だが あなたがしようとしている / ことは 間違っている！
+   EN: I acknowledge your theory!  But what you are trying to do is wrong!
+>> 09.72 | Koji Kabuto | 弓教授！
+   EN: Professor Yumi!
+>> 09.73 | {p} | あの人が 弓教授？
+   EN: That's Professor Yumi?
+>> 09.74 | Scientist | ひっこめ 来留間博士！
+   EN: Sit down, Dr. Kuruma!
+>> 09.75 | Scientist | そうだ そうだ！
+   EN: Hear, hear!
+>> 09.76 | Genzo Kuruma | ふん！ / やはり貴様らは 愚か者ばかりだ / 私の崇高な研究に / 賛同する者がいたら / 使ってやっても良いと / 思っていたが 見込み違いだった
+   EN: Hmph! You're all fools after all. I thought I might make use of anyone who supported my lofty research, but I misjudged you.
+>> 09.77 | Scientist | なんだと！？ 失敬な！！
+   EN: What!? How rude!!
+>> 09.78 | Scientist | 言葉をつつしめ！ 来留間博士！
+   EN: Watch your mouth, Dr. Kuruma!
+>> 09.79 | Scientist | ぶ～ぶ～！！
+   EN: Boo! Boo!!
+>> 09.80 | {p} | なんだか 荒れ始めたね…
+   EN: Things are starting to get rough...
+>> 09.81 | Koji Kabuto | 困ったな 弓教授に近寄れる / 雰囲気じゃない…
+   EN: Uh-oh, it's not the kind of mood where we can get near Professor Yumi...
+>> 09.82 | Professor Yumi | 科学の力で / 人は神にも悪魔にもなれる！ / 神となり人類を救うことも！ / 悪魔となり世界を滅ぼすことも！
+   EN: With the power of science, man can become a god or a devil! A god who saves mankind! Or a devil who destroys the world!
+>> 09.83 | Genzo Kuruma | 俺を悪魔と呼ぶか 弓教授！？
+   EN: You call me a devil, Professor Yumi!?
+>> 09.84 | Genzo Kuruma | ところで弓教授 悪魔が好むものが / 何か 知っているかね？
+   EN: By the way, Professor Yumi, do you know what a devil enjoys?
+>> 09.85 | Professor Yumi | …？
+   EN: ...?
+>> 09.86 | Genzo Kuruma | 悪魔が好むのは… / 血と絶望の叫びなのだ！
+   EN: What a devil enjoys... is blood and screams of despair!
+>> 09.87 | Genzo Kuruma | 貴様ら 三流科学者は生きていても / 何の役にも立たん！ / せいぜい苦しんで / 俺を楽しませてくれ！ / はっはっはっは…！
+   EN: Third-rate scientists like you are of no use alive! At least suffer and entertain me! Hahahaha...!
+>> 09.88 | Scientist | ぎゃ～！
+   EN: Gyaaah!
+>> 09.89 | Scientist | うわ～！
+   EN: Whoaaa!
+>> 09.90 | Scientist | ひえぇ～！
+   EN: Eeeek!
+>> 09.91 | {p} | 大変だ！ / 弓教授を助けなくっちゃ！
+   EN: Oh no! We've got to save Professor Yumi!
+>> 09.92 | Demon Beast Hunter | バカなヤツめ！ / 来留間博士に逆らうとはな…！
+   EN: Stupid fools! Defying Dr. Kuruma...!
+>> 09.93 | Demon Beast Hunter | 痛めつけてやるぜぇ～ / ヒッヒッヒッヒ…！
+   EN: We're gonna rough you up good... Hee hee hee hee...!
+>> 09.94 | Professor Yumi | 君！ 助けてくれてありがとう！
+   EN: You there! Thank you for saving me!
+>> 09.95 | Koji Kabuto | 教授！ ご無事ですか！？
+   EN: Professor! Are you all right!?
+>> 09.96 | Professor Yumi | あぁ 大丈夫だ！ /  / ところで 甲児君 / どうして ここへ？
+   EN: Yes, I'm fine!  By the way, Koji-kun, what brings you here?
+>> 09.97 | Mysterious Man | …来留間源三は どこだ？
+   EN: ...Where is Genzo Kuruma?
+>> 09.98 | Professor Yumi | 博士なら あっちのほうへ…
+   EN: The doctor went that way...
+>> 09.99 | {p} | 行っちゃった…
+   EN: He's gone...
+   ctx 10.00 | Professor Yumi | 甲児君 どうしてここへ？
+   ctx EN: Koji-kun, what brings you here?
+   ctx 10.01 | Koji Kabuto[09] | 大変なんです 教授！ / 実は…！
+   ctx EN: It's an emergency, Professor! The thing is...!

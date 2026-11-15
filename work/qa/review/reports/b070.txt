@@ -1,0 +1,1 @@
+ASSESSMENT | b070 | Approved | No confident translation issues found; shortened ROM strings fall under the stated field-length exception.

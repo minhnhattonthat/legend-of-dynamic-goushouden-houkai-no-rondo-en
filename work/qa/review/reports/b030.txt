@@ -1,0 +1,3 @@
+MINOR | 29.21 | たいくつな世界は こっちから 願い下げだぜ: I'd reject a boring world myself. | "A boring world, I'll pass on, thanks" has awkward word order that blunts Mondo's swagger. | Bring it on! I'll take a pass on any boring world!
+MINOR | 29.28 | いつも時間にルーズなんだから: You're always careless about punctuality. | "Sloppy about time" sounds translated rather than like a natural scolding. | You're late, {p}! You're hopeless at being on time!
+ASSESSMENT | b030 | Approved | No confident Critical or Important issues; only minor phrasing polish.
