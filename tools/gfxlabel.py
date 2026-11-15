@@ -28,12 +28,15 @@ from skill import SKILL  # noqa: E402
 FONTS = ROOT / "fonts"
 BLOCKS = ROOT / "work" / "blocks"
 FRAMES = 900
+VERBOSE = "-v" in sys.argv
 
 # Label classes: one font and size per class (graphics.md §Lettering). fill/outline are RGB, matched to the nearest
 # colour of each pixel's own palette bank.
 CLASSES = {
     "small": dict(font="pixfont", size=6),  # tools/pixfont.py: 6-px bold caps, 1-px outline -> 8 rows
+    "btn": dict(font="pixfont", size=6, shadow=True),  # tabs and buttons: drop shadow like the game's kana
     "head": dict(font="PressStart2P-Regular.ttf", size=8),  # screen-title pills: 7-px caps, outline -> 9 rows
+    "tiny": dict(font="pixfont-tiny", size=5, shadow=True),  # 3x5 caps + drop shadow: under ~6 px per letter
 }
 
 
@@ -46,20 +49,56 @@ def head(text, **opt):
 SCREENS = {
     "item": dict(scene="m1_item", labels=[
         head("ITEMS", dx=-2),  # x 80-95 above the glyphs is one tile used twice: stay left of x 80
-        ("use", (2, 19, 28, 9), "USE", "small", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
-        ("drop", (34, 19, 28, 9), "DROP", "small", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
-        ("sort", (66, 19, 28, 9), "SORT", "small", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
+        ("use", (2, 19, 28, 9), "USE", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
+        ("drop", (34, 19, 28, 9), "DROP", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
+        ("sort", (66, 19, 28, 9), "SORT", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4)),
         ("col1", (38, 47, 36, 9), "ITEM", "small", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1)),
         ("col2", (148, 47, 40, 9), "ITEM", "small", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1)),
     ]),
-    "menu": dict(scene="k_jump", labels=[head("MENU")]),
+    "menu": dict(scene="k_jump", labels=[head("MENU")] + [
+        (f"btn{i}", (147, 27 + 16 * i, 59, 10), t, "btn", {3, 4, 11, 12, 13, 15}, ([11, 12, 13], 4))
+        for i, t in enumerate(["ITEMS", "PARTY", "STATUS", "SAVE"])]),
     "book": dict(scene="k_jump2", labels=[head("PROFILES")]),
     "party": dict(scene="m1_party", labels=[head("PARTY")]),
     "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
     "status": dict(scene="m1_status", labels=[head("STATUS")]),
     # セーブ画面 / ロード画面 share the 画面 tiles (x>=64 on the glyph rows): the word sits in x 33-63
-    "save": dict(scene="m1_save", labels=[head("SAVE", dx=-14, ring_xmax=63, clear_right=1)]),
+    # file 2's panel (y >= 88) repeats file 1's label tiles
+    "save": dict(scene="m1_save", repeats=[(0, 88, 240, 72)], labels=[
+        head("SAVE", dx=-14, ring_xmax=63, clear_right=1),
+        ("file", (12, 20, 43, 11), "FILE", "small", set(range(8, 16)) | {1, 2}, ([10, 12, 14, 15], 1),
+         dict(right=1, bgfill=7, dx=-2)),
+        ("file2", (12, 92, 43, 11), "FILE", "small", set(range(8, 16)) | {1, 2}, ([10, 12, 14, 15], 1),
+         dict(right=1, bgfill=7, dx=-2)),  # x 48-63 (ル + digit) are each panel's own tiles
+        ("area", (79, 22, 36, 10), "AREA", "small", {2}, (2, None), dict(left=1)),
+        # own tiles only in x 96-127 / 168-207, y 72-79
+        ("btl", (96, 72, 32, 8), "BATTLER", "tiny", {1, 7, 8, 9, 10, 11}, ([7, 8, 9, 10, 11], 1),
+         dict(kind="bg2")),
+        ("ptn", (168, 72, 40, 8), "PARTNER", "tiny", {1, 7, 8, 9, 10, 11}, ([7, 8, 9, 10, 11], 1),
+         dict(kind="bg2")),
+        ("book", (152, 1, 48, 12), "PROFILES", "small", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1),
+         dict(kind="bg2")),  # bg2 has its own tiles only in x 152-199 (x 200-215 is a shared blank tile)
+    ]),
     "load": dict(scene="m1_load", labels=[head("LOAD", dx=-14, clear_right=1)]),
+    # shop: tabs like the item screen's; the アイテム column head is the item screen's tiles (propagated)
+    "shop": dict(scene="m2_shop", labels=[
+        # each tab's top-left tile is shared with the name-entry buttons (block 2F8AD0): text starts at x0+8
+        ("buy", (2, 19, 28, 9), "BUY", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4), dict(left=1, dx=6)),
+        ("sell", (34, 19, 28, 9), "SELL", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4), dict(left=1, dx=6)),
+        ("exit", (66, 19, 28, 9), "EXIT", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4), dict(left=1, dx=6)),
+        ("price", (105, 32, 33, 8), "PRICE", "small", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1)),
+    ] + [(n, (154, y, w, h), t, "head", {1, 2}, (2, 1)) for n, y, w, h, t in (
+        ("money", 19, 45, 12, "MONEY"), ("owned", 44, 45, 12, "OWNED"), ("qty", 76, 45, 12, "QTY"),
+        ("total", 107, 58, 13, "TOTAL"))]),
+    # name entry: alphabet tabs and the side buttons (same button style as the item tabs)
+    "name": dict(scene="m1_name", labels=[
+        # top-left tile of every tab/button is shared with the shop tabs (block 2F8AD0): text starts at x0+8
+        ("hira", (82, 26, 36, 10), "HIRA", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4), dict(left=1, dx=8)),
+        ("kata", (122, 26, 36, 10), "KATA", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4), dict(left=1, dx=8)),
+        ("eng", (162, 26, 36, 10), "ABC", "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4), dict(left=1, dx=10)),
+    ] + [(f"side{i}", (3, 66 + 16 * i, 31, 10), t, "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4),
+          dict(left=1, dx=7 if len(t) > 2 else 11))
+         for i, t in enumerate(["FWD", "BACK", "DEL", "OK"])]),
     # battle command list (S4, block 0x361AE4): 4 rows of 8 px, kana drawn with a right/bottom shadow
     "battle": dict(scene="k_ode", labels=[
         ("fight", (48, 123, 37, 8), "FIGHT", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
@@ -78,12 +117,42 @@ def runs(pre):
     """[(vram lo, vram hi, block offset, block-relative lo)] from vramfind.py against work/blocks."""
     cache = pre.with_suffix(".find.txt")
     if not cache.exists():
+        # only the blocks this scene loaded (its unpack log), so a duplicate copy elsewhere is never taken
+        log = pre.parent / "log.txt"
+        if not log.exists():
+            raise SystemExit(f"{log}: no unpack log; re-dump the scene (gfxlabel.py dump SCREEN)")
+        src = pre.parent / "blocks"
+        src.mkdir(exist_ok=True)
+        for m in re.finditer(r"unpack src=08([0-9A-F]{6})", log.read_text(errors="replace")):
+            f = BLOCKS / f"{m.group(1)}.bin"
+            if f.exists() and not (src / f.name).exists():
+                (src / f.name).write_bytes(f.read_bytes())
         cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "vramfind.py"),
-               str(pre.with_suffix(".vram.bin")), str(BLOCKS), "--fmt", "gba4"]
+               str(pre.with_suffix(".vram.bin")), str(src), "--fmt", "gba4"]
         cache.write_text(subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8").stdout)
+    # exact: unpack() straight into VRAM (dst 0x06xxxxxx), later loads over earlier ones; kept only where the
+    # dumped VRAM still holds that block's bytes. vramfind (first matching copy) only fills what the log misses.
+    vram = pre.with_suffix(".vram.bin").read_bytes()
+    owner = {}  # VRAM tile -> (block, offset)
+    for m in re.finditer(r"unpack src=08([0-9A-F]{6}) dst=06([0-9A-F]{6})",
+                         (pre.parent / "log.txt").read_text(errors="replace")):
+        b, dst = int(m.group(1), 16), int(m.group(2), 16)
+        f = BLOCKS / f"{b:06X}.bin"
+        if not f.exists():
+            continue
+        data = f.read_bytes()
+        for k in range(0, len(data) - 31, 32):
+            owner[(dst + k) & ~31] = (b, k) if (dst + k) % 32 == 0 else None
     out = []
+    for t, v in owner.items():
+        if v and 0 <= t < len(vram) - 31 and vram[t:t + 32] == (BLOCKS / f"{v[0]:06X}.bin").read_bytes()[v[1]:v[1] + 32]:
+            out.append((t, t + 31, v[0], v[1]))
+    have = {lo for lo, *_ in out}
     for m in re.finditer(r"VRAM ([0-9A-F]+)-([0-9A-F]+) .*?([0-9A-F]{6})\.bin ([0-9A-F]+)-", cache.read_text()):
-        out.append((int(m.group(1), 16), int(m.group(2), 16), int(m.group(3), 16), int(m.group(4), 16)))
+        lo, hi, b, blo = (int(m.group(1), 16), int(m.group(2), 16), int(m.group(3), 16), int(m.group(4), 16))
+        for t in range(lo, hi + 1, 32):
+            if t not in have:
+                out.append((t, t + 31, b, blo + t - lo))
     return out
 
 
@@ -106,9 +175,9 @@ def all_blocks():
 
 
 def render_mask(text, font, size, weight=None):
-    if font == "pixfont":
+    if font in ("pixfont", "pixfont-tiny"):
         import pixfont
-        return pixfont.mask(text)
+        return pixfont.mask(text, font=pixfont.T if font.endswith("tiny") else None)
     from PIL import Image, ImageDraw, ImageFont
     f = ImageFont.truetype(str(FONTS / font), size)
     if weight:
@@ -132,10 +201,20 @@ def nearest(scr, src, rgb):
     return min(range(1, 16), key=lambda i: sum((a - b) ** 2 for a, b in zip(scr.color(bank, i, obj), rgb)))
 
 
+def screens(pre, labels):
+    """{kind: Screen} for every label kind: bg (all BGs), obj, bgN (BG N alone, transparent pixels editable)."""
+    out = {"bg": gfxscreen.compose(pre, objs=False), "obj": gfxscreen.compose(pre, bgs=False)}
+    for lab in labels:
+        k = (lab[6] if len(lab) > 6 else {}).get("kind", "bg")
+        if k.startswith("bg") and len(k) == 3 and k not in out:
+            out[k] = gfxscreen.compose(pre, only=int(k[2]))
+    return out
+
+
 def info(screen):
     pre = prefix(screen)
     full = gfxscreen.compose(pre)
-    scrs = {"bg": gfxscreen.compose(pre, objs=False), "obj": gfxscreen.compose(pre, bgs=False)}
+    scrs = screens(pre, SCREENS[screen]["labels"])
     for name, (x0, y0, w, h), *rest in SCREENS[screen]["labels"]:
         opt = rest[4] if len(rest) > 4 else {}
         scr = scrs[opt.get("kind", "bg")]
@@ -158,10 +237,11 @@ def draw(screen):
     cfg = SCREENS[screen]
     pre = prefix(screen)
     full = gfxscreen.compose(pre)
-    scrs = {"bg": gfxscreen.compose(pre, objs=False), "obj": gfxscreen.compose(pre, bgs=False)}
+    scrs = screens(pre, cfg["labels"])
     vram = bytearray(full.vram)
     newnib = {}  # (addr, hi) -> value
-    want = {}  # (kind, x, y) -> value: the pixels we meant to set
+    want = {}  # (vram addr, hi, x, y) -> value: the pixels we meant to set
+    label_tiles = {}  # label -> VRAM tiles it changes
     rects = []
     for name, (x0, y0, w, h), text, cls, clear, (fill_rgb, ol_rgb), *opt in cfg["labels"]:
         opt = opt[0] if opt else {}
@@ -171,7 +251,9 @@ def draw(screen):
         for y in range(y0, y0 + h):
             for x in range(x0, x0 + w):
                 s = scr.src[y][x]
-                if s and s[4] in clear:
+                if s and s[4] in clear and "bgfill" in opt:
+                    val[(x, y)] = opt["bgfill"]
+                elif s and s[4] in clear:
                     # nearest kept pixel; clear_right=1 looks right first (identical result in a tile two
                     # screens share when only the left part differs)
                     order = [(d,) for d in range(1, 64)] if not opt.get("clear_right") else \
@@ -187,10 +269,16 @@ def draw(screen):
                         val[(x, y)] = scr.src[y][x0][4]
         c = CLASSES[cls]
         pts, tw, th = render_mask(text, c["font"], opt.get("size", c["size"]), c.get("weight"))
-        ax = (x0 + 1 if opt.get("left") else x0 + (w - tw) // 2) + opt.get("dx", 0)
-        ay = y0 + (h - th + 1) // 2 + opt.get("dy", 0)
+        sh = 1 if c.get("shadow") else 0  # a drop shadow takes 1 px right/below, a ring 1 px on every side
+        ax = (x0 + 1 - sh if opt.get("left") else x0 + w - 1 - tw if opt.get("right")
+              else x0 + (w - tw - sh) // 2) + opt.get("dx", 0)
+        ay = y0 + (h - th + 1 - 2 * sh) // 2 + opt.get("dy", 0)
         pts = {(ax + x, ay + y) for x, y in pts}
-        rg = {(x, y) for x, y in ring(pts) if x <= opt.get("ring_xmax", 999)} if ol_rgb is not None else set()
+        if c.get("shadow"):  # drop shadow right and below, like the kana on the game's own buttons
+            rg = {(x + dx, y + dy) for x, y in pts for dx, dy in ((1, 0), (0, 1), (1, 1))} - pts
+        else:
+            rg = ring(pts)
+        rg = {(x, y) for x, y in rg if x <= opt.get("ring_xmax", 999)} if ol_rgb is not None else set()
         for layer, ink in ((rg, ol_rgb), (pts, fill_rgb)):
             for (x, y) in layer:
                 if not (x0 <= x < x0 + w and y0 <= y < y0 + h) or not scr.src[y][x]:
@@ -207,7 +295,9 @@ def draw(screen):
             if newnib.get(k, v) != v:
                 raise SystemExit(f"{screen}/{name}: VRAM {addr:#x} written two ways (a tile repeats in the label)")
             newnib[k] = v
-            want[(opt.get("kind", "bg"), x, y)] = v
+            want[(addr, hi, x, y)] = v
+            if v != old:
+                label_tiles.setdefault(name, set()).add(addr & ~31)
         print(f"{name}: '{text}' {tw}x{th} px at {ax},{ay}")
     for (addr, hi), v in newnib.items():
         vram[addr] = (vram[addr] & 0x0F) | (v << 4) if hi else (vram[addr] & 0xF0) | v
@@ -217,7 +307,8 @@ def draw(screen):
             for x in range(240):
                 s = scr.src[y][x]
                 if s and (s[1], s[2]) in newnib and newnib[(s[1], s[2])] != s[4] \
-                        and want.get((kind, x, y)) != newnib[(s[1], s[2])]:
+                        and want.get((s[1], s[2], x, y)) != newnib[(s[1], s[2])] \
+                        and not any(a <= x < a + w and b <= y < b + h for a, b, w, h in cfg.get("repeats", [])):
                     raise SystemExit(f"{screen}: tile at VRAM {s[1]:#x} also shows at ({x},{y}) and would change there")
     # back to the blocks
     rom = next((ROOT / "rom").glob("*.gba")).read_bytes()
@@ -236,23 +327,43 @@ def draw(screen):
         return edits[off]
 
     alls, inner = all_blocks()
-    skipped = set()
+
+    def put_tile(off, old, new):
+        """A label copy in another block: only where the tile occurs exactly once there."""
+        data = alls[off]
+        i = data.find(old)
+        if i >= 0 and data.find(old, i + 1) < 0:
+            block(off)[i:i + 32] = new
+
+    # 1. every changed tile into the block this screen loaded it from, at the offset VRAM came from (a block
+    #    can hold the same tile bytes several times: only this copy is the one on screen)
+    srcs = {}
     for t0, (old, new) in sorted(tiles.items()):
-        src = {boff for lo, hi, boff, blo in rs if lo <= t0 and t0 + 32 <= hi + 1}
-        if not src:
+        at = {(boff, blo + t0 - lo) for lo, hi, boff, blo in rs if lo <= t0 and t0 + 32 <= hi + 1}
+        srcs[t0] = {b for b, _ in at}
+        if not at:
             raise SystemExit(f"{screen}: VRAM tile {t0:#x} not found in any packed block")
-        for off, data in alls.items():
-            i = data.find(old)
-            if i < 0:
-                continue
-            if off in inner and off not in src:
-                skipped.add(off)  # a false-positive decode inside a real block: never write there
-                continue
-            while i >= 0:
-                block(off)[i:i + 32] = new
-                i = data.find(old, i + 1)
-    if skipped:
-        print(f"{screen}: skipped blocks inside other blocks: {', '.join('%06X' % o for o in sorted(skipped))}")
+        for off, i in at:
+            if alls[off][i:i + 32] != old:
+                raise SystemExit(f"{screen}: tile {t0:#x} is not at {off:06X}+{i:X}")
+            block(off)[i:i + 32] = new
+    # 2. a whole label duplicated in another block (another screen's copy): only when that block holds every
+    #    distinctive tile of the label (a shared glyph such as る in すてる / うる must not carry one label's
+    #    letters into the other); near-blank tiles never travel
+    for name, ts in label_tiles.items():
+        dist = [t for t in ts if t in tiles and len(set(tiles[t][0])) >= 5
+                and sum(1 for b in tiles[t][0] for v in (b & 15, b >> 4) if v) >= 12]
+        if len(dist) < 2:  # one glyph tile is no evidence of the whole label (ア starts アイテム and アソート)
+            continue
+        cand = None
+        for t in dist:
+            has = {off for off, data in alls.items() if off not in inner and tiles[t][0] in data}
+            cand = has if cand is None else cand & has
+        for off in sorted(cand - set().union(*srcs.values())):  # never a block this screen loads itself
+            if VERBOSE:
+                print(f"  label {name}: copy in block {off:06X}")
+            for t in dist:
+                put_tile(off, *tiles[t])
     gfx.DIR.mkdir(exist_ok=True)
     for old in gfx.DIR.glob(f"{screen}_*.diff"):
         old.unlink()
@@ -271,7 +382,8 @@ def draw(screen):
 def grid(scene, rect, kind="bg"):
     """Print a rect of the original screen as palette indices (hex), '*' after a tile column shared elsewhere."""
     pre = ROOT / "work" / "qa" / "ppu" / f"jp_{scene}" / f"ppu_{FRAMES - 1:06d}"
-    scr = gfxscreen.compose(pre, objs=kind == "obj", bgs=kind == "bg")
+    scr = gfxscreen.compose(pre, objs=kind == "obj", bgs=kind != "obj",
+                            only=int(kind[2]) if len(kind) == 3 and kind.startswith("bg") else None)
     x0, y0, w, h = rect
     uses = {}
     for y in range(160):
@@ -295,7 +407,7 @@ def main():
         return grid(sys.argv[2], tuple(int(v) for v in sys.argv[3].split(",")), *(sys.argv[4:5] or ["bg"]))
     if len(sys.argv) < 2 or sys.argv[1] not in ("dump", "info", "draw"):
         raise SystemExit(__doc__)
-    cmd, names = sys.argv[1], sys.argv[2:] or sorted(SCREENS)
+    cmd, names = sys.argv[1], [a for a in sys.argv[2:] if not a.startswith("-")] or sorted(SCREENS)
     for n in names:
         if cmd == "dump":
             import ppuscene

@@ -29,6 +29,7 @@ def dump(scene, tag="jp", frames=900):
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(out),
            "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", f"SCENE='{scene}'",
            "--script", str(Path(SKILL) / "scripts" / "lua" / "probes" / "ppudump.lua"),
+           "--script", str(ROOT / "tools" / "lua" / "unpacklog.lua"),  # log.txt: the blocks this scene loads
            "--frames", str(frames)]
     r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
     if r.returncode:

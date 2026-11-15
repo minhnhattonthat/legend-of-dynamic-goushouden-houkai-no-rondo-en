@@ -394,15 +394,91 @@ def _write_block(w, toks):
             w.put(p - 1, v - (1 << (p - 1)))
 
 
-def encode(raw):
-    """lh5 bit stream for raw (no header). decode(encode(raw), 0, len(raw)) == raw."""
-    toks = _parse(bytes(raw))
+def _write(toks):
     w = _BitWriter()
     for k in range(0, len(toks), BLOCK):
         _write_block(w, toks[k:k + BLOCK])
     return w.flush()
 
 
-def pack(raw):
-    """Type-2 packed file: u32 header (2 << 24 | size) + lh5 stream."""
-    return (2 << 24 | len(raw)).to_bytes(4, "little") + encode(raw)
+def encode(raw):
+    """lh5 bit stream for raw (no header). decode(encode(raw), 0, len(raw)) == raw."""
+    return _write(_parse(bytes(raw)))
+
+
+def _costs(toks):
+    """Bit cost per literal/length symbol and per position class, from a parse's Huffman lengths."""
+    cfreq, pfreq = [0] * NC, [0] * NP
+    for t in toks:
+        if isinstance(t, int):
+            cfreq[t] += 1
+        else:
+            cfreq[t[0] + 256 - THRESHOLD] += 1
+            pfreq[_pcode(t[1])[0]] += 1
+    cl = _limited_lens([f or 0 for f in cfreq]) if sum(1 for f in cfreq if f) > 1 else [1] * NC
+    pl = _limited_lens(pfreq) if sum(1 for f in pfreq if f) > 1 else [1] * NP
+    cl = [c or 12 for c in cl]  # unseen symbols: a guess, so they can still be chosen
+    pl = [p or 8 for p in pl]
+    return cl, pl
+
+
+def _optimal(raw, cl, pl, max_chain=64):
+    """Shortest-path parse under the cost model (cl, pl): every match length at the closest distances."""
+    n = len(raw)
+    head, prev = {}, [-1] * n
+    cost = [0] + [1 << 60] * n
+    step = [None] * (n + 1)
+    for i in range(n):
+        if cost[i] < (1 << 60):
+            c = cost[i] + cl[raw[i]]
+            if c < cost[i + 1]:
+                cost[i + 1], step[i + 1] = c, raw[i]
+            if i + 3 <= n:
+                limit = min(MAXMATCH, n - i)
+                j, chain, best = head.get(raw[i:i + 3], -1), max_chain, 2
+                while j >= 0 and i - j <= MAXDIST and chain:
+                    ln = 0
+                    while ln < limit and raw[j + ln] == raw[i + ln]:
+                        ln += 1
+                    if ln > best:
+                        d = i - j
+                        p, _ = _pcode(d)
+                        pc = pl[p] + max(p - 1, 0)
+                        for k in range(best + 1, ln + 1):
+                            c = cost[i] + cl[k + 256 - THRESHOLD] + pc
+                            if c < cost[i + k]:
+                                cost[i + k], step[i + k] = c, (k, d)
+                        best = ln
+                        if ln == limit:
+                            break
+                    j = prev[j]
+                    chain -= 1
+        if i + 3 <= n:
+            k = raw[i:i + 3]
+            prev[i] = head.get(k, -1)
+            head[k] = i
+    toks, i = [], n
+    while i > 0:
+        t = step[i]
+        toks.append(t)
+        i -= 1 if isinstance(t, int) else t[0]
+    return toks[::-1]
+
+
+def encode_small(raw):
+    """The smallest of the greedy parse and two rounds of cost-based optimal parsing (graphics blocks that must
+    fit their original slot). Same stream format: decode() reads any of them."""
+    raw = bytes(raw)
+    toks = _parse(raw)
+    best = _write(toks)
+    for _ in range(2):
+        toks = _optimal(raw, *_costs(toks))
+        out = _write(toks)
+        if len(out) < len(best):
+            best = out
+    return best
+
+
+def pack(raw, small=False):
+    """Type-2 packed file: u32 header (2 << 24 | size) + lh5 stream (small=True: try harder for size)."""
+    return (2 << 24 | len(raw)).to_bytes(4, "little") + (encode_small(raw) if small else encode(raw))

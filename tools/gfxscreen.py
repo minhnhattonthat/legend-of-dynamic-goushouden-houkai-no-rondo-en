@@ -16,9 +16,10 @@ OBJ_SIZES = {0: [(8, 8), (16, 16), (32, 32), (64, 64)], 1: [(16, 8), (32, 8), (3
 
 
 class Screen:
-    def __init__(self, prefix, bgs=True, objs=True):
+    def __init__(self, prefix, bgs=True, objs=True, only=None):
+        """only=N: BG N alone, its transparent pixels (index 0) recorded too, so text can be drawn there."""
         p = Path(prefix)
-        self.bgs, self.objs = bgs, objs
+        self.bgs, self.objs, self.only = bgs, objs, only
         self.vram = p.with_suffix(".vram.bin").read_bytes()
         self.pal = p.with_suffix(".pal.bin").read_bytes()
         self.oam = p.with_suffix(".oam.bin").read_bytes()
@@ -59,6 +60,8 @@ class Screen:
         for n in range(4):
             if not self.bgs or not dispcnt >> (8 + n) & 1 or mode > 1 or (mode == 1 and n > 2):
                 continue
+            if self.only is not None and n != self.only:
+                continue
             cnt = self.u16(8 + 2 * n)
             pr, cbase, sbase, size = cnt & 3, (cnt >> 2 & 3) * 0x4000, (cnt >> 8 & 31) * 0x800, cnt >> 14
             if cnt >> 7 & 1:
@@ -75,9 +78,9 @@ class Screen:
                     px, py = mx % 8, my % 8
                     px, py = (7 - px if hf else px), (7 - py if vf else py)
                     addr, hi, i = self.pixel4(cbase, t, px, py)
-                    if i:
+                    if i or self.only is not None:
                         self.put(x, y, (pr, 1, n), f"bg{n}", addr, hi, bank, i)
-        if not self.objs or not dispcnt >> 12 & 1:
+        if not self.objs or self.only is not None or not dispcnt >> 12 & 1:
             return
         one_d = dispcnt >> 6 & 1
         for k in range(128):  # the priority key (prio, 0, k) makes the lower OAM index win
@@ -111,8 +114,8 @@ class Screen:
         return im.resize((240 * scale, 160 * scale), Image.NEAREST) if scale > 1 else im
 
 
-def compose(prefix, bgs=True, objs=True):
-    return Screen(prefix, bgs, objs)
+def compose(prefix, bgs=True, objs=True, only=None):
+    return Screen(prefix, bgs, objs, only)
 
 
 def main():

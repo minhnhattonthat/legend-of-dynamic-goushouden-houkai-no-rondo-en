@@ -82,7 +82,7 @@ def packs(orig):
         _, raw, size = packed.unpack(orig, off)
         new = merged(raw, paths)
         if new != raw:
-            out[off] = (lh5.pack(new), size)
+            out[off] = (lh5.pack(new, small=True), size)
     return out
 
 
