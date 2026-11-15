@@ -47,28 +47,41 @@ def apply_diff(raw, text):
 
 
 def blocks():
-    """[(offset, path)] for every edited block."""
-    out = []
+    """{offset: [path, ..]} for every edited block (several screens may edit one block: tools/gfxlabel.py)."""
+    out = {}
     for p in sorted(DIR.glob("*.diff")):
         m = re.search(r"_([0-9A-F]{6})\.diff$", p.name)
         if m:
-            out.append((int(m.group(1), 16), p))
+            out.setdefault(int(m.group(1), 16), []).append(p)
     return out
 
 
 def ranges(orig):
     """Allowed write ranges: each edited block's original packed slot."""
-    return [(off, off + packed.unpack(orig, off)[2]) for off, _ in blocks()]
+    return [(off, off + packed.unpack(orig, off)[2]) for off in sorted(blocks())]
+
+
+def merged(raw, paths):
+    """Apply every diff of one block; two diffs writing one byte two ways is an error."""
+    out, owner = bytearray(raw), {}
+    for p in paths:
+        new = apply_diff(raw, p.read_text())
+        for i in range(len(raw)):
+            if new[i] != raw[i]:
+                if i in owner and out[i] != new[i]:
+                    raise SystemExit("gfx: %s and %s write byte %X of the block two ways" % (owner[i], p.name, i))
+                out[i], owner[i] = new[i], p.name
+    return bytes(out)
 
 
 def insert(orig, put):
-    for off, path in blocks():
+    for off, paths in sorted(blocks().items()):
         _, raw, size = packed.unpack(orig, off)
-        new = apply_diff(raw, path.read_text())
+        new = merged(raw, paths)
         if new == raw:
             continue
         data = lh5.pack(new)
         if len(data) > size:
             raise SystemExit("%s: repacked %d bytes > slot %d at %06X (relocate: not done yet)"
-                             % (path.name, len(data), size, off))
-        put(off, data, "gfx %s" % path.stem)
+                             % (paths[0].name, len(data), size, off))
+        put(off, data, "gfx %06X" % off)
