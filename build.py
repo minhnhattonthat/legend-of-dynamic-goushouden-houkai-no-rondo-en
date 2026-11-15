@@ -8,12 +8,14 @@
 Steps: rom check -> engine patches (tools/engine.py: 16 MiB, archive pointers, VWF hook and font) -> script
 archive (tools/archive.py: unpack every file, rebuild each from script/archive/*.json via tools/extract.py +
 tools/sjis.py, repack; unchanged files keep their original lh5 stream, edited ones are re-encoded by tools/lh5.py)
-at engine.NEW_ARCHIVE -> translated plain ROM strings from script/rom/*.json, in place -> write. Every write goes
+at engine.NEW_ARCHIVE, then the five archives after it (book, desc, effect, place; archive.ARCHIVES) from
+script/<dir>/*.json, their literal pools repointed -> translated plain ROM strings from script/rom/*.json, in place -> write. Every write goes
 through Writer.put and is logged to <out>.writes.txt for romdiff.py --writes.
 Packed graphics join here as they get edited (phase 8).
 """
 import argparse
 import hashlib
+import struct
 import sys
 from pathlib import Path
 
@@ -45,30 +47,44 @@ class Writer:
         self.rom[off:off + len(data)] = data
 
 
-def put_archive(w, arc, at):
+def put_archive(w, arc, at, name="script"):
+    """Write the archive at `at`; returns the 4-aligned end."""
     data = arc.build()
     if at + len(data) > len(w.rom):
-        raise SystemExit("script archive is %d bytes, too big for 0x%X.." % (len(data), at))
-    w.put(at, data, "script archive")
+        raise SystemExit("%s archive is %d bytes, too big for 0x%X.." % (name, len(data), at))
+    w.put(at, data, "%s archive" % name)
+    return (at + len(data) + 3) & ~3
 
 
-def put_archive_inplace(rom, arc):
+def put_archive_inplace(rom, arc, spec=archive.ARCHIVES[0]):
+    """The identity build: the archive back in its own slot (the script archive's slack zero-filled, the others'
+    left as they were: their unchanged files keep their original streams)."""
     data = arc.build()
-    room = archive.END - archive.BASE
+    room = spec.end - spec.base
     if len(data) > room:
-        raise SystemExit("script archive is %d bytes, %d over its slot" % (len(data), len(data) - room))
-    rom[archive.BASE:archive.BASE + len(data)] = data
-    rom[archive.BASE + len(data):archive.END] = bytes(room - len(data))
+        raise SystemExit("%s archive is %d bytes, %d over its slot" % (spec.name, len(data), len(data) - room))
+    rom[spec.base:spec.base + len(data)] = data
+    if spec.base == archive.BASE:
+        rom[spec.base + len(data):spec.end] = bytes(room - len(data))
 
 
-def insert_archive(arc, texts):
-    """script/archive texts -> each file's raw bytes (slot = encode(text) + 00, slots in order)."""
+def encode_slot(text, spec, wide=False):
+    """One message's bytes: encode(text) + 00; fullwidth Latin for a `wide` archive (archive.Spec) when wide=True
+    (the English build; the identity build keeps the original bytes); checked against the archive's buffer room."""
+    data = sjis.encode(sjis.fullwidth(text) if wide and spec.wide else text)
+    if spec.room is not None and len(data) > spec.room:
+        raise SystemExit("%s archive: %d bytes, the buffer holds %d: %r" % (spec.name, len(data), spec.room, text))
+    return data + b"\0"
+
+
+def insert_archive(arc, texts, spec=archive.ARCHIVES[0], wide=False):
+    """script/<dir> texts -> each file's raw bytes (slot = encode(text) + 00, slots in order)."""
     for fi, f in enumerate(arc.files):
         slots = archive.split_file(f.raw)
         got = texts.get(fi, {})
         if set(got) != {j for j, s in enumerate(slots) if s is not None}:
-            raise SystemExit("script/archive/f%02d.json: slot list differs from the ROM's" % fi)
-        f.raw = archive.join_file([None if s is None else sjis.encode(got[j]) + b"\0" for j, s in enumerate(slots)])
+            raise SystemExit("script/%s/f%02d.json: slot list differs from the ROM's" % (spec.dir, fi))
+        f.raw = archive.join_file([None if s is None else encode_slot(got[j], spec, wide) for j, s in enumerate(slots)])
 
 
 FULLWIDTH = extract.FULLWIDTH
@@ -92,12 +108,13 @@ def insert_rom_strings(rom, texts, put=None):
 def identity(orig, reencode=False):
     """Unpack and repack with no engine changes, archive in its own slot: equals the original (phase 3 test)."""
     rom = bytearray(orig)
-    arc = archive.read(orig)
-    insert_archive(arc, extract.archive_texts(jp=True))
-    if reencode:  # test the encoder in game: every file goes through tools/lh5.py
-        for f in arc.files:
-            f.orig_raw = None
-    put_archive_inplace(rom, arc)
+    for spec in archive.ARCHIVES:
+        arc = archive.read(orig, spec.base)
+        insert_archive(arc, extract.archive_texts(jp=True, name=spec.name), spec)
+        if reencode and spec.base == archive.BASE:  # test the encoder in game: every file goes through tools/lh5.py
+            for f in arc.files:
+                f.orig_raw = None
+        put_archive_inplace(rom, arc, spec)
     insert_rom_strings(rom, extract.rom_texts(jp=True))
     return bytes(rom)
 
@@ -117,7 +134,22 @@ def build(orig, marker=False, writes=None, qa=()):
             raise SystemExit("--qa %s: no such message" % mid)
         texts[fi][slot] = text.replace("\\n", "\n")
     insert_archive(arc, texts)
-    put_archive(w, arc, engine.NEW_ARCHIVE)
+    cur = put_archive(w, arc, engine.NEW_ARCHIVE)
+    # the five archives after it (docs/re/text.md §1b): rebuilt after the script archive, their literal pools
+    # repointed; one with no pointer (the unused test line) stays where it is, untouched
+    for spec in archive.ARCHIVES[1:]:
+        if not spec.sites:
+            continue
+        arc = archive.read(orig, spec.base)
+        use = marker and scope in ("all", "archive")
+        insert_archive(arc, marker_mod.archive_markers(spec.name) if use else extract.archive_texts(name=spec.name),
+                       spec, wide=True)
+        at = cur
+        cur = put_archive(w, arc, at, spec.name)
+        for site in spec.sites:
+            if struct.unpack_from("<I", orig, site)[0] != 0x08000000 + spec.base:
+                raise SystemExit("%s archive pointer at %X: unexpected value" % (spec.name, site))
+            w.put(site, struct.pack("<I", 0x08000000 + at), "%s archive ptr" % spec.name)
     texts = extract.rom_texts()
     if marker and scope != "archive":
         lo, hi = 0, len(orig)

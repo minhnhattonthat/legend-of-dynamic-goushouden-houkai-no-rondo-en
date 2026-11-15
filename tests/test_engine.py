@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ROM = ROOT / "rom" / "Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba"
 
 # Where the build may write: archive pointer literals, the 12-px font, the free slot, ROM strings, new space.
-ALLOWED = [(s, s + 4) for s in archive.POINTER_SITES] + [(site, site + 4) for site, _ in engine.ADV_SITES] + [
+ALLOWED = [(s, s + 4) for a in archive.ARCHIVES for s in a.sites] + [(site, site + 4) for site, _ in engine.ADV_SITES] + [
     (site, site + 4) for site, _ in engine.HALF_SITES] + [
     (engine.FONT12, engine.FONT12 + 1691 * 24), (engine.FONT6, engine.FONT6 + engine.FONT6_COUNT * 24),
     (engine.FONT8, engine.FONT8 + 1691 * 8), engine.FREE, (0x0CD95C, 0x0D5000), (0x0D9000, 0x0DF000),
@@ -40,6 +40,21 @@ class EngineTest(unittest.TestCase):
         self.assertEqual(len(arc.files), archive.NFILES)
         slot = archive.split_file(arc.files[34].raw)[10]
         self.assertTrue(slot.startswith(b"\\p\r34.10 The quick"), slot[:30])
+
+    def test_hidden_archives_moved_and_repointed(self):
+        """book / desc / effect / place are rebuilt after the script archive; every literal pool points there."""
+        for spec in archive.ARCHIVES[1:]:
+            if not spec.sites:
+                self.assertEqual(self.out[spec.base:spec.end], self.orig[spec.base:spec.end], spec.name)
+                continue
+            ptrs = {struct.unpack_from("<I", self.out, s)[0] for s in spec.sites}
+            self.assertEqual(len(ptrs), 1, spec.name)
+            at = ptrs.pop() - 0x08000000
+            self.assertGreater(at, engine.NEW_ARCHIVE, spec.name)
+            first = archive.split_file(archive.read(self.out, at).files[0].raw)
+            text = next(s for s in first if s is not None)
+            head = sjis.fullwidth(spec.prefix + "00.") if spec.wide else spec.prefix + "00."
+            self.assertTrue(text.startswith(sjis.encode(head)), (spec.name, text[:20]))
 
     def test_every_change_is_logged_and_allowed(self):
         logged = bytearray(len(self.out))

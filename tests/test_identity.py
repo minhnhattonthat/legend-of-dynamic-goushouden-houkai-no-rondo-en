@@ -35,8 +35,24 @@ class IdentityTest(unittest.TestCase):
         self.assertEqual(self.arc.build(), self.rom[archive.BASE:archive.END])
 
     def test_archive_pointer_sites(self):
-        for site in archive.POINTER_SITES:
-            self.assertEqual(struct.unpack_from("<I", self.rom, site)[0], 0x08000000 | archive.BASE, hex(site))
+        for spec in archive.ARCHIVES:
+            for site in spec.sites:
+                self.assertEqual(struct.unpack_from("<I", self.rom, site)[0], 0x08000000 | spec.base, hex(site))
+
+    def test_hidden_archives_rebuild_identical(self):
+        """The five archives after the script archive (docs/re/text.md §1b): same format, files and counts."""
+        counts = {}
+        for spec in archive.ARCHIVES[1:]:
+            arc = archive.read(self.rom, spec.base)
+            data = arc.build()
+            self.assertEqual(data, self.rom[spec.base:spec.base + len(data)], spec.name)
+            self.assertTrue(all(b == 0xFF for b in self.rom[spec.base + len(data):spec.end]), spec.name)
+            for f in arc.files:
+                self.assertEqual(archive.join_file(archive.split_file(f.raw)), f.raw)
+            counts[spec.name] = (len(arc.files),
+                                 sum(s is not None for f in arc.files for s in archive.split_file(f.raw)))
+        self.assertEqual(counts, {"book": (2, 148), "test": (1, 1), "desc": (3, 290), "effect": (1, 92),
+                                  "place": (4, 312)})
 
     def test_slots_roundtrip(self):
         for i, f in enumerate(self.arc.files):

@@ -52,6 +52,19 @@ class ExtractTest(unittest.TestCase):
                     n += 1
         self.assertEqual(n, 5363)
 
+    def test_hidden_archives_roundtrip(self):
+        """The five archives after the script archive: every slot re-encodes to its bytes and matches script/."""
+        n = 0
+        for spec in archive.ARCHIVES[1:]:
+            for fi, f in enumerate(archive.read(self.rom, spec.base).files):
+                got = {e["id"]: e["jp"] for e in extract.load("%s/f%02d.json" % (spec.dir, fi))}
+                for si, s in enumerate(archive.split_file(f.raw)):
+                    if s is not None:
+                        self.assertEqual(sjis.encode(sjis.decode(s[:-1])) + b"\0", s)
+                        self.assertEqual(got["%s%02d.%02d" % (spec.prefix, fi, si)], sjis.decode(s[:-1]))
+                        n += 1
+        self.assertEqual(n, 843)
+
     def test_every_message_id_lands_on_a_slot(self):
         ids = [m for name, es in self.entries.items() if name.startswith("archive/") for e in es for m in e["msg"]]
         self.assertEqual(len(ids), 5363)

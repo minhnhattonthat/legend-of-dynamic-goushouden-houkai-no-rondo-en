@@ -11,6 +11,7 @@ Entries with status `data` are left alone.
 import re
 import sys
 
+import archive
 import extract
 import sjis
 
@@ -45,13 +46,25 @@ def rom_marker(sid, jp, room):
     return text + tail
 
 
-def archive_markers():
+def archive_markers(arc="script"):
+    """-> {file index: {slot: marker}} for archive `arc` (archive.ARCHIVES name). An archive read into a fixed
+    buffer (Spec.room) gets lines cut to WIDE_LINE chars, still past any box (the book box holds ~20)."""
+    spec = archive.BY_NAME[arc]
     out = {}
     for name in extract.script_files():
-        m = re.fullmatch(r"archive/f(\d+)\.json", name)
+        m = re.fullmatch(r"%s/f(\d+)\.json" % spec.dir, name)
         if m:
-            out[int(m[1])] = {int(e["id"].split(".")[1]): message_marker(e["id"], e["jp"]) for e in extract.load(name)}
+            msgs = {}
+            for e in extract.load(name):
+                t = message_marker(e["id"], e["jp"])
+                if spec.room:
+                    t = "\n".join(line[:WIDE_LINE] for line in t.split("\n"))
+                msgs[int(e["id"].split(".")[1])] = t
+            out[int(m[1])] = msgs
     return out
+
+
+WIDE_LINE = 40
 
 
 def rom_markers():

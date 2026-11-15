@@ -36,6 +36,22 @@ class LintTest(unittest.TestCase):
         line = "a" * 50
         self.assertGreater(lint.line_px(line, lint.char_widths()), 184)
 
+    @unittest.skipIf(lint.char_widths12() is None, "no ROM dump")
+    def test_book_box(self):
+        jp = "豪翔伝\n\n\nこの物語の主人公\n不可解なメールを"
+        errs = []
+        lint.lint_box(entry(jp, "Goushouden\n\n\nOur hero.\nGot an e-mail", "B00.00"), "book", errs)
+        self.assertEqual(errs, [])
+        errs = []
+        lint.lint_box(entry(jp, "Goushouden\n\nThe hero of this tale, who got a strange e-mail\n1\n2\n3\n4\n5",
+                            "B00.00"), "book", errs)
+        self.assertTrue(any("blank lines" in m for m in errs), errs)
+        self.assertTrue(any("px" in m for m in errs), errs)
+        self.assertTrue(any("lines, the book box" in m for m in errs), errs)
+        errs = []
+        lint.lint_box(entry("回復", "Restores about 30 HP to one ally", "D00.00"), "desc", errs)
+        self.assertEqual(errs, [])
+
     def test_stub_warning(self):
         _, w = self.errs("名前\nあ\nい", "Name\nThis is a long line\nso.")
         self.assertTrue(w)

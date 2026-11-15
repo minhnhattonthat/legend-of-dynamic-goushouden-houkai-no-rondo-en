@@ -9,6 +9,8 @@
 script/archive/fNN.json  one per script-archive file (54): one entry per used slot,
     {"id": "05.12", "msg": [message ids], "jp", "en", "status", "notes"}; id = file.slot, msg = the message ids
     (archive id map) that reach the slot. The slot's bytes are encode(text) + 00.
+script/{book,desc,effect,place,test}/fNN.json  the five archives after it (archive.ARCHIVES), same fields; ids
+    carry the archive's prefix (B00.12 book, D desc, E effect, P place, T test = unused, status data).
 script/rom/PPPPPP.json   plain ROM strings by 4 KiB page, {"id": "r0CD95C", "ptrs": [pointer sites], "max", ...}
 script/rom/sfx.json      onomatopoeia record names, {"id": "x0D9D44", "rec": record offset, "max", ...}
     max = bytes the text may take in place (00 excluded). status "data" = not text (format strings, magic, file
@@ -40,29 +42,27 @@ FULLWIDTH = {0x0D18BC, 0x0D18C4}
 
 
 def message_ids(rom):
-    """{message number (file * 100 + slot): [message ids]} from the archive id map."""
-    count = struct.unpack_from("<H", rom, archive.BASE)[0]
-    out = {}
-    for mid, num in enumerate(struct.unpack_from("<%dH" % count, rom, archive.BASE + 2)):
-        if num != 0xFFFF:
-            out.setdefault(num, []).append(mid)
-    return out
+    """{message number (file * 100 + slot): [message ids]} from the script archive's id map."""
+    return archive.message_ids(rom)
 
 
 def archive_entries(rom):
-    """-> {file name: [entries]} for the script archive."""
-    ids = message_ids(rom)
+    """-> {file name: [entries]} for the script archive and the five after it (archive.ARCHIVES)."""
     out = {}
-    for fi, f in enumerate(archive.read(rom).files):
-        ents = []
-        for si, s in enumerate(archive.split_file(f.raw)):
-            if s is None:
-                continue
-            if not s.endswith(b"\0") or b"\0" in s[:-1]:
-                raise ValueError("file %d slot %d: not one 00-terminated string" % (fi, si))
-            ents.append({"id": "%02d.%02d" % (fi, si), "msg": ids.get(fi * 100 + si, []),
-                         "jp": sjis.decode(s[:-1]), "en": "", "status": "", "notes": ""})
-        out["archive/f%02d.json" % fi] = ents
+    for spec in archive.ARCHIVES:
+        ids = archive.message_ids(rom, spec.base)
+        unused = not spec.sites
+        for fi, f in enumerate(archive.read(rom, spec.base).files):
+            ents = []
+            for si, s in enumerate(archive.split_file(f.raw)):
+                if s is None:
+                    continue
+                if not s.endswith(b"\0") or b"\0" in s[:-1]:
+                    raise ValueError("%s file %d slot %d: not one 00-terminated string" % (spec.name, fi, si))
+                ents.append({"id": "%s%02d.%02d" % (spec.prefix, fi, si), "msg": ids.get(fi * 100 + si, []),
+                             "jp": sjis.decode(s[:-1]), "en": "", "status": "data" if unused else "",
+                             "notes": "no pointer to this archive: unused (guess)" if unused else ""})
+            out["%s/f%02d.json" % (spec.dir, fi)] = ents
     return out
 
 
@@ -151,13 +151,15 @@ def text_of(e, jp=False):
     return e["en"] if translated(e) and not jp else e["jp"]
 
 
-def archive_texts(jp=False):
-    """-> {file index: {slot: text}} from script/archive (en where translated, else jp; jp=True: all jp)."""
+def archive_texts(jp=False, name="script"):
+    """-> {file index: {slot: text}} from script/<dir of archive `name`> (en where translated, else jp;
+    jp=True: all jp)."""
+    d = archive.BY_NAME[name].dir
     out = {}
-    for name in script_files():
-        m = re.fullmatch(r"archive/f(\d+)\.json", name)
+    for fname in script_files():
+        m = re.fullmatch(r"%s/f(\d+)\.json" % d, fname)
         if m:
-            out[int(m[1])] = {int(e["id"].split(".")[1]): text_of(e, jp) for e in load(name)}
+            out[int(m[1])] = {int(e["id"].split(".")[1]): text_of(e, jp) for e in load(fname)}
     return out
 
 

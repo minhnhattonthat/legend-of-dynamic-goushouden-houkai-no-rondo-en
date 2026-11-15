@@ -18,7 +18,18 @@ the font charset lists only double-byte codes). Half-width 0x20 (space) and some
   file. Any growth needs relocation (phase 7; 5 pointer sites in `archive.POINTER_SITES`).
 - At run time a whole file is unpacked into EWRAM (around 0x0201D000..0x0201FFFF; the opening file sat at 0x0201D66C).
 
-## 1b. Five more archives right after it (found phase 5, NOT YET EXTRACTED; verified: decoded with lh5 + split_file)
+## 1b. Five more archives right after it (found and extracted phase 5: `archive.ARCHIVES`, `script/{book,desc,effect,place,test}/`)
+Extracted to `script/<dir>/fNN.json` (ids B00.12 / D / E / P / T), identity build byte-exact; the English build
+rebuilds book, desc, effect and place after the script archive and repoints their literal pools (a full-ROM sweep for
+any word into the archives found only the pools below; interior hits sit in packed graphics). The test archive has no
+pointer and stays in place (status data). Readers (`tools/funcof.py`): book 0x080ADC64 (from 0x0AE728, 0x0AF71A);
+desc 0x0808827C, 0x0809A45C, 0x080ADD90; effect 0x0809CC54 (from 0x09E9BA), 0x080A3618 (from 0x0A5F44, 0x0A6576,
+0x0A7C94); place 0x08096C48 (from 0x09751C), 0x08097084 (from 0x0976A6), probably the save slots' 現在地 (guess).
+**The book window can't show plain ASCII** (verified, `tools/lua/p2probe.lua`, `glyphdest.lua`): the menu printer
+sends ASCII to the half-width writer 0x0800C3A4, which writes ink to BG tiles at [w+0x84] the book never displays
+(pen advances, VRAM gets ink, nothing on screen); fullwidth goes through the 12-px writer 0x0800CCAC elsewhere and
+shows. So the book is inserted fullwidth (`Spec.wide`), proportional through the 12-px VWF delta table, and its
+entry must fit the 512-byte stack buffer of 0x080ADC64 (`Spec.room` 511, checked by build.py).
 Same format (u16 count, count x u16 id -> number, then nfiles x {u32 offset, u32 size}, lh5 files of 100 slots),
 read by 0x0800FE88(id, archive, 1, dest) (lh5 0x08006538 into a heap buffer, then strcpy of the slot). Back to back:
 

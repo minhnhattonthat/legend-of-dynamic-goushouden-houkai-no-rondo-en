@@ -9,6 +9,8 @@ Per translated entry (en non-empty, status not "data"):
   - leading / trailing blanks and blank lines (page breaks) match the JP
   - script archive: the speaker line fits the name tag (tools/windows.json name_tag); body lines fit the dialogue
     budget in px (line 1 / line 2 of each 2-line page, engine.half_widths; {p}/{s} count as name_var px)
+  - book / desc archives (script/book, script/desc): lines and px per line within their box (windows.json book,
+    desc; the book in the 12-px font, as it is inserted fullwidth); the book's 511-byte buffer is checked by build.py
   - ROM strings: encoded bytes <= max (in place for now)
 Warnings (summary count; --warn lists them): a stub last line (< 6 chars) in a multi-line paragraph.
 """
@@ -43,6 +45,42 @@ def char_widths():
         hw = engine.half_widths(rom)
         _WIDTHS = {chr(c): hw.get(p, engine.HALF_ADV) for c, p in pairs.items()}
     return _WIDTHS
+
+
+_WIDTHS12 = None
+
+
+def char_widths12():
+    """{ascii char: advance px} in the 12-px font (fullwidth Latin through the VWF delta table: wide archives)."""
+    global _WIDTHS12
+    if _WIDTHS12 is None:
+        if not extract.ROM.exists():
+            return None
+        w = engine.widths(extract.ROM.read_bytes())
+        _WIDTHS12 = {chr(c): w.get(sjis.encode(sjis.fullwidth(chr(c))), 12) for c in range(0x20, 0x7F)}
+    return _WIDTHS12
+
+
+# script/<dir> -> tools/windows.json box for the archives after the script archive (docs/re/text.md §1b)
+BOXES = {"book": "book", "desc": "desc"}
+
+
+def lint_box(e, box, errs):
+    """A message shown in a fixed box: at most `lines` lines (blank ones count), each within `px` in the box's font;
+    blank lines stay where the JP has them (the book: name, 2 blank lines, description)."""
+    win = WINDOWS[box]
+    widths = char_widths12() if win["font"] == "12" else char_widths()
+    el, jl = e["en"].split("\n"), e["jp"].split("\n")
+    if len(el) > win["lines"]:
+        errs.append("%s: %d lines, the %s box holds %d" % (e["id"], len(el), box, win["lines"]))
+    blanks = lambda ls: [i for i, s in enumerate(ls) if not s.strip()]  # noqa: E731
+    if blanks(el) != blanks(jl):
+        errs.append("%s: blank lines must stay where the JP has them (%s)" % (e["id"], blanks(jl)))
+    if widths is not None:
+        for line in el:
+            px = line_px(line, widths)
+            if px > win["px"]:
+                errs.append("%s: line %r is %d px, the %s box holds %d" % (e["id"], line, px, box, win["px"]))
 
 
 def line_px(line, widths):
@@ -125,6 +163,8 @@ def run(show_warn=False):
             common(e, errs)
             if path.parent.name == "archive":
                 lint_archive(e, widths, errs, warns)
+            elif path.parent.name in BOXES:
+                lint_box(e, BOXES[path.parent.name], errs)
             elif "max" in e and e["id"].startswith("r"):
                 lint_rom(e, errs)
     for m in errs:
