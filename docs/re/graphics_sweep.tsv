@@ -1,0 +1,168 @@
+# block	fmt	codec	kind	found by	note  (tools/sweep_merge.py; block = ROM offset of the packed block, or raw_ range start)
+2FDC	F0	lh5	jp-text	review2	レスキュー
+2F3BE4	4	lh5	latin-text	review,review2	Digits and arithmetic symbols
+2F3D90	4	lh5	latin-text	review,review2	Digits and arithmetic symbols
+2F3E74	4	lh5	jp-font/jp-text	review,review2	Scrambled kana glyphs
+2F4130	4	lh5	jp-text	review,review2	Scrambled menu captions
+2F4FE8	4	lh5	jp-text	review,review2	Menu lettering; 現在地; Menu captions; 現在地
+2F5274	4	lh5	jp-text	review,review2	Fragmented boxed menu labels; Menu caption fragments
+2F54C0	4	lh5	latin-text	review	Digits and P
+2F54CC	4	lh5	latin-text	review2	Digits and P
+2F55A4	4	lh5	jp-text	review	Partial text glyphs
+2F560C	4	lh5	latin-text	review,review2	Scrambled digits and Latin glyphs; Scrambled Latin letters and digits
+2F56F8	4	lh5	jp-text	review,review2	Partial kana label; カリスマ
+2F5770	4	lh5	jp-text	review,review2	パートナー
+2F57F4	4	lh5	jp-text	review,review2	キャラ図鑑 and other clipped labels; キャラ図鑑 and other caption fragments
+2F58B4	4	lh5	jp-text	review2	Clipped Japanese lettering
+2F5A0C	4	lh5	latin-text	review,review2	Digits, arithmetic symbols, HP; Digits, symbols, HP
+2F5AF8	4	lh5	latin-text	review,review2	Digits, arithmetic symbols, HP; Digits, symbols, HP
+2F5C04	4	lh5	jp-text	review,review2	クリティカル!! and other glyphs
+2F5E48	4	lh5	jp-text	review,review2	Scrambled menu heading; ステータス and caption fragments
+2F5FC8	4	lh5	jp-text/latin-text	review,review2	IP, EXP, NEXT and Japanese glyphs; NEXT and other HUD glyphs
+2F6658	4	lh5	jp-font/jp-text	review,review2	Kana, kanji and UP glyph strip; Kana stat labels; UP and 両性
+2F6A44	4	lh5	jp-text	review2	アイテム and NUM
+2F6A64	4	lh5	jp-text	review	アイテム; NUM
+2F6C00	4	lh5	jp-text	review,review2	アイテム menu heading fragments; Menu heading fragments
+2F6EE4	4	t3	jp-text	review,review2	Small boxed Japanese caption; Small framed Japanese label
+2F6FAC	4	t3	jp-text	review,review2	Small boxed Japanese caption; Small framed Japanese label
+2F7074	4	lh5	jp-text	review,review2	Boxed Japanese labels; Small framed Japanese label
+2F7140	4	lh5	jp-text	review,review2	エリア／出現 heading fragments; Menu heading fragments
+2F72E0	4	lh5	jp-text	review,review2	Fragmented Japanese labels; Fragmented Japanese captions
+2F74E4	4	t3	jp-text	review,review2	Fragmented Japanese glyphs; Small Japanese caption
+2F7578	4	t3	jp-text	review,review2	Fragmented Japanese glyphs; Partial Japanese caption
+2F7608	4	lh5	jp-text	review,review2	Japanese menu heading; Menu heading fragments
+2F77C4	4	lh5	jp-text	review,review2	バトラーズドック／パートナー; バトラーズガッツ／パートナー
+2F78A8	4	lh5	jp-text	review,review2	Scrambled menu heading; Menu heading fragments
+2F7B2C	4	lh5	jp-text	review,review2	Large scrambled Japanese lettering; Large scrambled Japanese banner text
+2F88E8	4	lh5	jp-text	review,review2	Boxed Japanese label; Framed Japanese menu labels
+2F89E0	4	lh5	jp-text	review	Framed Japanese menu labels
+2F89F0	4	lh5	jp-text	review2	カタカナ menu label
+2F8AD0	4	t3	jp-text	review,review2	Boxed Japanese label; Small framed Japanese label
+2F8BB8	4	t3	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2F8C8C	4	t3	jp-text	review2	Boxed Japanese labels
+2F8CA0	4	t3	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2F8D8C	4	t3	jp-text	review	Small framed Japanese label
+2F8E70	4	t3	jp-text	review,review2	Boxed Japanese label; Small framed Japanese label
+2F8F58	4	lh5	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2F91C4	4	lh5	jp-text	review,review2	Fragmented menu heading; Menu heading fragments
+2F9318	4	lh5	jp-text	review,review2	Fragmented menu heading; Menu heading fragments
+2F9478	4	t3	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2F9590	4	lh5	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2F96C0	4	t3	jp-text	review	Small framed Japanese label
+2F97F4	4	lh5	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2F98CC	4	t3	jp-text	review2	Boxed Japanese labels
+2F990C	4	lh5	jp-text	review,review2	はずす
+2F99C0	4	lh5	jp-text	review,review2	全部はずす
+2F9C08	4	lh5	jp-text	review,review2	はずす
+2F9CBC	4	lh5	jp-text	review,review2	全部はずす
+2F9D90	4	lh5	latin-text	review,review2	Small Latin/numeric glyph fragments; Scrambled letter-like glyphs
+2FA078	4	t3	jp-text	review,review2	Boxed Japanese labels; Small framed Japanese label
+2FA130	4	t3	jp-text	review,review2	Boxed Japanese labels; Small framed Japanese label
+2FA1F0	4	t3	jp-text	review,review2	Boxed Japanese labels; Small framed Japanese label
+2FA2AC	4	lh5	jp-text	review,review2	アイテム／おせん fragments; アイテム and おたから fragments
+2FA408	4	lh5	jp-text	review,review2	Japanese menu heading fragments; Menu heading fragments
+2FA7F8	4	lh5	jp-text	review,review2	Fragmented Japanese menu heading; Menu heading fragments
+2FA8B0	4	lh5	jp-text	review,review2	Fragmented Japanese menu heading; Menu heading fragments
+2FA8D4	4	lh5	jp-text	review,review2	Clipped Japanese label; アクセサリー fragments
+2FA99C	4	lh5	jp-text	review,review2	Clipped Japanese label; アクセサリー fragments
+2FAA80	4	lh5	jp-text	review,review2	アクセサリー
+2FAAB4	4	lh5	jp-text	review2	アクセサリー
+2FAAB8	4	lh5	jp-text	review	アクセサリー
+2FAD2C	4	lh5	logo	review,review2	Japanese game title logo; Japanese game title and subtitle
+2FD578	4	lh5	latin-text	review,review2	Scrambled large Latin letters
+2FD740	4	lh5	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2FD884	4	lh5	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2FD9BC	4	lh5	jp-text	review,review2	Boxed Japanese labels; Framed Japanese menu labels
+2FDC48	4	lh5	jp-text	review,review2	レスキュー; システム
+2FDCF0	4	lh5	jp-text	review	システム
+2FDD80	4	lh5	jp-text	review,review2	Fragmented Japanese caption; セーブ／ロード
+2FDE1C	4	lh5	jp-text	review,review2	Fragmented Japanese caption; セーブ／ロード
+2FDF38	4	lh5	latin-text	review,review2	Large scrambled Latin lettering; Large scrambled Latin glyphs
+2FE48C	4	lh5	latin-text	review,review2	Large scrambled Latin lettering; Large scrambled Latin glyphs
+2FE9B8	4	lh5	jp-text	review,review2	Boxed Japanese labels; Clipped framed Japanese label
+2FEAE4	4	lh5	latin-text	review,review2	AT, DF and other Latin glyphs; AT DF and other letter fragments
+301D08	4	t3	jp-text	review2	Tiny boxed Japanese captions
+3086C8	4	lh5	jp-text	review2	Black Japanese glyph fragments on white; scrambled tile order
+3086C8	4	lh5	jp-text	eye	large kanji on white (seen by eye, page014)
+3618EC	4	lh5	jp-text	review,review2	Fragmented Japanese labels; Fragmented Japanese menu labels
+361AE4	4	lh5	jp-text	review,review2	Repeated Japanese text strip; たたかう、アイテム、こうたい、にげる
+361D18	4	lh5	latin-text	review,review2	“NAME”, “HP0”; NAME and HP
+362018	4	lh5	latin-text	review,review2	“-HP0”; HP label and digit
+3620E4	4	lh5	latin-text	review,review2	“-HP0”; HP label and digit
+362154	4	lh5	jp-text	review,review2	“クリティカル!!”; クリティカル!!
+3621F4	4	lh5	jp-text	review,review2	Japanese status label with “UP”; Small Japanese battle label with UP
+3622B4	4	lh5	latin-text	review	P and S among status symbols
+3625A8	4	lh5	jp-text	review,review2	Large Japanese glyphs scrambled across tiles; Large scrambled kana lettering
+362BD0	4	lh5	jp-text	review,review2	Japanese sentence fragments with “HP”; Scrambled Japanese battle messages, including HP
+3873C8	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3874C4	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3875D0	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3876B4	4	lh5	jp-text	review2	Possible stylized Japanese glyph fragments
+3876B8	4	lh5	jp-text	review	Large outlined Japanese glyph fragments
+3876E8	4	lh5	jp-text	review2	Possible stylized Japanese glyph fragments
+3877D4	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3878B8	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3879B4	4	lh5	jp-text	review	Large outlined Japanese glyph fragments
+387AB8	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+387BB8	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+387CBC	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+387DD4	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+387ED8	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+387FE8	4	lh5	jp-text	review2	Possible stylized Japanese glyph fragments
+387FF8	4	lh5	jp-text	review	Large outlined Japanese glyph fragments
+3880E4	4	t3	jp-text	review2	Possible stylized Japanese glyph fragments
+3880F4	4	t3	jp-text	review	Large outlined Japanese glyph fragments
+3881CC	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3882F4	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3883D4	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3884E0	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3885C8	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3886BC	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3887B0	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+38883C	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+388914	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+3889E8	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+388AD0	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+388BA8	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+388C68	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+388CE8	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+388E08	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+388F10	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+389034	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+389124	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+389254	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+389370	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+38944C	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+38956C	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+38968C	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+389768	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+389858	4	t3	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+389898	4	lh5	jp-text	review,review2	Possible stylized Japanese glyph fragments; Large outlined Japanese glyph fragments
+426368	4	lh5	jp-text	review,review2	Small, fragmented kana-like label above horizontal bar.; Possible fragmented kana-like strokes.
+491224	4	lh5	latin-text	review,review2	Z-shaped sleep symbols; Z symbols, likely sleep indicators.
+49193C	4	lh5	latin-text	review2	Z-shaped sleep symbols among sprites
+4AC9A4	4	lh5	latin-text	review	Possible small letter fragments beside triangular markers.
+4ACCBC	4	lh5	latin-text	review	Possible small letter fragments beside triangular markers.
+4AD2DC	4	lh5	latin-text	review	Possible small letter fragments beside triangular markers.
+4AD5F8	4	lh5	latin-text	review	Possible small letter fragments beside downward arrows.
+4B13E8	4	lh5	latin-text	review2	Small Z sleep symbols
+4B13F8	4	lh5	latin-text	review	Z symbols, likely sleep indicators.
+4B3298	4	lh5	latin-text	review2	Z-shaped sleep symbols among sprites
+4F23B0	4	lh5	jp-text	review	Large curved glyph-like fragments; scrambled, uncertain reading
+553FE8	4	lh5	jp-text	review2	Small sign-like Japanese glyphs among building tiles; unreadable.
+56B4C0	4	lh5	jp-text	review2	Fragmented Japanese shop signs among rooftops.
+5767BC	4	lh5	jp-text	review,review2	Multiple horizontal Japanese signs; tile-scrambled.; Small Japanese-looking shop signs among building tiles
+59184C	4	lh5	jp-text	review,review2	Japanese storefront signs and vertical banner fragments.; White Japanese characters on dark rectangular signs
+5C11B8	4	lh5	jp-text	review2	Possible small Japanese sign fragments among building tiles.
+632C74	4	lh5	jp-text	review	Storefront sign with Japanese lettering.
+637A28	4	lh5	jp-text	review	Small white sign with dark Japanese characters.
+661050	4	lh5	jp-text/latin-text	review,review2	Several Japanese storefront signs, split across tile rows; Partial Latin lettering on a white storefront sign; Japanese shop signs, fragmented across tiles.; Fragmented Latin storefront lettering.
+66A918	4	lh5	jp-text/latin-text	review,review2	Fragmented shop signs with Japanese characters; Fragmented storefront lettering resembling “SPORT”.
+66D610	4	lh5	jp-text	review2	Small Japanese shop-sign fragments among map tiles
+6702B4	4	lh5	jp-text/latin-text	review,review2	Large stylized Japanese sign lettering near the top; Large outlined storefront lettering, partially scrambled.
+673C2C	4	lh5	jp-text	review2	Scrambled Japanese signage among building tiles
+674910	4	lh5	jp-text	review2	Faint Japanese sign lettering among building tiles
+67A910	4	lh5	jp-text	review	Japanese lettering on storefront signs.
+73C13C	4	lh5	jp-text	review,review2	Japanese shop signs near lower-right edge; fragmented kanji and kana; Japanese shop signs at lower right; kanji and katakana, partially scrambled
+73E49C	4	lh5	jp-text	review,review2	Japanese shop signs across top tile row; fragmented kanji and kana; Japanese shop signs along top edge; kanji and katakana, partially scrambled
+7A0DD0	4	lh5	jp-text	review,review2	Japanese shop signs along bottom; kanji and kana split across tiles; Fragmented Japanese signage along bottom edge; kana and kanji.
