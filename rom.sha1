@@ -1,2 +1,2 @@
-# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+# SHA-1 of the supported dump, in sha1sum format.
+8a037eff3a44b1667ec5e81ca8c1ff03537366b2  rom/Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba
