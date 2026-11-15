@@ -5,8 +5,8 @@
    3612
   ],
   "jp": "{p}\n…なんだろう…？\nイヤな予感がする…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...What is it...? I've got a bad feeling...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    3613
   ],
   "jp": "慎一\nどうした？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWhat's up?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    3614
   ],
   "jp": "{p}\n慎一君 起きてたの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShinichi-kun, you were awake?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    3615
   ],
   "jp": "慎一\nああ 他の連中は 部屋で\nグッスリ寝ている\nだが 俺は…\n\n…あんなことがあった後で\n眠れるわけがない…",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nYeah. The others are sound asleep in\ntheir rooms. But me...\n\n...after what happened, how could I\nsleep...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    3616
   ],
   "jp": "{p}\n…そうだよね ごめんなさい",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Of course. I'm sorry.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    3617
   ],
   "jp": "慎一\nいいんだ 謝ることはない\n\n真理阿は 俺の中にいるんだから…",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nIt's fine. No need to apologize.\n\nMaria is inside me, after all...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    3618
   ],
   "jp": "朱紗\nすぅ… すぅ…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nZzz... zzz...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    3619
   ],
   "jp": "富三郎\nぐお～ ぐお～",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nSNORRRK... SNORRRK...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    3620
   ],
   "jp": "{p}\nふたりとも よく寝てるようだね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLooks like they're both sleeping like\nlogs.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    3621
   ],
   "jp": "慎一\n朱紗にとって\n大変な一日だったからな\n富三郎のデカいイビキは\nいつものことさ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nIt was a rough day for Shusha. And\nTomisaburo's huge snoring is nothing\nnew!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    3622
   ],
   "jp": "慎一\n…ところで 眠れないのか？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n...So, can't sleep?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    3623
   ],
   "jp": "{p}\nなんか イヤな予感がして…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI just have a bad feeling...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    3624
   ],
   "jp": "慎一\n…気がついていたか？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n...So you noticed?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    3625
   ],
   "jp": "{p}\n慎一君も？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou too, Shinichi-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    3626
   ],
   "jp": "慎一\n真理阿と ひとつになったことで\n俺は予知能力を身につけたらしい",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nBecoming one with Maria seems to have\ngiven me the power of precognition.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    3627
   ],
   "jp": "{p}\n何かが… 起こる…と？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomething's... going to happen?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    3628
   ],
   "jp": "慎一\nかもな…\n外の様子でも見に行こうか？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nMaybe... Want to go take a look\noutside?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    3629
   ],
   "jp": "朱紗\nこんな夜更けに どうした？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nWhat's up, this late at night?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    3630
   ],
   "jp": "{p}\nイヤな予感がするんだ…\nそれでちょっと…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI've got a bad feeling... so I thought\nI'd...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    3631
   ],
   "jp": "朱紗\nイヤな予感…？\n俺も行くよ",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nA bad feeling...? I'll come too.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    3632
   ],
   "jp": "{p}\n誰か来る…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomeone's coming...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    3633
   ],
   "jp": "慎一\nガードマンのようだ",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nLooks like a guard.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    3634
   ],
   "jp": "朱紗\n様子がおかしい！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nSomething's wrong with him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    3635
   ],
   "jp": "慎一\nあれは 魔の残骸？\n悪い予感が 当たったようだな！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nIs that the remains of the Ma? Looks\nlike my bad hunch was right!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    3636
   ],
   "jp": "{p}\n黒い月が出てる！！\n\n…黒い月が 魔を蘇らせてる！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe black moon is out!!\n\n...Is the black moon bringing the Ma\nback to life!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    3637
   ],
   "jp": "{p}\n黒い月が 魔を蘇らせてる！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIs the black moon bringing the Ma back\nto life!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    3638
   ],
   "jp": "朱紗\nなんてことだ…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nUnbelievable...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    3639
   ],
   "jp": "慎一\n気をつけろ！\nヤツら 襲ってくるぞ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWatch out! They're coming at us!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    3640
   ],
   "jp": "朱紗\nあの人達は 魔に取り憑かれて\nしまったのか？\n俺から落ちた魔が あの人達に！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nAre those people possessed by the\nMa? Did the Ma that came off me get\ninto them!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    3641
   ],
   "jp": "{p}\n違う あの人達を操っているのは\n黒い月だ！ そんな気がするよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo, it's the black moon controlling\nthem! That's what I think!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    3642
   ],
   "jp": "慎一\n同感だぜ\nこいつら 黒い月に操られてる！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nI agree. These people are being\ncontrolled by the black moon!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    3643
   ],
   "jp": "{p}\n良かった 気絶しているだけだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank goodness, they're just\nknocked out!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    3644
   ],
   "jp": "朱紗\n他にも 操られてしまった人が\nいるんじゃないか？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nCouldn't there be others being\ncontrolled?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    3645
   ],
   "jp": "慎一\n俺達だけじゃ 手が足りない\n\n操られた人を 探しながら\n仲間を おこしにいこう",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nThere aren't enough of us alone.\n\nLet's wake up our friends while we\nlook for the people being controlled.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    3646
   ],
   "jp": "慎一\n…！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    3647
   ],
   "jp": "朱紗\n…ここは ダメだ！\n引き返そう！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n...No good here! Let's turn back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    3648
   ],
   "jp": "{p}\n引き返そう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLet's turn back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    3649
   ],
   "jp": "{p}\n明君！ ジャック！\n門土さん！ 竜馬さん！\n山岸君！ 袋小路君！\nえん魔くん！ カパエル！\n閻魔大王様！ 子郎君！\n護鬼！ 戦鬼！\n甲児君！ ボス！\nムチャ！ ヌケ！\n合田君！ 瓜生さん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun! Jack! Mondo-san!\nRyoma-san! Yamagishi-kun!\nFukurokoji-kun! Enma-kun! Kapaeru!\nGreat King Enma-sama! Jiro-kun! Goki!\nSenki! Koji-kun! Boss! Mucha! Nuke!\nGoda-kun! Uryu-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    3650
   ],
   "jp": "慎一\nくそっ！ 操られてるようだ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nDamn! Looks like they're being\ncontrolled!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    3651
   ],
   "jp": "{p}\nなんてこと…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo way...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    3652
   ],
   "jp": "朱紗\n襲ってくるぞ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nHere they come!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    3653
   ],
   "jp": "慎一\n仕方がない！ 戦うぞ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nNo choice! We fight!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    3654
   ],
   "jp": "{p}\nごめんね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm sorry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    3655
   ],
   "jp": "{p}\n良かった 息はあるよ…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank goodness, they're still\nbreathing...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    3656
   ],
   "jp": "朱紗\n仲間達まで\n操られてしまうなんて…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nEven our friends are being\ncontrolled...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    3657
   ],
   "jp": "慎一\nヤツらの狙いは なんだ…！？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWhat are they after...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    3658
   ],
   "jp": "{s}\nきゃ～！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nKyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    3659
   ],
   "jp": "{p}\n…{s}の声！？\n上のほうから聞こえた！\n{s}のいる部屋は\n上のフロアにある！ 急ごう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...That's {s}'s voice!? It\ncame from upstairs!\n{s}'s room is on the\nupper floor! Hurry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    3660
   ],
   "jp": "{s}\n十兵衛？\n雪子姫？\n美雪さん？\nさやかさん？\n美剣さん？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nJubei? Princess Yukiko? Miyuki-san?\nSayaka-san? Mitsurugi-san?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    3661
   ],
   "jp": "{s}\nいったい どうして？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWhat on earth is going on?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    3662
   ],
   "jp": "{s}\nそんな… いや…\nきゃ～！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nNo... no way... Kyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    3663
   ],
   "jp": "{p}\n{s}！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    3664
   ],
   "jp": "{s}\n{p}！ 助けて！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n{p}! Help me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    3665
   ],
   "jp": "{s}\n{p}！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    3666
   ],
   "jp": "{p}\nもう 大丈夫だよ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's okay now...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    3667
   ],
   "jp": "朱紗\nだが ここは危険だ",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nBut it's dangerous here.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    3668
   ],
   "jp": "慎一\nしかし\n仲間達まで操られちまってる！\n逃げ場は無いぞ？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nBut even our friends are being\ncontrolled! There's nowhere to run,\nis there?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    3669
   ],
   "jp": "{s}\nいったい 何が起こったの…？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWhat on earth happened...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    3670
   ],
   "jp": "{p}\nどうやら魔の残骸が\n蘇っちゃったらしいんだ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt looks like the remains of the Ma\ncame back to life...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    3671
   ],
   "jp": "{s}\nもしかして… アレが？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nCould it be... that thing?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    3672
   ],
   "jp": "朱紗\n今は 逃げ場を探すことが先決だ\n無事な仲間も いるかもしれない",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nRight now, finding somewhere to run\ncomes first. Some of our friends\nmight still be safe.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    3673
   ],
   "jp": "{s}\nあたし… 恐い！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nI'm... scared!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    3674
   ],
   "jp": "{p}\n大丈夫 僕が…\n僕達が 君を守るよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's okay, I'll... we'll protect you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    3675
   ],
   "jp": "朱紗\nここはダメだ\n別の道を探そう…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nNo good here. Let's find another\nway...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    3676
   ],
   "jp": "{p}\n…大丈夫\n気絶しているだけだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...It's okay. They're just knocked out.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    3677
   ],
   "jp": "{p}\nみんな ごめんね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm sorry, everyone...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    3680
   ],
   "jp": "操られた人々\n我らは… 黒い月の使者なり…",
-  "en": "",
-  "status": "",
+  "en": "Controlled People\nWe are... envoys of the black moon...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    3681
   ],
   "jp": "操られた人々\n仰せのままに…",
-  "en": "",
-  "status": "",
+  "en": "Controlled People\nAs you command...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    3682
   ],
   "jp": "操られた人々\n破壊の月は… いずこ？",
-  "en": "",
-  "status": "",
+  "en": "Controlled People\nThe Moon of destruction... where is it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    3683
   ],
   "jp": "操られた人々\n再生の太陽は… いずこ？",
-  "en": "",
-  "status": "",
+  "en": "Controlled People\nThe Sun of rebirth... where is it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    3684
   ],
   "jp": "操られた人々\n黒い月が求める…\n探せ…と命じる…",
-  "en": "",
-  "status": "",
+  "en": "Controlled People\nThe black moon desires... It commands\nus... to search...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    3685
   ],
   "jp": "慎一\nふたりとも！ ぼさっとするな！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nYou two! Don't just stand there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    3686
   ],
   "jp": "朱紗\nヤツらが来る！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThey're coming!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    3687
   ],
   "jp": "{p}\nみんな 眼を覚まして！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEveryone, wake up!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    3688
   ],
   "jp": "朱紗\n無駄だ {p}！\n戦って 気絶させるしかない！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nIt's no use, {p}! We'll\nhave to fight and knock them out!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    3689
   ],
   "jp": "慎一\n気絶させて\n元に戻る保証は無いぜ？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nThere's no guarantee they'll go back\nto normal if we knock them out,\nthough.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    3690
   ],
   "jp": "朱紗\nしかし！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nBut!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    3691
   ],
   "jp": "慎一\nわかってるさ\nそれでも 戦わなきゃな！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nI know. Even so, we gotta fight!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    3692
   ],
   "jp": "{p}\n{s}を守るんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe have to protect {s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    3693
   ],
   "jp": "{p}\nしまった！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh no!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    3694
   ],
   "jp": "{s}\nきゃ～ {p}！\nた す け…！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nKyaaa, {p}! Hel... help...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    3695
   ],
   "jp": "{p}\n{s}！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    3696
   ],
   "jp": "黒い魔物\n我は… 我は遂に！\n遂に手に入れたぞ！\n破壊の月を…！！",
-  "en": "",
-  "status": "",
+  "en": "Black Fiend\nI... I have at last! At last I've obtained\nit! The Moon of destruction...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    3697
   ],
   "jp": "慎一\n破壊の月…？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nThe Moon of destruction...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    3698
   ],
   "jp": "{p}\n{s}！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    3699
   ],
   "jp": "朱紗\nよせ！ 危険だ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nStop! It's dangerous!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    3700
   ],
   "jp": "{p}\nはなしてくれ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLet me go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    3701
   ],
   "jp": "操られていた人\n…う う～ん\nいったい どうしたんだ？",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\n...Uhh... nnn... What happened?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    3702
   ],
   "jp": "操られていた人\n…なぜ 俺はこんなところに…？",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\n...Why am I in a place like this...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    3703
   ],
   "jp": "操られていた人\n…頭が 割れるように… 痛い…！\n\nあれ？\nあれは…魔物！？",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\n...My head feels like it's... splitting...!\n\nHuh? Is that... a monster!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    3704
   ],
   "jp": "黒い魔物\nグオオオオオオ…！",
-  "en": "",
-  "status": "",
+  "en": "Black Fiend\nGUOOOOOOOH...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    3705
   ],
   "jp": "操られていた人\nぎゃ～！",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\nGyaaah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    3706
   ],
   "jp": "操られていた人\nうわ～！",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\nWhoaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    3707
   ],
   "jp": "操られていた人\nひえぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\nEeeek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    3708
   ],
   "jp": "操られていた人々\nぐわ～！",
-  "en": "",
-  "status": "",
+  "en": "Controlled People\nGwaaah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    3709
   ],
   "jp": "{p}\n…なんてことだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...This is terrible.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    3710
   ],
   "jp": "朱紗\n危ない！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nLook out!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    3711
   ],
   "jp": "朱紗\nぐわっ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nGwah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    3712
   ],
   "jp": "慎一\nおのれ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nDamn you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    3713
   ],
   "jp": "慎一\nおおっ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWhoa!",
+  "status": "done",
   "notes": ""
  }
 ]

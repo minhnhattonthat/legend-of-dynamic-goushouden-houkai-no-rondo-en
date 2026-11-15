@@ -5,8 +5,8 @@
    10065
   ],
   "jp": "ザコ\n血が騒ぐぜ！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nMy blood's boilin'!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    10066
   ],
   "jp": "ザコ\n場外乱闘開だぁ～！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nBrawl in the stands, let's goooo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    10067
   ],
   "jp": "ザコ\nジロジロ見るんじゃねぇよ！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nQuit starin' at me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    10068
   ],
   "jp": "ザコ\nやっちまえ ぶったおせ！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nGet 'em! Knock 'em flat!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    10069
   ],
   "jp": "ザコ\n三度の飯よりケンカ大好き！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nI love fightin' more than three square\nmeals!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    10070
   ],
   "jp": "ザコ\n俺を甘く見るなよ！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nDon't you underestimate me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    10071
   ],
   "jp": "ザコ\nなめとんのか この野郎！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nYou mockin' me, you punk!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    10072
   ],
   "jp": "ザコ\nちょっと 足 踏まないでよ！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nHey, quit stepping on my foot!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    10073
   ],
   "jp": "ザコ\nいやらしい目で見ないで！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nDon't look at me with those pervy\neyes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    10074
   ],
   "jp": "ザコ\nしんぼうたまらん！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nI can't hold back no more!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    10075
   ],
   "jp": "ザコ\nメラメラと燃える闘争心！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nMy fighting spirit's burning bright!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    10076
   ],
   "jp": "ザコ\nオトコ～ オトコ～！",
-  "en": "",
-  "status": "",
+  "en": "Grunt\nMAN! MAN!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    10077
   ],
   "jp": "菊の助\nあ パパ！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nOh, Papa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    10078
   ],
   "jp": "{p}\nお父さん？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYour father?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    10079
   ],
   "jp": "菊の助\nあばしり一家頭領・悪馬尻駄ヱ門！\n俺のパパさ！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nDaemon Abashiri, head of the Abashiri\nFamily! My papa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    10080
   ],
   "jp": "{p}\nあばしり一家！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Abashiri Family!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    10081
   ],
   "jp": "駄ヱ門\n旦那 血桜組はどうですかねぇ？",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nMister, how d'ya like the Chizakura\nGang's chances?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    10082
   ],
   "jp": "父兄\nへん！ たちまち くたばっちまう\nだろうよ！",
-  "en": "",
-  "status": "",
+  "en": "Parent\nHeh! They'll croak in no time!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    10083
   ],
   "jp": "駄ヱ門\nなに！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nWhat!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    10084
   ],
   "jp": "駄ヱ門\n血桜組にゃ 可愛い息子達が\nいるんだ！\n気をつけて ものをいいやがれ！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nMy precious kids are in the Chizakura\nGang! Watch your mouth!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    10085
   ],
   "jp": "菊の助\nどお 驚いた？\nパパ 超能力が使えるんだぜ！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nWell, surprised? Papa can use psychic\npowers!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    10086
   ],
   "jp": "駄ヱ門\n菊の助！\nパパは おまえを応援してるよ～！\nおや\nあんたが血桜組の助っ人かい？\n直と菊を よろしく頼むぜ！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nKikunosuke! Papa's cheering for you!\nOh? You the Chizakura Gang's\nringer? Look after Nao and Kiku for\nme!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    10087
   ],
   "jp": "{p}\nは はい 僕 {p}です\nがんばります…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nY-yes, sir. I'm {p}. I'll do\nmy best...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    10088
   ],
   "jp": "菊の助\nこっちは\n兄貴の五ヱ門と弟の吉三！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nAnd this is my big brother Goemon and\nmy little brother Kichiza!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    10089
   ],
   "jp": "五ヱ門\n菊ちゃん 僕も応援してるわ！",
-  "en": "",
-  "status": "",
+  "en": "Goemon\nKiku-chan, I'm cheering for you too,\nsweetie!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    10090
   ],
   "jp": "吉三\n負けたら承知しねぇぜ！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nLose and you'll be sorry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    10091
   ],
   "jp": "駄ヱ門\n菊の助！\nパパは おまえを応援してるよ～！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nKikunosuke! Papa's cheering for you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    10092
   ],
   "jp": "父兄\n…なんだ！\nうわあああぁぁ！！",
-  "en": "",
-  "status": "",
+  "en": "Parent\n...What the! Whoaaaaaa!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    10100
   ],
   "jp": "司会者\n準備は いいか？",
-  "en": "",
-  "status": "",
+  "en": "Host\nReady?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    10101
   ],
   "jp": "司会者\nＢブロック 決勝トーナメント\n第１回戦！ 出場者 入場！\nルール無用の１本勝負！\n\n生きて帰れるなんて\n思うんじゃねー！\nケンカ始めっ！！",
-  "en": "",
-  "status": "",
+  "en": "Host\nBlock B finals tournament, round one!\nFighters, enter the ring! A one-fall\nmatch, no rules!\n\nDon't think you're gettin' out alive!\nLet the brawl begin!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    10102
   ],
   "jp": "司会者\nＢブロック 決勝トーナメント\n第２回戦！ 出場者 入場！\nルール無用の１本勝負！\n\nどっちのチームも 死ぬまで戦え！\n\nケンカスタートっ！！",
-  "en": "",
-  "status": "",
+  "en": "Host\nBlock B finals tournament, round two!\nFighters, enter the ring! A one-fall\nmatch, no rules!\n\nBoth teams, fight to the death!\n\nBrawl, START!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    10103
   ],
   "jp": "司会者\nＢブロック 決勝戦！\n出場者 入場！\nルール無用の１本勝負！\n\n運よく 生きてりゃ\n次が 本当の最終決戦！\n前祝いの血祭りケンカだ\nとっとと 始めっ！！",
-  "en": "",
-  "status": "",
+  "en": "Host\nBlock B final! Fighters, enter the ring!\nA one-fall match, no rules!\n\nIf you're lucky enough to live, next up\nis the real final showdown! This is a\nbloodbath to celebrate in advance, so\nget it started!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    10104
   ],
   "jp": "司会者\nケンカ祭り 決勝戦！\n出場者 入場！\nルール無用の１本勝負！\n優勝を決める恐怖デスマッチ！\n地獄へ落とせ\nケンカ開始！！",
-  "en": "",
-  "status": "",
+  "en": "Host\nBrawl Festival final! Fighters, enter\nthe ring! A one-fall match, no rules!\nA deathmatch of terror to decide the\nchampion! Send 'em to Hell! Brawl,\nBEGIN!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    10105
   ],
   "jp": "司会者\nトーナメント決勝戦の準備には\nもう少し 時間が かかる\n後で また来てくれ",
-  "en": "",
-  "status": "",
+  "en": "Host\nThe tournament final needs a bit more\ntime to set up. Come back later.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    10106
   ],
   "jp": "司会者\nＢブロックの競技は\nまだ 始らないぞ\n後で また来てくれ",
-  "en": "",
-  "status": "",
+  "en": "Host\nBlock B's matches haven't started\nyet. Come back later.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    10110
   ],
   "jp": "女生徒\n権金学園からのゲストチーム\n強いわね！\n特に あの小さな男の子！",
-  "en": "",
-  "status": "",
+  "en": "Schoolgirl\nThe guest team from Gongane Academy\nis so strong! Especially that little\nboy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    10111
   ],
   "jp": "女生徒\n汚い格好してるけど\n強いわよねぇ～！\nＡブロックの決勝は\nきっと あの子ね！",
-  "en": "",
-  "status": "",
+  "en": "Schoolgirl\nHe's dressed all grubby, but he's sooo\nstrong! I bet he wins the Block A\nfinal!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    10112
   ],
   "jp": "悲惨将軍\n俺は 悲惨将軍！\n戦争という争いの中で俺は傷つき\nバケモノのような姿になった\n\n復讐だ！ 戦争をおこす人間を\n一人残らず成敗してやる！\n俺が受けた傷の大きさ！\n失ったものの大きさ！\n世界中のヤツらに\n思い知らせてやる！",
-  "en": "",
-  "status": "",
+  "en": "General Hisan\nI am General Hisan! I was wounded in the\nstrife called war and became a\nmonster-like thing.\n\nRevenge! I'll punish every last human\nwho starts wars! The depth of my\nwounds! The size of what I lost! I'll\nmake the whole world feel it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    10113
   ],
   "jp": "直次郎\n良くやった！\n次はトーナメント決勝だ！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nNice work! Next up is the tournament\nfinal!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    10114
   ],
   "jp": "菊の助\nいよいよだぜ！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nHere we go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    10115
   ],
   "jp": "直次郎\nＡブロックの決勝は\n不戦勝だったそうだ\n出場者が いなくなったらしい",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nThey say the Block A final was a\nforfeit win. Seems the fighters\ndisappeared.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    10116
   ],
   "jp": "{p}\n逃げたのかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDid they run away?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    10117
   ],
   "jp": "菊の助\n対戦相手は ブロック決勝戦を\n戦わなかったわけだろ？\nこれは俺達にとって不利だぜ…！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nSo our opponents never fought their\nblock final, right? That puts us at a\ndisadvantage...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    10118
   ],
   "jp": "直次郎\nトーナメント決勝戦には\nまだ時間がある\n少しでも身体を休めておけ！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nThere's still time before the\ntournament final. Rest up while you\ncan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    10120
   ],
   "jp": "女生徒\nハンチングにコートの権金学園の子\nどうしちゃったの？",
-  "en": "",
-  "status": "",
+  "en": "Schoolgirl\nWhat happened to that Gongane\nAcademy kid with the hunting cap and\ncoat?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    10121
   ],
   "jp": "女生徒\nふらふらと どっかに\n行っちゃったらしいわよ",
-  "en": "",
-  "status": "",
+  "en": "Schoolgirl\nThey say he wandered off somewhere.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    10122
   ],
   "jp": "果扨胴下\nケンカ祭りの どさくさに紛れて\n家早の者を殺す！\nそれが おまえの計画だったな？",
-  "en": "",
-  "status": "",
+  "en": "Doshita Hatesa\nKill the Iyahaya brat in the chaos of\nthe Brawl Festival! That was your\nplan, wasn't it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    10123
   ],
   "jp": "大本栄惨坊\nははっ！",
-  "en": "",
-  "status": "",
+  "en": "Omoto Eisanbo\nYes, sir!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    10124
   ],
   "jp": "果扨胴下\nなのに！ いなくなったって\nどういうこときゃ～！？",
-  "en": "",
-  "status": "",
+  "en": "Doshita Hatesa\nSo what do you mean he's GONE!?\nWhaaa!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    10125
   ],
   "jp": "大本栄惨坊\n申し訳ありません！",
-  "en": "",
-  "status": "",
+  "en": "Omoto Eisanbo\nMy deepest apologies!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    10126
   ],
   "jp": "果扨胴下\nまっちゃくもぉ～！\n\nまた お姉ちゃんに\n怒られちゃう～！",
-  "en": "",
-  "status": "",
+  "en": "Doshita Hatesa\nJeez Louise!\n\nBig sister's gonna yell at me again!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    10130
   ],
   "jp": "観客\nＡブロック優勝は 極楽組！\n\n聖パラダイス中学からの\nゲストチームじゃ！",
-  "en": "",
-  "status": "",
+  "en": "Spectator\nThe Block A winner is the Gokuraku\nGang!\n\nA guest team from St. Paradise Middle\nSchool!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    10131
   ],
   "jp": "観客\n極楽組のリーダーは\n聖パラダイス中学の校長らしいぞ",
-  "en": "",
-  "status": "",
+  "en": "Spectator\nThey say the Gokuraku Gang's leader\nis the principal of St. Paradise Middle\nSchool.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    10132
   ],
   "jp": "駄ヱ門\n菊の助 パパの作った\n美味しい お弁当よ～！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nKikunosuke, here's a yummy lunch\nPapa made!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    10133
   ],
   "jp": "菊の助\n天ぷら美味しそう！\n{p}も食べなよ！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nThe tempura looks so good! Have some\ntoo, {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    10134
   ],
   "jp": "吉三\nうめぇ うめぇ！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nYum, yum!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    10135
   ],
   "jp": "五ヱ門\nおいち～ おいち～！",
-  "en": "",
-  "status": "",
+  "en": "Goemon\nNummy, nummy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    10136
   ],
   "jp": "直次郎\nオヤジ 聞いたか？\n\n決勝の相手は\nパラ中の校長 生首団十郎だ！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nPop, you hear?\n\nOur opponent in the final is Paradise\nMiddle's principal, Danjuro Namakubi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    10137
   ],
   "jp": "駄ヱ門\nなんじゃと！？\nあやつが！？",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nWhat!? HIM!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    10138
   ],
   "jp": "{p}\n生首団十郎？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDanjuro Namakubi?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    10139
   ],
   "jp": "菊の助\nパラ中…\n聖パラダイス中学の校長さ\nパラ中は\n殺し屋を育てる学校なんだ",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nParadise Middle... The principal of St.\nParadise Middle School. Paradise\nMiddle is a school that trains\nassassins.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    10140
   ],
   "jp": "駄ヱ門\nクックックッ…\n生首か 面白い\nそう聞いたんじゃ\n黙っちゃいられねぇ\nせがれども わしらも飛び入りだ\n菊の助を助けるぞ！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nHeh heh heh... Namakubi, eh?\nInteresting. Hearin' that, I can't just\nsit still. Boys, we're jumpin' in too.\nWe're helpin' Kikunosuke!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    10141
   ],
   "jp": "直次郎\nおう！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nYou got it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    10142
   ],
   "jp": "吉三\nへっへ… 腕がなるぜ！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nHeh heh... I'm rarin' to go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    10143
   ],
   "jp": "五ヱ門\nまかせてね～！",
-  "en": "",
-  "status": "",
+  "en": "Goemon\nLeave it to us!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    10144
   ],
   "jp": "駄ヱ門\nあばしり一家\nケンカ祭りに殴り込みだぁ～な！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nThe Abashiri Family is crashin' the\nBrawl Festival!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    10145
   ],
   "jp": "吉三\nひでぇ！ 校長が出るのは\nルール違反だろう？",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nNo fair! Isn't it against the rules for a\nprincipal to fight?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    10150
   ],
   "jp": "生首団十郎\nわしは ８０年の人生を\n殺人に費やしてきた…\nわしに狙われて助かった者は\nいなかった",
-  "en": "",
-  "status": "",
+  "en": "Namakubi Danjuro\nI have spent 80 years of my life on\nmurder... No one I targeted ever\nsurvived.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    10151
   ],
   "jp": "菊の助\nうちのオヤジ以外には…だろ？",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nExcept our old man, right?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    10152
   ],
   "jp": "生首団十郎\nだが今のわしは\n以前のわしではない！\nそれを試すため\nこのケンカ祭りに出場したのだ！",
-  "en": "",
-  "status": "",
+  "en": "Namakubi Danjuro\nBut I am not the man I was! I entered\nthis Brawl Festival to test that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    10153
   ],
   "jp": "直次郎\nやったぜ 優勝だ！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nAll right, we won!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    10154
   ],
   "jp": "吉三\nよ～し！ 祝砲だぜ！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nAll riiight! Victory salute!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    10155
   ],
   "jp": "菊の助\n逃げて {p}！\n\n吉三の服は 爆薬で作った\n特殊繊維なの！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nRun, {p}!\n\nKichiza's clothes are made of a\nspecial fiber made from explosives!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    10156
   ],
   "jp": "{p}\nてゆ～ことは\n服そのものがダイナマイト！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou mean... his clothes ARE dynamite!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    10157
   ],
   "jp": "吉三\nそりゃ～！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nHyaaah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    10158
   ],
   "jp": "{p}\nうわ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    10159
   ],
   "jp": "直次郎\nふぅ…\nどうにか おさまったみたいだな",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nPhew... Looks like things finally calmed\ndown.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    10160
   ],
   "jp": "直次郎\nおめぇらのおかげで優勝出来たぜ\nあんがとよ！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nWe won thanks to you guys. Thanks a\nbunch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    10161
   ],
   "jp": "菊の助\n{p}がいなかったら\n出場すら出来なかったもんね！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nIf it weren't for {p}, we\ncouldn't even have entered!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    10162
   ],
   "jp": "直次郎\n{p}のような転校生が\n来てくれて 俺はうれしいぜ！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nI'm glad a transfer student like\n{p} showed up!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    10163
   ],
   "jp": "{p}\n僕 転校生じゃないってば！\n実は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI told you, I'm not a transfer student!\nActually...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    10164
   ],
   "jp": "駄ヱ門\n{p}！ あばしり一家\nおめぇさんに助太刀するぜ！\nケンカ祭り優勝の恩に\n報いなきゃな！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\n{p}! The Abashiri Family's\ngonna back you up! Gotta repay ya\nfor winnin' the Brawl Festival!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    10165
   ],
   "jp": "菊の助\nそうそう\nそれに おもしろそうだしね！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nYeah, yeah! Besides, it sounds like fun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    10166
   ],
   "jp": "菊の助\nあ バカ！\nやめて 吉三！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nAh, you idiot! Stop it, Kichiza!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    10167
   ],
   "jp": "吉三\nもう 遅いやい！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nToo late!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    10168
   ],
   "jp": "吉三\nそうだ！ さっき 体育館の天井から\nこんなもんが落ちてきたんだ\nどこかのカギかな？\n渡しとくぜ！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nOh yeah! This thing fell from the gym\nceiling a minute ago. A key to\nsomewhere, maybe? Here, you take it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    10170
   ],
   "jp": "？？？\n罪を恐れぬ者達が加わった…\n\nそして\n世界を超える者達が加わる…",
-  "en": "",
-  "status": "",
+  "en": "???\nThose who fear no sin have joined...\n\nAnd those who cross between worlds\njoin next...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    10171
   ],
   "jp": "{p}\n閉じこめられた！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe're locked in!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    10172
   ],
   "jp": "不動明\n…油断するなよ {p}！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...Don't let your guard down,\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    10173
   ],
   "jp": "カパエル\nうるへ～！",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nPipe dooown!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    10174
   ],
   "jp": "不動明\nむっ！\nおまえ デーモンだな！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHmm! You're a Demon, aren't ya!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    10175
   ],
   "jp": "カパエル\nデーモン？\nボク そんなんじゃないぞ\nカッパだぞ！",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nA Demon? I ain't nothin' like that! I'm a\nkappa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    10176
   ],
   "jp": "不動明\nカッパだと？ ふざけたことを\nぬかすんじゃねぇ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nA kappa? Don't give me that crap!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    10177
   ],
   "jp": "カパエル\nちょ ちょっと あんさん…！\n\nえ えん魔く～ん！",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nH-hey now, mister...!\n\nE-Enma-kuuun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    10178
   ],
   "jp": "えん魔くん\nカパエル なに騒いでるんだ？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nKapaeru, what're you making a racket\nabout?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    10179
   ],
   "jp": "えん魔くん\nむっ！？ おまえら\n妖怪に取り憑かれているなー？\n特に おまえ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHmm!? You guys are possessed by a\nyokai, aren't ya? Especially you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    10180
   ],
   "jp": "えん魔くん\nおまえ なんか怪しいぞ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nThere's something fishy about you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    10181
   ],
   "jp": "不動明\nおもしれぇ…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThis oughta be fun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    10182
   ],
   "jp": "{p}\nちょ ちょっと待って！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nH-hold on a second!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    10183
   ],
   "jp": "{p}\n僕 {p}！\n君は いったい 何者なの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm {p}! Who exactly are\nyou?",
+  "status": "done",
   "notes": ""
  }
 ]

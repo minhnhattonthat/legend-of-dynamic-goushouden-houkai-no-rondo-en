@@ -2,9 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress: set-up done (batches tool, name tags, glossary seed, synopsis, style
-  reference, translator brief, pilot b001 = f00 merged). Batches in `work/tl/` (gitignored, on disk): b001-b086.
-  Batch progress: see "Phase 6 batches" below.
+- **Phase:** 6. Translate in progress: every batch b001-b086 translated, checked and merged (wave 2 = all
+  dialogue b002-b055, 5262 entries, done 2026-11-16; lint 0 errors, build + smoke ok). Left for phase 6: the
+  reviewer pass per batch (see "Next"), then phase 7.
 
 ## Phase 6 batches
 `python -X utf8 tools/batches.py split|check|merge|fit` (docs/translator-brief.md). Batches were split once
@@ -27,9 +27,19 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
   Doka Hatesate), 大本栄惨坊, 無幻大権, 法印大子, 墓世, 女蛮子 (Banji / Banko / Sukebanko), 真神, 鬼谷妖次郎;
   term drift merged before the glossary rows: "Phantom Castle" in items (glossary: Mirage Castle), "Death Police"
   in book B01 (glossary: Reaper Police). Fix these in the review pass.
-- Next: wave 2 = b002-b055 dialogue (4-5 batches per agent, story order; dispatch line: "Read
-  docs/translator-brief.md and follow it for batches ..."), merge, then a reviewer pass per batch (read-only,
-  `assets/reviewer-brief.md`; fix Critical/Important; Minors to docs/polish.md).
+- Wave 2 (b002-b055) was translated by one worker in a single pass (Orca refused subagents), all merged. Calls
+  made there, now in glossary.md "Decisions from earlier batches" and new term rows: Demon King (Grade) vs Demon
+  Lord Dante, Kigoku World, Kibutsu Clan, Dimension Prison, Moon of destruction / Sun of rebirth, Precog Clan,
+  Yokai Patrol, Iyahaya / Hatesa families, Banji Suke, Ryoma Shindo, Beehive Nyudo. speakers.tsv: added Garo,
+  Eriza Hyo, Tomahawk / Scissors Panther, Nijija Hatesa, Big Girl, Security Guard; 蛮子 Banko -> Banji, 果扨胴下
+  -> Doshita Hatesa.
+- Unsure (reviewer to confirm): 45.06 and 53.43 have an empty JP body (name tag only); the check refuses empty
+  English, so they hold "...\n" (a box with "..." may now show where the JP shows an empty one). 男男子 read as
+  "Danshi Otoko" (51.93, 52.10-11). 法印大子 as "Taishi Hoin", 豹絵里座 as "Eriza Hyo", 墓世 as "Hakayo".
+  Item/enemy data (wave 1) still says HiveMonk and Kitani; dialogue says Beehive Nyudo and Onitani.
+- Next: reviewer pass per batch b002-b055 (read-only, `assets/reviewer-brief.md`, pairs files with +-2 context;
+  no nested workers here, so a fresh read-only pass by the worker itself or `codex exec`; fix Critical/Important;
+  Minors to docs/polish.md). Wave 1 term drift above (Phantom Castle, Death Police) is still to fix.
 - In-game pilot view not done: `retail_newgame` stops at the name entry (an empty name won't confirm: type a
   character first). Phase 8 needs a name-entry route or a warp past it.
 - **Done:**

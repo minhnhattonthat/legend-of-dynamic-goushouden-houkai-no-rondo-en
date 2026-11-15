@@ -5,8 +5,8 @@
    10184
   ],
   "jp": "{p}\n妖怪退治？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHunt yokai?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    10185
   ],
   "jp": "不動明\n地獄界？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThe Hell World?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    10186
   ],
   "jp": "えん魔くん\n俺のマユ毛は\n妖怪を探るアンテナなんだ\nおまえらの身体が\n妖気を発してるぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nMy eyebrows are antennae for\nsniffing out yokai. Your bodies are\ngiving off yokai energy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    10187
   ],
   "jp": "不動明\nちょっと待て！\n\nおまえら…ってことは 俺だけじゃ\nなく {p}からもか？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHold on!\n\n\"Your bodies\"... you mean not just me,\nbut {p} too?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    10188
   ],
   "jp": "えん魔くん\nそうだ",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nYep.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    10189
   ],
   "jp": "不動明\n（デーモンの身体を乗っ取った\n俺からなら ともかく\n{p}の身体からも\n妖気が出てるってのは 妙だな）",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n(From me, who hijacked a Demon's\nbody, sure. But yokai energy coming\noff {p} too? That's\nweird.)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    10190
   ],
   "jp": "{p}\n僕達\n妖怪に取り憑かれているの！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAre we possessed by a yokai!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    10191
   ],
   "jp": "えん魔くん\n何か変わったことがあったはずだ\nそいつを俺に話すんだ",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nSomething weird must've happened.\nTell me about it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    10192
   ],
   "jp": "{p}\n実は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nActually...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    10193
   ],
   "jp": "えん魔くん\nふ～ん\n黒い月に 沼に浮かぶ屋敷ねぇ",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHmm. A black moon and a mansion\nfloating on a pond, huh.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    10194
   ],
   "jp": "{p}\nあれ？\nあんまり驚かないんだね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh? You don't seem very surprised.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    10195
   ],
   "jp": "えん魔くん\nへへっ！ まぁな…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHeh heh! Well, y'know...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    10196
   ],
   "jp": "不動明\nこいつ やっぱり怪しいぜ！\n何か つかんでやがる…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThis guy's fishy after all! He knows\nsomething...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    10197
   ],
   "jp": "{p}\n明君…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    10198
   ],
   "jp": "えん魔くん\nその屋敷に行きたければ\n沼に戻ってみなよ じゃあな！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nIf you wanna go to that mansion, head\nback to the pond. See ya!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    10199
   ],
   "jp": "不動明\n…逃げられた！\n沼へ行くぞ {p}！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...He got away! To the pond,\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    10200
   ],
   "jp": "{p}\n…もしかして あのメールは\nえん魔くんから…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Could that e-mail have been from\nEnma-kun...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    10210
   ],
   "jp": "飛鳥了\n奇妙だと思わんか？\n\n急に 暗くなったような気が\nするんだが…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nDon't you find it strange?\n\nIt feels like it suddenly got dark...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    10211
   ],
   "jp": "飛鳥了\n見ろ 水面に月が映ってる！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nLook, the moon's reflected on the\nwater!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    10212
   ],
   "jp": "不動明\n間違いない {s}だ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nNo doubt about it, it's\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    10213
   ],
   "jp": "飛鳥了\n…罠じゃないか",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n...Isn't it a trap?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    10214
   ],
   "jp": "不動明\nおめぇも そう思うか？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nYou think so too?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    10215
   ],
   "jp": "{p}\nうわっ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoa!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    10216
   ],
   "jp": "不動明\n見たか 了？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nSee that, Ryo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    10217
   ],
   "jp": "飛鳥了\nああ あれは飾りじゃない\n本物の鬼の首だ",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nYes. That's no decoration. It's a real\noni's head.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    10218
   ],
   "jp": "不動明\n…油断するなよ {p}！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...Don't let your guard down,\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    10220
   ],
   "jp": "{p}\n無事だったんだね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou're okay...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    10221
   ],
   "jp": "{s}\n道が ふさがれちゃって…\n心配したんだよ！\n明君！\nあなたも無事だったのね！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nThe road got blocked off... I was\nworried about you! Akira-kun! You're\nall right too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    10222
   ],
   "jp": "{s}\n明君… なんか別人みたい…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nAkira-kun... You seem like a different\nperson...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    10223
   ],
   "jp": "不動明\n悪いか 変わったら？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nGot a problem with me changing?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    10224
   ],
   "jp": "{s}\n前より良くなったよ！\n男っぽくて ワイルドな感じ！\nしびれる…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nYou're better than before! All manly\nand wild! Swoon...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    10225
   ],
   "jp": "{p}\n{s}は どうしてここに？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}, how did you get\nhere?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    10226
   ],
   "jp": "{s}\n実は えん魔くんに助けて貰ったの",
-  "en": "",
-  "status": "",
+  "en": "{s}\nActually, Enma-kun rescued me.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    10227
   ],
   "jp": "不動明\n{p}の話を聞いても\n驚かなかったわけだ",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nSo that's why he wasn't surprised by\n{p}'s story.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    10228
   ],
   "jp": "{s}\nそうそう えん魔くんが\n{p}を待ってるわよ\n行きましょ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nOh, right, Enma-kun is waiting for you,\n{p}. Let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    10229
   ],
   "jp": "不動明\n{p}\n俺達 ここで待ってるよ\nえん魔くんと話して来い",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n{p}, we'll wait here. Go\ntalk to Enma-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    10230
   ],
   "jp": "{s}\nいいえ 違うの\nえん魔くんの妖怪アンテナがね…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nNo, that's not it. Enma-kun's yokai\nantennae, you see...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    10231
   ],
   "jp": "ハニー\nあたしに反応したの…",
-  "en": "",
-  "status": "",
+  "en": "Honey\n...reacted to me...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    10232
   ],
   "jp": "ハニー\nあなたが無事で良かったわ\n{p}",
-  "en": "",
-  "status": "",
+  "en": "Honey\nI'm glad you're safe, {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    10234
   ],
   "jp": "{p}\nハニー！\nどうして君に妖怪アンテナが…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney! Why would the yokai antennae\npick up on you...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    10235
   ],
   "jp": "ハニー\nきっと\nあたしが人間じゃないから…",
-  "en": "",
-  "status": "",
+  "en": "Honey\nProbably... because I'm not human...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    10236
   ],
   "jp": "{p}\nど どういう意味！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-what do you mean!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    10237
   ],
   "jp": "ハニー\n…あたしと一緒に戦うことがあれば\n解るわよ",
-  "en": "",
-  "status": "",
+  "en": "Honey\n...If we ever fight side by side, you'll\nunderstand.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    10238
   ],
   "jp": "えん魔くん\nおまえ達の話を聞いて\n黒い月について考えてみたんだ",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nAfter hearing your story, I've been\nthinking about the black moon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    10239
   ],
   "jp": "ハニー\n異なる次元を 黒い月が\n連結している…っていうこと？",
-  "en": "",
-  "status": "",
+  "en": "Honey\nYou mean the black moon is linking\ndifferent dimensions together?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    10240
   ],
   "jp": "{p}\n…ハチに刺されてる！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...They've been stung by bees!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    10241
   ],
   "jp": "シャッポじい\nやはり！ 妖怪・ハチの巣入道の\n仕業ジャジャ！\nハチの巣入道が操るハチは\n人間の脳みそを吸うのジャ！",
-  "en": "",
-  "status": "",
+  "en": "Chapeau-jii\nJust as I thought! It's the work of the\nyokai Beehive Nyudo, jaja! The bees\nBeehive Nyudo controls suck out\npeople's brains!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    10242
   ],
   "jp": "{p}\nそれで町の人達は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo that's why the townspeople...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    10243
   ],
   "jp": "シャッポじい\nノウタリンになっちまったんジャ！\n\n脳みそ吸われて理性を奪われ\n本能だけで行動しちゃうのジャ",
-  "en": "",
-  "status": "",
+  "en": "Chapeau-jii\nTurned into airheads, jaja!\n\nTheir brains get sucked out, their\nreason is stolen, and they act on\ninstinct alone, jaja.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    10244
   ],
   "jp": "えん魔くん\nそれで こんなおもしれ～ことに\nなってんだな！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nSo that's why things got so hilarious\naround here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    10245
   ],
   "jp": "{p}\nえん魔くん！\n笑い事じゃないよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEnma-kun! This is no laughing matter!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    10246
   ],
   "jp": "えん魔くん\n理性を無くした人間ほど\n面白いもんはねぇぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nNothin's funnier than people who've\nlost their reason!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    10247
   ],
   "jp": "シャッポじい\n面白いだけじゃすまんぞ\nえん魔くん",
-  "en": "",
-  "status": "",
+  "en": "Chapeau-jii\nThis is no mere joke, Enma-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    10248
   ],
   "jp": "えん魔くん\nともかく ハチの巣入道を\nやっつければ\n立派な妖怪パトロールの一員だ！\n\n{p}を地獄界へ\n連れて行ってやるぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nAnyway, beat Beehive Nyudo and\nyou're a real Yokai Patrol member!\n\nThen I'll take {p} to the\nHell World!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    10250
   ],
   "jp": "ハチに刺された人\nむらむら…\nめらめら…",
-  "en": "",
-  "status": "",
+  "en": "Bee Sting Victim\nHot... bothered...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    10251
   ],
   "jp": "ハチに刺された人\n腹減ったぁ～！\nいくら食べても食い足りない～！",
-  "en": "",
-  "status": "",
+  "en": "Bee Sting Victim\nI'm starviiing! No matter how much I eat,\nit's not enough!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    10252
   ],
   "jp": "ハチに刺された人\nイライラするわよ\nイライラしちゃうわ！",
-  "en": "",
-  "status": "",
+  "en": "Bee Sting Victim\nI'm so irritated, so irritated!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    10253
   ],
   "jp": "ハチに刺された人\n見て！ あたしを見て！\nあたし きれい！？",
-  "en": "",
-  "status": "",
+  "en": "Bee Sting Victim\nLook! Look at me! Am I pretty!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    10254
   ],
   "jp": "ハチに刺された人\nねむ～いよ～\nぐ～ す～ ぴ～",
-  "en": "",
-  "status": "",
+  "en": "Bee Sting Victim\nSo sleepyyy... Zzz... snooore...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    10255
   ],
   "jp": "ハチに刺された人\n働くの もう イヤ",
-  "en": "",
-  "status": "",
+  "en": "Bee Sting Victim\nI don't wanna work anymore.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    10256
   ],
   "jp": "{p}\n妖怪に襲われた人だ\n他にも たくさん いるのかな…\nはやく 怒黒を見つけないと！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomeone attacked by a yokai. I wonder\nif there are lots of others... We\nhave to find Dokuro, quick!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    10257
   ],
   "jp": "{p}\n妖怪に襲われた人だ\n他にも たくさん いるのかな…\nはやく ハチの巣入道を\n見つけないと！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomeone attacked by a yokai. I wonder\nif there are lots of others... We\nhave to find Beehive Nyudo, quick!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    10260
   ],
   "jp": "{p}\nそれじゃ\nハチの巣入道の居場所は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThen where's Beehive Nyudo...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    10261
   ],
   "jp": "えん魔くん\nなんだ あのハチの大群は！？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nWhat's that huge swarm of bees!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    10262
   ],
   "jp": "シャッポじい\n妖怪・ハチの巣入道の登場ジャ！",
-  "en": "",
-  "status": "",
+  "en": "Chapeau-jii\nHere comes the yokai Beehive Nyudo,\njaja!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    10263
   ],
   "jp": "えん魔くん\nハチの巣入道！\nおとなしく地獄界へ帰るんだ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nBeehive Nyudo! Go back to the Hell\nWorld quietly!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    10264
   ],
   "jp": "ハチの巣入道\n世界中の脳みそを集めるまでは…\n地獄界に戻らん！\n新鮮な脳みそを\nたっぷり吸い取ってやる！",
-  "en": "",
-  "status": "",
+  "en": "Beehive Nyudo\nNot until I've collected every brain in\nthe world... I won't go back to the\nHell World! I'll suck out loads of fresh\nbrains!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    10265
   ],
   "jp": "{p}\nあいつ ちっとも聞く気ないよ\nえん魔くん…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHe's not listening one bit, Enma-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    10266
   ],
   "jp": "ハチの巣入道\nおのれ 舐めおって～！",
-  "en": "",
-  "status": "",
+  "en": "Beehive Nyudo\nGrr, you dare mock me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    10270
   ],
   "jp": "不動明\n{s}の声だ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThat's {s}'s voice!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    10271
   ],
   "jp": "不動明\n室内に運ぼう！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLet's carry her inside!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    10272
   ],
   "jp": "逞馬\n{s} 凄い熱だよ！",
-  "en": "",
-  "status": "",
+  "en": "Takuma\n{s} is burning up!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    10273
   ],
   "jp": "不動明\n一晩たったというのに\n目も覚まさず 熱も下がらない",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nA whole night's passed, and she won't\nwake up and the fever won't go\ndown.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    10274
   ],
   "jp": "不動明\n黒い月も まだ空に上がってるぜ\n\nもうとっくに\n夜は明けたと言うのに…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThe black moon's still up in the sky,\ntoo.\n\nAnd it's long past dawn...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    10275
   ],
   "jp": "不動明\nあれは なんだ！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhat's that!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    10276
   ],
   "jp": "不動明\n行ってみよう！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLet's go see!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    10280
   ],
   "jp": "子郎\n見たことのない機体だ\n戦闘機だろうか？\nパイロットは どこだろう？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nA craft I've never seen before. A\nfighter plane? Where's the pilot?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    10281
   ],
   "jp": "不動明\nどっかに倒れてるんじゃねぇか？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nBet he's lying around somewhere.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    10282
   ],
   "jp": "飛鳥了\n…これを見てくれ",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n...Take a look at this.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    10283
   ],
   "jp": "{p}\nヘルメットみたいだね\n\nそれじゃ 操縦してた人は\n近くにいるのかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt looks like a helmet.\n\nThen is the person who was flying it\nsomewhere nearby?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    10284
   ],
   "jp": "えん魔くん\n探してみようぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nLet's look around!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    10285
   ],
   "jp": "早乙女博士\n{!R}こちら早乙女！\n聞こえたら返事をしろ！\n{!R}リョウ！ 応えてくれ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{!R}This is Saotome! Answer if you can\nhear me! {!R}Ryo! Respond!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    10286
   ],
   "jp": "{p}\nあの もしもし？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUm, hello?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    10287
   ],
   "jp": "早乙女博士\n{!R}おお！\nリョウ 無事じゃったか！\n{!R}イヤ… 声が違う？\n君は誰だ！ リョウはどこだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{!R}Oh! Ryo, you're safe! {!R}No... the voice is\ndifferent? Who are you! Where's Ryo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    10288
   ],
   "jp": "{p}\n僕は {p}と言います\n赤い飛行機が墜落して…\nヘルメットは あったけど\n操縦していた人はいません",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMy name is {p}. A red\nplane crashed... There was a helmet,\nbut no sign of the pilot.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    10289
   ],
   "jp": "早乙女博士\n{!R}イーグル号が墜落！？\nリョウが行方不明！？\n{!R}黒い月とやらのせいか…？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{!R}The Eagle crashed!? Ryo is missing!? {!R}Is\nthis the doing of this \"black\nmoon\"...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    10290
   ],
   "jp": "{p}\n黒い月ですって！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDid you say black moon!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    10291
   ],
   "jp": "早乙女博士\n{!R}リョウ いや\n流竜馬の最後の言葉じゃ\n{!R}黒い月が出た！と叫んだ後\n交信を絶ったのだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{!R}Those were Ryo's... Ryoma Nagare's\nlast words. {!R}He shouted \"A black\nmoon's come out!\" and then contact\nwas lost.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    10292
   ],
   "jp": "{p}\n黒い月…\nあ あのー あなたは…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA black moon... Um, who are you...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    10293
   ],
   "jp": "早乙女博士\n{!R}わしは早乙女 ゲッター線を\n研究している科学者じゃ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{!R}I'm Saotome, a scientist who studies\nGetter Rays.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    10294
   ],
   "jp": "早乙女博士\n{!R}…{p}君！ わしは君と\n直接 話がしたくなった！\n{!R}そちらにイーグル号を\n回収に向かう！\n{!R}それまで すまんがリョウを\n探してくれんか？\n{!R}パイロットスーツを着ている\nすぐに わかるはずだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{!R}...{p}-kun! I'd like to\nspeak with you directly! {!R}I'm heading\nthere to recover the Eagle! {!R}Until then,\nsorry to ask, but would you look for\nRyo? {!R}He's wearing a pilot suit. You'll\nknow him right away.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    10295
   ],
   "jp": "{p}\n解りました 早乙女博士！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUnderstood, Dr. Saotome!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    10296
   ],
   "jp": "{p}\n…イーグル号の回収は\n終わったんですね\n…早乙女博士 リョウさんは\n見つかりませんでした…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...So you've recovered the Eagle. ...Dr.\nSaotome, we couldn't find Ryo-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    10297
   ],
   "jp": "早乙女博士\nあいつのことだ どこかで\n生きてると わしは信じておる\nそれよりも{p} わしと\n一緒に 早乙女研究所にこんか？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nKnowing him, I believe he's alive\nsomewhere. More importantly,\n{p}, won't you come with\nme to the Saotome Lab?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    10298
   ],
   "jp": "{p}\n早乙女研究所？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Saotome Lab?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    10299
   ],
   "jp": "早乙女博士\n黒い月について\n詳しく知りたいのだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI want to learn more about the black\nmoon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    10300
   ],
   "jp": "{p}\nでも {s}…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut {s}...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    10301
   ],
   "jp": "早乙女博士\n病身の彼女が心配か？\n一緒に連れてくればよい\n研究所のドクターに診せよう",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWorried about her, sick as she is?\nBring her along. I'll have the lab's\ndoctor examine her.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    10302
   ],
   "jp": "{p}\nホントですか！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nReally!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    10303
   ],
   "jp": "早乙女博士\n異論は無いようだな\n\nでは 君の準備が整い次第\n早乙女研究所へ出発するぞ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nNo objections, I see.\n\nThen we'll leave for the Saotome Lab\nas soon as you're ready.",
+  "status": "done",
   "notes": ""
  }
 ]

@@ -5,8 +5,8 @@
    4531
   ],
   "jp": "朱紗\n急いで 広間に戻ろう！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nLet's hurry back to the great hall!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    4532
   ],
   "jp": "兜甲児\nやったぜ！ これで動けるぞ！\nマジンガー ゴー！！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAll right! Now I can move! Mazinger, GO!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    4533
   ],
   "jp": "兜甲児\n今度こそ やっつけてやるぜ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nThis time I'm gonna finish you off!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    4534
   ],
   "jp": "兜甲児\n月が！？\nとうとう 出やがったか…",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nThe moon!? So it's finally come out...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    4535
   ],
   "jp": "{s}\n…ごめんね {p}…\nあたし 魔王の考えがわかるのよ\n受け入れたの 魔王を！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n...I'm sorry, {p}... I\nunderstand what the Demon King is\nthinking. I accepted him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    4536
   ],
   "jp": "{p}\n…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    4537
   ],
   "jp": "{s}\nあなたも 地獄地震後の関東を\n見たでしょ！\nジャックの世界では\nあれが現実なのよ！\n手天童子郎君も\n鬼獄界に戻る宿命なの！\n朱紗君の世界は 凄ノ王出現と共に\n滅んじゃうのよ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nYou saw Kanto after the Hellquake\ntoo! In Jack's world, that's reality!\nJiro Shutendo-kun is fated to go back\nto the Kigoku World! Shusha-kun's\nworld will be destroyed when\nSusano-oh appears!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    4538
   ],
   "jp": "{p}\nそれは… 本当なの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIs that... true?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    4539
   ],
   "jp": "{s}\n真実だからこそ 新たな世界を\n作り直そうとしているのよ\n誰も苦しまない 憎しみも\n怒りも無い世界をね！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nIt's because it's true that he's trying\nto remake the world! A world where\nnobody suffers, with no hatred or\nanger!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    4540
   ],
   "jp": "{p}\n作り直す前に すべてを\n壊さなければならない！\n壊された世界に住む人達は\nどうなるんだい！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBefore he can remake it, he has to\ndestroy everything! What happens to\nthe people living in the worlds he\ndestroys!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    4541
   ],
   "jp": "{s}\n知らないわ！\n\nそんなこと あたしの\n知ったことじゃないもん！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nI don't know!\n\nThat's none of my business!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    4542
   ],
   "jp": "{p}\n{s}！\n魔王は間違ってる！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}! The Demon King is\nwrong!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    4543
   ],
   "jp": "{s}\nああ…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nAhh...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    4544
   ],
   "jp": "{p}\n{s}…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    4545
   ],
   "jp": "{s}\nああ…\n\nもう 遅いのよ\n{p}…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nAhh...\n\nIt's too late now, {p}...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    4546
   ],
   "jp": "{p}\n遅くないよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's not too late!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    4547
   ],
   "jp": "{s}\n遅いのだ！！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nIT IS TOO LATE!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    4548
   ],
   "jp": "グレイド\nもはや「破壊の月」は\n我の中にある！\nおまえも来るのだ\n「再生の太陽」よ…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nThe \"Moon of destruction\" is already\nwithin me! You will come too, \"Sun of\nrebirth\"...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    4549
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    4550
   ],
   "jp": "グレイド\n日蝕まで まだ間がある\n\n黒い太陽の訪れまでに\n我は おまえを食らおう\nそして 日蝕の訪れと共に\n崩壊して行く世界の姿を\nこの丘の上から眺めるのだ…！！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nThere is still time before the eclipse.\n\nBefore the black sun comes, I shall\ndevour you. And as the eclipse\narrives, I shall watch from atop this\nhill as the world crumbles...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    4551
   ],
   "jp": "{p}\nく 来るな！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nS-stay back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    4552
   ],
   "jp": "グレイド\nグハハハハハ…！\n\n逃げられるものなら\n逃げてみるがよい！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nGuhahahahaha...!\n\nRun if you can!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    4553
   ],
   "jp": "{p}\n来るな～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nStay baaack!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    4554
   ],
   "jp": "如月ハニー\n{p}君！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{p}-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    4555
   ],
   "jp": "{p}\nハニー！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    4556
   ],
   "jp": "如月ハニー\n大丈夫！\nみんな 無事よ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's okay! Everyone's safe!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    4557
   ],
   "jp": "グレイド\nほほう これは おもしろい！\n日蝕までの 余興だ！\n滅び行く世界の勇者達よ\n我が遊んでやろう！！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nOho, how amusing! A little\nentertainment before the eclipse!\nHeroes of dying worlds, I shall play\nwith you!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    4558
   ],
   "jp": "グレイド\n準備は良いか！？\n\n滅び行く世界の勇者達よ\n我が遊んでやろう！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nAre you ready!?\n\nHeroes of dying worlds, I shall play\nwith you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    4560
   ],
   "jp": "グレイド\nグワ～！！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nGWAAAH!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    4561
   ],
   "jp": "{p}\n{s}！\nしっかりして！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}! Hang in there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    4562
   ],
   "jp": "{p}\nしっかりして！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHang in there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    4563
   ],
   "jp": "{s}\n…う う～ん…",
-  "en": "",
-  "status": "",
+  "en": "{s}\n...Uhh... nnn...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    4564
   ],
   "jp": "{p}\n良かった 生きてる！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank goodness, she's alive!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    4565
   ],
   "jp": "{s}\n{p}…\n\n…時が …来たわ",
-  "en": "",
-  "status": "",
+  "en": "{s}\n{p}...\n\n...The time... has come.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    4566
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    4567
   ],
   "jp": "{p}\n日蝕が… 始まる…！！\n黒い太陽が… 現れる…！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe eclipse... is starting...!! The black\nsun... is appearing...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    4568
   ],
   "jp": "如月ハニー\n{p}！\n\n消えた…\n\n魔王が倒れたから\n自分達の世界に戻ったの…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{p}!\n\nThey vanished...\n\nWith the Demon King gone, did they go\nback to their own world...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    4569
   ],
   "jp": "不動明\n{p}！\n\n消えた…\n\n魔王が倒れて\n自分達の世界に戻れたのか…？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n{p}!\n\nThey vanished...\n\nWith the Demon King down, did they\nmake it back to their own world...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    4570
   ],
   "jp": "{p}\nここは…？\n\n{s}？\n…気絶しちゃったのか",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhere is this...?\n\n{s}? ...She passed out.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    4571
   ],
   "jp": "{p}\n元の世界に戻ったはずなんだけど\n…違うのかな？\n門土さん達の世界では\n大きな地震で\n関東は 地獄と化していた…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe should be back in our own world...\nbut maybe not? In Mondo-san's\nworld, a huge earthquake turned\nKanto into Hell...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    4572
   ],
   "jp": "{p}\nもしかして… 元の世界でも\n大地震が起きたのだろうか…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nCould it be... a huge earthquake\nhappened in our world too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    4573
   ],
   "jp": "{p}\n黒い月！？\nいや 黒い太陽！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA black moon!? No, a black sun!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    4574
   ],
   "jp": "{s}\n愚か者め…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nFool...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    4575
   ],
   "jp": "{s}\n我が そう やすやすと倒されると\n思ったか？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nDid you think I would be defeated so\neasily?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    4576
   ],
   "jp": "{p}\nウッ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNgh!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    4577
   ],
   "jp": "グレイド\n日蝕が始まり\n我が力は 頂点に達した\n日蝕が終わるまで\n我が力は 維持されたままだ\n貴様の仲間達は\nたいしたことはないが\n食卓をうろつく\nハエのようなモノ…\n邪魔されることなく貴様を食らう\nため 食卓を変えたまでよ！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nThe eclipse has begun and my power\nhas reached its peak. Until the\neclipse ends, my power will hold. Your\nfriends are nothing much, but\nthey're like flies buzzing around the\ndinner table... I merely changed\ntables so I could devour you without\ninterruption!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    4578
   ],
   "jp": "グレイド\nおとなしく 喰われるがいい！\n\n我が体内で「破壊の月」が\n貴様を待っているぞ！\nア～ッハッハッハッハ！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nBe a good boy and be eaten!\n\nThe \"Moon of destruction\" awaits you\ninside me! Ahahahahaha!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    4579
   ],
   "jp": "{p}\nハニー！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    4580
   ],
   "jp": "グレイド\n貴様 どうやって！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nYou! How did you get here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    4581
   ],
   "jp": "如月ハニー\n{p}君\nもう 大丈夫！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{p}-kun, you're safe\nnow!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    4582
   ],
   "jp": "{p}\nハニー\nいったいどうやって ここへ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney, how on earth did you get here?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    4583
   ],
   "jp": "如月ハニー\n来留間慎一君が あなた達の\n行き場所を 予知したの\nそこへ 朱紗真悟君が\nテレポートさせてくれたのよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nShinichi Kuruma-kun foresaw where\nyou'd gone. And Shingo Shusha-kun\nteleported me there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    4584
   ],
   "jp": "{p}\nそれじゃ ここは\n元の世界じゃないんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo this isn't our own world after all!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    4585
   ],
   "jp": "如月ハニー\n魔王の作った ツギハギの世界よ！\nさぁ 魔王！\nキューティーハニーの この剣が\nおまえの野望を断ち切ってやる！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's a patchwork world the Demon King\nmade! Now, Demon King! This sword of\nCutie Honey will cut your ambitions to\npieces!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    4586
   ],
   "jp": "{p}\n元の世界に戻ったはずなんだけど\n…違うのかな？\n逞馬君達の世界では\n大きな地震で\n関東は 地獄と化していた…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe should be back in our own world...\nbut maybe not? In Takuma-kun's\nworld, a huge earthquake turned\nKanto into Hell...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    4590
   ],
   "jp": "グレイド\nぐあああ…！\n\nあと…\nあと少しの所だったのに…\nぐぐぐ… おのれ…！\nだが忘れるな！\nこれで 終わりではないぞ…！！\n\nぐあああああああ！！！！",
-  "en": "",
-  "status": "",
+  "en": "Grade\nGuaaargh...!\n\nSo close... I was so close... Grrr...\nCurse you...! But never forget! This\nis not the end...!!\n\nGUAAAAAAAAH!!!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    4591
   ],
   "jp": "{p}\n慎一君！\n君のおかげで 助かったよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShinichi-kun! You saved us!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    4592
   ],
   "jp": "慎一\n礼を言うなら 俺じゃない\n真理阿だ",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nIf you want to thank someone, it's not\nme. It's Maria.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    4593
   ],
   "jp": "{p}\nそうだったね！\nありがとう 真理阿さん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat's right! Thank you, Maria-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    4594
   ],
   "jp": "{p}\n朱紗君！ みんなを テレポート\nさせてくれて ありがとう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShusha-kun! Thanks for teleporting\neveryone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    4595
   ],
   "jp": "朱紗\n俺は もはや凄ノ王ではなく\n英雄王真神だ\n世界と そして仲間のため\n力を使うのは 当然さ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nI'm not Susano-oh anymore, I'm the\nhero king, the true god. Of course\nI'll use my power for the world and my\nfriends!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    4596
   ],
   "jp": "{p}\n{s}！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    4597
   ],
   "jp": "如月ハニー\nあたしも 夏ちゃんを\n失ったばかりだもん…\nあなたの気持ちは よくわかるわ\n{p}君…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI just lost Natsu-chan too... I know\nexactly how you feel,\n{p}-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    4598
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    4599
   ],
   "jp": "{p}\n…ごめんよ ハニー",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...I'm sorry, Honey.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    4600
   ],
   "jp": "如月ハニー\nいいのよ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's okay.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    4601
   ],
   "jp": "慎一\n真理阿の声が\n俺に教えてくれたことがある\n魔王が死に 日蝕が続いている\n\nこれは\n次元連鎖が崩れた証拠だと…",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nMaria's voice told me something. The\nDemon King is dead, but the eclipse\ngoes on.\n\nShe says that's proof the Dimension\nChain is falling apart...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    4602
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    4603
   ],
   "jp": "慎一\n俺達 みんなが\n元の自分の世界に戻れるんだ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nAll of us can go back to our own\nworlds!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    4604
   ],
   "jp": "如月ハニー\n魔王が作った\nツギハギの世界から？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nFrom the patchwork world the Demon\nKing made?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    4605
   ],
   "jp": "慎一\nそうだ そして そこでは\n本来の運命が俺達を待っている\nツギハギにされた世界が\n修正を始めたんだ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nThat's right. And there, our true\nfates are waiting for us. The\npatched-together worlds have\nstarted to set themselves right!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    4606
   ],
   "jp": "如月ハニー\nでも… 本来の運命といっても\n夏ちゃんは…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nBut... even if it's our true fate,\nNatsu-chan is...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    4607
   ],
   "jp": "慎一\n…生きてるかもしれないぜ？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n...She might be alive, you know.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    4608
   ],
   "jp": "如月ハニー\nホント！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nReally!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    4609
   ],
   "jp": "慎一\nあぁ 俺の中に響く真理阿の声も\nどんどんと大きくなってきてる\nまるで 耳元で 真理阿が 俺を\n呼んでいるみたいに…！！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nYeah. Maria's voice echoing inside me\nkeeps getting louder and louder. It's\nlike Maria is calling me, right in my\near...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    4610
   ],
   "jp": "{p}\nそれじゃ もしかして\n元の世界に戻ったら…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThen maybe, when we get back to our\nown world...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    4611
   ],
   "jp": "慎一\n{s}に\n逢えるかもな…！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nMaybe you'll see {s}...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    4612
   ],
   "jp": "慎一\n富三郎！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nTomisaburo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    4613
   ],
   "jp": "富三郎\nほいほい！",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nYo-ho!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    4614
   ],
   "jp": "慎一\n帰るぞ！\n真理阿が待ってる…！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWe're going home! Maria's waiting...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    4615
   ],
   "jp": "富三郎\nやった～！！",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nYahooo!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    4616
   ],
   "jp": "{p}\n慎一君！\nありがとう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShinichi-kun! Thank you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    4617
   ],
   "jp": "如月ハニー\n今度は あの人が帰る番のようね\n\nちゃんと\nお別れを言ってらっしゃい",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLooks like it's his turn to go home now.\n\nGo say a proper goodbye.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    4618
   ],
   "jp": "不動明\n次は あいつの番のようだ\n先に 別れを告げてやりな",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLooks like it's his turn next. Go say\nyour goodbyes first.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    4620
   ],
   "jp": "朱紗\n俺の番が 来たようだ",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nLooks like my turn has come.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    4621
   ],
   "jp": "{p}\n朱紗君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShusha-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    4622
   ],
   "jp": "朱紗\n元の世界で 俺が凄ノ王になるか\n英雄王真神になるか？\nそれは 誰にもわからない\n\nでも 大丈夫だよ\n俺には 雪代さんがいるから…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nBack in my world, will I become\nSusano-oh, or the hero king, the\ntrue god? Nobody knows.\n\nBut it'll be fine. I've got\nYukishiro-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    4623
   ],
   "jp": "瓜生\n俺は もう 世界を変えたいなんて\n思っちゃいない\nだから 心配することはないさ\n朱紗",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nI've no wish to change the world\nanymore. So there's nothing to worry\nabout, Shusha.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    4624
   ],
   "jp": "美剣\nそうだといいけどね\n実はあたし達 幼馴染なのよ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI hope that's true. You know, we're\nactually childhood friends!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    4625
   ],
   "jp": "{p}\nへぇ！ それは知らなかったよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoa! I never knew that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    4626
   ],
   "jp": "美剣\n小さい頃は\n一緒に お風呂にも入ったのよ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWhen we were little, we even took\nbaths together!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    4627
   ],
   "jp": "瓜生\nおい 何を言い出すんだよ！！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nHey, what are you saying!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    4628
   ],
   "jp": "{p}\n笑いながら お別れ出来て\n良かったよ 朱紗君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm glad we could say goodbye with a\nlaugh, Shusha-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    4629
   ],
   "jp": "兜甲児\nそろそろ 俺達の番みたい",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nLooks like it's our turn now.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    4630
   ],
   "jp": "ボス\n今度 光子力研究所に\n遊びに来いよな！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nCome visit the Photon Power Lab\nsometime, ya hear!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    4631
   ],
   "jp": "さやか\n{p}君の世界にも\n光子力研究所 あるのかしら？",
-  "en": "",
-  "status": "",
+  "en": "Sayaka\nI wonder if there's a Photon Power Lab\nin your world too,\n{p}-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    4632
   ],
   "jp": "兜甲児\nもしも 光子力研究所があったら\nマジンガーＺに乗せてやるよ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nIf there's a Photon Power Lab, I'll give\nyou a ride in Mazinger Z!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    4633
   ],
   "jp": "{p}\nうん！ ぜひ！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah! I'd love that!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    4634
   ],
   "jp": "兜甲児\nそれから 俺の特製コロッケも\n食べてくれよな！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAnd you've gotta try my special\ncroquettes too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    4635
   ],
   "jp": "{p}\nコロッケ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nCroquettes?",
+  "status": "done",
   "notes": ""
  }
 ]

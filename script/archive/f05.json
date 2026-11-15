@@ -5,8 +5,8 @@
    1704
   ],
   "jp": "{p}\n十兵衛を返せ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGive Jubei back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    1705
   ],
   "jp": "丸ゴシ\nワシを倒すことが出来たなら\n返してやるわ！",
-  "en": "",
-  "status": "",
+  "en": "Marugoshi\nBeat me and maybe I'll give her back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    1706
   ],
   "jp": "十兵衛\nえ～ん 恐かったよぉ～！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nWaaah, that was so scaaary!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    1707
   ],
   "jp": "山岸\nよちよち\nもう だいじょぶだからさ",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nThere, there. You're all right now.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    1708
   ],
   "jp": "十兵衛\n山岸君だけじゃなく\nあたしまで助けてくれて…\n何か お礼をしなくちゃね！\n\nあたしも 柳生忍者の末裔！\n恩には報いるわ！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nYou saved not just Yamagishi-kun but\nme too... I've got to repay you\nsomehow!\n\nI'm a descendant of the Yagyu ninja\ntoo! I always repay a favor!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    1709
   ],
   "jp": "山岸\nそうだぜ 俺だって このままじゃ\n気が済まねぇや！\n困ったことがあったら\n言ってくれよ！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nThat's right! I ain't gonna feel square\nleaving it like this either! If you're\never in a bind, just say the word!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    1710
   ],
   "jp": "如月ハニー\nこの際だから 相談してみたら？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWhy not ask them, now that we're\nhere?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    1711
   ],
   "jp": "早見青児\nもしかしたら 何かヒントが\n得られるかもしれないぜ",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nMaybe we'll get some kind of clue.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    1712
   ],
   "jp": "{p}\nうん\n実は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah. Actually...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    1713
   ],
   "jp": "十兵衛＆山岸\nえ～！？",
-  "en": "",
-  "status": "",
+  "en": "Jubei & Yamagishi\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    1714
   ],
   "jp": "十兵衛\n…不思議な話ね",
-  "en": "",
-  "status": "",
+  "en": "Jubei\n...What a strange story.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    1715
   ],
   "jp": "山岸\n黒い月に 関東地獄地震？\nそして 蓮沼に浮かぶ屋敷だって？\nおもしろそうだな…！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nA black moon and the Kanto\nHellquake? And a mansion floating on\nHasunuma? Sounds like a blast...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    1716
   ],
   "jp": "十兵衛\nおもしろがっちゃダメでしょ！\n謎を解くお手伝いをしないとね！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nIt's not supposed to be a blast! We've\ngot to help solve the mystery!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    1717
   ],
   "jp": "袋小路\nあ オヤブン！\n俺を置いて行くなんて！",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nAh, Boss! How could you leave me\nbehind!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    1718
   ],
   "jp": "丸ゴシ\nワシに逆らったら どうなるか\n見てろよ！",
-  "en": "",
-  "status": "",
+  "en": "Marugoshi\nDefy me and see what happens!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    1719
   ],
   "jp": "パラソル\n助けてくれバイ…",
-  "en": "",
-  "status": "",
+  "en": "Parasol\nHelp me, would ya...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    1720
   ],
   "jp": "マカロニ・キッド\n俺を放せ！ 逆らうと 早撃ちが\nモノを言うぜ！",
-  "en": "",
-  "status": "",
+  "en": "Macaroni Kid\nLet me go! Cross me and my quick draw\ndoes the talkin'!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    1721
   ],
   "jp": "ヒゲゴジラ\n山岸君\nわたちたち お友達じゃないの！\n仲良くやりまちょうね～\nおほほほ！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nYamagishi-kun, aren't we fwiends?\nLet's all play nicey-nice! Ohohoho!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    1722
   ],
   "jp": "山岸\nみんな ありがとな！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nThanks, everybody!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    1723
   ],
   "jp": "袋小路\nそういえばオヤブン\n聞きましたか？\n体育倉庫にバケモノが\n出るそうですよ！",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nHey, Boss, did you hear? They say a\nmonster shows up in the gym\nstoreroom!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    1724
   ],
   "jp": "山岸\nバケモノ！？\nこっちも おもしろそうだな",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nA monster!? That sounds like a blast\ntoo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    1725
   ],
   "jp": "山岸\nなあ {p}\n体育倉庫に行ってみないか？",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nHey, {p}, wanna go check\nout the gym storeroom?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    1726
   ],
   "jp": "十兵衛\nそうね なにか蓮沼に\n関係あるかもしれないしね",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nGood idea. It might have something to\ndo with Hasunuma.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    1730
   ],
   "jp": "丸ゴシ\nなに？ 体育倉庫の鍵だと？\n知らん 知らん！",
-  "en": "",
-  "status": "",
+  "en": "Marugoshi\nWhat? The key to the gym storeroom?\nDon't know, don't know!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    1731
   ],
   "jp": "マカロニ・キッド\n体育倉庫の鍵？\n\n明日をも知らねー流れ者が\nそんなの知るか！",
-  "en": "",
-  "status": "",
+  "en": "Macaroni Kid\nThe gym storeroom key?\n\nA drifter who don't know if he'll see\ntomorrow wouldn't know about that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    1732
   ],
   "jp": "ヒゲゴジラ\n体育倉庫の鍵なんて\n持ってないわよ～！\nポケットに入ってるけど\n持ってないわよ！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nI don't have the gym storeroom key,\ndarling! It's in my pocket, but I don't\nhave it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    1733
   ],
   "jp": "{p}\nポケットに入ってる…ね？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's in your pocket... huh?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    1734
   ],
   "jp": "生徒\n時々 体育倉庫の中から\n声がするんだけど\n誰か 先生達に\n閉じ込められてるのかな？",
-  "en": "",
-  "status": "",
+  "en": "Student\nSometimes you hear voices coming from\nthe gym storeroom. Did the teachers\nlock somebody in there?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    1735
   ],
   "jp": "生徒\nあいつら いい気味だぜ！\nさ～て 弁当食べよ！",
-  "en": "",
-  "status": "",
+  "en": "Student\nServes those creeps right! Welp, time\nfor lunch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    1736
   ],
   "jp": "生徒\n山岸君 行っちゃうの？\n\n寂しいけど しばらく 静かになって\nいいかも…？",
-  "en": "",
-  "status": "",
+  "en": "Student\nYamagishi-kun, you're leaving?\n\nIt'll be lonely, but maybe it'll be nice\nand quiet for a while...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    1737
   ],
   "jp": "山岸\nなんだとぉ～！？",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nWhaddaya mean by that!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    1738
   ],
   "jp": "生徒\nきゃ～！",
-  "en": "",
-  "status": "",
+  "en": "Student\nKyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    1739
   ],
   "jp": "生徒\n十兵衛… 山岸君…\n気をつけてね",
-  "en": "",
-  "status": "",
+  "en": "Student\nJubei... Yamagishi-kun... Take care.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    1740
   ],
   "jp": "生徒\n僕 一生懸命勉強して そして…\nハレンチ学園の先生になるんだ！",
-  "en": "",
-  "status": "",
+  "en": "Student\nI'm gonna study really hard and then...\nI'll become a teacher at Harenchi\nGakuen!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    1741
   ],
   "jp": "生徒\n先生もいなくなったし 教室で\nキャンプファイアでもするか！",
-  "en": "",
-  "status": "",
+  "en": "Student\nThe teachers are gone, so how about\na campfire in the classroom!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    1742
   ],
   "jp": "山岸\nいつのまに 校舎の屋上へ！？",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nWhen did they get up on the school\nroof!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    1750
   ],
   "jp": "{p}\n鍵が かかっていて 開かないや\n\nでも 見たところ\n普通の体育倉庫だけど…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's locked. It won't open.\n\nBut it looks like a normal gym\nstoreroom...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    1751
   ],
   "jp": "十兵衛\nおかしいわね\nいつもは 開いてるのに…？",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nThat's weird. It's usually open...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    1752
   ],
   "jp": "？？？\n学園を 混乱させる者達が\n加わった…\nそして 世界を超える者達が\n加わる…",
-  "en": "",
-  "status": "",
+  "en": "???\nThose who throw the school into\nchaos have joined... And those who\ncross between worlds join next...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    1760
   ],
   "jp": "早見青児\nげげっ！ 閉じ込められた！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nYikes! We're locked in!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    1761
   ],
   "jp": "如月ハニー\nいや～ん 出してぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNooo, let us out!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    1762
   ],
   "jp": "カパエル\nうるへ～！",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nPipe dooown!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    1763
   ],
   "jp": "{p}\nあ 誰かいたのか！\nん？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh, there was somebody in here! Huh?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    1764
   ],
   "jp": "如月ハニー\nちょっと その子…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWait, that kid...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    1765
   ],
   "jp": "{p}\nうわ～！\n河童！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoaaa! A kappa!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    1766
   ],
   "jp": "カパエル\nなんや こいつら…？",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nWhat's with these folks...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    1767
   ],
   "jp": "えん魔くん\nカパエル なに騒いでるんだ？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nKapaeru, what're you making a racket\nabout?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    1768
   ],
   "jp": "カパエル\n騒いでんのは こいつらどっせ",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nThese folks are the ones makin' the\nracket, I do declare.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    1769
   ],
   "jp": "{p}\nき 君は誰？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-who are you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    1770
   ],
   "jp": "えん魔くん\n俺たちゃ 地獄界から\n妖怪退治に来たもんだ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nWe came from the Hell World to hunt\nyokai!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    1771
   ],
   "jp": "早見青児\n妖怪退治？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHunt yokai?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    1772
   ],
   "jp": "如月ハニー\n地獄界？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThe Hell World?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    1773
   ],
   "jp": "えん魔くん\n俺は えん魔",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nI'm Enma.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    1774
   ],
   "jp": "カパエル\nボク カパエル",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nI'm Kapaeru.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    1775
   ],
   "jp": "雪子姫\nあたしは 雪子姫よ",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\nAnd I'm Princess Yukiko.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    1776
   ],
   "jp": "シャッポじい\nわしゃ シャッポじい じゃ\nひょひょひょ！",
-  "en": "",
-  "status": "",
+  "en": "Chapeau-jii\nAnd I'm Chapeau-jii, my boy! Hyohyohyo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    1777
   ],
   "jp": "えん魔くん\nむっ！？\n\nおまえら\n妖怪に 取り憑かれているなー？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHmm!?\n\nYou guys are possessed by a yokai,\naren't ya?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    1778
   ],
   "jp": "えん魔くん\n俺のマユ毛は\n妖怪を探る アンテナだ\nそのアンテナがおまえらの身体から\n妖気を感じているってわけだよ",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nMy eyebrows are antennae for\nsniffing out yokai. And those\nantennae are picking up yokai energy\nfrom your bodies, see?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    1779
   ],
   "jp": "{p}\nじゃ じゃあ 僕\n妖怪に 取り憑かれているの～？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nTh-then I'm... possessed by a yokai!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    1780
   ],
   "jp": "早見青児\nもしかして 家がなくなったのも\n呪われてるから…？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nCould it be my house vanished because\nI'm cursed...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    1781
   ],
   "jp": "えん魔くん\n何か 変わったことがあるはずだ\nそいつを 俺に話すんだ",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nSomething weird must've happened.\nTell me about it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    1782
   ],
   "jp": "{p}\n実は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nActually...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    1783
   ],
   "jp": "早見青児\n実は！ 俺の家があるはずの場所が\n沼になっていた！ おまけに…\n黒い月が浮かぶ時 その沼に屋敷が\n浮かぶって 言うんだ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nActually! Where my house should be,\nthere's a pond! And on top of that...\nthey say when a black moon rises, a\nmansion floats on that pond!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    1784
   ],
   "jp": "えん魔くん\nぎゃっはっはっは！\n\n黒い月が出ると\n沼に屋敷が浮かぶだって！？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nGyahahaha!\n\nA mansion floats on a pond when a\nblack moon comes out!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    1785
   ],
   "jp": "雪子姫\nあんまり笑っちゃ失礼よ！",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\nDon't laugh so much, that's rude!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    1786
   ],
   "jp": "えん魔くん\nその屋敷に 行きたければ\n沼に戻ってみなよ じゃあな！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nIf you wanna go to that mansion, head\nback to the pond. See ya!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    1787
   ],
   "jp": "{p}\n黒い月が輝く時\nお逢いしましょう…\nもしかして あのメールは\nえん魔くんから…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n\"When the black moon shines, let us\nmeet...\" Could that e-mail have been\nfrom Enma-kun...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    1788
   ],
   "jp": "十兵衛\nそうみたい",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nLooks like it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    1789
   ],
   "jp": "{p}\n生徒も生徒なら 先生も先生…って\n気がするけど\n柱に縛りつけられているのを\n放っては おけないよね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI feel like the teachers are as bad as\nthe students... but we can't just\nleave him tied to a post, can we?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    1790
   ],
   "jp": "十兵衛\nでしょ！\nみんなも 協力してくれる？",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nRight!? Will you all help me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    1791
   ],
   "jp": "{p}\nうん\n山岸君を助けに行こう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah. Let's go save Yamagishi-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    1792
   ],
   "jp": "住民\n変わった事って言えば\nそこの学校は変わってるわよ\n教師も生徒も元気がありあまってて\n毎日 救急車の世話になってるの",
-  "en": "",
-  "status": "",
+  "en": "Resident\nSpeaking of unusual, that school\nthere's unusual. The teachers and\nstudents have energy to burn, and\nthey need an ambulance every day.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    1793
   ],
   "jp": "住民\n奇妙な人達なら知ってるよ\n泣く子もだまる悪党一家\n父親は超能力者 息子達は\nスケベ サイボーグ 爆弾使い\nでも長女は かわいいんだァ～",
-  "en": "",
-  "status": "",
+  "en": "Resident\nI know some weird folks. A crime family\nthat'd scare a crying kid quiet. The\nfather's a psychic, the sons are a\npervert, a cyborg and a bomber. But\nthe eldest daughter's a real cutie!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    1801
   ],
   "jp": "竜馬\n急に暗くなったね…",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nIt suddenly got dark...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    1802
   ],
   "jp": "門土\nまだ昼間だぜ？",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nIt's still daytime, ain't it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    1803
   ],
   "jp": "如月ハニー\n見て！\n水面に 月が写ってるわ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLook! The moon's reflected on the\nwater!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    1804
   ],
   "jp": "{p}\n黒い月だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's the black moon!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    1805
   ],
   "jp": "早見青児\nすげ～！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWhoa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    1806
   ],
   "jp": "{s}\n{p}～！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    1807
   ],
   "jp": "{p}\n{s}！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    1808
   ],
   "jp": "{s}\nこっちこっち～！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nOver here, over here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    1809
   ],
   "jp": "如月ハニー\n確かに {s}よ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's {s}, all right!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    1810
   ],
   "jp": "{s}\n早くおいでよ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nHurry up and come on!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    1811
   ],
   "jp": "{p}\n良かった… 無事だったんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank goodness... She's okay!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    1812
   ],
   "jp": "雪子姫\nいらっしゃ～い！\n待ってたわよ！",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\nWelcome! We've been waiting for you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    1813
   ],
   "jp": "早見青児\nなんだよ これ？\n薄気味悪い ドアベルだな？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWhat the heck is this? Creepy\ndoorbell, huh?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    1814
   ],
   "jp": "如月ハニー\nよく出来てるわねぇ\n本物の鬼みたい！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's really well made. Just like a real\noni!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    1815
   ],
   "jp": "鬼\nようこそ 地獄別荘へ！",
-  "en": "",
-  "status": "",
+  "en": "Oni\nWelcome to Hell Villa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    1816
   ],
   "jp": "如月ハニー\nきゃっ！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nEek!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    1817
   ],
   "jp": "{p}\nほ 本物！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI-it's real!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    1818
   ],
   "jp": "{p}\n{s}！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    1819
   ],
   "jp": "{s}\n{p}！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    1820
   ],
   "jp": "{p}\n無事だったんだね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou're okay...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    1821
   ],
   "jp": "{s}\n道がふさがれちゃって…\n心配したんだよ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nThe road got blocked off... I was\nworried about you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    1822
   ],
   "jp": "{p}\n僕もだよ！\nでも逢えて良かった！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMe too! But I'm so glad we found each\nother!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    1823
   ],
   "jp": "如月ハニー\n{p}も あなたのこと\nずっと心配してたのよ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{p} was worried about\nyou the whole time, too.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    1824
   ],
   "jp": "{s}\nハニー！\nあなたも無事だったのね！\nお父さんには逢えたの…？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nHoney! You're all right too! Did you get\nto see your father...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    1825
   ],
   "jp": "如月ハニー\nえぇ… まぁ…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nYes... well...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    1826
   ],
   "jp": "{p}\n{s} その話は後で…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}, let's talk about\nthat later...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    1827
   ],
   "jp": "{s}\nそうね えん魔くんが\n{p}を 待ってるわよ\n行きましょ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nRight. Enma-kun is waiting for you,\n{p}. Let's go!",
+  "status": "done",
   "notes": ""
  }
 ]

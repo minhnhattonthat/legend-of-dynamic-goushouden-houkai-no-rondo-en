@@ -5,8 +5,8 @@
    4751
   ],
   "jp": "慎一\n…どこかに これと似たような\n装置が あるのかもしれないな\nそれを探し出そう",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n...There might be another device like\nthis somewhere. Let's find it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    4752
   ],
   "jp": "えん魔くん\n{p}が魔王に捕まる前に\n見つけ出さないとな",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nWe gotta find it before the Demon King\ncatches {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    4753
   ],
   "jp": "慎一\n俺達は マジンガーＺを助ける\n\n朱紗 おまえは\n{p}を探してくれ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWe'll rescue Mazinger Z.\n\nShusha, you go find {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    4754
   ],
   "jp": "慎一\n俺達は ゲッターロボを助ける\n\n朱紗 おまえは\n{p}を探してくれ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWe'll rescue Getter Robo.\n\nShusha, you go find {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    4755
   ],
   "jp": "朱紗\n何の反応も無い…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nNo reaction at all...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    4756
   ],
   "jp": "朱紗\n…ん？\nこれは…！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n...Hm? What's this...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    4757
   ],
   "jp": "{p}\nそうか…\n僕らは この太陽のレリーフに\n引き寄せられたんだ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI see... We were drawn in by this sun\nrelief...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    4758
   ],
   "jp": "朱紗\nそうらしいな\nどういう仕掛けかは解らないがな",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nSeems that way. Though I've no idea\nhow the mechanism works.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    4759
   ],
   "jp": "{p}\nひょっとしたら 月のレリーフから\n{s}が助け出せるかも…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMaybe we can rescue {s}\nthrough the moon relief...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    4760
   ],
   "jp": "不動明\n月が光る…黒い月！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThe moon's shining... A black moon!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    4761
   ],
   "jp": "朱紗:\n気をつけろ！ {p}!\n光の中から出るんだ！！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nLook out, {p}! Get out of\nthe light!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    4762
   ],
   "jp": "如月ハニー\n月が光る…黒い月！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThe moon's shining... A black moon!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    4763
   ],
   "jp": "朱紗\nダメだ もう反応しない",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nNo good, it won't react anymore.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    4764
   ],
   "jp": "飛鳥了\n違った運命…か",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nA different fate... huh.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    4765
   ],
   "jp": "女生徒\nこの学園は もうダメよ\n中には誰も残ってないわ\nあなた達も逃げて！！",
-  "en": "",
-  "status": "",
+  "en": "Schoolgirl\nThis school's done for. There's no one\nleft inside. You should run too!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    4766
   ],
   "jp": "如月ハニー\n夏ちゃんも きっと\n森の中に逃げているわ\n探してみましょう！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI'm sure Natsu-chan ran into the\nforest too. Let's look for her!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    4767
   ],
   "jp": "如月ハニー\n火の勢いが強くて\n中には入れないわ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThe fire's too strong. We can't get\ninside.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    4770
   ],
   "jp": "{p}\nみんな\nいろいろ ありがとう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEveryone, thanks for everything!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    4771
   ],
   "jp": "逞馬竜\n{p}\n俺 決めたよ！\nいつか俺は 関東を平和で安心して\n暮らせる場所にするんだ\n大人も子供も関係なく\n仲良く暮らせる場所にね！\n震災砦の\n仲間達といっしょに！！",
-  "en": "",
-  "status": "",
+  "en": "Ryu Takuma\n{p}, I've made up my mind!\nSomeday I'm gonna make Kanto a\nplace where people can live in peace\nand safety. A place where\ngrown-ups and kids alike can live\ntogether as friends! Together with\nmy friends at the Quake Fort!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    4772
   ],
   "jp": "ジャック\n元の世界では\nもっとも過酷な運命が\nおまえ達を\n待っているかもしれんぞ…",
-  "en": "",
-  "status": "",
+  "en": "Jack\nBack in your world, the harshest of\nfates may be awaiting you...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    4773
   ],
   "jp": "逞馬竜\n平気さ！\n仲間といっしょならば！",
-  "en": "",
-  "status": "",
+  "en": "Ryu Takuma\nNo problem! Not as long as I've got my\nfriends!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    4774
   ],
   "jp": "門土\n俺も 望むところよ！\n\nたいくつな世界は\nこっちから 願い下げだぜ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nBring it on, I say!\n\nA boring world, I'll pass on, thanks.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    4775
   ],
   "jp": "竜馬\nあははは…\n門土ったら！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nAhahaha... Oh, Mondo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    4776
   ],
   "jp": "ジャック\n………",
-  "en": "",
-  "status": "",
+  "en": "Jack\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    4777
   ],
   "jp": "{p}\nどんな世界であれ\nみんななら うまくやれるさ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhatever world it is, you guys will do\njust fine!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    4801
   ],
   "jp": "{p}\nまさか！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo way!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    4802
   ],
   "jp": "{p}\nホッ… 良かった…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nPhew... Thank goodness...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    4803
   ],
   "jp": "{p}\nいけね！\n{s}が 待ってる！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh no! {s}'s waiting!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    4804
   ],
   "jp": "{s}\nおそいよ {p}！\nいつも時間にルーズなんだから！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nYou're late, {p}! You're\nalways so sloppy about time!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    4805
   ],
   "jp": "{p}\nい いや… 実は…って\n説明しても伝わるのかな…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nW-well, um... the thing is... would she\neven understand if I explained...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    4806
   ],
   "jp": "{s}\nいいわけ無用！\nもう知らない！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nNo excuses! I'm through with you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    4814
   ],
   "jp": "{s}\n…ちょっと なによ あれ？",
-  "en": "",
-  "status": "",
+  "en": "{s}\n...Hey, what's that?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    4815
   ],
   "jp": "{p}\n黒い月！？\nまさか またアレが！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA black moon!? Don't tell me it's that\nagain!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    4816
   ],
   "jp": "{s}\n…なによ それ？\n\n見て！\n月が大きくなって行くわ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n...What are you talking about?\n\nLook! The moon's getting bigger!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    4820
   ],
   "jp": "{p}\nう う～ん…\nこ ここは…？\nうっ… 頭が 痛い…\n割れるようだ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUhh... nnn... Wh-where am I...? Ugh... My\nhead hurts... Like it's splitting...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    4821
   ],
   "jp": "{p}\n大丈夫？ しっかりして！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAre you okay? Hang in there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    4822
   ],
   "jp": "{s}\n…あたし達 どうしたの？",
-  "en": "",
-  "status": "",
+  "en": "{s}\n...What happened to us?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    4823
   ],
   "jp": "{p}\n黒い月が… 現れたんだ…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe black moon... appeared...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    4824
   ],
   "jp": "{s}\nお 思い出したわ…！！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nI-I remember now...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    4825
   ],
   "jp": "{p}\n人が倒れてる…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThere's someone collapsed over\nthere...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    4826
   ],
   "jp": "{s}\nえ？ でも 公園には あたし達しか\nいなかったはずよ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nHuh? But we were the only ones in the\npark!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    4827
   ],
   "jp": "{p}\nそ そうだね…\nう… 頭が… 痛い…\nう… 何か大切な事を\n忘れているような…\n解らない…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nY-yeah... Ugh... My head... it hurts...\nUgh... I feel like I'm forgetting\nsomething important... I don't know...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    4828
   ],
   "jp": "{s}\n大丈夫 {p}？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nAre you okay, {p}?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    4829
   ],
   "jp": "{p}\n…大丈夫だよ\nともかく 様子を見なきゃ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...I'm okay. Anyway, we should go\ncheck...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    4830
   ],
   "jp": "{p}\n君！ 大丈夫かい！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHey! Are you okay!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    4831
   ],
   "jp": "少女\n…大丈夫よ",
-  "en": "",
-  "status": "",
+  "en": "Girl\n...I'm fine.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    4832
   ],
   "jp": "{p}\nき 君は…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-who are you...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    4833
   ],
   "jp": "{s}\nちょっと\nなに見とれてるのよ！？\nほら あっちにも人が\n倒れてるわよ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nHey, what are you staring at!? Look,\nthere's somebody collapsed over\nthere too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    4834
   ],
   "jp": "{p}\n君！ 大丈夫かい！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHey! Are you okay!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    4835
   ],
   "jp": "{s}\nなんだか 頼りない感じの子ね…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nHe seems kind of a pushover...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    4836
   ],
   "jp": "少年\nごめん…",
-  "en": "",
-  "status": "",
+  "en": "Boy\nSorry...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    4837
   ],
   "jp": "{s}\n聞こえちゃった？\nごめんなさい…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nYou heard that? I'm sorry...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    4838
   ],
   "jp": "少年\nいいんだ\n君達が助けてくれたのかい？",
-  "en": "",
-  "status": "",
+  "en": "Boy\nIt's fine. Did you guys help me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    4839
   ],
   "jp": "{p}\n助けたことに…なるのかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI guess... that counts as helping?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    4840
   ],
   "jp": "{s}\nあたし達も\n何がなんだか わからないのよ",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWe don't know what's going on either.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    4841
   ],
   "jp": "少年\nそうなんだ\n僕は 不動明 君達は…？",
-  "en": "",
-  "status": "",
+  "en": "Boy\nI see. I'm Akira Fudo. And you guys\nare...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    4842
   ],
   "jp": "少女\nあたしは 如月ハニーよ",
-  "en": "",
-  "status": "",
+  "en": "Girl\nI'm Honey Kisaragi.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    4843
   ],
   "jp": "{p}\n僕は {p}…\n\nでも 君達 どこかで\n逢ったことが あるような…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm {p}...\n\nBut I feel like I've met you two\nsomewhere before...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    4844
   ],
   "jp": "如月ハニー\nそうかしら？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHave you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    4845
   ],
   "jp": "不動明\n…初対面だと思うよ",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...I think this is the first time we've\nmet.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    4846
   ],
   "jp": "{p}\nう～ん なんだろ この感じ…\nデジャ・ヴってヤツかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHmmm, what is this feeling... Is it that\ndeja vu thing?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    4847
   ],
   "jp": "{s}\nあたしは {s}よ\nよろしくね！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nI'm {s}. Nice to meet you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    4850
   ],
   "jp": "{p}\n…すると 明君は\n下校途中だったわけだね",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...So, Akira-kun, you were on your way\nhome from school.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    4851
   ],
   "jp": "不動明\n下宿先の 牧村さん家に\n帰る途中だったんだ\n美樹ちゃん\n心配してるだろうなぁ…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI was heading back to the Makimuras',\nwhere I board. Miki-chan must be\nworried...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    4852
   ],
   "jp": "如月ハニー\n美樹ちゃんって 彼女？\nいいわね\nあたしなんて\n全寮制の 女子校だもん",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIs Miki-chan your girlfriend? Lucky\nyou. Me, I'm at an all-girls boarding\nschool.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    4853
   ],
   "jp": "{s}\n彼氏 いないの？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nNo boyfriend?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    4854
   ],
   "jp": "如月ハニー\nまわりは 女の子ばっかだもん…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's nothing but girls around me...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    4855
   ],
   "jp": "{s}\nハニーは どこにいたの？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWhere were you, Honey?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    4856
   ],
   "jp": "如月ハニー\nルームメイトと待ち合わせてたの",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI was meeting my roommate.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    4857
   ],
   "jp": "如月ハニー\n門限 過ぎると\n寮に戻れなくなっちゃうの\nそれで…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIf I miss curfew, I can't get back into\nthe dorm. So...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    4858
   ],
   "jp": "{p}\nふたりで\nこっそり 寮に戻ろうと？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe two of you were going to sneak\nback into the dorm?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    4859
   ],
   "jp": "如月ハニー\nうん",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nUh-huh.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    4860
   ],
   "jp": "不動明\nあ ちょっとごめんね",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nOh, excuse me a second.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    4861
   ],
   "jp": "{p}\n…きっと 友達からだよ",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...I bet that's from a friend.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    4862
   ],
   "jp": "不動明\nえ？ あ もしもし…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHuh? Oh, hello...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    4863
   ],
   "jp": "{p}\n…きっと お父さんからだよ",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...I bet that's from your father.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    4864
   ],
   "jp": "如月ハニー\nえ？ あ もしもし…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHuh? Oh, hello...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    4865
   ],
   "jp": "如月ハニー\n切れちゃったわ…\nなにかあったのかしら…？\nそれにしても… どうして\nパパからだと 解ったの？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt cut off... I wonder if something\nhappened...? But anyway... how did\nyou know it was Papa?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    4866
   ],
   "jp": "不動明\nそうだ！ 僕への電話も！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThat's right! The call for me too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    4867
   ],
   "jp": "{p}\nわ わからない…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI-I don't know...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    4868
   ],
   "jp": "如月ハニー\nあたし達と 逢ったことがある\nようなことを 言ってたわね…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nYou said something like you'd met us\nbefore...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    4869
   ],
   "jp": "不動明\nなんか 奇妙な感じだよ 君",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThere's something strange about you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    4870
   ],
   "jp": "{s}\nそれじゃ あたしは\nハニーと一緒！\nこんな可愛い女の子と\n一緒に行かせたら… 危険だわ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nThen I'm going with Honey! If I let you\ngo with a girl this cute... it'd be\ndangerous!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    4872
   ],
   "jp": "{p}\nど ど～ゆ～意味だい\n{s}？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-wh-what's that supposed to mean,\n{s}?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    4873
   ],
   "jp": "{s}\nふ～んだ！\nさ チーム分け完了ね！\nあたしは ハニーと\n{p}は明君と一緒に\n行動するの！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nHmph! There, teams all set! I'm going\nwith Honey, and {p}'s\ngoing with Akira-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    4874
   ],
   "jp": "{s}\nここは\n「始まりの丘」って場所らしいわ\nお互い 目的を達成したら\n「始まりの丘」に集合ね！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nThis place is apparently called the\n\"Hill of Beginnings.\" Once we've each\ndone what we came for, we all meet\nback at the \"Hill of Beginnings\"!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    4875
   ],
   "jp": "{s}\nそれじゃ 行きましょ ハニー！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWell then, let's go, Honey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    4876
   ],
   "jp": "如月ハニー\nそれじゃ みんな\nまた後でね！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWell then, everyone, see you later!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    4877
   ],
   "jp": "不動明\n{p}君\n僕らも行こうか？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n{p}-kun, shall we go\ntoo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    4878
   ],
   "jp": "如月ハニー\n…ともかく 明らかなのは\nあたしはパパの呼ぶ右の道へ\n明君は了君の言っている 左の道へ\n行かなきゃならないことね",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n...Anyway, one thing's clear: I have to\ntake the right path, where Papa's\ncalling me, and Akira-kun has to take\nthe left path, like Ryo-kun said.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    4901
   ],
   "jp": "{p}\nこれじゃ 始まりの丘に\n戻れない…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAt this rate, we can't get back to the\nHill of Beginnings...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    4902
   ],
   "jp": "如月ハニー\n行けるところまで\n行ってみましょうよ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLet's go as far as we can.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    4903
   ],
   "jp": "早見青児\n自動車じゃ 無理だな\n仕方ない 歩こう！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nNo way the car'll make it. Oh well, let's\nwalk!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    4904
   ],
   "jp": "{p}\n…これじゃ ダメだ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...This is no good...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    4905
   ],
   "jp": "如月ハニー\nこっちに道があるわ\n行ってみましょうか？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThere's a road over here. Shall we try\nit?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    4906
   ],
   "jp": "{p}\nうん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    4907
   ],
   "jp": "如月ハニー\nねぇ ねぇ！\nこの道 さっきも通らなかった？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHey, hey! Didn't we come down this road\na minute ago?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    4908
   ],
   "jp": "{p}\nやっぱり？\n僕も そんな気がしてたんだ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou too? I had that feeling as well...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    4909
   ],
   "jp": "早見青児\nふぅ…\nいったい どうなってるんだろ？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nPhew... What on earth is going on?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    4910
   ],
   "jp": "謎の男\nまて！",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Man\nHalt!",
+  "status": "done",
   "notes": ""
  }
 ]

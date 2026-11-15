@@ -5,8 +5,8 @@
    4330
   ],
   "jp": "えん魔くん\nやったぜ！ これで\nマジンガーＺが城内に入れる！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nAll right! Now Mazinger Z can get into\nthe castle!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    4331
   ],
   "jp": "兜甲児\n城内に突入だ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nStorming the castle!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    4332
   ],
   "jp": "兜甲児\nしまった！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nOh no!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    4333
   ],
   "jp": "慎一\nふん どうりで\nあっさりいくと 思ったぜ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nHmph, figured it was going too easy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    4334
   ],
   "jp": "えん魔くん\nでも なんとかしないと\nまずいなぁ…！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nBut if we don't do something, we're in\ntrouble...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    4335
   ],
   "jp": "慎一\nしまった…！！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nDamn...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    4336
   ],
   "jp": "えん魔くん\nうわ～！！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nWhoaaa!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    4337
   ],
   "jp": "研究員\n大変です 弓教授！\n\nマジンガーＺが 敵に\n捕らえられて しまいました！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nIt's terrible, Professor Yumi!\n\nMazinger Z has been captured by the\nenemy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    4338
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    4339
   ],
   "jp": "弓教授\nそれで 攻撃隊は…！？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nAnd the assault team...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    4340
   ],
   "jp": "研究員\nそれが 攻撃隊との通信も\n途絶えてしまいました！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWe've lost contact with the assault\nteam too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    4341
   ],
   "jp": "{p}\nそんな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    4342
   ],
   "jp": "弓教授\n急いで 対策を\n考えなければならんな…\n厳しい状況だが 君は 決して\nここを出ては いかんぞ！\nみすみす 敵の術中に\nはまるような ものだからね",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nWe must think of a countermeasure\nquickly... It's a grim situation, but\nyou must not leave here under any\ncircumstances! It would be walking\nright into the enemy's trap.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    4343
   ],
   "jp": "弓教授\n厳しい状況だが 君は 決して\nここを出ては いかんぞ！\nみすみす 敵の術中に\nはまるような ものだからね",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nIt's a grim situation, but you must not\nleave here under any circumstances!\nIt would be walking right into the\nenemy's trap.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    4344
   ],
   "jp": "研究員\n暴徒達が 現れました！\n\nこのホテルに向かって\n進軍中です！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe rioters have appeared!\n\nThey're marching on this hotel!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    4345
   ],
   "jp": "弓教授\nとうとう来たか…\nハニー君！\n{p}君を 安全な場所に\n連れて行ってくれたまえ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nSo they've finally come... Honey-kun!\nTake {p}-kun\nsomewhere safe!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    4346
   ],
   "jp": "如月ハニー\n行きましょ {p}君！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLet's go, {p}-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    4347
   ],
   "jp": "{p}\nで でも…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nB-but...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    4348
   ],
   "jp": "如月ハニー\n行くのよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWe're going!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    4349
   ],
   "jp": "如月ハニー\nいいこと？ 決して この部屋から\n出てはダメよ！\nあたしは 弓教授のところへ戻るわ\n新しい情報が入ったら\n教えに来てあげるから\nいい子にしてるのよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nListen up! Don't you dare leave this\nroom! I'm going back to Professor\nYumi. When new information comes in, I'll\ncome tell you, so be a good boy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    4350
   ],
   "jp": "朱紗\nよし！\n敵の第一陣は 押さえたぞ！\nだが\n次が来ることは 間違いない！\nみんな 油断するな！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nAll right! We held off the enemy's first\nwave! But there's no doubt the next\none's coming! Don't let your guard\ndown, everyone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    4351
   ],
   "jp": "朱紗\n{p}！ こんなところで\n何をやってるんだ！\n君が魔王に奪われたら\n俺達の努力が 水の泡になる！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n{p}! What are you doing\nout here!? If the Demon King takes\nyou, all our efforts go down the drain!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    4352
   ],
   "jp": "{p}\n…ごめん",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Sorry.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    4353
   ],
   "jp": "如月ハニー\nダメよ！ 部屋に戻りなさい！！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNo! Go back to your room!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    4354
   ],
   "jp": "弓教授\n部屋に戻りなさい\n{p}君！\n戦況に変化があったら\n必ず 君に知らせるから！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nGo back to your room,\n{p}-kun! If anything\nchanges in the battle, I'll be sure to\ntell you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    4355
   ],
   "jp": "ガードマン\nやはり ここに来ましたね…",
-  "en": "",
-  "status": "",
+  "en": "Guard\nSo you came here after all...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    4356
   ],
   "jp": "{p}\nどうしてわかったの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHow did you know?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    4357
   ],
   "jp": "ガードマン\nさぁ…？\n\nそんなことより こっちへ…\nあなたに 渡すものがあります",
-  "en": "",
-  "status": "",
+  "en": "Guard\nWho can say...?\n\nNever mind that, come this way... I have\nsomething to give you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    4358
   ],
   "jp": "ガードマン\nこれは地下室の鍵です\n\n地下室の排水施設から\n科学都市の外に出られますよ…\nおいきなさい！\n始まりの丘へ！！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nThis is the key to the basement.\n\nThrough the basement's drainage\nsystem, you can get outside Science\nCity... Go! To the Hill of Beginnings!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    4359
   ],
   "jp": "ガードマン\n地下室の排水施設から\n科学都市の外に出られますよ…\nおいきなさい！\n始まりの丘へ！！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nThrough the basement's drainage\nsystem, you can get outside Science\nCity... Go! To the Hill of Beginnings!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    4360
   ],
   "jp": "{p}\nやっと出口を見つけたぞ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI finally found the exit!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    4361
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    4362
   ],
   "jp": "暴徒\nへへへっ… 魔王が おまえを\nお待ちかねだ！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nHeh heh heh... The Demon King's been\nwaiting for you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    4363
   ],
   "jp": "暴徒\nこれで 世界は元に戻る…！\n\n再生の太陽よ！\n我らと共に 始まりの丘へ！！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nNow the world will go back to how it\nwas...!\n\nSun of rebirth! Come with us to the Hill\nof Beginnings!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    4364
   ],
   "jp": "暴徒\n再生の太陽よ！\n我らと共に 始まりの丘へ！！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nSun of rebirth! Come with us to the Hill\nof Beginnings!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    4365
   ],
   "jp": "ガードマン\nどうしたのですか\n{p}？",
-  "en": "",
-  "status": "",
+  "en": "Guard\nWhat's the matter, {p}?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    4366
   ],
   "jp": "{p}\nガードマンさん！\nあれを見て！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGuard-san! Look at that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    4367
   ],
   "jp": "ガードマン\n…彼らは あなたを迎えに\n来たのです\n共に参りましょう\n魔王のもとへ！",
-  "en": "",
-  "status": "",
+  "en": "Guard\n...They've come to fetch you. Let us\ngo together, to the Demon King!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    4368
   ],
   "jp": "如月ハニー\nそうは させないわ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNot on my watch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    4369
   ],
   "jp": "{p}\nハニー！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    4370
   ],
   "jp": "如月ハニー\n手が やけるんだから\n{p}君は！\nもうちょっと しっかりなさい！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nYou're such a handful,\n{p}-kun! Get it\ntogether a little more!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    4371
   ],
   "jp": "ガードマン\n邪魔するか！？",
-  "en": "",
-  "status": "",
+  "en": "Guard\nYou'd interfere!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    4372
   ],
   "jp": "如月ハニー\nホント しょうがない子ね！\nさ 行くわよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHonestly, what a hopeless boy! Come\non, let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    4373
   ],
   "jp": "{p}\n行くって どこへ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGo? Where?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    4374
   ],
   "jp": "如月ハニー\n決まってるじゃない！\n始まりの丘よ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIsn't it obvious? The Hill of Beginnings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    4375
   ],
   "jp": "{p}\n…ハニー！！\nよぉ～し それじゃ行こう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Honey!! All riiight, let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    4376
   ],
   "jp": "早見青児\nお～い！\n待ってくれよぉ～！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHeeey! Wait for meee!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    4377
   ],
   "jp": "早見青児\n{p}\n置いてけぼりは ないぜ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\n{p}, no leaving me behind!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    4378
   ],
   "jp": "如月ハニー\nごめんね\n忘れてたわけじゃないのよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nSorry, it's not like we forgot you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    4379
   ],
   "jp": "{p}\nよぉ～し それじゃ行こう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAll riiight, let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    4380
   ],
   "jp": "早見青児\nラッキ～！\nこれ 我が社の 社用車だぜ！\nこの車で\n始まりの丘まで 行こう！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nLucky! This is my newspaper's company\ncar! Let's drive it to the Hill of\nBeginnings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    4381
   ],
   "jp": "如月ハニー\nなんか 幸先いいわね！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThat's a good omen!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    4382
   ],
   "jp": "{p}\nうん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    4383
   ],
   "jp": "如月ハニー\n…無気味な森ね",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n...What an eerie forest.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    4384
   ],
   "jp": "早見青児\nこんなに うすっ気味悪い森には\n来たことないよ…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nI've never been in a forest this\ncreepy...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    4385
   ],
   "jp": "{p}\nイヤな感じがするけど\nこの森を抜けて行くしかないね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt feels bad, but we've got no choice\nbut to go through this forest.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    4386
   ],
   "jp": "如月ハニー\nここは あたしの学校！\n聖チャペル学園よ！\nどうして\nこんなところに学校が！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThis is my school! St. Chapel Academy!\nWhy is my school in a place like this!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    4387
   ],
   "jp": "{p}\nハニー！ あれを見て！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney! Look at that!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    4388
   ],
   "jp": "暴徒\nあっはっはっは～！\n燃えろ 燃えろぉ！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nAhahahaha! Burn, buuurn!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    4389
   ],
   "jp": "暴徒\n魔王に逆らう者は 皆殺しだ！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nAnyone who defies the Demon King\ndies!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    4390
   ],
   "jp": "暴徒\n思い知るがいい！\n魔王の怒りを！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nFeel it! The Demon King's wrath!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    4391
   ],
   "jp": "早見青児\nあいつら なんてことを！\n止めなくちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWhat are they doing!? We've gotta\nstop them!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    4392
   ],
   "jp": "如月ハニー\n…夏ちゃん！\n夏ちゃんは どこ！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n...Natsu-chan! Where's Natsu-chan!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    4393
   ],
   "jp": "早見青児\nそうだ\n夏ちゃんを助けなくっちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nRight, we've gotta save Natsu-chan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    4394
   ],
   "jp": "如月ハニー\n夏ちゃん！\n夏ちゃん！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNatsu-chan! Natsu-chan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    4395
   ],
   "jp": "秋夏子\n…あぁ ハニー！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\n...Ah, Honey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    4396
   ],
   "jp": "早見青児\nおい！ 暴徒達が来るぞ！\n急いで逃げなきゃ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHey! The rioters are coming! We've\ngotta get out of here, fast!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    4397
   ],
   "jp": "ハニー\n夏ちゃん\nここでジッとしてるのよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey\nNatsu-chan, stay right here and keep\nstill!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    4398
   ],
   "jp": "秋夏子\nいいわ がんばって ハニー！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nOkay, go get 'em, Honey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    4399
   ],
   "jp": "{p}\n敵の数が 多過ぎるよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThere are too many of them!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    4400
   ],
   "jp": "早見青児\nこれまでか！？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nIs this the end!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    4401
   ],
   "jp": "ハニー\n{p}君… ごめんね\nあなたを守りきれなかったわ…",
-  "en": "",
-  "status": "",
+  "en": "Honey\n{p}-kun... I'm sorry. I\ncouldn't protect you all the way...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    4402
   ],
   "jp": "{p}\nハニー！\n何を言い出すんだい！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney! What are you saying!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    4403
   ],
   "jp": "ハニー\nいい？ 合図をしたら\n夏ちゃんを連れて逃げて！\nハニーは 自爆します！",
-  "en": "",
-  "status": "",
+  "en": "Honey\nListen. When I give the signal, take\nNatsu-chan and run! Honey is going\nto self-destruct!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    4404
   ],
   "jp": "{p}\nダメだよ ハニー！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo, Honey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    4405
   ],
   "jp": "早見青児\nそうだ ハニー！\nあきらめるな！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nThat's right, Honey! Don't give up!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    4406
   ],
   "jp": "ハニー\nごめんね 他に手がないの…\n\n青児君\n{p}君を お願いね…",
-  "en": "",
-  "status": "",
+  "en": "Honey\nI'm sorry, there's no other way...\n\nSeiji-kun, take care of\n{p}-kun for me...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    4407
   ],
   "jp": "秋夏子\nこっちよ！ 魔王の手先め\nあたしを つかまえてごらん！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nOver here! You lackeys of the Demon\nKing, catch me if you can!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    4408
   ],
   "jp": "ハニー\n夏ちゃん！？",
-  "en": "",
-  "status": "",
+  "en": "Honey\nNatsu-chan!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    4409
   ],
   "jp": "秋夏子\nこっち こっち～！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nOver here, over heeere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    4410
   ],
   "jp": "ハニー\n夏ちゃん！ いけない！",
-  "en": "",
-  "status": "",
+  "en": "Honey\nNatsu-chan! Don't!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    4411
   ],
   "jp": "暴徒\n見つけたぞ！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nFound her!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    4412
   ],
   "jp": "暴徒\n魔王に たてつく愚か者め！\n逃がすか！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nFool who defies the Demon King! You\nwon't get away!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    4413
   ],
   "jp": "秋夏子\nきゃ～～～～！！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nKYAAAAAAAA!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    4414
   ],
   "jp": "如月ハニー\n夏ちゃん！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNatsu-chan!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    4415
   ],
   "jp": "早見青児\nなんてことを…！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHow could they...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    4416
   ],
   "jp": "{p}\nおまえら 許さないぞ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI won't forgive you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    4417
   ],
   "jp": "如月ハニー\n夏ちゃん… ごめんね…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNatsu-chan... I'm sorry...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    4418
   ],
   "jp": "慎一\nここで考えていても しょうがない\nとにかく 始まりの丘へ行こう！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nNo use thinking about it here. Anyway,\nlet's go to the Hill of Beginnings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    4420
   ],
   "jp": "？？？\n…今のは あるべき世界の姿なの",
-  "en": "",
-  "status": "",
+  "en": "???\n...That was how the world is meant to\nbe.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    4421
   ],
   "jp": "{p}\nだ 誰！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-who's there!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    4422
   ],
   "jp": "如月ハニー\nあるべき世界の姿…って\nどういうことなの！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHow the world is meant to be... What do\nyou mean!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    4423
   ],
   "jp": "？？？\nあなたも 次元連鎖の\n被害者なのよ ハニー\nこの情景は あなたの世界で\nこれから起こる 出来事なの…",
-  "en": "",
-  "status": "",
+  "en": "???\nYou're a victim of the Dimension Chain\ntoo, Honey. What you just saw is\nsomething that is going to happen in\nyour world...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    4424
   ],
   "jp": "如月ハニー\nどういう意味！？\nどうして あたしの名前を！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWhat do you mean!? How do you know\nmy name!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    4425
   ],
   "jp": "？？？\n…………",
-  "en": "",
-  "status": "",
+  "en": "???\n...............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    4426
   ],
   "jp": "如月ハニー\n答えなさい！！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nAnswer me!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    4427
   ],
   "jp": "{p}\nもしかして…\n君は {s}！？\nそうだろ\n{s}なんだろ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nCould it be... you're {s}!?\nThat's it, right? You're\n{s}, aren't you!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    4428
   ],
   "jp": "如月ハニー\n違うわ\n{s}じゃないわよ\n{s}なら\nどうして 姿を現さないの！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNo. It isn't {s}. If it were\n{s}, why wouldn't she\nshow herself!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    4429
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    4430
   ],
   "jp": "如月ハニー\n夏ちゃん…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNatsu-chan...?",
+  "status": "done",
   "notes": ""
  }
 ]

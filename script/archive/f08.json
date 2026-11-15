@@ -5,8 +5,8 @@
    2108
   ],
   "jp": "えん魔くん\nおう！！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nYou got it!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    2109
   ],
   "jp": "子郎\n美雪さん！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nMiyuki-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    2110
   ],
   "jp": "美雪\n子郎君！",
-  "en": "",
-  "status": "",
+  "en": "Miyuki\nJiro-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    2111
   ],
   "jp": "えん魔くん\nひぇ～ アツアツだね！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nWhoo-hoo, you two lovebirds!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    2112
   ],
   "jp": "護鬼\nあのふたりは いずれ\n離れ離れになる運命なのです…",
-  "en": "",
-  "status": "",
+  "en": "Goki\nThose two are fated to be torn apart\nsomeday...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    2113
   ],
   "jp": "えん魔くん\nなんでさ！？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHow come!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    2114
   ],
   "jp": "護鬼\n時が来たら 童子は鬼獄界へ\n帰らなければ ならないのです\nそれが… 童子の運命なのです！",
-  "en": "",
-  "status": "",
+  "en": "Goki\nWhen the time comes, Doji must return\nto the Kigoku World. That... is Doji's\nfate!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    2115
   ],
   "jp": "{p}\nそんな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut that's...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    2116
   ],
   "jp": "美雪\n私も連れて行って…\n\n命なんかいらない！\nどんなに恐ろしい世界でもいい！\nもしも その時が来たら\n美雪も鬼獄界へ連れて行って！",
-  "en": "",
-  "status": "",
+  "en": "Miyuki\nTake me with you...\n\nI don't care about my life! I don't care\nhow terrible the world is! If that time\never comes, take me, Miyuki, to the\nKigoku World too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    2117
   ],
   "jp": "{p}\n美雪さん…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMiyuki-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    2118
   ],
   "jp": "子郎\n護鬼 俺は {p}と\n一緒に行こうと思う",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nGoki, I'm thinking of going with\n{p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    2119
   ],
   "jp": "護鬼\n童子 私もそれを提案しようと\n考えていました",
-  "en": "",
-  "status": "",
+  "en": "Goki\nDoji, I was about to suggest the same.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    2120
   ],
   "jp": "{p}\n実は… 僕もなんだ\n\n閻魔大王の言っていたとおり\n次元の異なる別世界は\n確かに存在するんだ\n鬼獄界のような世界がね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nActually... so am I.\n\nJust like Great King Enma said, other\nworlds in other dimensions really do\nexist. Worlds like the Kigoku World.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    2121
   ],
   "jp": "護鬼\nその鬼獄界に いずれ我々は\n帰らなければならない",
-  "en": "",
-  "status": "",
+  "en": "Goki\nAnd someday, we must return to that\nKigoku World.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    2122
   ],
   "jp": "えん魔くん\nそっか！\n子郎達と{p}って…！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nOh, I get it! Jiro's gang and\n{p}...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    2123
   ],
   "jp": "{p}\n同じような境遇なんだよ\n\nどうしてこの世界に現れたのか？\nどうやって元の世界に帰るのか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe're in the same boat.\n\nWhy did we show up in this world? How\ndo we get back to our own?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    2124
   ],
   "jp": "子郎\n本当は 鬼獄界へは 行きたくない\n…でも 行かなくちゃいけない",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThe truth is, I don't want to go to the\nKigoku World... But I have to.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    2125
   ],
   "jp": "美雪\n美雪 どこまでもついて行くわ……",
-  "en": "",
-  "status": "",
+  "en": "Miyuki\nI, Miyuki, will follow you anywhere...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    2128
   ],
   "jp": "えん魔くん\nともかく！ {p}と子郎が\n行動を共にすることで…\nお互いの謎を解けるんじゃないか？\nってことだな！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nAnyway! If {p} and Jiro\nteam up... maybe they can solve each\nother's mysteries? That's the idea!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    2129
   ],
   "jp": "子郎\nこうして出逢えたのも\n何か理由が あるのだと思う",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nI think there's a reason we met like\nthis.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    2130
   ],
   "jp": "護鬼\n鬼獄界を作った何者かの意志か…\nあるいは別の…",
-  "en": "",
-  "status": "",
+  "en": "Goki\nThe will of whoever created the Kigoku\nWorld... or perhaps something else...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    2131
   ],
   "jp": "{p}\n…別の？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Something else?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    2132
   ],
   "jp": "護鬼\nいや それすら 何も\n解らないのです…",
-  "en": "",
-  "status": "",
+  "en": "Goki\nNo... I know nothing even of that...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    2133
   ],
   "jp": "{p}\nでも その謎を\nすべて解かなきゃ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut we've got to solve every one of\nthose mysteries!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    2134
   ],
   "jp": "えん魔くん\nそのとおりだぜ {p}！\nさて 地獄別荘に帰るか！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nThat's the spirit, {p}!\nWell, let's head back to Hell Villa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    2135
   ],
   "jp": "子郎\n地獄別荘？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nHell Villa?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    2136
   ],
   "jp": "えん魔くん\n俺んちのことさ！\n\nふたりのための\n部屋を用意してやるよ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nIt's my place!\n\nI'll fix up a room for the two of you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    2137
   ],
   "jp": "鬼谷\nくっ…手天童子！\nこの戦い ひとまず あずけるぞ！",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nGrr... Shutendoji! We'll call this battle\na draw for now!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    2140
   ],
   "jp": "{s}\nなんか… 寝つけないなぁ…\n\nどうしてかしら？\n胸騒ぎがする…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nI just... can't get to sleep...\n\nWhy is that? I've got a bad feeling...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    2141
   ],
   "jp": "{s}\nキレイな月…\n\nいつになったら\n元の世界に戻れるんだろ…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWhat a pretty moon...\n\nWhen will we ever get back to our own\nworld...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    2142
   ],
   "jp": "{s}\n…！\n大変！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n...! Oh no!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    2143
   ],
   "jp": "{s}\n痛ッ！\nなに…！？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nOw! What...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    2144
   ],
   "jp": "？？？\nよくぞ 我が招きに応じた…",
-  "en": "",
-  "status": "",
+  "en": "???\nYou have answered my summons well...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    2145
   ],
   "jp": "{s}\nだ 誰！？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWh-who's there!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    2146
   ],
   "jp": "？？？\n我が何者か…\nいずれ知ることになる\nそなたは 我のモノとなり\nすべてを知るのだ…！",
-  "en": "",
-  "status": "",
+  "en": "???\nWho I am... you will learn in time. You\nshall become mine, and know\neverything...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    2147
   ],
   "jp": "{s}\nきゃ～！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nKyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    2148
   ],
   "jp": "{p}\n今の悲鳴は！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat was that scream!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    2149
   ],
   "jp": "如月ハニー\n{s}がいないわ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{s} is gone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    2150
   ],
   "jp": "{p}\nあ！ あそこに！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAh! Over there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    2151
   ],
   "jp": "如月ハニー\n大変！ 室内に運ばないと！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nOh no! We have to get her inside!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    2152
   ],
   "jp": "{p}\n黒い月！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe black moon!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    2153
   ],
   "jp": "えん魔くん\nどうしたんだ？\nあ 黒い月だ！？\nでもおかしいな\n地震は起きなかったよな…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nWhat's up? Whoa, the black moon!? But\nthat's weird, there wasn't any\nearthquake...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    2155
   ],
   "jp": "子郎\nもしかしたら 何か新たな展開が\n始まったのかもしれない",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nMaybe something new is starting.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    2156
   ],
   "jp": "{p}\n新たな展開…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomething new...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    2157
   ],
   "jp": "竜馬\nちょっと 何やってんの！？\n{s} 凄い熱だよ！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nHey, what are you doing!?\n{s} is burning up!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    2158
   ],
   "jp": "{p}\n今 行くよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm coming!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    2159
   ],
   "jp": "？？？\n…いずれ 我がモノに…",
-  "en": "",
-  "status": "",
+  "en": "???\n...In time, you shall be mine...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    2160
   ],
   "jp": "{p}\n{s}の容体はどう？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHow is {s} doing?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    2161
   ],
   "jp": "如月ハニー\n一晩たっても 熱は下がらないし\n眼も覚まさないわ…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nA whole night's passed and her fever\nhasn't gone down, and she won't\nwake up...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    2162
   ],
   "jp": "シャッポじい\n高熱の原因が\n解らんのジャ…",
-  "en": "",
-  "status": "",
+  "en": "Chapeau-jii\nI can't tell what's causing the high\nfever, jaja...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    2163
   ],
   "jp": "えん魔くん\n地獄界の医者じゃ 人間の病気は\n治せないしなぁ…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHell World doctors can't cure human\nsickness, either...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    2164
   ],
   "jp": "子郎\nやっぱり\n医療設備の整った場所で\n優秀な医者に 診て貰ったほうが\nいいんじゃないか？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWouldn't it be better to have a good\ndoctor look at her somewhere with\nproper medical equipment?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    2165
   ],
   "jp": "門土\n黒い月も まだ空に上がってるぜ\n\nもう とっくに\n夜は明けたと言うのに…",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nThe black moon's still up in the sky,\ntoo.\n\nAnd it's long past dawn...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    2166
   ],
   "jp": "えん魔くん\nな なんだ！？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nWh-what was that!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    2167
   ],
   "jp": "{p}\n何かが 落ちてくる…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomething's falling...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    2168
   ],
   "jp": "如月ハニー\nあれを見て！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLook at that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    2169
   ],
   "jp": "子郎\nこの近くに落ちたようだ！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nLooks like it came down near here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    2170
   ],
   "jp": "如月ハニー\n大変！ 助けに行かないと！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nOh no! We have to go help!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    2201
   ],
   "jp": "山岸\nなんだこりゃ？\nヘリコプターかな？",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nWhat the heck is this? A helicopter?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    2202
   ],
   "jp": "十兵衛\nこれに乗ってた人かしら？",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nWas somebody riding in it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    2203
   ],
   "jp": "{p}\nおい 君！\nしっかりしろ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHey, you! Hang in there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    2204
   ],
   "jp": "少年\nう う～ん…！",
-  "en": "",
-  "status": "",
+  "en": "Boy\nUhh... nnn...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    2205
   ],
   "jp": "少年\n…はっ！\nこ ここは…！？",
-  "en": "",
-  "status": "",
+  "en": "Boy\n...Huh! Wh-where am I...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    2206
   ],
   "jp": "{p}\nここは 京都の暗黒寺近くの森だよ\n僕は{p} 君の名前は？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou're in the forest near the Dark\nTemple in Kyoto. I'm {p}.\nWhat's your name?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    2207
   ],
   "jp": "少年\n兜… 甲児…\n\nそ… そうだ！ 黒い月！！\n\nガクッ…！！",
-  "en": "",
-  "status": "",
+  "en": "Boy\nKoji... Kabuto...\n\nTh-that's right! The black moon!!\n\n*Thud*...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    2208
   ],
   "jp": "{p}\n気絶しちゃった…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHe passed out...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    2209
   ],
   "jp": "山岸\n…おい いま 黒い月って\n言わなかったか？",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\n...Hey, didn't he just say \"black\nmoon\"?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    2210
   ],
   "jp": "十兵衛\nうん…",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nYeah...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    2211
   ],
   "jp": "{p}\nともかく 地獄別荘に運ぼう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAnyway, let's carry him to Hell Villa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    2212
   ],
   "jp": "如月ハニー\n兜甲児君が 眼を覚ましたわよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nKoji Kabuto-kun is awake!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    2213
   ],
   "jp": "{p}\n甲児君の様子は…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHow's Koji-kun doing...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    2214
   ],
   "jp": "如月ハニー\nそれが あの人も\n別の世界の人みたいよ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWell, it looks like he's from another\nworld too.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    2215
   ],
   "jp": "{p}\nやはり 黒い月に…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe black moon again...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    2216
   ],
   "jp": "如月ハニー\nそれっぽいわね\n\nここは あたしに任せて\n甲児君と話してらっしゃい",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nSeems that way.\n\nLeave things here to me. Go talk with\nKoji-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    2217
   ],
   "jp": "如月ハニー\nここはあたしに任せて\n甲児君と話してらっしゃい",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLeave things here to me. Go talk with\nKoji-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    2218
   ],
   "jp": "雪子姫\n{s}は\nまだ目を覚まさないわ…\n甲児君なら １階の和室で\nえん魔くんと お話してるわよ",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\n{s} still hasn't woken\nup... Koji-kun is talking with\nEnma-kun in the Japanese-style room\non the first floor.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    2219
   ],
   "jp": "雪子姫\n{s}は\nまだ目を覚まさないわ…",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\n{s} still hasn't woken\nup...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    2220
   ],
   "jp": "山岸\nあの機械\nパイルダー号っていうらしいぜ！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nHear that machine's called the Pilder!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    2221
   ],
   "jp": "袋小路\nちょっと乗ってみたいですね",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nI kinda wanna take it for a spin.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    2222
   ],
   "jp": "十兵衛\n兜甲児君…って\nきっと 操縦へたっぴなのよ！\nだって パイルダー\n墜落させちゃうんだもん！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nThat Koji Kabuto-kun must be a lousy\npilot! I mean, he crashed the Pilder!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    2223
   ],
   "jp": "雪子姫\nあら～ でも たった一人で\n戦うつもりだったんでしょ？\n男らしくって素敵だわ～！",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\nOh my, but he was going to fight all on\nhis own, wasn't he? How manly and\ndreamy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    2224
   ],
   "jp": "カパエル\nボクと どっちがエエオトコやろ？",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nWho's the better-lookin' fella, him or\nme, I wonder?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    2227
   ],
   "jp": "門土\nあいつの世界にはキカイジュウって\nヤツらが いるらしいぜ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nSeems his world's got these things\ncalled Mechanical Beasts.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    2228
   ],
   "jp": "竜馬\n巨大な機械の獣なんだって！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nThey're giant machine beasts,\napparently!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    2229
   ],
   "jp": "{p}\n機械獣…か",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMechanical Beasts, huh...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    2230
   ],
   "jp": "ジャック\n富士山麓に光子力研究所というのが\nあるそうだ\n関東地獄地震が起きた時\n富士山が噴火して\nあのあたりは 海に沈んだはず…",
-  "en": "",
-  "status": "",
+  "en": "Jack\nI hear there's a place called the\nPhoton Power Lab at the foot of Mt.\nFuji. When the Kanto Hellquake hit, Mt.\nFuji erupted, and that whole area\nshould have sunk into the sea...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    2231
   ],
   "jp": "子郎\n光子力研究所というところに\n弓教授という科学者がいるそうだよ",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nI hear there's a scientist named\nProfessor Yumi at a place called the\nPhoton Power Laboratory.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    2232
   ],
   "jp": "美雪\n弓教授に頼めば {s}の\n病気が 治るかもしれないわ！",
-  "en": "",
-  "status": "",
+  "en": "Miyuki\nIf we ask Professor Yumi, maybe he\ncan cure {s}'s illness!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    2233
   ],
   "jp": "護鬼\nこの世の他には 鬼獄界以外\n世界など ないと思ってました",
-  "en": "",
-  "status": "",
+  "en": "Goki\nI believed there was no world beyond\nthis one but the Kigoku World.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    2234
   ],
   "jp": "戦鬼\n俺は使命を果たすだけ…\nそれ以外に関心は無い…！！",
-  "en": "",
-  "status": "",
+  "en": "Senki\nI simply fulfill my mission... Nothing else\nconcerns me...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    2240
   ],
   "jp": "兜甲児\n君か…\n助けてくれてありがとう",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nSo it was you... Thanks for saving me.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    2241
   ],
   "jp": "えん魔くん\nだいたいのことは説明しておいたよ",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nI filled him in on most of it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    2242
   ],
   "jp": "兜甲児\n黒い月が現れると 世界が\n繋がってしまうんだって？\n俺は てっきり\n敵の新兵器かと 思ったよ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nSo when a black moon shows up, worlds\nget connected? I was sure it was\nsome new enemy weapon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    2243
   ],
   "jp": "兜甲児\n機械獣軍団を率いるドクター・ヘル\nは 世界征服を目論んでいる\n俺は おじいちゃんが作った\n巨大ロボット・マジンガーＺで\n機械獣軍団と 戦っているんだ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nDr. Hell leads an army of Mechanical\nBeasts and is plotting to take over\nthe world. I fight his Mechanical Beast\narmy with the giant robot my grandpa\nbuilt: Mazinger Z.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    2244
   ],
   "jp": "{p}\nマジンガーＺ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMazinger Z?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    2245
   ],
   "jp": "兜甲児\n光子力研究所で 修理中なんだ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nIt's being repaired at the Photon\nPower Lab.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    2246
   ],
   "jp": "えん魔くん\nそこには すっげ～科学者が\nいるらしいぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nI hear there's an awesome scientist\nthere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    2247
   ],
   "jp": "兜甲児\n弓教授のことだね\nおじいちゃんの弟子だった人さ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nYou mean Professor Yumi. He was my\ngrandpa's apprentice.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    2248
   ],
   "jp": "{p}\n光子力研究所に行けば\nその弓教授にも 逢えるの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIf we go to the Photon Power Lab, can\nwe meet this Professor Yumi?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    2249
   ],
   "jp": "兜甲児\n教授は今 研究所には いないんだ\n\n世界屈指の科学者達が集まる\n研究会に 出席してるんだよ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nThe professor's not at the lab right\nnow.\n\nHe's attending a conference of the\nworld's top scientists.",
+  "status": "done",
   "notes": ""
  }
 ]

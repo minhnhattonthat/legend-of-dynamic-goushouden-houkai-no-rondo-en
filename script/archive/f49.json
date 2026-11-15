@@ -5,8 +5,8 @@
    11175
   ],
   "jp": "{p}\nふざけるな！\n\n僕は… 僕は そんなの\n絶対認めないぞ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDon't mess with me!\n\nI... I'll never accept that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    11176
   ],
   "jp": "？？？\n………",
-  "en": "",
-  "status": "",
+  "en": "???\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    11177
   ],
   "jp": "{p}\n{s}～！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    11180
   ],
   "jp": "早乙女博士\n朱紗君 大変だ！\n{p}君がいない！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nShusha-kun, it's terrible!\n{p}-kun is gone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    11181
   ],
   "jp": "早乙女博士\n明君と了君の姿も見当たらん！\n\nもしかしたら どこからか\n抜け出したのかもしれん",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nAkira-kun and Ryo-kun are nowhere\nto be seen either!\n\nThey may have slipped out from\nsomewhere.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    11182
   ],
   "jp": "早乙女博士\nそうしてくれるか！\n…しかし 間に合うかな？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWould you!? ...But will you make it in\ntime?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    11183
   ],
   "jp": "早乙女博士\n閻魔大王 ありがとう！\nこれで戦局を立て直せる！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThank you, Great King Enma! Now we\ncan turn the battle around!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    11184
   ],
   "jp": "早乙女博士\nうむ！\n朱紗君 後は任せたぞ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGood! Shusha-kun, I'm leaving the rest\nto you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    11185
   ],
   "jp": "慎一\nはっ！ あいつらしいじゃねぇか\n\nよし！\n俺達は ゲッターロボを助ける\n朱紗 おまえは{p}を\n探してくれ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nHa! That's just like him.\n\nAll right! We'll rescue Getter Robo.\nShusha, you go find\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    11186
   ],
   "jp": "早乙女博士\n閻魔大王 ありがとう！\nこれで 戦局を立て直せる！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThank you, Great King Enma! Now we\ncan turn the battle around!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    11187
   ],
   "jp": "早乙女博士\n今は 少しでも\n戦力が多いほうがよい\n朱紗君\n私も いっしょに行こう",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nRight now, the more fighters the\nbetter. Shusha-kun, I'll come with\nyou.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    11190
   ],
   "jp": "{p}\nあれ なんだと思う？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat do you think that is?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    11191
   ],
   "jp": "不動明\n光が射し込んでるみたいだな…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLooks like light shining in...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    11192
   ],
   "jp": "{p}\nか 身体が浮き上がる！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nM-my body's floating up!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    11193
   ],
   "jp": "{p}\nうわ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    11194
   ],
   "jp": "不動明\nうお～！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhoooa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    11195
   ],
   "jp": "飛鳥了\n…！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    11196
   ],
   "jp": "朱紗\n{p}…？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n{p}...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    11197
   ],
   "jp": "{p}\nあれ 朱紗君…？\nここ…どこ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh, Shusha-kun...? Where... are we?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    11198
   ],
   "jp": "朱紗\n始まりの丘に作られた城の中さ！\n助けに来たんだよ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nInside the castle built on the Hill of\nBeginnings! We came to rescue you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    11199
   ],
   "jp": "不動明\nそれじゃ 俺達…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThen we're...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    11200
   ],
   "jp": "飛鳥了\nあそこから出られたのか！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nOut of that place!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    11201
   ],
   "jp": "不動明\n黒い月！？\n{p} 用心しろ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nA black moon!? {p},\nwatch yourself!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    11202
   ],
   "jp": "朱紗\n光の中から出るんだ\n{p}君！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nGet out of the light,\n{p}-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    11203
   ],
   "jp": "不動明\nダメだ！\nうんともすんとも言わない！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nNo good! It won't make a peep!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    11204
   ],
   "jp": "飛鳥了\nあれから随分時間がたったな…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nA lot of time has passed since then...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    11205
   ],
   "jp": "慎一\nこれでゲッターロボは\n解放されるはずだ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nThat should free Getter Robo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    11206
   ],
   "jp": "リョウ\nやったぜ！\n動けるぞ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nAll right! I can move!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    11207
   ],
   "jp": "隼人\nリョウ！\n来やがったぜ！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nRyo! Here they come!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    11208
   ],
   "jp": "武蔵\n今度こそ\nガタガタにしてやれぃ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nThis time, shake 'em to pieces!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    11209
   ],
   "jp": "隼人\nリョウ！ 空だ！\nあれを見ろ！！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nRyo! The sky! Look at that!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    11210
   ],
   "jp": "武蔵\nげげっ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nYikes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    11211
   ],
   "jp": "リョウ\n月が！？\nとうとう 出やがったか…",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nThe moon!? So it's finally come out...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    11220
   ],
   "jp": "不動明\n{p} 無事か！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n{p}, are you okay!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    11221
   ],
   "jp": "{p}\n明君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    11222
   ],
   "jp": "飛鳥了\n安心しろ 無事だ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nRelax, he's fine!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    11223
   ],
   "jp": "{p}\n明君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    11224
   ],
   "jp": "不動明\n待たせたな {p}！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nSorry to keep you waiting,\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    11225
   ],
   "jp": "{p}\n明君 どうやってここへ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun, how did you get here?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    11226
   ],
   "jp": "不動明\n慎一が おまえ達の行き場所を\n予知したんだ\nそして朱紗真悟が ここまで\nテレポートさせてくれたのさ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nShinichi foresaw where you'd gone.\nAnd Shingo Shusha teleported us\nhere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    11227
   ],
   "jp": "{p}\nそれじゃ ここは元の世界じゃ\nないんだね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo this isn't our own world after all!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    11228
   ],
   "jp": "不動明\n魔王の作ったツギハギの世界だ！\n\n魔王よ！ 俺は 貴様と戦わずには\nいられない！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nIt's a patchwork world the Demon King\nmade!\n\nDemon King! I can't help but fight you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    11229
   ],
   "jp": "{p}\n{s}！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    11230
   ],
   "jp": "不動明\n美樹が いたからこそ\n俺は人間の心を失わずにいられた\nだが その美樹も もういない…\n\nおまえの気持ち イヤというほど\nよく解るぜ {p}…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nIt was because Miki was there that I\ndidn't lose my human heart. But now\nMiki's gone too...\n\nI know exactly how you feel, way too\nwell, {p}...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    11231
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    11300
   ],
   "jp": "不動明\n魔王が作ったツギハギの世界から？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nFrom the patchwork world the Demon\nKing made?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    11301
   ],
   "jp": "不動明\n本来の運命か…\nだが既に美樹は…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nOur true fate, huh... But Miki's\nalready...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    11302
   ],
   "jp": "不動明\nホントか！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nReally!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    11303
   ],
   "jp": "菊の助\n………",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    11304
   ],
   "jp": "{p}\n菊の助 どうしたの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat's wrong, Kikunosuke?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    11305
   ],
   "jp": "菊の助\nえへ 別れの時が来たと思ったら\n寂しくなっちゃった！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nHeh, I just got lonely, thinking it's time\nto say goodbye!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    11306
   ],
   "jp": "{p}\n菊の助…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nKikunosuke...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    11307
   ],
   "jp": "菊の助\n{p} 楽しかったぜ！\nまたな！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\n{p}, it was a blast! See\nya!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    11308
   ],
   "jp": "{p}\nうん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    11309
   ],
   "jp": "駄ヱ門\nおぬし なかなかやるのう！\n\n困ったことがあったら いつでも\nあばしり一家に相談してくれ！",
-  "en": "",
-  "status": "",
+  "en": "Daemon\nYou're not half bad, kid!\n\nIf you're ever in a jam, come to the\nAbashiri Family anytime!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    11310
   ],
   "jp": "五ヱ門\nもう１度 会いたいのよねー！",
-  "en": "",
-  "status": "",
+  "en": "Goemon\nI'd love to see you again, sweetie!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    11311
   ],
   "jp": "直次郎\nまた一緒に暴れようぜ\nがははは！",
-  "en": "",
-  "status": "",
+  "en": "Naojiro\nLet's cut loose together again!\nGahahaha!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    11312
   ],
   "jp": "吉三\n吉三のこと 忘れんなよな！",
-  "en": "",
-  "status": "",
+  "en": "Kichiza\nDon't you forget Kichiza!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    11313
   ],
   "jp": "{p}\nあんな家族 僕も欲しいな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'd like a family like that too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    11314
   ],
   "jp": "リョウ\n今度 空手を教えてやるよ！\n男は強くなくちゃな！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nI'll teach you karate sometime! A man's\ngotta be strong!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    11315
   ],
   "jp": "武蔵\n柔道も いいぜ！\n大雪山おろし 伝授してやるぞ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nJudo's good too! I'll teach ya the\nGreat Snow Mountain Drop!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    11316
   ],
   "jp": "{p}\nうん！ お手やわらかにね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah! Go easy on me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    11317
   ],
   "jp": "隼人\nふたりと付き合うのは ほどほどに\nしておいたほうがいいぜ\n脳みそまで筋肉になっちまうぞ",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nBetter not spend too much time with\nthese two. Your brain'll turn into\nmuscle.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    11318
   ],
   "jp": "リョウ\nハヤト！ てめぇ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nHayato! Why you...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    11319
   ],
   "jp": "武蔵\nそれは言い過ぎだ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nThat's goin' too far!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    11320
   ],
   "jp": "{p}\nみんな いつまでも仲良くね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nStay good friends forever, everyone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    11321
   ],
   "jp": "{p}\n僕も いつか\nゲッターチームに入りたいな！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomeday I want to join the Getter Team\ntoo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    11322
   ],
   "jp": "逞馬竜\n俺 なんか いろんなことを\n学んだような気がするよ\n震災砦の仲間達がいれば\n大人の暴力なんて 恐くない！",
-  "en": "",
-  "status": "",
+  "en": "Ryu Takuma\nI feel like I learned a lot of things. As\nlong as I've got my friends at the\nQuake Fort, I'm not scared of\ngrown-ups' violence!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    11323
   ],
   "jp": "{p}\nいい仲間達だもんね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThey're great friends!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    11324
   ],
   "jp": "逞馬竜\nいつか俺は 関東を平和で安心して\n暮らせる場所にするんだ\n大人も子供も関係なく\n仲良く暮らせる場所にね！",
-  "en": "",
-  "status": "",
+  "en": "Ryu Takuma\nSomeday I'm gonna make Kanto a place\nwhere people can live in peace and\nsafety. A place where grown-ups and\nkids alike can live together as\nfriends!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    11325
   ],
   "jp": "ジャック\n…はたして そう うまくいくかな？",
-  "en": "",
-  "status": "",
+  "en": "Jack\n...I wonder if it'll go that well.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    11326
   ],
   "jp": "{p}\nいくとも！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt will!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    11327
   ],
   "jp": "逞馬竜\n見てろよ ジャック！",
-  "en": "",
-  "status": "",
+  "en": "Ryu Takuma\nJust watch, Jack!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    11328
   ],
   "jp": "{p}\n逞馬竜！\n君なら きっとやれるよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRyu Takuma! I know you can do it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    11329
   ],
   "jp": "ハニー\n初めて逢った時に比べて\nあなた たくましくなったわね",
-  "en": "",
-  "status": "",
+  "en": "Honey\nYou've grown so much stronger since\nwe first met.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    11330
   ],
   "jp": "{p}\nえ そ そうかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh? R-really?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    11331
   ],
   "jp": "ハニー\nもしも 同じようなことが\n起こったとしたら\n今度は君と一緒に行ってみたいな",
-  "en": "",
-  "status": "",
+  "en": "Honey\nIf something like this ever happens\nagain, I'd like to go with you next\ntime.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    11332
   ],
   "jp": "早見青児\nでも 俺は こんなの\n２度とごめんだぜ？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nBut I've had enough of this kind of\nthing!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    11333
   ],
   "jp": "ハニー\nそれもそうね！",
-  "en": "",
-  "status": "",
+  "en": "Honey\nFair enough!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    11334
   ],
   "jp": "{p}\nハニー 素敵な人だったな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney was such a wonderful person...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    11335
   ],
   "jp": "不動明\nとうとう\n俺達だけになっちまったな",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLooks like it's finally just us.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    11336
   ],
   "jp": "飛鳥了\n………",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    11337
   ],
   "jp": "{p}\n明君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    11338
   ],
   "jp": "不動明\n俺は人類を… いや 美樹を守るため\nデビルマンになった\nだが結局 美樹を失ってしまった\n\nそしておまえも\n{s}を失った…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI became Devilman to protect mankind...\nno, to protect Miki. But in the end, I\nlost Miki.\n\nAnd you lost {s} too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    11339
   ],
   "jp": "飛鳥了\nまだ そうと決まったわけじゃない",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nThat's not certain yet.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    11340
   ],
   "jp": "飛鳥了\n慎一が言っていただろ？\n\n世界が修復を始めている…って\n真理阿が告げていると",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nDidn't Shinichi say so?\n\nThat Maria's telling him the world has\nstarted to repair itself.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    11341
   ],
   "jp": "不動明\nそうか！ もとの世界に戻ったら\n美樹ちゃんが…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThat's right! When we go back to our\nworld, Miki-chan might...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    11342
   ],
   "jp": "{p}\n生きてるかも？\nいや きっと無事だよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBe alive? No, I'm sure she's safe!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    11343
   ],
   "jp": "不動明\n希望が見えてきたな！\n\n{s}だって\nきっと無事だぜ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThere's hope after all!\n\nI bet {s}'s safe too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    11344
   ],
   "jp": "{p}\nそうだね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    11345
   ],
   "jp": "不動明\n{p}！\nおまえは俺の親友だ！\nこの了と同じくな！\nそれを決して忘れるなよ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n{p}! You're my best\nfriend! Same as Ryo here! Don't you\never forget it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    11346
   ],
   "jp": "{p}\nありがとう 明君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThanks, Akira-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    11350
   ],
   "jp": "不動明\nここは 牧村家？\n\n了？\nおい どこだ？\n…いない",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThis is... the Makimura house?\n\nRyo? Hey, where are you? ...He's not\nhere.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    11351
   ],
   "jp": "タレちゃん\nうわ～ん！",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nWaaah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    11352
   ],
   "jp": "美樹\nこら！\n待ちなさい！",
-  "en": "",
-  "status": "",
+  "en": "Miki\nHey! Get back here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    11353
   ],
   "jp": "不動明\n美樹！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMiki!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    11354
   ],
   "jp": "美樹\nあら 明君\nおかえりなさい！\nタレちゃん 捕まえるの\n手伝ってよ！",
-  "en": "",
-  "status": "",
+  "en": "Miki\nOh, Akira-kun, welcome home! Help me\ncatch Tare-chan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    11355
   ],
   "jp": "不動明\nいったい どうして…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHow on earth...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    11356
   ],
   "jp": "美樹\nタレちゃんたら\nまた おねしょしたのよ！",
-  "en": "",
-  "status": "",
+  "en": "Miki\nTare-chan wet the bed again!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    11357
   ],
   "jp": "タレちゃん\nだって！ 明兄ちゃんが 悪魔に\n変身する夢を見たんだもん！",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nBut! I dreamed big bro Akira turned into\na devil!",
+  "status": "done",
   "notes": ""
  }
 ]

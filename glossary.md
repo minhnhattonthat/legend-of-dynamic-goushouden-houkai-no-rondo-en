@@ -120,7 +120,27 @@ alternatives) and no Avoid spelling. Name tags (speaker lines) come from `tools/
 | シャフト博士 | Dr. Shaft | | | |
 | 悪馬尻 | Abashiri | | the Abashiri family | |
 | アソート | party | | "joined the party" | |
-| 状態異常 | ailment | | Stone/Freeze/Charm/Confuse/Blind/Poison/Curse; 戦闘不能 KO | || 悪魔 | demon / devil | | | |
+| 状態異常 | ailment | | Stone/Freeze/Charm/Confuse/Blind/Poison/Curse; 戦闘不能 KO | |
+| 悪魔 | demon / devil | | | |
+| 鬼獄界 | Kigoku World | | Shutendoji's world of oni | |
+| 鬼仏衆 | Kibutsu Clan | | oni descendants hunting Jiro | |
+| 次元牢獄 | Dimension Prison | | | |
+| 破壊の月 | Moon of destruction | | {s}'s role for Grade; keep the quotes the JP has | |
+| 再生の太陽 | Sun of rebirth | | {p}'s role for Grade | |
+| 予知一族 | Precog Clan | | Herai Village prophets (Maria) | |
+| 妖怪パトロール | Yokai Patrol | | Enma-kun's team | |
+| 地獄門 | Hell Gate | | | |
+| 不死団 | Immortal Corps | | Susano-oh's psychic radicals | |
+| 黒い魔物 | black fiend | | the revived "Ma" remains | |
+| 九龍 | Kuryu | | Kuryu Valley / Kuryu Castle (Miroku) | |
+| 真田忍者 | Sanada ninja | | | |
 
 ## Decisions from earlier batches
-- (none yet)
+- 魔王 alone = the Demon King (Grade). 魔王ダンテ = Demon Lord Dante (keeps the two apart).
+- 魔 (Susano-oh's evil energy) = "Ma" in quotes where the JP has 「魔」.
+- 家早 / 果扨 families (Iyahaya Nanyu): Nanyu Iyahaya, Sayoko Iyahaya; Doshita / Nijija Hatesa. Nanyu's tic
+  イヤハヤ なんとも stays romanised ("Iyahaya... nantomo...") because it is his name pun.
+- 女蛮子 = Banji Suke ("Sukeban"; he introduces himself as 姓はスケ 名はバンジ); 蛮千代 = Banchiyo Suke.
+- 身堂竜馬 = Ryoma Shindo (matches the name tag). 鬼谷 = Onitani in dialogue (name tag), item/enemy data has Kitani.
+- Go Nagai cameo keeps his でガス tic as ", gasu"; Chapeau-jii's ジャジャ as ", jaja".
+- ハチの巣入道 = Beehive Nyudo in dialogue (name tag); the 9-char enemy field abbreviates it.

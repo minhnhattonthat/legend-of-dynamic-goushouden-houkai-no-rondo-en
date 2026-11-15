@@ -5,8 +5,8 @@
    3714
   ],
   "jp": "{p}\n…！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    3715
   ],
   "jp": "{p}\nやめてくれ…\nやめるんだ {s}！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nStop it... Stop, {s}!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    3716
   ],
   "jp": "{p}\n{s}！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    3717
   ],
   "jp": "{s}\n…逃げて {p}…",
-  "en": "",
-  "status": "",
+  "en": "{s}\n...Run, {p}...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    3718
   ],
   "jp": "{p}\n{s}！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    3719
   ],
   "jp": "黒い魔物\nグオオオオオオ…！",
-  "en": "",
-  "status": "",
+  "en": "Black Fiend\nGUOOOOOOOH...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    3720
   ],
   "jp": "{p}\nくるな…！ くるなぁ～！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nStay back...! Stay baaack!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    3721
   ],
   "jp": "{p}\nイヤだ イヤだ…！\n誰か…！\nハッ…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo, no...! Somebody...! Huh...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    3722
   ],
   "jp": "？？？\n…聞こえるか？\n我が声が聞こえるか…？",
-  "en": "",
-  "status": "",
+  "en": "???\n...Can you hear me? Can you hear my\nvoice...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    3723
   ],
   "jp": "{p}\nだ 誰だ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-who's there?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    3724
   ],
   "jp": "グレイド\n我はグレイド…\nそして無数の名を我は持つ者…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nI am Grade... One who bears countless\nnames...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    3725
   ],
   "jp": "{p}\nグレイド…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGrade...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    3726
   ],
   "jp": "グレイド\n「破壊の月」と「つがい」を\nなす者よ 聞くがよい…\nおまえは「再生の太陽」…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nYou who form a \"pair\" with the \"Moon\nof destruction,\" hear me... You are\nthe \"Sun of rebirth\"...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    3727
   ],
   "jp": "{p}\n破壊の月？\n再生の太陽？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Moon of destruction? The Sun of\nrebirth?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    3728
   ],
   "jp": "グレイド\n知りたくば 教えよう…\n\nおまえを我が元へいざない\nすべてを ひとつに…\nあらゆる 苦しみや 憎しみ\n悲しみから 解放される世界…\n我と来るなら おまえを すべてから\n解き放ってやろう…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nIf you wish to know, I shall tell you...\n\nI shall draw you to me, and make all\nthings one... A world freed from\nevery pain, hatred and sorrow... Come\nwith me, and I shall free you from\neverything...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    3729
   ],
   "jp": "{p}\nすべての苦しみから…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nFrom every pain...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    3730
   ],
   "jp": "グレイド\n来るが良い 我が元に…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nCome to me...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    3731
   ],
   "jp": "{p}\n僕を… 連れて行ってくれるのか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou'll... take me with you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    3732
   ],
   "jp": "如月ハニー\nダメよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    3740
   ],
   "jp": "{p}\nハッ…？\nうわ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh...? Whoaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    3741
   ],
   "jp": "如月ハニー\n良かった 気がついたわね！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThank goodness, you've come to!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    3742
   ],
   "jp": "慎一\nおまえは 黒い物体に\n飲み込まれちまったんだ",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nYou got swallowed up by a black thing.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    3743
   ],
   "jp": "朱紗\n俺達 ふたりじゃ\nどうしようもなかったけど\nちょうどハニーが 来てくれたんだ",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThe two of us couldn't do anything,\nbut Honey showed up just in time.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    3744
   ],
   "jp": "{p}\nありがとう ハニー",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThanks, Honey.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    3745
   ],
   "jp": "如月ハニー\nあなた 黒い物体に包まれながら\n\n「連れて行って」なんて言ってる\nから ビックリしちゃったわ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nYou were wrapped up in that black\nthing,\n\nsaying \"take me with you,\" so I got a\nreal shock.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    3746
   ],
   "jp": "{p}\n僕が…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI said that...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    3747
   ],
   "jp": "慎一\n覚えてないのか？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nYou don't remember?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    3748
   ],
   "jp": "{p}\nうん…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    3749
   ],
   "jp": "{p}\n{s}は…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhere's {s}...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    3750
   ],
   "jp": "慎一\n…………",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    3751
   ],
   "jp": "朱紗\n…………",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    3752
   ],
   "jp": "{p}\n…そんな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...No...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    3753
   ],
   "jp": "如月ハニー\n{p}君…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{p}-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    3754
   ],
   "jp": "如月ハニー\nきゃっ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nEek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    3755
   ],
   "jp": "{p}\nハニー！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    3756
   ],
   "jp": "如月ハニー\n…………",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    3757
   ],
   "jp": "{p}\nあの姿…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat shape...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    3758
   ],
   "jp": "朱紗\nどうした {p}君？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nWhat is it, {p}-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    3759
   ],
   "jp": "{p}\n黒い物体に包まれた時 あいつ\nそっくりのヤツと会ったんだ！\n魔王…グレイド…\nアイツが すべての黒幕だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhen the black thing swallowed me, I\nmet someone who looked just like\nthat! The Demon King... Grade... He's\nthe one behind everything!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    3760
   ],
   "jp": "グレイド\nグググ… ゴゴゴ…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nGrrr... Rumble...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    3761
   ],
   "jp": "グレイド\nま まだ… 時が満たぬ…\n我が力は… 弱い…\nまもなく訪れる結合の時…\nその時 我は更なる力を得て…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nN-not yet... The time is not yet ripe...\nMy power... is weak... Soon will come\nthe time of joining... Then I shall gain\nstill greater power...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    3762
   ],
   "jp": "グレイド\nそなたは我がモノとなり…\n我が野望は実現する…",
-  "en": "",
-  "status": "",
+  "en": "Grade\nYou shall become mine... and my\nambition shall be realized...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    3763
   ],
   "jp": "如月ハニー\nう～ん…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nUhh... nnn...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    3764
   ],
   "jp": "{p}\n良かった！\n気がついたね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank goodness! You've come to!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    3765
   ],
   "jp": "如月ハニー\n{p}君を助けたつもりが\n助けられちゃったみたいね…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI meant to rescue you,\n{p}-kun, but it looks\nlike you rescued me...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    3766
   ],
   "jp": "{p}\nまだ 助けなくちゃならない人が\nいるんだ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThere's still someone I have to\nrescue...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    3801
   ],
   "jp": "{p}\n弓教授！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nProfessor Yumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    3802
   ],
   "jp": "弓教授\nおぉ {p}君！\n大変だったね 話は聞いたよ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nAh, {p}-kun! You've been\nthrough a lot. I heard all about it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    3803
   ],
   "jp": "早見青児\nいや～ ひどいもんだよ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nMan, what a mess out there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    3804
   ],
   "jp": "兜甲児\n地上は あちこち暴徒だらけだよ\n\nホバーパイルダーがあって\n良かったよ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nThere are rioters all over the ground.\n\nGood thing I had the Hover Pilder.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    3805
   ],
   "jp": "如月ハニー\n外は… そんなに酷いの？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIs it... that bad outside?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    3806
   ],
   "jp": "兜甲児\nあんまり{p}君には\n見せたくないが…\n窓の外を見てごらん",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nI'd rather not show you this,\n{p}-kun... but take a\nlook out the window.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    3807
   ],
   "jp": "暴徒\n{p}を魔王に差し出せ～！\n次元連鎖は それで収まるんだ～！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nHand {p} over to the\nDemon King! That'll stop the\nDimension Chain!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    3808
   ],
   "jp": "暴徒\n魔王が すべてを\n解決してくれるのだぁ～！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nThe Demon King will make everything\nright!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    3809
   ],
   "jp": "暴徒\n{p}を出せ！\n{p}を出せ！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nGive us {p}! Give us\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    3810
   ],
   "jp": "{p}\n…なんてことだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...This is terrible.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    3811
   ],
   "jp": "弓教授\n事態は 予断を許さない\n\n不安に駆られた人々が\n暴徒化している\n状況を急いで整理し\n分析する必要がある",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe situation could go either way.\n\nPeople driven by fear are turning into\na mob. We need to sort out and\nanalyze the situation, quickly.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    3812
   ],
   "jp": "弓教授\nにわかには信じられんことが\n続発したようだね",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nIt seems one unbelievable thing after\nanother has been happening.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    3813
   ],
   "jp": "早見青児\n科学都市に来た時には\n俺達も我が目を疑ったもんな…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWhen we got to Science City, we\ncouldn't believe our eyes either...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    3814
   ],
   "jp": "如月ハニー\n何が起こったの？\nみんなは 無事かしら？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWhat's happened? Is everyone okay?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    3815
   ],
   "jp": "早見青児\n最新の設備と 人材を揃えた\n科学都市が… まるで廃墟だ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nScience City, with all its latest\nequipment and top people... it's like a\nruin!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    3816
   ],
   "jp": "如月ハニー\n夏ちゃんを おじ様に\n送って貰って 良かったわ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI'm glad I had your father take\nNatsu-chan home.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    3817
   ],
   "jp": "早見青児\n神経の細い 夏子ちゃんには\n見せたくない光景だね…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nNot a sight I'd want sensitive little\nNatsuko-chan to see...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    3818
   ],
   "jp": "如月ハニー\n見て 青児君！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLook, Seiji-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    3819
   ],
   "jp": "作業員\nひ ひ ひぃ～！",
-  "en": "",
-  "status": "",
+  "en": "Worker\nEeeeeek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    3820
   ],
   "jp": "如月ハニー\n大変！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nOh no!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    3821
   ],
   "jp": "作業員\n…仰せのままに",
-  "en": "",
-  "status": "",
+  "en": "Worker\n...As you command.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    3822
   ],
   "jp": "如月ハニー\nはっ！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHuh!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    3823
   ],
   "jp": "如月ハニー\nきゃ～！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nKyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    3824
   ],
   "jp": "如月ハニー\nなんなの この黒いの！？\n\nいや～ん\nなんか 気持ちわる～い！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWhat IS this black thing!?\n\nEww, it's so creepy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    3825
   ],
   "jp": "早見青児\nあちこちに 黒いのがいるぜ",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nThere's black things all over the\nplace.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    3826
   ],
   "jp": "如月ハニー\n人々が 黒い物体に\n操られている…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThe people are being controlled by\nblack things...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    3827
   ],
   "jp": "如月ハニー\n…とゆ～わけで\n操られた人達を 尾行したら\n{p}君が 大変な目に\nあってる現場に遭遇…ってわけ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n...And so, we tailed the people being\ncontrolled and stumbled right onto\nthe scene of {p}-kun in\nbig trouble!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    3828
   ],
   "jp": "弓教授\n黒い物体に操られた人々は\n\n何者かの声を 聞いたと\n言っているそうだね？\nその人達から\n話を聞いてみようと思う",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe people controlled by the black\nthings...\n\nsay they heard someone's voice, don't\nthey? I'm thinking of asking them\nabout it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    3829
   ],
   "jp": "兜甲児\n俺も そろそろ出ます 教授",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nI'll be heading out soon too,\nProfessor.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    3830
   ],
   "jp": "{p}\n待ってください 弓教授！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWait, Professor Yumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    3831
   ],
   "jp": "弓教授\n{s}君を想う\n君の気持ちは わかる\nだが 君にも\nわかって欲しいことがある",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nI understand how you feel about\n{s}-kun. But there's\nsomething I want you to understand,\ntoo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    3832
   ],
   "jp": "弓教授\n次元連鎖現象は 今も続いている\n\nそして 黒い月がもたらす悲劇は\n次の段階に入ったのだ\n黒い月によって「魔」の残骸が\n息を吹き返し\n黒い物体 黒い魔物となり\n人々を襲っている",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe Dimension Chain phenomenon is still\ngoing on.\n\nAnd the tragedy the black moon brings\nhas entered its next stage. The\nblack moon has breathed life back\ninto the remains of the \"Ma,\" and\nthey've become black things, black\nfiends, attacking people.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    3833
   ],
   "jp": "弓教授\n黒い魔物に取り憑かれた人々は\n暴徒化し 魔王に操られる\n被害は広がるばかり… つまり\n魔王の力は 強まりつつある！\nどの程度の規模なのかは\n甲児君の報告待ちだが…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nPeople possessed by the black fiends\nturn into rioters, controlled by the\nDemon King. The damage only\nspreads... In other words, the Demon\nKing's power is growing! As for how\nwidespread it is, we're waiting on\nKoji-kun's report...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    3834
   ],
   "jp": "如月ハニー\nそれで 甲児君\n出かけて行ったのね",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nSo that's why Koji-kun went out.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    3835
   ],
   "jp": "弓教授\n{p}君 私は 君や\n{s}君のために\n出来るだけのことをしてやりたい！\n\nだが 事態は\n全人類を脅かしている！\n私は 光子力研究所の所長として\n人類を救うために\n努力せねばならないのだ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\n{p}-kun, I want to do\neverything I can for you and\n{s}-kun!\n\nBut this situation threatens all of\nmankind! As director of the Photon\nPower Lab, I have to work to save\nmankind!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    3836
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    3837
   ],
   "jp": "弓教授\n私も… つらいのだよ…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThis is... hard for me too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    3838
   ],
   "jp": "弓教授\n許してくれ… {p}君",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nForgive me... {p}-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    3840
   ],
   "jp": "研究員\n弓教授 ホバーパイルダー\n先ほど 発進しました",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nProfessor Yumi, the Hover Pilder just\ntook off.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    3841
   ],
   "jp": "弓教授\nでは 黒い物体に操られた人達の\n様子を 見に行こう",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThen let's go see how the people\ncontrolled by the black things are\ndoing.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    3842
   ],
   "jp": "{p}\n…外の人達 みんな\n僕を魔王に差し出せって？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...All those people outside want me\nhanded over to the Demon King?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    3843
   ],
   "jp": "早見青児\n黒い物体に\n操られた人達の中には\n次元連鎖を調べていた\n科学者が いるらしいんだ\nそいつがなぜか\n君を魔王に差し出せ！\nそう 煽っているらしい",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nAmong the people controlled by the\nblack things, there's apparently a\nscientist who was studying the\nDimension Chain. For some reason,\nhe's stirring them up, saying \"Hand him\nover to the Demon King!\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    3844
   ],
   "jp": "如月ハニー\nあなたと同じ世界から来た\n{s}が 黒い月に\n吸い寄せられていったと\nそんなウワサが 流れているの",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThere's a rumor going around that\n{s}, who came from the\nsame world as you, was drawn into the\nblack moon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    3845
   ],
   "jp": "{p}\n…たったそれだけのことで？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Just because of that?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    3846
   ],
   "jp": "{p}\n{s}だって\n被害者じゃないか！\n僕だって そうだ！\n僕だって 被害者だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s} is a victim too! So am\nI! I'm a victim too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    3847
   ],
   "jp": "如月ハニー\nあなたの気持ちは わかるわ\n\nでも 弓教授も\nおっしゃったじゃない\n次元連鎖で\n世界は 狂い始めているのよ…！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI understand how you feel.\n\nBut Professor Yumi said it too, didn't\nhe? The Dimension Chain is starting\nto drive the world mad...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    3848
   ],
   "jp": "{p}\nだけど…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    3849
   ],
   "jp": "如月ハニー\nいい加減にしなさい！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThat's enough!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    3850
   ],
   "jp": "{p}\nハニー…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    3851
   ],
   "jp": "如月ハニー\nあ ご ごめんなさい…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nOh, I-I'm sorry...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    3852
   ],
   "jp": "早見青児\nハニーの気持ちも わかってやれよ",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nTry to understand how Honey feels,\ntoo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    3853
   ],
   "jp": "{p}\nハニーの気持ち…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHow Honey feels...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    3854
   ],
   "jp": "早見青児\nハニーだって\n次元連鎖の被害者なんだぜ？\nもしも次元連鎖が起こらなかったら\nハニーのパパだって…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHoney's a victim of the Dimension Chain\ntoo, y'know? If the Dimension Chain\nhad never happened, Honey's papa\nwould still...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    3855
   ],
   "jp": "{p}\n…！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!!",
+  "status": "done",
   "notes": ""
  }
 ]

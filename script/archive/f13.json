@@ -5,8 +5,8 @@
    2816
   ],
   "jp": "不死団\n追え～！ まだ そのあたりに\nいるはずだ～！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nAfter him! He's gotta still be around\nhere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    2817
   ],
   "jp": "{p}\n不死団とは 僕らも因縁がある！\n\nここは 僕らがヤツらを\n食い止めるから 逃げて！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe've got a score to settle with the\nImmortal Corps too!\n\nWe'll hold them off here, so run!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    2818
   ],
   "jp": "朱紗\n…………",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    2819
   ],
   "jp": "雪代\n朱紗君！",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\nShusha-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    2820
   ],
   "jp": "{p}\n早く！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHurry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    2821
   ],
   "jp": "不死団\nいたぞ～！ あれだ～！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nThere he is! That's him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    2822
   ],
   "jp": "不死団\n逃がすな～ ヤツだ！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nDon't let him get away! It's him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    2823
   ],
   "jp": "子郎\nおっと！ あのふたりには\n近寄らせないぜ！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWhoa there! We're not letting you\nanywhere near those two!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    2824
   ],
   "jp": "子郎\n不死団のヤツらは\nあちこちに いるようだな\nあの二人\n無事に逃げられただろうか？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nLooks like the Immortal Corps is all\nover the place. I wonder if those two\ngot away safely?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    2825
   ],
   "jp": "{p}\nふたりを探そう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLet's find them!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    2826
   ],
   "jp": "合田\n朱紗は 俺と全力で戦い\n負かした男\nそいつの運命が かかっているなら\n俺の拳の力 貸すぜ！",
-  "en": "",
-  "status": "",
+  "en": "Goda\nShusha's the guy who fought me with\neverything he had and beat me. If his\nfate's on the line, I'll lend him the\npower of my fists!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    2830
   ],
   "jp": "不死団\nお～い いたかぁ～！？",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nHeeey, find him yet!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    2831
   ],
   "jp": "不死団\nわから～ん！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nBeats meee!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    2832
   ],
   "jp": "朱紗\nいいかい 雪代さん\n俺が ヤツらを引きつける！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nListen, Yukishiro-san. I'll draw them\noff!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    2833
   ],
   "jp": "雪代\n朱紗君…！？",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\nShusha-kun...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    2834
   ],
   "jp": "朱紗\nな～に 大丈夫！\nしばらく じっとしてて！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nHey, it's fine! Just stay put for a\nwhile!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    2835
   ],
   "jp": "雪代\n朱紗君…！！",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\nShusha-kun...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    2836
   ],
   "jp": "不死団\nいたぞ～！ あれだ～！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nThere he is! That's him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    2840
   ],
   "jp": "{p}\n良かった 無事だったね！\nでも 彼女はどこ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank goodness, you're okay! But\nwhere's your girlfriend?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    2841
   ],
   "jp": "朱紗\nそうだ 雪代さん…！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nOh right, Yukishiro-san...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    2842
   ],
   "jp": "朱紗\n雪代さ～ん！？\n\nいない！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nYukishiro-saaan!?\n\nShe's gone!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    2843
   ],
   "jp": "朱紗\n雪代さん…\nいったい どこに…？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nYukishiro-san... where could you be...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    2844
   ],
   "jp": "美剣\n朱紗君 私と共に来て！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nShusha-kun, come with me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    2845
   ],
   "jp": "{p}\n美剣さん…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMitsurugi-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    2846
   ],
   "jp": "美剣\n預言者・真理阿を\n一緒に探して欲しいの\n彼女なら 雪代さんの居場所が\n解るかもしれない…",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI want you to help me search for Maria\nthe prophet. She might know where\nYukishiro-san is...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    2847
   ],
   "jp": "朱紗\n…！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    2848
   ],
   "jp": "{p}\n美剣さん あなたはどうして\n真理阿を探しているの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMitsurugi-san, why are you looking for\nMaria?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    2849
   ],
   "jp": "美剣\n…伝説の荒ぶる神\nスサノオウノミコト…\n凄ノ王の目覚めには\n危険が ともなうの",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\n...The legendary raging god,\nSusanoo-no-Mikoto... The awakening\nof Susano-oh brings danger with it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    2850
   ],
   "jp": "{p}\n戸来村で言っていた\n「来るべき災厄」って…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe \"coming calamity\" you talked\nabout in Herai Village...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    2851
   ],
   "jp": "美剣\n吉と出れば 英雄神が目覚めるわ\nでも もしも…！\n凶と出れば\n破壊神が目覚めてしまう",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nIf fortune smiles, a hero god will\nawaken. But if...! If it goes ill, a god\nof destruction will awaken.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    2852
   ],
   "jp": "{p}\nどちらが目覚めるのか\n知りたいんだね？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou want to know which one will\nawaken?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    2853
   ],
   "jp": "美剣\nそのとおりよ 何故なら\nもしも 破壊神が目覚めたなら\nそれを倒すのが\n我が美剣一族の運命だから！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nExactly. Because if a god of\ndestruction awakens, it is the\ndestiny of my Mitsurugi clan to defeat\nit!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    2854
   ],
   "jp": "朱紗\n美剣さん…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nMitsurugi-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    2855
   ],
   "jp": "美剣\nそして朱紗君… あなたこそ…！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nAnd Shusha-kun... you are the very...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    2856
   ],
   "jp": "朱紗\nよしてくれよ\n俺が その 凄ノ王だってのかい？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nGive me a break. You're saying I'm this\nSusano-oh?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    2857
   ],
   "jp": "{p}\nええっ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    2858
   ],
   "jp": "美剣\nあなたの超能力は\n日増しに強くなっているはずよ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nYour psychic power must be growing\nstronger by the day!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    2859
   ],
   "jp": "朱紗\n……",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n......",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    2860
   ],
   "jp": "美剣\n瓜生麗の野望を 止めなくては！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWe must stop Rei Uryu's ambitions!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    2861
   ],
   "jp": "{p}\n瓜生麗だって！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRei Uryu!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    2862
   ],
   "jp": "美剣\n瓜生麗を知っているの？",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nYou know Rei Uryu?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    2863
   ],
   "jp": "{p}\n戸来村に瓜生麗がやってきたんだよ",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRei Uryu showed up in Herai Village.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    2864
   ],
   "jp": "朱紗\n確かに 瓜生麗は 一時 俺に\nしつこく つきまとってきた\n正義のための行動に手を貸せ！って",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nIt's true, Rei Uryu was hounding me for\na while. \"Lend me a hand in the cause\nof justice!\" he'd say.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    2865
   ],
   "jp": "美剣\nあの人のしようとしていることは…\n悪よ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWhat that man is trying to do... is evil!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    2866
   ],
   "jp": "{p}\n瓜生麗はどうして預言者・真理阿を\n探しているんだろう？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhy is Rei Uryu looking for Maria the\nprophet?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    2867
   ],
   "jp": "朱紗\n……",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n......",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    2868
   ],
   "jp": "朱紗\n…よし！ 美剣さん\nあなたと共に 真理阿を探そう！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n...All right! Mitsurugi-san, I'll search\nfor Maria with you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    2869
   ],
   "jp": "美剣\n朱紗君！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nShusha-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    2870
   ],
   "jp": "{p}\n良かったね 美剣さん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat's great, Mitsurugi-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    2871
   ],
   "jp": "美剣\nええ……\nでも そういえば\nあなた達は どうして真理阿を\n探しているの…？",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nYes... But come to think of it, why are\nyou looking for Maria...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    2872
   ],
   "jp": "{p}\n実は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nActually...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    2873
   ],
   "jp": "朱紗\n…信じがたい話だ",
-  "en": "",
-  "status": "",
+  "en": "Shusha\n...That's hard to believe.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    2874
   ],
   "jp": "{p}\n君が 恐ろしい邪神になるかも\nしれない…ってのもそうだよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo is you maybe turning into some\nterrible evil god!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    2875
   ],
   "jp": "朱紗\n確かに！\n俺にも 信じられない！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nFair enough! I can't believe it either!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    2876
   ],
   "jp": "美剣\n{p}君！\n\n私達を あなたのお仲間に\n加えていただけないかしら？",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\n{p}-kun!\n\nWould you let us join your party?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    2877
   ],
   "jp": "{p}\n大歓迎だよ！\nでもどうして…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou're more than welcome! But why...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    2878
   ],
   "jp": "美剣\nあなた達には\n不思議な力を感じるの…\nその力こそ 来るべき災厄を\n防ぐ手だてになるかもしれない…",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI sense a strange power in all of you...\nThat power may be the very means to\nprevent the coming calamity...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    2879
   ],
   "jp": "朱紗\n{p}達には\n借りが出来ちゃったしな\n真理阿って人を探して\n雪代さんを見つけるには\n仲間は 多い方がいい！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nI owe you guys one now,\n{p}. To find this Maria\nand track down Yukishiro-san, the\nmore friends the better!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    2880
   ],
   "jp": "{p}\nこちらこそ よろしく頼むよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGlad to have you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    2881
   ],
   "jp": "？？？\n世界を壊す神…\n世界を再生する神…\n目覚めの時は近い…\nそれは我が望みへの第一歩…",
-  "en": "",
-  "status": "",
+  "en": "???\nThe god who destroys the world... The\ngod who remakes the world... The time\nof awakening is near... The first step\ntoward my desire...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    2885
   ],
   "jp": "魔獣ハンター\nまて おまえら！\nここで何をやっている！？\n…ん？\n戸来村の連中じゃないようだな？\nかまわねぇ\nやっちまえ！",
-  "en": "",
-  "status": "",
+  "en": "Demon Beast Hunter\nHold it, you lot! What are you doing\nhere!? ...Hm? You're not from Herai\nVillage, are you? Who cares, get 'em!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    2886
   ],
   "jp": "子郎\nなぜ あいつらが\nここにいるんだ？\n…この奥が あやしいな\n{p} 行ってみよう",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWhy are those guys here?\n...Something's fishy back there.\n{p}, let's go have a look.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    2890
   ],
   "jp": "{p}\n戸来村が… 消えた…！？\n\n黒い月が 戸来村を\n消してしまった…！？\nそんな…\nそれじゃ 村の人達は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHerai Village... is gone...!?\n\nThe black moon erased Herai\nVillage...!? No way... Then the\nvillagers...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    2895
   ],
   "jp": "{p}\nなんだろう この装置は？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat's this machine?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    2896
   ],
   "jp": "子郎\n今は誰もいないが ここでも誰かが\n研究しているようだな…\nきっと\nシャフトの仲間に違いない",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nNobody's here now, but someone's\ndoing research here too... Must be\nShaft's people.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    2901
   ],
   "jp": "弓教授\n…黒い月が 世界を連結する力を\n持っていることは\nこれで 疑いようがないな…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\n...Now there's no doubt that the black\nmoon has the power to link worlds...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    2902
   ],
   "jp": "{p}\nどういうことですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat do you mean?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    2903
   ],
   "jp": "弓教授\n黒い月が出たら 戸来村は消え\n倉庫のある空き地になっていた…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nWhen the black moon appeared, Herai\nVillage vanished and became a\nvacant lot with a warehouse...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    2904
   ],
   "jp": "美剣\nつまり 空間が\n入れ替わってしまった…？",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nSo the spaces swapped places...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    2905
   ],
   "jp": "弓教授\nその通りだ 美剣君",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nExactly, Mitsurugi-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    2906
   ],
   "jp": "朱紗\n新しい世界が 現れるたびに\n世界のどこかが消えてしまう！？\nまさか 雪代さんが消えたのは…\nそのせい？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nEvery time a new world appears, some\npart of the world disappears!? Don't\ntell me Yukishiro-san vanished\nbecause of that?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    2908
   ],
   "jp": "弓教授\n雪代さんが 消えたのは\n黒い月が出た後だから\nその可能性は 無いと思う",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nYukishiro-san vanished after the\nblack moon appeared, so I don't think\nthat's possible.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    2909
   ],
   "jp": "朱紗\n良かった…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThank goodness...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    2910
   ],
   "jp": "子郎\n恋人が違う世界に行ってしまったら\n助けようがない",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nIf your girlfriend got sent to another\nworld, there'd be no way to save her.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    2911
   ],
   "jp": "美剣\n一刻も早く 預言者・真理阿を\n見つけないと…！\n瓜生麗よりも先にね！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWe must find Maria the prophet as\nsoon as possible...! Before Rei Uryu\ndoes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    2912
   ],
   "jp": "弓教授\n瓜生コンツェルンの瓜生麗かね？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nRei Uryu, of the Uryu Conglomerate?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    2913
   ],
   "jp": "朱紗\nご存じですか？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nYou know him?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    2914
   ],
   "jp": "弓教授\nう～む…\n\n謎の人物・瓜生麗は 科学都市の\n出資者のひとりでもあるのだ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nHmmm...\n\nThe mysterious Rei Uryu is also one of\nScience City's investors!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    2915
   ],
   "jp": "弓教授\n噂では\n瓜生麗は 密かに\n来留間博士にも 資金援助を\nしているらしい",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nRumor has it Rei Uryu is secretly\nfunding Dr. Kuruma as well.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    2916
   ],
   "jp": "弓教授\nふたりとも今の世界を認めていない\nという共通点がある",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe two have one thing in common:\nneither accepts the world as it is.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    2917
   ],
   "jp": "美剣\n確かに そのとおりですわ\n\n瓜生麗は この世界を滅ぼし\n再生しようとしています\nそのために朱紗君…いえ 凄ノ王を\n悪用しようとしています！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nThat's exactly right.\n\nRei Uryu intends to destroy this world\nand rebuild it. And to do that, he\nmeans to misuse Shusha-kun... no,\nSusano-oh!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    2918
   ],
   "jp": "弓教授\n来留間博士は\n人類の力を認めていない\n異なる生物同士を合体させ\nそれを進化と呼んでいる！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nDr. Kuruma doesn't recognize the\nstrength of humankind. He fuses\ndifferent creatures together and\ncalls it evolution!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    2919
   ],
   "jp": "子郎\nやり方はともかく\nふたりとも人類を滅ぼし\n自分達が理想とする世界を\n作ろうとしているわけだ",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWhatever their methods, they both\nwant to wipe out humankind and build\nthe world they see as ideal.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    2920
   ],
   "jp": "朱紗\nどうした {p}…？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nWhat's wrong, {p}...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    2921
   ],
   "jp": "{p}\n…今の世界は 決していい世界とは\n言えない\nだからといって 誰かが勝手に\n作り替えていいわけがない！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...You can't really call the world we\nhave now a good one. But that\ndoesn't give anybody the right to\nremake it however they like!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    2922
   ],
   "jp": "弓教授\nそのとおりだ！\n\nこれまで 君が出逢った仲間達\nすべて異なる世界の住人だ！\nたとえ それぞれ目的は違えど\n君達は素晴らしい仲間だ！\n世界は\nみんなで変えていくべきなのだ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nExactly right!\n\nEvery friend you've met so far comes\nfrom a different world! Even if each\nof you has a different goal, you're\nwonderful friends! The world should\nbe changed by all of us together!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    2923
   ],
   "jp": "子郎\n本当にそうなのかな…？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nIs that really true...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    2924
   ],
   "jp": "弓教授\n子郎君？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nJiro-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    2925
   ],
   "jp": "子郎\n僕はいずれ 鬼獄界に\n帰らなければならない…\nだけど！ 鬼達が殺し合いを\nしているような世界に\n誰が帰りたいと思う！？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nSomeday I have to go back to the\nKigoku World... But who would want to\ngo back to a world where oni kill each\nother!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    2926
   ],
   "jp": "子郎\nもしも 僕が黒い月だったら…\n\nまっさきに\n鬼獄界を 消してやるよ…",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nIf I were the black moon...\n\nI'd erase the Kigoku World first thing...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    2927
   ],
   "jp": "{p}\nでも子郎君！\n世界がツギハギされるたび\nそれまで そこにいた人達が\n消えちゃうんだよ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut Jiro-kun! Every time the worlds\nget patched together, the people\nwho were there before disappear...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    2928
   ],
   "jp": "子郎\n…！？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    2929
   ],
   "jp": "子郎\n鬼獄界のことは 僕自身の問題だ\n\n僕は この問題に\n決着をつけなくてはならない！\nだけど 君の言うとおり\n今の状況は 間違ってる！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThe Kigoku World is my own problem.\n\nI have to settle it myself! But like you\nsaid, what's happening now is wrong!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    2930
   ],
   "jp": "{p}\n子郎君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nJiro-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    2931
   ],
   "jp": "弓教授\n子郎君 決意を固めたようだね\n\nところで美剣君！\n瓜生麗の居場所に 心当たりは？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nIt seems you've made up your mind,\nJiro-kun.\n\nNow then, Mitsurugi-kun! Any idea\nwhere Rei Uryu might be?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    2932
   ],
   "jp": "朱紗\n俺が 瓜生麗と会ったのは\nヤツのマンションだった",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nWhen I met Rei Uryu, it was at his\ncondo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    2933
   ],
   "jp": "美剣\n瓜生麗は マンションを\n幾つも持っているのよ",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nRei Uryu owns a number of condos.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    2934
   ],
   "jp": "弓教授\n実は 科学都市には\n立ち入り禁止エリアがある\n出資者用の居住区としてね",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe truth is, Science City has an\noff-limits area, a residential district\nfor investors.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    2935
   ],
   "jp": "{p}\nそこに瓜生麗が…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRei Uryu is there...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    2936
   ],
   "jp": "弓教授\n来留間博士と共に\n隠れていても おかしくはない",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nIt wouldn't be strange if he were hiding\nthere with Dr. Kuruma.",
+  "status": "done",
   "notes": ""
  }
 ]

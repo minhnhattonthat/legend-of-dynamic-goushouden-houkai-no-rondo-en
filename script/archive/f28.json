@@ -5,8 +5,8 @@
    4637
   ],
   "jp": "さやか\nこう見えて 甲児君\nお料理 上手なのよ！",
-  "en": "",
-  "status": "",
+  "en": "Sayaka\nHe may not look it, but Koji-kun's a\ngreat cook!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    4638
   ],
   "jp": "{p}\n楽しみだな！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI can't wait!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    4639
   ],
   "jp": "兜甲児\n必ずだぜ！ 忘れるなよ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nFor sure! Don't forget!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    4640
   ],
   "jp": "{p}\n忘れないよ 甲児君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI won't forget, Koji-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    4641
   ],
   "jp": "子郎\n戦鬼と護鬼が\n戻る時だ…って言うんだ",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nSenki and Goki say it's time to go\nback...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    4642
   ],
   "jp": "護鬼\n魔王にも 鬼獄界は\n操れなかったようです\n鬼獄界とは 誰かが作った\n内なる世界なのかもしれません",
-  "en": "",
-  "status": "",
+  "en": "Goki\nIt seems even the Demon King could\nnot control the Kigoku World.\nPerhaps the Kigoku World is an inner\nworld someone created.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    4643
   ],
   "jp": "子郎\nどんな世界でも\nいつか その謎を突き止めるさ！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWhatever kind of world it is, someday\nI'll get to the bottom of its mystery!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    4644
   ],
   "jp": "護鬼\n私は 常に童子をお護りします",
-  "en": "",
-  "status": "",
+  "en": "Goki\nI will always protect Doji.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    4645
   ],
   "jp": "戦鬼\n俺は 常に戦い続ける…",
-  "en": "",
-  "status": "",
+  "en": "Senki\nI will always keep fighting...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    4646
   ],
   "jp": "{p}\nあなた達がいれば\n子郎君も安心だね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWith you two around, Jiro-kun will be\nfine!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    4647
   ],
   "jp": "美雪\nイヤよ！",
-  "en": "",
-  "status": "",
+  "en": "Miyuki\nNo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    4648
   ],
   "jp": "美雪\n元の世界に戻ったら 鬼獄界へ\n戻らなきゃならないんでしょ！\n美雪はイヤよ\n子郎君の側を離れない！",
-  "en": "",
-  "status": "",
+  "en": "Miyuki\nWhen we go back to our world, you'll\nhave to go back to the Kigoku World,\nwon't you! I won't have it! I won't leave\nJiro-kun's side!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    4649
   ],
   "jp": "子郎\n大丈夫だよ\n決して 離れはしないから…",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nIt's all right. I'll never leave you...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    4650
   ],
   "jp": "{p}\nそうだよ！ たとえ\n世界が別々でも 想いは一緒さ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat's right! Even if your worlds are\napart, your hearts are together!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    4651
   ],
   "jp": "美雪\nうん！\nありがとう {p}君！",
-  "en": "",
-  "status": "",
+  "en": "Miyuki\nYes! Thank you, {p}-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    4652
   ],
   "jp": "{p}\nふたりとも おしあわせに！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBe happy, you two!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    4653
   ],
   "jp": "ボス\nあばよ {p}！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nSo long, {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    4660
   ],
   "jp": "えん魔くん\n{p}！\n楽しかったぜ あばよ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\n{p}! It was a blast. So\nlong!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    4661
   ],
   "jp": "{p}\nえん魔くん… どうしたの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEnma-kun... What's wrong?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    4662
   ],
   "jp": "閻魔大王\n涙を見せたくないのじゃよ",
-  "en": "",
-  "status": "",
+  "en": "Great King Enma\nHe doesn't want you to see his tears,\nmy boy.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    4663
   ],
   "jp": "カパエル\nあ ホントだ！\n泣いてる！",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nOh, it's true! He's cryin'!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    4664
   ],
   "jp": "えん魔くん\nうるせ～！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nShaddap!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    4665
   ],
   "jp": "えん魔くん\n地獄別荘は\n人間界のどこへでも 行ける\n今度 おまえの学校に\n遊びに行くよ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHell Villa can go anywhere in the human\nworld. I'll come hang out at your\nschool sometime!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    4666
   ],
   "jp": "雪子姫\n体育倉庫で 待ってるわ！",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\nWe'll be waiting in the gym storeroom!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    4667
   ],
   "jp": "{p}\nうん！ 必ず行くよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah! I'll definitely come!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    4668
   ],
   "jp": "えん魔くん\nきっとだぜ！ 約束だぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nFor sure! It's a promise!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    4669
   ],
   "jp": "{p}\n君達とは 助けたり\n助けられたりだったね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe sure took turns saving each other,\ndidn't we!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    4670
   ],
   "jp": "袋小路\nなかなか スリルが\nありましたよー",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nIt was quite the thrill!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    4671
   ],
   "jp": "山岸\nなんだよ おまえ いつも\n俺の影に 隠れてたじゃん！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nWhat're you talkin' about, you were\nalways hidin' behind me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    4672
   ],
   "jp": "袋小路\nオヤブン それは言いっこなし",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nBoss, don't bring that up.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    4673
   ],
   "jp": "十兵衛\nともかく {p}君からは\n多くのことを学んだわ！\nあたしも 柳生忍者の末裔として\n見習わなくっちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nAnyway, I learned a lot from\n{p}-kun! As a\ndescendant of the Yagyu ninja, I've\ngot to follow his example!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    4674
   ],
   "jp": "山岸\n十兵衛は マジメだなぁ～！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nJubei, you're so serious!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    4675
   ],
   "jp": "袋小路\n元の世界に戻ったら\nまた宿題が待ってるのかなー？",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nWhen we get back to our world, I\nwonder if homework'll be waiting\nagain?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    4676
   ],
   "jp": "山岸\nそんな心配よりも ヒゲゴジラの\n苛め方 考えようぜ！\nイッヒッヒッヒ…！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nNever mind that, let's think up ways to\npick on Higegodzilla! Ihhihhihhi...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    4677
   ],
   "jp": "{p}\nあの人達は\n少しも変らなかったな\nでも\nそれが なんか うれしいや！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThose guys didn't change one bit. But\nsomehow, that makes me happy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    4678
   ],
   "jp": "{p}\n門土さん 竜馬さん\nいろいろありがとう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMondo-san, Ryoma-san, thanks for\neverything!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    4679
   ],
   "jp": "門土\n俺 帰りたくないんだよな…",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nI don't really wanna go back...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    4680
   ],
   "jp": "竜馬\nなんでさ 門土！？",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nHow come, Mondo!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    4681
   ],
   "jp": "門土\n魔王が死んで この世界\n支配者が いないわけだろ？\nなら 俺が…",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nWith the Demon King dead, this world's\ngot no ruler, right? So I could...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    4682
   ],
   "jp": "竜馬\nまったくも～奪う相手がいなきゃ\nつまらないくせにぃ～",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nOh, come ooon, you'd be bored without\nanybody to take it from!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    4683
   ],
   "jp": "門土\n確かに そりゃそうだ！\nいいところに気づいたじゃん！",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nYeah, that's true! Good thinkin'!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    4684
   ],
   "jp": "竜馬\nあたりまえじゃん！\n相棒だぜ！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nOf course! I'm your partner!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    4685
   ],
   "jp": "{p}\nいいコンビだよね ふたりは！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou two make a great team!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    4686
   ],
   "jp": "竜馬\nそうさ！\n死んでも離れないのよ～ン！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nThat's right! We'll never part, not even\nin death, hmmm~!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    4687
   ],
   "jp": "門土\nおいおい…！",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nHey, hey...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    4688
   ],
   "jp": "ジャック\n…死んでも…か\n\nもしかしたら 元の世界で\nもっと 過酷な運命が\nおまえ達を\n待っているかもしれんぞ…",
-  "en": "",
-  "status": "",
+  "en": "Jack\n...Not even in death, eh...\n\nAn even harsher fate may be awaiting\nyou two back in your world...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    4689
   ],
   "jp": "{p}\nジャックさん\nたまには 笑いなよ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nJack-san, you should smile once in a\nwhile...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    4690
   ],
   "jp": "ジャック\n………！？",
-  "en": "",
-  "status": "",
+  "en": "Jack\n.........!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    4691
   ],
   "jp": "{p}\nジャックさん\n怒らせちゃったかな…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDid I make Jack-san mad...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    4692
   ],
   "jp": "不動明\n{s}が\nこんなことになって 残念だよ",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI'm sorry it turned out like this with\n{s}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    4693
   ],
   "jp": "{p}\n明君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    4694
   ],
   "jp": "不動明\nもしも 再び同じようなことが\nあったとしたら…\n次は 君と一緒に\n行ってみたいな\n違った運命が\n待っているかもしれない…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nIf something like this ever happens\nagain... next time I'd like to go with\nyou. A different fate might be\nwaiting...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    4695
   ],
   "jp": "{p}\n…そうだね\n\nでも もうこんなのは\nゴメンだよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Yeah.\n\nBut I've had enough of this kind of\nthing!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    4696
   ],
   "jp": "不動明\nそれもそうだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nFair enough!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    4697
   ],
   "jp": "{p}\nもしも再び…か\n冗談じゃないや！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIf it ever happens again, huh... No way!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    4698
   ],
   "jp": "如月ハニー\n{p}君…\nとうとう あたし達だけね…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{p}-kun... It's finally\njust us...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    4699
   ],
   "jp": "{p}\nハニー…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    4700
   ],
   "jp": "団兵衛\nハニーちゃん…",
-  "en": "",
-  "status": "",
+  "en": "Danbei\nHoney-chan...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    4701
   ],
   "jp": "早見青児\n元気出せ…なんて 言えないよな",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nI can't exactly tell you to cheer up...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    4702
   ],
   "jp": "如月ハニー\n大丈夫よ 青児君\n\nハニーは 夏ちゃんのこと\n決して忘れないもん！\nだから…\nだから {p}も…ね！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's okay, Seiji-kun.\n\nHoney will never forget Natsu-chan!\nSo... so you too, {p}...\nokay?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    4703
   ],
   "jp": "{p}\n大丈夫 きっと 夏ちゃん\n無事だよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt'll be okay. I'm sure Natsu-chan is\nsafe!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    4704
   ],
   "jp": "如月ハニー\nそうね {p}君！\n\n夏ちゃん 元の世界に帰れば\nきっと元気だよね！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nYou're right, {p}-kun!\n\nWhen I get back to my world, I'm sure\nNatsu-chan will be just fine!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    4705
   ],
   "jp": "早見青児\nそうさ！ {s}だって\n君を待ってるよ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nThat's right! And {s}'s\nwaiting for you too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    4706
   ],
   "jp": "{p}\nそうだよね 青児さん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat's right, Seiji-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    4707
   ],
   "jp": "如月ハニー\n{p}君！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n{p}-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    4708
   ],
   "jp": "{p}\nさよなら ハニー！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGoodbye, Honey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    4709
   ],
   "jp": "如月ハニー\nバイバイ！ {p}君！\nさよなら！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nBye-bye! {p}-kun!\nGoodbye!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    4710
   ],
   "jp": "如月ハニー\nここは…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThis is...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    4711
   ],
   "jp": "如月ハニー\nどこも なんともない…\nそれじゃ あれは やっぱり…！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nEverything's perfectly fine... Then\nthat really was...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    4712
   ],
   "jp": "如月ハニー\nあの世界で…\n夏ちゃんは…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIn that world... Natsu-chan...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    4713
   ],
   "jp": "如月ハニー\nハニーを守るため \n火に焼かれて…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nburned in the fire to protect Honey...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    4714
   ],
   "jp": "秋夏子\nハニー！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nHoney!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    4715
   ],
   "jp": "如月ハニー\nきゃっ！\nな 夏ちゃん！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nEek! N-Natsu-chan!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    4716
   ],
   "jp": "秋夏子\nなによぉ～ 幽霊でも見るような\n目で見てぇ～！\nハニーの帰りが遅いから 心配に\nなって 迎えにきたのにぃ～！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nWhat's with that look, like you're\nseeing a ghost!? Honey was so late\ngetting back, I got worried and came to\nget you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    4717
   ],
   "jp": "如月ハニー\nごめ～ん！\n夏ちゃん 大好き！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI'm sorryyy! Natsu-chan, I love you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    4718
   ],
   "jp": "秋夏子\nちょっと どうしたの\nハニー！？",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nHey, what's gotten into you, Honey!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    4719
   ],
   "jp": "如月ハニー\nごめん\nしばらく このままでいさせて！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nSorry. Just let me stay like this for a\nwhile!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    4720
   ],
   "jp": "秋夏子\nダメ！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nNo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    4721
   ],
   "jp": "秋夏子\n館主の ヒストラーが\n見回りにきちゃう\nのんびりしてると\n見つかっちゃうよ！！\nほら こっちこっち…！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nHistler, the dorm head, is coming on\nher rounds. If you dawdle, she'll\ncatch us!! Come on, this way, this\nway...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    4722
   ],
   "jp": "秋夏子\n早く 早くぅ～！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nHurry, hurry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    4723
   ],
   "jp": "如月ハニー\nありがと 夏ちゃん…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThanks, Natsu-chan...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    4724
   ],
   "jp": "秋夏子\nちょっと ハニー！\nどこ触ってるの！",
-  "en": "",
-  "status": "",
+  "en": "Natsuko Aki\nHey, Honey! Where are you touching!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    4725
   ],
   "jp": "如月ハニー\nうふふ！\n夏ちゃんのお尻 かわいい～！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nTee-hee! Natsu-chan, your butt is so\ncute!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    4730
   ],
   "jp": "{p}\nごめんね {s}…\n\n僕は 君を 助けることが\n出来なかった…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm sorry, {s}...\n\nI couldn't save you...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    4731
   ],
   "jp": "{p}\n元の世界って そんなにイヤな\nところだったのかな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWas our own world really such an awful\nplace...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    4732
   ],
   "jp": "{p}\nこの世界よりは ましだよ\nだって…\nここには 君が いない！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's better than this world. Because...\nyou're not here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    4733
   ],
   "jp": "{p}\nここは…\n見覚えが あるけど…\n本当に ここは\n元の世界なんだろうか…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThis place... I recognize it, but... is this\nreally our own world...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    4734
   ],
   "jp": "{p}\n本当に ここは\n元の世界なんだろうか…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIs this really our own world...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    4735
   ],
   "jp": "{p}\n魔王が 自在に操った世界で\n様々なことが起こった…\nでも そこで起こった出来事の\nどれが本当の出来事かは\n魔王にしか解らない…\n\nでも…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAll kinds of things happened in the\nworld the Demon King controlled at\nwill... But which of the things that\nhappened there were real, only the\nDemon King knows...\n\nBut...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    4736
   ],
   "jp": "{p}\n僕の腕の中に…\n{s}の身体は…無い！\nってことは…！！\n\n世界が 修正を始めたんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIn my arms... {s}'s body...\nisn't here! That means...!!\n\nThe world has started to set itself\nright!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    4737
   ],
   "jp": "{p}\n世界が 修正を始めたんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe world has started to set itself\nright!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    4738
   ],
   "jp": "{p}\n魔王は 死んだ！\nツギハギの世界はもう無い！\n世界は… 修正を始めた…！\n\nすべて…\nすべて 元に戻るんだ！\nすべて 元に戻ったんだ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Demon King is dead! The patchwork\nworld is gone! The world... has\nstarted to set itself right...!\n\nEverything... everything is going back\nto how it was! Everything's back to\nhow it was!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    4739
   ],
   "jp": "{p}\nすべて…\nすべて 元に戻るんだ！\nすべて 元に戻ったんだ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEverything... everything is going back\nto how it was! Everything's back to\nhow it was!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    4740
   ],
   "jp": "{p}\nハァ… ハァ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n*Pant*... *pant*...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    4741
   ],
   "jp": "{p}\nすべて 元に戻ったんだ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEverything's back to how it was!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    4742
   ],
   "jp": "{p}\nハァ… ハァ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n*Pant*... *pant*...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    4743
   ],
   "jp": "{p}\n携帯に…\nメールが…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMy phone... got an e-mail...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    4744
   ],
   "jp": "{p}\nメールが…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAn e-mail...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    4745
   ],
   "jp": "{p}\n「黒い月が輝く時\n　お逢いしましょう…」",
-  "en": "",
-  "status": "",
+  "en": "{p}\n\"When the black moon shines, let us\nmeet...\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    4750
   ],
   "jp": "えん魔くん\n俺達も 出発しようぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nLet's head out too!",
+  "status": "done",
   "notes": ""
  }
 ]

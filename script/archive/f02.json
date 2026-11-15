@@ -5,8 +5,8 @@
    1310
   ],
   "jp": "あゆ子の父\n娘の姿が 見えんのだ…\n\n日本政府が 関東を見捨ててから\n無法者が集まるばかり…\nあゆ子のことが 心配だ…",
-  "en": "",
-  "status": "",
+  "en": "Ayuko's Father\nI can't find my daughter anywhere...\n\nEver since the Japanese government\nabandoned Kanto, nothing but\noutlaws gather here... I'm so worried\nabout Ayuko...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    1311
   ],
   "jp": "住民\n関東地獄地震から数年たったけど\n暮らしは 酷いものだ\n暴力が支配する世界じゃ\n弱者は 苦しむだけだ…",
-  "en": "",
-  "status": "",
+  "en": "Resident\nIt's been a few years since the Kanto\nHellquake, but life's still awful. In a\nworld ruled by violence, the weak just\nsuffer...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    1312
   ],
   "jp": "如月ハニー\nこの集落 様子が おかしいわよ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nSomething's not right about this\nvillage.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    1313
   ],
   "jp": "{p}\n大地震が あったみたいだね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLooks like there was a huge\nearthquake.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    1314
   ],
   "jp": "如月ハニー\n関東地獄地震？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThe Kanto Hellquake?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    1315
   ],
   "jp": "{p}\nうん 確かに 大地震から\n数年後…って感じだね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah. It sure feels like a few years\nafter a big quake...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    1316
   ],
   "jp": "如月ハニー\nこれも パンサークローのしわざ\nかしら？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI wonder if this is Panther Claw's doing\ntoo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    1320
   ],
   "jp": "店主\nあんたら 見かけない顔だね…\nよそもンだね\nこの町に住む気が あるのかい？",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nDon't recognize your faces...\nOutsiders, huh? You planning to live\nin this town?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    1321
   ],
   "jp": "門土\nまぁー 気に入りゃな！",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nMeh, if I like it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    1322
   ],
   "jp": "店主\nだったら\n警察に 届け出たほうがいい",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nThen you'd best report to the police.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    1323
   ],
   "jp": "門土\nケ ケーサツ！？\nな なんだそりゃ！\nそんなもん まだアリかよ？",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nP-POLICE!? Wh-what the hell!? That\nkinda thing still exists?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    1324
   ],
   "jp": "竜馬\n冗談やめようよ\n関東は無法地帯じゃなかったの？",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nQuit joking. Wasn't Kanto supposed to\nbe lawless?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    1325
   ],
   "jp": "如月ハニー\nあの～ ちょっとすみません\n警察署が あるんですか？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nUm, excuse me. There's a police\nstation here?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    1326
   ],
   "jp": "店主\nあんたらも 見かけない顔だね？",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nDon't recognize your faces either, do\nI?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    1327
   ],
   "jp": "如月ハニー\nえへ…\nあたし 如月ハニーって言います",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nTee-hee... I'm Honey Kisaragi.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    1328
   ],
   "jp": "{p}\n僕は {p}",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    1329
   ],
   "jp": "早見青児\n俺は 早見青児\n新聞記者です",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nAnd I'm Seiji Hayami, newspaper\nreporter.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    1330
   ],
   "jp": "門土\n新聞記者？",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nA newspaper reporter?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    1331
   ],
   "jp": "竜馬\nあ こっちもステキ！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nOoh, this one's dreamy too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    1332
   ],
   "jp": "早見青児\nどきっ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\n*Ba-dump!*",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    1333
   ],
   "jp": "門土\n騙されるなよ 記者さんよ\nこいつは男だぜ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nDon't get fooled, Mr. Reporter. That\none's a guy.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    1334
   ],
   "jp": "早見青児\nえ～！？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    1335
   ],
   "jp": "竜馬\n……",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\n......",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    1336
   ],
   "jp": "門土\n新聞記者のくせに 俺達のこと\n知らないのか？\n過激派「神の牙」の\n早乙女門土と…",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nA newspaper reporter, and you don't\nknow who we are? Mondo Saotome of\nthe radicals, the \"Fangs of God\"...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    1337
   ],
   "jp": "竜馬\n身堂竜馬さ…",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\n...and Ryoma Shindo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    1338
   ],
   "jp": "早見青児\nい～え 知りません",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nNope. Never heard of you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    1339
   ],
   "jp": "住民\n大変だ！\nドラゴンが来たぞ！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nWe're in trouble! The Dragons are\ncoming!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    1340
   ],
   "jp": "店主\nなんだって！",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nWhat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    1341
   ],
   "jp": "店主\n死にたくなかったら\nあんたらも 早く逃げろ！",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nIf you don't wanna die, you'd better\nrun too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    1342
   ],
   "jp": "住民\n終わりだ！ ドラゴンは アイツを\n追ってきたんだ！\nアイツが この町も滅ぼしちまう！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nIt's over! The Dragons chased HIM\nhere! He's gonna bring ruin to this\ntown too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    1343
   ],
   "jp": "門土\nああ 行くぜ！",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nYeah, let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    1344
   ],
   "jp": "{p}\nアイツって\nいったい 誰のことだろう？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n\"Him\"? Who could they mean?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    1345
   ],
   "jp": "如月ハニー\nあたし達も 行ってみましょう！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nLet's go have a look too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    1346
   ],
   "jp": "竜馬\nあ 可愛い！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nOoh, she's cute!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    1347
   ],
   "jp": "竜馬\n門土？",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nMondo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    1351
   ],
   "jp": "住民\nひぇぇぇぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nEeeeek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    1352
   ],
   "jp": "住民\nドラゴンだ！\nドラゴンが来る～！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nIt's the Dragons! The Dragons are\ncoming!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    1353
   ],
   "jp": "住民\nた た た たすけてくれ～！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nH-h-h-help meee!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    1360
   ],
   "jp": "{p}\nな なに！？\nあの でっかい人！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-what!? That huge guy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    1361
   ],
   "jp": "門土\nアイツが 関東の怪物と呼ばれる\n大巨人さ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nThat's the giant they call the Monster\nof Kanto.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    1362
   ],
   "jp": "竜馬\n筋肉はゴリラ！ 牙は狼！\n燃える瞳は 原始の炎！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nMuscles of a gorilla! Fangs of a wolf!\nBurning eyes, the fire of the\nprimeval!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    1363
   ],
   "jp": "門土\n２メートル２０センチの全身には\n闘争エネルギーが満たされている\nその名はジャック！",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nSeven foot two, every inch of him\npacked with fighting energy. His\nname is Jack!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    1364
   ],
   "jp": "竜馬\nバイオレンスジャック！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nViolence Jack!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    1365
   ],
   "jp": "{p}\nバイオレンスジャック…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nViolence Jack...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    1366
   ],
   "jp": "早見青児\nこっちに迫ってくるのは？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nAnd what's that bearing down on us?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    1367
   ],
   "jp": "如月ハニー\nまるで\n戦国時代の 騎馬武者軍団だわ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's like a band of mounted warriors\nfrom the Warring States era!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    1368
   ],
   "jp": "竜馬\n無法化した関東に\n覇を唱える スラムキング\nそのスラムキングが組織した軍団\nドラゴンさ",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nThe Slum King rules lawless Kanto, and\nthat's the army he put together: the\nDragons.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    1369
   ],
   "jp": "ジャック\nグオオオオオオ！！",
-  "en": "",
-  "status": "",
+  "en": "Jack\nGRAAAAAAH!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    1370
   ],
   "jp": "如月ハニー\nあの人 ひとりで戦うつもりよ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHe's going to fight them all by himself!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    1371
   ],
   "jp": "早見青児\nハニー！ まさか 加勢する気か！？\n相手は 騎馬軍団だぜ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHoney! Don't tell me you're gonna help\nhim!? They're a whole cavalry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    1372
   ],
   "jp": "{p}\nだからといって あの巨人を\n見殺しには 出来ない！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEven so, we can't just let that giant\ndie!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    1373
   ],
   "jp": "竜馬\nどうする 門土？",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nWhat do we do, Mondo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    1374
   ],
   "jp": "門土\nこの関東を牛耳って\n帝王に なるためには\nキングとジャック\n二人を倒さなきゃなんねぇ\nやつらの力を見ておく\nいいチャンスさ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nIf I'm gonna run Kanto and be its\nemperor, I gotta take down both the\nKing and Jack. This is a good chance\nto size 'em up.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    1375
   ],
   "jp": "竜馬\nじゃあ…",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nSo then...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    1376
   ],
   "jp": "門土\nああ 高みの見物としゃれこもうぜ\n\nこんな おもしれぇ 見物\n滅多にねえ！",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nYeah, let's kick back and enjoy the\nshow.\n\nA show this good don't come around\noften!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    1380
   ],
   "jp": "ジャック\nなぜ 俺を助けた？",
-  "en": "",
-  "status": "",
+  "en": "Jack\nWhy did you help me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    1381
   ],
   "jp": "{p}\nなぜ…って たったひとりじゃ\n殺されちゃうと思って…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhy...? Well, I figured you'd get killed\nall on your own...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    1382
   ],
   "jp": "ジャック\n…………",
-  "en": "",
-  "status": "",
+  "en": "Jack\n..........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    1383
   ],
   "jp": "{p}\nな なに？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-what?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    1384
   ],
   "jp": "ジャック\n名は…\n名は なんという…？",
-  "en": "",
-  "status": "",
+  "en": "Jack\nYour name... What is your name...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    1385
   ],
   "jp": "{p}\n…{p}",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...{p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    1386
   ],
   "jp": "ジャック\n俺と関ったら ただでは済まんぞ\n\nそれでもいいのか！？\n{p}！！",
-  "en": "",
-  "status": "",
+  "en": "Jack\nGet mixed up with me and you won't\nwalk away clean.\n\nAre you fine with that!?\n{p}!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    1387
   ],
   "jp": "{p}\nど どういう意味？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-what do you mean?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    1388
   ],
   "jp": "門土\n噂で聞いたぜ そいつの目を見ると\n誰もが おかしくなっちまう\nジャックナイフの光が\n人間の原始を 呼び覚ますのさ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nHeard the rumors. Look that guy in\nthe eye and anybody goes nuts. The\ngleam of his jackknife wakes up the\nprimeval in people.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    1389
   ],
   "jp": "竜馬\nそう ひっそりと暮らしていた\n人間までもが\n戦わずには いられなくなる\n\n関わり合った人間は\n必ず戦いに巻き込まれていく\nそれが\nバイオレンスジャックさ…！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nThat's right. Even folks living quiet\nlittle lives can't help but fight.\n\nAnyone who gets involved with him gets\ndragged into battle, every time.\nThat's Violence Jack...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    1390
   ],
   "jp": "如月ハニー\nそ そんな…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nB-but that's...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    1391
   ],
   "jp": "早見青児\n確かに 戦いに\n巻き込まれちゃったもんなぁ…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWell, we sure got dragged into a\nfight...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    1392
   ],
   "jp": "{p}\n…ほっとけなかったんだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...I just couldn't leave him.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    1393
   ],
   "jp": "ジャック\n…………\n\nおまえには俺が接したことのない\nエネルギーを感じる\nしばらく おまえと共にいよう",
-  "en": "",
-  "status": "",
+  "en": "Jack\n..........\n\nI sense an energy in you unlike any\nI've ever met. I'll stay with you for a\nwhile.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    1394
   ],
   "jp": "門土\nそ～ゆ～ことなら\n俺も仲間に 加えてもらうぜ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nWell, if that's how it is, count me in too.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    1395
   ],
   "jp": "竜馬\nちょ ちょっと…！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nH-hey, wait...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    1396
   ],
   "jp": "竜馬\n門土 いったいどういうつもり？",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nMondo, what are you thinking?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    1397
   ],
   "jp": "門土\nここは ジャックに\n恩を売っておくのさ\nいくら俺でも バケモノ二人を\n相手にするのは きつすぎる\n言うだろ？\n敵の敵は 味方ってさ",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nWe get Jack owing us one. Even I can't\ntake on two monsters at once,\nthat's too much. You know what they\nsay: the enemy of my enemy is my\nfriend.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    1398
   ],
   "jp": "竜馬\nまあね…",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nI guess...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    1399
   ],
   "jp": "{p}\n何を こそこそ…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat are you two whispering about...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    1400
   ],
   "jp": "如月ハニー\nあなた達…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nYou two...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    1401
   ],
   "jp": "早見青児\n何か 企んでないか？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nYou aren't plotting something, are\nyou?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    1402
   ],
   "jp": "竜馬\nまっさかぁ～\n考えすぎだよ ねえ？",
-  "en": "",
-  "status": "",
+  "en": "Ryoma\nNo way! You're overthinking it, right?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    1403
   ],
   "jp": "門土\nそうとも！ まともな世界じゃ\n生きられねぇ俺達にとって\nこの関東は 希望の地！\n\nここには 俺達が求めていた\n自由がある！\nおまえ達の戦いぶりを見て\n血が騒いだだけさ！",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nDamn right! For guys like us who can't\nlive in a normal world, Kanto's the\npromised land!\n\nIt's got the freedom we've been\nlooking for! Watching you fight just\ngot my blood pumping, that's all!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    1406
   ],
   "jp": "ジャック\nふっふっふ…\n果たしてそうかな？\nここは地獄だぞ？\nはっはっはっはっは…！！",
-  "en": "",
-  "status": "",
+  "en": "Jack\nHeh heh heh... Is that so? This place is\nHell, you know. Hahahahaha...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    1407
   ],
   "jp": "{p}\n地獄…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHell...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    1410
   ],
   "jp": "スラムキング\nドラゴンが\nバイオレンスジャックに敗れた？",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nThe Dragons were beaten by Violence\nJack?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    1411
   ],
   "jp": "ドラゴン\nも 申し訳ありません！！\n\n後一歩というところまで\n追い詰めたのですが\n見慣れぬ輩が 邪魔をしまして…",
-  "en": "",
-  "status": "",
+  "en": "Dragon\nF-forgive us!!\n\nWe had him cornered, one step from\nthe kill, but some strangers got in\nour way...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    1412
   ],
   "jp": "スラムキング\n見慣れぬ輩…？",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nStrangers...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    1413
   ],
   "jp": "ドラゴン\nそれがどうも…\nこ 子供だったようで…",
-  "en": "",
-  "status": "",
+  "en": "Dragon\nWell, sire... It seems... th-they were\nchildren...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    1414
   ],
   "jp": "スラムキング\nドラゴンが\n子供にやられたと申すのか！？",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nYou mean to tell me the Dragons were\nbeaten by children!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    1415
   ],
   "jp": "ドラゴン\nも 申し訳ありません！！",
-  "en": "",
-  "status": "",
+  "en": "Dragon\nF-forgive us!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    1416
   ],
   "jp": "スラムキング\n言い訳は聞かぬ！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nI'll hear no excuses!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    1417
   ],
   "jp": "スラムキング\nどうした クィーン\n顔色が すぐれぬぞ？",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nWhat is it, Queen? You look pale.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    1418
   ],
   "jp": "スラムクィーン\n…昨夜 夢を見ました\n\n黒い月と共に 現れた者達が\n世界を滅ぼす夢です\nその者達は 少年少女でした\n\n先程の報告と 夢との奇妙な符合が\n気になります…",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\n...Last night I had a dream.\n\nA dream that those who appeared with\nthe black moon would destroy the\nworld. They were a boy and a girl.\n\nThe strange match between that\ndream and the report just now\ntroubles me...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    1419
   ],
   "jp": "スラムキング\n案ずるな クィーン！\n\n俺が 自ら ドラゴンを率い\nバイオレンスジャックを倒す！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nFear not, Queen!\n\nI shall lead the Dragons myself and\ncrush Violence Jack!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    1420
   ],
   "jp": "ドラゴン\nはは～っ！",
-  "en": "",
-  "status": "",
+  "en": "Dragon\nYes, sire!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    1431
   ],
   "jp": "店主\nあんたら よくドラゴンと戦って\n無事だったねぇ…\nでも あのでっかい人 本物の\nバイオレンスジャックなのかい？",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nYou fought the Dragons and lived,\nhuh... But that big guy, is he the real\nViolence Jack?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    1432
   ],
   "jp": "店主\nほら バイオレンスジャックが\n現れた町は 必ず滅びるって…",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nYou know, they say any town Violence\nJack shows up in is doomed...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    1433
   ],
   "jp": "門土\n関東のあちこちで 言われてるな",
-  "en": "",
-  "status": "",
+  "en": "Mondo\nThey say that all over Kanto.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    1434
   ],
   "jp": "店主\nあゆ子ちゃん 見つかったのか？",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nDid you find Ayuko-chan?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    1435
   ],
   "jp": "あゆ子の父\n見つかりはしないが\n居場所は解った…\n死神警察署に\n連行されたらしい…",
-  "en": "",
-  "status": "",
+  "en": "Ayuko's Father\nI haven't found her, but I know where\nshe is... It seems she was taken to\nthe Reaper Police HQ...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    1436
   ],
   "jp": "店主\nな なんだって！？",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nWh-what!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    1437
   ],
   "jp": "{p}\n警察なら むしろ安心なんじゃ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIsn't the police a good thing, though?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    1438
   ],
   "jp": "店主\nあんたらは 何も知らんから\nそんなことがいえるんだ",
-  "en": "",
-  "status": "",
+  "en": "Shopkeeper\nYou only say that because you don't\nknow anything.",
+  "status": "done",
   "notes": ""
  }
 ]

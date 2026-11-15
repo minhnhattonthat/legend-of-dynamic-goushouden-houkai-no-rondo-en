@@ -5,8 +5,8 @@
    10626
   ],
   "jp": "早乙女博士\n次元連鎖という現象について\n詳しいことは\n何もわかっていないのが現状だ\n\nそこで科学都市では 予知一族に\n協力を求めることが決まった",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nAt present, we know nothing in detail\nabout this phenomenon called the\nDimension Chain.\n\nSo Science City has decided to ask the\nPrecog Clan for their help.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    10627
   ],
   "jp": "{p}\nあの来留間博士と\n科学都市とが\n共に戸来村の預言者を\n探している！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDr. Kuruma and Science City are both\nsearching for the prophet of Herai\nVillage!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    10628
   ],
   "jp": "子郎\n俺達も戸来村へ行ってみよう\n{p}！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nLet's go to Herai Village too,\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    10629
   ],
   "jp": "早乙女博士\nそれが良かろう\n\n戸来村は ここから 北東\n科学都市 北の 小さな村だ\n来留間博士も\n予知一族を探している\n何が待っているか解らん\nじゅうぶん 気をつけてくれ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThat would be best.\n\nHerai Village is a small village\nnortheast of here, north of Science\nCity. Dr. Kuruma is searching for the\nPrecog Clan too. There's no telling\nwhat awaits you. Be very careful!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    10630
   ],
   "jp": "早乙女博士\n戸来村は ここから 北東\n科学都市 北の 小さな村だ\n来留間博士も\n予知一族を探している\n何が待っているか解らん\nじゅうぶん 気をつけてくれ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHerai Village is a small village\nnortheast of here, north of Science\nCity. Dr. Kuruma is searching for the\nPrecog Clan too. There's no telling\nwhat awaits you. Be very careful!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    10631
   ],
   "jp": "えん魔くん\n地獄別荘を 早乙女研究所の近くに\n移動してくれ！って頼んだんだ！\nそしたら ワシも行く！って\n言い出しちゃって…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nI asked him to move Hell Villa near the\nSaotome Lab! And then he goes, \"I'm\ncoming too!\"...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    10632
   ],
   "jp": "研究員\n",
-  "en": "",
-  "status": "",
+  "en": "Researcher\n...\n",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    10640
   ],
   "jp": "不動明\n…それはな {p}",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...Well, you see, {p}...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    10641
   ],
   "jp": "不動明\nおまえを驚かすために\nみんなず～っと黙ってたんだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWe all kept quiet the whole time to\nsurprise you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    10642
   ],
   "jp": "不動明\nこの地震 でかいぞ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThis quake's a big one!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    10643
   ],
   "jp": "不動明\nおい また何か起こったらしいぜ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHey, looks like something else\nhappened!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    10644
   ],
   "jp": "不動明\n………",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    10645
   ],
   "jp": "{p}\n明君\nもしかしたら その住宅地に…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun, maybe that housing area\nis...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    10646
   ],
   "jp": "不動明\n美樹ちゃんの家が\nあるかもしれない…\nこうしちゃいられねぇ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMiki-chan's house might be there... I\ncan't just sit here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    10647
   ],
   "jp": "{p}\n明君！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    10648
   ],
   "jp": "不動明\n俺達 蓮沼のあった場所に\n行ってみようと思うんだ\nもしかしたら 美樹ちゃんに\n逢えるかもしれないからな\n…急がないと美樹ちゃんが危ない\nそんな気がするんだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWe're thinking of checking out where\nHasunuma used to be. Maybe I'll find\nMiki-chan there. ...If I don't hurry,\nMiki-chan's in danger. I've got that\nfeeling!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    10649
   ],
   "jp": "飛鳥了\nひとりで行こうとする明を説得して\nここに連れてきた\n何が待っているか解らないからな\n仲間を連れて行ったほうがいい",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira was going to go alone, so I talked\nhim around and brought him here.\nThere's no telling what's waiting.\nBetter to bring friends.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    10650
   ],
   "jp": "{p}\n僕も そのほうが いいと思うよ\n明君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI think so too, Akira-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    10651
   ],
   "jp": "不動明\n急がないと美樹ちゃんが危ない…\nそんな気がするんだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nIf I don't hurry, Miki-chan's in danger...\nI've got that feeling!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    10652
   ],
   "jp": "{p}\n明君 気をつけて…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBe careful, Akira-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    10653
   ],
   "jp": "不動明\n解っている\nおまえもな！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI know. You too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    10660
   ],
   "jp": "{s}\n明君達\nあれから どうしてるかしら…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nI wonder how Akira-kun and the others\nare doing...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    10661
   ],
   "jp": "不動明\nいや～ みんなが無事で良かったよ",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMan, I'm glad everybody's safe.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    10662
   ],
   "jp": "美樹\n明君ったら あたしのことを\n心配してくれてたんじゃないの？",
-  "en": "",
-  "status": "",
+  "en": "Miki\nOh, Akira-kun, weren't you worried\nabout me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    10663
   ],
   "jp": "タレちゃん\n美樹ねぇちゃん 強いもん\n心配なんか いらないよね！",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nBig sis Miki's tough! No need to worry\nabout her, right?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    10664
   ],
   "jp": "美樹\nこらっ！",
-  "en": "",
-  "status": "",
+  "en": "Miki\nHey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    10665
   ],
   "jp": "タレちゃん\nひえ～っ！",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nYikes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    10666
   ],
   "jp": "美樹\nまったくもう！\n\n明君 お風呂わいてるからね",
-  "en": "",
-  "status": "",
+  "en": "Miki\nHonestly!\n\nAkira-kun, the bath's ready.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    10667
   ],
   "jp": "飛鳥了\nデビルマンとなった君は それ以前\nとは 人間が変わってしまった\nだが ふたりは\nそれに気がついていない\nそれとも ふたりにとって\n今の君のほうが自然なのかも…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nBecoming Devilman changed you as a\nperson. But those two haven't\nnoticed. Or maybe the way you are now\njust seems more natural to them...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    10668
   ],
   "jp": "不動明\nあの出来事どころか 次元連鎖すら\n起こっていないみたいだな",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLooks like nothing happened here, not\neven the Dimension Chain.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    10669
   ],
   "jp": "飛鳥了\nもしかしたら\n記憶を消されているのかも…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nMaybe their memories were erased...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    10670
   ],
   "jp": "不動明\n考えすぎだよ 了",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nYou're overthinking it, Ryo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    10671
   ],
   "jp": "飛鳥了\n時間の すすみ具合さえ違う世界…\n\nそんな世界が\n無数に存在しているのかも…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nWorlds where even time passes at a\ndifferent pace...\n\nMaybe there are countless worlds like\nthat...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    10672
   ],
   "jp": "美樹\n明君 お風呂わいてるからね",
-  "en": "",
-  "status": "",
+  "en": "Miki\nAkira-kun, the bath's ready.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    10680
   ],
   "jp": "不動明\n誰だ おまえ！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWho the hell are you!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    10681
   ],
   "jp": "美樹\nスケバン君！？\n\nお隣の女蛮子君よ\n通称 スケバン君",
-  "en": "",
-  "status": "",
+  "en": "Miki\nSukeban-kun!?\n\nIt's Banji Suke-kun from next door.\nEverybody calls him Sukeban-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    10682
   ],
   "jp": "蛮子\n夜分に すんません！\n\nおいら 姓はスケ 名はバンジ！\n通り名をスケバンと発しやす！\nごめんよ～ 美樹ちゃん！\nこれには わけがあるんだ…",
-  "en": "",
-  "status": "",
+  "en": "Banji\nSorry to drop by so late!\n\nMy family name's Suke, my given name's\nBanji! I go by the name of Sukeban!\nSorry, Miki-chan! There's a reason for\nthis...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    10683
   ],
   "jp": "不動明\nどんなわけだ！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhat reason!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    10684
   ],
   "jp": "美樹\nどうせまた 蛮千代おばさまに\n叱られてるんでしょ？",
-  "en": "",
-  "status": "",
+  "en": "Miki\nAunt Banchiyo's scolding you again,\nisn't she?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    10685
   ],
   "jp": "蛮千代\n逃がさんぞ 蛮子！",
-  "en": "",
-  "status": "",
+  "en": "Banchiyo\nYou won't get away, Banji!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    10686
   ],
   "jp": "蛮子\nあ～っ きた～っ！",
-  "en": "",
-  "status": "",
+  "en": "Banji\nAaah, she's heeere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    10687
   ],
   "jp": "蛮千代\nくたばれ 蛮子！",
-  "en": "",
-  "status": "",
+  "en": "Banchiyo\nDrop dead, Banji!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    10688
   ],
   "jp": "蛮子\nヒ～ッ！",
-  "en": "",
-  "status": "",
+  "en": "Banji\nEeeek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    10689
   ],
   "jp": "不動明\n………",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    10690
   ],
   "jp": "美樹\n蛮子君のお母さん\n伝説の女番長だったんだって！\n普段は 凄く優しい人なんだけど\n怒り始めたら手がつけられないの",
-  "en": "",
-  "status": "",
+  "en": "Miki\nThey say Banji-kun's mom used to be a\nlegendary girl gang boss! She's\nusually really sweet, but once she\ngets mad, nobody can handle her.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    10691
   ],
   "jp": "不動明\n蛮子って たしか…\n男じゃなかったか？\nなんで あいつ\nスカートはいてたんだ？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThat Banji... isn't he a guy? Why was\nhe wearing a skirt?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    10692
   ],
   "jp": "美樹\n転校した学校の制服なんだって！",
-  "en": "",
-  "status": "",
+  "en": "Miki\nHe says it's the uniform at the school\nhe transferred to!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    10693
   ],
   "jp": "不動明\nでもあれ\nどう見ても女の子の制服だぞ…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nBut that sure looks like a girls'\nuniform to me...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    10694
   ],
   "jp": "タレちゃん\nＺＺＺ…\nＺＺＺ…",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nZzz... Zzz...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    10695
   ],
   "jp": "美樹\n明君も一緒に はいるぅ～？",
-  "en": "",
-  "status": "",
+  "en": "Miki\nAkira-kun, wanna get in with me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    10696
   ],
   "jp": "不動明\n…ばか！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...Idiot!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    10697
   ],
   "jp": "不動明\nふぅ…\n美樹ちゃん 無事で良かった…\n…だが おかしい\n妙な胸騒ぎがする\n俺の血が騒ぐ…\n戦いの時が迫っている…\n戦いのゴングが 間もなく鳴る！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nPhew... I'm glad Miki-chan's safe... But\nsomething's wrong. I've got a\nstrange feeling. My blood's stirring...\nA fight's coming... The bell's about to\nring!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    10698
   ],
   "jp": "シレーヌ\n美しき月よ… そなたは これから\n起こることを 見ないほうが良い\n醜い血で染まりたくないならば…！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nO lovely moon... You'd best not watch\nwhat's about to happen. Not if you\ndon't want to be stained with ugly\nblood...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    10699
   ],
   "jp": "シレーヌ\nあはははは…！\nデビルマンを地獄に送る案内人！\n戦うことしか知らぬ\nデーモンの戦士達よ！\n嵐と共に来たれ！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nAhahahaha...! Guides who'll send\nDevilman to Hell! Demon warriors who\nknow nothing but battle! Come with the\nstorm!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    10700
   ],
   "jp": "美樹\nキャァ～ッ！",
-  "en": "",
-  "status": "",
+  "en": "Miki\nKYAAAH!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    10701
   ],
   "jp": "不動明\n鳴った！\n戦いのゴングだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThere it is! The bell for the fight!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    10702
   ],
   "jp": "タレちゃん\nさっきの悲鳴 なに？\nびっくりして 漏らしちゃった…",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nWhat was that scream? I got so scared\nI wet myself...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    10703
   ],
   "jp": "不動明\n美樹ちゃんが いない！？\nさらわれたか！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMiki-chan's gone!? Was she\nkidnapped!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    10704
   ],
   "jp": "飛鳥了\n明！\n誰かが玄関から出て行ったぞ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira! Someone went out the front\ndoor!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    10705
   ],
   "jp": "不動明\n美樹ちゃん！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMiki-chan!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    10706
   ],
   "jp": "不動明\nひさしぶりに帰ってこれたんだ…\nもう少し ゆっくりしよう",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nFirst time I've been back in a while...\nLet's take it easy a bit longer.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    10710
   ],
   "jp": "不動明\nデーモン！\n美樹ちゃんを返せ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDemon! Give Miki-chan back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    10711
   ],
   "jp": "不動明\n美樹ちゃん…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMiki-chan...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    10712
   ],
   "jp": "飛鳥了\n大丈夫 気を失っているだけだ",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nIt's all right. She's just unconscious.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    10713
   ],
   "jp": "不動明\nきさま 何者だ？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWho the hell are you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    10714
   ],
   "jp": "木刀政\nあっしは 木刀政…\nあんたが来てくれなきゃ\n化けもんに\n食われてるところだったぜ！",
-  "en": "",
-  "status": "",
+  "en": "Bokuto Masa\nThe name's Bokuto Masa... If you\nhadn't come, I'd've been eaten by\nthat monster!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    10715
   ],
   "jp": "木刀政\nな なんだ あのでっけぇ鳥は！？",
-  "en": "",
-  "status": "",
+  "en": "Bokuto Masa\nWh-what's that huge bird!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    10716
   ],
   "jp": "飛鳥了\n明！\nしまった！\n木刀政とやら ついてこい！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira! Damn! You, Bokuto Masa or\nwhatever, come with me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    10717
   ],
   "jp": "木刀政\nもちろんだ！",
-  "en": "",
-  "status": "",
+  "en": "Bokuto Masa\nYou bet!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    10718
   ],
   "jp": "タレちゃん\n美樹ねえちゃん！\n大変だ 部屋に運ばなくちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nBig sis Miki! Oh no, we gotta get her to\nher room!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    10720
   ],
   "jp": "シレーヌ\n勝った！\n私の勝ちだ デビルマン！\nおまえが気を抜いた瞬間を\n狙っていたのさ！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nI've won! The victory is mine, Devilman! I\nwas waiting for the moment you let\nyour guard down!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    10721
   ],
   "jp": "不動明\nぐぅ… シレーヌ？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nNgh... Sirene?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    10722
   ],
   "jp": "シレーヌ\nアモンの記憶が残ってるようだね！\n\n私を覚えていてくれて うれしいよ\nデビルマン！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nSo Amon's memories still remain!\n\nHow lovely that you remember me,\nDevilman!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    10723
   ],
   "jp": "不動明\nうっ\nデビルマンに変身出来ない！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nNgh, I can't transform into Devilman!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    10724
   ],
   "jp": "シレーヌ\n私の爪には あらゆる超能力を\n防ぐ力があるのさ！\nおまえの身体を紙くずのように\n引き裂いてあげるわ！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nMy claws have the power to block\nevery psychic power! I'll tear your\nbody to shreds like scrap paper!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    10725
   ],
   "jp": "飛鳥了\n俺が不動明に 妖鳥シレーヌを\n打ち破る チャンスを与えよう！\n待っていろ デビルマン！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nI'll give Akira Fudo the chance to\ndefeat Sirene the bird-demon! Wait\nfor me, Devilman!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    10726
   ],
   "jp": "木刀政\nいたぜ！ あそこだ！",
-  "en": "",
-  "status": "",
+  "en": "Bokuto Masa\nThere she is! Over there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    10727
   ],
   "jp": "飛鳥了\nよし！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nGood!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    10730
   ],
   "jp": "シレーヌ\nおまえは 美しい地球のゴミために\nうごめく虫ケラだ！\n虫ケラに ふさわしい死に方を\nさせてやるわ！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nYou're a bug crawling in the beautiful\nEarth's garbage heap! I'll give you a\ndeath fit for a bug!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    10731
   ],
   "jp": "不動明\n了！\nまさか…！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nRyo! Don't tell me...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    10732
   ],
   "jp": "シレーヌ\nギエエエエエ～！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nGYEEEEEEH!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    10733
   ],
   "jp": "飛鳥了\n明！\n大丈夫か！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira! Are you all right!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    10734
   ],
   "jp": "不動明\nシレーヌめ！\n\n俺を 人間を ゴミためにうごめく\n虫ケラと言ったな！\nその虫ケラの力がどのようなものか\n見るがいい！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDamn you, Sirene!\n\nYou called me, called humans, bugs\ncrawling in a garbage heap! Now see\nwhat this bug can do!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    10735
   ],
   "jp": "不動明\n行くぞ 了！ 政！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLet's go, Ryo! Masa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    10736
   ],
   "jp": "不動明\n…今 ここで シレーヌを倒す！\nまだ戻るわけには いかない！！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...I'm beating Sirene here and now! I\ncan't go back yet!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    10740
   ],
   "jp": "シレーヌ\nきさまを\n百の肉片に引きちぎってくれる！\n来い デビルマン！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nI'll tear you into a hundred pieces of\nmeat! Come, Devilman!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    10741
   ],
   "jp": "デビルマン\n悪あがきは よしやがれ\nてめぇの負けだ シレーヌ",
-  "en": "",
-  "status": "",
+  "en": "Devilman\nQuit your struggling. You've lost,\nSirene.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    10742
   ],
   "jp": "シレーヌ\nくっ！ キズが深い…\n勝てないのか…\nこのままでは死にきれぬ！\nデビルマンを倒す力が欲しい…！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nNgh! The wound is deep... Can I not\nwin... I can't die like this! I want the\npower to defeat Devilman...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    10743
   ],
   "jp": "カイム\nシレーヌ 俺の身体を使え！\n合体だ！",
-  "en": "",
-  "status": "",
+  "en": "Kaim\nSirene, use my body! Merge with me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    10744
   ],
   "jp": "シレーヌ\n合体？\n何をいうのカイム！\nたとえデビルマンに勝っても\nふたりとも すぐに死ぬのよ！\nそれでもいいの カイム！？",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nMerge? What are you saying, Kaim! Even\nif we beat Devilman, we'll both die\nsoon after! Are you all right with that,\nKaim!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    10745
   ],
   "jp": "カイム\n俺は 生き延びるつもりは無い…\n\nシレーヌ 君に勝利の感激を\n味あわせたいだけだ",
-  "en": "",
-  "status": "",
+  "en": "Kaim\nI don't intend to survive...\n\nSirene, I just want you to taste the\nthrill of victory.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    10746
   ],
   "jp": "シレーヌ\nな なぜ…",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nWh-why...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    10747
   ],
   "jp": "カイム\nシレーヌ\n血まみれでも君は美しい…",
-  "en": "",
-  "status": "",
+  "en": "Kaim\nSirene... Even covered in blood, you're\nbeautiful...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    10748
   ],
   "jp": "シレーヌ\nカイム！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nKaim!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    10749
   ],
   "jp": "シレーヌ\nデビルマン！\n\nシレーヌの執念が カイムの命が！\nきさまを倒す！\nきさまの命をカイムに捧げる！",
-  "en": "",
-  "status": "",
+  "en": "Sirene\nDevilman!\n\nSirene's obsession and Kaim's life will\ndefeat you! I'll offer your life to\nKaim!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    10750
   ],
   "jp": "不動明\nくっ！\nシレーヌ！！\n…！？\n\n強敵だったが こときれている…\nシレーヌ 恐ろしい敵だった…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nNgh! Sirene!! ...!?\n\nA powerful enemy, but she's breathed\nher last... Sirene, you were a\nterrifying enemy...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    10751
   ],
   "jp": "飛鳥了\nいや 素晴らしい敵と褒めてやれよ\n明",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nNo, praise her as a magnificent enemy,\nAkira.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    10752
   ],
   "jp": "不動明\n美しい…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nShe's beautiful...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    10753
   ],
   "jp": "飛鳥了\n………",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    10754
   ],
   "jp": "木刀政\nアニキ！\nあれを見てくだせぃ！",
-  "en": "",
-  "status": "",
+  "en": "Bokuto Masa\nBro! Take a look at that!",
+  "status": "done",
   "notes": ""
  }
 ]

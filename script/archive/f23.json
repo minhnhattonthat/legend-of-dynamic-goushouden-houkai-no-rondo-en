@@ -5,8 +5,8 @@
    4054
   ],
   "jp": "科学者\nう～む… わからん…！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nHmmm... I can't make sense of it...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    4055
   ],
   "jp": "科学者\n謎を解くのが科学者のつとめじゃ！\nまかせなさい！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nSolving mysteries is a scientist's duty,\nI tell you! Leave it to me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    4056
   ],
   "jp": "科学者\nむむむ… むむむ…",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nHmmm... hmmm...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    4057
   ],
   "jp": "科学者\n月と太陽… いろいろ\n考える余地はありそうじゃな…",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nThe moon and the sun... There's a lot\nof room for thought there, I'd say...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    4058
   ],
   "jp": "医者\nみなさん だいぶショックを\n受けています\n仲間だった人が\n魔物に変ったんですからね",
-  "en": "",
-  "status": "",
+  "en": "Doctor\nEveryone's pretty badly shaken.\nAfter all, someone who was their\nfriend turned into a monster.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    4059
   ],
   "jp": "不動明\n誰かに 身体を操られるのは\nもうごめんだぜ…\n信用していた仲間に 傷つけられ\nるのは もっとイヤだ…！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI've had enough of somebody\ncontrolling my body... And getting\nhurt by a friend I trusted is even\nworse...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    4060
   ],
   "jp": "早乙女門土\n裏切るのは慣れているが\n裏切られるのは慣れてないんでね\n誰のことかって？\n{s}さ！",
-  "en": "",
-  "status": "",
+  "en": "Mondo Saotome\nI'm used to doin' the betrayin', but not\nto bein' betrayed. Who do I mean?\n{s}, that's who!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    4061
   ],
   "jp": "身堂竜馬\n{p}の {s}への\n気持ちは わかるよ\nでも アレはもう\n{s}じゃない！\n化け物だ！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma Shindo\nI get how you feel about\n{s}, {p}.\nBut that thing's not {s}\nanymore! It's a monster!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    4062
   ],
   "jp": "ジャック\n……………",
-  "en": "",
-  "status": "",
+  "en": "Jack\n...............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    4063
   ],
   "jp": "えん魔くん\nもしかしたら {s}を\n地獄別荘に招いたのが\nそもそも 失敗だったのかも",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nMaybe inviting {s} to Hell\nVilla was a mistake to begin with.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    4064
   ],
   "jp": "カパエル\nいてェよぉ いてぇよぉ…\n頭いてェよぉ…",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nIt hurts, it hurts... My head hurts\nsomethin' awful...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    4065
   ],
   "jp": "雪子姫\n寒気がするの…\nこんなの はじめて…",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\nI've got chills... I've never felt like this\nbefore...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    4066
   ],
   "jp": "閻魔大王\nわしとしたことが 遅れをとった\nわい 次は必ず仕留める！\n{s}のことは\n忘れるべきじゃぞ！",
-  "en": "",
-  "status": "",
+  "en": "Great King Enma\nFor me of all people to fall behind...\nNext time, I'll finish it for sure! You\nshould forget about {s},\nmy boy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    4067
   ],
   "jp": "山岸\nてやんでぇ これしきの傷！\nやられたら やりかえすぜ！\nたとえ相手が\n元{s}でもな！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nBah, a scratch like this! You hit me, I\nhit back! Even if it's the former\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    4068
   ],
   "jp": "袋小路\n痛いよ～！ オヤブン\nもういやだ こんなの…",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nOwww! Boss, I can't take this anymore...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    4069
   ],
   "jp": "十兵衛\n{p}には気の毒だけど\nもう忘れるべきよ\n{s}のこと…",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nI feel bad for you, {p},\nbut you should forget about\n{s} now...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    4070
   ],
   "jp": "子郎\n手天童子郎でもあり\n手天童子でもある\nそれでも俺は 俺であることに\nかわりはない\nしかし {s}は\n魔物になってしまった！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nI'm Jiro Shutendo, and I'm also the\nShutendoji. Even so, I'm still me. But\n{s} has become a\nmonster!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    4071
   ],
   "jp": "護鬼\nあのような魔物を相手に\nどこまで童子をお護り出来るか…",
-  "en": "",
-  "status": "",
+  "en": "Goki\nAgainst such a monster, how long can I\nprotect Doji...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    4072
   ],
   "jp": "戦鬼\n戦いで 俺は 初めて恐怖を感じた\nあいつは 恐ろしいヤツだ！",
-  "en": "",
-  "status": "",
+  "en": "Senki\nIn that fight, for the first time I felt\nfear. That one is terrifying!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    4073
   ],
   "jp": "白鳥美雪\n私 恐いの… 黒い魔物が…！\n{s}が…！",
-  "en": "",
-  "status": "",
+  "en": "Miyuki Shiratori\nI'm scared... of the black fiends...! Of\n{s}...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    4074
   ],
   "jp": "弓さやか\n一緒に戦ってきた仲間に 裏切ら\nれたんだもん つらいわよ…",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\nA friend we fought side by side with\nbetrayed us. It's hard...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    4075
   ],
   "jp": "ボス\n許せねぇ！\nこのボスを だますなんて！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nUnforgivable! Pullin' one over on the\nBoss!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    4076
   ],
   "jp": "ヌケ\nいたいなぁ… いたいよぉ…\nいたいぞぉ…",
-  "en": "",
-  "status": "",
+  "en": "Nuke\nOuchie... it hurts... it hurts...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    4077
   ],
   "jp": "ムチャ\nくそ～！ いてぇ～！\nなんとかしてくれぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Mucha\nDammit! It hurts! Somebody do\nsomethin'!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    4078
   ],
   "jp": "美剣千草\nごめんなさい… 一生懸命\n{s}を信じようとしても\nあの恐ろしい姿が\n忘れられないの！",
-  "en": "",
-  "status": "",
+  "en": "Chigusa Mitsurugi\nI'm sorry... No matter how hard I try to\nbelieve in {s}, I can't\nforget that terrifying form!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    4079
   ],
   "jp": "合田\n正直 恐かったよ\n今でも… 恐い…",
-  "en": "",
-  "status": "",
+  "en": "Goda\nHonestly, I was scared. Even now... I'm\nscared...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    4080
   ],
   "jp": "瓜生\n今まで 他人を意のままに\n操ってきた俺だが\n初めて 自分が 他人に操られて\nしまった… イヤな気分だぜ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nI've always bent others to my will, but\nthis is the first time I've been\ncontrolled by someone else... What a\nlousy feeling!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    4081
   ],
   "jp": "富三郎\nガタガタ ブルブル…\nお 恐ろしい…！",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nSh-shake, shiver... S-so scary...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    4082
   ],
   "jp": "如月ハニー\nみんな {s}のことが\n好きだったのよ…\nそれだけにショックを受けてるの\n気にしないほうが いいわ…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nEveryone liked {s}...\nThat's why they're so shocked.\nBetter not let it get to you...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    4083
   ],
   "jp": "如月ハニー\nとても{s}とは\n思えない姿だったもの…\nあたしだって 思い出すと\n恐いの…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nShe looked nothing like\n{s}... Even I get scared\nremembering it...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    4084
   ],
   "jp": "如月ハニー\n黒い魔物に 操られた恐怖が\n忘れられないのね…\n自分が {s}のように\nなっていたかもしれないんだもの",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThey can't forget the terror of being\ncontrolled by the black fiends...\nThey might have ended up like\n{s} themselves.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    4085
   ],
   "jp": "如月ハニー\nいつか 解ってくれると思うの\n\nそれまでは 何を言われても\n気にしないほうが いいわ…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI think they'll understand someday.\n\nUntil then, better not let what they\nsay get to you...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    4090
   ],
   "jp": "不動明\n身体を操り 仲間を裏切り\n傷つける…\n俺は 魔王を許さん！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nControlling bodies, turning friends\ninto traitors, hurting them... I won't\nforgive the Demon King!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    4091
   ],
   "jp": "早乙女門土\n酷いことになったな\nだが あきらめるなよ！\nどんなことでも\nあきらめたら 終わりだぜ！",
-  "en": "",
-  "status": "",
+  "en": "Mondo Saotome\nThings got ugly. But don't give up!\nWhatever it is, you give up and it's\nover!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    4092
   ],
   "jp": "身堂竜馬\n元気出しなよ {p}！\n\n必ず {s}は\n元に戻るさ！",
-  "en": "",
-  "status": "",
+  "en": "Ryoma Shindo\nCheer up, {p}!\n\n{s}'ll come back to\nnormal for sure!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    4094
   ],
   "jp": "ジャック\n魔王の存在が気にかかる…",
-  "en": "",
-  "status": "",
+  "en": "Jack\nThe Demon King's existence troubles\nme...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    4095
   ],
   "jp": "えん魔くん\nまさか こんなことに\nなるなんてな…\n俺は魔王をやっつけたくて\nうずうずしてるぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nNever thought it'd come to this... I'm\nitching to take down the Demon King!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    4096
   ],
   "jp": "カパエル\nあんさんの気持ちは\nよ～ わかるで！",
-  "en": "",
-  "status": "",
+  "en": "Kapaeru\nI know just how you feel, I do!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    4097
   ],
   "jp": "雪子姫\nあたしは 信じてないわよ\n\n{s}が\n魔物になったなんて！",
-  "en": "",
-  "status": "",
+  "en": "Princess Yukiko\nI don't believe it!\n\nThat {s} turned into a\nmonster!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    4098
   ],
   "jp": "閻魔大王\n黒い物体で\n人々を意のままに操る…\n何者じゃ 魔王とは！",
-  "en": "",
-  "status": "",
+  "en": "Great King Enma\nControlling people at will with black\nthings... Who is this Demon King!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    4099
   ],
   "jp": "山岸\nひっで～ことしやがるよなぁ\n魔王ってさ！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nThat Demon King sure pulls some nasty\nstuff, huh!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    4100
   ],
   "jp": "袋小路\nボクは 怒ってますです！",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nI'm mad, I really am!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    4101
   ],
   "jp": "十兵衛\n{s}のことが心配でしょ？\nあたしもよ\nでも必ず 助け出してあげるわ！\nだから元気だして！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nYou're worried about\n{s}, right? Me too. But\nwe'll rescue her for sure! So cheer up!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    4102
   ],
   "jp": "子郎\n自分が何者か解らないことは\nとても つらいことだよ\n{s}も きっと ひどく\n悩んでいると思うよ",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nNot knowing what you are is really\nhard. I bet {s} is\nsuffering terribly too.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    4103
   ],
   "jp": "護鬼\n{s}が\n完全に魔物になったと\n決まったわけではない！",
-  "en": "",
-  "status": "",
+  "en": "Goki\nIt is not yet certain that\n{s} has become a\nmonster completely!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    4104
   ],
   "jp": "戦鬼\nたとえ{s}相手でも\n俺は 戦わなくてはならない\n運命だ！",
-  "en": "",
-  "status": "",
+  "en": "Senki\nEven against {s}, I must\nfight. That is my fate!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    4105
   ],
   "jp": "白鳥美雪\nこれから 世界は\nどうなっちゃうのかしら…",
-  "en": "",
-  "status": "",
+  "en": "Miyuki Shiratori\nWhat's going to happen to the world\nnow...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    4106
   ],
   "jp": "弓さやか\nアフロダイＡが 魔王を\nやっつけるわよ！まかせて！",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\nAphrodite A will beat the Demon King!\nLeave it to me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    4107
   ],
   "jp": "ボス\n俺に 恐いもんはねぇぜ！\nたとえ相手が 魔王だってな！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nI ain't scared of nothin'! Not even the\nDemon King!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    4108
   ],
   "jp": "ヌケ\n操られるのは イヤだから\n魔王をやっつけないとな！",
-  "en": "",
-  "status": "",
+  "en": "Nuke\nI hate gettin' controlled, so we gotta\nbeat the Demon King!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    4109
   ],
   "jp": "ムチャ\n来るなら\nいつでも来やがれ…ってんだ！",
-  "en": "",
-  "status": "",
+  "en": "Mucha\nBring it on, anytime ya like!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    4110
   ],
   "jp": "合田\n元気出すんだ {p}！\n俺の拳を信じてくれ！",
-  "en": "",
-  "status": "",
+  "en": "Goda\nCheer up, {p}! Believe in\nmy fists!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    4111
   ],
   "jp": "団兵衛\nおぬしの気持ちは わかるぞ\n{p}よ\n心配じゃろ～なぁ\nワシ がんばっちゃうもんね！",
-  "en": "",
-  "status": "",
+  "en": "Danbei\nI know how you feel, {p}.\nYou must be worried sick. I'll give it\nmy all, I will!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    4112
   ],
   "jp": "イボ痔小五郎\nおっそろし～事件に\nまきこまれちゃったみたい",
-  "en": "",
-  "status": "",
+  "en": "Kogoro Iboji\nSeems we got caught up in a\nterrrifying case...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    4113
   ],
   "jp": "こややし\nまお～ まお～ やっつける～！",
-  "en": "",
-  "status": "",
+  "en": "Koyayashi\nDemon Kiiing, Demon Kiiing, beat him\nuuup!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    4114
   ],
   "jp": "慎一\n黒い物体が 人々を操れることは\nみんなが知っている\nなのに なんで{s}が\n魔物と呼ばれるんだろうな？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nEveryone knows the black things can\ncontrol people. So why is\n{s} the one being called\na monster?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    4115
   ],
   "jp": "{p}\n{s}が\n「破壊の月」だから…かな？\nでも「破壊の月」って\nなんだろう…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBecause {s} is the\n\"Moon of destruction,\" maybe? But\nwhat is the \"Moon of destruction\"...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    4116
   ],
   "jp": "慎一\n謎が多過ぎるな…",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nToo many mysteries...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    4117
   ],
   "jp": "朱紗\n魔王は おまえのことを\n「再生の太陽」って呼んだんだろ？\n「再生の太陽」って\nどういう意味かな？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThe Demon King called you the \"Sun of\nrebirth,\" right? What does \"Sun of\nrebirth\" mean?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    4118
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    4119
   ],
   "jp": "朱紗\n凄ノ王と呼ばれて\nとても不安な気持ちになったよ\n今の{p}の気持ち\n俺には わかるよ",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nWhen they called me Susano-oh, I felt\nreally uneasy. I know how you feel\nright now, {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    4120
   ],
   "jp": "{p}\nありがとう 朱紗君",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThanks, Shusha-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    4121
   ],
   "jp": "弓教授\n破壊の月… 再生の太陽…\n結合の時…\nう～ん…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe Moon of destruction... the Sun of\nrebirth... the time of joining... Hmmm...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    4122
   ],
   "jp": "科学者\nわからんことだらけじゃ…\nわしゃ 疲れてきた…",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nNothing but mysteries... I'm getting\ntired, I tell you...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    4123
   ],
   "jp": "科学者\n謎を解こうとすると\n新たな謎が生まれる…",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nEvery time I try to solve a mystery, a\nnew one appears...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    4124
   ],
   "jp": "科学者\nむにゃむにゃ… ハッ！？\nいかん 寝てもうた…",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nMumble mumble... Huh!? Oh no, I dozed\noff...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    4125
   ],
   "jp": "科学者\nワシが思うに…！ あれ\nなに言おうとしたんだっけ？",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nIn my opinion...! Huh, what was I going to\nsay?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    4126
   ],
   "jp": "如月ハニー\nダメよ 居住エリアから出ちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNo, don't leave the residential area!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    4127
   ],
   "jp": "早見青児\n君は 狙われてるんだぞ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nThey're after you, you know!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    4128
   ],
   "jp": "如月ハニー\nどうしよう… 行っちゃったわ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWhat do we do... He's gone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    4129
   ],
   "jp": "早見青児\n弓教授に知らせてくる！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nI'll go tell Professor Yumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    4130
   ],
   "jp": "如月ハニー\n…もう！ あの子ったら！！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n...Honestly! That boy!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    4131
   ],
   "jp": "如月ハニー\n良かった！\n無事だったのね！\nハニーを置いて行っちゃうなんて\n水臭いぞ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThank goodness! You're okay! Leaving\nHoney behind like that... how cold!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    4132
   ],
   "jp": "早見青児\n良かった！\n無事みたいだね！\nちょうど会議が終わったところだ\n弓教授が君に会いたがっているぞ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nThank goodness! Looks like you're\nokay! The meeting just ended.\nProfessor Yumi wants to see you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    4133
   ],
   "jp": "{p}\nこの人達に見つかったら\n僕の命はない…\n別の場所へ行こう…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIf these people find me, I'm dead...\nLet's go somewhere else...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    4134
   ],
   "jp": "科学者\n{p}君！\nよかった 無事みたいだね\nちょうど会議が終わったところだ\n弓教授が君に会いたがっているぞ",
-  "en": "",
-  "status": "",
+  "en": "Scientist\n{p}-kun! Thank\ngoodness, looks like you're okay.\nThe meeting just ended. Professor\nYumi wants to see you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    4135
   ],
   "jp": "科学者\n{p}君！\nよかった 無事みたいだね\nちょうど会議が終わったところだ\n\n早乙女博士が\n君に会いたがっているぞ",
-  "en": "",
-  "status": "",
+  "en": "Scientist\n{p}-kun! Thank\ngoodness, looks like you're okay.\nThe meeting just ended.\n\nDr. Saotome wants to see you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    4136
   ],
   "jp": "{p}\n力を貸してくれる仲間が\nまだ他にも いるかもしれない\nきっと どこかに…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThere might still be more friends who'll\nlend us their strength. Somewhere\nout there...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    4140
   ],
   "jp": "医者\n黒い魔物に操られた人の中には\n気を失って 病院に運ばれた人も\nたくさん いました",
-  "en": "",
-  "status": "",
+  "en": "Doctor\nMany of the people controlled by the\nblack fiends passed out and were\ntaken to the hospital.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    4201
   ],
   "jp": "弓教授\n{p}君！\nようやく答えを見出せたよ！\n魔王は 日蝕を待っているのだよ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\n{p}-kun! I've finally\nfound the answer! The Demon King is\nwaiting for a solar eclipse!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    4202
   ],
   "jp": "{p}\n月が 太陽の光をさえぎる\nあの日蝕ですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou mean an eclipse, when the moon\nblocks the sun's light?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    4203
   ],
   "jp": "弓教授\nそのとおり！\n\n恐らく 日蝕の訪れと共に\n魔王は 真の力を得るのだと思う",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nExactly!\n\nMost likely, the Demon King will gain his\ntrue power when the eclipse comes.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    4204
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    4205
   ],
   "jp": "弓教授\nこれまで 次元連鎖が起きるたびに\nあるものが出現していた\n黒い月だ！\n\n…日蝕が起きたら\n何が出現するかね？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nEvery time the Dimension Chain has\noccurred, a certain thing has\nappeared. The black moon!\n\n...So when an eclipse happens, what\nappears?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    4206
   ],
   "jp": "{p}\nえ？… え～と あっ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh? ...Uh, um... Oh!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    4207
   ],
   "jp": "弓教授\nそうだ 黒い太陽だ！\n\n黒い太陽が 出現した時\n魔王が 真の力を得るのだ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThat's right, a black sun!\n\nWhen the black sun appears, the\nDemon King will gain his true power!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    4208
   ],
   "jp": "{p}\nそれで 次の日蝕は\nいつなんですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo when's the next eclipse?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    4209
   ],
   "jp": "弓教授\n明日だ…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nTomorrow...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    4210
   ],
   "jp": "{p}\n明日！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nTomorrow!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    4211
   ],
   "jp": "弓教授\n至急 対策を立てねばならん！\n\nサロンに来てくれ！\n作戦会議だ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nWe must make a plan at once!\n\nCome to the salon! It's a strategy\nmeeting!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    4212
   ],
   "jp": "科学者\n破壊の月 再生の太陽… そして\n間もなく訪れる 結合の時！\nこれらのキーワードから\n導かれた推論が 日蝕なんじゃ",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nThe Moon of destruction, the Sun of\nrebirth... and the time of joining\nthat's soon to come! The eclipse is the\nconclusion drawn from those\nkeywords, I tell you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    4213
   ],
   "jp": "科学者\n太陽の光とは 人々にとって\n恵みをもたらす\nそれを 月がさえぎる この時\n魔王が 世界を破壊する！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nThe sun's light brings blessings to\npeople. At the moment the moon\nblocks it, the Demon King will destroy\nthe world!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    4214
   ],
   "jp": "科学者\n魔王は 黒い月を利用して\n世界を結合させてきた\n黒い太陽を使って 魔王は\nなにを目論んでいるのか…",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nThe Demon King has used the black\nmoon to join the worlds together.\nWhat is he scheming to do with a black\nsun...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    4215
   ],
   "jp": "科学者\n問題は 再生の太陽が\n何を意味しているか…じゃ\nこれだけは\nまだ よくわからんのじゃよ",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nThe question is what the Sun of\nrebirth means, you see. That's the\none thing we still don't quite\nunderstand.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    4220
   ],
   "jp": "弓教授\n…というわけだ 諸君！\n日蝕は 明日！\nもしも 私の推理が正しければ\n明日 魔王は 真の力を得る！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\n...So there you have it, everyone! The\neclipse is tomorrow! If my reasoning\nis correct, tomorrow the Demon King\ngains his true power!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    4221
   ],
   "jp": "弓教授\nそして {p}君！\n君に言い忘れていたことがある\n恐らく {s}君は\n無事に生きているぞ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nAnd {p}-kun! There's\nsomething I forgot to tell you. In all\nlikelihood, {s}-kun is\nalive and well!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    4222
   ],
   "jp": "{p}\n…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    4223
   ],
   "jp": "弓教授\n君が生きていることが\nその証しだよ\n魔王は {s}君を\n「月」と呼び\n君を「太陽」と呼んだのだからね",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe proof is that you're alive. After\nall, the Demon King called\n{s}-kun the \"moon\" and\nyou the \"sun.\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    4224
   ],
   "jp": "{p}\nそっか… 魔王が 僕を\n必要としているってことは…\n{s}も 生きている\n可能性が 高いわけだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI see... If the Demon King needs me...\nthen there's a good chance\n{s} is still alive too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    4225
   ],
   "jp": "弓教授\n魔王は\n捕らえた {s}君を\n逃がさぬよう 見張っているのだ\n\nそして人々を操り 君を手に\n入れようと しているのだろう",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe Demon King is keeping watch over\n{s}-kun so she can't\nescape.\n\nAnd he's probably controlling people\nto try to get his hands on you.",
+  "status": "done",
   "notes": ""
  }
 ]

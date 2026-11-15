@@ -5,8 +5,8 @@
    10304
   ],
   "jp": "早乙女博士\n準備は いいか？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nAll set?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    10305
   ],
   "jp": "早乙女博士\nでは {s}を\nトレーラーに 同乗させるのだ\n早乙女研究所に向かうぞ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThen put {s} in the\ntrailer with us. We're heading for the\nSaotome Lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    10306
   ],
   "jp": "早乙女博士\n準備が出来たら\nわしに話しかけるのだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nTalk to me when you're ready.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    10307
   ],
   "jp": "{p}\nそうですか\n早乙女博士 実は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI see. Dr. Saotome, actually...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    10401
   ],
   "jp": "早乙女博士\n小さな身体に比べ 異常に大きな脳\nハチュウ人類は人間以上の働きを\nするとみたほうがいい\n\n我々の敵がどんなに恐ろしい相手か\n解ったか？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nA brain abnormally large for so small a\nbody. We'd best assume the\nReptilians can outdo humans.\n\nDo you understand now how terrifying\nour enemy is?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    10402
   ],
   "jp": "ガードマン\n許可の無い者を 科学都市に\n入れるわけにはいかん！\n帰りたまえ！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nI can't let anyone into Science City\nwithout a permit! Go home!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    10403
   ],
   "jp": "早乙女博士\n隼人！ 武蔵！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHayato! Musashi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    10404
   ],
   "jp": "隼人\n博士！\nリョウは！？",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nDoctor! What about Ryo!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    10405
   ],
   "jp": "武蔵\n死んじまったのか！？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nIs he dead!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    10406
   ],
   "jp": "早乙女博士\n行方不明のままだ\n{p}君 来なさい",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHe's still missing.\n{p}-kun, come with me.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    10407
   ],
   "jp": "隼人\nリョウのことだ めったなことで\nくたばるわけがない",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nKnowing Ryo, he won't croak that\neasily.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    10408
   ],
   "jp": "武蔵\nリョウが帰ってくるまで\nこのムサシ様が頑張るぜ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nTill Ryo gets back, the great Musashi's\ngonna give it all he's got!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    10410
   ],
   "jp": "早乙女博士\n{s}は 医療チームに\n任せてある 結果を待つのだ\nそれより わしは\n君に聞きたいことがある\n黒い月について…だ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{s} is in the medical\nteam's hands. Wait for the results.\nMore importantly, there's something I\nwant to ask you. About the black\nmoon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    10411
   ],
   "jp": "{p}\n僕が知ってることは\nさっきお話したことだけです",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAll I know is what I told you earlier.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    10412
   ],
   "jp": "早乙女博士\nふむ…\n実は 世界のあちこちで\n次元の連結現象が\n確認されておるのだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHmm... The truth is, the dimensional\nlinking phenomenon has been\nconfirmed all over the world.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    10413
   ],
   "jp": "{p}\nなんですって！？\n\nそれは この世界とは\n別の世界の存在を…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat!?\n\nThen you know other worlds exist\nbesides this one...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    10414
   ],
   "jp": "早乙女博士\n知っている\n理論上の話ではあるがな\nだが それが\n現実のものとなったのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe know. In theory, at least. But now it\nhas become reality!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    10415
   ],
   "jp": "{p}\nやはり黒い月が原因ですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIs the black moon the cause after all?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    10416
   ],
   "jp": "早乙女博士\n解らん だが このままでは\n深刻な事態が起こり得る！\nそこで君の経験を\n原因究明に役立てたいのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI don't know. But at this rate,\nsomething grave could happen! So I\nwant to put your experiences to use\nin finding the cause!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    10417
   ],
   "jp": "{p}\n喜んでお手伝いします！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'd be glad to help!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    10418
   ],
   "jp": "早乙女博士\nうむ！\n頼んだぞ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGood! I'm counting on you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    10419
   ],
   "jp": "早乙女博士\n{s}は 医療チームに\n任せてある 結果を待つのだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{s} is in the medical\nteam's hands. Wait for the results.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    10420
   ],
   "jp": "研究員\nある日 突然 見知らぬ場所に\n見知らぬ人達が現れる\nもともと そこにいた人達が\nどうなったか？は 誰にも解らん",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nOne day, out of nowhere, strangers\nappear in a strange place. What\nhappened to the people who were\nthere before? No one knows.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    10421
   ],
   "jp": "研究員\n科学都市では現在 次元連鎖に\nついての 研究会が開かれてる\n博士も\n招待されてたはずなんだけど…",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nRight now there's a conference on the\nDimension Chain in Science City. The\ndoctor should've been invited too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    10422
   ],
   "jp": "研究員\n微量で膨大なエネルギーを生む\n魔法の光体！それがゲッター線！\n早乙女博士は\nゲッター線の発見者なんだ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nA magic light where a mere trace gives\nenormous energy! That's Getter\nRays! Dr. Saotome is the one who\ndiscovered Getter Rays.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    10423
   ],
   "jp": "研究員\n人類以外の生物が\nこの地上を狙っている\nそのことに気づいた早乙女博士は\nこの研究所を作ったんだ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nCreatures other than humans are\nafter the surface of this Earth. Dr.\nSaotome realized that and built this\nlab.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    10424
   ],
   "jp": "研究員\n３台のゲットマシンが合体して\nゲッターロボになる！\nさらにゲッターロボは\n３つの形態に 変形できる！\n状況に合わせた形態で戦えること\nそれがゲッターロボの強さなんだ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThree Getter Machines combine into\nGetter Robo! And Getter Robo can\nchange into three different forms!\nBeing able to fight in the form that\nsuits the situation, that's Getter\nRobo's strength.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    10425
   ],
   "jp": "研究員\nイーグル号の損傷は かなり\n激しいけど 急ピッチで修理中さ\nでも今メカザウルスに襲われたら…\nピンチだ！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe Eagle's pretty badly damaged, but\nwe're repairing it at full speed. But\nif a Mechasaurus attacked us now...\nwe'd be in trouble!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    10426
   ],
   "jp": "武蔵\nリョウ～！ お おまえがいない\nゲッターチームなんて！！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nRyooo! W-without you, there ain't no\nGetter Team!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    10427
   ],
   "jp": "隼人\n泣くな ムサシ まだ\n死んだと決まったわけじゃない",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nDon't cry, Musashi. Nobody's said he's\ndead yet.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    10428
   ],
   "jp": "{p}\nリョウさん\n見つかるといいですね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI hope you find Ryo-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    10429
   ],
   "jp": "研究員\nなんの骨か わかる？\n頭は大トカゲ\n手と羽は プテラノドンよ\nそして身体は人間！\nあたし達とは\n別の進化をたどった生命体\nそれがハチュウ人類よ！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nCan you tell what these bones are\nfrom? A giant lizard's head, a\npteranodon's arms and wings, and a\nhuman's body! A life form that took a\ndifferent evolutionary path from us.\nThat's a Reptilian!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    10430
   ],
   "jp": "医者\n{s}の病気だが\nここの設備では原因がわからん…",
-  "en": "",
-  "status": "",
+  "en": "Doctor\nAbout {s}'s illness, we\ncan't find the cause with the\nequipment here...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    10431
   ],
   "jp": "{p}\nそんな… 先生！\n僕は どうすればいいんですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo... Doctor! What should I do?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    10432
   ],
   "jp": "医者\nもっと高度な医療施設が必要だ\n科学都市まで行けば あるいは…",
-  "en": "",
-  "status": "",
+  "en": "Doctor\nShe needs a more advanced medical\nfacility. If you went to Science City,\nperhaps...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    10433
   ],
   "jp": "{p}\n科学都市…\n\n早乙女博士に相談してみよう",
-  "en": "",
-  "status": "",
+  "en": "{p}\nScience City...\n\nLet's talk to Dr. Saotome.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    10434
   ],
   "jp": "早乙女博士\nわしも今 報告を受けたところじゃ\n科学都市へ行きたいそうだな？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI just got the report myself. You want\nto go to Science City?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    10435
   ],
   "jp": "{p}\nはい！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    10436
   ],
   "jp": "早乙女博士\n君が 科学都市に入れるよう\n連絡しておいてやろう\nすぐに向かうがいい",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI'll contact them so you can get into\nScience City. Go right away.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    10437
   ],
   "jp": "{p}\nありがとうございます 博士！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank you, Doctor!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    10438
   ],
   "jp": "医者\n{s}の病気だが\nここの設備では原因がわからん…\nもっと高度な医療施設が必要だ\n科学都市まで行けば あるいは…",
-  "en": "",
-  "status": "",
+  "en": "Doctor\nAbout {s}'s illness, we\ncan't find the cause with the\nequipment here... She needs a more\nadvanced medical facility. If you\nwent to Science City, perhaps...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    10439
   ],
   "jp": "医者\n身体の具合が悪いのかね？\n顔色は良さそうだがな",
-  "en": "",
-  "status": "",
+  "en": "Doctor\nFeeling unwell? Your color looks good,\nthough.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    10440
   ],
   "jp": "早乙女博士\nわしも科学都市での研究会には\n参加したかったのじゃが\nリョウが行方不明となった今\n研究所を離れるわけにはいかん",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI wanted to attend the conference in\nScience City too, but with Ryo\nmissing, I can't leave the lab.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    10441
   ],
   "jp": "{p}\n解っています\nありがとうございました 博士！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI understand. Thank you, Doctor!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    10442
   ],
   "jp": "早乙女博士\n敵を見たら 考えずに倒せ！\n非情になりきるのじゃ！\nそれが 生き残るために\n必要なことだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWhen you see the enemy, don't think,\njust strike them down! Be utterly\nruthless! That's what it takes to\nsurvive.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    10443
   ],
   "jp": "{p}\nはい…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYes, sir...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    10444
   ],
   "jp": "隼人\nムサシのヤツ リョウのヘルメット\nを 抱えて まだ泣いてやがる",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nThat Musashi's still hugging Ryo's\nhelmet and bawling.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    10445
   ],
   "jp": "{p}\n優しい人だね ムサシさんは",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMusashi-san's a kind person.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    10446
   ],
   "jp": "隼人\n甘いだけさ",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nHe's just soft.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    10447
   ],
   "jp": "包帯男\n早乙女博士の身柄を…\nこちらに預けていただきたい",
-  "en": "",
-  "status": "",
+  "en": "Bandaged Man\nI'd like you to... hand Dr. Saotome over\nto me.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    10448
   ],
   "jp": "隼人\nどこの誰だか知らねぇが 消えな\n\nそんな包帯じゃ済まねぇケガを\nするぜ",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nDunno who you are, but get lost.\n\nOr you'll get hurt worse than a few\nbandages can fix.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    10449
   ],
   "jp": "包帯男\nカッコつけてるのが甘いんだよ！",
-  "en": "",
-  "status": "",
+  "en": "Bandaged Man\nActing all cool is what makes you soft!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    10450
   ],
   "jp": "早乙女博士\nあの構え 身のこなしは…！？\n\nやめんか リョウ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThat stance, those moves...!?\n\nStop it, Ryo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    10451
   ],
   "jp": "{p}\nリョウ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRyo!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    10452
   ],
   "jp": "包帯男\nリョウ…だって？",
-  "en": "",
-  "status": "",
+  "en": "Bandaged Man\nRyo...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    10453
   ],
   "jp": "早乙女博士\nわしの目は ごまかせん\nおまえは 確かにリョウだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nYou can't fool my eyes. You're Ryo,\nwithout a doubt.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    10454
   ],
   "jp": "包帯男\nうう… リョウ？",
-  "en": "",
-  "status": "",
+  "en": "Bandaged Man\nUgh... Ryo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    10455
   ],
   "jp": "早乙女博士\nわしを忘れたわけでは あるまい？\n\nなんのため そんな真似をするのだ\nリョウ？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nSurely you haven't forgotten me?\n\nWhy are you doing this, Ryo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    10456
   ],
   "jp": "包帯男\nリョウ…\n知らん！ おれは ただ…！",
-  "en": "",
-  "status": "",
+  "en": "Bandaged Man\nRyo... I don't know! I'm just...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    10457
   ],
   "jp": "早乙女博士\nあっ 待て！\nリョウ！！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nAh, wait! Ryo!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    10458
   ],
   "jp": "{p}\n隼人さん 大丈夫！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHayato-san, are you okay!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    10459
   ],
   "jp": "隼人\n…あれは リョウなんかじゃねぇ！\nあいつの目は野獣だった\n理性のねえケダモノの目だった\nあんなのがリョウのはずがねぇ！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\n...That wasn't Ryo! His eyes were a wild\nanimal's. The eyes of a beast with no\nreason left. No way that was Ryo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    10460
   ],
   "jp": "早乙女博士\nヤツが落とした薬袋だ\n\n科学都市にある研究所の名前が\n書いてある…\nどうやら わしも 科学都市に\n行かねば ならんようだな",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe medicine bag he dropped.\n\nIt has the name of a research facility\nin Science City on it... It seems I'll\nhave to go to Science City myself.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    10461
   ],
   "jp": "{p}\n早乙女博士！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDr. Saotome!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    10462
   ],
   "jp": "早乙女博士\nベアー号で科学都市に向かうぞ\n{s}も いっしょにな\n時間が惜しい\nすぐに出発するぞ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe'll head to Science City in the Bear.\n{s} too. There's no\ntime to lose. We leave at once.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    10463
   ],
   "jp": "隼人\n{p}\n早乙女博士を頼んだぜ！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\n{p}, take care of Dr.\nSaotome for us!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    10464
   ],
   "jp": "ガードマン\nどうぞ お通りください\n早乙女博士が お待ちです",
-  "en": "",
-  "status": "",
+  "en": "Guard\nPlease go on through. Dr. Saotome is\nwaiting.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    10465
   ],
   "jp": "研究員\n北の大会議場では 今\n研究会の真っ最中なんだ\n早乙女博士も\nそこに行っているハズだよ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThere's a conference going on in the\nGrand Conference Hall to the north\nright now. Dr. Saotome should be there\ntoo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    10466
   ],
   "jp": "研究員\nイーグル号のパイロットが\n行方不明？\nメカザウルスに襲われたら\nどうするんだろ？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe Eagle's pilot is missing? What'll\nthey do if a Mechasaurus attacks?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    10467
   ],
   "jp": "早乙女博士\n{s}は この科学都市の\n病院に入院させたよ\n街の見学ついでに\n見舞ってやるといい\nわしは研究会に顔を出すから\n後で来てくれたまえ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI've had {s} admitted to\nthe hospital here in Science City. Go\nvisit her while you look around the\ncity. I'll be showing my face at the\nconference, so come by later.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    10468
   ],
   "jp": "研究員\n科学都市の南東には\n大きなホテルが あるんだ\nでも大きすぎて 初めて行く人は\nたいてい 中で迷うんだよね",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThere's a big hotel in the southeast\nof Science City. It's so huge that\nfirst-timers usually get lost inside.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    10469
   ],
   "jp": "科学者\nあなたの理論は認める！\n\nだが あなたが しようとしている\nことは 間違っている！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nI acknowledge your theory!\n\nBut what you are trying to do is wrong!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    10470
   ],
   "jp": "{p}\n早乙女博士\nホントに ここにいるのかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIs Dr. Saotome really here?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    10471
   ],
   "jp": "早乙女博士\n{p} こっちだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{p}, over here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    10472
   ],
   "jp": "{p}\n早乙女博士！ 弱ったな\nあそこまで行けるかな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDr. Saotome! Uh-oh, can I get over\nthere...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    10473
   ],
   "jp": "来留間源三\n説明して解らぬなら\n身体に教えてやろう！",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nIf explaining doesn't make you\nunderstand, I'll teach your bodies!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    10474
   ],
   "jp": "来留間源三\n貴様ら三流科学者は 生きていても\n何の役にも立たん！\nそのことを身をもって知るがいい！\nはっはっはっは…！",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nThird-rate scientists like you are of\nno use alive! Learn it the hard way!\nHahahaha...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    10475
   ],
   "jp": "{p}\n大変だ！\n早乙女博士を助けなくっちゃ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh no! We've got to save Dr. Saotome!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    10476
   ],
   "jp": "{p}\n今は 弓教授を\n助け出すことが先だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRescuing Professor Yumi comes first\nright now!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    10477
   ],
   "jp": "{p}\n今は 早乙女博士を\n助け出すことが先だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRescuing Dr. Saotome comes first right\nnow!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    10480
   ],
   "jp": "早乙女博士\n君！\n助けてくれて ありがとう！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nYou there! Thank you for saving me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    10481
   ],
   "jp": "{p}\n博士！\nご無事ですか！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDoctor! Are you all right!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    10482
   ],
   "jp": "早乙女博士\nあぁ 大丈夫だ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nYes, I'm fine!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    10483
   ],
   "jp": "謎の男\n…来留間源三は どこだ？",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Man\n...Where is Genzo Kuruma?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    10484
   ],
   "jp": "早乙女博士\n博士なら あっちのほうへ…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe doctor went that way...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    10485
   ],
   "jp": "{p}\n行っちゃった…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHe's gone...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    10486
   ],
   "jp": "早乙女博士\n何者だろうな あの男…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWho could that man be...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    10487
   ],
   "jp": "早乙女博士\nリョウらしき包帯男がいる場所が\n解った\n科学都市のホテル付近で\nそれらしい者を見たとのことだ\n{p}も\nついてきてくれんか？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe've learned where the bandaged man\nwho seems to be Ryo is. Someone saw\na man like that near the Science City\nhotel. {p}, will you come\nwith me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    10488
   ],
   "jp": "{p}\n解りました！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGot it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    10500
   ],
   "jp": "リョウ\nうう…\nリョウ…\n頭に こびりついて離れない\nこの名前は なんだ！？\nリョウとは いったいなんだ！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nUgh... Ryo... This name stuck in my\nhead, what is it!? What on earth is\nRyo!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    10501
   ],
   "jp": "早乙女博士\nどうやら リョウのヤツ なんらかの\n人体実験を受けたようじゃな\n本来の記憶を\n無くしてしまったのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nIt seems Ryo underwent some sort of\nhuman experiment. He's lost his true\nmemories!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    10502
   ],
   "jp": "{p}\nそんな酷いことを…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHow could they do something so\nhorrible...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    10503
   ],
   "jp": "早乙女博士\nいかにしたら人類を簡単に\n滅ぼすことが出来るか？\nハチュウ人類は その研究のため\n人体実験を繰り返している",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHow can mankind be wiped out easily?\nThe Reptilians have been performing\nhuman experiments again and again to\nfind out.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    10504
   ],
   "jp": "{p}\n許せない！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUnforgivable!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    10505
   ],
   "jp": "ハチュウ人類\n貴様ら！\nいつの間に！？",
-  "en": "",
-  "status": "",
+  "en": "Reptilian\nYou wretches! When did you get here!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    10506
   ],
   "jp": "早乙女博士\nこの顔…！\nやはり リョウじゃった！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThis face...! It IS Ryo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    10507
   ],
   "jp": "リョウ\nリョウ… リョウ…",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nRyo... Ryo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    10508
   ],
   "jp": "{p}\n記憶喪失を直す方法は\nないんですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIsn't there a way to cure amnesia?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    10509
   ],
   "jp": "早乙女博士\n何か強いショックを与えれば\n記憶が戻ることもあるが…\n時間を かけなければ治らない…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nA strong shock can sometimes bring\nmemories back... but otherwise, only\ntime will heal it...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    10510
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  }
 ]

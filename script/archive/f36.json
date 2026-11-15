@@ -5,8 +5,8 @@
    9001
   ],
   "jp": "{p}\nドラゴンに襲われてる！？\n助けなきゃ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Dragons are attacking her!? We've\ngot to help!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    9002
   ],
   "jp": "ドラゴン\nおのれ 邪魔立てするか！？\n容赦せんぞ！！",
-  "en": "",
-  "status": "",
+  "en": "Dragon\nCurse you, you'd interfere!? No mercy!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    9003
   ],
   "jp": "ドラゴン\n容赦せんぞ！？",
-  "en": "",
-  "status": "",
+  "en": "Dragon\nNo mercy!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    9004
   ],
   "jp": "{p}\nあなたは スラムクィーン！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou're the Slum Queen!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    9005
   ],
   "jp": "スラムクィーン\n覚えてくれていたの？\nうれしいわ\n探した甲斐が あるってものね",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nYou remember me? How lovely. It made\nsearching for you worth it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    9006
   ],
   "jp": "{p}\n僕を探していた…だって？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou were searching for me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    9007
   ],
   "jp": "スラムクィーン\nそうよ… 見たでしょ？\nドラゴンが私を襲うのを…？\nドラゴンが\n魔王に操られてしまったのよ\nスラムキングを捨てて",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nYes... You saw it, didn't you? The\nDragons attacking me? The Dragons\nare being controlled by the Demon\nKing. They've abandoned the Slum\nKing.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    9008
   ],
   "jp": "{p}\nまさか 僕を魔王に引き渡し\nドラゴン達を元に戻そうと！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDon't tell me you want to hand me over\nto the Demon King to get the\nDragons back to normal!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    9009
   ],
   "jp": "スラムクィーン\nあたしは それほど\nバカじゃないわ\n魔王に あなたを引き渡したら\n恐ろしいことが起こる！",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nI'm not that foolish. If I handed you\nover to the Demon King, something\nterrible would happen!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    9010
   ],
   "jp": "{p}\nそれじゃ どうして僕を？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThen why were you looking for me?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    9011
   ],
   "jp": "スラムクィーン\nあなたが「始まりの丘」に\n向かう姿を 夢で見たの…\nそれがあたしの力 予知夢よ",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nI saw you heading for the \"Hill of\nBeginnings\" in a dream... That is my\npower: prophetic dreams.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    9012
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    9013
   ],
   "jp": "スラムクィーン\nいずれあなたは「始まりの丘」に\n向かうでしょう\n魔王と戦うために！\nそれが あなたの運命！",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nSomeday you'll head for the \"Hill of\nBeginnings.\" To fight the Demon King!\nThat is your fate!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    9014
   ],
   "jp": "{p}\n僕の運命… 教えて！\nそれで僕はどうなるの！？\n{s}は…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMy fate... Tell me! What happens to\nme!? And to {s}...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    9015
   ],
   "jp": "スラムクィーン\nわからないわ でもたったひとつ\n明らかなことがあるの\nそれはあなたが 魔王と戦える\n唯一の人ってことよ",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nI don't know. But one thing is clear:\nyou are the only one who can fight\nthe Demon King.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    9016
   ],
   "jp": "スラムクィーン\n一緒に来なさい\nスラムキングに逢わせるわ",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nCome with me. I'll have you meet the\nSlum King.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    9017
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    9018
   ],
   "jp": "スラムクィーン\nスラムキングに反旗を翻したのは\nドラゴンだけじゃないの\nもちろん みな\n魔王に操られてのことよ",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nThe Dragons aren't the only ones\nwho've turned against the Slum King.\nAll of them controlled by the Demon\nKing, of course.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    9019
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    9020
   ],
   "jp": "スラムクィーン\n人々が操られ始めたのは\n異変の前兆\nスラムキングも\nそれは理解しているわ\nそこで あたしに\n探すように命じたのよ\n最悪の事態を回避出来る者を…",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nPeople starting to be controlled is an\nomen of disaster. The Slum King\nunderstands that too. So he ordered\nme to search... for one who can\navert the worst.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    9021
   ],
   "jp": "{p}\n…わかった\nスラムキングに逢おう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...All right. I'll meet the Slum King!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    9022
   ],
   "jp": "スラムクィーン\nいい子ね…",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nGood boy...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    9023
   ],
   "jp": "スラムキング\n待ちかねたぞ スラムクィーン！\n救世主は見つかったか！？",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nI've been waiting, Slum Queen! Have you\nfound the savior!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    9024
   ],
   "jp": "スラムクィーン\nお連れしましたわ",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nI've brought him.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    9025
   ],
   "jp": "スラムキング\nご苦労！ よくやった！\n救世主どのよ いざ ここに！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nWell done! Excellent! O savior, come\nforth!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    9026
   ],
   "jp": "{p}\nあ あの… こんにちは",
-  "en": "",
-  "status": "",
+  "en": "{p}\nU-um... hello.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    9027
   ],
   "jp": "スラムキング\nスラムクィーン\nこれは何の冗談だ？",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nSlum Queen, what sort of joke is this?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    9028
   ],
   "jp": "スラムクィーン\nこの者こそ 異変から関東を\n世界を救う人物ですわ！",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nThis is the very person who will save\nKanto, and the world, from disaster!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    9029
   ],
   "jp": "{p}\nえ え～と {p}です",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUh, um, I'm {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    9030
   ],
   "jp": "スラムキング\nあっはっはっはっは！\n片腹痛い！\nスラムクィーン おまえの力も\n衰えたようだな！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nAhahahahaha! Don't make me laugh!\nSlum Queen, it seems your powers\nhave faded!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    9031
   ],
   "jp": "スラムクィーン\nならば 立ち合ってみては\nいかがですか？",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nThen why not cross swords with him?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    9032
   ],
   "jp": "{p}\nええ～っ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    9033
   ],
   "jp": "スラムキング\nあ～っはっはっはっは！\n\nこの俺に 子供の相手を\nしろというのか？",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nAhahahahaha!\n\nYou'd have me fight a child?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    9034
   ],
   "jp": "スラムクィーン\nもしも あなたと立ち合い\nそして死んだならば\nそれは あたしの予知夢が外れた\n…ということ\nその時は あたしも死にましょう！",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nIf he crosses swords with you and\ndies, that means my prophetic dream\nwas wrong. In that case, I shall die as\nwell!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    9035
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    9036
   ],
   "jp": "スラムキング\nそこまで この子供に賭けるか\nスラムクィーン…\nならば 立ち合おうではないか！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nYou'd stake that much on this child,\nSlum Queen... Then let us cross\nswords!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    9037
   ],
   "jp": "スラムキング\nいざ 来い！ {p}よ！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nCome at me! {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    9038
   ],
   "jp": "スラムキング\n不覚…！！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nI've been bested...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    9039
   ],
   "jp": "スラムクィーン\nスラムキング この子を\nお認め下さいますね？",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\nSlum King, you'll acknowledge this boy\nnow, won't you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    9040
   ],
   "jp": "スラムキング\n致し方あるまい！\n\n{p}よ！ スラムキング\nおまえに助力するぞ！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nI have no choice!\n\n{p}! The Slum King will\nlend you his aid!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    9041
   ],
   "jp": "{p}\nは はい…！！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nY-yes, sir...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    9042
   ],
   "jp": "スラムキング\nスラムクィーン！\n共をいたせ！",
-  "en": "",
-  "status": "",
+  "en": "Slum King\nSlum Queen! Come with me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    9043
   ],
   "jp": "スラムクィーン\n{p}\nおみごとだったわ",
-  "en": "",
-  "status": "",
+  "en": "Slum Queen\n{p}, that was splendid.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    9044
   ],
   "jp": "{p}\nありがとう\nスラムクィーンさん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank you, Slum Queen-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    9045
   ],
   "jp": "住民\n噂だけど スラムキングが\n大変なことになってるらしいぞ\nドラゴンからも暴徒になった連中が\n出たらしくてさ…\nいったい 関東に\n何が起ころうとしてるんだ…？",
-  "en": "",
-  "status": "",
+  "en": "Resident\nJust a rumor, but they say the Slum\nKing's in big trouble. Seems even\nsome of the Dragons turned into\nrioters... What on earth is about to\nhappen to Kanto...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    9101
   ],
   "jp": "{p}\n誰もいないのかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIsn't anyone here?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    9102
   ],
   "jp": "ヒゲゴジラ\n今日 女子の方達は\n身体検査がありますから\nお残りになってねぇ～\nおほほほほ\n男子の方は さっさと\n帰ってちょね～ イッヒッヒ…",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nToday the girls have a physical exam,\nso do stay behind, darlings! Ohohoho!\nBoys, run along home now, mm-kay?\nEehee hee...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    9103
   ],
   "jp": "ヒゲゴジラ\n…なんて言っても\n誰もいないのよ～\nはぁ～ さみちいのよ～",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\n...Not that there's anybody here to\nhear it... *Sigh*, I'm so wonewy...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    9104
   ],
   "jp": "{p}\nひとりで 何やってるの…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat are you doing all by yourself...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    9105
   ],
   "jp": "ヒゲゴジラ\n世の中 物騒になっちゃって\nイヤだわ～\nそれで\n生徒も来なくなっちゃったの…",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nThe world's gotten so dangerous, I\nhate it! And so the students stopped\ncoming...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    9106
   ],
   "jp": "ヒゲゴジラ\n里帰りする お金もなく あたちは\nひとり 授業を続けるのよ～！\nおよよ およよ うわ～ん！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nI haven't the money to go home, so I'll\nkeep teaching all by my wittle self!\nBoo-hoo, boo-hoo, waaah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    9110
   ],
   "jp": "山岸\nヒゲゴジラ…",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nHigegodzilla...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    9111
   ],
   "jp": "ヒゲゴジラ\nその声は…！？\n\nきゃ～！\nわたち うれちいわよ～！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nThat voice...!?\n\nKyaaa! I'm sooo happy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    9112
   ],
   "jp": "ヒゲゴジラ\nう～ん ぶちゅ！ ぶちゅ！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nMmmm, smooch! Smooch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    9113
   ],
   "jp": "山岸\nやめやがれ！ 気色悪ぃ～！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nKnock it off! That's gross!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    9114
   ],
   "jp": "十兵衛\nイヤ～ン やめて！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nEwww, stop it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    9115
   ],
   "jp": "袋小路\nうわっ なんだよ こいつ～！",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nWhoa, what's with this guy!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    9116
   ],
   "jp": "ヒゲゴジラ\nさみちいのよぉ～！\n\nお願い わたちを連れてってぇ～ん！\nね！ ね！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nI'm so wonewy!\n\nPwease, take me with youuu! Pwetty\npwease!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    9117
   ],
   "jp": "山岸\nしょうがねぇなぁ そのかわり\n俺の召し使いだぞ！",
-  "en": "",
-  "status": "",
+  "en": "Yamagishi\nFine, whatever. But you're my servant!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    9118
   ],
   "jp": "十兵衛\n先生 なんだか かわいそう…\nいいわ 連れて行ってあげる！",
-  "en": "",
-  "status": "",
+  "en": "Jubei\nI kinda feel sorry for sensei... Okay,\nwe'll take you along!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    9119
   ],
   "jp": "袋小路\nわかったよ\nオヤブンに話してやるよ",
-  "en": "",
-  "status": "",
+  "en": "Fukurokoji\nFine, I'll talk to the Boss about it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    9120
   ],
   "jp": "ヒゲゴジラ\nきゃ～！ うれし～！\n一生ついてくわ～！！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nKyaaa! I'm so happy! I'll follow you\nforever!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    9121
   ],
   "jp": "{p}\n里帰りするのに\nいくら かかるんだい？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHow much does it cost to go home?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    9122
   ],
   "jp": "ヒゲゴジラ\n初乗り１３０円よ～\n改札さえ通っちゃえば 後は…\nイヒヒ",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nThe base fare's 130 yen, darling! Once\nI'm through the ticket gate, the rest\nis... Eehee hee.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    9123
   ],
   "jp": "ヒゲゴジラ\nま～ わたち うれちいわ～！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nOh my, I'm so happy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    9124
   ],
   "jp": "ヒゲゴジラ\nう～ん ぶちゅ！ ぶちゅ！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nMmmm, smooch! Smooch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    9125
   ],
   "jp": "ヒゲゴジラ\nわたち\n里帰り出来てうれちいのよ～\nおかあちゃま～！\n\nあなたのさゆりが\n今 帰るわよ～！",
-  "en": "",
-  "status": "",
+  "en": "Higegodzilla\nI'm so happy I get to go home! Mama!\n\nYour Sayuri is coming home now!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    9201
   ],
   "jp": "鬼仏衆\n壊せ 壊せ！",
-  "en": "",
-  "status": "",
+  "en": "Kibutsu Clan\nSmash it, smash it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    9202
   ],
   "jp": "鬼仏衆\n鬼獄界など\nもはや存在しないのだ！",
-  "en": "",
-  "status": "",
+  "en": "Kibutsu Clan\nThe Kigoku World no longer exists!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    9203
   ],
   "jp": "鬼仏衆\n魔王が世界を再生する！\n鬼獄界は不要！ 暗黒寺も不要！",
-  "en": "",
-  "status": "",
+  "en": "Kibutsu Clan\nThe Demon King will remake the world!\nNo need for the Kigoku World! No\nneed for the Dark Temple!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    9205
   ],
   "jp": "鬼仏衆\nおぬしは…！\n魔王が求める「再生の太陽」！？",
-  "en": "",
-  "status": "",
+  "en": "Kibutsu Clan\nYou...! The \"Sun of rebirth\" the Demon\nKing seeks!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    9206
   ],
   "jp": "鬼仏衆\nおぬしを差し出せば\n魔王がお慶びになる！",
-  "en": "",
-  "status": "",
+  "en": "Kibutsu Clan\nIf we hand you over, the Demon King\nwill be pleased!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    9207
   ],
   "jp": "鬼仏衆\n魔王のために！",
-  "en": "",
-  "status": "",
+  "en": "Kibutsu Clan\nFor the Demon King!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    9208
   ],
   "jp": "鬼谷\n外が静かになったと思ったら…\n手天童子と一緒にいた者だな？\n鬼仏衆を倒してくれたのか",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nI thought it had gone quiet outside...\nYou're the one who was with the\nShutendoji, aren't you? You defeated\nthe Kibutsu Clan for me.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    9209
   ],
   "jp": "{p}\nあなたは 鬼谷さん？\n寺の中に いたの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAre you Onitani-san? You were inside\nthe temple?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    9210
   ],
   "jp": "鬼谷\nいかに俺でも大勢の鬼仏衆相手に\nひとりでは どうにもならん\n寺の中で自刃し\n火をかけるつもりだったのだ\nでは…",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nEven I can't do anything alone against\nso many of the Kibutsu Clan. I meant\nto take my own life inside the temple\nand set it ablaze. Well then...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    9211
   ],
   "jp": "{p}\n…ちょ ちょっと！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...H-hey, wait!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    9216
   ],
   "jp": "鬼谷\n外が静かになったと思ったら…\n手天童子か…\n貴様 何しに寺を訪れたのだ？",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nI thought it had gone quiet outside...\nThe Shutendoji, is it... What brings\nyou to the temple?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    9217
   ],
   "jp": "子郎\nおまえには関係のないことだ！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThat's none of your business!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    9218
   ],
   "jp": "鬼谷\nそうはいかん！ 俺は 寺を\n外敵から護らねばならぬ！",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nIt is! I must protect the temple from\noutside enemies!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    9219
   ],
   "jp": "子郎\nならばなぜ 鬼仏衆に\n好き勝手させていたのだ？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThen why did you let the Kibutsu Clan\ndo as they pleased?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    9220
   ],
   "jp": "鬼谷\nいかに俺でも大勢の鬼仏衆相手に\nひとりでは どうにもならん\n寺の中で自刃し\n火をかけるつもりだったのだ\nでは…",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nEven I can't do anything alone against\nso many of the Kibutsu Clan. I meant\nto take my own life inside the temple\nand set it ablaze. Well then...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    9221
   ],
   "jp": "{p}\n…ちょ ちょっと！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...H-hey, wait!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    9222
   ],
   "jp": "子郎\n仇敵とはいえ 見捨てるわけには\nいかないな",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nHe may be my sworn enemy, but I can't\nabandon him.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    9230
   ],
   "jp": "{p}\nダメだよ\n寺に火をかけるなんて！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo! You can't set the temple on fire!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    9231
   ],
   "jp": "鬼谷\nいくら祈りを捧げても\n鬼獄界からは何も聞こえてこない\nこんなことは初めてだ…",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nNo matter how much I pray, I hear\nnothing from the Kigoku World. This\nhas never happened before...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    9232
   ],
   "jp": "{p}\n…………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    9233
   ],
   "jp": "鬼谷\n鬼仏衆までが 俺に抗い始めた\n\nなぜ 鬼獄界は 俺の呼びかけに\n応えてくれぬのだ！？",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nEven the Kibutsu Clan has begun to\ndefy me.\n\nWhy won't the Kigoku World answer my\ncall!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    9234
   ],
   "jp": "{p}\nもしかしたら…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMaybe...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    9235
   ],
   "jp": "鬼谷\n…なるほど！\n\nここは 魔王の作った\nツギハギの世界であり\n俺の本当の世界は 別に存在する！\n\nそこには これまで通り\n鬼獄界が あるのだな！？",
-  "en": "",
-  "status": "",
+  "en": "Onitani\n...I see!\n\nThis is a patchwork world made by the\nDemon King, and my true world exists\nelsewhere!\n\nAnd there, the Kigoku World is just as\nit always was!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    9236
   ],
   "jp": "{p}\nはっきりとは言い切れないけどね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI can't say for sure, though.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    9237
   ],
   "jp": "鬼谷\nいや 間違いない\n\n黒い月があがる以前\n鬼獄界は存在していた\n俺は それを感じたし 鬼獄界は\n俺の呼びかけに応えてくれた",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nNo, I'm certain of it.\n\nBefore the black moon rose, the\nKigoku World existed. I felt it, and\nthe Kigoku World answered my call.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    9238
   ],
   "jp": "{p}\n今は まったくそれがないの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAnd now there's nothing at all?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    9239
   ],
   "jp": "鬼谷\nそのとおりだ {p}！\n俺も共に戦うぞ！\n魔王は 鬼獄界の存亡に関る\n重大な敵だ\nこの敵と戦わずにいられようか！",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nThat's right, {p}! I'll\nfight with you too! The Demon King is\na grave enemy who threatens the very\nexistence of the Kigoku World. How\ncould I not fight him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    9240
   ],
   "jp": "子郎\n鬼獄界を護る者と 鬼獄界を壊す\n運命にあるという 俺が\n共に戦うというのも皮肉だな",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThe one who guards the Kigoku World\nfighting alongside me, the one fated\nto destroy it... How ironic.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    9241
   ],
   "jp": "鬼谷\nだが 俺とおまえは仇敵同士だ！\nそのことを忘れるな！",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nBut you and I are sworn enemies! Don't\nforget that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    9242
   ],
   "jp": "子郎\nお互いに…な",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nSame goes for you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    9243
   ],
   "jp": "鬼谷\n行くぞ {p}",
-  "en": "",
-  "status": "",
+  "en": "Onitani\nLet's go, {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    9300
   ],
   "jp": "ケダマン\nいや～ おもしろかったぜ！\nなっ！ 怒良野！",
-  "en": "",
-  "status": "",
+  "en": "Kedaman\nMan, that was a blast! Right, Dorano!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    9301
   ],
   "jp": "怒良野\nふん！ 隙をみて ケダマンを\nやっつけようと思ってたのに\nそれどころじゃなかったぜ…",
-  "en": "",
-  "status": "",
+  "en": "Dorano\nHmph! I was planning to take Kedaman\ndown when he let his guard slip, but I\nnever got the chance...",
+  "status": "done",
   "notes": ""
  }
 ]

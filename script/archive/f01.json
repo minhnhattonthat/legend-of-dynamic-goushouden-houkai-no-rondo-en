@@ -5,8 +5,8 @@
    1106
   ],
   "jp": "{s}\n明君と 一緒に行くのね？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nSo you're going with Akira-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    1107
   ],
   "jp": "{s}\nハニーと 一緒に行くのね？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nSo you're going with Honey?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    1108
   ],
   "jp": "{s}\nチーム分け 完了！\nそれじゃ え～と…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nTeams all set! So then, uhh...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    1109
   ],
   "jp": "{s}\nここは\n「始まりの丘」って場所らしいわ\nお互い 目的を達成したら\n「始まりの丘」に集合ね！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nThis place is apparently called the\n\"Hill of Beginnings.\" Once we've each\ndone what we came for, we all meet\nback at the \"Hill of Beginnings\"!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    1110
   ],
   "jp": "{s}\nそれじゃ 行きましょ\n明君！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nWell then, let's go, Akira-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    1111
   ],
   "jp": "不動明\nう うん\nそれじゃ みんな また後でね！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nY-yeah. Well, see you all later!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    1112
   ],
   "jp": "如月ハニー\nそれじゃ 行きましょうか",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWell then, shall we go?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    1120
   ],
   "jp": "{p}\nじ 地震だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-whoa, an earthquake!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    1121
   ],
   "jp": "如月ハニー\nきゃ～！！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nKyaaa!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    1122
   ],
   "jp": "{p}\n…道が 塞がれちゃった！\n「始まりの丘」に戻れない！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...The path's blocked off! We can't get\nback to the \"Hill of Beginnings\"!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    1123
   ],
   "jp": "如月ハニー\n困ったわね…\nともかく 先を急ぎましょう\n山を降りたら\nきっと 別の道が あると思うの",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWhat a pickle... Anyway, let's hurry on.\nOnce we're down the mountain, I'm\nsure there'll be another way back.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    1124
   ],
   "jp": "不動明\nだ だいたいさ 右だの左だのって\nどうして 僕達の場所が\nわかるんだ？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nB-but seriously, all this \"go right,\"\n\"go left\"... How do they even know\nwhere we are?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    1125
   ],
   "jp": "不動明\nだ だから\nどうして 僕達の場所が…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nL-like I said, how do they know where\nwe...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    1126
   ],
   "jp": "如月ハニー\nつべこべ いってる場合じゃ\nないでしょ！\nそれしかないんだから！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThis is no time to argue! It's the only\nlead we've got!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    1127
   ],
   "jp": "不動明\n了は 左の道を進めって言ってた…\nこっちじゃないよ",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nRyo said to take the left path... This\nisn't it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    1128
   ],
   "jp": "如月ハニー\nパパは 右の道を進めば\n研究所に着くって言ってたわ\nこっちじゃないわね",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPapa said the right path leads to the\nlaboratory. This isn't it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    1129
   ],
   "jp": "不動明\nとりあえず 了を探さないと…\n家の中に行こう",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nFirst I've got to find Ryo... Let's go\ninto the house.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    1130
   ],
   "jp": "如月ハニー\nパパが危ない！\n研究所に急ぎましょう！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPapa's in danger! Let's hurry to the\nlaboratory!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    1201
   ],
   "jp": "如月ハニー\n不思議だわ こんなところに\nどうして パパの研究所が…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHow strange... Why would Papa's\nlaboratory be in a place like this...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    1202
   ],
   "jp": "如月博士\n{!R}ハニー 来てくれ ハニー！{!W}",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\n{!R}Honey, come quickly, Honey!{!W}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    1203
   ],
   "jp": "如月ハニー\nどうして\nパパの声が 聞こえるの？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nWhy can I hear Papa's voice?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    1204
   ],
   "jp": "如月博士\n{!R}ハニーのイヤリングは\nトランシーバーだ\n急いでくれ ハニー\n私はパンサークローに狙われた！{!W}",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\n{!R}Your earrings are a transceiver,\nHoney. Hurry! Panther Claw is after\nme!{!W}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    1205
   ],
   "jp": "如月ハニー\nパンサークロー？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPanther Claw?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    1206
   ],
   "jp": "如月博士\n{!R}恐ろしい敵だ！\n私の命が 危ない！\n急いでくれ ハニー！{!W}",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\n{!R}A terrifying enemy! My life is in danger!\nHurry, Honey!{!W}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    1207
   ],
   "jp": "如月ハニー\n大変だわ！\nパパを 助けなくっちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nOh no! I've got to save Papa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    1208
   ],
   "jp": "{p}\n何をするんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat do you think you're doing!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    1209
   ],
   "jp": "如月ハニー\nきゃ～！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nKyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    1210
   ],
   "jp": "如月博士\n{!R}大丈夫だ ハニー\n首のハートを つまんで\nハニーフラッシュ！\nと 叫びなさい！{!W}",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\n{!R}Don't worry, Honey. Pinch the heart at\nyour throat and shout \"Honey\nFlash!\"{!W}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    1211
   ],
   "jp": "如月ハニー\nハートをつまんで？\n\nハニーッ フラッシュ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPinch the heart?\n\nHoney... FLASH!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    1212
   ],
   "jp": "キューティーハニー\nわ 私は一体…？",
-  "en": "",
-  "status": "",
+  "en": "Cutie Honey\nWh-what am I...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    1213
   ],
   "jp": "キューティーハニー\nパパ 私は一体何者なの？\nなぜ こんな力があるの？\n答えて パパ…！",
-  "en": "",
-  "status": "",
+  "en": "Cutie Honey\nPapa, what am I, really? Why do I have\nthis power? Answer me, Papa...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    1214
   ],
   "jp": "キューティーハニー\n急がないと… パパが危ないわ！",
-  "en": "",
-  "status": "",
+  "en": "Cutie Honey\nI have to hurry... Papa's in danger!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    1220
   ],
   "jp": "如月ハニー\nパパ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPapa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    1221
   ],
   "jp": "{p}\nパパ？ 大変だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHer papa? Oh no!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    1222
   ],
   "jp": "如月博士\nハニー\n私のハニー…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nHoney... My Honey...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    1223
   ],
   "jp": "如月ハニー\nパパ～！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPapaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    1224
   ],
   "jp": "如月博士\n{!R}うろたえるな ハニー{!W}",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\n{!R}Don't be alarmed, Honey.{!W}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    1225
   ],
   "jp": "如月博士\n{!R}私は 死んだ\n\nだが 死してなお 話しておかねば\nならんことがある！\nハニーの秘密を！{!W}",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\n{!R}I am dead.\n\nBut even in death, there is something I\nmust tell you! Honey's secret!{!W}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    1226
   ],
   "jp": "如月ハニー\nハニーの秘密？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nHoney's secret?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    1227
   ],
   "jp": "如月博士\n{!R}ハニー おいで 私の部屋へ\n\n地下室の奥で\nパパは おまえを待っている…{!W}",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\n{!R}Come, Honey, to my room.\n\nDeep in the basement, Papa is waiting\nfor you...{!W}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    1228
   ],
   "jp": "如月ハニー\nパパが 呼んでるわ\n地下室で 私を待ってるの",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPapa's calling me. He's waiting for me in\nthe basement.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    1229
   ],
   "jp": "{p}\nよし 地下室へ行こう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRight, to the basement!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    1230
   ],
   "jp": "如月ハニー\nまっ！ あなた誰？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nOh! Who are you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    1231
   ],
   "jp": "男\nいや ご安心\n悪いヤツじゃない",
-  "en": "",
-  "status": "",
+  "en": "Man\nNow, now, relax. I'm not a bad guy.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    1232
   ],
   "jp": "如月ハニー\n悪人でないことは わかるわ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI can tell you're not a villain.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    1233
   ],
   "jp": "早見青児\n国際結社パンサークローに\nついては\n俺も 新聞記者として\n関心があるんだ\n一緒に行ってもいいかな？\n博士の仇討ちに協力させてくれ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nAs a newspaper reporter, I've got my\nown interest in the international\nsyndicate Panther Claw. Mind if I tag\nalong? Let me help you avenge the\ndoctor!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    1234
   ],
   "jp": "早見青児\n新聞記者の 早見青児ですよ\nはっはっは\n博士のインタビュー中に\nパンサークローに襲われまして",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nSeiji Hayami, newspaper reporter!\nHahaha! Panther Claw jumped us while\nI was interviewing the doctor.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    1240
   ],
   "jp": "如月博士\nやぁ ハニー",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nHello there, Honey.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    1241
   ],
   "jp": "如月ハニー\n…ロボット？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\n...A robot?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    1242
   ],
   "jp": "如月博士\nそうだ だが ハニーのような\n完全な アンドロイドではない",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nYes. But not a perfect android like\nyou, Honey.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    1243
   ],
   "jp": "如月ハニー\nアンドロイド？\nハニーは 人間ではないの？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nAn android? Honey... isn't human?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    1244
   ],
   "jp": "{p}＆早見青児\nえ～っ！？",
-  "en": "",
-  "status": "",
+  "en": "{p} & Seiji Hayami\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    1245
   ],
   "jp": "如月博士\n君の身体は\n私の全頭脳と 情熱と 愛情の\nすべてをかけて作ったものだ\n\n君の身体の ひとつひとつが\n髪の毛一本一本まで\nすべてが\n私の愛の結晶なのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nYour body is something I built with all\nmy genius, my passion and my love.\n\nEvery part of your body, down to\neach single hair, all of it is the\ncrystallization of my love!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    1246
   ],
   "jp": "如月ハニー\nパパ…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nPapa...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    1247
   ],
   "jp": "如月博士\nハニーの身体の内部には\n世紀の発明が 隠されている\n空中元素固定装置だ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nHidden inside Honey's body is the\ninvention of the century: the\nAirborne Element Fixer!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    1248
   ],
   "jp": "如月ハニー\n空中元素固定装置？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nThe Airborne Element Fixer?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    1249
   ],
   "jp": "如月博士\n空気中の元素を 瞬時に組み合わせ\nあらゆる物質を 作り出す装置だ\nダイヤモンドとて 無限に作れる",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nA device that instantly combines the\nelements in the air to create any\nsubstance at all. It could even make\ndiamonds without limit.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    1250
   ],
   "jp": "早見青児\n聞いたか おい？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHey, did you hear that?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    1251
   ],
   "jp": "{p}\nうん…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    1252
   ],
   "jp": "如月博士\nそれを パンサークローに\n狙われた…\n残忍な パンサークローに\nハニーを奪われたら…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nThat is what Panther Claw is after... If\nthe cruel Panther Claw were to take\nyou, Honey...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    1253
   ],
   "jp": "如月ハニー\n大丈夫 パパ\n\nそのために ハニーに 人間以上の\n力を 与えてくれたんでしょう？\n負けないわ 悪人なんかに！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's all right, Papa.\n\nThat's why you gave Honey more than\nhuman strength, isn't it? I won't lose\nto villains!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    1254
   ],
   "jp": "如月博士\nそうだ そのとおりだハニー",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nYes, that's exactly right, Honey.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    1255
   ],
   "jp": "如月博士\n行きたまえ ハニー\n\n私のロボットが壊れた後\nこの研究所は 爆破する！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nGo now, Honey.\n\nOnce my robot is destroyed, this\nlaboratory will self-destruct!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    1256
   ],
   "jp": "如月博士\nこの研究所の すべての手がかりを\n敵に つかませないために…\nさようなら 永遠に美しいハニー\nさようなら…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Kisaragi\nSo the enemy can never lay hands on\na single clue here... Farewell, my\neternally beautiful Honey. Farewell...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    1257
   ],
   "jp": "{p}\nさぁ 早く脱出しないと！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nCome on, we've got to get out of here\nfast!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    1258
   ],
   "jp": "早見青児\nそうだ\n急ごう ハニー！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nRight, let's hurry, Honey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    1259
   ],
   "jp": "如月ハニー\nさようなら パパ…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nGoodbye, Papa...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    1260
   ],
   "jp": "{p}\nハニー あれを…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney, look at that...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    1261
   ],
   "jp": "如月ハニー\n黒い月…！？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nA black moon...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    1262
   ],
   "jp": "早見青児\nえ？ あ ホントだ\n月が黒いぞ！？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nHuh? Oh, you're right. The moon's gone\nblack!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    1263
   ],
   "jp": "{p}\nうわ～ ど どうしよ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoaaa! Wh-what do we dooo!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    1264
   ],
   "jp": "如月ハニー\nいや～～～！！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNooooo!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    1265
   ],
   "jp": "早見青児\n…ふたりとも どうしたの？\n\nうわ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\n...What's wrong with you two?\n\nWhoa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    1270
   ],
   "jp": "シスター・ジル\n如月邱が 爆発したと？\n\nそれで？ 如月が発明した\n空中元素固定装置は どうした？",
-  "en": "",
-  "status": "",
+  "en": "Sister Jill\nThe Kisaragi mansion exploded, you\nsay?\n\nAnd? What of the Airborne Element\nFixer Kisaragi invented?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    1271
   ],
   "jp": "パンサー団員\nそれが まったく何も…\n恐らく 屋敷もろとも…",
-  "en": "",
-  "status": "",
+  "en": "Panther Claw Member\nWell, nothing at all, ma'am... Most likely\nit went up with the mansion...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    1272
   ],
   "jp": "シスター・ジル\nほほほ 屋敷もろとも\nふっ飛んだと お言いかい？",
-  "en": "",
-  "status": "",
+  "en": "Sister Jill\nHohoho! Went up with the mansion, you\nsay?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    1273
   ],
   "jp": "シスター・ジル\n愚か者めが！",
-  "en": "",
-  "status": "",
+  "en": "Sister Jill\nYou fool!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    1275
   ],
   "jp": "シスター・ジル\n娘だ！ 如月博士の娘が\n超発明の鍵を 握っている！",
-  "en": "",
-  "status": "",
+  "en": "Sister Jill\nThe daughter! Dr. Kisaragi's daughter\nholds the key to his great invention!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    1276
   ],
   "jp": "シスター・ジル\n何をぼやぼやしている！\n\nさっさと 如月博士の娘について\n調べるのだ！",
-  "en": "",
-  "status": "",
+  "en": "Sister Jill\nWhy are you dawdling!?\n\nFind out everything about Dr.\nKisaragi's daughter, at once!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    1277
   ],
   "jp": "パンサー団員\nはっ！",
-  "en": "",
-  "status": "",
+  "en": "Panther Claw Member\nYes, ma'am!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    1278
   ],
   "jp": "？？？\n…空中元素固定装置…",
-  "en": "",
-  "status": "",
+  "en": "???\n...The Airborne Element Fixer...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    1280
   ],
   "jp": "早見青児\n大きな地震だったなぁ…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nThat was one big earthquake...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    1281
   ],
   "jp": "如月ハニー\nホントね それにしても 地震前と\n同じ場所にいて 良かったわ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt sure was. Still, I'm glad we ended up\nin the same place as before the\nquake.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    1282
   ],
   "jp": "早見青児\n…どういうことだい？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\n...What do you mean?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    1283
   ],
   "jp": "{p}\n実は僕達…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nActually, we...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    1284
   ],
   "jp": "如月ハニー\n実は…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nActually...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    1285
   ],
   "jp": "早見青児\n…え～～～！？\n\nそれ ホントかい？\nにわかには 信じがたいなぁ…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\n...Whaaat!?\n\nIs that for real? That's pretty hard\nto swallow...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    1288
   ],
   "jp": "{p}\nあいつ 無事だろうか…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI hope she's okay...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    1289
   ],
   "jp": "早見青児\nオヤジ…！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nPop...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    1290
   ],
   "jp": "如月ハニー\nお父様…？",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nYour father...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    1291
   ],
   "jp": "早見青児\nオヤジの名前は 団兵衛\nこの近くに 住んでるんだ",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nMy old man's name is Danbei. He lives\nnear here.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    1292
   ],
   "jp": "{p}\n揺れがひどかったから 心配だね…\n\n僕も山を降りて「始まりの丘」に\n戻る道を 知りたいし\nとりあえず 山を降りようよ",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat quake was really bad, so I'm\nworried too...\n\nI want to find a way back to the \"Hill\nof Beginnings\" too, so let's head\ndown the mountain for now.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    1293
   ],
   "jp": "早見青児\n良かった！ クルマは無事だ\nこのクルマで 取材に来たんだよ\nさ 乗った 乗った！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nGreat! The car's in one piece. This is\nthe car I drove up for the interview.\nC'mon, hop in, hop in!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    1294
   ],
   "jp": "{p}\nこれじゃ 「始まりの丘」に\n戻れない…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAt this rate, we can't get back to the\n\"Hill of Beginnings\"...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    1295
   ],
   "jp": "如月ハニー\n明君が ついてるもの\nふたりとも 無事よ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nShe's got Akira-kun with her. They'll\nboth be fine!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    1301
   ],
   "jp": "早見青児\nひでぇな なんだここは？\n\n山のふもとに こんな 廃墟みたい\nな場所 あったっけな…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nGeez, what is this place?\n\nWas there always a ruin like this at the\nfoot of the mountain...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    1302
   ],
   "jp": "如月ハニー\n誰か いないかしら？\n探して 話を聞いてみましょうよ",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIsn't there anyone around? Let's find\nsomeone and ask.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    1303
   ],
   "jp": "住民\n無法地帯と化した関東で 平和な\n暮らしを望むなんて 無理な話さ",
-  "en": "",
-  "status": "",
+  "en": "Resident\nHoping for a peaceful life in Kanto\nnow it's gone lawless? Not a chance.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    1304
   ],
   "jp": "住民\n関東地獄地震の記憶は\nまだ 生々しいよ\nちょっとした揺れでも\n寿命が縮まるかと 思っちまう",
-  "en": "",
-  "status": "",
+  "en": "Resident\nThe memory of the Kanto Hellquake is\nstill fresh. Even a little tremor feels\nlike it takes years off my life.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    1305
   ],
   "jp": "住民\n海の向こうに 離れ離れになった\n家族が待ってる…\n関東が本州と切り離されちまった\nこと 知ってるだろ？",
-  "en": "",
-  "status": "",
+  "en": "Resident\nMy family's waiting across the sea,\ntorn away from me... You know Kanto\ngot cut off from the rest of Honshu,\nright?",
+  "status": "done",
   "notes": ""
  }
 ]

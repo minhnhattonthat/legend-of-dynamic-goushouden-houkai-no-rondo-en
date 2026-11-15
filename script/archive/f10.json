@@ -5,8 +5,8 @@
    2370
   ],
   "jp": "弓教授\n甲児君 どうしてここへ？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nKoji-kun, what brings you here?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    2371
   ],
   "jp": "兜甲児[09]\n大変なんです 教授！\n実は…！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto[09]\nIt's an emergency, Professor! The\nthing is...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    2372
   ],
   "jp": "弓教授\n状況は解った\nまず {p}君！\nこちらこそ 君に協力したい！\n医療班を手配して すぐに\n{s}君の診察に\nあたらせよう！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nI understand the situation. First,\n{p}-kun! It's I who\nshould be helping you! I'll arrange for\nthe medical team to examine\n{s}-kun right away!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    2373
   ],
   "jp": "{p}\nありがとうございます 弓教授！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank you so much, Professor Yumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    2374
   ],
   "jp": "弓教授\nそれから 甲児君！\n\nマジンガーＺをドクター・ヘルに\n渡してはならん！\nもうすぐ アレも完成するはず…\n研究所へ戻るぞ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nAnd Koji-kun!\n\nWe must not hand Mazinger Z over to\nDr. Hell! THAT should be finished any\nmoment now... Back to the lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    2375
   ],
   "jp": "兜甲児\n了解！ よ～し 待ってろよ\nあしゅら男爵！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nRoger! All riiight, you just wait, Baron\nAshura!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    2376
   ],
   "jp": "研究員\n現在 会議中です\nこちらの通路は利用できません\n正面の扉から 入ってください",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nA meeting is in session. This corridor is\nclosed. Please enter by the front\ndoor.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    2380
   ],
   "jp": "弓教授\n科学都市の医療施設は完璧だ\n\n{s}君も きっと すぐに\n良くなるだろう",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nScience City's medical facility is\nfirst-rate.\n\nI'm sure {s}-kun will be\nwell again soon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    2381
   ],
   "jp": "{p}\n教授\nホントにありがとうございます！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nProfessor, thank you so much!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    2382
   ],
   "jp": "弓教授\n実は 今回の会議の本当の議題は\n次元連結現象についてだったんだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe truth is, the real agenda of this\nconference was the dimensional\nlinking phenomenon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    2383
   ],
   "jp": "子郎\nそれでは 教授達は この世界とは\n別の世界の存在を…？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThen you scientists know about worlds\nother than this one...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    2384
   ],
   "jp": "弓教授\nもちろん 知っているよ\n理論上の話だがね\n次元の異なる様々な世界が\n連結するという現象が\n近頃 頻発しているようなのだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nOf course we do. In theory, at least. It\nseems a phenomenon where various\nworlds in different dimensions link\ntogether has been happening\nfrequently of late.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    2386
   ],
   "jp": "{p}\nやはり…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI knew it...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    2387
   ],
   "jp": "弓教授\nこのままでは\n深刻な事態が 起こり得る！\nそこで 君の経験を 原因究明に\n役立てたいのだ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nAt this rate, something grave could\nhappen! So I want to put your\nexperiences to use in finding the\ncause!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    2388
   ],
   "jp": "{p}\n喜んでお手伝いします！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'd be glad to help!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    2389
   ],
   "jp": "弓教授\nありがとう！\nだが まずは光子力研究所奪回だ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThank you! But first, we retake the\nPhoton Power Lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    2390
   ],
   "jp": "兜甲児\nよ～し やってやるぜ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAll riiight, let's do this!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    2391
   ],
   "jp": "兜甲児\n準備が出来たら\n光子力研究所に向けて出発しよう\n用意が出来たら 声をかけてくれ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nOnce you're ready, we'll head out for\nthe Photon Power Lab. Just say the\nword when you're set.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    2392
   ],
   "jp": "兜甲児\n準備はいいかい？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAll set?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    2393
   ],
   "jp": "兜甲児\nそれじゃ 出発しよう！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nThen let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    2394
   ],
   "jp": "弓教授\nさやか や ボス君も心配だ…\nがんばってくれ 甲児君！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nI'm worried about Sayaka and\nBoss-kun too... Do your best,\nKoji-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    2395
   ],
   "jp": "弓教授\nまずは 光子力研究所奪回だ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nFirst, we retake the Photon Power Lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    2400
   ],
   "jp": "兜甲児\nよ～し\nもう少しで 光子力研究所だ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAll riiight, the Photon Power Lab's just\nahead!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    2401
   ],
   "jp": "{p}\n甲児君！ アレを見て！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nKoji-kun! Look at that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    2402
   ],
   "jp": "あしゅら（男）\nワハハハハハハ…！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nWahahahahaha...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    2403
   ],
   "jp": "あしゅら（女）\nホホホホホホホ…！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nHohohohohoho...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    2404
   ],
   "jp": "あしゅら（男）\nマジンガーＺは 手に入れたぞ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nMazinger Z is ours!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    2405
   ],
   "jp": "あしゅら（女）\nマジンガーＺは\nドクター・ヘルのモノ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nMazinger Z belongs to Dr. Hell!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    2406
   ],
   "jp": "兜甲児\nマジンガーが！？\n\nさやかさん達は\n何やってたんだ！？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nMazinger!?\n\nWhat were Sayaka-san and the others\ndoing!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    2407
   ],
   "jp": "弓さやか\n{!R}甲児君！ ごめんなさい！\n\n{!R}あしゅら男爵が\n総攻撃を開始したのよ！",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\n{!R}Koji-kun! I'm sorry!\n\n{!R}Baron Ashura launched an all-out\nattack!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    2408
   ],
   "jp": "ボス\n{!R}すまねぇ！ こっちは 機械獣の\n相手で 精一杯なんでぃ！",
-  "en": "",
-  "status": "",
+  "en": "Boss\n{!R}Sorry, pal! We got our hands full with\nthese Mechanical Beasts, see!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    2409
   ],
   "jp": "兜甲児\nマジンガーを取り戻すまで\nもちこたえてくれ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nHold on till I get Mazinger back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    2410
   ],
   "jp": "あしゅら（男）\nふふふ！ ドクター・ヘルへの\n最高の土産が 手に入ったぞ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nHeh heh! I've got the perfect gift for\nDr. Hell!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    2411
   ],
   "jp": "あしゅら（女）\n受け入れ準備はオーケーのようね！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nLooks like they're ready to receive it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    2412
   ],
   "jp": "あしゅら（男）\nマジンガーＺを！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nTake Mazinger Z",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    2413
   ],
   "jp": "あしゅら（女）\n海底要塞サルードへ入れよ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\ninto the undersea fortress Saluud!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    2414
   ],
   "jp": "あしゅら（男）\nウッ！ パイルダー！？\n来たな 甲児！ 我がライバルよ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nNgh! The Pilder!? So you've come, Koji!\nMy rival!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    2415
   ],
   "jp": "あしゅら（男）\nパイルダーをマジンガーと\n合体させては ならぬ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nThe Pilder must not dock with Mazinger!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    2416
   ],
   "jp": "兜甲児\nあしゅら男爵！\n俺のマジンガーＺを！\nきさまなどに渡さんぞ！\n\nパイルダー！\nオ～ン！！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nBaron Ashura! My Mazinger Z! I won't\nhand it over to the likes of you!\n\nPilder! ON!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    2417
   ],
   "jp": "あしゅら（男）\nおのれ\nあと一歩というところを…！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nCurses! Just one step away...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    2418
   ],
   "jp": "あしゅら（女）\nサルードを退避させる！\n潜水！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nPull back the Saluud! Dive!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    2419
   ],
   "jp": "兜甲児\nマジンガーが海中に沈む！\n\n海底で うまく 機械獣と\n戦えるだろうか…",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nMazinger's sinking into the sea!\n\nCan I really fight Mechanical Beasts on\nthe seabed...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    2420
   ],
   "jp": "{p}\nでも うかつに海上に出たら\n集中砲火を浴びちゃう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut if we carelessly surface, we'll get\nhit by concentrated fire!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    2421
   ],
   "jp": "兜甲児\n海底を移動して\n光子力研究所に近づこう！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nLet's move along the seabed and get\ncloser to the Photon Power Lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    2422
   ],
   "jp": "あしゅら（男）\nマジンガーは\n海中に沈んだようだな！？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nMazinger seems to have sunk into the\nsea!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    2423
   ],
   "jp": "あしゅら（女）\n次は 光子力研究所の番よ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nNext, it's the Photon Power Lab's turn!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    2424
   ],
   "jp": "さやか\n…甲児君",
-  "en": "",
-  "status": "",
+  "en": "Sayaka\n...Koji-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    2425
   ],
   "jp": "ボス\nさやか！ 心配すんな！\nこの俺が いるから 大丈夫！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nSayaka! Don't you worry! You got me,\nso it's all good!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    2426
   ],
   "jp": "さやか\nアフロダイＡとボスボロットで\nなんとかするしかないわね！\nボス しっかりね！",
-  "en": "",
-  "status": "",
+  "en": "Sayaka\nWe'll just have to manage with\nAphrodite A and Boss Borot! Hang in\nthere, Boss!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    2427
   ],
   "jp": "ボス\nオーケーだわさ！\nさやかもな！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nOkey-dokey! You too, Sayaka!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    2428
   ],
   "jp": "あしゅら（男）\n出たな ガラクタロボットどもめ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nSo you've shown up, you heaps of\njunk robots!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    2429
   ],
   "jp": "あしゅら（女）\n機械獣あしゅら男爵の恐ろしさを\n見せてあげるわ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nI'll show you the terror of Mechanical\nBeast Baron Ashura!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    2430
   ],
   "jp": "兜甲児\n見ろよ 機械獣用のデッキみたいだ\nあそこから サルードの中に入り\n内部を移動してやる！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nLook, it's like a deck for Mechanical\nBeasts. I'll get inside the Saluud\nfrom there and move through it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    2431
   ],
   "jp": "兜甲児\nよ～し！ 外に出られたぞ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAll riiight! We made it outside!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    2432
   ],
   "jp": "{p}\n光子力研究所から\n離れちゃってる！\nいつの間にか 海底要塞が\n移動し始めてたんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe're far from the Photon Power Lab!\nThe undersea fortress started\nmoving at some point!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    2433
   ],
   "jp": "弓教授\n{!R}聞こえるか 甲児君！？\n\n{!R}アレが完成したぞ！\n現在 そちらに向かっている！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\n{!R}Can you hear me, Koji-kun!?\n\n{!R}THAT is finished! It's on its way to you\nnow!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    2434
   ],
   "jp": "兜甲児\n科学都市で 開発していたアレが\n間に合ったんですね！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nSo the thing they were building in\nScience City made it in time!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    2435
   ],
   "jp": "{p}\nアレってなに？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat's \"that\"?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    2436
   ],
   "jp": "兜甲児\n見てればわかるさ\n来たぞ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nJust watch and you'll see. Here it\ncomes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    2437
   ],
   "jp": "兜甲児\nスクランダー！\nクロ～ス！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nScrander! CROSS!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    2438
   ],
   "jp": "{p}\n凄いよ 甲児君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAmazing, Koji-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    2439
   ],
   "jp": "兜甲児\nさやかさん！ ボス！\n今 行くぞ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nSayaka-san! Boss! I'm coming!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    2440
   ],
   "jp": "あしゅら（男）\nマジンガーＺ！？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nMazinger Z!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    2441
   ],
   "jp": "あしゅら（女）\nおのれ 兜甲児！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nCurse you, Koji Kabuto!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    2442
   ],
   "jp": "兜甲児\nあしゅら男爵 勝負だ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nBaron Ashura, let's settle this!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    2443
   ],
   "jp": "{p}\nいっけ～ マジンガー！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGooo, Mazinger!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    2450
   ],
   "jp": "弓教授\n甲児君！\nそして {p}君！\nよくやってくれた！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nKoji-kun! And {p}-kun!\nWell done!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    2451
   ],
   "jp": "{p}\nあの… {s}は…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUm... how is {s}...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    2452
   ],
   "jp": "弓教授\n科学都市の医療班が 全力をあげて\n治療にあたっているよ\n間もなく回復するだろう！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nScience City's medical team is doing\neverything they can to treat her.\nShe should recover soon!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    2453
   ],
   "jp": "{p}\n良かった…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank goodness...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    2454
   ],
   "jp": "弓さやか\n甲児君！",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\nKoji-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    2455
   ],
   "jp": "ボス\nお～い！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nHeeey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    2456
   ],
   "jp": "兜甲児\nさやかさん！ ボス！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nSayaka-san! Boss!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    2457
   ],
   "jp": "{p}\n教授 仲間っていいですね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nProfessor, friends are a wonderful\nthing...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    2458
   ],
   "jp": "弓教授\n君にも 素晴らしい仲間達がいる\nじゃないか {p}君！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nYou have wonderful friends too, don't\nyou, {p}-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    2459
   ],
   "jp": "{p}\nみんな！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEveryone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    2460
   ],
   "jp": "弓教授\n…さて\n次元連鎖という現象について\n詳しいことは\n何もわかっていないのが現状だ\nそこで我々は 予知一族に\n協力を求めることにしたのだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\n...Now then. At present, we know\nnothing in detail about this\nphenomenon called the Dimension\nChain. So we've decided to ask the\nPrecog Clan for their help.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    2461
   ],
   "jp": "{p}\n予知一族？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Precog Clan?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    2462
   ],
   "jp": "弓さやか\n預言者集団ともいわれている\n超能力者達のことね",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\nPsychics, also called a band of\nprophets.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    2463
   ],
   "jp": "{p}\n予知一族って\nどこにいるんですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhere is the Precog Clan?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    2464
   ],
   "jp": "弓教授\n戸来村の出身であるということしか\n解らないのだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nAll we know is that they come from\nHerai Village.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    2465
   ],
   "jp": "ボス\n戸来村って どこよ？\nさやか 知ってるか？",
-  "en": "",
-  "status": "",
+  "en": "Boss\nWhere's Herai Village? Sayaka, you\nknow?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    2466
   ],
   "jp": "弓さやか\n確か 北東の山の中よ",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\nIn the mountains to the northeast, I\nthink.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    2467
   ],
   "jp": "兜甲児\nどこだって 大丈夫さ！\n\nジェットスクランダーがあれば\nひとっ飛びだからな！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nWherever it is, no problem!\n\nWith the Jet Scrander, it's just a hop\naway!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    2468
   ],
   "jp": "弓教授\nそれが そうもいかんのだよ\n甲児君\n君達のロボットは\n修理が必要なんだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nI'm afraid it isn't that simple, Koji-kun.\nYour robots need repairs.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    2469
   ],
   "jp": "兜甲児\nえ～っ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nWhaaat!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    2470
   ],
   "jp": "弓さやか\nだいぶ やられちゃったもんね…",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\nThey really took a beating...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    2471
   ],
   "jp": "ボス\n俺のボスボロット… 可哀想に…",
-  "en": "",
-  "status": "",
+  "en": "Boss\nMy Boss Borot... You poor thing...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    2472
   ],
   "jp": "{p}\nでは教授 僕 仲間と一緒に\n戸来村へ行きます！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThen, Professor, I'll go to Herai Village\nwith my friends!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    2473
   ],
   "jp": "兜甲児\n俺も手伝うぜ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nI'll help out too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    2474
   ],
   "jp": "弓さやか\nあたしも！",
-  "en": "",
-  "status": "",
+  "en": "Sayaka Yumi\nMe too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    2475
   ],
   "jp": "ボス\nよ～し 俺達も手伝うで～！",
-  "en": "",
-  "status": "",
+  "en": "Boss\nAll riiight, we're helpin' too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    2476
   ],
   "jp": "ムチャ\nホイッス ボス！",
-  "en": "",
-  "status": "",
+  "en": "Mucha\nHoisu, Boss!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    2477
   ],
   "jp": "ヌケ\nホヤ～！ ボス！",
-  "en": "",
-  "status": "",
+  "en": "Nuke\nHoyaaa! Boss!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    2478
   ],
   "jp": "弓教授\n戸来村は ここから 北東\n科学都市 北の 小さな村だ\nそこに住む予知一族の力を借りれば\n次元連鎖の情報が得られるはずだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nHerai Village is a small village\nnortheast of here, north of Science\nCity. With the help of the Precog Clan\nwho live there, we should be able to\nlearn about the Dimension Chain.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    2479
   ],
   "jp": "博士\n来留間博士は\n血も涙もない男じゃ\n奥さんや 息子さんまで\n研究の犠牲にしたらしい",
-  "en": "",
-  "status": "",
+  "en": "Professor\nDr. Kuruma is a man without blood or\ntears, I tell you. They say he even\nsacrificed his wife and son to his\nresearch.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    2480
   ],
   "jp": "博士\n来留間博士は 連結や混合こそ\n進化だと主張しとる\n彼は 動物同士を結合させる実験を\nしているとの噂じゃ",
-  "en": "",
-  "status": "",
+  "en": "Professor\nDr. Kuruma insists that linking and\nmixing are evolution itself. Rumor has\nit he's experimenting with fusing\nanimals together, I tell you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    2481
   ],
   "jp": "博士\n予知一族の他にも\n優秀な超能力者達が存在する…\n科学者達の間では\n公然の秘密なんだ！",
-  "en": "",
-  "status": "",
+  "en": "Professor\nBesides the Precog Clan, other gifted\npsychics exist... It's an open secret\namong scientists!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    2482
   ],
   "jp": "{p}\nあれ？\nこんなところに地獄別荘が…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh? Hell Villa's here...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    2483
   ],
   "jp": "閻魔大王\nグワッハッハッハッ！",
-  "en": "",
-  "status": "",
+  "en": "Great King Enma\nGWAHAHAHAHA!",
+  "status": "done",
   "notes": ""
  }
 ]

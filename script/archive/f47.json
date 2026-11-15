@@ -5,8 +5,8 @@
    10902
   ],
   "jp": "{p}\n明君\n僕も行くよ",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun, I'm coming too.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    10903
   ],
   "jp": "飛鳥了\n{p}！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    10904
   ],
   "jp": "飛鳥了\n待て！\n俺も行く",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nWait! I'm coming too.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    10905
   ],
   "jp": "不動明\n了…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nRyo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    10906
   ],
   "jp": "飛鳥了\n早乙女博士に 状況を聞こう\n対策をたてるのは それからだ\nたしか 早乙女博士は このフロアの\n奥の部屋にいたはずだ…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nLet's ask Dr. Saotome about the\nsituation. We'll make a plan after\nthat. Dr. Saotome should be in the\nroom at the back of this floor...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    10910
   ],
   "jp": "早乙女博士\nそれは 興味深い話だな…\n報告ありがとう",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThat's interesting... Thank you for\nthe report.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    10911
   ],
   "jp": "ガードマン\nそれでは 失礼します！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nThen I'll be going!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    10912
   ],
   "jp": "ガードマン\nフフ…",
-  "en": "",
-  "status": "",
+  "en": "Guard\nHeh heh...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    10913
   ],
   "jp": "早乙女博士\nちょうどいいところに来た\n新しい情報が入ったぞ\nニュースを見てみたまえ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nYou came at just the right time. New\ninformation has come in. Take a look\nat the news.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    10914
   ],
   "jp": "アナウンサー\n黒い物体に操られ\n魔王の声を聞いたと言う人々が\nある場所に集まり始めています！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\nPeople who were controlled by black\nthings and claim to have heard the\nDemon King's voice are beginning to\ngather in one place!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    10915
   ],
   "jp": "{p}\n始まりの丘だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's the Hill of Beginnings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    10916
   ],
   "jp": "アナウンサー\nこの人達は この丘に\n祭壇を築き始めました！\n無気味な像まで作っています！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\nThese people have begun building an\naltar on this hill! They're even making\nan eerie statue!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    10917
   ],
   "jp": "不動明\n祭壇に像？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nAn altar and a statue?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    10918
   ],
   "jp": "アナウンサー\n魔王を信奉する人々が\n続々と集まってきています！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\nPeople who worship the Demon King are\ngathering one after another!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    10919
   ],
   "jp": "早乙女博士\n人々は {p}君が\n聞いた言葉と 同じ言葉を\n口にしているそうだよ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThey say the people are saying the\nsame words you heard,\n{p}-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    10920
   ],
   "jp": "{p}\n僕が聞いた言葉？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe words I heard?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    10921
   ],
   "jp": "早乙女博士\n結合の時…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe time of joining...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    10922
   ],
   "jp": "不動明\nより強い力…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nGreater power...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    10923
   ],
   "jp": "飛鳥了\n野望の実現…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAmbition realized...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    10924
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    10925
   ],
   "jp": "早乙女博士\nこれが意味していることは\nひとつ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThis can only mean one thing!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    10926
   ],
   "jp": "{p}\n魔王はまだ\n完全な力を得ていない…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Demon King hasn't gained his full\npower yet...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    10927
   ],
   "jp": "早乙女博士\n結合の時が 何を意味しているのか\n解らない\nだが その時\n魔王が真の力を発揮する！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI don't know what the time of joining\nmeans. But when it comes, the Demon\nKing will unleash his true power!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    10928
   ],
   "jp": "不動明\nその前に なんとかしなけりゃ…！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nBefore that happens, we've gotta do\nsomething...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    10929
   ],
   "jp": "早乙女博士\n我々も なんとか戦力を\n拡充したいところだな\nゲッターチームから\n報告が はいっておる\n全滅したはずのメカザウルスが\n復活を遂げたそうだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe'd like to build up our forces\nsomehow too. A report has come in\nfrom the Getter Team. It seems the\nMechasaurus that should have been\nwiped out has come back to life.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    10930
   ],
   "jp": "早乙女博士\n魔王は驚くべき勢いで 勢力を\n広げているとみるべきだ\n我々は一致団結して\n困難に立ち向かわねばならん！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe should assume the Demon King is\nspreading his power at an\nastonishing rate. We must all stand\nunited against this crisis!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    10931
   ],
   "jp": "飛鳥了\nしかし博士…\n\n人々が 黒い魔物に\n操られている以上\n人間を守るために開発された兵器が\n人類滅亡に使用されることも…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nBut Doctor...\n\nAs long as people are being controlled\nby the black fiends, weapons\ndeveloped to protect humans could be\nused to wipe out mankind...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    10932
   ],
   "jp": "早乙女博士\n…無いとは言い切れん\n\nもはや 誰が味方で 誰が敵か\n解らんからな",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n...I can't say it won't happen.\n\nWe can no longer tell who's friend and\nwho's foe.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    10933
   ],
   "jp": "不動明\nそんな！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nNo way!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    10934
   ],
   "jp": "{p}\nでも これまで敵だった人達と\n仲間になれるチャンスかも！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut maybe it's a chance to make\nfriends with people who used to be\nenemies!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    10935
   ],
   "jp": "不動明\nうまく行けば…な",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nIf it goes well, anyway.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    10936
   ],
   "jp": "早乙女博士\n早乙女だ\n…そうか 解った",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nSaotome here. ...I see. Understood.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    10937
   ],
   "jp": "早乙女博士\n居住エリア周辺から\n暴徒を追い出したそうだ\nわしは これから会議があるので\nこれで失礼する",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThey've driven the rioters out of the\narea around the residential area. I\nhave a meeting now, so I'll excuse\nmyself.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    10938
   ],
   "jp": "早乙女博士\n魔王は 君を「再生の太陽」と\n\n{s}を「破壊の月」と\n呼ぶ\nまた暴徒達は {p}君を\n魔王に差し出せといっている\nこれは 魔王が言う「結合の時」に\n関係あると思われる",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe Demon King calls you the \"Sun of\nrebirth\"\n\nand {s} the \"Moon of\ndestruction.\" And the rioters are\nsaying to hand {p}-kun\nover to the Demon King. I believe this\nis connected to what the Demon King\ncalls the \"time of joining.\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    10939
   ],
   "jp": "早乙女博士\n居住エリアからは出ないことだ\nもしも君が魔王に捕らえられたら\n結合の時とやらが\n訪れてしまうかもしれない…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nDon't leave the residential area. If the\nDemon King captures you, this \"time\nof joining\" may come...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    10940
   ],
   "jp": "飛鳥了\n君は狙われてるんだぞ！\n居住エリアから出てはダメだ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nThey're after you! Don't leave the\nresidential area!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    10941
   ],
   "jp": "ガードマン\nすみません！ 暴徒が窓を破って\n入って来ちゃいました！\n手を貸して下さい！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nExcuse me! Rioters broke through a\nwindow and got in! Please give me a\nhand!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    10942
   ],
   "jp": "不動明\nなんだと！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    10943
   ],
   "jp": "不動明\n暴徒ってのは どこにいるんだ？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nSo where are these rioters?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    10944
   ],
   "jp": "ガードマン\nおかしいなぁ\n確か このあたりに…？",
-  "en": "",
-  "status": "",
+  "en": "Guard\nThat's odd, I'm sure they were around\nhere...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    10945
   ],
   "jp": "不動明\n無事だったか {p}！\n\nおまえひとりじゃ危険だ\n俺も行こう！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nYou're safe, {p}!\n\nIt's dangerous alone. I'm coming too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    10946
   ],
   "jp": "飛鳥了\nふたりとも戻ってきたか…\nちょうど会議が終わったところだ\n早乙女博士が\n君に会いたがっているぞ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nSo you're both back... The meeting\njust ended. Dr. Saotome wants to\nsee you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    11000
   ],
   "jp": "早乙女博士\n{p}君！\nようやく答えが見つかったぞ！\n魔王は 日蝕を待っているのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{p}-kun! I've finally\nfound the answer! The Demon King is\nwaiting for a solar eclipse!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    11001
   ],
   "jp": "{p}\n月が太陽の光をさえぎる\nあの日蝕ですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou mean an eclipse, when the moon\nblocks the sun's light?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    11002
   ],
   "jp": "早乙女博士\nそうじゃ！\n\n恐らく 日蝕の訪れと共に\n魔王は真の力を得るのだと思う",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThat's right!\n\nMost likely, the Demon King will gain his\ntrue power when the eclipse comes.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    11003
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    11004
   ],
   "jp": "早乙女博士\nこれまで次元連鎖が起きるたびに\nあるものが出現していた\n黒い月だ！\n\n日蝕が起きたら\n何が出現するかね？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nEvery time the Dimension Chain has\noccurred, a certain thing has\nappeared. The black moon!\n\nSo when an eclipse happens, what\nappears?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    11005
   ],
   "jp": "{p}\nえ…？\nえ～と あっ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh...? Uh, um... Oh!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    11006
   ],
   "jp": "早乙女博士\nそうじゃ 黒い太陽だ！\n\n黒い太陽が出現した時\n魔王が真の力を得るのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThat's right, a black sun!\n\nWhen the black sun appears, the\nDemon King will gain his true power!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    11007
   ],
   "jp": "{p}\nそれで次の日蝕は\nいつなんですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo when's the next eclipse?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    11008
   ],
   "jp": "早乙女博士\n明日だ…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nTomorrow...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    11009
   ],
   "jp": "{p}\n明日！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nTomorrow!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    11010
   ],
   "jp": "早乙女博士\n至急 対策を立てねばならん！\nサロンに来てくれ！\n作戦会議だ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe must make a plan at once! Come to\nthe salon! It's a strategy meeting!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    11011
   ],
   "jp": "早乙女博士\n…というわけだ 諸君！\n明日に迫った日蝕！\nもしも 私の推理が正しければ\nその時 魔王は真の力を得る！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n...So there you have it, everyone! The\neclipse is upon us tomorrow! If my\nreasoning is correct, that's when the\nDemon King gains his true power!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    11012
   ],
   "jp": "早乙女博士\n{p}君！\n言い忘れていたことがある\n恐らく {s}は\n無事に生きとるぞ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{p}-kun! There's\nsomething I forgot to tell you. In all\nlikelihood, {s} is alive\nand well!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    11013
   ],
   "jp": "{p}\n…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    11014
   ],
   "jp": "早乙女博士\n君が生きていることが その証しだ\n\n魔王は{s}を「月」と呼び\n君を「太陽」と呼んだのだから！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe proof is that you're alive.\n\nAfter all, the Demon King called\n{s} the \"moon\" and\nyou the \"sun\"!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    11015
   ],
   "jp": "{p}\nそっか… 魔王が 僕を\n必要としているってことは…\n{s}も\n生きている可能性が高いわけだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI see... If the Demon King needs me...\nthen there's a good chance\n{s} is still alive too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    11016
   ],
   "jp": "早乙女博士\n魔王は捕らえた{s}を\n逃がさぬよう 見張っているのだ\nそして人々を操り 君を手に\n入れようと しているのだろう",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe Demon King is keeping watch over\n{s} so she can't\nescape. And he's probably controlling\npeople to try to get his hands on\nyou.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    11017
   ],
   "jp": "{p}\n僕 {s}を\n助けに始まりの丘に行きます！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm going to the Hill of Beginnings to\nrescue {s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    11018
   ],
   "jp": "早乙女博士\nいかん！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nYou mustn't!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    11019
   ],
   "jp": "{p}\nどうしてですか！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhy not!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    11020
   ],
   "jp": "不動明\n魔王が おまえを手に入れたがって\nいるからさ\nそれも… 日蝕の前にな！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n'Cause the Demon King wants to get his\nhands on you. Before the eclipse,\ntoo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    11021
   ],
   "jp": "早乙女博士\n{p}君を手に入れるため\n暴徒達が\n総攻撃を仕掛けてくることが\n予測されるのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe expect the rioters to launch an\nall-out attack to capture you,\n{p}-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    11022
   ],
   "jp": "早乙女博士\n君を魔王の手に\n渡してしまうわけには いかん！\nここに留まってくれ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe can't let you fall into the Demon\nKing's hands! Stay here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    11023
   ],
   "jp": "{p}\nそんな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    11024
   ],
   "jp": "不動明\n攻撃隊に参加したいのは\nやまやまだが\n俺は おまえを守るため\nここに とどまろうと思う",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI'd love to join the assault team, but\nI'm gonna stay here to protect you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    11025
   ],
   "jp": "{p}\nありがとう 明君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThanks, Akira-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    11026
   ],
   "jp": "早乙女博士\n役割分担は出来たようだな\n\n慎一君は始まりの丘へ向かう\n攻撃隊に加わってくれたまえ！\n朱紗君は ここに残り\n守備隊を率いるのだ！\nそして明君は {p}の側を\n決して離れるな！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nIt seems the roles are settled.\n\nShinichi-kun, join the assault team\nheaded for the Hill of Beginnings!\nShusha-kun, stay here and lead the\ndefense team! And Akira-kun, never\nleave {p}'s side!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    11027
   ],
   "jp": "慎一\n任せてくれ {s}を\n奪い取ってくるぜ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nLeave it to me. I'll snatch\n{s} back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    11028
   ],
   "jp": "朱紗\n誰も{p}には\n近づけさせないさ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nNobody's getting near\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    11029
   ],
   "jp": "不動明\n万が一の時は\n俺に任せてくれ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nIf worst comes to worst, leave it to me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    11030
   ],
   "jp": "早乙女博士\n案ずるな\n万が一など あり得ない！\n諸君らの力を集結すれば\n何者であっても倒せる！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nDon't worry, the worst won't come!\nCombine all your strength and you\ncan defeat anyone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    11031
   ],
   "jp": "リョウ\n早乙女博士！ 始まりの丘が\n大変なことになってるぜ！\n暴徒達が続々と集まって\nまるで城みたいになってる！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nDr. Saotome! Something big is\nhappening at the Hill of Beginnings!\nThe rioters keep pouring in, and it's\nturned into a castle!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    11032
   ],
   "jp": "リョウ\n巨大な黒い魔物と戦った後\n撮影してきたんだ\nみんな これを観てくれ",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nWe took pictures after fighting the\ngiant black fiends. Everybody, take\na look.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    11033
   ],
   "jp": "リョウ\n始まりの丘は 魔王にとって\n特別な意味があるようだ\nいつの間にか 黒い魔物が\nこんなにたくさん…",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nThe Hill of Beginnings seems to mean\nsomething special to the Demon King.\nBefore we knew it, there were this\nmany black fiends...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    11034
   ],
   "jp": "早乙女博士\n凄い数だな…\n大きさは どれくらいなのかね？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWhat numbers... How big are they?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    11035
   ],
   "jp": "リョウ\nどいつもこいつも デカいです\nゲッターといい勝負ですよ",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nEvery last one of 'em is huge. They'd\ngive Getter a run for its money.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    11036
   ],
   "jp": "早乙女博士\nう～む…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHmmm...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    11037
   ],
   "jp": "リョウ\nそして 始まりの丘…",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nAnd the Hill of Beginnings...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    11038
   ],
   "jp": "{p}\n前に テレビのニュースで\n祭壇って言ってたのに…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe TV news said it was an altar\nbefore...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    11039
   ],
   "jp": "リョウ\nそれだけ魔王の力が増した…って\nことだ",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nThat's how much the Demon King's\npower has grown.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    11040
   ],
   "jp": "早乙女博士\n恐るべし 魔王…！！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nA fearsome foe, this Demon King...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    11041
   ],
   "jp": "早乙女博士\n黒い魔物が ゲッターや\nメカザウルスなみの大きさならば\nリョウ！\nおまえは 先発部隊だ！\n黒い魔物の注意をひき\n攻撃隊を守ってやってくれ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nIf the black fiends are as big as\nGetter or the Mechasaurus, then\nRyo! You're the vanguard! Draw the\nblack fiends' attention and protect\nthe assault team!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    11042
   ],
   "jp": "リョウ\n了解したぜ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nRoger that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    11043
   ],
   "jp": "早乙女博士\nそれは素晴らしいアイデアだよ\nえん魔くん！\n閻魔大王！\n私からも お願いする！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThat's a splendid idea, Enma-kun!\nGreat King Enma! I ask this of you as\nwell!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    11044
   ],
   "jp": "早乙女博士\nよし！\nこれにて作戦会議を終える！\n諸君！ 健闘を祈る！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGood! That concludes our strategy\nmeeting! Everyone! Good luck!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    11045
   ],
   "jp": "早乙女博士\nうむ！\n行ってくれるか 慎一君！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGood! Will you go, Shinichi-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    11050
   ],
   "jp": "リョウ\n早乙女博士 先発部隊の準備\nオッケーだぜ！\nゲッターチーム これより\n始まりの丘に向かいます！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nDr. Saotome, the vanguard's all set!\nThe Getter Team is heading for the\nHill of Beginnings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    11051
   ],
   "jp": "早乙女博士\nうむ！\n頼んだぞ リョウ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGood! I'm counting on you, Ryo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    11052
   ],
   "jp": "{p}\nリョウさん 頑張ってね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGood luck, Ryo-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    11053
   ],
   "jp": "リョウ\nまかせとけよ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nLeave it to me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    11054
   ],
   "jp": "隼人\n俺達を信頼してくれ\n{p}！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nTrust us, {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    11055
   ],
   "jp": "武蔵\n行ってくるぜぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nWe're off!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    11056
   ],
   "jp": "朱紗\n守備隊は ここで待機します\n\n博士達は 奥の安全な場所に\nいてください",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThe defense team will wait here.\n\nDoctor, you all stay somewhere safe\nin the back.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    11057
   ],
   "jp": "早乙女博士\nうむ よろしくたのむよ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGood. I'm counting on you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    11058
   ],
   "jp": "不動明\n信頼してるぜ 朱紗！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI'm counting on you, Shusha!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    11059
   ],
   "jp": "朱紗\nゆっくり休んでいてくれ\n{p}\n俺達が ここにいる限り\nおまえの出番は ないからな！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nGet some rest, {p}. As\nlong as we're here, you won't be\nneeded!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    11060
   ],
   "jp": "{p}\nありがとう 朱紗君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThanks, Shusha-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    11061
   ],
   "jp": "早乙女博士\n{p}\n一緒に 奥の部屋へ戻ろう\nあそこで 報告を待とうじゃないか",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n{p}, let's go back to the\nback room together. We'll wait for\nreports there.",
+  "status": "done",
   "notes": ""
  }
 ]

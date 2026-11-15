@@ -5,8 +5,8 @@
    3856
   ],
   "jp": "如月ハニー\nあたしだって こんな世界…\nイヤなの！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nI hate this world too...! I hate it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    3857
   ],
   "jp": "{p}\nハニー…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHoney...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    3860
   ],
   "jp": "兜甲児\nホバーセット！\nパイルダー オーン！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nHover set! Pilder ON!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    3861
   ],
   "jp": "兜甲児\nスクランダー！\nクロース！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nScrander! CROSS!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    3862
   ],
   "jp": "兜甲児\nアレは…海底要塞サルード？\n\nでも 様子がおかしい…\n調べてみよう",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nIs that... the undersea fortress\nSaluud?\n\nBut something's off... Let's check it\nout.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    3863
   ],
   "jp": "兜甲児\n行ってみよう！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nLet's go see!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    3864
   ],
   "jp": "兜甲児\n海底要塞サルードに\n黒い物体が張りついている！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nBlack things are stuck all over the\nundersea fortress Saluud!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    3865
   ],
   "jp": "兜甲児\n黒い物体が 機械獣を操って\nサルードを攻撃しているのか？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAre the black things controlling the\nMechanical Beasts and attacking the\nSaluud?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    3866
   ],
   "jp": "あしゅら（男）\nむむ？ あれはマジンガーＺ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nHmm? That's Mazinger Z!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    3867
   ],
   "jp": "あしゅら（女）\nもしや この黒い物体は\nマジンガーＺの新しい武器なの？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nCould these black things be Mazinger\nZ's new weapon?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    3868
   ],
   "jp": "兜甲児\n弓教授に 相談したほうが\n良さそうだ…",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nBetter talk it over with Professor\nYumi...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    3869
   ],
   "jp": "研究員\n弓教授！ 甲児くんから\n無線が入っています",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nProfessor Yumi! There's a radio call\nfrom Koji-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    3870
   ],
   "jp": "弓教授\nこちら弓だ どうした？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nYumi here. What is it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    3871
   ],
   "jp": "兜甲児\n{!R}黒い物体が 機械獣を操り\n海底要塞サルードを攻撃してます\n{!R}弓教授…\n俺は どうしたらいいでしょう？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\n{!R}Black things are controlling the\nMechanical Beasts and attacking the\nundersea fortress Saluud. {!R}Professor\nYumi... what should I do?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    3872
   ],
   "jp": "弓教授\nう～む…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nHmmm...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    3873
   ],
   "jp": "研究員\n共倒れを狙う…\nって手もありますけど？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWe could always let them wipe each\nother out...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    3874
   ],
   "jp": "弓教授\nいや それは…いかん！\n\n甲児君！\nサルードを助けるんだ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nNo, that... won't do!\n\nKoji-kun! Save the Saluud!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    3875
   ],
   "jp": "兜甲児\n{!R}ドクター・ヘルの\n味方をするんですか？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\n{!R}You want me to side with Dr. Hell?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    3876
   ],
   "jp": "弓教授\n機械獣軍団も 黒い物体も\n確かに我々の敵だ\nしかし 黒い物体は\n次元連鎖と関係が深い",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe Mechanical Beast army and the\nblack things are both our enemies,\ncertainly. But the black things are\ndeeply tied to the Dimension Chain.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    3877
   ],
   "jp": "兜甲児\n{!R}ドクターヘルは\n世界征服を狙ってるけど\n{!R}次元連鎖は世界を破壊する危険性が\nある…ってことですね！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\n{!R}So Dr. Hell's after world domination,\n{!R}but the Dimension Chain could\ndestroy the world, right?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    3878
   ],
   "jp": "弓教授\nそのとおりだ 甲児君！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nExactly, Koji-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    3879
   ],
   "jp": "兜甲児\n{!R}解りました 教授！\nサルードを救援します！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\n{!R}Understood, Professor! I'll go rescue\nthe Saluud!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    3880
   ],
   "jp": "弓教授\nうむ 頼むぞ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nGood. I'm counting on you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    3881
   ],
   "jp": "弓教授\n事態は ますます 複雑に\nなっていく… なんとかせねば！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThings just keep getting more\ncomplicated... I must do something!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    3882
   ],
   "jp": "兜甲児\nあしゅら男爵！\n不本意だが 味方するぜ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nBaron Ashura! I don't like it, but I'm on\nyour side!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    3883
   ],
   "jp": "あしゅら（男）\nふざけるな！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nDon't be absurd!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    3884
   ],
   "jp": "あしゅら（女）\nこの黒い物体は\nおまえの仲間じゃないの！？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nAren't these black things your\nfriends!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    3885
   ],
   "jp": "兜甲児\n話は後だ！ 死にたくなければ\n俺と共に戦え！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nTalk later! If you don't wanna die,\nfight with me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    3886
   ],
   "jp": "あしゅら（男）\n黙れ！ 誰が貴様などと…",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nSilence! As if I'd ever",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    3887
   ],
   "jp": "あしゅら（女）\n手を組んで戦うものか！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\njoin hands with the likes of you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    3888
   ],
   "jp": "あしゅら（男）\nぐぐぅ…！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nNgggh...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    3889
   ],
   "jp": "あしゅら（女）\n機械獣 どうしてなの！？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nMechanical Beasts, why!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    3890
   ],
   "jp": "兜甲児\nちっ！ 見ちゃいられないぜ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nTch! I can't just stand here and watch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    3891
   ],
   "jp": "ドクター・ヘル\n話はわかった 兜甲児よ\n\n魔王は 我らにとって\n共通の敵のようだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nI understand, Koji Kabuto.\n\nIt seems the Demon King is a common\nenemy to us both.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    3892
   ],
   "jp": "兜甲児\nさすがドクター・ヘル\n飲み込みが早いぜ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nJust what I'd expect from Dr. Hell. You\ncatch on quick.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    3893
   ],
   "jp": "ドクター・ヘル\n次元連鎖については\nワシも 気がついていた\n世界を滅ぼされてたまるか！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nI had noticed the Dimension Chain as\nwell. I won't let the world be\ndestroyed!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    3894
   ],
   "jp": "あしゅら（女）\nええ～っ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nWhaaat!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    3895
   ],
   "jp": "ドクター・ヘル\nドクター・ヘルの命令に\n従えぬのか！？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nYou would disobey the orders of Dr.\nHell!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    3896
   ],
   "jp": "あしゅら（男）\nけっして",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nNever,",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    3897
   ],
   "jp": "あしゅら（女）\nそんな…",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nbut...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    3898
   ],
   "jp": "ドクター・ヘル\nよいな あしゅら男爵\n兜甲児と共に行き 戦うのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nUnderstood, Baron Ashura? Go with\nKoji Kabuto and fight!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    3899
   ],
   "jp": "兜甲児\n…！？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    3900
   ],
   "jp": "ドクター・ヘル\nだが兜甲児よ！\n\nこの戦いが終わった時 再び我らは\n敵となることを忘れるな！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nBut mark me, Koji Kabuto!\n\nWhen this battle is over, we shall be\nenemies once more. Never forget it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    3901
   ],
   "jp": "兜甲児\n当たり前だ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nOf course!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    3902
   ],
   "jp": "ドクター・ヘル\nわっはっはっはっは…！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nWahahahahaha...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    3903
   ],
   "jp": "ドクター・ヘル\n良いか ヤツらの戦力をスパイする\n絶好の機会だ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nListen, this is the perfect chance to\nspy on their forces!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    3904
   ],
   "jp": "あしゅら（男）\nなるほど…！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nI see...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    3905
   ],
   "jp": "ドクター・ヘル\n戦いが終わったら 今度こそ\nマジンガーＺを奪ってくるのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nOnce the battle is over, this time you\nWILL steal Mazinger Z!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    3906
   ],
   "jp": "あしゅら（女）\n素晴らしい策略ですわ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nA marvelous scheme!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    3907
   ],
   "jp": "兜甲児\nおまえら 何をヒソヒソ話てんだ？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nWhat are you guys whispering about?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    3908
   ],
   "jp": "あしゅら（男）\nこっちの話だ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\nOur own business!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    3909
   ],
   "jp": "あしゅら（女）\n盗み聞きなんて失礼だわ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\nEavesdropping is so rude!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    3910
   ],
   "jp": "ドクター・ヘル\nよせよせ！\n昨日の敵は 今日の友じゃ！\nわっはっはっはっは…！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nNow, now! Yesterday's enemy is\ntoday's friend! Wahahahahaha...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    3911
   ],
   "jp": "ドクター・ヘル\nあしゅら男爵よ！ おまえは\n兜甲児と共に行くのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nBaron Ashura! You will go with Koji\nKabuto!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    4001
   ],
   "jp": "如月ハニー\n元気を出して {p}！\n弓教授のことだもの\n{s}を\n見捨てたわけじゃないわ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nCheer up, {p}! This is\nProfessor Yumi we're talking about.\nHe hasn't abandoned\n{s}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    4002
   ],
   "jp": "早見青児\nマンガだって ゲームだって\n奪われたヒロインを救って\nハッピーエンドだろ？\nきっと うまくいくさ！",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nIn manga and games, they always save\nthe kidnapped heroine for a happy\nending, right? It'll work out for sure!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    4003
   ],
   "jp": "{p}\nふたりとも ありがとう…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThanks, you two...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    4004
   ],
   "jp": "早見青児\n弓教授に会いに行こうか？\n何か つかんだかも しれないし\n弓教授は このフロアの奥の部屋に\nいるはずだよ",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWanna go see Professor Yumi? He\nmight've found something. He should\nbe in the room at the back of this\nfloor.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    4005
   ],
   "jp": "如月ハニー\n甲児くんも\n戻ってきてるかも しれないわ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nKoji-kun might be back too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    4006
   ],
   "jp": "{p}\nそうだね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    4007
   ],
   "jp": "操られた人\n黒い物体に操られていた時\n不思議な安心感を感じたのです\n２つのものが１つに ピッタリと\nはまったような感じだった…",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\nWhile the black thing was controlling\nme, I felt a strange sense of peace.\nIt was as if two things clicked\nperfectly into one...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    4008
   ],
   "jp": "操られた人\n素晴らしい 上司やリーダーと\nめぐり会えた…\nそんな気持ちになったよ\n\nだから僕には 外の連中が 魔王を\n信奉するのも わかるんだよね",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\nIt felt like I'd met a wonderful boss or\nleader...\n\nSo I can understand why the people\noutside worship the Demon King.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    4009
   ],
   "jp": "操られた人\n黒い物体に操られると\n意識は消えちまう…\nだけど 強い使命感を感じたんだ",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\nWhen the black thing controls you,\nyour mind goes blank... But I felt a\nstrong sense of mission.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    4010
   ],
   "jp": "操られた人\n何をしても すべて許される！\nって気になったさ\nだから あんなに 暴力的に\nなったんだと思うのさ",
-  "en": "",
-  "status": "",
+  "en": "Controlled Person\nI felt like anything I did would be\nforgiven! I think that's why I got so\nviolent.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    4011
   ],
   "jp": "弓教授\nそれは 興味深い話だな…\nいや 報告ありがとう",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThat's interesting... Thank you for\nthe report.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    4012
   ],
   "jp": "ガードマン\nそれでは 失礼します！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nThen I'll be going!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    4013
   ],
   "jp": "弓教授\nちょうど いいところに来た\n新しい情報が入ったぞ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nYou came at just the right time. New\ninformation has come in.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    4014
   ],
   "jp": "弓教授\nさっき ガードマン君が\n知らせてくれたんだ\nちょっと ニュースを\n見てみたまえ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nOur guard-kun just told me. Take a\nlook at the news.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    4015
   ],
   "jp": "アナウンサー\n{!R}黒い物体に操られ 魔王の声を\n聞いたと言う人々が\n{!R}ある場所に集まり始めています！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}People who were controlled by black\nthings and claim to have heard the\nDemon King's voice {!R}are beginning to\ngather in one place!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    4016
   ],
   "jp": "{p}\n始まりの丘だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's the Hill of Beginnings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    4017
   ],
   "jp": "アナウンサー\n{!R}この人達は この丘に\n祭壇を 築き始めました！\n{!R}無気味な像まで 作っています！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}These people have begun building an\naltar on this hill! {!R}They're even making\nan eerie statue!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    4018
   ],
   "jp": "早見青児\n祭壇に 像？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nAn altar and a statue?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    4019
   ],
   "jp": "アナウンサー\n{!R}魔王を信奉する人々が\n続々と集まってきています！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}People who worship the Demon King are\ngathering one after another!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    4020
   ],
   "jp": "弓教授\n人々は\n{p}君が聞いた言葉と\n同じ言葉を\n口にしているそうだよ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThey say the people are saying the\nsame words you heard,\n{p}-kun.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    4021
   ],
   "jp": "{p}\n僕が聞いた言葉？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe words I heard?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    4022
   ],
   "jp": "弓教授\n結合の時…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe time of joining...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    4023
   ],
   "jp": "如月ハニー\nより強い力…",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nGreater power...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    4024
   ],
   "jp": "早見青児\n野望の実現…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nAmbition realized...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    4025
   ],
   "jp": "{p}\n…………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    4026
   ],
   "jp": "弓教授\nこれが 意味していることは\nひとつ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThis can only mean one thing!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    4027
   ],
   "jp": "{p}\n魔王は まだ\n完全な力を得ていない…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Demon King hasn't gained his full\npower yet...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    4028
   ],
   "jp": "弓教授\n結合の時が 何を意味しているのか\n解らない\nだが その時\n魔王が 真の力を発揮する！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nI don't know what the time of joining\nmeans. But when it comes, the Demon\nKing will unleash his true power!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    4029
   ],
   "jp": "如月ハニー\nその前に… なんとかしなくちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nBefore that happens... we have to do\nsomething!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    4030
   ],
   "jp": "弓教授\n我々も なんとか 戦力を\n拡充したいところだな\nあしゅら男爵が\n仲間になったように…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nWe'd like to build up our forces\nsomehow too. The way Baron Ashura\njoined us...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    4031
   ],
   "jp": "{p}\nえ～っ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    4032
   ],
   "jp": "如月ハニー\nいや～ん！",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nNooo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    4033
   ],
   "jp": "早見青児\nそりゃ\nガセネタじゃないんですか？",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nIsn't that just a bogus tip?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    4034
   ],
   "jp": "弓教授\nホントだとも！ 実は 黒い物体が\n海底要塞サルードを襲ったのだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nIt's true! The fact is, black things\nattacked the undersea fortress\nSaluud.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    4035
   ],
   "jp": "弓教授\nそこで 黒い物体の脅威に\n対抗するため\nしばらくの間 機械獣軍団と\n手を組むことになったのだ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nSo, to counter the threat of the\nblack things, we've joined hands with\nthe Mechanical Beast army for the\ntime being.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    4036
   ],
   "jp": "早見青児\nそれは… 頼もしいというか\nなんというか…",
-  "en": "",
-  "status": "",
+  "en": "Seiji Hayami\nWell, that's... reassuring, or...\nsomething...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    4037
   ],
   "jp": "如月ハニー\n複雑な気持ちよね\n\nそれだけ 黒い物体が 猛威を\n振るってる…ってことだもん",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nIt's complicated, isn't it?\n\nIt just shows how fierce the black\nthings have gotten.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    4038
   ],
   "jp": "{p}\nでも これまで敵だった人達と\n仲間になれるチャンスかも！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut maybe it's a chance to make\nfriends with people who used to be\nenemies!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    4039
   ],
   "jp": "弓教授\n我々は 一致団結して\n困難に 立ち向かわねばならん！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nWe must all stand united against this\ncrisis!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    4040
   ],
   "jp": "弓教授\n弓弦之助です\n\nそうですか 解りました",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nGennosuke Yumi speaking.\n\nI see. Understood.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    4041
   ],
   "jp": "弓教授\n居住エリア周辺から\n暴徒を追い出したそうだ\n私は これから 会議があるので\nこれで失礼するよ",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThey've driven the rioters out of the\narea around the residential area. I\nhave a meeting now, so I'll excuse\nmyself.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    4042
   ],
   "jp": "如月ハニー\nあしゅら男爵が仲間って\nびみょ～な感じよね",
-  "en": "",
-  "status": "",
+  "en": "Honey Kisaragi\nBaron Ashura on our side... It's a weird\nfeeling, huh?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    4043
   ],
   "jp": "{p}\n外へ出るのは 弓教授に\n状況を 確認してからだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe'll go outside after we check the\nsituation with Professor Yumi.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    4044
   ],
   "jp": "{p}\n外へ出るのは 早乙女博士に\n状況を 確認してからだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe'll go outside after we check the\nsituation with Dr. Saotome.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    4050
   ],
   "jp": "弓教授\n魔王は\n{p}君を「再生の太陽」と\n{s}君を「破壊の月」と\n呼ぶ\nまた 暴徒達は {p}君を\n魔王に差し出せといっている\nこれは 魔王が言う「結合の時」に\n関係あると思われる",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe Demon King calls\n{p}-kun the \"Sun of\nrebirth\" and {s}-kun\nthe \"Moon of destruction.\" And the\nrioters are saying to hand\n{p}-kun over to the\nDemon King. I believe this is connected\nto what the Demon King calls the\n\"time of joining.\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    4053
   ],
   "jp": "弓教授\n居住エリアからは 出ないことだ\nもしも 君が魔王に捕らえられたら\n結合の時とやらが\n訪れてしまうかもしれない…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nDon't leave the residential area. If the\nDemon King captures you, this \"time\nof joining\" may come...",
+  "status": "done",
   "notes": ""
  }
 ]

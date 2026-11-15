@@ -5,8 +5,8 @@
    3060
   ],
   "jp": "慎一\n果たして そう巧くいくかな？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nThink it'll go that smoothly?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    3061
   ],
   "jp": "富三郎\nんじゃ どうする？",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nThen whaddaya wanna do?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    3062
   ],
   "jp": "慎一\n…………",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    3070
   ],
   "jp": "{p}\nあの粒子砲！\nなんとかしないとやばいよ…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat particle cannon! If we don't do\nsomething about it, we're in\ntrouble...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    3071
   ],
   "jp": "美剣\n私が 粒子砲の背後に\nテレポートするわ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI'll teleport behind the particle\ncannon!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    3072
   ],
   "jp": "{p}\nダメだ 美剣さん！\nそれは危険過ぎる！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo, Mitsurugi-san! That's way too\ndangerous!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    3073
   ],
   "jp": "{s}\nあ！ あれを見て！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nAh! Look over there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    3074
   ],
   "jp": "魔獣ハンター\nきさま！",
-  "en": "",
-  "status": "",
+  "en": "Demon Beast Hunter\nYou wretch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    3075
   ],
   "jp": "不死団\n邪魔をする気か！？",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nYou wanna get in our way!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    3076
   ],
   "jp": "慎一\nおまえ達こそ 邪魔なんだ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nYou're the ones in MY way!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    3077
   ],
   "jp": "{p}\n慎一君だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's Shinichi-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    3078
   ],
   "jp": "{s}\nあたし達を\n援護してくれてるわ！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nHe's covering us!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    3079
   ],
   "jp": "朱紗\nよし！ 今のうちだ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nAll right! Now's our chance!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    3080
   ],
   "jp": "{p}\n慎一君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShinichi-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    3081
   ],
   "jp": "慎一\nおまえらに 手を貸してやる\nそのかわり…\n真理阿を探すのを手伝ってくれ",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nI'll lend you a hand. In exchange... help\nme find Maria.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    3082
   ],
   "jp": "{p}\nもちろんだよ 慎一君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOf course, Shinichi-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    3083
   ],
   "jp": "富三郎\nおう！ よろしくな…！",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nYo! Pleased to meetcha...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    3084
   ],
   "jp": "{s}\nところで あなた だ～れ？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nBy the way, who are YOU?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    3085
   ],
   "jp": "富三郎\n富三郎ってんだ！\nよろしくたのむぜ！",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nName's Tomisaburo! Pleasure doin'\nbusiness!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    3086
   ],
   "jp": "{p}\n僕ら 立ち入り禁止エリアに\n行きたいんだけど…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe want to get to the off-limits area,\nbut...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    3087
   ],
   "jp": "富三郎\n科学都市の地下水路を通っていけば\n立ち入り禁止エリアに出れるぜ",
-  "en": "",
-  "status": "",
+  "en": "Tomisaburo\nGo through Science City's\nunderground waterway and you'll\ncome out in the off-limits area.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    3088
   ],
   "jp": "朱紗\n地下水路か…\n\n当然 瓜生麗も 地下水路のことを\n知ってるだろうな…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThe underground waterway, huh...\n\nNaturally, Rei Uryu must know about\nthe waterway too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    3090
   ],
   "jp": "美剣\nどうしたの 朱紗君？",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWhat's wrong, Shusha-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    3091
   ],
   "jp": "朱紗\nちょっと待ってくれ…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nHold on a second...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    3092
   ],
   "jp": "慎一\nあいつ どうしたんだ…？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nWhat's up with him...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    3093
   ],
   "jp": "朱紗\nこっちだ…！\nこっちの方角に 何かを感じる！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThis way...! I sense something in this\ndirection!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    3094
   ],
   "jp": "慎一\nどうして そんなことが解るんだ？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nHow can you tell something like that?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    3095
   ],
   "jp": "美剣\n朱紗君は 超能力者として\n進化しているのよ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nShusha-kun is evolving as a psychic!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    3096
   ],
   "jp": "{p}\nよし！ 朱紗君を信じよう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAll right! Let's trust Shusha-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    3097
   ],
   "jp": "{p}\n今は 急いで地下室を探そう！\nそこに誰かいるはずだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nRight now, let's hurry and find the\nbasement! Someone has to be in\nthere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    3098
   ],
   "jp": "{p}\nここは… 地下室の扉みたいだな\n\n…ダメだ 開かない\n他の場所から調べよう",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThis looks like... the basement door.\n\n...No good, it won't open. Let's check\nsomewhere else.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    3099
   ],
   "jp": "{p}\n急いで\n美剣さんの所へ 戻ろう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLet's hurry back to Mitsurugi-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    3100
   ],
   "jp": "朱紗\nこっちだ…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThis way...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    3101
   ],
   "jp": "{s}\nこっちね！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nThis way, huh!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    3102
   ],
   "jp": "朱紗\nこっちだ…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThis way...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    3103
   ],
   "jp": "{p}\nよし！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAll right!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    3104
   ],
   "jp": "朱紗\nこっちだ…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThis way...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    3105
   ],
   "jp": "慎一\n行くぞ！",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nLet's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    3106
   ],
   "jp": "朱紗\nこっちだ…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThis way...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    3107
   ],
   "jp": "美剣\n行くわよ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nLet's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    3108
   ],
   "jp": "研究員\n世界最大規模の 研究施設が\n世界最凶最悪の 戦場に…",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe world's largest research facility\nhas become the world's most savage\nbattlefield...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    3109
   ],
   "jp": "研究員\nひぇぇぇぇぇ…！\n助けてぇぇぇぇぇ…！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nEeeeeek...! Heeelp meee...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    3110
   ],
   "jp": "研究員\n立ち入り禁止エリアですか？\n確かあっちですよ \n科学都市\n広過ぎて よく解らないのです…",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe off-limits area? I think it's over\nthat way. Science City's so big, I\ndon't really know my way around...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    3111
   ],
   "jp": "研究員\nたとえ この戦いで\n世界が滅ぼされても…\n私は研究を続けるのです！\n世界のために…！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nEven if this battle destroys the\nworld... I shall continue my research!\nFor the sake of the world...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    3112
   ],
   "jp": "研究員\nなんだって？ 逃げたほうが\nいいんじゃないかって？\nちょっと\n研究の邪魔しないでくれたまえ！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWhat's that? I ought to run? Excuse\nme, kindly don't disturb my research!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    3113
   ],
   "jp": "研究員\n瓜生コンツェルンが\nスポンサーだったのか！\nそういえば\n瓜生麗を 良く見かけたかも！？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nSo the Uryu Conglomerate was the\nsponsor! Come to think of it, I may\nhave seen Rei Uryu around a lot!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    3114
   ],
   "jp": "研究員\nなんだか騒がしいねぇ…？\nえっ？ 戦闘！？\nふむ… 非常時における人間心理の\n研究になるな…",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nIt's kind of noisy...? Eh? A battle!?\nHmm... This could make for research\non human psychology in emergencies...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    3115
   ],
   "jp": "研究員\nなんか 柄の悪いヤツらが\nいっぱいいるなぁ…？\n君達も あんな大人に\nならないようにね！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThere sure are a lot of thugs\naround...? Don't you kids grow up to\nbe grown-ups like that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    3116
   ],
   "jp": "研究員\n優秀な医者ならいっぱいいるけど\nこんなにケガ人が多くちゃ\nどうしようもない！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThere are plenty of good doctors, but\nwith this many wounded, there's\nnothing we can do!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    3117
   ],
   "jp": "研究員\nなんで科学都市で戦闘が…！？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWhy is there fighting in Science\nCity...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    3118
   ],
   "jp": "研究員\nこの研究成果が発表されたら\n世界中が驚くぞ！\nえ！？ 科学都市で戦闘…！？\nびっくり！！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWhen these research results are\npublished, the whole world will be\nstunned! What!? A battle in Science\nCity...!? What a shock!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    3119
   ],
   "jp": "研究員\n研究している時が\n一番しあわせだけど\nいのちあってのモノダネだぁ～！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nI'm happiest when I'm doing research,\nbut you gotta be alive to enjoy it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    3120
   ],
   "jp": "研究員\n計器の数値に異常無し！\n\nでも こんなことしてて\nいいのかな？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nInstrument readings normal!\n\nBut should I really be doing this right\nnow?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    3121
   ],
   "jp": "研究員\n外が騒がしいけど\n何かあったのかな？\nえ～っ！ 戦闘！？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nIt's noisy outside. I wonder if\nsomething happened? Whaaat! A\nbattle!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    3122
   ],
   "jp": "研究員\n見てくれ！\n新しい器材がボロボロだぁ…！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nLook at this! The new equipment is in\npieces...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    3130
   ],
   "jp": "朱紗\nいた…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThere...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    3131
   ],
   "jp": "{p}\nいた…って 誰が…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n\"There\"... who's there...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    3132
   ],
   "jp": "{p}\n消えちゃった！？\n朱紗君の後を追わないと…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHe vanished!? We've got to go after\nShusha-kun...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    3133
   ],
   "jp": "慎一\nだが ヤツは どこへ行ったんだ？",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nBut where did he go?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    3134
   ],
   "jp": "美剣\nちょっと待って…",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWait a moment...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    3135
   ],
   "jp": "美剣\nこのちかくに 内部を透視出来ない\n建物があるわ…\n超能力が さえぎられている…",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nThere's a building nearby I can't see\ninto... Something's blocking my\npsychic power...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    3136
   ],
   "jp": "瓜生\n…朱紗…！？",
-  "en": "",
-  "status": "",
+  "en": "Uryu\n...Shusha...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    3137
   ],
   "jp": "朱紗\n瓜生…！\nえ…！？\n雪代さん！\nどうして ここに…！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nUryu...! Wha...!? Yukishiro-san! Why are\nyou here...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    3138
   ],
   "jp": "朱紗\n雪代さん！\nどうして ここに…！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nYukishiro-san! Why are you here...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    3139
   ],
   "jp": "雪代\n…朱紗君！",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\n...Shusha-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    3140
   ],
   "jp": "朱紗\nなぜだ！\nなぜ 君がここにいる！？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nWhy!? Why are you here!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    3141
   ],
   "jp": "瓜生\nあっはっはっはっはっは！\n教えてやろう 朱紗真悟！\nその女は\n俺の命令を聞くしかないのさ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nAhahahahahaha! I'll tell you, Shingo\nShusha! That girl has no choice but\nto obey my orders!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    3142
   ],
   "jp": "朱紗\nうそだ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThat's a lie!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    3143
   ],
   "jp": "瓜生\nこの女のオヤジが経営する会社を\n俺は乗っとった！\n俺の命令を聞かなければ\nこの女の家族は\n一家心中しなきゃならんのだ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nI took over the company her father\nruns! If she doesn't obey my orders,\nher whole family will have no choice\nbut to kill themselves together!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    3144
   ],
   "jp": "雪代\n……………",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\n...............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    3145
   ],
   "jp": "朱紗\nそ そんな…！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nTh-that's...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    3146
   ],
   "jp": "瓜生\n俺は おまえの超能力の才能を\nずっと以前から 見抜いていた\nおまえと会う以前からだ\n\nそこで俺は 雪代を転校させ\nおまえに近づけたのさ",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nI saw your psychic talent long ago,\nbefore I ever met you.\n\nSo I had Yukishiro transfer to your\nschool and get close to you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    3147
   ],
   "jp": "朱紗\nウソだ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThat's a lie!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    3148
   ],
   "jp": "瓜生\nすべては おまえの力を\n得たいがための計画だ\nその女は 計画通り\nよく働いてくれたよ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nIt was all a plan to get your power. And\nthe girl did her job nicely, just as\nplanned!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    3149
   ],
   "jp": "朱紗\nウソだ！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nThat's a lie!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    3150
   ],
   "jp": "瓜生\nおまえに惚れてる振りをしろ！と\n命じたのだ\nだが ホントに惚れるとは\n予想外だったがな",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nI ordered her to pretend she was in\nlove with you. Though I never\nexpected her to fall for you for real.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    3151
   ],
   "jp": "朱紗\n雪代さん…\n\n君は 瓜生の計画を知ってて\n不死団に襲われたのか？",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nYukishiro-san...\n\nDid you know about Uryu's plan when\nthe Immortal Corps attacked you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    3152
   ],
   "jp": "雪代\n……………",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\n...............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    3153
   ],
   "jp": "朱紗\nウソだろ？ ウソだと言ってくれ\n雪代さん…！！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nIt's a lie, right? Tell me it's a lie,\nYukishiro-san...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    3154
   ],
   "jp": "瓜生\nその女は\n本気でおまえに惚れたんだよ\nだからといってそいつにはどうする\nことも出来なかったんだ！\nその女は\n俺の命令を聞くしかないのさ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nThe girl really did fall for you. But\neven so, there was nothing she\ncould do about it! She has no choice\nbut to obey my orders!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    3155
   ],
   "jp": "朱紗\n雪代さん…",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nYukishiro-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    3156
   ],
   "jp": "雪代\n朱紗君… ごめんなさい…",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\nShusha-kun... I'm sorry...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    3157
   ],
   "jp": "朱紗\nぐっ…！！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nNgh...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    3160
   ],
   "jp": "{p}\nどうしたの 美剣さん？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat's wrong, Mitsurugi-san?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    3161
   ],
   "jp": "美剣\n「魔」を感じるわ…\n\nみにくい心 恐ろしい心 歪んだ心…\n悪しき心の集合体…それが魔よ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI sense \"Ma\"...\n\nUgly hearts, frightening hearts,\ntwisted hearts... a mass of evil\nhearts. That is Ma!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    3162
   ],
   "jp": "{s}\nそれを 感じるの…？",
-  "en": "",
-  "status": "",
+  "en": "{s}\nYou can sense that...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    3163
   ],
   "jp": "美剣\n魔は この世に破壊と殺りく\nそして悲しみをもたらす！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nMa brings destruction, slaughter and\nsorrow to this world!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    3164
   ],
   "jp": "美剣\n空気に… 怒りと悲しみ\nそして憎しみが満ちているわ…！\nはっ…！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nThe air... is filled with rage and sorrow,\nand hatred...! Ah...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    3165
   ],
   "jp": "{s}\n美剣さん！ しっかりして！",
-  "en": "",
-  "status": "",
+  "en": "{s}\nMitsurugi-san! Hang in there!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    3166
   ],
   "jp": "美剣\n…いけない！ ダメよ 朱紗君！\nいけないわ…！！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\n...No! Don't, Shusha-kun! You\nmustn't...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    3167
   ],
   "jp": "{p}\n美剣さん！？\nまさか 朱紗君の身に…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nMitsurugi-san!? Don't tell me\nsomething's happening to\nShusha-kun...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    3170
   ],
   "jp": "朱紗\nウォォォォォォォ…！！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nWooooooooh...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    3171
   ],
   "jp": "雪代\nきゃあ～！",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\nKyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    3172
   ],
   "jp": "瓜生\n変身だ！ ふはははは！\n朱紗が 変身するぞ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nHe's transforming! Fuhahahaha!\nShusha is transforming!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    3173
   ],
   "jp": "雪代\nす 朱紗君！",
-  "en": "",
-  "status": "",
+  "en": "Yukishiro\nSh-Shusha-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    3174
   ],
   "jp": "瓜生\nふははは！\n憎しみの巨人だ！\n怒りと憎しみの\n巨人の出現だぞ～っ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nFuhahaha! The giant of hatred! Behold\nthe coming of the giant of rage and\nhatred!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    3175
   ],
   "jp": "朱紗\nグォォォォォォ…！！",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nGuooooooh...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    3176
   ],
   "jp": "美剣\n遅かったわ…！\n\n朱紗君の心に 怒りが満ちて\n理性のタガが外れた時\n「魔」のエネルギーを 無限に\n呼び込んでしまい\n邪神・凄ノ王が\n誕生してしまうのよ！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWe're too late...!\n\nWhen Shusha-kun's heart fills with\nrage and the restraints on his\nreason come off, he draws in endless\n\"Ma\" energy, and the evil god\nSusano-oh is born!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    3177
   ],
   "jp": "美剣\n遅かったわ…！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nWe're too late...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    3178
   ],
   "jp": "凄ノ王\nグオオオオオォ～！！",
-  "en": "",
-  "status": "",
+  "en": "Susano-oh\nGUOOOOOOOH!!",
+  "status": "done",
   "notes": ""
  }
 ]

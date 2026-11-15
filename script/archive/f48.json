@@ -5,8 +5,8 @@
    11062
   ],
   "jp": "リョウ\nよ～し 行くぞ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nAll riiight, let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    11063
   ],
   "jp": "リョウ\nきやがったな… いくぜ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nHere they come... Let's do this!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    11064
   ],
   "jp": "研究員\nゲッターロボ率いる先発部隊が\n始まりの丘に向け 出発！\n巨大な黒い魔物と\n交戦を開始しました！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe vanguard led by Getter Robo has\nset out for the Hill of Beginnings!\nThey've begun engaging the giant\nblack fiends!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    11065
   ],
   "jp": "早乙女博士\nついに始まったか！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nSo it has begun at last!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    11066
   ],
   "jp": "研究員\n地獄別荘の転送 完了しました！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nHell Villa's transfer is complete!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    11067
   ],
   "jp": "早乙女博士\nここまでは予定どおりだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nSo far, everything is going to plan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    11068
   ],
   "jp": "リョウ\nくそッ！\n城がバリアで囲まれてる！？\nゲッターが城に近づけないぞ！\nなんとかしてくれ 攻撃隊！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nDammit! The castle's surrounded by a\nbarrier!? Getter can't get near the\ncastle! Do something, assault team!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    11069
   ],
   "jp": "慎一\nゲッターが 巨大な黒い魔物と\n戦ってるな\nしかし 城には近づけないようだ…",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\nGetter's fighting the giant black\nfiends. But it looks like it can't get\nnear the castle...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    11070
   ],
   "jp": "えん魔くん\n城が バリアみたいなもので\n守られてるようだしな\nでも 暴徒達だって 城の中に\nいるんだろ？\nどこかに 入口があるのかな…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nThe castle seems to be protected by\nsome kind of barrier. But the rioters\nare inside the castle too, right? Maybe\nthere's an entrance somewhere...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    11071
   ],
   "jp": "えん魔くん\nやったぜ！ これでゲッターロボが\n城内に入れる！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nAll right! Now Getter Robo can get into\nthe castle!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    11072
   ],
   "jp": "リョウ\n城内に突入だ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nStorming the castle!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    11073
   ],
   "jp": "リョウ\nしまった！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nOh no!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    11080
   ],
   "jp": "研究員\n大変です 早乙女博士！\n\nゲッターロボが\n敵に捕らえられてしまいました！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nIt's terrible, Dr. Saotome!\n\nGetter Robo has been captured by the\nenemy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    11081
   ],
   "jp": "早乙女博士\nそれで攻撃隊は…！？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nAnd the assault team...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    11082
   ],
   "jp": "研究員\nそれが 攻撃隊との通信も\n途絶えてしまいました！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWe've lost contact with the assault\nteam too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    11083
   ],
   "jp": "{p}\nそんな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    11084
   ],
   "jp": "早乙女博士\n急いで 対策を考えなければ\nならんな…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWe must think of a countermeasure\nquickly...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    11085
   ],
   "jp": "早乙女博士\n厳しい状況だが 君は決して\nここを出ては いかんぞ！\n敵の術中に はまるようなことを\nするなよ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nIt's a grim situation, but you must not\nleave here under any circumstances!\nDon't go walking into the enemy's trap!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    11086
   ],
   "jp": "研究員\n暴徒達が現れました！\n\n居住エリアに向かって\n進軍中です！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe rioters have appeared!\n\nThey're marching on the residential\narea!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    11087
   ],
   "jp": "早乙女博士\nとうとう来たか…\n明君！\n{p}を 安全な場所に\n連れて行ってくれたまえ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nSo they've finally come... Akira-kun!\nTake {p} somewhere\nsafe!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    11088
   ],
   "jp": "不動明\n行くぞ {p}！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nLet's go, {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    11089
   ],
   "jp": "{p}\nで でも…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nB-but...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    11090
   ],
   "jp": "不動明\n行くんだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMove it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    11091
   ],
   "jp": "不動明\n決して この部屋から出るなよ！\n\n俺は 早乙女博士のところへ戻る\n\n新しい情報が入ったら\n教えに来るよ",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDon't you dare leave this room!\n\nI'm going back to Dr. Saotome.\n\nWhen new information comes in, I'll come\ntell you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    11092
   ],
   "jp": "{p}\n明君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    11093
   ],
   "jp": "不動明\n耐えるんだ {p}！\n俺だってホントは戦いたいんだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHang in there, {p}! I\nwanna fight too, you know!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    11094
   ],
   "jp": "飛鳥了\nデビルマンとなった明が\n戦うことをガマンしている\n何故だか解るかい\n{p}？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira, who became Devilman, is holding\nhimself back from fighting. Do you\nknow why, {p}?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    11095
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    11096
   ],
   "jp": "飛鳥了\n明は 君を守りたいんだよ\n\n君が うらやましいよ",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira wants to protect you.\n\nI envy you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    11097
   ],
   "jp": "不動明\n何やっているんだ {p}！\n部屋に戻るんだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhat are you doing, {p}!\nGet back to your room!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    11098
   ],
   "jp": "早乙女博士\n部屋に戻りなさい\n{p}君！\n戦況に変化があったら\n必ず知らせるから！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGo back to your room,\n{p}-kun! If anything\nchanges in the battle, I'll be sure to\ntell you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    11099
   ],
   "jp": "不動明\nあれだけ言ったのに\n{p}の野郎\nどこへ行きやがった！？\n…ん？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nAfter all I told him, where'd that\n{p} run off to!? ...Hm?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    11100
   ],
   "jp": "不動明\nあいつ まさか…？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDon't tell me he...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    11101
   ],
   "jp": "飛鳥了\n…そういうことか",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n...So that's how it is.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    11102
   ],
   "jp": "ガードマン\nお おまえは！？",
-  "en": "",
-  "status": "",
+  "en": "Guard\nY-you!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    11103
   ],
   "jp": "不動明\n{p} みごとにそいつに\n騙されちまったな",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n{p}, you got completely\nfooled by this guy.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    11104
   ],
   "jp": "ガードマン\n………",
-  "en": "",
-  "status": "",
+  "en": "Guard\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    11105
   ],
   "jp": "不動明\n{p}に\n暴徒達の姿を見せたり\n俺達と{p}を\n引き離そうとしたり\n怪しいと思ったぜ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nShowing {p} the rioters,\ntrying to separate {p}\nfrom us... I knew you were fishy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    11106
   ],
   "jp": "ガードマン\n気がつかれていたのか…\nだが 邪魔は させんぞ！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nSo you noticed... But I won't let you\ninterfere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    11107
   ],
   "jp": "{p}\nごめん 明君…\n僕…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSorry, Akira-kun... I...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    11108
   ],
   "jp": "不動明\n解ってるぜ {p}",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI know, {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    11109
   ],
   "jp": "飛鳥了\nさて 行こうか！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nNow, shall we go?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    11110
   ],
   "jp": "不動明\n始まりの丘へ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nTo the Hill of Beginnings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    11111
   ],
   "jp": "{p}\nうん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    11112
   ],
   "jp": "飛鳥了\n…見覚えのある町並みだな？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n...These streets look familiar, don't\nthey?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    11113
   ],
   "jp": "不動明\nここは\n美樹ちゃんちの近くだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThis is near Miki-chan's house!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    11114
   ],
   "jp": "{p}\nええっ！\nそんなバカな…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhaaat! That's impossible...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    11115
   ],
   "jp": "暴徒\nあっはっはっは～！\n燃えろ 燃えろぉ！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nAhahahaha! Burn, buuurn!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    11116
   ],
   "jp": "暴徒\n魔王に逆らう者は 皆殺しだ！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nAnyone who defies the Demon King\ndies!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    11117
   ],
   "jp": "暴徒\n思い知るがいい！\n魔王の怒りを！",
-  "en": "",
-  "status": "",
+  "en": "Rioter\nFeel it! The Demon King's wrath!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    11118
   ],
   "jp": "飛鳥了\n暴徒が町を破壊している…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nThe rioters are destroying the town...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    11119
   ],
   "jp": "不動明\n美樹ちゃんを守らなくては！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nI've gotta protect Miki-chan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    11120
   ],
   "jp": "不動明\n政！ しっかりしろ！\n美樹ちゃんは どうした！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMasa! Hang in there! What happened to\nMiki-chan!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    11121
   ],
   "jp": "木刀政\nふ 不動…\nすまねぇ…",
-  "en": "",
-  "status": "",
+  "en": "Bokuto Masa\nF-Fudo... Sorry, man...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    11122
   ],
   "jp": "{p}\n明君！ 急ごう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun! Hurry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    11123
   ],
   "jp": "不動明\nタレちゃん！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nTare-chan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    11124
   ],
   "jp": "タレちゃん\n明にいちゃん…\n\nな なんでボク達\nこんな目に…？",
-  "en": "",
-  "status": "",
+  "en": "Tare-chan\nBig bro Akira...\n\nWh-why is this happening to us...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    11125
   ],
   "jp": "{p}\nこんな子供まで…\n酷すぎる！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nEven a little kid like this... It's too\ncruel!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    11126
   ],
   "jp": "不動明\n美樹ちゃん！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMiki-chan!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    11127
   ],
   "jp": "飛鳥了\n明 危険だ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira, it's dangerous!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    11128
   ],
   "jp": "不動明\nだが美樹ちゃんが！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nBut Miki-chan's...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    11129
   ],
   "jp": "飛鳥了\n彼女は もう…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nShe's already...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    11130
   ],
   "jp": "不動明\n止めるな 了！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDon't stop me, Ryo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    11131
   ],
   "jp": "{p}\nあぶない！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLook out!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    11132
   ],
   "jp": "不動明\n美樹！！\n\nうおおおおおお！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMIKI!!\n\nRAAAAAAAH!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    11140
   ],
   "jp": "不動明\n生きる希望を…\n生きる意味を…\n俺は失ってしまった…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMy hope for living... my reason to live...\nI've lost it all...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    11141
   ],
   "jp": "？？？\n…今のは あるべき世界の姿なの",
-  "en": "",
-  "status": "",
+  "en": "???\n...That was how the world is meant to\nbe.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    11142
   ],
   "jp": "{p}\nだ 誰！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-who's there!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    11143
   ],
   "jp": "飛鳥了\nあるべき世界の姿…！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nHow the world is meant to be...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    11144
   ],
   "jp": "？？？\nあなたも 次元連鎖の被害者なのよ\n明君\nこの情景は あなたの世界で\nこれから起こる出来事なの…",
-  "en": "",
-  "status": "",
+  "en": "???\nYou're a victim of the Dimension Chain\ntoo, Akira-kun. What you just saw is\nsomething that is going to happen in\nyour world...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    11145
   ],
   "jp": "不動明\nなんだと？\nどうして俺の名を…？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhat? How do you know my name...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    11146
   ],
   "jp": "？？？\n………",
-  "en": "",
-  "status": "",
+  "en": "???\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    11147
   ],
   "jp": "不動明\n答えろ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nAnswer me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    11148
   ],
   "jp": "{p}\nもしかして…\n君は {s}！？\nそうだろ\n{s}なんだろ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nCould it be... you're {s}!?\nThat's it, right? You're\n{s}, aren't you!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    11149
   ],
   "jp": "飛鳥了\n{s}だって？\n\n{s}なら\nどうして姿を現さないんだ！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n{s}?\n\nIf it were {s}, why\nwouldn't she show herself!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    11150
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    11151
   ],
   "jp": "不動明\n美樹…？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nMiki...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    11152
   ],
   "jp": "？？？\n魔王が 世界を連結しなければ…\n今の悲劇が確実に起こるの…",
-  "en": "",
-  "status": "",
+  "en": "???\nIf the Demon King does not link the\nworlds... that tragedy is certain to\nhappen...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    11153
   ],
   "jp": "不動明\nそれじゃ\n美樹は生きているのか！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThen is Miki alive!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    11154
   ],
   "jp": "？？？\nそれは魔王にしか解らないわ\n\nでも これだけは事実よ\n魔王だけが悲劇を回避出来るのよ",
-  "en": "",
-  "status": "",
+  "en": "???\nOnly the Demon King knows that.\n\nBut this much is true: only the Demon\nKing can prevent the tragedy.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    11155
   ],
   "jp": "飛鳥了\n魔王だけが 悲劇を回避出来る…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nOnly the Demon King can prevent the\ntragedy...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    11156
   ],
   "jp": "{p}\n教えてくれ！\nこんな幻を 僕達に見せて\n魔王はいったい\nどうしたいっていうんだよ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nTell me! Showing us illusions like this...\nWhat on earth does the Demon King\nwant!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    11157
   ],
   "jp": "？？？\n魔王はね 認めて欲しいのよ\n自分の考えを…\nあなたが協力すれば\nさっきの悲劇は防げるの…",
-  "en": "",
-  "status": "",
+  "en": "???\nThe Demon King wants his ideas to be\naccepted, you see... If you\ncooperate, the tragedy you just saw\ncan be prevented...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    11158
   ],
   "jp": "不動明\n美樹ちゃんは 死なずに済むのか？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThen Miki-chan doesn't have to die?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    11159
   ],
   "jp": "？？？\n安心して 明君\n悲劇は起きないわ…",
-  "en": "",
-  "status": "",
+  "en": "???\nDon't worry, Akira-kun. The tragedy\nwon't happen...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    11160
   ],
   "jp": "飛鳥了\nどうして\nそんなことが言い切れる？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nHow can you be so sure?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    11161
   ],
   "jp": "？？？\n{p}が\n既に魔王の手の中だから…\nそこは {p}のために\n用意された牢獄\n無数にある次元のひとつを\n連結した… 次元牢獄！",
-  "en": "",
-  "status": "",
+  "en": "???\nBecause {p} is already in\nthe Demon King's hands... This is a\nprison made for {p}. One\nof countless dimensions, linked\nhere... a Dimension Prison!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    11162
   ],
   "jp": "飛鳥了\n次元牢獄！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nA Dimension Prison!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    11163
   ],
   "jp": "{p}\nここから… 出られないの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWe can't... get out of here?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    11164
   ],
   "jp": "？？？\nもうすぐ 日蝕の時刻…\nそれまで あなたは次元牢獄の囚人\n世界の… 仲間達の命運は\nもう 尽きたも同然…",
-  "en": "",
-  "status": "",
+  "en": "???\nThe eclipse is almost here... Until then,\nyou're a prisoner of the Dimension\nPrison. The fate of the world... of\nyour friends... is as good as\nfinished...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    11165
   ],
   "jp": "{p}\nそんな… そんな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo... no...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    11166
   ],
   "jp": "？？？\n魔王は あなたがいずれ あそこを\n出てくると知っていたのよ\nただ 手下を使って\nそれを手助けしただけ…",
-  "en": "",
-  "status": "",
+  "en": "???\nThe Demon King knew you'd get out of\nthere eventually. He just used his\nminions to help you along...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    11167
   ],
   "jp": "{p}\n僕は 魔王の手のひらで\n遊ばされていたのか…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo I was just dancing in the palm of\nthe Demon King's hand...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    11168
   ],
   "jp": "？？？\n誰も 魔王には逆らえないわ…",
-  "en": "",
-  "status": "",
+  "en": "???\nNo one can defy the Demon King...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    11169
   ],
   "jp": "不動明\nいい加減にしろ！\n俺達を ここから出せ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nEnough already! Let us out of here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    11170
   ],
   "jp": "？？？\n無駄よ 次元牢獄から出ることは\n出来ないわ\n外から仕掛けを操作しない限りはね\n\nあたしも…\n試したもの…",
-  "en": "",
-  "status": "",
+  "en": "???\nIt's no use. You can't get out of the\nDimension Prison. Not unless someone\nworks the mechanism from outside.\n\nI... tried it too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    11171
   ],
   "jp": "{p}\nそれじゃ\nやっぱり君は {s}！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThen you really are {s}!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    11172
   ],
   "jp": "？？？\n………",
-  "en": "",
-  "status": "",
+  "en": "???\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    11173
   ],
   "jp": "{p}\nそうなんだろ…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou are, aren't you...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    11174
   ],
   "jp": "？？？\nいいえ あたしは「破壊の月」！\nそして あなたは「再生の太陽」！\n時が来れば ふたりとも\nここから出してもらえるわ…",
-  "en": "",
-  "status": "",
+  "en": "???\nNo, I am the \"Moon of destruction\"!\nAnd you are the \"Sun of rebirth\"!\nWhen the time comes, we'll both be let\nout of here...",
+  "status": "done",
   "notes": ""
  }
 ]

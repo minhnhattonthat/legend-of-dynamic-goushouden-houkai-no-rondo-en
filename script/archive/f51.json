@@ -5,8 +5,8 @@
    11650
   ],
   "jp": "早乙女博士\nあ うん\nえ～と だいぶいいみたいだよ\n心配しなくても大丈夫だよ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nAh, yes. Well, um, she seems much\nbetter. No need to worry.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    11651
   ],
   "jp": "早乙女博士\nえ！？\nいや その…\nお～い！ 誰か あの書類\nどうなってるか知ってるかね！？\nすまん {p}君！\n私は 今 忙しいのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWhat!? No, well... Hey! Does anyone\nknow what happened to those\npapers!? Sorry, {p}-kun!\nI'm busy right now!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    11652
   ],
   "jp": "早乙女博士\nすまん {p}君！\n私は 今 忙しいのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nSorry, {p}-kun! I'm busy\nright now!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    11653
   ],
   "jp": "早乙女博士\n科学都市の立ち入り禁止エリアに\n瓜生麗のマンションがあるだろう\nそれを探し出すことが\n真理阿の居場所を突き止める\n唯一の方法のはず…\nがんばってくれ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nRei Uryu's condo must be in Science\nCity's off-limits area. Finding it\nshould be the only way to learn where\nMaria is... Do your best!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    11700
   ],
   "jp": "ドラゴン・パンサー\nパンサークロー 最強の戦士\nドラゴン・パンサーさまだ\nこれ以上 この城の中で 好き勝手に\nさせるわけには いかぬ！",
-  "en": "",
-  "status": "",
+  "en": "Dragon Panther\nI'm Dragon Panther-sama, Panther\nClaw's mightiest warrior! I won't let\nyou run wild in this castle any longer!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    11701
   ],
   "jp": "パラソル\nやるばい やるばい\nまけんばい まけんばい\n敵は いく万\nありとてばい！",
-  "en": "",
-  "status": "",
+  "en": "Parasol\nWe'll do it, we'll do it! We won't lose, we\nwon't lose! Even if the foe's ten\nthousand strong, y'all!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    11702
   ],
   "jp": "マカロニ・キッド\nグラーチェ グラーチェ\nひさしぶりに 腕がなるぜ…\nイタリアの鳥取県からきた\nマカロニだ\nてめえら ザコどもは\n消えるがいいのだ！",
-  "en": "",
-  "status": "",
+  "en": "Macaroni Kid\nGrazie, grazie! Been a while since I got\nto cut loose... I'm Macaroni, from\nTottori Prefecture, Italy! You small\nfry can just vanish!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    11703
   ],
   "jp": "佐々木剣道\nおれは 佐々木剣道\n\n戦国時代より あまたの時をこえ\nこの時代にきた おれに\nついに戦いのときがきたのだ…\n\nおれは おまえを斬るために\nこの時代にきたのだ！！",
-  "en": "",
-  "status": "",
+  "en": "Kendo Sasaki\nI am Kendo Sasaki.\n\nI crossed countless ages from the\nWarring States era to come to this\ntime, and at last my hour of battle has\ncome...\n\nI came to this time to cut you down!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    11704
   ],
   "jp": "ガロ\nわれわれ ハチュウ人類は\n全力をつくして\nゲッターロボを破壊する！",
-  "en": "",
-  "status": "",
+  "en": "Garo\nWe Reptilians will do everything in our\npower to destroy Getter Robo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    11710
   ],
   "jp": "間身井くん\n服なんか きんでええ\n\n売れのこりのほうたい\nまいていけー いわれてまんのや",
-  "en": "",
-  "status": "",
+  "en": "Mamii-kun\nClothes? Don't need 'em.\n\nThey told me to wrap myself up in the\nbandages that didn't sell, see.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    11711
   ],
   "jp": "間身井くん\nハハハハ\nミイラ怪人と思われて まっけど\nほんまは ただの人なの",
-  "en": "",
-  "status": "",
+  "en": "Mamii-kun\nHahaha! Folks think I'm a mummy\nmonster, but really I'm just a regular\nguy.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    11712
   ],
   "jp": "間身井くん\nおねえちゃんは\nほうたい きらいで\n売れのこりのバンソウコウ\nきてまんねん",
-  "en": "",
-  "status": "",
+  "en": "Mamii-kun\nMy big sis hates bandages, so she\nwears the sticking plasters that\ndidn't sell.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    11713
   ],
   "jp": "兜十蔵\nわしは兜十蔵\nロボット開発の科学者だ\nわしの死後 数多くのロボットが\n生み出されたと聞く\n中でも宇宙開発の結果\n発見されたエネルギー\n微量で膨大なエネルギーになる\n魔法の光体… ゲッター線\nその応用で作られた\nロボットがあると聞く…\nわっはっはっは\n見て見たいものだ！",
-  "en": "",
-  "status": "",
+  "en": "Juzo Kabuto\nI am Juzo Kabuto, a scientist who\nbuilds robots. I hear that after my\ndeath, many robots were born. Among\nthem, I hear, is one built on an\nenergy found through space\nresearch: a magic light where a mere\ntrace gives enormous power... Getter\nRays! Wahahaha! I'd love to see it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    11714
   ],
   "jp": "兜十蔵\nわしは兜十蔵\nロボット開発の科学者だ\nわしが死にぎわに残した\n魔神はすごいぞ！\n神となり人類を救う事も\n悪魔となり世界を滅ぼすことも\n自由だ！！\nすべて思いのままなのだ！",
-  "en": "",
-  "status": "",
+  "en": "Juzo Kabuto\nI am Juzo Kabuto, a scientist who\nbuilds robots. The Demon God I left\nbehind as I died is something else! It\ncan become a god and save mankind,\nor become a devil and destroy the\nworld! The choice is yours!! It will do\nwhatever you wish!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    11720
   ],
   "jp": "墓世\nこのゲームは じつに不可能を\n可能に してしまうやろ\nなぜ こんなにかんたんに\n可能にできるかというと…\nこのゲームが\nいいかげんだからだー",
-  "en": "",
-  "status": "",
+  "en": "Hakayo\nThis game really makes the impossible\npossible, don'tcha think? And why is\nit so easy to make it possible? 'Cause\nthis game is slapdash, that's why!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    11721
   ],
   "jp": "ユダ博士\n私はうらむ 自分自身を…\n\n人類全体を\n苦しみのどん底に 落とすこと\n地獄を地球上に 創りあげること\nけっして そうさせては ならない",
-  "en": "",
-  "status": "",
+  "en": "Dr. Judas\nI curse myself...\n\nPlunging all mankind into the depths of\nsuffering, creating hell on Earth...\nThat must never be allowed to happen.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    11722
   ],
   "jp": "豹絵里座\nこの学園は\nいってみれば あたしのもの\nあたしの自由に\nならないことなんか ないのさ！",
-  "en": "",
-  "status": "",
+  "en": "Eriza Hyo\nThis academy is mine, you might say.\nThere's nothing here that doesn't\ngo my way!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    11730
   ],
   "jp": "オモライくん\nあははは なぜか今日も\nもうかりまへんなー\nどない なっとんやろか",
-  "en": "",
-  "status": "",
+  "en": "Omorai-kun\nAhaha, somehow business is lousy\nagain today. What's goin' on, I\nwonder?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    11731
   ],
   "jp": "オモライくん\nわい 学校にきても\nこしかけないの\nゴザにすわらんと\nおちつかんわ",
-  "en": "",
-  "status": "",
+  "en": "Omorai-kun\nEven at school, I don't sit on no chair.\nI can't settle down unless I'm sittin'\non my straw mat.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    11732
   ],
   "jp": "オモライくん\n涙にうるんだ ひとみから\nオモライくんは感じたぜ\n心にしみる なにかをさ\nジーンとしみる なにかがさ！！\nそいつに こたえるために\nわいはいく！！\nそれがオモライ 男意気！！",
-  "en": "",
-  "status": "",
+  "en": "Omorai-kun\nFrom those eyes all wet with tears,\nOmorai-kun felt somethin'! Somethin'\nthat sinks into your heart! Somethin'\nthat sinks right in! To answer that,\nI'm goin'!! That's Omorai's manly spirit!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    11733
   ],
   "jp": "オモライくん\nあったかいなー\n日なたぼっこは えーなー",
-  "en": "",
-  "status": "",
+  "en": "Omorai-kun\nSure is warm... Sunbathin's the best.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    11734
   ],
   "jp": "オモライくん\nあんまり暑いんで\n近くの沼で 泳いでもうた\nそれからなんや\nなんでか 水道の水が\nわい好みの味になったで",
-  "en": "",
-  "status": "",
+  "en": "Omorai-kun\nIt was so hot, I went for a swim in the\npond nearby. And ever since, for\nsome reason, the tap water tastes\njust how I like it.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    11740
   ],
   "jp": "トマホーク・パンサー\n貴様が侵入者か？\nこの場から逃れられると思うな\nこのトマホーク・パンサーが\n貴様を まっぷたつにしてやる！",
-  "en": "",
-  "status": "",
+  "en": "Tomahawk Panther\nSo you're the intruder? Don't think\nyou can escape from here. I,\nTomahawk Panther, will cut you in two!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    11741
   ],
   "jp": "シーザス・パンサー\n私が シーザス・パンサーだ\n\nククク…\nどうした 顔色がわるいぞ？\nそっちからこないなら\nこっちからいくぞ！！",
-  "en": "",
-  "status": "",
+  "en": "Scissors Panther\nI am Scissors Panther.\n\nHeh heh heh... What's wrong, you look\npale? If you won't come at me, I'll\ncome at you!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    11742
   ],
   "jp": "悪魔王ゼノン\nわが名は ゼノン\n悪魔王ゼノン！！\n人間に告ぐ！！\n\nデーモン軍団が 全世界に\n攻撃をくわえるであろう\n人間よ 真の地球の支配者…\nその力を 思い知れ！！",
-  "en": "",
-  "status": "",
+  "en": "Demon King Zennon\nMy name is Zennon, Zennon the Demon\nKing!! Hear me, humans!!\n\nThe Demon army will launch its attack\non the whole world. Humans, feel the\nmight of the Earth's true rulers!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    11743
   ],
   "jp": "悪魔王ゼノン\nひとりのこらず\n人間が 死に絶えるまで\n我々の攻撃は やまない\n\nきさまも きさまも\nきさまも 死ぬのだ！！",
-  "en": "",
-  "status": "",
+  "en": "Demon King Zennon\nOur attack will not stop until every\nlast human is dead.\n\nYou, and you, and you will die!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    11750
   ],
   "jp": "ドクター・ヘル\n忘れたか…？\n世界征服こそドクター・ヘルの夢\nおまえが本当に 妨げになるのか\n試してみるのも よかろう\nゆくぞ ブロッケン伯爵！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nHave you forgotten...? World\nconquest is Dr. Hell's dream. Let's\ntest whether you're truly a hindrance.\nCome, Count Brocken!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    11751
   ],
   "jp": "ブロッケン伯爵\nははっ！",
-  "en": "",
-  "status": "",
+  "en": "Count Brocken\nYes, sir!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    11752
   ],
   "jp": "ブロッケン伯爵\nくっ！\n…ぬぅ～ おのれ！",
-  "en": "",
-  "status": "",
+  "en": "Count Brocken\nNgh! ...Grr, curse you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    11753
   ],
   "jp": "ドクター・ヘル\nわっはっはっ…！\nなかなか やるではないか！\nだが 今は ここまでだ\n\nこの続きは 我らが再び\n敵として合間見える時だ…！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nWahahaha...! Not bad at all! But that's\nenough for now.\n\nWe'll continue this when we next meet\nas enemies...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    11754
   ],
   "jp": "ブロッケン伯爵\nその時こそが 本当の戦い！\n今日のようには いかぬぞ！",
-  "en": "",
-  "status": "",
+  "en": "Count Brocken\nTHAT will be the true battle! It won't go\nlike today!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    11755
   ],
   "jp": "ドクター・ヘル\nわっはっはっはっはっ…！！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Hell\nWahahahahaha...!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    11756
   ],
   "jp": "ユダ博士\nはるか北西に\n悪魔の住む島があると聞く\n生きて帰ることの出来ない\n恐ろしい島だそうだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Judas\nI hear there's an island of devils far\nto the northwest. A terrible island\nno one returns from alive.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    11757
   ],
   "jp": "墓世\nドクター・ヘルの サルードは\n北西の島に おるそうや\nそこには 機械獣って\nオモロイ マシンがあるんやて\nいっぺん拝みに\n行きまひょかー！",
-  "en": "",
-  "status": "",
+  "en": "Hakayo\nThey say Dr. Hell's Saluud is at an\nisland to the northwest. And there's\nthese funky machines called\nMechanical Beasts there. Whaddaya\nsay we go take a gander!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    16000
   ],
   "jp": "{p}\n君 何してるの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat are you doing?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    16001
   ],
   "jp": "少年\nあの…\nその…\nぐぅ～～～～！",
-  "en": "",
-  "status": "",
+  "en": "Boy\nUm... well... *GRRRROWL*!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    16002
   ],
   "jp": "{p}\nそっか お腹が減ったんだね！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh, you're hungry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    16003
   ],
   "jp": "少年\nイヤハヤ… なんとも…",
-  "en": "",
-  "status": "",
+  "en": "Boy\nIyahaya... nantomo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    16004
   ],
   "jp": "少年\nえへへ！ ありがと！",
-  "en": "",
-  "status": "",
+  "en": "Boy\nHeh heh! Thanks!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    16005
   ],
   "jp": "菊の助\nこの子 見たことあるぜ！\n\n決勝トーナメントＡブロック決勝に\n進むはずだった\n権金学園の生徒だ！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nI've seen this kid!\n\nHe's the Gongane Academy student\nwho was supposed to make the Block\nA final in the tournament!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    16006
   ],
   "jp": "{p}\nえ？\n君 ホントなの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh? Is that true?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    16007
   ],
   "jp": "少年\nイヤハヤ… なんとも…",
-  "en": "",
-  "status": "",
+  "en": "Boy\nIyahaya... nantomo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    16008
   ],
   "jp": "菊の助\n確か… 家早南友！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nYeah... Nanyu Iyahaya!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    16009
   ],
   "jp": "{p}\nへぇ 僕 {p}！\nよろしく 南友君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh. I'm {p}! Nice to meet\nyou, Nanyu-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    16010
   ],
   "jp": "南友\nイヤハヤ… なんとも…",
-  "en": "",
-  "status": "",
+  "en": "Nantomo\nIyahaya... nantomo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    16011
   ],
   "jp": "南友\nあ さよ子さん！",
-  "en": "",
-  "status": "",
+  "en": "Nantomo\nAh, Sayoko-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    16012
   ],
   "jp": "さよ子\n南友君 助けて！\n果扨虹蛇に追われてるの！",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nNanyu-kun, help! Nijija Hatesa is after\nme!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    16013
   ],
   "jp": "果扨虹蛇\n見つけたぞ\n家早さよ子 家早南友！\n日本経済は果扨家が握るのよ！\n家早は退きなさい！",
-  "en": "",
-  "status": "",
+  "en": "Nijija Hatesa\nFound you, Sayoko Iyahaya, Nanyu\nIyahaya! The Hatesa family controls\nJapan's economy! The Iyahayas should\nstep aside!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    16014
   ],
   "jp": "さよ子\n南友君 助けて！",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nNanyu-kun, help!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    16015
   ],
   "jp": "南友\nイヤハヤ… なんとも…",
-  "en": "",
-  "status": "",
+  "en": "Nantomo\nIyahaya... nantomo...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    16016
   ],
   "jp": "{p}\nちょっと 南友君…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUm, Nanyu-kun...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    16017
   ],
   "jp": "菊の助\nこの女 出来る！\n\n{p}！\n俺達が相手してやろうぜ！",
-  "en": "",
-  "status": "",
+  "en": "Kikunosuke\nThis woman's good!\n\n{p}! Let's take her on!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    16018
   ],
   "jp": "{p}\nえ～っ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    16019
   ],
   "jp": "さよ子\nありがとう！\n助かりましたわ！\n果扨家は 何かと家早を目の敵に\nするのよ\n新興の成り上がり者はイヤね！",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nThank you! You saved me! The Hatesa\nfamily is always out to get the\nIyahayas. Upstart nouveau riche are\nso tiresome!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    16020
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    16021
   ],
   "jp": "さよ子\nところであなた 権金学園の生徒？",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nBy the way, are you a Gongane\nAcademy student?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    16022
   ],
   "jp": "{p}\nいや 僕は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo, I'm...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    16023
   ],
   "jp": "さよ子\nまぁ！\n南友君 聞いた？",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nMy! Did you hear that, Nanyu-kun?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    16024
   ],
   "jp": "南友\nイヤハヤ なんとも\n不思議な話だね！",
-  "en": "",
-  "status": "",
+  "en": "Nantomo\nIyahaya, nantomo... What a strange\nstory!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    16025
   ],
   "jp": "さよ子\n決めたわ！",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nI've decided!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    16026
   ],
   "jp": "さよ子\n南友君 あたし達{p}達を\n手伝いましょう！\n何が起こってるのか解らないけど\n\nきっと家早の財力で\n解決してみせるわ！",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nNanyu-kun, let's help\n{p} and the others! I\ndon't know what's going on,\n\nbut the Iyahaya fortune will surely\nsolve it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    16027
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    16028
   ],
   "jp": "さよ子\nだって家早に出来ないことは\nないもの！ おっほっほほ！",
-  "en": "",
-  "status": "",
+  "en": "Sayoko\nAfter all, there's nothing the\nIyahayas can't do! Ohohoho!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    16029
   ],
   "jp": "住民\n町の東の犬小屋に\n変な子供が入りこんだそうだよ\n見慣れない子供らしいから…\nどこから来たんだろう？",
-  "en": "",
-  "status": "",
+  "en": "Resident\nThey say some odd kid snuck into the\ndoghouse east of town. A kid\nnobody's seen before... Where'd he\ncome from?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    16040
   ],
   "jp": "{p}\nデーモンの歴史が見えるという\n悪魔像\n了君や明君は\nいったい何を見たんだろう…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe devil statue that shows the\nhistory of the Demons... What on\nearth did Ryo-kun and Akira-kun\nsee...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    16041
   ],
   "jp": "？？？\n悪魔像は あなたには\n何も見せてくれません",
-  "en": "",
-  "status": "",
+  "en": "???\nThe devil statue will show you nothing.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    16042
   ],
   "jp": "サイコジェニー\n私はサイコジェニー\nこの像と共にある者です",
-  "en": "",
-  "status": "",
+  "en": "Psycho Jenny\nI am Psycho Jenny. I am one with this\nstatue.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    16043
   ],
   "jp": "{p}\nデ デーモン！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA-a Demon!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    16044
   ],
   "jp": "サイコジェニー\nそうです\n私はデーモン族です\nあなたを お迎えに参りました",
-  "en": "",
-  "status": "",
+  "en": "Psycho Jenny\nThat's right. I am of the Demon race. I\nhave come to welcome you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    16045
   ],
   "jp": "サイコジェニー\nあなたが忘れてしまったことを\n思い出していただくため！",
-  "en": "",
-  "status": "",
+  "en": "Psycho Jenny\nTo help you remember what you've\nforgotten!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    16046
   ],
   "jp": "{p}\nうわ～！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    16047
   ],
   "jp": "サイコジェニー\nどうです？\n\n魔王について 次元連鎖について\n何か思い出しましたか？",
-  "en": "",
-  "status": "",
+  "en": "Psycho Jenny\nWell?\n\nHave you remembered anything about\nthe Demon King, about the Dimension\nChain?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    16048
   ],
   "jp": "{p}\n…わ わからない",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...I-I don't know.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    16049
   ],
   "jp": "サイコジェニー\nそうですか…\n\nならば私は あなたと共に\n行きましょう",
-  "en": "",
-  "status": "",
+  "en": "Psycho Jenny\nI see...\n\nThen I shall go with you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    16050
   ],
   "jp": "サイコジェニー\nあなたと共に行くことで 私は\nより強い精神攻撃方法を学べます\nお忘れですか？ デーモンは\nより強くなることを望む\n戦う一族であるということを！",
-  "en": "",
-  "status": "",
+  "en": "Psycho Jenny\nBy going with you, I can learn stronger\nmethods of psychic attack. Have\nyou forgotten? The Demons are a\nwarrior race that always seeks to\ngrow stronger!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    16060
   ],
   "jp": "住民\n世の中 どうなってるんだ？\n黒い魔物やら…\n巨大な女の子やら？",
-  "en": "",
-  "status": "",
+  "en": "Resident\nWhat's going on with the world? Black\nfiends... giant girls?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    16061
   ],
   "jp": "住民\n黒い魔物に襲われているところを\n女の子に助けられたんだ！\nところが その子 可愛い顔して\n３メートルを超す大女！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nI was attacked by a black fiend and a\ngirl saved me! But that girl, cute\nface and all, was a giantess over\nthree meters tall!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    16062
   ],
   "jp": "住民\n黒い魔物を倒しても ちっとも\n儲からないわ…って言ってたわ\nあの人\n極悪人ハンターなんですって！\nその子？\nあっちへ行ったわ",
-  "en": "",
-  "status": "",
+  "en": "Resident\nShe said beating black fiends doesn't\npay one bit... She's a hunter of\nvillains, apparently! The girl? She went\nthat way.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    16063
   ],
   "jp": "住民\n巨大な身体に\n大学教授顔負けの頭脳！\nそれでも あの子\n小学６年生なんだって！\nその子？\n向こうに行ったみたいだよ",
-  "en": "",
-  "status": "",
+  "en": "Resident\nA giant body and a brain that'd put a\nuniversity professor to shame! And\nthey say she's only in sixth grade! The\ngirl? Looks like she went over there.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    16064
   ],
   "jp": "住民\nきゃ～！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nKyaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    16065
   ],
   "jp": "住民\nありがとうございました！",
-  "en": "",
-  "status": "",
+  "en": "Resident\nThank you so much!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    16066
   ],
   "jp": "{p}\nなんだ！？ 地震…にしちゃ\nおかしな揺れだぞ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat!? An earthquake...? It's a weird\nkind of shaking...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    16067
   ],
   "jp": "{p}\nあれ？\n止まった",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHuh? It stopped.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    16068
   ],
   "jp": "大きな女\nあなたが 黒い魔物を\nやっつけたの？",
-  "en": "",
-  "status": "",
+  "en": "Big Girl\nDid you beat the black fiend?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    16069
   ],
   "jp": "{p}\nうわ～ き 君は？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoa! Wh-who are you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    16070
   ],
   "jp": "法印大子\nあたしは法印大子\n極悪人ハンターよ！",
-  "en": "",
-  "status": "",
+  "en": "Hoin Taishi\nI'm Taishi Hoin, villain hunter!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    16071
   ],
   "jp": "{p}\n極悪人ハンター？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nVillain hunter?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    16072
   ],
   "jp": "法印大子\n正義のため！ 世の中に害をなす\n極悪人を捕らえているの\n今の世の中にとって 超Ａクラスの\n極悪人とは 黒い魔物！\nあたしは そう考えてるのよ！",
-  "en": "",
-  "status": "",
+  "en": "Hoin Taishi\nFor justice! I capture villains who do\nharm to the world. In today's world,\nthe super-A-class villains are the\nblack fiends! That's what I think!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    16073
   ],
   "jp": "{p}\nそれで黒い魔物から\n町の人を助けてたんだね",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo that's why you were saving the\ntownspeople from the black fiends.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    16074
   ],
   "jp": "法印大子\nそうよ\nところであなた 誰？",
-  "en": "",
-  "status": "",
+  "en": "Hoin Taishi\nThat's right. By the way, who are you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    16075
   ],
   "jp": "{p}\n僕 {p}！\n実は僕…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nI'm {p}! Actually, I...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    16076
   ],
   "jp": "法印大子\n魔王が狙っているのが\nあなただったとはね…\nでも魔王のやり方\nあたしは気に入らないわ！\nあなたに手を貸しましょう！\n共に戦うのよ！",
-  "en": "",
-  "status": "",
+  "en": "Hoin Taishi\nSo you're the one the Demon King is\nafter... But I don't like the Demon\nKing's methods! I'll lend you a hand!\nWe'll fight together!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    16090
   ],
   "jp": "不動明\nあ あいつは！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWh-what's HE doing here!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    16091
   ],
   "jp": "蛮子\nあれ？\nやぁやぁ この前は どうも！\nこの子 クラスメートの男男子！",
-  "en": "",
-  "status": "",
+  "en": "Banji\nHuh? Hey hey, thanks for the other\nday! This here's my classmate, Danshi\nOtoko!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    16092
   ],
   "jp": "男子\nこんにちは～！",
-  "en": "",
-  "status": "",
+  "en": "Boy\nHellooo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    16093
   ],
   "jp": "{p}\n女の子なのに 男子？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA girl, but a boy?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    16094
   ],
   "jp": "蛮子\nおいらスケバン！\nあっはっは！",
-  "en": "",
-  "status": "",
+  "en": "Banji\nI'm Sukeban! Ahaha!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    16095
   ],
   "jp": "蛮千代\nあ！ 蛮子！\nおまえ また学校さぼるのか！？",
-  "en": "",
-  "status": "",
+  "en": "Banchiyo\nAh! Banji! Are you skipping school\nagain!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    16096
   ],
   "jp": "蛮子\nち 違うよ かあちゃん！\n\n学校に行ったらさ\n誰も いねぇんだよ！",
-  "en": "",
-  "status": "",
+  "en": "Banji\nN-no, Ma!\n\nI went to school, but there was nobody\nthere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    16097
   ],
   "jp": "蛮千代\nあたしをごまかそうったって\nそうは いかないわよ！",
-  "en": "",
-  "status": "",
+  "en": "Banchiyo\nDon't think you can fool me!",
+  "status": "done",
   "notes": ""
  }
 ]

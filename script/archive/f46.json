@@ -5,8 +5,8 @@
    10755
   ],
   "jp": "不動明\n黒い月！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nA black moon!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    10756
   ],
   "jp": "飛鳥了\nあれは いったい…！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nWhat on earth is that...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    10757
   ],
   "jp": "飛鳥了\n明 あの光が示しているのは\n科学都市のある方向じゃないか？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAkira, isn't that light pointing toward\nScience City?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    10758
   ],
   "jp": "不動明\n科学都市？\n{p}達の身に何か…！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nScience City? Something's happened to\n{p} and the others...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    10760
   ],
   "jp": "不動明\n行ってはダメだ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDon't go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    10762
   ],
   "jp": "不動明\n大丈夫か {p}？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nYou okay, {p}?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    10763
   ],
   "jp": "{p}\n明君 僕…\n何があったの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun, I... What happened?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    10764
   ],
   "jp": "朱紗\n「連れて行って」なんて\n言ってたんだぞ",
-  "en": "",
-  "status": "",
+  "en": "Shusha\nYou were saying \"take me with you.\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    10765
   ],
   "jp": "飛鳥了\n覚えてないのか？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nYou don't remember?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    10766
   ],
   "jp": "不動明\n話は後だ…！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nTalk later...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    10767
   ],
   "jp": "慎一\n…そうだな",
-  "en": "",
-  "status": "",
+  "en": "Shinichi\n...Right.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    10768
   ],
   "jp": "不動明\nてめぇら 油断するな！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDon't you guys let your guard down!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    10769
   ],
   "jp": "{p}\n明君…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    10770
   ],
   "jp": "不動明\n黙って見てろ！\n行くぞ 朱紗！ 慎一！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nJust shut up and watch! Let's go,\nShusha! Shinichi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    10780
   ],
   "jp": "ガードマン\n{p}君 しばらく\nこのホテルから出ないで下さい",
-  "en": "",
-  "status": "",
+  "en": "Guard\n{p}-kun, please don't\nleave this hotel for a while.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    10781
   ],
   "jp": "{p}\nどうしてですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhy not?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    10782
   ],
   "jp": "ガードマン\n外を見れば わかります…",
-  "en": "",
-  "status": "",
+  "en": "Guard\nLook outside and you'll understand...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    10783
   ],
   "jp": "不動明\n出て行け！ {p}に\nこんな様子を見せやがって！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nGet out! Showing {p} a\nmess like this!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    10784
   ],
   "jp": "ガードマン\nひ ひぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Guard\nY-yikes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    10785
   ],
   "jp": "{p}\n…なんてことだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...This is terrible.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    10786
   ],
   "jp": "飛鳥了\nいつ 自分の身体に\n黒い魔物が取り憑き\n操られてしまうか\nわからない恐怖…\n疑心暗鬼に駆られた\n人間どもは\n何をしでかすか わからない！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nThe fear of not knowing when a black\nfiend might latch onto your body and\ncontrol you... Humans gripped by\nsuspicion... there's no telling what\nthey'll do!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    10787
   ],
   "jp": "不動明\n………",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    10788
   ],
   "jp": "飛鳥了\nこれが人間の弱さだ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nThis is human weakness!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    10789
   ],
   "jp": "不動明\n人間には 恐怖を押さえて戦う\n勇気がある！\n人間の精神は\nそんな弱いもんじゃないぜ 了",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHumans have the courage to hold down\ntheir fear and fight! The human spirit\nain't that weak, Ryo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    10790
   ],
   "jp": "早乙女博士\nその通りだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nExactly right!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    10791
   ],
   "jp": "早乙女博士\nだが事態は予断を許さない\n\n不安に駆られた人々が\n暴徒化している\n状況を急いで整理し\n分析する必要がある",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nBut the situation could go either way.\n\nPeople driven by fear are turning into\na mob. We need to sort out and\nanalyze the situation, quickly.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    10792
   ],
   "jp": "早乙女博士\nさて 明君 了君\n君達が 科学都市に着いた時\nその時の様子を\nわしらに 聞かせてくれんか？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nNow, Akira-kun, Ryo-kun, would you\ntell us how things were when you\narrived in Science City?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    10793
   ],
   "jp": "不動明\n…はい",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...Sure.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    10800
   ],
   "jp": "不動明\n…様子が おかしい？\nいったい 何が起こったんだ！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...Something's wrong? What the hell\nhappened!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    10801
   ],
   "jp": "飛鳥了\nどうした明？\n牧村家のことが心配なのか？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nWhat is it, Akira? Worried about the\nMakimuras?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    10802
   ],
   "jp": "不動明\n………",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    10803
   ],
   "jp": "飛鳥了\n心配するな 木刀政が あの子達を\n守ってくれるさ",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nDon't worry, Bokuto Masa will protect\nthose kids.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    10804
   ],
   "jp": "不動明\n了！\nあれを見ろ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nRyo! Look at that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    10805
   ],
   "jp": "作業員\nひぃ～！",
-  "en": "",
-  "status": "",
+  "en": "Worker\nEeeek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    10806
   ],
   "jp": "不動明\n野郎！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nYou bastard!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    10807
   ],
   "jp": "飛鳥了\n待て 明！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nWait, Akira!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    10808
   ],
   "jp": "作業員\n…仰せのままに",
-  "en": "",
-  "status": "",
+  "en": "Worker\n...As you command.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    10809
   ],
   "jp": "不動明\nはっ！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHuh!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    10810
   ],
   "jp": "不動明\nきやがれ！",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nCome on!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    10811
   ],
   "jp": "不動明\nこいつら なんなんだ！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhat the hell are these guys!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    10812
   ],
   "jp": "飛鳥了\n見ろ 明！\nあちこちに黒いのがいる…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nLook, Akira! There are black things all\nover...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    10813
   ],
   "jp": "不動明\n人々が黒い物体に操られている…？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nThe people are being controlled by\nblack things...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    10820
   ],
   "jp": "飛鳥了\n操られた人々を追っているうち\n屋上の事件に遭遇したわけです",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nWhile we were following the controlled\npeople, we came upon the incident on\nthe roof.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    10821
   ],
   "jp": "早乙女博士\n黒い物体に操られた人々は\n\nみな 何者かの声を聞いたと\n言っているそうじゃ\nどんな言葉を聞いたのか\n調べてみんといかんな",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe people controlled by the black\nthings...\n\nall say they heard someone's voice.\nWe'll have to find out what words\nthey heard.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    10822
   ],
   "jp": "不動明\n待ってくれ 早乙女博士",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHold on, Dr. Saotome.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    10823
   ],
   "jp": "早乙女博士\nなんじゃ？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWhat is it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    10824
   ],
   "jp": "不動明\n{p}に\n何か言うことはねぇのかい？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDon't you got anything to say to\n{p}?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    10825
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    10826
   ],
   "jp": "早乙女博士\n…無い",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\n...No.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    10827
   ],
   "jp": "不動明\nなんだと！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nWhat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    10828
   ],
   "jp": "飛鳥了\nよせ 明！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nStop it, Akira!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    10829
   ],
   "jp": "{p}\n…早乙女博士\n{s}は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Dr. Saotome, {s} is...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    10830
   ],
   "jp": "早乙女博士\n{s}を想う\n君の気持ちは わかる\nだが君にも\nわかって欲しいことがある",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI understand how you feel about\n{s}. But there's\nsomething I want you to understand,\ntoo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    10831
   ],
   "jp": "早乙女博士\n次元連鎖現象は 今も続いている\n\nそして黒い月がもたらす悲劇は\n次の段階に入ったのだ\n黒い月によって「魔」の残骸が\n息を吹き返し\n黒い物体 黒い魔物となり\n人々を襲っている",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThe Dimension Chain phenomenon is still\ngoing on.\n\nAnd the tragedy the black moon brings\nhas entered its next stage. The\nblack moon has breathed life back\ninto the remains of the \"Ma,\" and\nthey've become black things, black\nfiends, attacking people.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    10832
   ],
   "jp": "早乙女博士\n黒い魔物に取り憑かれた人々は\n暴徒化し 魔王に操られる\n被害は広がるばかり… つまり\n魔王の力は強まりつつある！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nPeople possessed by the black fiends\nturn into rioters, controlled by the\nDemon King. The damage only\nspreads... In other words, the Demon\nKing's power is growing!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    10833
   ],
   "jp": "早乙女博士\nこの事態は\n人類にとっての脅威なのだ！\nわしは早乙女研究所の所長として\n人類を救うために\n努力せねば ならないのだ！\nたとえ どんな犠牲を払ってでも！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThis situation is a threat to mankind!\nAs director of the Saotome Lab, I\nhave to work to save mankind!\nWhatever the sacrifice!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    10834
   ],
   "jp": "不動明\n{s}に\n犠牲になれと言うのか！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nYou're telling {s} to be\nthe sacrifice!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    10835
   ],
   "jp": "飛鳥了\n………",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    10836
   ],
   "jp": "早乙女博士\nわしだって 出来るだけのことは\nしてやりたい！\n誰一人として\n犠牲には したくないのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI want to do everything I can too! I\ndon't want to sacrifice a single\nperson!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    10837
   ],
   "jp": "不動明\n早乙女博士… あんた…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nDr. Saotome... you...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    10838
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    10839
   ],
   "jp": "早乙女博士\nじゃが！ 今は そんなことを\n言ってられる状況ではないのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nBut! Right now the situation doesn't\nallow for that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    10840
   ],
   "jp": "早乙女博士\nわかってくれ… 諸君",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nPlease understand... all of you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    10850
   ],
   "jp": "研究員\n早乙女博士\nゲッターチーム 出動しました",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nDr. Saotome, the Getter Team has\nlaunched.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    10851
   ],
   "jp": "早乙女博士\nでは黒い物体に操られた人達の\n様子を 見に行こう",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThen let's go see how the people\ncontrolled by the black things are\ndoing.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    10852
   ],
   "jp": "{p}\n…外の人達 みんな 僕を魔王に\n差し出せって？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...All those people outside want me\nhanded over to the Demon King?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    10853
   ],
   "jp": "飛鳥了\n黒い物体に\n操られた人達の中には\n次元連鎖を調べていた\n科学者が いるらしいんだ\nそいつがなぜか\n君を魔王に差し出せ！\nそう 煽っているらしい",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nAmong the people controlled by the\nblack things, there's apparently a\nscientist who was studying the\nDimension Chain. For some reason,\nhe's stirring them up, saying \"Hand him\nover to the Demon King!\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    10854
   ],
   "jp": "{p}\nどうして？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhy?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    10855
   ],
   "jp": "飛鳥了\n君と同じ世界から来た\n{s}が 黒い月に\n吸い寄せられていった\nそう ウワサされているからだ",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nBecause there's a rumor that\n{s}, who came from the\nsame world as you, was drawn into the\nblack moon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    10856
   ],
   "jp": "{p}\n…たったそれだけのことで？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...Just because of that?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    10857
   ],
   "jp": "飛鳥了\n明 よく見ておくがいい！\n\n守ろうとしている人間が\n黒い魔物に踊らされ 敵となる\n明日は我が身かもしれないぜ？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nTake a good look, Akira!\n\nThe humans you're trying to protect\nare dancing to the black fiends'\ntune and becoming your enemy.\nTomorrow it could be you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    10858
   ],
   "jp": "不動明\nだが {p}だって\nこの事件の被害者だぜ！？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nBut {p}'s a victim in all\nthis too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    10859
   ],
   "jp": "飛鳥了\n外のヤツらにとっては\n被害者じゃない！ 関係者さ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nNot to the people outside! To them\nhe's involved!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    10860
   ],
   "jp": "{p}\nやめてよ ふたりとも！\n\n君達まで争い始めたら ますます\n魔王の思うつぼじゃないか！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nStop it, you two!\n\nIf you start fighting too, it's playing\nright into the Demon King's hands!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    10861
   ],
   "jp": "不動明\n…そうだな すまん",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\n...You're right. Sorry.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    10862
   ],
   "jp": "飛鳥了\nつらい戦いが待っているぞ\n{p}",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nA hard fight awaits you,\n{p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    10863
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    10864
   ],
   "jp": "飛鳥了\n人々は魔王を支持している\n\n君は 彼らを相手に\n戦わなくてはならんのだ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nThe people support the Demon King.\n\nYou'll have to fight against them!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    10865
   ],
   "jp": "不動明\nなぁ 了…\n\n俺は本当に…\n\nデビルマンに ならなければ\nいけなかったのだろうか？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHey, Ryo...\n\nDid I really...\n\nhave to become Devilman?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    10866
   ],
   "jp": "飛鳥了\n君が生き残るためには\n必要なことだ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nIt was necessary for you to survive!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    10867
   ],
   "jp": "不動明\n生き残ることが 本来の目的じゃ\nなかったはずだぜ…？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nSurviving was never supposed to be\nthe real goal, was it...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    10868
   ],
   "jp": "飛鳥了\n………",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    10869
   ],
   "jp": "不動明\nもしも\n次元連鎖なんてものがなかったら\n俺もデビルマンにならなくても\n済んだかもな…",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nIf there'd never been any Dimension\nChain, maybe I wouldn't have had to\nbecome Devilman...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    10870
   ],
   "jp": "{p}\n明君…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAkira-kun...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    10871
   ],
   "jp": "飛鳥了\n………",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    10880
   ],
   "jp": "リョウ\n地上は酷いありさまだな 刻々と\n暴徒の数は増えているようだ",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nIt's a mess down there. The number of\nrioters keeps growing by the minute.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    10881
   ],
   "jp": "隼人\n命を賭けて恐竜帝国から守った\n人類がこれじゃ イヤになるぜ",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nWe risked our lives protecting mankind\nfrom the Dinosaur Empire, and this is\nwhat we get. Makes me sick.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    10882
   ],
   "jp": "武蔵\n地上の様子が気になるよなぁ\n少し降りてみねぇか？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nI'm worried about what's goin' on down\nthere. Wanna drop down for a look?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    10883
   ],
   "jp": "リョウ\nそうしよう",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nLet's do that.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    10884
   ],
   "jp": "武蔵\nメカザウルスが生き残ってるって\nどういうこと？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nWhat do ya mean a Mechasaurus\nsurvived?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    10885
   ],
   "jp": "隼人\n気がつかなかったのか ムサシ？",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nYou didn't notice, Musashi?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    10886
   ],
   "jp": "武蔵\n何をだよ？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nNotice what?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    10887
   ],
   "jp": "リョウ\nメカザウルスに\n黒い物体が張り付いていた…",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nThere was a black thing stuck to the\nMechasaurus...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    10888
   ],
   "jp": "武蔵\nぎょえ～！\n\nそれじゃ メカザウルスまで\n黒い物体に操られてるってわけ？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nYeeeegads!\n\nSo even the Mechasaurus is bein'\ncontrolled by black things?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    10889
   ],
   "jp": "隼人\n黒い月の光を浴びて\n「魔」の残骸が蘇ったように\nメカザウルスも\n蘇ったのかもしれん",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nMaybe the Mechasaurus came back to\nlife, the same way the remains of the\n\"Ma\" did when the black moon's light\nhit them.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    10890
   ],
   "jp": "武蔵\nおいおい！ 黒い魔物って\nあんなでっかかったっけ？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nHey, hey! Were the black fiends always\nthat huge!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    10891
   ],
   "jp": "隼人\n…早乙女博士に\n報告した方が良さそうだな",
-  "en": "",
-  "status": "",
+  "en": "Hayato\n...Better report to Dr. Saotome.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    10892
   ],
   "jp": "リョウ\nよし 研究所に戻ろう！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nRight, back to the lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    10900
   ],
   "jp": "不動明\nいつまで こうしているつもりだ\n了？",
-  "en": "",
-  "status": "",
+  "en": "Akira Fudo\nHow long are you planning to keep this\nup, Ryo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    10901
   ],
   "jp": "飛鳥了\n落ち着け 明\n\n今 おまえが出て行っても\n何も変わらん",
-  "en": "",
-  "status": "",
+  "en": "Ryo Asuka\nCalm down, Akira.\n\nEven if you go out there now, nothing\nwill change.",
+  "status": "done",
   "notes": ""
  }
 ]

@@ -5,8 +5,8 @@
    2250
   ],
   "jp": "えん魔くん\n教授の留守とマジンガーの修理中を\n狙われたわけか…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nSo they struck while the professor\nwas away and Mazinger was under\nrepair...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    2251
   ],
   "jp": "兜甲児\nそれで仕方なく 俺は\nホバーパイルダーで出たんだけど",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nSo I had no choice but to head out in\nthe Hover Pilder, and then...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    2252
   ],
   "jp": "{p}\n黒い月に飲み込まれちゃった…って\nわけだね？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou got swallowed up by the black\nmoon, right?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    2253
   ],
   "jp": "兜甲児\n急いで 科学都市まで 弓教授を\n迎えにいかないと…\n光子力研究所が 機械獣軍団に\n奪われてしまう！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nI've gotta hurry to Science City and\nbring Professor Yumi back... or the\nPhoton Power Lab will fall to the\nMechanical Beast army!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    2254
   ],
   "jp": "えん魔くん\nいろんな世界が ごちゃまぜに\nなっちゃってるからなぁ\n科学都市が あるかどうか\nハッキリしないぜ？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nAll kinds of worlds are getting jumbled\ntogether, y'know. Who knows if\nScience City's even there?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    2255
   ],
   "jp": "えん魔くん\n気分転換に\nＴＶでも みてみようぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nLet's watch some TV to take our minds\noff things!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    2256
   ],
   "jp": "アナウンサー\n{!R}番組の途中ですが ここで\n臨時ニュースを申し上げます！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}We interrupt this program to bring you\na special news bulletin!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    2257
   ],
   "jp": "アナウンサー\n{!R}富士山麓を取り囲むかのように\n突如 海峡が出現しました！\n{!R}今回の異変で\n地震は計測されていません！\n{!R}どうして このようなことが\n起こったか？\n{!R}原因は まったく不明です！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}A strait has suddenly appeared, as if\nto encircle the foot of Mt. Fuji! {!R}No\nearthquake was recorded during this\nevent! {!R}How could such a thing\nhappen? {!R}The cause is a complete\nmystery!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    2258
   ],
   "jp": "{p}\n関東地獄地震だ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's the Kanto Hellquake...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    2259
   ],
   "jp": "兜甲児\n…！？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    2260
   ],
   "jp": "えん魔くん\nジャック達の世界が この世界を\n侵食し始めてる…ってわけか！？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nSo Jack's world is starting to eat into\nthis one!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    2261
   ],
   "jp": "アナウンサー\n{!R}更に！ 海峡上空に 謎の怪物が\n出現しました！\n{!R}機械で出来た獣のような\n怪物達です！\n{!R}ヤツらは 光子力研究所を\n放屁しております",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}What's more! Mysterious monsters\nhave appeared in the skies over the\nstrait! {!R}Monsters like beasts made of\nmachinery! {!R}They are currently\nfarting on the Photon Power Lab.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    2262
   ],
   "jp": "えん魔くん\n今 放屁って言わなかったか…？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nDid he just say \"farting\"...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    2263
   ],
   "jp": "アナウンサー\n{!R}失礼！\n取り乱してしまいました！\n{!R}怪物達が 光子力研究所を\n包囲しております！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}Pardon me! I got flustered! {!R}The\nmonsters are currently FLANKING the\nPhoton Power Lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    2264
   ],
   "jp": "アナウンサー\n{!R}新たな情報です！\n\n{!R}科学都市の研究会に出席していた\n弓教授からの談話です！",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}This just in!\n\n{!R}A statement from Professor Yumi, who\nwas attending the conference in\nScience City!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    2265
   ],
   "jp": "兜甲児\n弓教授！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nProfessor Yumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    2266
   ],
   "jp": "{p}\n科学都市は存在する！\n弓教授もだ…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nScience City exists! And so does\nProfessor Yumi...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    2267
   ],
   "jp": "えん魔くん\nあれ？\n急に画面が乱れたぞ…！？",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nHuh? The picture suddenly went\nfuzzy...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    2268
   ],
   "jp": "あしゅら（男）\n{!R}弓教授に告げる！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\n{!R}Hear me, Professor Yumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    2269
   ],
   "jp": "あしゅら（女）\n{!R}私は あしゅら男爵！\n機械獣を操る者だ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\n{!R}I am Baron Ashura! Master of the\nMechanical Beasts!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    2270
   ],
   "jp": "{p}\nうわ！ なんだ この人！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoa! What IS that!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    2271
   ],
   "jp": "えん魔くん\n男と女が ひとつになってるぞ！\nこんなヤツ地獄界にもいねぇぜ！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nA man and a woman stuck together as\none! Not even the Hell World's got\nanybody like that!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    2272
   ],
   "jp": "兜甲児\nドクター・ヘルの腹心\nあしゅら男爵だ！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nIt's Dr. Hell's right hand, Baron Ashura!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    2273
   ],
   "jp": "あしゅら（男）\n{!R}私の提案を聞いて貰いたい！\n取引に応じるならば",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\n{!R}I want you to hear my proposal! If you\nagree to the deal,",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    2274
   ],
   "jp": "あしゅら（女）\n{!R}全機械獣を\nすべて引き上げさせましょう！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\n{!R}we'll withdraw every last Mechanical\nBeast!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    2275
   ],
   "jp": "あしゅら（男）\n{!R}その提案とは…",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\n{!R}The proposal is this...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    2276
   ],
   "jp": "あしゅら（女）\n{!R}マジンガーＺを\n我々に差し出すのよ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\n{!R}Hand Mazinger Z over to us!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    2277
   ],
   "jp": "あしゅら（男）\n{!R}イエスか！？\nノーか！？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\n{!R}Yes!? Or no!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    2278
   ],
   "jp": "あしゅら（女）\n{!R}よ～く考えるがいいわ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\n{!R}Think it over verrry carefully!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    2279
   ],
   "jp": "あしゅら（男）\n{!R}むろん 答えがノーなら…\n\n{!R}日本人が ひとり残らず\n死に絶えるまで！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\n{!R}Naturally, if the answer is no...\n\n{!R}until every last Japanese is dead and\ngone,",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    2280
   ],
   "jp": "あしゅら（女）\n{!R}機械獣が暴れまくるのよ！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\n{!R}the Mechanical Beasts will run wild!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    2281
   ],
   "jp": "あしゅら（男）\n{!R}イエスか！？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\n{!R}Yes!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    2282
   ],
   "jp": "あしゅら（女）\n{!R}ノーか！？",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\n{!R}Or no!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    2283
   ],
   "jp": "あしゅら（男）\n{!R}ワハハハハハハ…！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Male)\n{!R}Wahahahahaha...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    2284
   ],
   "jp": "あしゅら（女）\n{!R}ホホホホホホホ…！",
-  "en": "",
-  "status": "",
+  "en": "Ashura (Female)\n{!R}Hohohohohoho...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    2285
   ],
   "jp": "アナウンサー\n{!R}大変なことになりました！\n\n{!R}科学都市にいる 弓教授は\n果たしてどのような決断を…！？\n{!R}マジンガーＺは あしゅら男爵に\n奪われてしまうのでしょうか！？",
-  "en": "",
-  "status": "",
+  "en": "Announcer\n{!R}This is a terrible development!\n\n{!R}What will Professor Yumi in Science City\ndecide...!? {!R}Will Mazinger Z fall into\nBaron Ashura's hands!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    2286
   ],
   "jp": "兜甲児\nおのれ あしゅら男爵！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nDamn you, Baron Ashura!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    2287
   ],
   "jp": "{p}\n甲児君！ どこへ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nKoji-kun! Where are you going!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    2288
   ],
   "jp": "えん魔くん\n後を追おう！",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nLet's go after him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    2289
   ],
   "jp": "{s}\nうーん…\nはぁはぁ…",
-  "en": "",
-  "status": "",
+  "en": "{s}\nUhh... *pant, pant*...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    2290
   ],
   "jp": "兜甲児\n…なんとか飛べそうだぞ！\n\n俺は これから\n光子力研究所へ 行く！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\n...Looks like she'll still fly!\n\nI'm heading to the Photon Power Lab\nnow!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    2291
   ],
   "jp": "{p}\n弓教授に 相談したほうが\nいいんじゃない？\nそれに… 実は 僕達\n科学都市に行きたいんだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShouldn't you talk to Professor Yumi\nfirst? And besides... the truth is, we\nwant to go to Science City!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    2292
   ],
   "jp": "兜甲児\nなぜ？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nWhy?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    2293
   ],
   "jp": "{s}\n{p}…！",
-  "en": "",
-  "status": "",
+  "en": "{s}\n{p}...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    2294
   ],
   "jp": "{p}\n{s}…！？\nダメだよ 寝てなきゃ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{s}...!? No, you need to\nstay in bed!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    2295
   ],
   "jp": "えん魔くん\nふたりは一緒に この世界に\n飛ばされてきたんだ\nそして{s}は今\n原因不明の病気にかかっている…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nThose two got flung into this world\ntogether. And now {s}\nhas come down with some mystery\nillness...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    2296
   ],
   "jp": "兜甲児\nそれじゃ その子のために\n科学都市に…？\nよし 解った！\n一緒に 科学都市へ行こう！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nSo you want to go to Science City for\nher...? All right, got it! Let's go to\nScience City together!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    2297
   ],
   "jp": "{p}\n甲児君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nKoji-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    2298
   ],
   "jp": "兜甲児\n{s}は\nパイルダーに乗せて行くよ\n準備が出来たら 科学都市に向けて\n出発しよう\n用意が出来たら 声をかけてくれ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nI'll take {s} in the Pilder.\nOnce you're ready, we'll head out\nfor Science City. Just say the word\nwhen you're set.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    2299
   ],
   "jp": "兜甲児\n準備はいいかい？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nAll set?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    2300
   ],
   "jp": "兜甲児\nそれじゃ 出発しよう！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nThen let's go!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    2301
   ],
   "jp": "兜甲児\n用意が出来たら 声をかけてくれ",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nJust say the word when you're set.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    2320
   ],
   "jp": "{p}\n光子力研究所を\n機械獣が包囲してる…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe Mechanical Beasts are\nsurrounding the Photon Power Lab...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    2321
   ],
   "jp": "兜甲児\n機械獣め！ 科学都市から戻ったら\nやっつけてやる！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nDamn Mechanical Beasts! Once I'm back\nfrom Science City, I'll smash 'em!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    2322
   ],
   "jp": "兜甲児\n科学都市に着いたぞ！\n急いで弓教授を探そう！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nWe're in Science City! Let's find\nProfessor Yumi, quick!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    2323
   ],
   "jp": "研究員\n科学都市は 世界最大規模の\n研究都市さ\n最高峰の技術 設備 人材が\n揃ってるんだ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nScience City is the biggest research\ncity in the world. It's got the very\nbest technology, facilities and people.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    2324
   ],
   "jp": "研究員\n光子力研究所 機械獣に\n包囲されてる…って！？\n弓教授なら 大会議場だけど\nそのことを 知ってるのかな？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe Photon Power Lab is surrounded\nby Mechanical Beasts!? Professor\nYumi is at the Grand Conference Hall,\nbut does he know about it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    2325
   ],
   "jp": "研究員\n科学都市の北には\n大会議場 研究施設 医療施設と\n３つの施設が並んでいる\n覚えておくといいぞ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nNorth of Science City, three facilities\nstand side by side: the Grand\nConference Hall, the research facility\nand the medical facility. Best keep\nthat in mind.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    2326
   ],
   "jp": "研究員\nたとえ 機械獣によって\n世界が滅ぼされようとも…\n私は 研究を続けるのです！\n世界のために…！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nEven if the world is destroyed by\nMechanical Beasts... I shall continue\nmy research! For the sake of the\nworld...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    2327
   ],
   "jp": "研究員\nえ～と 円周率は およそ３だから…\n\nちょっと\n研究の邪魔しないでくれたまえ！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nLet's see, pi is roughly 3, so...\n\nExcuse me, kindly don't disturb my\nresearch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    2328
   ],
   "jp": "研究員\n研究資金が 豊富だからね\n仕事も はかどるよ！\nお金の出所は 知らないけどね\n興味ないから",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nResearch funding is plentiful, so the\nwork's going great! No idea where the\nmoney comes from, though. Not\ninterested.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    2329
   ],
   "jp": "研究員\nなんだか騒がしいね…？\nえ 機械獣！？\nふむ… どんな仕組みに\nなっているのか 興味あるな…",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nIt's kind of noisy...? Eh, Mechanical\nBeasts!? Hmm... I'm curious how they\nwork...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    2330
   ],
   "jp": "研究員\nなんか 柄の悪い男達が\nいましたねぇ\n一緒にいたのは\n見たことのある男だったなぁ…？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThere were some shady-looking men\naround. The man with them looked\nfamiliar, though...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    2331
   ],
   "jp": "研究員\n優秀な医者なら いっぱい いますよ\n\nでも 誰かの紹介がないと\n診察は無理だよ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThere are plenty of good doctors.\n\nBut you can't get an examination\nwithout someone's referral.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    2332
   ],
   "jp": "研究員\nえ！？ 弓教授に\nマジンガー引き渡し要求？\nそれは 教授には\n伝わってないんじゃないかな？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWhat!? A demand for Professor Yumi to\nhand over Mazinger? I don't think the\nprofessor's heard about that, has\nhe?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    2333
   ],
   "jp": "研究員\nこの研究成果が発表されたら\n世界中が驚くぞ！\nどんな内容かって？\nいえませんよ～ まだ…！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nWhen these research results are\npublished, the whole world will be\nstunned! What are they about? I can't\ntell you that... not yet!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    2334
   ],
   "jp": "研究員\nビバ 科学！ 研究しているときが\n一番 し・あ・わ・せ！\n他のことには 興味ないのです！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nViva science! I'm hap-pi-est when I'm\ndoing research! Nothing else\ninterests me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    2335
   ],
   "jp": "研究員\n計器の数値に 異常はないようだ",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe instrument readings look normal.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    2336
   ],
   "jp": "研究員\n大会議場が騒がしいけど\n何かあったのかな？",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe Grand Conference Hall sounds\nrowdy. I wonder if something\nhappened?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    2337
   ],
   "jp": "研究員\n見てくれ！\n新しい器材が届いたんだ！",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nLook at this! The new equipment just\narrived!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    2340
   ],
   "jp": "来留間源三\nこの来留間源三が\n自ら説明しているというのに\nどうして貴様らは\n理解出来んのだ！？",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nI, Genzo Kuruma, am explaining this\nmyself, so why can you fools not\nunderstand!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    2341
   ],
   "jp": "弓教授\nあなたの理論は認める！\n\nだが あなたがしようとしている\nことは 間違っている！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nI acknowledge your theory!\n\nBut what you are trying to do is wrong!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    2342
   ],
   "jp": "兜甲児\n弓教授！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nProfessor Yumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    2343
   ],
   "jp": "{p}\nあの人が 弓教授？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThat's Professor Yumi?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    2344
   ],
   "jp": "科学者\nひっこめ 来留間博士！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nSit down, Dr. Kuruma!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    2345
   ],
   "jp": "科学者\nそうだ そうだ！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nHear, hear!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    2346
   ],
   "jp": "来留間源三\nふん！\nやはり貴様らは 愚か者ばかりだ\n私の崇高な研究に\n賛同する者がいたら\n使ってやっても良いと\n思っていたが 見込み違いだった",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nHmph! You're all fools after all. I\nthought I might make use of anyone\nwho supported my lofty research, but\nI misjudged you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    2347
   ],
   "jp": "科学者\nなんだと！？ 失敬な！！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nWhat!? How rude!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    2348
   ],
   "jp": "科学者\n言葉をつつしめ！ 来留間博士！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nWatch your mouth, Dr. Kuruma!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    2349
   ],
   "jp": "科学者\nぶ～ぶ～！！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nBoo! Boo!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    2350
   ],
   "jp": "{p}\nなんだか 荒れ始めたね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThings are starting to get rough...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    2351
   ],
   "jp": "兜甲児\n困ったな 弓教授に近寄れる\n雰囲気じゃない…",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nUh-oh, it's not the kind of mood where\nwe can get near Professor Yumi...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    2352
   ],
   "jp": "弓教授\n科学の力で\n人は神にも悪魔にもなれる！\n神となり人類を救うことも！\n悪魔となり世界を滅ぼすことも！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nWith the power of science, man can\nbecome a god or a devil! A god who\nsaves mankind! Or a devil who destroys\nthe world!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    2353
   ],
   "jp": "来留間源三\n俺を悪魔と呼ぶか 弓教授！？",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nYou call me a devil, Professor Yumi!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    2354
   ],
   "jp": "来留間源三\nところで弓教授 悪魔が好むものが\n何か 知っているかね？",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nBy the way, Professor Yumi, do you\nknow what a devil enjoys?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    2355
   ],
   "jp": "弓教授\n…？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\n...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    2356
   ],
   "jp": "来留間源三\n悪魔が好むのは…\n血と絶望の叫びなのだ！",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nWhat a devil enjoys... is blood and\nscreams of despair!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    2357
   ],
   "jp": "来留間源三\n貴様ら 三流科学者は生きていても\n何の役にも立たん！\nせいぜい苦しんで\n俺を楽しませてくれ！\nはっはっはっは…！",
-  "en": "",
-  "status": "",
+  "en": "Genzo Kuruma\nThird-rate scientists like you are of\nno use alive! At least suffer and\nentertain me! Hahahaha...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    2358
   ],
   "jp": "科学者\nぎゃ～！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nGyaaah!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    2359
   ],
   "jp": "科学者\nうわ～！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nWhoaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    2360
   ],
   "jp": "科学者\nひえぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nEeeek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    2361
   ],
   "jp": "{p}\n大変だ！\n弓教授を助けなくっちゃ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh no! We've got to save Professor\nYumi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    2362
   ],
   "jp": "魔獣ハンター\nバカなヤツめ！\n来留間博士に逆らうとはな…！",
-  "en": "",
-  "status": "",
+  "en": "Demon Beast Hunter\nStupid fools! Defying Dr. Kuruma...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    2363
   ],
   "jp": "魔獣ハンター\n痛めつけてやるぜぇ～\nヒッヒッヒッヒ…！",
-  "en": "",
-  "status": "",
+  "en": "Demon Beast Hunter\nWe're gonna rough you up good... Hee\nhee hee hee...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    2364
   ],
   "jp": "弓教授\n君！ 助けてくれてありがとう！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nYou there! Thank you for saving me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    2365
   ],
   "jp": "兜甲児\n教授！ ご無事ですか！？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nProfessor! Are you all right!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    2366
   ],
   "jp": "弓教授\nあぁ 大丈夫だ！\n\nところで 甲児君\nどうして ここへ？",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nYes, I'm fine!\n\nBy the way, Koji-kun, what brings you\nhere?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    2367
   ],
   "jp": "謎の男\n…来留間源三は どこだ？",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Man\n...Where is Genzo Kuruma?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    2368
   ],
   "jp": "弓教授\n博士なら あっちのほうへ…",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nThe doctor went that way...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    2369
   ],
   "jp": "{p}\n行っちゃった…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHe's gone...",
+  "status": "done",
   "notes": ""
  }
 ]

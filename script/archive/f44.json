@@ -5,8 +5,8 @@
    10511
   ],
   "jp": "早乙女博士\nともかく リョウを ここから\n連れだそう",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nAnyway, let's get Ryo out of here.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    10512
   ],
   "jp": "隼人\n{!R}博士！ メカザウルスが\n研究所を襲ってきました！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\n{!R}Doctor! A Mechasaurus is attacking\nthe lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    10513
   ],
   "jp": "早乙女博士\nなんじゃと！\n\nえ～い せっかくリョウを\n救出したというのに！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWhat!?\n\nBlast it, just when we'd finally\nrescued Ryo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    10514
   ],
   "jp": "隼人\n{!R}リョウは無事なんですか！？",
-  "en": "",
-  "status": "",
+  "en": "Hayato\n{!R}Is Ryo okay!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    10515
   ],
   "jp": "早乙女博士\n無事だとも…\n記憶は失っているがな…！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHe's safe... Though he's lost his\nmemory...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    10516
   ],
   "jp": "隼人\n{!R}なんですって…！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\n{!R}What...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    10517
   ],
   "jp": "早乙女博士\n隼人 ジャガー号で科学都市まで\n来い！\nイーグル号にはムサシを乗せろ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHayato, come to Science City in the\nJaguar! Put Musashi in the Eagle!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    10518
   ],
   "jp": "隼人\n{!R}しかし それでは研究所を守る者が\nいなくなります！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\n{!R}But then there'll be nobody left to\nguard the lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    10519
   ],
   "jp": "早乙女博士\n構わん！ 急ぐのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nNever mind that! Hurry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    10520
   ],
   "jp": "早乙女博士\nベアー号に戻るぞ\n{p}！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nBack to the Bear, {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    10521
   ],
   "jp": "武蔵\nわはは！\nおまえ やはり生きとったか！\nおら うれしいぜ！ てっきり\n死んじゃったのかと思ってた！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nWahaha! I knew you was alive! I'm so\nhappy! I figured you was a goner for\nsure!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    10522
   ],
   "jp": "隼人\n博士 急いで研究所に戻らないと…",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nDoctor, we need to hurry back to the\nlab...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    10523
   ],
   "jp": "早乙女博士\nわかっておる！\n\nムサシ！ リョウを\nイーグル号に乗せるんじゃ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI know!\n\nMusashi! Put Ryo in the Eagle!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    10524
   ],
   "jp": "{p}\nでも博士！\nリョウさんは記憶喪失なんじゃ…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nBut Doctor! Ryo-san has amnesia...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    10525
   ],
   "jp": "早乙女博士\nイーグル号のパイロットは\nリョウしかいない！\n荒療治じゃが\nうまくすれば記憶が戻る！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nRyo is the only one who can pilot the\nEagle! It's rough treatment, but with\nluck his memory will come back!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    10526
   ],
   "jp": "{p}\nそんな！\n危険ですよ 早乙女博士！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo way! That's dangerous, Dr. Saotome!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    10527
   ],
   "jp": "隼人\n無駄だよ こと戦いに関して\n博士ほど非情な人はいないからな",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nSave your breath. When it comes to\nfighting, there's nobody more\nruthless than the doctor.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    10528
   ],
   "jp": "武蔵\nだからこそ\n頼りになるってもんだ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nThat's why we can count on him!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    10529
   ],
   "jp": "早乙女博士\nよし！\nゲットマシン 出撃じゃ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nGood! Getter Machines, launch!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    10530
   ],
   "jp": "早乙女博士\n頼みがある {p}！\n恐らく今頃 研究所は\nハチュウ人類に\n占領されてるはずじゃ\n下手をすると ゲッター線が\n暴走して大爆発するかもしれん！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI have a favor to ask,\n{p}! By now the lab has\nmost likely been occupied by the\nReptilians. If things go badly, the\nGetter Rays could run wild and cause\na huge explosion!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    10531
   ],
   "jp": "{p}\nなんですって！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    10532
   ],
   "jp": "早乙女博士\nそこで君に\n研究所を取り戻して欲しい！\nメカザウルスは\nゲッターが相手をする\nその隙をつくのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nSo I want you to take the lab back!\nGetter will handle the Mechasaurus.\nUse that opening!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    10533
   ],
   "jp": "{p}\nわかりました 早乙女博士！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nUnderstood, Dr. Saotome!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    10540
   ],
   "jp": "武蔵\nリョウ！ イーグル号に乗って\n何か思い出したかい？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nRyo! Remember anything, now you're in\nthe Eagle?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    10541
   ],
   "jp": "リョウ\nうぅ…",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nUgh...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    10542
   ],
   "jp": "隼人\n今のリョウに思い出せと言っても\n苦しめるだけだぞ ムサシ！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nTelling Ryo to remember right now is\nonly gonna torture him, Musashi!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    10543
   ],
   "jp": "武蔵\nでもよぉ…",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nBut still...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    10544
   ],
   "jp": "リョウ\n思い出さなくちゃ ならない大切な\nものが 頭のすみにあるんだ…\nこのマシンに乗ると 身体が\nゾクゾクと震えるのに…\nどうしても出てこねぇ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nThere's something important I gotta\nremember, in a corner of my head...\nWhen I ride this machine, my body\ntingles all over... but it just won't\ncome out!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    10545
   ],
   "jp": "武蔵\n………",
-  "en": "",
-  "status": "",
+  "en": "Musashi\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    10546
   ],
   "jp": "隼人\nメカザウルスが来たぞ！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nThe Mechasaurus is here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    10547
   ],
   "jp": "リョウ\nなんだ あの化けもんは！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nWhat's that monster!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    10548
   ],
   "jp": "隼人\nあれが俺達の敵\n恐竜帝国のメカザウルスだ！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nThat's our enemy, the Dinosaur\nEmpire's Mechasaurus!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    10549
   ],
   "jp": "リョウ\n俺達の…敵？",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nOur... enemy?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    10550
   ],
   "jp": "武蔵\n来るぜ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nHere it comes!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    10551
   ],
   "jp": "リョウ\n………来い！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\n.........Bring it on!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    10552
   ],
   "jp": "隼人\nリョウ！？",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nRyo!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    10553
   ],
   "jp": "武蔵\nそうこなくっちゃ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nNow that's more like it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    10554
   ],
   "jp": "リョウ\n思い出した…！\n\n俺は流竜馬…\nこのマシンはゲッターロボ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nI remember...!\n\nI'm Ryoma Nagare... and this machine is\nGetter Robo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    10555
   ],
   "jp": "武蔵\n記憶が戻ったのか リョウ！？",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nYour memory's back, Ryo!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    10556
   ],
   "jp": "リョウ\n戻ったとも はっきりとな！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nIt's back, all right, clear as day!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    10557
   ],
   "jp": "隼人\n早乙女博士の考えが\nズバリ的中したな",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nDr. Saotome's idea hit the bull's-eye.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    10558
   ],
   "jp": "リョウ\n博士は 今 どこに？",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nWhere's the doctor now?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    10559
   ],
   "jp": "隼人\n研究所に向かってる\n\nハチュウ人類から\n取り戻すためにな！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nHeaded for the lab.\n\nTo take it back from the Reptilians!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    10560
   ],
   "jp": "リョウ\nなんだって！？\nよし 急ぐぞ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nWhat!? All right, let's hurry!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    10561
   ],
   "jp": "ハチュウ人類\nゴール様 早乙女博士らが\nこの研究所に到着しました！",
-  "en": "",
-  "status": "",
+  "en": "Reptilian\nGore-sama, Dr. Saotome and the\nothers have arrived at the lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    10562
   ],
   "jp": "ゴール\nほう いよいよ来たか\n\n我々の計画を邪魔するヤツは\n許さん！\n誰であろうと\n葬り去ってやるのみだ！",
-  "en": "",
-  "status": "",
+  "en": "Gore\nOho, so they've come at last.\n\nI won't forgive anyone who interferes\nwith our plans! Whoever it is, I'll\nsimply bury them!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    10563
   ],
   "jp": "リョウ\nもうすぐ研究所だ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nThe lab's almost in sight!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    10564
   ],
   "jp": "武蔵\n急がねぇと 博士や {p}が\nやられちまうぜ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nIf we don't hurry, the doctor and\n{p} are gonna get\nwhacked!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    10565
   ],
   "jp": "リョウ\n{p}？\n誰だ それ？",
-  "en": "",
-  "status": "",
+  "en": "Ryo\n{p}? Who's that?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    10566
   ],
   "jp": "隼人\n説明は後だ！\nメカザウルスが来るぞ！",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nExplanations later! The Mechasaurus\nis coming!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    10567
   ],
   "jp": "リョウ\nあいつらが何者で\n俺が何をやらなければならないか\n戦いの中で思い出してやる！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nWho those things are and what I gotta\ndo, I'll remember in the middle of the\nfight!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    10570
   ],
   "jp": "ゴール\n死にに来たか 早乙女博士？",
-  "en": "",
-  "status": "",
+  "en": "Gore\nHave you come to die, Dr. Saotome?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    10571
   ],
   "jp": "{p}\nおまえが ゴールか！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSo you're Gore!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    10572
   ],
   "jp": "ゴール\nさよう 地底魔王ゴール\n全生物の支配者だ！\n武器を捨てて 私に従え",
-  "en": "",
-  "status": "",
+  "en": "Gore\nIndeed. Gore, Demon King of the\nUnderworld, ruler of all living things!\nThrow down your weapons and obey\nme.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    10573
   ],
   "jp": "早乙女博士\nふざけるな ゴール！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nDon't be absurd, Gore!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    10574
   ],
   "jp": "ゴール\nおまえ達 人類の繁栄の時は\n終わったのだ\n地球は新しい時代を迎える…\nハチュウ人類の時代を！",
-  "en": "",
-  "status": "",
+  "en": "Gore\nYour age of human prosperity is over.\nThe Earth is entering a new age...\nthe age of the Reptilians!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    10575
   ],
   "jp": "ゴール\nなかなかやるな\nだが…！\nサルに毛が生えた程度のきさまらの\n力で 私を倒せるものか！\nこの勝負 預けたぞ！",
-  "en": "",
-  "status": "",
+  "en": "Gore\nNot bad... But...! How could you, barely\nmore than hairy apes, ever defeat\nme! We'll settle this another time!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    10576
   ],
   "jp": "早乙女博士\n逃がすな！\nゴールを追うのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nDon't let him escape! After Gore!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    10580
   ],
   "jp": "ゴール\nこちらは ゴールだ！\nマシンランドウ 浮上せよ！\n………\n\nどうした？\n返答せい！",
-  "en": "",
-  "status": "",
+  "en": "Gore\nThis is Gore! Machineland, surface!\n.........\n\nWhat's wrong? Answer me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    10581
   ],
   "jp": "ハチュウ人類\n{!R}お気の毒ですが 帝王…\n\n{!R}我々は まもなく\nマグマ層に逃げこみます\n{!R}帝王を 待つ時間が\nなかったのです！！\n{!R}ゲッターの反撃にあい 帝国も\nかなりの深手を負いました\n{!R}このまま 闘い続けては\n帝国の死を 意味します\n{!R}帝王のために 全ハチュウ人類を\n犠牲にはできません！",
-  "en": "",
-  "status": "",
+  "en": "Reptilian\n{!R}We're very sorry, Emperor...\n\n{!R}We'll soon be fleeing into the magma\nlayer. {!R}We had no time to wait for you,\nEmperor!! {!R}Getter's counterattack has\ndealt the Empire a grievous wound.\n{!R}Fighting on like this would mean the\ndeath of the Empire. {!R}We cannot\nsacrifice all the Reptilians for the\nEmperor's sake!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    10582
   ],
   "jp": "ゴール\n何！？",
-  "en": "",
-  "status": "",
+  "en": "Gore\nWhat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    10583
   ],
   "jp": "ハチュウ人類\n{!R}我々は もう１度 地下に潜り\n力を蓄えます\n{!R}ハチュウ人類が 再び地上を\n征服することを夢見て！",
-  "en": "",
-  "status": "",
+  "en": "Reptilian\n{!R}We'll go underground once more and\nbuild up our strength. {!R}Dreaming of\nthe day the Reptilians conquer the\nsurface again!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    10584
   ],
   "jp": "ゴール\nわしを見捨てるのか！？",
-  "en": "",
-  "status": "",
+  "en": "Gore\nYou'd abandon me!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    10585
   ],
   "jp": "ハチュウ人類\n{!R}偉大なる帝王ゴールに栄光あれ！",
-  "en": "",
-  "status": "",
+  "en": "Reptilian\n{!R}Glory to the great Emperor Gore!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    10586
   ],
   "jp": "ゴール\n待て…！\n\n待ってくれ…！",
-  "en": "",
-  "status": "",
+  "en": "Gore\nWait...!\n\nPlease, wait...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    10587
   ],
   "jp": "早乙女博士\n置いてけぼりとは あわれだな\nゴールよ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nLeft behind... How pitiful, Gore.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    10588
   ],
   "jp": "ゴール\n黙れ！\n\nかくなるうえは ただ帝王として\nふさわしい死に方あるのみ！",
-  "en": "",
-  "status": "",
+  "en": "Gore\nSilence!\n\nNow all that's left is to die a death\nbefitting an emperor!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    10589
   ],
   "jp": "ゴール\nハチュウ人類は必ずや\nいつの日か地上に…戻る…！",
-  "en": "",
-  "status": "",
+  "en": "Gore\nThe Reptilians will surely, one day...\nreturn to the surface...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    10590
   ],
   "jp": "{p}\nゴール…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGore...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    10591
   ],
   "jp": "リョウ\n{!R}博士！ 研究所周辺の\nメカザウルスは片づけたぜ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo\n{!R}Doctor! We've wiped out the\nMechasaurus around the lab!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    10592
   ],
   "jp": "早乙女博士\nご苦労…\nゲッターロボ 帰還せよ…！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWell done... Getter Robo, return to\nbase...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    10593
   ],
   "jp": "？？？\nしょせん 下等生物…\n\nこうなることは\n当然の帰結だったのかもしれぬ…",
-  "en": "",
-  "status": "",
+  "en": "???\nLower life forms, after all...\n\nPerhaps this outcome was only\nnatural...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    10594
   ],
   "jp": "早乙女博士\n外は ゲッターに任せよう\n研究所を 取り戻すのが先だ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nLet's leave the outside to Getter.\nTaking back the lab comes first.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    10595
   ],
   "jp": "研究員\nゲットマシンは只今出撃中です\n今は中には入れません",
-  "en": "",
-  "status": "",
+  "en": "Researcher\nThe Getter Machines are out on a\nsortie right now. You can't go inside\nat the moment.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    10600
   ],
   "jp": "早乙女博士\nご苦労だった 諸君！\n\nこれで恐竜帝国の脅威から\n世界は救われた！\nそして{p}君！\nありがとう！ 君のおかげだ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nWell done, everyone!\n\nWith this, the world is saved from the\nthreat of the Dinosaur Empire! And\n{p}-kun! Thank you! It's\nall thanks to you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    10601
   ],
   "jp": "{p}\nそ そんな…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh, n-no...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    10602
   ],
   "jp": "リョウ\n君には世話になったみたいだな\n礼を言わせてくれ",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nLooks like I owe you one. Let me thank\nyou.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    10603
   ],
   "jp": "隼人\n困ったことがあったら 言ってくれ",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nIf you're ever in a jam, just say so.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    10604
   ],
   "jp": "武蔵\nゲッターチームは\nいつでも君の味方だ！",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nThe Getter Team's always on your side!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    10605
   ],
   "jp": "{p}\nうん！\nみんな ありがとう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah! Thanks, everyone!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    10606
   ],
   "jp": "早乙女博士\nそれでは みんな\nゲッターの整備にかかってくれ",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nNow then, everyone, get to work on\nGetter's maintenance.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    10607
   ],
   "jp": "リョウ\nえ～！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nWhaaat!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    10608
   ],
   "jp": "隼人\n今すぐですか 博士？",
-  "en": "",
-  "status": "",
+  "en": "Hayato\nRight now, Doctor?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    10609
   ],
   "jp": "武蔵\n腹減ったよ\n休ませてくれよぉ…",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nI'm starvin'... Lemme rest...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    10610
   ],
   "jp": "早乙女博士\nいつまた 地球に大きな危機が\n訪れるとも わからんからな",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThere's no telling when another great\ncrisis might come to Earth.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    10611
   ],
   "jp": "リョウ\nしょうがない…\nふたりとも行こうぜ…",
-  "en": "",
-  "status": "",
+  "en": "Ryo\nNo helping it... Let's go, you two...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    10612
   ],
   "jp": "武蔵\nおまえは いいよ！\n記憶を無くしてたんだから！\nこっちはホント クタクタだよ…",
-  "en": "",
-  "status": "",
+  "en": "Musashi\nEasy for you to say! You lost your\nmemory! Me, I'm plumb tuckered out...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    10613
   ],
   "jp": "{p}\n大きな危機…ですか 博士？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA great crisis... Doctor?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    10614
   ],
   "jp": "早乙女博士\n何を言わんとしているか\n解るな {p}？",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nYou understand what I'm getting at,\ndon't you, {p}?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    10615
   ],
   "jp": "{p}\nはい…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYes...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    10616
   ],
   "jp": "子郎\n{p}！\n科学都市から連絡が入ったぞ\n{s}が\n回復に向かっているそうだ！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\n{p}! Word came in from\nScience City. {s} is on\nthe road to recovery!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    10617
   ],
   "jp": "{p}\nホント！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nReally!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    10618
   ],
   "jp": "早乙女博士\nさすが\n世界最高峰の科学都市じゃ！\nだが その科学都市にも\n恐竜帝国が入り込んでいた",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nJust what you'd expect from Science\nCity, the finest in the world! But the\nDinosaur Empire had infiltrated even\nScience City.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    10619
   ],
   "jp": "{p}\nそれも…\n次元連鎖の影響なんでしょうか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIs that... the Dimension Chain's doing\ntoo?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    10620
   ],
   "jp": "早乙女博士\n解らん… 気になるのは\n来留間博士の動向だ…",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nI don't know... What concerns me is\nwhat Dr. Kuruma is up to...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    10621
   ],
   "jp": "{p}\n科学都市の会議場で\n騒動を起こした あの人ですか？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe man who caused that uproar in the\nScience City conference hall?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    10622
   ],
   "jp": "早乙女博士\n来留間博士には\n悪い噂が絶えん\nそのヤツが 戸来村の予知一族を\n追っているという噂がある",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nThere's no end of nasty rumors about\nDr. Kuruma. And there's a rumor he's\nchasing the Precog Clan of Herai\nVillage.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    10623
   ],
   "jp": "子郎\n戸来村の予知一族？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThe Precog Clan of Herai Village?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    10624
   ],
   "jp": "早乙女博士\n東北地方にある小さな村 戸来村は\n預言者集団…\nつまり\n超能力者の村と言われている",
-  "en": "",
-  "status": "",
+  "en": "Dr. Saotome\nHerai Village, a small village in the\nTohoku region, is said to be a village\nof prophets... in other words, a village\nof psychics.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    10625
   ],
   "jp": "{p}\n来留間博士が\nどうして戸来村を…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhy would Dr. Kuruma be after Herai\nVillage...?",
+  "status": "done",
   "notes": ""
  }
 ]

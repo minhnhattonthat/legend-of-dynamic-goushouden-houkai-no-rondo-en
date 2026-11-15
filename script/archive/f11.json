@@ -5,8 +5,8 @@
    2484
   ],
   "jp": "{p}\n閻魔大王様！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nGreat King Enma-sama!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    2485
   ],
   "jp": "えん魔くん\n地獄別荘を 光子力研究所の近くに\n移動してくれ！って頼んだんだ！\nそしたら ワシも行く！って\n言い出しちゃって…",
-  "en": "",
-  "status": "",
+  "en": "Enma-kun\nI asked him to move Hell Villa near the\nPhoton Power Lab! And then he goes,\n\"I'm coming too!\"...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    2486
   ],
   "jp": "閻魔大王\nシャッポじいからの\n報告を聞いたら\nいてもたっても\nいられなくなったのだ！",
-  "en": "",
-  "status": "",
+  "en": "Great King Enma\nWhen I heard Chapeau-jii's report, I\nsimply couldn't sit still!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    2487
   ],
   "jp": "{p}\nありがとう！ 閻魔大王様！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThank you, Great King Enma-sama!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    2488
   ],
   "jp": "閻魔大王\nわしも仲間に加えてくれ\n{p}よ！",
-  "en": "",
-  "status": "",
+  "en": "Great King Enma\nLet me join your party too,\n{p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    2489
   ],
   "jp": "{p}\nはい！ 喜んで！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYes! Gladly!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    2490
   ],
   "jp": "閻魔大王\nグワッハッハッハッ！",
-  "en": "",
-  "status": "",
+  "en": "Great King Enma\nGWAHAHAHAHA!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    2491
   ],
   "jp": "子郎\n僕も連れて行ってくれないかな？\n預言者に聞いてみたいんだ\n僕がいつ 鬼獄界に帰ることに\nなるのか…を",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nCould you take me with you too? I want\nto ask the prophet... when I'll have\nto go back to the Kigoku World.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    2492
   ],
   "jp": "{p}\nよし！ 一緒に行こうよ 子郎君！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAll right! Let's go together, Jiro-kun!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    2493
   ],
   "jp": "子郎\nありがとう",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThanks.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    2515
   ],
   "jp": "子郎\n準備はいいかい？\nそれじゃ 行こうか…！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nReady? Then let's go...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    2516
   ],
   "jp": "弓教授\n戸来村は ここから 北東\n科学都市 北の 小さな村だ\n来留間博士も\n予知一族を探している\nじゅうぶん\n気をつけてくれたまえ！",
-  "en": "",
-  "status": "",
+  "en": "Professor Yumi\nHerai Village is a small village\nnortheast of here, north of Science\nCity. Dr. Kuruma is searching for the\nPrecog Clan too. Be very careful!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    2531
   ],
   "jp": "兜甲児\n整備中の機械獣か？",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nA Mechanical Beast under\nmaintenance?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    2532
   ],
   "jp": "機械獣\nグガーーッ！！",
-  "en": "",
-  "status": "",
+  "en": "Mechanical Beast\nGUGAAAH!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    2533
   ],
   "jp": "兜甲児\nおっと！\n動き出しやがった！！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nWhoa! It started moving!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    2534
   ],
   "jp": "機械獣\nガーーーッ！！",
-  "en": "",
-  "status": "",
+  "en": "Mechanical Beast\nGAAAAH!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    2535
   ],
   "jp": "兜甲児\nどんなやつが来ても\nぶっとばしてやる！！",
-  "en": "",
-  "status": "",
+  "en": "Koji Kabuto\nI don't care what comes at me, I'll\nsmash it!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    2601
   ],
   "jp": "子郎\n寂しい村だな…",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWhat a lonely village...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    2602
   ],
   "jp": "{p}\nいかにも 預言者がいそうだね\n\nまずは 村の人達に\n話を聞いてみよう",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSure looks like a place a prophet\nwould live.\n\nLet's start by asking the villagers.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    2603
   ],
   "jp": "村人\n………",
-  "en": "",
-  "status": "",
+  "en": "Villager\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    2607
   ],
   "jp": "{p}\nダメだ… みんな 僕達を\n避けてるみたいだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo good... Everyone seems to be\navoiding us.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    2608
   ],
   "jp": "子郎\n避けてるというより…\n\n警戒してる…って感じだな",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nIt's less like avoiding us...\n\nand more like they're wary of us.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    2610
   ],
   "jp": "{p}\nうわっ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhoa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    2611
   ],
   "jp": "子郎\n何者！？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWho's there!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    2612
   ],
   "jp": "謎の少女\n…！\nあなた達は…！？",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Girl\n...! You are...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    2613
   ],
   "jp": "謎の少女\n予知一族を 探しているのね…",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Girl\nYou're looking for the Precog Clan...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    2614
   ],
   "jp": "{p}\n…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    2615
   ],
   "jp": "子郎\n僕達の心を読んだな！？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nYou read our minds!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    2616
   ],
   "jp": "謎の少女\nあなた達には 何かを感じるわ…\n朱紗君とは違う 何かの力を…",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Girl\nI sense something in you... A power\ndifferent from Shusha-kun's...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    2617
   ],
   "jp": "{p}\n何かを感じる…？\nそれに朱紗君って…？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou sense something...? And who's\nShusha-kun...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    2618
   ],
   "jp": "謎の少女\n驚かせてごめんなさい\n私は 美剣千草と言います",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Girl\nSorry to startle you. My name is\nChigusa Mitsurugi.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    2619
   ],
   "jp": "{p}\nあ ど ど～も\n{p}です",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh, h-h-hi. I'm {p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    2620
   ],
   "jp": "子郎\n手天童子郎です",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nI'm Jiro Shutendo.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    2621
   ],
   "jp": "美剣\n私は来たるべき災厄に備えて\n優秀な予知能力者を探しています",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI'm searching for gifted precognitives\nto prepare for a coming calamity.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    2622
   ],
   "jp": "{p}\n来るべき災厄？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA coming calamity?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    2623
   ],
   "jp": "美剣\n詳しいことは 言えません\nでも危機が迫っているのです\nそこで 戸来村に来たのですが…\n無駄でした\nここに予知一族は いません！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI can't tell you the details. But danger\nis drawing near. That's why I came to\nHerai Village... but it was no use. The\nPrecog Clan isn't here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    2624
   ],
   "jp": "{p}\n…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    2625
   ],
   "jp": "子郎\nそれで 何か知っているか\n僕達の心を 読んだんだね？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nSo you read our minds to see if we\nknew anything?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    2626
   ],
   "jp": "美剣\nお詫びしますわ\nごめんなさい",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI apologize. I'm sorry.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    2627
   ],
   "jp": "{p}\nいえ… その…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nNo... um...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    2628
   ],
   "jp": "子郎\nあなたは 信用できる人だ\nそのことだけは 僕にも解る",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nYou're someone who can be trusted.\nThat much even I can tell.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    2629
   ],
   "jp": "{p}\nう うん！\n僕もそう！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nY-yeah! Same here!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    2630
   ],
   "jp": "美剣\nくすっ… あなた達\nいい人達 みたいね！\nお詫びにお教えします\n\n予知一族最高の預言者・真理阿は\nここにはいません\n村から逃げ出したらしいの",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nTee-hee... You two seem like good\npeople! As an apology, I'll tell you.\n\nMaria, the Precog Clan's greatest\nprophet, isn't here. It seems she\nfled the village.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    2631
   ],
   "jp": "{p}\n真理阿って人は どこに行ったの？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhere did this Maria go?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    2632
   ],
   "jp": "美剣\n解らないの 村の人達も 真理阿の\n行方を 探してるらしいわ\n…！？",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI don't know. It seems the villagers are\nsearching for her too... ...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    2633
   ],
   "jp": "美剣\n私は これで失礼します\n\n機会があったら\nまたお逢いしましょう！",
-  "en": "",
-  "status": "",
+  "en": "Mitsurugi\nI'll be taking my leave now.\n\nIf the chance comes, let's meet again!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    2634
   ],
   "jp": "{p}\n消えちゃった…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nShe vanished...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    2635
   ],
   "jp": "子郎\n凄い超能力者だな…",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWhat an incredible psychic...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    2639
   ],
   "jp": "{p}\nう うわ～ 今度はなに！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWh-whoa, now what!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    2640
   ],
   "jp": "子郎\n誰だ！？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nWho's there!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    2641
   ],
   "jp": "謎の男\n寂しいところだな ここは…！",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Man\nWhat a lonely place this is...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    2642
   ],
   "jp": "子郎\nお おい！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nH-hey!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    2643
   ],
   "jp": "謎の男\n聞け！\n私の名前は 瓜生麗！",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Man\nListen! My name is Rei Uryu!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    2644
   ],
   "jp": "瓜生\nこの村は 私が買い取った！\nさっさと出て行きたまえ！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nI've bought this village! Kindly clear\nout at once!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    2645
   ],
   "jp": "村人\nひぇ～！",
-  "en": "",
-  "status": "",
+  "en": "Villager\nEeeek!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    2646
   ],
   "jp": "村人\nお おたすけ～！",
-  "en": "",
-  "status": "",
+  "en": "Villager\nH-help us!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    2647
   ],
   "jp": "瓜生\nふん！\n力も無いヤツらに用は無い！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nHmph! I've no use for the powerless!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    2648
   ],
   "jp": "瓜生\nほう… これはこれは…\nはじめまして 私の名前は…",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nOh my... Well, well... How do you do, my\nname is...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    2649
   ],
   "jp": "子郎\n瓜生麗…だろ？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nRei Uryu, right?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    2650
   ],
   "jp": "瓜生\nほう？ なぜ私の名を…？\nもしや 君達は超能力者！？",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nOh? How do you know my name...? Could\nit be you're psychics!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    2651
   ],
   "jp": "{p}\nさっき 自分で名乗ったじゃん…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYou just told us yourself a second\nago...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    2652
   ],
   "jp": "瓜生\n…！\n美剣千草が ここに来たのか",
-  "en": "",
-  "status": "",
+  "en": "Uryu\n...! So Chigusa Mitsurugi came here.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    2653
   ],
   "jp": "子郎\nこの男も 超能力者らしいぞ？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nLooks like this guy's a psychic too...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    2654
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    2655
   ],
   "jp": "瓜生\nはっ！ これは面白い！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nHa! Now this is interesting!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    2656
   ],
   "jp": "瓜生\n君達には 何か不思議な力を\n感じる！\nまるで 彼のような…",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nI sense some strange power in you!\nAlmost like his...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    2657
   ],
   "jp": "瓜生\nいや 朱紗真悟とも違うようだ…",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nNo, it seems different from Shingo\nShusha's too...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    2658
   ],
   "jp": "子郎\n聞いたか？\nまた朱紗って名前が出たぞ…？",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nDid you hear that? The name Shusha\ncame up again...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    2659
   ],
   "jp": "{p}\nうん いったい 朱紗って人は…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nYeah. Who is this Shusha anyway...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    2660
   ],
   "jp": "瓜生\nともかく！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nIn any case!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    2661
   ],
   "jp": "瓜生\nここに真理阿はいない！\n\n君達には 非常に\nそそられるものが あるが\n私にとって 真理阿を見つける\nことが最優先！ 悪く思うな！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nMaria is not here!\n\nYou two intrigue me greatly, but\nfinding Maria is my top priority! No\nhard feelings!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    2662
   ],
   "jp": "子郎\n…別にいいんだけど…",
-  "en": "",
-  "status": "",
+  "en": "Jiro\n...Fine by us, but...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    2663
   ],
   "jp": "瓜生\n最後に忠告しよう…\n\n美剣千草には\n関らないほうが身のためだ…！",
-  "en": "",
-  "status": "",
+  "en": "Uryu\nA final word of advice...\n\nFor your own good, stay away from\nChigusa Mitsurugi...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    2664
   ],
   "jp": "子郎\n美剣千草… 瓜生麗…\nふたりとも なんて超能力者だ！\nしかも彼らは 鬼の血を継ぐ者じゃ\nないようだ！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nChigusa Mitsurugi... Rei Uryu... What\npsychics, the both of them! And they\ndon't seem to have oni blood!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    2665
   ],
   "jp": "{p}\nそれに… ふたりとも\n朱紗って人の名前を口にしたね…",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAnd... they both mentioned that\nShusha guy...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    2666
   ],
   "jp": "子郎\n気になるな…\n\nそれに ふたりとも この村に\n真理阿はいないって言ってた…",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nIt bugs me...\n\nAnd they both said Maria isn't in this\nvillage...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    2668
   ],
   "jp": "子郎\n気をつけろ {p}！",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nLook out, {p}!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    2669
   ],
   "jp": "不死団\nイヤッホ～！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nYahooo!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    2670
   ],
   "jp": "不死団\n壊せ 壊せ ぶち壊せ～っ！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nSmash it, smash it, smash it all to bits!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    2671
   ],
   "jp": "不死団\nこんな村\nきれいさっぱり壊しちまえ～っ！",
-  "en": "",
-  "status": "",
+  "en": "Immortal Corps\nWreck this whole village clean off the\nmap!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    2672
   ],
   "jp": "{p}\n村の人達が危ない！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe villagers are in danger!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    2680
   ],
   "jp": "村人\nあ あんたがた…\nオラが村を 助けてくれて…",
-  "en": "",
-  "status": "",
+  "en": "Villager\nY-you folks... savin' our village...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    2681
   ],
   "jp": "村人\nすまんこってす！\nありがと！ ありがと！\nオラ達に出来ることがあったら\n遠慮なく言ってくだせぇ！",
-  "en": "",
-  "status": "",
+  "en": "Villager\nWe're much obliged! Thank ya! Thank\nya! If there's anythin' we can do fer\nya, don't be shy!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    2682
   ],
   "jp": "子郎\n村の人達が せっかく 心を\n開いてくれたんだ\n何か聞けるといいんだが…",
-  "en": "",
-  "status": "",
+  "en": "Jiro\nThe villagers finally opened up to us. I\nhope we can learn something...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    2683
   ],
   "jp": "村人\n予知一族の末裔・真理阿と富三郎は\nある日 突然 逃げるように\n村から いなくなって\nしまったのですじゃ",
-  "en": "",
-  "status": "",
+  "en": "Villager\nMaria and Tomisaburo, the last of the\nPrecog Clan, up and left the village\none day, like they was runnin' away.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    2684
   ],
   "jp": "村人\n預言者としての真理阿は\nそりゃ～ すげかった！\nあんな預言者は\nもう二度と出ねぇべさ",
-  "en": "",
-  "status": "",
+  "en": "Villager\nMaria was a mighty fine prophet, she\nwas! Ain't never gonna be another\none like her.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    2685
   ],
   "jp": "村人\n真理阿の力を利用しようとしている\n悪いヤツがいるべさ\nそいつから\n真理阿は逃げたんじゃよ きっと",
-  "en": "",
-  "status": "",
+  "en": "Villager\nThere's a bad sort out to use Maria's\npower, I reckon. She ran off to get\naway from him, sure as anythin'.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    2686
   ],
   "jp": "村人\n真理阿には 恋人がいるべさ\n\n真理阿は逃げたんじゃなく\n恋人と 駆け落ちしたんだべ",
-  "en": "",
-  "status": "",
+  "en": "Villager\nMaria's got herself a sweetheart,\ny'know.\n\nShe didn't run off, she eloped with him,\nI reckon.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    2687
   ],
   "jp": "村人\nなんでこんな人里離れた場所に\n村があるのかって？\nそりゃ あんた！\n人目につかんようするためだべ！",
-  "en": "",
-  "status": "",
+  "en": "Villager\nWhy's there a village way out in the\nsticks like this? Well, I'll tell ya! It's\nso nobody'd see it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    2688
   ],
   "jp": "村人\nおんや～ どうしたこった？\n\n雪解けの季節でもねぇだに\n川の水が増えてるべ？",
-  "en": "",
-  "status": "",
+  "en": "Villager\nWell, I'll be, what's goin' on?\n\nIt ain't snowmelt season, but the\nriver's risin'?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    2690
   ],
   "jp": "シャフト博士\nもう少しで 洪水発生装置は\n完成だな！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Shaft\nThe Flood Generator is nearly\ncomplete!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    2691
   ],
   "jp": "助手\nシャフト博士 最大出力時テストの\n準備が出来ました",
-  "en": "",
-  "status": "",
+  "en": "Assistant\nDr. Shaft, we're ready for the maximum\noutput test.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    2692
   ],
   "jp": "助手\n村を押し流す洪水を起こせれば\n実験は成功です！",
-  "en": "",
-  "status": "",
+  "en": "Assistant\nIf we can make a flood that washes\naway the village, the experiment's a\nsuccess!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    2693
   ],
   "jp": "シャフト博士\n見せしめとしては 最適だな！\n\nこれで あの女も 少しは考えを\n改めると良いのだが…\nよし やれ！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Shaft\nThe perfect example to make of them!\n\nI do hope it makes that woman\nreconsider a little... Very well, do it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    2694
   ],
   "jp": "{p}\nやめろ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nStop!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    2695
   ],
   "jp": "シャフト博士\nなんだ おまえらは！？\nん？ もしや…？\nおまえらか！ 科学都市で\n来留間博士の邪魔をしたのは！\n私達の 神聖な目的を\n邪魔するとは おろかな…\n見せてやろう\n私の実験の結果を…\n出てこい 息子達よ！！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Shaft\nWho are you people!? Hm? Could it\nbe...? It's you! You're the ones who\ngot in Dr. Kuruma's way in Science City!\nFools, to interfere with our sacred\ngoal... Let me show you the results of\nmy experiments... Come forth, my\nsons!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    2696
   ],
   "jp": "{p}\n…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    2697
   ],
   "jp": "シャフト博士\n私の体の中には\n多くの息子達がいるのだ\n私の邪魔をする者は\n息子達が 排除する！\nやれ！ 息子達よ！！",
-  "en": "",
-  "status": "",
+  "en": "Dr. Shaft\nInside my body are many sons. My sons\nwill eliminate anyone who gets in my\nway! Get them, my sons!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    2698
   ],
   "jp": "{p}\nこれじゃ キリがない…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAt this rate, there's no end to them...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    2699
   ],
   "jp": "謎の男\nシャフト…！",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Man\nShaft...!",
+  "status": "done",
   "notes": ""
  }
 ]

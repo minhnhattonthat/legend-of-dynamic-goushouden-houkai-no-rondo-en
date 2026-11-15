@@ -5,8 +5,8 @@
    8334
   ],
   "jp": "アイアンカイザー\n少年よ！\nおまえと共に行こう！\nおまえは 俺に パワーアップする\n意欲を与えてくれた！\nだが 手天童子と手を組むのは\nごめんだぞ！",
-  "en": "",
-  "status": "",
+  "en": "Iron Kaiser\nBoy! I'll go with you! You've given me\nthe will to power up! But I refuse to\nteam up with the Shutendoji!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    8335
   ],
   "jp": "\n巨大兵器を 渡しますか？",
-  "en": "",
-  "status": "",
+  "en": "\nHand over the giant weapon?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    8336
   ],
   "jp": "科学者\n今 この中では\n手術が行われている…\nこの手術が終わったとき…\n人々は科学の偉大さを知るのだ！",
-  "en": "",
-  "status": "",
+  "en": "Scientist\nAn operation is underway in here right\nnow... When this operation is over...\npeople will know the greatness of\nscience!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    8337
   ],
   "jp": "{p}\nアイアンカイザー？\n\nダメだ\n考えに夢中で 話を聞いてないや",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIron Kaiser?\n\nNo good. He's so wrapped up in his\nthoughts, he's not listening.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    8338
   ],
   "jp": "アイアンカイザー\nその兵器は！？\n\nそれさえあれば\n更にパワーアップができる！",
-  "en": "",
-  "status": "",
+  "en": "Iron Kaiser\nThat weapon!?\n\nWith that, I could power up even more!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    8339
   ],
   "jp": "{p}\n（邪腕坊苦海…？\n\n暗黒寺への途中で 僕らを襲った\n鬼の子孫の人だ…\nこの人 きっとあの時\n近くで 戦いを見てたんだ…）",
-  "en": "",
-  "status": "",
+  "en": "{p}\n(Kukai Jawanbo...?\n\nThat's the oni descendant who\nattacked us on the way to the Dark\nTemple... This guy must have been\nwatching the fight from nearby...)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    8340
   ],
   "jp": "アイアンカイザー\nおや？ 貴様 手天童子郎と\n一緒にいた少年だな？",
-  "en": "",
-  "status": "",
+  "en": "Iron Kaiser\nOh? You're the boy who was with Jiro\nShutendo, aren't you?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    8601
   ],
   "jp": "登山者\nここから西に行くと\n日本アルプスへの登山道があるよ",
-  "en": "",
-  "status": "",
+  "en": "Climber\nHead west from here and you'll find\nthe trail up into the Japanese Alps.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    8602
   ],
   "jp": "登山者\n最近は 山の天候が\n悪くなるばかり…\nまるで 人が近づくのを\n拒んでるようだな",
-  "en": "",
-  "status": "",
+  "en": "Climber\nLately the mountain weather just\nkeeps getting worse... It's like it's\ntrying to keep people away.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    8603
   ],
   "jp": "登山者\n青い顔した兄ちゃんが 登山道の\nほうへ 行くのを見かけたんだ\n「誰だ 俺を呼ぶのは誰だ！？」\nとかってブツブツ言ってたな",
-  "en": "",
-  "status": "",
+  "en": "Climber\nI saw a pale-faced young fella\nheading for the trail. He was\nmuttering, \"Who's there? Who's calling\nme!?\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    8604
   ],
   "jp": "{p}\nここには誰もいないや",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThere's nobody here.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    8605
   ],
   "jp": "{p}\n写真だ… かわいい女の子だな\n「妹・沙織と」…\n！？\n日記もある\n宇津木涼…\nお兄さんの日記だ…\n読んじゃおう…かな",
-  "en": "",
-  "status": "",
+  "en": "{p}\nA photo... What a cute girl. \"With my\nsister Saori\"... !? There's a diary\ntoo. Ryo Utsugi... It's her brother's\ndiary... Should I... read it?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    8606
   ],
   "jp": "{p}\nなになに…\n\n「また 同じ夢を見た\n\nもう１ヶ月以上\n同じ夢が続いている\n巨大なクレバスの中で\n氷に埋もれた 大怪物の夢\n悪魔が人間を襲い 食らう夢…\n悪魔の顔が 俺の顔に変る！\n俺の身体が 巨大化する！」",
-  "en": "",
-  "status": "",
+  "en": "{p}\nLet's see...\n\n\"I had the same dream again.\n\nThe same dream for over a month now.\nA dream of a huge monster buried in\nice inside a giant crevasse. A dream of\na devil attacking and devouring\npeople... The devil's face turns into\nmy face! My body grows enormous!\"",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    8607
   ],
   "jp": "{p}\n「声に導かれて\nとうとう雪山まで来てしまった\n気のせいか 西の方角から\n声がするようだ\nこれから\n西に向かってみようと思う\nそして… 早く 沙織の待つ家に\n帰りたい…」\n西に向かってみる…\n家に帰りたい…\n宇津木さん…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n\"Led by the voice, I've finally come all\nthe way to the snowy mountains.\nMaybe it's my imagination, but the voice\nseems to come from the west. I think\nI'll head west now. And then... I want to\nhurry home to Saori, who's waiting...\"\nHead west... Want to go home...\nUtsugi-san...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    8608
   ],
   "jp": "{p}\n人の日記を\n黙って読むのはよくないな",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's not right to read someone's diary\nwithout asking.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    8609
   ],
   "jp": "{p}\n宇津木さんの日記だ\nやっぱり読もうかな？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt's Utsugi-san's diary. Should I read it\nafter all?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    8610
   ],
   "jp": "{p}\n吹雪が渦を巻いてる！？\n\n渦の真ん中に ぽっかりと\n無風の道が 出来てるみたいだ",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThe blizzard's swirling!?\n\nThere seems to be a windless path\nopen right in the middle of the\nvortex.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    8611
   ],
   "jp": "登山者\n噂だけど 登山道で\n化け物を見たやつがいるらしい\nまるで\n悪魔のような姿だったとか…",
-  "en": "",
-  "status": "",
+  "en": "Climber\nIt's just a rumor, but somebody saw a\nmonster on the trail. It looked just\nlike a devil, they say...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    8612
   ],
   "jp": "登山者\n登山道の奥には洞窟があるらしいが\n命が惜しいなら近づくなよ\nあそこに入って 生きて帰ってきた\n奴は いないんだ",
-  "en": "",
-  "status": "",
+  "en": "Climber\nThey say there's a cave at the end of\nthe trail, but if you value your life,\nstay away. Nobody who's gone in there\nhas come back alive.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    8620
   ],
   "jp": "{p}\nここは… どこだろう？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhere... is this?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    8621
   ],
   "jp": "？？？\nヒマラヤ山脈の奥地よ…",
-  "en": "",
-  "status": "",
+  "en": "???\nThe depths of the Himalayas...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    8622
   ],
   "jp": "メドッサ\n私はメドッサ\n\n魔王ダンテの恋人にして\nダンテを護る者…",
-  "en": "",
-  "status": "",
+  "en": "Medossa\nI am Medossa.\n\nThe lover of Demon Lord Dante, and\nhis protector...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    8623
   ],
   "jp": "{p}\n魔王ダンテ？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nDemon Lord Dante?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    8624
   ],
   "jp": "メドッサ\nダンテは百万年もの間\nテレパシーで呼び続けた",
-  "en": "",
-  "status": "",
+  "en": "Medossa\nFor a million years, Dante has called\nout by telepathy.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    8625
   ],
   "jp": "{p}\n百万年間 テレパシーで\n呼び続けた…だって？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nHe's been calling by telepathy for a\nmillion years...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    8626
   ],
   "jp": "メドッサ\nとうとう それに答え\nここまで来ることの出来る\n若者が 現れたのだ\nダンテの目覚めは近い！\n引き返せ！\n\nさもなくば\nお前は 死ぬことになる…",
-  "en": "",
-  "status": "",
+  "en": "Medossa\nAt last a young man has appeared who\nanswered, and was able to come this\nfar. Dante's awakening is near! Turn\nback!\n\nOtherwise, you will die...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    8627
   ],
   "jp": "{p}\n…ダメだ 扉が開かない\nこっちは あきらめよう",
-  "en": "",
-  "status": "",
+  "en": "{p}\n...No good, the door won't open. Let's\ngive up on this one.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    8628
   ],
   "jp": "{p}\n凄い設備だ… もしかして\n科学都市より 進んでる？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWhat amazing equipment... Could it be\nmore advanced than Science City?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    8629
   ],
   "jp": "{p}\nモニターに何かうつったぞ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nSomething came up on the monitor!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    8630
   ],
   "jp": "若い男\nどこだ！ どこにいる！？",
-  "en": "",
-  "status": "",
+  "en": "Young Man\nWhere!? Where are you!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    8631
   ],
   "jp": "謎の声\n宇津木涼！\n魔王ダンテの協力者よ！\n力を貸すのだ！",
-  "en": "",
-  "status": "",
+  "en": "Mysterious Voice\nRyo Utsugi! Ally of Demon Lord Dante!\nLend me your strength!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    8632
   ],
   "jp": "ダンテ\n私は 閉じ込められている…\n氷の中に！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nI am imprisoned... in the ice!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    8633
   ],
   "jp": "宇津木涼\n氷の中？ …夢で見たぞ！\n夢の中で おまえの姿を見たぞ！\nおまえは怪物だ！\n魔王ダンテ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nIn the ice? ...I saw it in my dream! I saw\nyou in my dream! You're a monster!\nDemon Lord Dante!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    8634
   ],
   "jp": "ダンテ\n違う 私は人間だ！\n人間の心と 理性を持っている！\n宇津木涼！\n魔王ダンテの協力者よ！\n力を貸すのだ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nNo, I am human! I have a human heart\nand human reason! Ryo Utsugi! Ally of\nDemon Lord Dante! Lend me your\nstrength!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    8635
   ],
   "jp": "宇津木涼\n俺は… 協力者…",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nI'm... an ally...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    8636
   ],
   "jp": "ダンテ\nおまえは ダンテのために\n力をかさねばならない！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nYou must lend your strength to Dante!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    8637
   ],
   "jp": "宇津木涼\n俺は… 力を貸さねばならない…\n\nそうだ 俺は 力を貸さねば\nならないんだ… ダンテに！！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nI... must lend my strength...\n\nYes, I must lend my strength... to\nDante!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    8638
   ],
   "jp": "ダンテ\nその機械を壊すのだ！\nダンテの力を封じる機械を！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nDestroy that machine! The machine\nthat seals Dante's power!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    8639
   ],
   "jp": "宇津木涼\nうおおおおおお～！！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nRAAAAAAAAH!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    8640
   ],
   "jp": "{p}\n大変だ！\nあの人 心を操られているみたい！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh no! It looks like that guy's mind is\nbeing controlled!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    8641
   ],
   "jp": "{p}\nモニターに文字が出てきた…\nなになに？\n拘束装置強制解除！？\n\n補助動力を稼働させないと\n魔王ダンテが復活する…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nWords came up on the monitor... Let's\nsee? Forced release of restraint\nsystem!?\n\nIf the auxiliary power isn't started,\nDemon Lord Dante will revive...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    8642
   ],
   "jp": "{p}\n開かない！？ どこかに\nスイッチがあるはずだ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nIt won't open!? There must be a switch\nsomewhere!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    8643
   ],
   "jp": "宇津木涼\n{!R}うわああああああ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\n{!R}Whoaaaaaaa!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    8644
   ],
   "jp": "ダンテ\n宇津木涼！\n私がダンテ 魔王ダンテだ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nRyo Utsugi! I am Dante, Demon Lord\nDante!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    8645
   ],
   "jp": "宇津木涼\nき きさま 俺の心を操ったな！\n\n俺の心をねじ曲げて\n協力させたな！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nY-you controlled my mind!\n\nYou twisted my mind and made me help\nyou!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    8646
   ],
   "jp": "ダンテ\n心を操られるのは\nおまえの心が 弱いからだ！\nガハハハハハ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nYour mind was controlled because\nyour heart is weak! Gahahahahaha!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    8647
   ],
   "jp": "ダンテ\n宇津木涼 協力を感謝する！\n\n魔王ダンテを\nよくぞ蘇らせてくれた！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nRyo Utsugi, I thank you for your help!\n\nYou did well to revive Demon Lord\nDante!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    8648
   ],
   "jp": "宇津木涼\n現世に蘇り何をしようというのだ\n魔王ダンテ！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nWhat do you mean to do now that\nyou've come back to this world,\nDemon Lord Dante!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    8649
   ],
   "jp": "ダンテ\nまずは… おまえを食う！\n\nそして 地上に存在する\nすべての人間を滅ぼす！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nFirst... I'll eat you!\n\nThen I'll wipe out every human on the\nface of the earth!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    8650
   ],
   "jp": "宇津木涼\n人類を滅ぼすために 俺を…\n利用した…のか！？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nYou used me... to wipe out humanity!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    8651
   ],
   "jp": "ダンテ\n魔王ダンテにとって\n人間は敵なのだ！\n全世界の人間がな！\n手始めに… 貴様だ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nTo Demon Lord Dante, humans are the\nenemy! All the humans in the world!\nStarting... with you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    8652
   ],
   "jp": "{p}\n大変だ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\nOh no!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    8653
   ],
   "jp": "{p}\nこれは！ さっき 宇津木さんが\n着ていた服…！？\nはっ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nThis is...! The clothes Utsugi-san was\nwearing just now...!? Huh!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    8654
   ],
   "jp": "ダンテ\n俺は… 生きているのか？\nなぜだ！？\n俺は\n怪物に 食い殺されたはずだ…",
-  "en": "",
-  "status": "",
+  "en": "Dante\nI'm... alive? Why!? I should have been\neaten alive by the monster...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    8655
   ],
   "jp": "ダンテ\nこの身体は！ あの悪魔の姿！\n\n俺は… もはや 宇津木涼では\nないのか！？\n俺は… 魔王ダンテに\nなってしまったのか！？",
-  "en": "",
-  "status": "",
+  "en": "Dante\nThis body! It's that devil's form!\n\nAm I... no longer Ryo Utsugi!? Have I...\nbecome Demon Lord Dante!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    8656
   ],
   "jp": "ダンテ\nグオオオオオオ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nGUOOOOOOOH!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    8657
   ],
   "jp": "{p}\n{!R}（う 宇津木さん…）",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}(U-Utsugi-san...)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    8658
   ],
   "jp": "ダンテ\nくっくっくっく…\nくっくっくっく…\nガッハッハッハッハ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nHeh heh heh heh... Heh heh heh heh...\nGahahahahaha!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    8659
   ],
   "jp": "ダンテ\nワッハハハハハ！\n俺はもう 人間じゃない！\n俺は化け物だ 俺は悪魔だ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nWahahahahaha! I'm not human anymore!\nI'm a monster, I'm a devil!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    8661
   ],
   "jp": "{p}\nこの機械 もしかして\n補助動力のスイッチ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nCould this machine be the auxiliary\npower switch!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    8662
   ],
   "jp": "{p}\nよし！ 動くぞ！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\nAll right! It's working!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    8663
   ],
   "jp": "{p}\n{!R}…！\nまた モニターに文字が…！？\n{!R}補助動力始動開始…って\nちょっとちょっと！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}...! More words on the monitor...!?\n{!R}Auxiliary power startup initiated...\nHey, wait a minute!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    8664
   ],
   "jp": "ダンテ\n貴様 誰だ…？\nどこで見ている…！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nWho are you...? Where are you\nwatching from...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    8665
   ],
   "jp": "{p}\n{!R}(…！)",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}(...!)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    8666
   ],
   "jp": "ダンテ\nいや 誰であろうと どうでもいい\n頼みがある\n…俺を殺してくれ",
-  "en": "",
-  "status": "",
+  "en": "Dante\nNo, it doesn't matter who you are. I\nhave a favor to ask... Kill me.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    8667
   ],
   "jp": "{p}\n{!R}え…！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}What...!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    8668
   ],
   "jp": "ダンテ\n俺の このおぞましい姿を\nこの世から消してくれ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nErase this hideous form of mine from\nthe world!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    8669
   ],
   "jp": "{p}\n{!R}そ そんなこと…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}I-I can't do that...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    8670
   ],
   "jp": "ダンテ\nどうした 殺せないのか？\n消せないのか？\n貴様が 俺を消せないのなら\n俺が 貴様らを消してやる！\nひとり残らず\n全世界から消してやる！\n人間 ひとり残らず！！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nWhat's wrong, can't you kill me? Can't\nerase me? If you can't erase me,\nthen I'll erase all of you! Every last\none, from the whole world! Every last\nhuman!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    8671
   ],
   "jp": "ダンテ\nグオオオオオオ！\n\nこ これは 冷凍ガス…！\nそうだ これで…これでいい…！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nGUOOOOOOOH!\n\nTh-this is freezing gas...! Yes, with\nthis... this is good...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    8672
   ],
   "jp": "ダンテ\nグルルル… おのれ…！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nGrrrr... Curse you...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    8673
   ],
   "jp": "ダンテ\nこれで 俺は…再び 氷の中に…！\n\nグオオオオオオ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nWith this, I'll be... back in the ice...!\n\nGUOOOOOOOH!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    8674
   ],
   "jp": "ダンテ\n……………",
-  "en": "",
-  "status": "",
+  "en": "Dante\n...............",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    8675
   ],
   "jp": "{p}\n{!R}（完全に 氷に\n閉じ込められちゃったみたいだ\n{!R}ごめん 宇津木さん…\n僕 何も出来なかった…！）",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}(Looks like he's completely sealed in\nthe ice. {!R}I'm sorry, Utsugi-san... I\ncouldn't do anything...!)",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    8676
   ],
   "jp": "{p}\n{!R}…あれ？ 宇津木涼…？\n聞き覚えがある…\n{!R}…そうだ！\nテントの中で呼んだ日記の人！\n{!R}氷に埋もれた 大怪物の夢のこと…\n声によばれて ここに来たこと…\n{!R}そして 早く 沙織さんの待つ家に\n帰りたいって…",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}...Huh? Ryo Utsugi...? I've heard that\nname... {!R}...That's it! The guy whose\ndiary I read in the tent! {!R}The dream of a\nhuge monster buried in ice... being\ncalled here by a voice... {!R}And wanting\nto hurry home to Saori-san, who's\nwaiting...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    8677
   ],
   "jp": "ダンテ\n沙織…？\n\n沙織… 俺の妹…",
-  "en": "",
-  "status": "",
+  "en": "Dante\nSaori...?\n\nSaori... my sister...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    8678
   ],
   "jp": "{p}\n{!R}そうだよ 宇津木さん！\n\n{!R}妹さんまで\nこの世界から消すつもりかい！？",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}That's right, Utsugi-san!\n\n{!R}Are you going to erase your sister\nfrom the world too!?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    8679
   ],
   "jp": "ダンテ\n………",
-  "en": "",
-  "status": "",
+  "en": "Dante\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    8680
   ],
   "jp": "ダンテ\n俺の この姿 この力…\nもはや俺は化け物だ！ 悪魔だ！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nThis form, this power... I'm a monster\nnow! A devil!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    8681
   ],
   "jp": "{p}\n{!R}宇津木さん！\n僕の話しを聞いてくれ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}Utsugi-san! Listen to me!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    8682
   ],
   "jp": "ダンテ\n…次元連鎖だって？\n\nこのままでは世界が滅ぶ…\nそれならば それで良い！",
-  "en": "",
-  "status": "",
+  "en": "Dante\n...The Dimension Chain?\n\nAt this rate the world will be\ndestroyed... Then so be it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    8683
   ],
   "jp": "{p}\n{!R}そんな…！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}You can't mean that...!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    8684
   ],
   "jp": "ダンテ\nこの醜い姿が地上から消えるなら…",
-  "en": "",
-  "status": "",
+  "en": "Dante\nIf it means this ugly form disappears\nfrom the earth...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    8685
   ],
   "jp": "{p}\n{!R}妹さんも\n消えちゃうかもしれないんだよ！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}Your sister might disappear too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    8686
   ],
   "jp": "ダンテ\n…そうだ\n君の言う通りだ…\nこれは 俺の身に起きた悲劇\n沙織は なんの関係もない！",
-  "en": "",
-  "status": "",
+  "en": "Dante\n...That's right. You're right... This is a\ntragedy that happened to me. Saori\nhas nothing to do with it!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    8687
   ],
   "jp": "{p}\n{!R}宇津木さん！",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{!R}Utsugi-san!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    8688
   ],
   "jp": "ダンテ\n君は\nこんな姿になった俺を\n宇津木涼という名前で\n呼んでくれる…\n俺は 君と共に行こう！\n\nダンテの魔力を 沙織のため\n世界のため使おう！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nEven after I've become this, you still\ncall me by the name Ryo Utsugi... I'll\ngo with you!\n\nI'll use Dante's demonic power for\nSaori, and for the world!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    8689
   ],
   "jp": "{p}\n………",
-  "en": "",
-  "status": "",
+  "en": "{p}\n.........",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    8690
   ],
   "jp": "ダンテ\n俺は 君と共に行こう！\n\nダンテの魔力を 沙織のため\n世界のため使おう！",
-  "en": "",
-  "status": "",
+  "en": "Dante\nI'll go with you!\n\nI'll use Dante's demonic power for\nSaori, and for the world!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    8691
   ],
   "jp": "宇津木涼\n元の姿に戻った！？\n君のおかげだよ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nI'm back to my normal form!? It's\nthanks to you!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    8692
   ],
   "jp": "宇津木涼\nありがとう\n俺は 君と共に行こう\nそして この力を きっと\n君のために役立てよう！\n巨大な敵と戦う時には\n俺も変身して 力を貸すぜ！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nThank you. I'll go with you, and I'll\nsurely put this power to use for you!\nWhen we fight giant enemies, I'll\ntransform and lend a hand too!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    8693
   ],
   "jp": "宇津木涼\nうわぁ～～～っ！！",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nWHOAAAAAA!!",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    8700
   ],
   "jp": "ダンテ\n少年よ おまえの名は…？",
-  "en": "",
-  "status": "",
+  "en": "Dante\nBoy, what is your name...?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    8701
   ],
   "jp": "{p}\n{p}",
-  "en": "",
-  "status": "",
+  "en": "{p}\n{p}.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    8702
   ],
   "jp": "ダンテ\n{p}よ\n俺は おまえに感謝するよ\nこの醜い姿のまま\n俺は生きたくはない \nましてや 心優しい妹・沙織に\nこの姿を見せたくはない…",
-  "en": "",
-  "status": "",
+  "en": "Dante\n{p}, I'm grateful to you. I\ndon't want to live in this hideous\nform. And I certainly don't want my\nkindhearted sister Saori to see me\nlike this...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    8703
   ],
   "jp": "ダンテ\nありがとう {p}…",
-  "en": "",
-  "status": "",
+  "en": "Dante\nThank you, {p}...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -965,8 +965,8 @@
    8704
   ],
   "jp": "メドッサ\n魔王ダンテ… 宇津木涼に\n心を乗っ取られたのですね…",
-  "en": "",
-  "status": "",
+  "en": "Medossa\nDemon Lord Dante... So your mind has\nbeen taken over by Ryo Utsugi...",
+  "status": "done",
   "notes": ""
  },
  {
@@ -975,8 +975,8 @@
    8705
   ],
   "jp": "宇津木涼\nだったらどうする？",
-  "en": "",
-  "status": "",
+  "en": "Ryo Utsugi\nAnd if it has?",
+  "status": "done",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    8706
   ],
   "jp": "メドッサ\n…あなたから\n強い意志の力を感じます",
-  "en": "",
-  "status": "",
+  "en": "Medossa\n...I sense a strong willpower in you.",
+  "status": "done",
   "notes": ""
  },
  {
@@ -995,8 +995,8 @@
    8707
   ],
   "jp": "メドッサ\n誰にも負けない 強い精神力\n\nそれこそ 魔王ダンテの\nダンテたる由縁！\nメドッサは\nあなたに ついていきます",
-  "en": "",
-  "status": "",
+  "en": "Medossa\nA strong spirit that yields to no one.\n\nThat is what makes Demon Lord Dante\nwho he is! Medossa will follow you.",
+  "status": "done",
   "notes": ""
  }
 ]
