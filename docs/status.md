@@ -2,7 +2,26 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; S7 map signs started: pharmacy plate done; 17 sweep rows left; then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; S7 map signs started: pharmacy plate done on maps 135 244 309 310; 18 sweep rows left; then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 10 (2026-11-16): pharmacy plate fix, map-camera recon (partial)
+- **Fixed:** sign244's copy step had written MUMMY/DRUGS pieces into 7A0DD0, whose plate is a different 5-kanji
+  sign (間身井薬局, same shop): maps 309/310 showed garbage. `SCREENS[...]["copy"]=False` now skips gfxlabel's
+  copy step (set on every sign entry: map signs share glyph tiles across tile sets); new `sign309` (rect 100,16
+  / 100,22) = MUMMY / DRUGS. Seen in a cold-boot warp on EN: maps 135, 244, 309, 310 all read MUMMY / DRUGS.
+  73E49C (map 245) lost the stray copy and is back in gfxleft (its signs are other shops, not seen yet).
+- **Finding signs, what was tried:** map_245 is 90x60 cells (720x480 px, 3x3 screens); BG screenblocks are 32x32
+  ring buffers (only ~the screen is in VRAM). Walk tours work (`press=down*120` steps in a scene file passed with
+  `--var "SCENES=[[C:/abs/file]]"`, `--shot-every 40`), but the spawn sits in a corner and walls/NPCs block
+  straight walks: slow. A teleport would be better, not found yet:
+  - map state struct 0x03004F10: +0x220/+0x222 = map w/h in 8-px cells, +0x2A0.. = ring-buffer fine scroll
+    bytes (BG regs written at 0x0801989A from 0x03004F10+0x2A1..); streamer 0x0801A5F8(x, y, cellx, celly)
+    divides by chunk size (+8 / +0xC) and gets a chunk via 0x0801BA04, map words = tile | flips<<14, palette per
+    tile via 0x0801B7B0. A full-map render could reuse this (call it from Lua for every cell, or port it).
+  - the player/camera world position: not found by ramsearch (dumps in work/qa/walk/d245, `ram_*.bin`).
+- **Next, in order:** (1) a teleport or full-map render (above), then the S7 tile sets (list in session 8 Left,
+  plus 66D610 / 674910 now in gfxleft); 73E49C's top tile row holds kanji sign halves (雑貨店舗-like). (2)
+  3086C8 / 301D08 / 426368. (3) Gate tour (session 8 Next (3)).
 
 ## Phase 8 session 9 (2026-11-16): S7 map signs, pilot
 - **Done, seen in a cold-boot warp on the EN build:** the マミー薬局 plate = MUMMY / DRUGS (two lines, `small`, no
