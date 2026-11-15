@@ -20,6 +20,9 @@ Tools written in recon: `tools/packed.py` (all packed formats; `tests/test_codec
 `tools/lua/unpacklog.lua` (log/dump every unpack), `tools/lua/watchval.lua` (log nonzero writes with registers).
 Phase 3: `tools/archive.py` (script archive read/rebuild, slot split/join), the lh5 encoder in `tools/lh5.py`,
 `build.py` (`--verify` identity, `--reencode` encoder test build), `tests/test_identity.py`.
+Phase 4: `tools/sjis.py` (text codec, tags `{p}` `{s}` `{g}` `{!R}` `{!W}`, `[XX]` escapes), `tools/romstr.py`
+(pointer/string scan, record tables, coverage net), `tools/extract.py` (`dump`, `stats`, loaders for build.py),
+`tests/test_extract.py` (roundtrip, script/ in sync, coverage, insert).
 
 ## Gotchas
 - `watch.lua` logs the first write per PC, often a clear; use `tools/lua/watchval.lua` to see real values.
@@ -31,3 +34,5 @@ Phase 3: `tools/archive.py` (script archive read/rebuild, slot split/join), the 
 - The debug top menu ignores input for ~25 frames after it appears; route presses before that are lost.
 - Script archive: an unused message slot has offset 0; file 53 has slots 0..62 only. lh5.decode's byte count is
   exact for these streams (next file offset = start + consumed), so archive.read() checks it per file.
+- Count control bytes with an SJIS-aware parse: byte-wise counts take trail bytes 0x40..0x7E for ASCII codes.
+- u32 "pointers" found in packed assets are chance hits; take pointer sites only from `romstr.SITE_RANGES`.
