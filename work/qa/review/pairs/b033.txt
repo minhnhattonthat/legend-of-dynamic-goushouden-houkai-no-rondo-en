@@ -155,7 +155,7 @@
 >> 32.75 | Satan's Toenail | むむ！？ / この曲は！
    EN: Hmm!? That music!
 >> 32.76 | Onee-sama | あくどい勉強に 泣く / 少年少女を 救うため / 日夜戦う正義の人！
-   EN: To save the boys and girls who weep under wicked studies, a champion of justice fighting day and night!
+   EN: To save the boys and girls who weep under cruel, crushing studies: a champion of justice, fighting day and night!
 >> 32.77 | {p} | わ～ けっこう！
    EN: Whoa... what a fine sight!
 >> 32.78 | Onee-sama | そうです けっこうです！ /  / 顔を隠して 身体を隠さない！ / けっこう仮面！！

@@ -157,7 +157,7 @@
 >> B00.76 |  | 凄ノ王 /  /  / 超能力者 / 人類を滅ぼす道具 / として凄ノ王の覚醒 / を企てる
    EN: Susano-oh   An esper. Plots to wake Susano-oh to wipe out man.
 >> B00.77 |  | 手天童子 /  /  / ２２世紀最強の / サイボーグ戦士 / 父親の仇　手天童子 / 打倒を宿命とする
-   EN: Shutendoji   Top cyborg of the 2100s. Fated to slay his father's foe.
+   EN: Shutendoji   Top cyborg of 2100s. Must slay Shutendoji, his father's killer.
 >> B00.78 |  | 虚無戦記 /  /  / 九龍一族 / 真田衆と敵対関係 / 空間を切り裂く / 虚空斬波が得意技
    EN: Kyomu Senki   Kuryu clan. Foe of Sanada. Kokuu Zanpa cleaves space.
 >> B00.79 |  | 虚無戦記 /  /  / 九龍一族 / 炎術を駆使 / 炎を思い通りに / 操ることができる

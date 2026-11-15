@@ -51,7 +51,7 @@
 >> r0D035C |  | [0A]パートナー「早乙女門土」が[0A]アソートに加わった
    EN: [0A]Partner "Mondo Saotome"[0A]joined the party.
 >> r0D038C |  | [0A]パートナー「身堂竜馬」が[0A]アソートに加わった
-   EN: [0A]Partner "Ryoma Shindo"[0A]joined the party.
+   EN: [0A]Partner "Ryoma Mido"[0A]joined the party.
 >> r0D03BC |  | [0A]バトラー「スラムキング」が[0A]アソートに加わった
    EN: [0A]Battler "Slum King"[0A]joined the party.
 >> r0D03EC |  | [0A]パートナー「スラムクィーン」が[0A]アソートに加わった

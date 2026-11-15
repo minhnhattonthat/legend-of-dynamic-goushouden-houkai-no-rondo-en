@@ -89,7 +89,7 @@
 >> 37.42 | Banchiyo | さぁ あんた達 帰るわよ！
    EN: Come on, you lot, we're going home!
 >> 37.43 | {p} | 男の子がスケバンで / 女の子が男子かぁ / もしかして あの子達も / 次元連鎖の影響だったりして…？
-   EN: A boy who's a sukeban and a girl who's a boy, huh... Maybe they were affected by the Dimension Chain too...?
+   EN: A boy who's a sukeban, and a girl named Danshi, which means "boy"... Maybe they were affected by the Dimension Chain too...?
 >> 37.44 | Kogoro Iboji | えっへん！ 事件は みごと解決！ / 引き上げるぞ こややしくん！
    EN: Ahem! The case is splendidly solved! We're pulling out, Koyayashi-kun!
 >> 37.45 | Young Koyayashi | そっか～ 解決したんだぁ～ / じゃ 帰ろうかぁ～！

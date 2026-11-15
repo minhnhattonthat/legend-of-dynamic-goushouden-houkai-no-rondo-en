@@ -27,7 +27,7 @@
 >> 45.11 | Akira Fudo | ………
    EN: .........
 >> 45.12 | {p} | 明君 / もしかしたら その住宅地に…？
-   EN: Akira-kun, maybe that housing area is...?
+   EN: Akira-kun, could it be there... in that residential area?
 >> 45.13 | Akira Fudo | 美樹ちゃんの家が / あるかもしれない… / こうしちゃいられねぇ！
    EN: Miki-chan's house might be there... I can't just sit here!
 >> 45.14 | {p} | 明君！？
@@ -175,7 +175,7 @@
 >> 45.85 | Sirene | きさまを / 百の肉片に引きちぎってくれる！ / 来い デビルマン！
    EN: I'll tear you into a hundred pieces of meat! Come, Devilman!
 >> 45.86 | Devilman | 悪あがきは よしやがれ / てめぇの負けだ シレーヌ
-   EN: Quit your struggling. You've lost, Sirene.
+   EN: Quit struggling, damn you. You've lost, Sirene.
 >> 45.87 | Sirene | くっ！ キズが深い… / 勝てないのか… / このままでは死にきれぬ！ / デビルマンを倒す力が欲しい…！
    EN: Ngh! The wound is deep... Can I not win... I can't die like this! I want the power to defeat Devilman...!
 >> 45.88 | Kaim | シレーヌ 俺の身体を使え！ / 合体だ！

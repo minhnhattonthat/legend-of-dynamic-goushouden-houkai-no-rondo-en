@@ -115,9 +115,9 @@
 >> r0DCA44 |  | ヘルファイア
    EN: Hellfire
 >> r0DCA54 |  | 放電
-   EN: Static
+   EN: Discharge
 >> r0DCA5C |  | ほうでん
-   EN: Static
+   EN: Discharge
 >> r0DCA68 |  | ホワイト
    EN: White
 >> r0DCA74 |  | マインドバスター
@@ -147,9 +147,9 @@
 >> r0DCB28 |  | らんぶ
    EN: Frenzy
 >> r0DCB30 |  | 大吹雪
-   EN: Flurry
+   EN: Blizzard
 >> r0DCB38 |  | 大ふぶき
-   EN: Flurry
+   EN: Blizzard
 >> r0DCB44 |  | 傷薬
    EN: Salve
 >> r0DCB4C |  | きずぐすり

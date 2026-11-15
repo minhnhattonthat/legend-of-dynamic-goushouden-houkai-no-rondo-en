@@ -135,11 +135,11 @@
 >> 51.65 | ??? | 悪魔像は あなたには / 何も見せてくれません
    EN: The devil statue will show you nothing.
 >> 51.66 | Psycho Jenny | 私はサイコジェニー / この像と共にある者です
-   EN: I am Psycho Jenny. I am one with this statue.
+   EN: I am Psycho Jenny. I dwell here with this statue.
 >> 51.67 | {p} | デ デーモン！？
    EN: A-a Demon!?
 >> 51.68 | Psycho Jenny | そうです / 私はデーモン族です / あなたを お迎えに参りました
-   EN: That's right. I am of the Demon race. I have come to welcome you.
+   EN: That's right. I am of the Demon race. I have come to fetch you.
 >> 51.69 | Psycho Jenny | あなたが忘れてしまったことを / 思い出していただくため！
    EN: To help you remember what you've forgotten!
 >> 51.70 | {p} | うわ～！

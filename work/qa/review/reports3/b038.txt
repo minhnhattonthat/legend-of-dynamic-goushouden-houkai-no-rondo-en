@@ -1,0 +1,2 @@
+MINOR | 37.57 | パンサークローの好みじゃなかったわ = They weren't to Panther Claw's taste. | "Weren't Panther Claw's taste" is unidiomatic English. | The Demon King's words were both beautiful and ugly. But they weren't to Panther Claw's taste!
+ASSESSMENT | b038 | Approved | No confident Critical or Important issues; one minor phrasing improvement.

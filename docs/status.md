@@ -2,8 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress: every batch b001-b086 translated, checked and merged; review round 1
-  done (2026-11-16, see "Review"). Left for phase 6: finish review round 2 on the fixed batches, then phase 7.
+- **Phase:** 7. Insert, fit, check: not started. Phase 6 done 2026-11-16 (all b001-b086 merged, lint 0 errors,
+  review rounds 1-3 leave 0 Critical/Important; 125 Minors in docs/polish.md for the polish pass). Phase 7 work:
+  the LONG strings and abbreviations under "Phase 6 batches" (relocate, widen fields per D4), the code-pool
+  strings' px mapping, then build green with romdiff.
 
 ## Review (read-only codex passes; no nested workers under Orca)
 `python -X utf8 tools/pairs.py` (pairs files, work/qa/review/pairs/), `R=DIR JOBS=4 sh tools/review.sh [bNNN ..]`
@@ -16,13 +18,12 @@ work/qa/review/fixesN.tsv and applied by `tools/apply_fixes.py` (whole entries b
 - Names now follow the ROM's own kana short names (glossary "Decisions from earlier batches"): Nantomo Iyahaya
   (was Nanyu/Nanto), Kitani (was Onitani), Hatesate family, Koja Hatesate (was Nijija Hatesa), Daiko Hoin (was
   Hoin Taishi), Eisanbo Daihon (was Omoto Eisanbo), Hakase (was Hakayo). speakers.tsv updated to match.
-- Round 2 (work/qa/review/reports2/) on the 45 batches touched in round 1 (b005-b013 b017 b019 b020 b024 b025
-  b033 b034 b037 b038 b040 b042-b050 b052-b058 b071-b073 b078 b079 b082 b084-b086 b001): **stopped by the host
-  for low memory** after b005-b010; codex runs it had started still finished b011-b013 b019 (all Approved). 1
-  Important so far, fixed in fixes3 (04.76); Minors appended to polish.md (minor2.tsv, minor2b.tsv). Any other
-  report that lands in reports2/ later is from those orphaned runs: read it with review_findings.py before re-running. Re-run
-  with `R=work/qa/review/reports2 JOBS=3 sh tools/review.sh <same list>` (it skips the 6 done; use JOBS=3, six
-  codex processes at once ran the machine low on memory), fix any C/I, then phase 6 is done.
+- Round 2 (work/qa/review/reports2/, the 45 batches touched in round 1): 18 Important (ci2.tsv), fixed in
+  fixes3/fixes4. Two rejected: the reviewer wanted Mido -> Shindo and Daihonei -> Daihon, but the ROM's kana short
+  names bind, so the full names now follow them: 身堂竜馬 Ryoma Mido, 大本栄惨坊 Sanbo Daihonei (大本営参謀 pun).
+  "Discharge"/"Blizzard" (r0DCA54 r0DCA5C r0DCB30 r0DCB38) are now LONG for the 7-byte skill_name field: relocate.
+  Use JOBS=3 for review.sh: six codex processes at once ran the machine low on memory.
+- Round 3 (work/qa/review/reports3/, the 14 batches changed in round 2): 0 Critical/Important, 10 Minors.
 - Book cut added: series title "Iyahaya" for イヤハヤ南友 (B00.88 B00.89 B01.29 B01.39 B01.40): "Iyahaya Nantomo"
   is 112 px vs the 108-px book line and the JP keeps lines 2-3 blank.
 
@@ -57,8 +58,8 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
   English, so they hold "...\n" (a box with "..." may now show where the JP shows an empty one). 男男子 read as
   "Danshi Otoko" (51.93, 52.10-11). 法印大子 as "Taishi Hoin", 豹絵里座 as "Eriza Hyo", 墓世 as "Hakayo".
   Item/enemy data (wave 1) still says HiveMonk (LONG, phase 7); dialogue says Beehive Nyudo. 鬼谷 is Kitani everywhere now.
-- Next: finish review round 2 (section "Review" above). The wave 1 unsure readings and term drift above were
-  settled in round 1 (kana readings; Mirage Castle, Reaper Police); 真神, 男男子 have no kana form and stay as is.
+- Review done (section "Review" above; names later changed in round 2: Ryoma Mido, Sanbo Daihonei). The wave 1
+  unsure readings and term drift above were settled in round 1 (kana readings; Mirage Castle, Reaper Police); 真神, 男男子 have no kana form and stay as is.
 - In-game pilot view not done: `retail_newgame` stops at the name entry (an empty name won't confirm: type a
   character first). Phase 8 needs a name-entry route or a warp past it.
 - **Done:**
@@ -85,7 +86,8 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
     - Script files are malloc'd at their unpacked size (no fixed buffer; ~148 KB heap free on a field map);
       build.py caps a file at 32 KB. Codes: `{g}` = obtained item name / money amount; `{!R}`...`{!W}` wrap
       transceiver / remote speech (printer style); keep them where the JP has them (lint checks counts).
-- **Next (phase 6, `references/translation.md`):** the batch plan above.
+- **Next (phase 7, `references/pipeline.md` §Checks):** relocate/widen the LONG ids (`batches.py merge --partial`
+  lists them) and restore the wave-1 abbreviations, then build green (lint, control codes, `romdiff.py`).
   - Short names: "Tomahawk Panther" is 96 px vs the 54-px battle_name / 48-px menu_name fields: pick short forms
     for char_short (D4 says engine first: widening the battle field means moving the HP gauge).
   - Carried to phase 7: map the 469 code-pool strings (`fields.py`: no record table) to boxes from the field-probe

@@ -59,7 +59,7 @@
 >> r0DB19C |  | まのざんがい
    EN: Husk
 >> r0DB1AC |  | 魔の残骸
-   EN: Evil Husk
+   EN: Ma Husk
 >> r0DB1B8 |  | ダンテ
    EN: Dante
 >> r0DB1C0 |  | うつぎ

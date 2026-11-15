@@ -7,7 +7,7 @@
 >> B00.89 |  | イヤハヤ南友 /  /  / 家早家の娘 / 南友のパートナー / 金持ちとしての / 冷たい一面も持つ
    EN: Iyahaya   The Iyahayas' girl. Partner to Nantomo. Rich, cold at times.
 >> B00.90 |  | あにまるケダマン /  /  / 謎の一族出身 / 狼に変身する能力 / 世界中につながった / 謎の屋敷に住む
-   EN: Animal Kedaman   Mystery clan. Becomes a wolf. His odd mansion spans the world.
+   EN: Animal Kedaman   Mystery clan. Becomes a wolf. His odd mansion links worldwide.
 >> B00.91 |  | あにまるケダマン /  /  / ドラキュラの子孫 / 吸血鬼の遺伝子を / 引き継ぎ / ケダマンと敵対する
    EN: Animal Kedaman   Dracula's heir. Has vampire genes. Kedaman's foe.
 >> B00.92 |  | けっこう仮面 /  /  / 顔を隠して / からだ隠さず / 永井作品究極の / キャラクター

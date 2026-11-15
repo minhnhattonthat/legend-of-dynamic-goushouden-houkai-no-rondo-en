@@ -155,7 +155,7 @@
 >> 04.75 | {p} | …あの 君は誰？
    EN: ...Um, who are you?
 >> 04.76 | Mysterious Girl | あ ごめんなさい /  / あたしは 柳生十兵衛みつ子 / 十兵衛って呼んで
-   EN: Oh, sorry.  I'm Mitsuko Yagyu Jubei. Just call me Jubei.
+   EN: Oh, sorry.  I'm Mitsuko "Jubei" Yagyu. Just call me Jubei.
 >> 04.77 | Jubei | あなた達 / あたしと 間違えられたの！ / それで あたし あなた達を / 助けに来たってわけ
    EN: They mistook you guys for me! So I came to rescue you.
 >> 04.78 | Honey Kisaragi | あいつら なにもの？

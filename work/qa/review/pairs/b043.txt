@@ -181,7 +181,7 @@
 >> 42.88 | {p} | 黒い月… / あ あのー あなたは…
    EN: A black moon... Um, who are you...?
 >> 42.89 | Dr. Saotome | {!R}わしは早乙女 ゲッター線を / 研究している科学者じゃ
-   EN: {!R}I'm Saotome, a scientist who studies Getter Rays.
+   EN: {!R}I am Saotome, my boy, a scientist who studies Getter Rays.
 >> 42.90 | Dr. Saotome | {!R}…{p}君！ わしは君と / 直接 話がしたくなった！ / {!R}そちらにイーグル号を / 回収に向かう！ / {!R}それまで すまんがリョウを / 探してくれんか？ / {!R}パイロットスーツを着ている / すぐに わかるはずだ
    EN: {!R}...{p}-kun! I'd like to speak with you directly! {!R}I'm heading there to recover the Eagle! {!R}Until then, sorry to ask, but would you look for Ryo? {!R}He's wearing a pilot suit. You'll know him right away.
 >> 42.91 | {p} | 解りました 早乙女博士！

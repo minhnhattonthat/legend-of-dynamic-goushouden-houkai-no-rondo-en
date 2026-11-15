@@ -1,0 +1,3 @@
+MINOR | 32.85 | いつもいつも 負けてばかりのサタンの足の爪様じゃないぞ！ | The literal "I'm not the ... who" construction makes his boast awkward. | Hahahahaha! You can't expect the great Satan's Toenail-sama to lose every time!
+MINOR | 32.91 | 謎を解く お手伝いをするわよ？ | "I'll help ... shall I?" awkwardly combines an offer with a mismatched question tag. | If you don't pry into my true identity... I'll help you solve the mystery. Deal?
+ASSESSMENT | b033 | Approved | The translation preserves the meaning and character voices, with only minor wording polish needed.

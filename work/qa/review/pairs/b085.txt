@@ -49,7 +49,7 @@
 >> r0DD968 |  | 欠番1
    EN: Unused1
 >> r0DD970 |  | 大本栄惨坊
-   EN: Eisanbo Daihon
+   EN: Sanbo Daihonei
 >> r0DD97C |  | だいほんえい
    EN: Daihonei
 >> r0DD98C |  | 果扨胴下
@@ -185,7 +185,7 @@
 >> r0DDC8C |  | クイーン
    EN: Queen
 >> r0DDC98 |  | 身堂竜馬
-   EN: Ryoma Shindo
+   EN: Ryoma Mido
 >> r0DDCA4 |  | 早乙女門土
    EN: Mondo Saotome
 >> r0DDCB0 |  | 逞馬竜

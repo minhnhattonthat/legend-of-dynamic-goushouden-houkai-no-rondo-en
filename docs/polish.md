@@ -121,3 +121,15 @@ or `waived: reason`. The release script refuses to run while any line is unticke
 - [ ] B01.10 (b058) - "A giant scissor" is unnatural English; use "scissors." Suggested: Cutie Honey   Its right hand is a giant pair of scissors with a machine gun.
 - [ ] B01.26 (b058) - Missing punctuation between "volts" and "A Mechasaurus." Suggested: Getter Robo   Guards its base with 10,000 volts. A Mechasaurus with 3 heads.
 - [ ] r0DE584 (b086) - "Puts one foe asleep" is unidiomatic English. Suggested: Puts one foe to sleep
+
+## Batch review round 3 (codex, work/qa/review/reports3/, batches changed in round 2)
+- [ ] 02.40 (b003) - "The fire of the primeval" is awkward and weakens the dramatic introduction. Suggested: Muscles of a gorilla! Fangs of a wolf! Eyes blazing with primal fire!
+- [ ] 02.98 (b003) - "Isn't the police a good thing" is ungrammatical and makes the reassurance about Ayuko sound vague. Suggested: If she's with the police, shouldn't we be relieved?
+- [ ] 06.72 (b007) - "The world is never just one" is awkward and obscures the explanation of multiple worlds. Suggested: And besides, there is certainly more than one world. It's simply that their inhabitants often know nothing of the others.
+- [ ] 32.85 (b033) - The literal "I'm not the ... who" construction makes his boast awkward. Suggested: Hahahahaha! You can't expect the great Satan's Toenail-sama to lose every time!
+- [ ] 32.91 (b033) - "I'll help ... shall I?" awkwardly combines an offer with a mismatched question tag. Suggested: If you don't pry into my true identity... I'll help you solve the mystery. Deal?
+- [ ] 37.57 (b038) - "Weren't Panther Claw's taste" is unidiomatic English. Suggested: The Demon King's words were both beautiful and ugly. But they weren't to Panther Claw's taste!
+- [ ] 42.66 (b043) - "Not until..." followed by "I won't" makes the refusal awkward and repetitive. Suggested: I won't return to the Hell World... until I've collected every brain in the world! I'll suck out loads of fresh brains!
+- [ ] 45.55 (b046) - "The bell for the fight" sounds awkward and weakens the dramatic boxing metaphor. Suggested: There's the bell! The fight is on!
+- [ ] B01.10 (b058) - "A giant scissor" is unnatural, and the next fragment repeats it awkwardly. Suggested: Cutie Honey   Right hand: giant scissors fitted with a machine gun.
+- [ ] B01.26 (b058) - Missing punctuation after "volts" runs two sentences together. Suggested: Getter Robo   Guards its base with 10,000 volts. A Mechasaurus with 3 heads.
