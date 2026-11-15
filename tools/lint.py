@@ -129,7 +129,7 @@ def lint_archive(e, widths, errs, warns):
         errs.append("%s: speaker line must stay %s" % (e["id"], jl[0]))
     if len(sjis.encode(el[0])) > WINDOWS["name_tag"]["bytes"]:
         errs.append("%s: speaker %r over the name tag's %d bytes" % (e["id"], el[0], WINDOWS["name_tag"]["bytes"]))
-    if [i for i, s in enumerate(jl) if not s.strip()] and not [s for s in el[1:] if not s.strip()]:
+    if [s for s in jl[1:-1] if not s.strip()] and not [s for s in el[1:-1] if not s.strip()]:
         errs.append("%s: the JP has page breaks (blank lines), the en none" % e["id"])
     body = "\n".join(el[1:])
     for para in body.split("\n\n"):
@@ -181,6 +181,17 @@ def lint_rom(e, errs):
                 errs.append("%s: %r is %d px, the %s field holds %d" % (e["id"], e["en"], px, box, win["px"]))
 
 
+def check_entry(e, part, errs, warns):
+    """Every rule on one translated entry; part = its script/ subdirectory (archive, book, rom, ...)."""
+    common(e, errs)
+    if part == "archive":
+        lint_archive(e, char_widths(), errs, warns)
+    elif part in BOXES:
+        lint_box(e, BOXES[part], errs)
+    elif "max" in e and e["id"].startswith("r"):
+        lint_rom(e, errs)
+
+
 def run(show_warn=False):
     widths = char_widths()
     errs, warns = [], []
@@ -193,13 +204,7 @@ def run(show_warn=False):
                 todo += 1
                 continue
             done += 1
-            common(e, errs)
-            if path.parent.name == "archive":
-                lint_archive(e, widths, errs, warns)
-            elif path.parent.name in BOXES:
-                lint_box(e, BOXES[path.parent.name], errs)
-            elif "max" in e and e["id"].startswith("r"):
-                lint_rom(e, errs)
+            check_entry(e, path.parent.name, errs, warns)
     for m in errs:
         print("ERROR", m)
     if show_warn:

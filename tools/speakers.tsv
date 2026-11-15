@@ -1,0 +1,207 @@
+# Dialogue name tags (first line of each script/archive message): JP<TAB>EN. Read by tools/batches.py at merge.
+# Names follow glossary.md (official English where it exists, Western order, honorifics kept). Name tag <= 36 bytes.
+如月ハニー	Honey Kisaragi
+不動明	Akira Fudo
+早乙女博士	Dr. Saotome
+飛鳥了	Ryo Asuka
+えん魔くん	Enma-kun
+朱紗	Shusha
+早見青児	Seiji Hayami
+弓教授	Professor Yumi
+慎一	Shinichi
+子郎	Jiro
+兜甲児	Koji Kabuto
+研究員	Researcher
+美剣	Mitsurugi
+住民	Resident
+シスター・ジル	Sister Jill
+？？？	???
+ジャック	Jack
+瓜生	Uryu
+逞馬竜	Ryu Takuma
+門土	Mondo
+リョウ	Ryo
+竜馬	Ryoma
+ダンテ	Dante
+閻魔大王	Great King Enma
+グレイド	Grade
+美勒	Miroku
+来留間源三	Genzo Kuruma
+隼人	Hayato
+十兵衛	Jubei
+シレーヌ	Sirene
+イボ痔小五郎	Kogoro Iboji
+ガードマン	Guard
+不死団	Immortal Corps
+山岸	Yamagishi
+科学者	Scientist
+秋夏子	Natsuko Aki
+あしゅら（男）	Ashura (Male)
+武蔵	Musashi
+護鬼	Goki
+あしゅら（女）	Ashura (Female)
+真理阿	Maria
+菊の助	Kikunosuke
+団兵衛	Danbei
+ケダマン	Kedaman
+
+スラムキング	Slum King
+雪代	Yukishiro
+謎の男	Mysterious Man
+如月博士	Dr. Kisaragi
+スラムクィーン	Slum Queen
+ヒゲゴジラ	Higegodzilla
+鬼谷	Onitani
+ポール玉玉	Paul Tamatama
+ハニー	Honey
+ドクター・ポチ	Doctor Pochi
+アイアンカイザー	Iron Kaiser
+直次郎	Naojiro
+少年	Boy
+店主	Shopkeeper
+シャッポじい	Chapeau-jii
+こややし	Koyayashi
+アナウンサー	Announcer
+アルフォンヌ	Alphonne
+パンサー団員	Panther Claw Member
+凄ノ王	Susano-oh
+作業員	Worker
+カパエル	Kapaeru
+暴徒	Rioter
+キッカイ	Kikkai
+美樹	Miki
+袋小路	Fukurokoji
+雪子姫	Princess Yukiko
+ボス	Boss
+村人	Villager
+富三郎	Tomisaburo
+ドクター・ヘル	Dr. Hell
+宇津木涼	Ryo Utsugi
+蛮子	Banko
+ザコ	Grunt
+シャフト博士	Dr. Shaft
+医者	Doctor
+怒良野	Dorano
+フユカイ	Fuyukai
+駄ヱ門	Daemon
+ゴール	Gore
+宿泊客	Guest
+あゆ子の父	Ayuko's Father
+ドラゴン	Dragon
+弓さやか	Sayaka Yumi
+警官	Police Officer
+大権	Daigon
+けっこう仮面	Kekko Kamen
+蛮千代	Banchiyo
+吉三	Kichiza
+タレちゃん	Tare-chan
+あゆ子	Ayuko
+鬼仏衆	Kibutsu Clan
+美雪	Miyuki
+子供	Child
+さよ子	Sayoko
+間身井の姉	Mamii's Sister
+謎の少女	Mysterious Girl
+生徒	Student
+博士	Professor
+伊佐入道	Isa Nyudo
+メドッサ	Medossa
+サイコジェニー	Psycho Jenny
+観客	Spectator
+司会者	Host
+間身井くん	Mamii-kun
+少女	Girl
+キューティーハニー	Cutie Honey
+丸ゴシ	Marugoshi
+戦鬼	Senki
+黄金仏	Golden Buddha
+操られていた人	Controlled Person
+真弓	Mayumi
+おじいさん	Old Man
+南友	Nanyu
+ハチに刺された人	Bee Sting Victim
+木刀政	Bokuto Masa
+さやか	Sayaka
+ムチャ	Mucha
+ヌケ	Nuke
+合田	Goda
+白鳥美雪	Miyuki Shiratori
+操られた人々	Controlled People
+女生徒	Schoolgirl
+グズ蟲	Guzumushi
+登山者	Climber
+キッカイくん	Kikkai-kun
+法印大子	Hoin Taishi
+外道会	Gedo Gang
+声	Voice
+ジンメン	Jinmen
+学生	Student
+包帯男	Bandaged Man
+ハチュウ人類	Reptilian
+オモライくん	Omorai-kun
+兜十蔵	Juzo Kabuto
+魔獣ハンター	Demon Beast Hunter
+早乙女門土	Mondo Saotome
+身堂竜馬	Ryoma Shindo
+救急隊	Paramedic
+操られた人	Controlled Person
+黒死丸	Kokushimaru
+サタンの足の爪	Satan's Toenail
+男子	Boy
+五ヱ門	Goemon
+石川賢	Ken Ishikawa
+永井豪	Go Nagai
+マカロニ・キッド	Macaroni Kid
+助手	Assistant
+ケガ人	Injured Person
+黒い魔物	Black Fiend
+ポチ	Pochi
+果扨胴下	Hatesadoshita
+カイム	Kaim
+ブロッケン伯爵	Count Brocken
+受付係	Receptionist
+若い女の子	Young Girl
+パラソル	Parasol
+怒黒	Dokuro
+邪腕坊	Jawanbo
+機械獣	Mechanical Beast
+美剣千草	Chigusa Mitsurugi
+忍者	Ninja
+大男	Big Man
+女の子	Girl
+お姉様	Onee-sama
+男の子	Boy
+宇津木凉	Ryo Utsugi
+デビルマン	Devilman
+父兄	Parent
+大本栄惨坊	Omoto Eisanbo
+生首団十郎	Namakubi Danjuro
+ハチの巣入道	Beehive Nyudo
+唸り声	Growl
+墓世	Hakayo
+ユダ博士	Dr. Judas
+悪魔王ゼノン	Demon King Zennon
+トバッチリ	Tobacchiri
+研究者	Researcher
+受付	Receptionist
+男	Man
+{p}＆早見青児	{p} & Seiji Hayami
+死神警察署 署長	Shinigami Police Chief
+十兵衛＆山岸	Jubei & Yamagishi
+鬼	Oni
+兜甲児[09]	Koji Kabuto[09]
+操られていた人々	Controlled People
+リーダー	Leader
+朱紗:	Shusha
+僧侶	Monk
+海野六郎	Rokuro Unno
+若い男	Young Man
+謎の声	Mysterious Voice
+ジル	Jill
+さよこ	Sayoko
+こややし少年	Young Koyayashi
+デーモン	Demon
+悲惨将軍	General Hisan
+逞馬	Takuma
+ドラゴン・パンサー	Dragon Panther
+佐々木剣道	Kendo Sasaki
