@@ -277,6 +277,31 @@ keep:
 """
 
 
+# List field padding (phase 8, shop sell list showed "Remedy   e"): the wrapper 0x0800E87C(window, n, str) sets
+# [w+0x10C] = n (8 for item names) and printer p2 then pads the string with 0x8140 spaces while a character count
+# ([sp+0x14], n - 1 minus one per glyph) stays >= 0: n cells of 8 px for Japanese. Under the VWF a space advances 3 px
+# and ASCII names are up to 13 glyphs, so a shorter name left the end of the longer one it replaced. The check
+# `ldr r2, [sp, #0x14]; cmp r2, #0` before `blt done` at PAD_SITE becomes a BL that sets the flags from
+# (line start [w+0xD8] + 8 * n) - pen - 1 instead: pad while the pen is left of the field's Japanese width. Each pad
+# blits an 8-px cell, so the cleared span ends 5-7 px past 8 * n (69 px for items: windows.json item_list).
+PAD_SITE = 0x0E844
+PAD_ORIG = "ldr r2, [sp, #0x14]\ncmp r2, #0"
+PAD = """
+    push {r0, r1}
+    movs r1, #0x86
+    lsls r1, r1, #1
+    ldr r1, [r5, r1]
+    lsls r1, r1, #3
+    movs r0, #0xD8
+    ldr r0, [r5, r0]
+    adds r1, r1, r0
+    subs r2, r1, r6
+    subs r2, #1
+    pop {r0, r1}
+    bx lr
+"""
+
+
 def word_bytes(off):
     return ", ".join(str(b) for b in struct.pack("<I", 0x08000000 + off))
 
@@ -356,5 +381,12 @@ def apply(rom, put, orig):
     code = thumb(CLAMP, cur)
     put(cur, code, "cursor x clamp")
     put(CURSOR_SITE, bl(CURSOR_SITE, cur), "cursor x clamp site")
+    cur += (len(code) + 3) & ~3
+    # 5. list padding by width (PAD_SITE)
+    want = thumb(PAD_ORIG, PAD_SITE)
+    assert bytes(orig[PAD_SITE:PAD_SITE + 4]) == want, "pad site: %s" % orig[PAD_SITE:PAD_SITE + 4].hex()
+    code = thumb(PAD, cur)
+    put(cur, code, "list pad by width")
+    put(PAD_SITE, bl(PAD_SITE, cur), "list pad by width site")
     cur += (len(code) + 3) & ~3
     return cur

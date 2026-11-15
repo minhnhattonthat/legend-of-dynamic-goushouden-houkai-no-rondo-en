@@ -77,6 +77,22 @@ SCREENS = {
         ("stock", (88, 64, 56, 8), "BATTLER STOCK", "tiny", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1),
          dict(kind="bg2")),
     ]),
+    # partner stock (party edit -> a partner slot): パートナーストック's last 4 tiles (x 120-151) are バトラーストック's
+    # ストック tiles (x 112-143 there): "R STOCK" ends both, so the text sits 8 px further right than on sparty
+    # (PARTNE is 1 px wider than BATTLE: dx=3 puts the R 8 px right of sparty's) and those tiles come out identical. はずす / 全部はずす are 64x11 OBJ
+    # buttons (blocks 2F990C / 2F99C0; highlighted twins 2F9C08 / 2F9CBC via VARIANTS)
+    "sptn": dict(scene="m2_sptn", labels=[
+        ("stock", (88, 64, 64, 8), "PARTNER STOCK", "tiny", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1),
+         dict(kind="bg2", dx=3)),
+        ("rm", (170, 129, 59, 8), "REMOVE", "btn", {1, 15}, (15, 1), dict(kind="obj")),
+        ("rmall", (170, 140, 59, 9), "REMOVE ALL", "btn", {1, 15}, (15, 1), dict(kind="obj")),
+    ]),
+    # shop, sell mode: アイテム / アクセサリー tabs (アクセサリー's tab is 34 px: GEAR, D9) and 売る数 (own tiles)
+    "sell": dict(scene="m2_shop_sell", labels=[
+        ("items", (38, 19, 34, 8), "ITEMS", "btn", {1, 15}, (15, 1)),
+        ("gear", (87, 19, 35, 8), "GEAR", "btn", {1, 15}, (15, 1)),
+        ("qty", (154, 76, 45, 12), "QTY", "head", {1, 2}, (2, 1)),
+    ]),
     "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
     # stat labels (bg2 over the bg3 texture), one kana per tile of block 2F6658. こうげき's こ tile (x 8-15) is also
     # the last tile of the gender value おとこ (x 200, y 40): it goes blank, so ATTACK starts at x 16; all three
@@ -147,6 +163,17 @@ TILES = {
         ([0x14], ""), ([0x15], "♂"), ([0x16], "♀"), ([0x17], ""), ([0x18, 0x19], "MECH"), ([0x1A], ""),
         ([0x1B, 0x1C], "BOTH")]),
 }
+
+
+# Twin blocks drawn in another palette (a highlighted button): screen -> [(drawn block, twin block, {index: index})].
+# The twin's diff is the drawn block's edit with the indices remapped; refused unless the remap turns the original
+# drawn block into the original twin exactly.
+HI = {3: 2, 6: 4, 7: 5, 15: 13}
+VARIANTS = {"sptn": [(0x2F990C, 0x2F9C08, HI), (0x2F99C0, 0x2F9CBC, HI)]}
+
+
+def remap(data, m):
+    return bytes(m.get(b & 15, b & 15) | m.get(b >> 4, b >> 4) << 4 for b in data)
 
 
 def draw_tiles(name):
@@ -454,6 +481,13 @@ def draw(screen):
                 print(f"  label {name}: copy in block {off:06X}")
             for t in dist:
                 put_tile(off, *tiles[t])
+    for src, dst, m in VARIANTS.get(screen, []):
+        if src not in edits:
+            raise SystemExit(f"{screen}: variant source {src:06X} not edited")
+        twin = packed.unpack(rom, dst)[1]
+        if remap(raws[src], m) != twin:
+            raise SystemExit(f"{screen}: {dst:06X} is not {src:06X} remapped")
+        raws[dst], edits[dst] = twin, bytearray(remap(edits[src], m))
     gfx.DIR.mkdir(exist_ok=True)
     for old in gfx.DIR.glob(f"{screen}_*.diff"):
         old.unlink()

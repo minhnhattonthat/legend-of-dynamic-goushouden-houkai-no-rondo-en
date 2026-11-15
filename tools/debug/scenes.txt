@@ -33,6 +33,10 @@ m2_bsel         3,4,1                                     # battler select (stoc
 m2_shop         3,4,2                                     # shop
 m2_sparty       3,4,3                                     # partner assort
 m2_mcrop        3,4,4                                     # battle results
+m2_sptn         3,4,3,wait=90,press=a,wait=60,press=right,wait=40,press=a,wait=60   # partner stock: はずす / 全部はずす
+m2_shop_sell    3,4,2,wait=60,press=b,wait=60,press=right,wait=30,press=a,wait=60   # shop sell: アイテム / アクセサリー tabs, 売る数
+m1_status_eq    3,3,3,wait=60,press=a,wait=60,press=a,wait=90                        # status: equipment list
+m1_status_sk    3,3,3,wait=60,press=a,wait=60,press=select,wait=60                   # status: skill panel (スキル)
 k_setup         3,2
 k_test          3,5                                       # string draw tests (MENU6)
 k_loop3robo     3,6                                       # sets 3rd-loop robot flags, back to MENU
