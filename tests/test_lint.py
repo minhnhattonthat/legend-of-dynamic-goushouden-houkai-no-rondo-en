@@ -52,6 +52,17 @@ class LintTest(unittest.TestCase):
         lint.lint_box(entry("回復", "Restores about 30 HP to one ally", "D00.00"), "desc", errs)
         self.assertEqual(errs, [])
 
+    @unittest.skipIf(lint.char_widths8() is None, "no ROM dump")
+    def test_rom_field(self):
+        # a battler short name (char_short table, 0x7B31CC + 0xF0 * k) checked against the battle_name field
+        e = {"id": "r0DB820", "jp": "ハニー", "max": 19, "ptrs": ["7B32BC"], "status": "", "notes": ""}
+        self.assertIn("battle_name", lint.rom_boxes(e))
+        errs = []
+        lint.lint_rom(dict(e, en="Honey"), errs)
+        self.assertEqual(errs, [])
+        lint.lint_rom(dict(e, en="Tomahawk Panther"), errs)
+        self.assertTrue(any("battle_name field" in m for m in errs), errs)
+
     def test_stub_warning(self):
         _, w = self.errs("名前\nあ\nい", "Name\nThis is a long line\nso.")
         self.assertTrue(w)

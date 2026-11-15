@@ -11,7 +11,8 @@ Per translated entry (en non-empty, status not "data"):
     budget in px (line 1 / line 2 of each 2-line page, engine.half_widths; {p}/{s} count as name_var px)
   - book / desc archives (script/book, script/desc): lines and px per line within their box (windows.json book,
     desc; the book in the 12-px font, as it is inserted fullwidth); the book's 511-byte buffer is checked by build.py
-  - ROM strings: encoded bytes <= max (in place for now)
+  - ROM strings: encoded bytes <= max (in place for now); px within every windows.json box whose `categories`
+    include one of the string's record tables (tools/fields.py TABLES: item_list, battle_name, ...)
 Warnings (summary count; --warn lists them): a stub last line (< 6 chars) in a multi-line paragraph.
 """
 import argparse
@@ -26,6 +27,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 
 import engine  # noqa: E402
 import extract  # noqa: E402
+import fields  # noqa: E402
 import sjis  # noqa: E402
 
 TOKEN = re.compile(r"\{(?:p|s|g|!R|!W)\}|\[[0-9A-F]{2}\]")
@@ -140,12 +142,41 @@ def lint_archive(e, widths, errs, warns):
             warns.append("%s: stub last line %r" % (e["id"], lines[-1]))
 
 
+_WIDTHS8 = None
+
+
+def char_widths8():
+    """{ascii char: advance px} in the 8x8 menu font (8-px VWF)."""
+    global _WIDTHS8
+    if _WIDTHS8 is None:
+        if not extract.ROM.exists():
+            return None
+        rom = extract.ROM.read_bytes()
+        pairs = engine.ascii_pairs(rom)
+        w8 = engine.eight_widths(rom)
+        _WIDTHS8 = {chr(c): w8.get(p, engine.EIGHT_ADV) for c, p in pairs.items()}
+    return _WIDTHS8
+
+
+def rom_boxes(e):
+    """windows.json boxes whose `categories` (tools/fields.py TABLES) include one of this ROM string's tables."""
+    cats = set(fields.category(e))
+    return [k for k, w in WINDOWS.items() if isinstance(w, dict) and cats & set(w.get("categories", ()))]
+
+
 def lint_rom(e, errs):
     off = int(e["id"][1:], 16)
     text = sjis.fullwidth(e["en"]) if off in extract.FULLWIDTH else e["en"]
     n = len(sjis.encode(text))
     if n > e["max"]:
         errs.append("%s: %d bytes, room for %d" % (e["id"], n, e["max"]))
+    for box in rom_boxes(e):
+        win = WINDOWS[box]
+        widths = {"8": char_widths8, "12": char_widths12}.get(win.get("font"), char_widths)()
+        if widths is not None:
+            px = line_px(e["en"], widths)
+            if px > win["px"]:
+                errs.append("%s: %r is %d px, the %s field holds %d" % (e["id"], e["en"], px, box, win["px"]))
 
 
 def run(show_warn=False):

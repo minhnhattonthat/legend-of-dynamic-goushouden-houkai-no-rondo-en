@@ -17,8 +17,18 @@
   "item_list": {
     "what": "item menu list name field (8x8 font, 8-px VWF): from the name's x to the count graphic; both columns",
     "px": 69,
+    "font": "8",
+    "categories": ["rec18"],
     "status": "measured",
-    "shot": "m1_item marker build: left name x=25, count x=96; right name x=136, count x=205 (work/qa/v8_m1_item); not yet mapped to script/rom ids in the lint"
+    "shot": "m1_item marker build: left name x=25, count x=96; right name x=136, count x=205 (work/qa/v8_m1_item); also the shop list (m2_shop, same window 0200AE80). Lint: every rec18 string (tools/fields.py TABLES)"
+  },
+  "battle_name": {
+    "what": "battle party status row: battler name (8x8 font, 8-px VWF) from x=90 to the HP gauge at x=144",
+    "px": 54,
+    "font": "8",
+    "categories": ["char_short"],
+    "status": "measured",
+    "shot": "o_battle marker build: 'DB800:abcdefghi' from x=90, HP gauge from x=144 (work/qa/fields/shots/o_battle.png, tools/lua/fieldprobe.lua w=0200E300 pen x=2)"
   },
   "book": {
     "what": "character book (script/book, キャラ図鑑): name line, 2 blank lines, description; inserted as fullwidth Latin and drawn with the 12-px font (engine.widths), pen 0 at x=128, clipped at x=236",

@@ -82,6 +82,10 @@ No other single byte occurs; there are no invalid double-byte pairs. Choices are
   up to the next 4-aligned boundary); 20 are ASCII only (format strings `POS:%d`, `SE:%d`, `DYNA_RPG_INIT`,
   `DUMMY`, English debug test lines) -> status `data`. Full-width-only ones (`ＨＰ＋２５％`, `ＬＯＡＤ　ＧＡＭＥ`,
   `？？？`) are text.
+- Record tables pointing at the strings (verified by pointer strides, phase 5; `tools/fields.py TABLES`):
+  characters 0x7B31C8 (0xF0 records: +0 full name, +4 short name), skills 0x7BC7C4 (0x44: +0, +4 two names),
+  0x18-byte records 0x7C1F00-0x7C78B4 (items, equipment, misc names; items also appear in the skill tables),
+  item descriptions 0x7DBF10 (u32 list), enemies 0x7DF910 (0x5C), map names 0x0FA814 (311 pointers).
 - 0x0D9C58-0x0D9CF8: one katakana per entry, pointed from a table at 0x104D40 (reverse order): a kana -> sprite
   lookup for the onomatopoeia, status `data`.
 - Onomatopoeia records at 0x0D9CF8-0x0DAFB8: 150 x 0x20 `{u32 id, u32, u32, char name[20]}` (base pointer at
