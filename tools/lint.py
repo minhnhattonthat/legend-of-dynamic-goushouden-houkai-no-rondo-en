@@ -64,14 +64,14 @@ def char_widths12():
 
 
 # script/<dir> -> tools/windows.json box for the archives after the script archive (docs/re/text.md §1b)
-BOXES = {"book": "book", "desc": "desc"}
+BOXES = {"book": "book", "desc": "desc", "place": "place_name", "effect": "effect"}
 
 
 def lint_box(e, box, errs):
     """A message shown in a fixed box: at most `lines` lines (blank ones count), each within `px` in the box's font;
     blank lines stay where the JP has them (the book: name, 2 blank lines, description)."""
     win = WINDOWS[box]
-    widths = char_widths12() if win["font"] == "12" else char_widths()
+    widths = {"8": char_widths8, "12": char_widths12}.get(win["font"], char_widths)()
     el, jl = e["en"].split("\n"), e["jp"].split("\n")
     if len(el) > win["lines"]:
         errs.append("%s: %d lines, the %s box holds %d" % (e["id"], len(el), box, win["lines"]))

@@ -22,6 +22,14 @@
     "status": "measured",
     "shot": "m1_item marker build: left name x=25, count x=96; right name x=136, count x=205 (work/qa/v8_m1_item); also the shop list (m2_shop, same window 0200AE80). Lint: every rec18 string (tools/fields.py TABLES)"
   },
+  "equip_list": {
+    "what": "status screen equipment picker (A on an equipment slot): rec18 name (8x8 font, 8-px VWF) from x=152 to the count at x=224; the equipped slot bar shows the same name from x=152 with more room",
+    "px": 70,
+    "font": "8",
+    "categories": ["rec18"],
+    "status": "measured",
+    "shot": "m1_status JP build after A (work/qa/st_jp/run/f000090.png): name x=152, '99' ink from x=224; marker build 'DD258:abcdef' (72 px) runs into the count (work/qa/st1/f000090.png)"
+  },
   "battle_name": {
     "what": "battle party status row: battler name (8x8 font, 8-px VWF) from x=90 to the HP gauge at x=144",
     "px": 54,
@@ -45,6 +53,38 @@
     "font": "half",
     "status": "measured in the book's skill list; the item menu and battle readers (0x0808827C, 0x0809A45C) not yet seen",
     "shot": "m1_book marker build: 'D01.13 The quick brown fox jumps over the la' cut in the a (pen 220) at x=236 (work/qa/marker_book)"
+  },
+  "skill_list": {
+    "what": "battle skill list (スキル window, w=0200E850, drawn by 0x080863E8 -> 0x0800E3D0): the skill's second name copy (8x8 font, 8-px VWF) from x=24 to the DP column; a 2-digit DP starts at x=97",
+    "px": 72,
+    "font": "8",
+    "categories": ["skill_name2"],
+    "status": "measured",
+    "shot": "game_over marker build, frame 2708: 'DC7DC:abcdef' (72 px) ink x=24-94, DP '12' from x=97 (work/qa/skf_m/f002708.png). The window opens at ~2700: a shot at 2696-2700 shows it empty (not a bug)"
+  },
+  "skill_party": {
+    "what": "party / assort screen (アソート変更, m1_party / m2_sparty) skill rows: 8x8 font, 8-px VWF, from x=136 to the fixed rank icon at x=215. Which name copy it shows is not known (every marker skill seen had one string for both), so both are checked. The status screen's Select skill list (name x=20, 1-digit DP at x=105) has more room than the battle list",
+    "px": 76,
+    "font": "8",
+    "categories": ["skill_name", "skill_name2"],
+    "status": "measured",
+    "shot": "m1_party marker build after route (work/qa/sh_m1_party/run/f000480.png): 'DC7DC:abcdef' from x=136, icon at x=214; JP build same route: icon at x~216 (work/qa/party_jp.png); status skill list work/qa/st2/f000290.png"
+  },
+  "place_name": {
+    "what": "save / load slot 現在地 field (script/place, map names): half-width font, pen 0 at x=120, the box interior ends at x=234",
+    "px": 114,
+    "lines": 1,
+    "font": "half",
+    "status": "measured",
+    "shot": "m1_save marker build after saving to slot 1 (route work/qa/sv/route.txt): 'P00.00 The quick brown' from x=120, drawn on past the box edge to the screen edge (work/qa/sv/f001440.png)"
+  },
+  "effect": {
+    "what": "partner effect panel (script/effect, read by 0x080A3618) on the party / assort screen (アソート変更): 8x8 font, 8-px VWF, pen 0 at x=160, box border at x=237, 2 lines",
+    "px": 76,
+    "lines": 2,
+    "font": "8",
+    "status": "measured",
+    "shot": "m1_party marker build, state after warp + route (a, down, a, down, a, right, a): 'E00.00 The qu' ink x=160-233, 'i' drawn over the border at 237 (work/qa/sh_m1_party/run/f000540.png). The other reader 0x0809CC54 (from 0x09E9BA) not yet seen"
   },
   "name_var": {
     "what": "{p} / {s}: the player-entered hero / heroine name, inserted at run time; counted at this width in a line",
