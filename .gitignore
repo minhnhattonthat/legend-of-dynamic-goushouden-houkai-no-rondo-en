@@ -5,7 +5,7 @@
 !/work/qa/
 /work/qa/*
 !/work/qa/review/
-/work/qa/review/reports/*.log
+/work/qa/review/*/*.log
 /dist/
 /release/
 .venv/
