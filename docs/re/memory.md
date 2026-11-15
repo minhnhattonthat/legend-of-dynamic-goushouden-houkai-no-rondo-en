@@ -10,6 +10,17 @@
 | 0x03004024 | lh5 bit buffer |
 | 0x03004858 | pointer to the active font's charset list |
 
+## Heap (verified phase 5)
+- malloc 0x08000BE8 / free list head at [0x03000194]: blocks `{u32 tag (0xAA used, 0x55 free), u32 size, u32 next}`
+  + data, in EWRAM 0x02000000..; ~160 KB free in battle. On failure it writes the request and the free total to
+  0x06000000 and spins at 0x08000C82 (`tools/lua/oom.lua` logs both; HEAPEVERY/HEAPDUMP walk the list).
+- Every window struct (~0x1C0 bytes) and the menu printer's 512-byte glyph buffer (malloc at 0x0800E420) live there:
+  **text drawn outside its window's buffer corrupts the next heap header** and a later malloc hangs in the trap.
+  A centred line wider than its window got x < 0 from set_cursor 0x0800FD08 (x not clamped, y is): fixed by
+  `engine.CURSOR_SITE` (x clamped at 0). A line running off the right end is still unguarded: keep every line
+  within its box (lint px budgets), the right-hand overflow was not tested.
+- Tools: `tools/lua/malloclog.lua` (malloc sizes + callers), `watchw.lua` (who writes an address), `pcsample.lua`.
+
 ## Built ROM layout (phase 5, `tools/engine.py`)
 - 16 MiB (0x1000000), 0xFF fill past the original 8 MiB. SRAM save: unaffected (boots, saves in phase 8 QA).
 - 0x800000..: the script archive (5 root pointers repointed); its old slot 0x104DC0-0x132E74 is free space in BL

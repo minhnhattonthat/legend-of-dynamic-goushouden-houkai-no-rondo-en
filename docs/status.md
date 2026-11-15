@@ -2,8 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. VWF in all three fonts, dialogue budgets measured and linted; the menu/list field budgets
-  (items, skills, shop, battle, map names) are the last part of the width gate. Builds: `build/goushouden_en.gba`
+- **Phase:** 5. VWF in all three fonts; dialogue, book and description budgets measured and linted; hidden
+  archives extracted; the effect / place-name boxes and the menu/list field budgets (items, skills, shop, battle)
+  are the last part of the width gate. Builds: `build/goushouden_en.gba`
   (JP text through the new engine), `build/goushouden_marker.gba` (`build.py --marker`).
 - **Done:**
   - Step 0, phases 1-4 (see git history and `docs/re/`): ROM pinned, MesenCE 2.2.1, codecs, debug warp tool
@@ -20,18 +21,34 @@ Updated at the end of every session. Keep it to what the next session needs; his
       name tag 36 bytes (measured); `{p}`/`{s}` = 84 px (7-char name entry x 12 px kana, measured).
       Item list name field 69 px before the count (`item_list`, measured; not yet mapped to ROM string ids).
     - Probes: `tools/lua/advprobe.lua` (advance sites: pen, pair, font mode, cell width), `tools/lua/srcprobe.lua`
-      (source pointer of every string the two printers draw, and its callers).
+      (source pointer of every string the two printers draw, and its callers), `p2probe.lua` (menu printer calls +
+      window fields), `glyphdest.lua`, `arcprobe.lua` (which archive a scene reads), `malloclog.lua`, `oom.lua`
+      (heap walk / out-of-memory trap), `watchw.lua` (who writes an address), `pcsample.lua`; `tools/funcof.py`
+      (function holding a literal pool + its BL callers), `tools/bisect_marker.py SCENE` (ROM-marker bisection).
+    - Hidden archives extracted (`archive.ARCHIVES`, `script/{book,desc,effect,place,test}/`, 843 messages, ids
+      B/D/E/P/T + FF.SS): identity byte-exact; the build rebuilds book/desc/effect/place after the script archive
+      and repoints their literal pools (full-ROM sweep: no other pointer forms). The test archive (1 line, no
+      pointer) stays in place, status data. Marker build shows B.. ids in the book and D.. ids in its skill box.
+    - The book window can't show plain ASCII (ink goes to tiles it never displays): the book is inserted fullwidth
+      (`Spec.wide`, 12-px font, proportional through the VWF), and must fit its 512-byte stack buffer (build.py
+      checks 511 bytes). Budgets measured: book 108 px/line, 7 lines incl. name + 2 blank (`windows.json` book,
+      12-px widths); description box 224 px, 1 line (desc, half-width). Lint checks both (`lint.lint_box`).
+    - game_over on the marker build fixed: a centred line wider than its window got x < 0 and the glyph blitter
+      corrupted the heap (`docs/re/memory.md` §Heap). set_cursor 0x0800FD08 now clamps x at 0
+      (`engine.CURSOR_SITE`). Marker game_over reaches GAME OVER; m1_*/m2_top/k_jump* still ok.
     - Marker tour 340 scenes (`work/qa/marker_tour/`): 337 ok; retail_newgame, game_over, ending_credits only need
       `--frames 4000`. Every box reached shows its id. `jp_left.py --gba-ptrs` on the marker build: 0 runs.
 - **Next (phase 5, `references/pipeline.md` §Width gate):**
-  - **First: extract the five hidden text archives** after the script archive (`docs/re/text.md` §1b: character
-    book, item/skill descriptions, equipment effects, map names; ~840 messages). The marker build shows the book in
-    Japanese (m1_book). Generalise `tools/archive.py` (base, file count, end as parameters), dump them to their own
-    `script/` files via `tools/extract.py` (roundtrip test + identity build must stay byte-exact), rebuild them in
-    new space after the main archive, repoint the literal pools listed there (assert the old value first; sweep for
-    other forms), add them to the marker build, re-run m1_book / m1_item / shop scenes to confirm ids.
-  - game_over fails the warp even with `--frames 4000` on the marker build (passed on the original in phase 2):
-    rerun on `build/goushouden_en.gba` and the original to see if the marker text breaks the battle/game-over path.
+  - **Effects and place names: find their screens and measure.** Readers (`docs/re/text.md` §1b): effect
+    0x0809CC54 (from 0x09E9BA), 0x080A3618 (from 0x0A5F44 / 0x0A6576 / 0x0A7C94); place 0x08096C48 (from
+    0x09751C), 0x08097084 (from 0x0976A6), probably the save/load slots' 現在地 (needs a save: no scene has one;
+    add a scene that saves from k_jump, or a .sav in work/states). For each: check ASCII shows (else `wide` like the
+    book), measure px, add to `windows.json` + `lint.BOXES`. Desc readers 0x0808827C / 0x0809A45C (item menu,
+    battle?) not yet seen: confirm the 224 px box there.
+  - **Right-hand overflow is unguarded** (`docs/re/memory.md` §Heap): a line past its window's right end may corrupt
+    the heap like the negative x did. Either test it (marker build: a long ROM string in a short centred window)
+    and clamp the pen at the window width in the VWF hook, or make every box's px budget part of the lint (below).
+  - Centred lines are centred by byte count, not VWF width (cosmetic, phase 8).
   - Review `work/qa/marker_sys/shots/` (46/47 ok; m1_*/m2_* reviewed: dialogue/menus show ids, menu labels and
     headers are graphics text = phase 8) (non-map scenes, new marker build, `--frames 4000`): for each list/menu
     field (item, skill, equipment effect, enemy names, shop, battle messages, map names, save/load, sfx) read the

@@ -258,6 +258,25 @@ th:
 """
 
 
+# Cursor x clamp (phase 5, verified in game): set_cursor 0x0800FD08(window, x, y) stores x as the line start pen
+# ([w+0xD8]) and its tile column / sub-pixel ([w+0xAC], [w+0xD0]); it clamps y at 0 but not x. Callers that centre a
+# line pass (width - text) / 2, negative for a line wider than its window, and the glyph blitter then writes before
+# the printer's 512-byte malloc'd glyph buffer, over the next heap header (game_over on the marker build: the battle
+# message's long text corrupted the free list and the next malloc spun in the out-of-memory trap 0x08000C82).
+# `mov sb, r1; mov r8, r2` at its entry becomes a BL to: clamp r1 at 0, then the same two moves.
+CURSOR_SITE = 0x0FD14
+CURSOR_ORIG = "mov r9, r1\nmov r8, r2"
+CLAMP = """
+    cmp r1, #0
+    bge keep
+    movs r1, #0
+keep:
+    mov r9, r1
+    mov r8, r2
+    bx lr
+"""
+
+
 def word_bytes(off):
     return ", ".join(str(b) for b in struct.pack("<I", 0x08000000 + off))
 
@@ -331,4 +350,11 @@ def apply(rom, put, orig):
             want = struct.pack("<HH", 0x1D80 | p["pen"] << 3, 0x9800 | reg << 8 | p["ret"] // 4)
             assert bytes(orig[site:site + 4]) == want, "half site %X: %s" % (site, orig[site:site + 4].hex())
             put(site, bl(site, half[reg]), "vwf %s half site r%d" % (p["name"], reg))
+    # 4. cursor x clamp (CURSOR_SITE); the flags it sets are overwritten by the `movs r0, #8` that follows the site
+    want = thumb(CURSOR_ORIG, CURSOR_SITE)
+    assert bytes(orig[CURSOR_SITE:CURSOR_SITE + 4]) == want, "cursor site: %s" % orig[CURSOR_SITE:CURSOR_SITE + 4].hex()
+    code = thumb(CLAMP, cur)
+    put(cur, code, "cursor x clamp")
+    put(CURSOR_SITE, bl(CURSOR_SITE, cur), "cursor x clamp site")
+    cur += (len(code) + 3) & ~3
     return cur
