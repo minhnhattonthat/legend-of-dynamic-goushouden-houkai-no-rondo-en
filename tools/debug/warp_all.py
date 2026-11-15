@@ -24,6 +24,8 @@ ORIG = next((ROOT / "rom").glob("*.gba"), None)
 
 
 MAPS = ROOT / "tools" / "debug" / "maps.tsv"
+# scenes that need more frames than --frames (game_over walks to a random battle, then loses it: WARP_DONE ~f4040)
+MIN_FRAMES = {"game_over": 4500}
 
 
 def scene_names():
@@ -47,7 +49,7 @@ def run(rom, scene, out, frames, states):
     shutil.rmtree(d, ignore_errors=True)
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(d),
            "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", f"SCENE='{scene}'",
-           "--frames", str(frames), "--timeout", "600"]
+           "--frames", str(max(frames, MIN_FRAMES.get(scene, 0))), "--timeout", "600"]
     if states:
         st = (ROOT / "work" / "states" / f"{scene}.mss").as_posix()
         cmd += ["--var", f"STATE_OUT=[[{st}]]"]

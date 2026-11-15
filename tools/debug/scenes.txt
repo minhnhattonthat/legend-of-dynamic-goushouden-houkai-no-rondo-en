@@ -45,6 +45,7 @@ o_dts           1,6                                       # DTS animation
 o_bigskill      1,7                                       # big skill cut-in
 c_effect        4,3                                       # battle effect number select
 c_test1         4,1                                       # battle effect test
+game_over       2,5,0,map=257,wipe,hold=85                # party wiped out in a forest battle -> GAME OVER (shown ~+60..+120 frames)
 # --- ending and credits ---
 o_ending        1,10                                      # ending: credits start (原作 永井豪 ...)
 ending_credits  1,10,wait=2400                            # further into the credits roll

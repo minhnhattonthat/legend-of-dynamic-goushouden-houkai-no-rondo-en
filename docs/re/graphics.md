@@ -4,6 +4,8 @@ Status: **static sweep done** (every packed block of all three codecs plus every
 covered boot -> title -> name entry -> opening -> first field only. Mid-game screens (chapter cards, game over,
 ending, credits, shops, battles) get confirmed by warping once the phase-2 debug tool exists, and in the phase-5
 marker tour. Decisions: D5 says translate all graphics text; keep the 豪翔伝 logo only (no official English version).
+Confirmed by warp (phase 2): the game-over screen is the English graphic `GAME OVER` (scene `game_over`): nothing to
+redraw. The game has no chapter cards (`docs/re/debug.md` §Story state).
 
 ## Static sweep (how it was done; rerun after any codec change)
 1. `tools/scanpacked.py` -> `work/packed_blocks.json`: 10,225 blocks (type 1: 8,437, lh5: 1,279, type 3: 509),

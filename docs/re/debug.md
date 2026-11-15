@@ -37,8 +37,17 @@ Field test: up/down -1/+1, left/right -10/+10 (r9), A loads the map through a ju
   (0x44 apart, id at +0, HP at +4, DP at +0x10). Battle units are heap records 0x108 apart (0x0200D2E8 in the コ ODE
   battle, 0x0200DCA8 in a field battle): not at a fixed address.
 
+## Battle state (verified: RAM dumps across a field battle, game over reached)
+- Battlers: a heap block of 6 records 0x17C apart (0x020093B0 from one state, 0x02009390 from a cold-boot warp):
+  slots 0-2 the trio, 3-5 the enemies; u16 HP +0, DP +6, 1 at +0xA, Lv +0x10, 16 zero bytes before HP. Copies of
+  the trio's records sit 0x1A4 apart further up (display copies); writing those does nothing.
+- Writing 0 to a battler's HP (or to the 0x108-stride unit records) is ignored: the battle still ends in a win. A
+  battler only falls to real damage. Stock size does not matter: with stock present the trio falling still gives
+  GAME OVER (こうたい opens the battler swap screen instead).
+- **Game over** (scene `game_over`): `wipe` step in warp.lua: party record HP = 1, walk in 迷いの森１ (map 257) until
+  an encounter, pin the enemies' HP each frame, mash A; the trio dies to enemy hits. `GAME OVER` (already an English
+  graphic in the original) shows about +60..+120 frames after the third battler's HP hits 0, then the game returns
+  to the field. No game-over text exists in the script archive or the plain ROM strings.
+
 ## Not reached yet
-- **Game over.** Debug battles ignore HP 0. In a field battle with the stock zeroed and the trio at 1 HP, the Lv30
-  debug party wins or flees (fleeing usually succeeds); a lost battle went to the partner swap screen. Next try:
-  find the battle-result code (what runs after the party is wiped out), or a story boss fight.
 - Route starts (see story state).

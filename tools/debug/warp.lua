@@ -15,6 +15,9 @@
 --   map=N    the field test (0x080167A0) when A is pressed: r9 (the map index) = N at 0x08016AEC
 --   wait=F   idle F frames
 --   press=B  press button(s) B (a+up...) for 6 frames (B*N: N frames), then idle 40
+--   hold=F   this scene's shot (and STATE_OUT) F frames after the last step instead of HOLD
+--   wipe     in a field with random encounters: party HP 1, walk left/right until a battle, pin the enemies' HP,
+--            mash A; done when the trio's battle HP are all 0 (the game over follows; docs/re/debug.md)
 -- While a menu or map step is pending, the script presses A every 24 frames to make the menu return.
 
 local DEBUG_MENU_BL, BL_ORIG, BL_NEW = 0x7E48A, { 0xFF, 0xF7, 0x33, 0xFF }, { 0xFF, 0xF7, 0x71, 0xFF }
@@ -46,10 +49,12 @@ local spec = scenes[scene] or (mapn and ("2,0,map=" .. tonumber(mapn))) or error
 local steps = {}
 for tok in spec:gmatch("[^,]+") do
   local k, v = tok:match("^(%a+)=(.+)$")
-  if not k then steps[#steps + 1] = { kind = "menu", n = tonumber(tok) or error("bad step " .. tok) }
+  if tok == "wipe" then steps[#steps + 1] = { kind = "wipe" }
+  elseif not k then steps[#steps + 1] = { kind = "menu", n = tonumber(tok) or error("bad step " .. tok) }
   elseif k == "map" then steps[#steps + 1] = { kind = "map", n = tonumber(v) }
   elseif k == "wait" then steps[#steps + 1] = { kind = "wait", n = tonumber(v) }
   elseif k == "press" then steps[#steps + 1] = { kind = "press", b = v }
+  elseif k == "hold" then hold = tonumber(v)
   else error("bad step " .. tok) end
 end
 L.log(string.format("WARP %s: %s (%d steps)", scene, spec, #steps))
@@ -93,6 +98,50 @@ L.on_exec(FIELDTEST_PICK, FIELDTEST_PICK, function()
   end
 end)
 
+-- wipe: party records 0x02007264 (0x44 apart, HP u16 at +0, DP at +6); battlers are a heap block (0x020093B0 or
+-- 0x02009390 seen) of 6 records 0x17C apart (HP u16 at +0, DP at +6, 1 at +0xA, 16 zero bytes before; slots 0-2
+-- the trio, 3-5 enemies). The block is found by the trio's DP values; nothing is written there outside a battle.
+local M = emu.memType.gbaMemory
+local PARTY, BSTRIDE = 0x02007264, 0x17C
+local battler = nil
+local function battler_live(base, i)
+  local a = base + i * BSTRIDE
+  if emu.read16(a + 0xA, M) ~= 1 then return false end
+  for o = -0x10, -2, 2 do if emu.read16(a + o, M) ~= 0 then return false end end
+  return true
+end
+local function find_battlers()
+  local dp0, dp1 = emu.read16(PARTY + 6, M), emu.read16(PARTY + 0x44 + 6, M)
+  for a = 0x02008000, 0x0200C000, 4 do
+    if emu.read16(a + 6, M) == dp0 and emu.read16(a + BSTRIDE + 6, M) == dp1 and battler_live(a, 0)
+       and battler_live(a, 3) then return a end
+  end
+end
+local function wipe_frame(s, f)
+  if s.battle and not (battler_live(battler, 0) and battler_live(battler, 3)) then return end  -- over: time out
+  if not s.battle then
+    for i = 0, 2 do emu.write16(PARTY + i * 0x44, 1, M) end
+    if f % 10 == 0 then battler = find_battlers() end
+    if not battler then
+      if f >= idle_until then L.press("left", 50); L.press("right", 50); idle_until = f + 100 end
+      return
+    end
+    s.battle = true; s.pin = {}
+    L.log(string.format("f%d wipe: battle, battlers at %08X", f, battler))
+  end
+  local BATTLER = battler
+  for i = 3, 5 do
+    local a = BATTLER + i * BSTRIDE
+    local v = emu.read16(a, M)
+    if not s.pin[i] and v > 0 then s.pin[i] = v end
+    if s.pin[i] and v < s.pin[i] then emu.write16(a, s.pin[i], M) end
+  end
+  local dead = 0
+  for i = 0, 2 do if emu.read16(BATTLER + i * BSTRIDE, M) == 0 then dead = dead + 1 end end
+  if dead == 3 then finish_step("wipe: party down")
+  elseif f % 24 == 0 then L.press("a", 4) end
+end
+
 L.on_frame(function(f)
   if done_at then
     if f == done_at + hold then
@@ -102,6 +151,7 @@ L.on_frame(function(f)
     return
   end
   local s = step()
+  if s and s.kind == "wipe" then wipe_frame(s, f); return end
   if not s or f < idle_until then return end
   if (s.kind == "wait" or s.kind == "press") and s.started then
     finish_step(s.kind .. " " .. (s.b or s.n))   -- its idle time is over
