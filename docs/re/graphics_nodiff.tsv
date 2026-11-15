@@ -57,3 +57,12 @@
 2F58B4	Latin/digit art only (% and digit fragments)
 2F74E4	party panel frame tiles (k_jump bg2 VRAM 0x1DE0-0x1E7F, repeated over x 0-119): no text
 2F7578	party panel frame tiles, twin of 2F74E4 (loaded right after it): no text
+2F8C8C	malformed sweep row inside 2F8BB8 (done: name_sym)
+2F96C0	malformed sweep row inside 2F9590 (done: menu)
+2F98CC	malformed sweep row inside 2F97F4 (done: menu)
+2FA1F0	malformed sweep row inside 2FA1E0 (done: shop)
+2FA408	malformed sweep row inside 2FA3BC (done: shop)
+2FA7F8	malformed sweep row inside 2FA7B8 (done: sell)
+2FA8B0	malformed sweep row inside 2FA7B8 (done: sell)
+2F3E74	digit font 0-9 (+ fragments): no text
+4F23B0	title screen OBJ art (eclipse ring arcs, silhouettes; loads at retail_title 0x06010000): no text, EN title shows none

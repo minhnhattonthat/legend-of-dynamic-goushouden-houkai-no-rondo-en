@@ -2,7 +2,36 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu labels done; SFX cut-ins (S5) done; battle popups drawn; 39 sweep blocks left: shop 2F91C4, k_jump/party captions, spoils banner, name entry, 2FD740-2FE9B8, S7 signs, S3/S6; then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; 16 sweep blocks left: S7 map signs (13 tilesets), 301D08, 3086C8, 426368; then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 8 (2026-11-16): title menu, spoils page 2, shop banner, sweep triage
+- **Where the leftovers load:** `warp_all.py` now passes `--var` to probes; `--script tools/lua/unpackat.lua --var
+  "SRCS='0x08..,..'"` over every scene (work/qa/unpackat) and every map (work/qa/unpackat_maps) on the original.
+- **Done, seen in a cold-boot warp on the EN build:** title menu pills 2FD740 / 2FD884 / 2FD9BC = NEW GAME / CONTINUE
+  / PROFILES (scenes `title_menu`; `title_menu2` = debug save, soft reset, Retail: the menu with save data);
+  2FE9B8 コンティニュー = RESUME (same style, shows only with suspend data: **not seen**). Spoils page 2 (2F7B2C,
+  scene `m1_crop2`): 入手したお金 / 入手したアイテム = PRIZE GOLD / PRIZE ITEMS (入手した's tiles are shared by
+  both banners, お金 owns 24 px: GOLD; Bangers 13 = class `big`; the banner tab under the old text rebuilt by
+  `fillat`).
+- **Drawn by block, not seen:** shop banner 万屋 (2F91C4, loads with every shop at 0x060045E0 but no shop scene shows
+  it) = SHOP; name entry 記号 tab (2F8BB8, loads with name entry, R only cycles 3 tabs) = SYM.
+- `gfxlabel.STRIPS` runs take `dict(rows=2)` (a 2-row pill, text centred, cleared pixels take the row's commonest
+  kept index; `x=` fixes the left edge) and `outline=None`. 1-row strips (battle2) unchanged.
+- graphics_nodiff.tsv: 2F74E4 / 2F7578 (party panel frame tiles), 7 malformed rows inside done blocks, 2F3E74
+  (digit font), 4F23B0 (title OBJ art: eclipse arcs).
+- **Left (gfxleft: 16):**
+  - **S7 map signs:** tileset blocks at BG 0x06008000: 553FE8 (map_002-004), 56B4C0 (map_011-016), 5767BC
+    (017-020), 59184C (026-030), 5C11B8 (045), 632C74 (109), 637A28 (115-126+), 661050 (129 135 139 147), 66A918
+    (131 136), 6702B4 (133), 673C2C (134), 67A910 (046 137 138), 73C13C (244), 73E49C (245), 7A0DD0 (309 310).
+    Method: `ppuscene.py map_NNN` dumps on the original, `tiles.py map` the BG screenblocks (walk the player if
+    the sign is off screen) to see each sign whole, then a SCREENS entry per sign (kind bgN) or STRIPS/TILES
+    straight into the tileset; `vramfind --others`: a sign tile shared with other map art must not change.
+  - 3086C8: a 64x64 ロボ専 sign (black on white, 8x8 tiles); no scene or map loaded it: find its loader.
+  - 301D08: loads at map_000 into EWRAM 0x0201B5E0 (a buffer, not VRAM): tiny building sprites, maybe no text.
+  - 426368: thin katakana SFX (ガ…) over a bar, 39 tiles; never loaded by any scene or map warp (battle effect?).
+- **Next, in order:** (1) S7 signs as above. (2) 3086C8 / 301D08 / 426368. (3) Gate tour: warp_all EN ->
+  work/qa/tour_en, original -> tour_jp, `tour_sheets.py`, `qa_gate.py init/todo --size 12`, `JOBS=3 sh
+  tools/vqa.sh` (codex is installed: codex-cli 0.167.1), then inkbox on choice boxes, textcover.
 
 ## Phase 8 session 7 (2026-11-16): battle popups, shop GEAR tab, sweep triage
 - **Boss cut-in (session 5 (a)) is done:** with `tools/lua/mash.lua` (press A every N frames) on k_ode the boss
