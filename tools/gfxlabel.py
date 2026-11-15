@@ -3,6 +3,7 @@
     python -X utf8 tools/gfxlabel.py dump [SCREEN..]      warp the original ROM there and dump VRAM (tools/ppuscene.py)
     python -X utf8 tools/gfxlabel.py info SCREEN          palette-index histogram per label rect (to pick clear/ink)
     python -X utf8 tools/gfxlabel.py draw [SCREEN..]      redraw -> gfx/<screen>_<BLOCK>.diff + work/gfx/<screen>/
+                                                          (a TILES name draws tiles straight into its block)
 
 How: the screen is composed from the original's VRAM dump with every pixel's source (tools/gfxscreen.py). In each
 label rect the pixels whose palette index is in `clear` take the nearest kept pixel of the same row (the frame's
@@ -62,11 +63,20 @@ SCREENS = {
         head("PROFILES"),
         ("skill", (5, 82, 37, 10), "SKILLS", "small", {1, 4, 7, 8, 9, 10}, ([7, 8, 9, 10], 1)),
         ("view", (159, 131, 23, 10), "VIEW", "small", {2, 3}, (2, None)),
-        ("select", (186, 137, 52, 5), "SELECT:SEARCH", "tiny", {1, 2}, (2, None)),
+        ("select", (186, 137, 52, 6), "SELECT:SEARCH", "tiny", {1, 2}, (2, None), dict(dy=-1)),
     ]),
     "party": dict(scene="m1_party", labels=[head("PARTY")]),
     "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
-    "status": dict(scene="m1_status", labels=[head("STATUS")]),
+    # stat labels (bg2 over the bg3 texture), one kana per tile of block 2F6658. こうげき's こ tile (x 8-15) is also
+    # the last tile of the gender value おとこ (x 200, y 40): it goes blank, so ATTACK starts at x 16; all three
+    # sit right-aligned against the [AT]/[DF]/[DX] tags, which are already English. Values: TILES["gender"].
+    "status": dict(scene="m1_status", repeats=[(200, 40, 8, 8)], labels=[head("STATUS")] + [
+        (n, (8, y, 32, 8), t, "tiny", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1), dict(kind="bg2", right=1))
+        for n, y, t in (("atk", 88, "ATTACK"), ("def", 112, "DEFENSE"), ("spd", 136, "SPEED"))] + [
+        ("gender", (144, 40, 32, 8), "GENDER", "tiny", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1), dict(kind="bg2")),
+        # the セレクト tiles (block 2F6828) are the book's SELECT:SEARCH pill too: same rect and text row there
+        ("select", (186, 81, 52, 6), "SELECT:SWITCH", "tiny", {1, 2}, (2, None), dict(kind="bg2", dy=-1)),
+    ]),
     # セーブ画面 / ロード画面 share the 画面 tiles (x>=64 on the glyph rows): the word sits in x 33-63
     # file 2's panel (y >= 88) repeats file 1's label tiles
     "save": dict(scene="m1_save", repeats=[(0, 88, 240, 72)], labels=[
@@ -112,6 +122,67 @@ SCREENS = {
         ("run", (48, 147, 37, 8), "RUN", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
     ]),
 }
+
+
+# Tiles drawn straight into a block (values the warp scene doesn't show): name -> block, fill indices top to
+# bottom, shadow index, [(tile numbers left to right, text)]. Each run of tiles is cleared to 0 and the text centred
+# in it, rows 1-6 like the kana (pixfont.SYM symbols, else the tiny caps), with a right/bottom drop shadow.
+# gender (status screen, block 2F6658): the game composes each value from 3 tile numbers (EWRAM list at 0x0200C914
+# after load): おとこ = 14 15 00, おんな = 14 16 17, ロボ = 18 19 1A, 両性 = 1A 1B 1C. 14 and 1A are each shared by two
+# values and 00 is こうげき's こ, so only 15 / 16 17 / 18 19 / 1B 1C are a value's own: ♂, ♀, MECH, BOTH
+# (docs/decisions.md D11).
+TILES = {
+    "gender": dict(block=0x2F6658, fill=[7, 8, 9, 10], shadow=1, runs=[
+        ([0x14], ""), ([0x15], "♂"), ([0x16], "♀"), ([0x17], ""), ([0x18, 0x19], "MECH"), ([0x1A], ""),
+        ([0x1B, 0x1C], "BOTH")]),
+}
+
+
+def draw_tiles(name):
+    import pixfont
+    cfg = TILES[name]
+    rom = next((ROOT / "rom").glob("*.gba")).read_bytes()
+    raw = packed.unpack(rom, cfg["block"])[1]
+    new = bytearray(raw)
+    for tiles, text in cfg["runs"]:
+        px = {}
+        if text:
+            font = pixfont.SYM if all(c in pixfont.SYM for c in text) else pixfont.T
+            pts, tw, th = pixfont.mask(text, font=font)
+            ax, ay = (8 * len(tiles) - tw - 1) // 2, 1
+            pts = {(ax + x, ay + y) for x, y in pts}
+            for x, y in pts:
+                for dx, dy in ((1, 0), (0, 1), (1, 1)):
+                    if (x + dx, y + dy) not in pts:
+                        px[(x + dx, y + dy)] = cfg["shadow"]
+            ink = cfg["fill"]
+            for x, y in pts:
+                px[(x, y)] = ink[min(len(ink) - 1, (y - ay) * len(ink) // th)]
+        for k, t in enumerate(tiles):
+            o = 32 * t
+            new[o:o + 32] = bytes(32)
+            for (x, y), v in px.items():
+                if not (0 <= x < 8 * len(tiles) and 0 <= y < 8):
+                    raise SystemExit(f"{name}: '{text}' pixel ({x},{y}) outside its tiles")
+                if x // 8 == k:
+                    b = o + y * 4 + (x % 8) // 2
+                    new[b] = (new[b] & 0x0F) | (v << 4) if x % 2 else (new[b] & 0xF0) | v
+    gfx.DIR.mkdir(exist_ok=True)
+    out = gfx.DIR / f"{name}_{cfg['block']:06X}.diff"
+    out.write_text(gfx.make_diff(raw, bytes(new)), newline="\n")
+    # preview: the block's tiles, 4x
+    from PIL import Image
+    n = len(new) // 32
+    im = Image.new("L", (n * 9, 8), 40)
+    for t in range(n):
+        for y in range(8):
+            for x in range(8):
+                b = new[t * 32 + y * 4 + x // 2]
+                im.putpixel((t * 9 + x, y), ((b >> 4) if x % 2 else (b & 15)) * 16)
+    pv = ROOT / "work" / "gfx" / name
+    pv.mkdir(parents=True, exist_ok=True)
+    im.resize((im.width * 4, im.height * 4), Image.NEAREST).save(pv / "tiles.png")
+    print(f"{name}: {out.name}")
 
 
 def prefix(screen):
@@ -412,9 +483,12 @@ def main():
         return grid(sys.argv[2], tuple(int(v) for v in sys.argv[3].split(",")), *(sys.argv[4:5] or ["bg"]))
     if len(sys.argv) < 2 or sys.argv[1] not in ("dump", "info", "draw"):
         raise SystemExit(__doc__)
-    cmd, names = sys.argv[1], [a for a in sys.argv[2:] if not a.startswith("-")] or sorted(SCREENS)
+    cmd, names = sys.argv[1], [a for a in sys.argv[2:] if not a.startswith("-")] or sorted(SCREENS) + (
+        sorted(TILES) if sys.argv[1] == "draw" else [])
     for n in names:
-        if cmd == "dump":
+        if n in TILES:
+            draw_tiles(n)
+        elif cmd == "dump":
             import ppuscene
             print(ppuscene.dump(SCREENS[n]["scene"], "jp", FRAMES))
         elif cmd == "info":

@@ -72,6 +72,12 @@ T = {
     "-": ["...", "...", "###", "...", "..."], ".": [".", ".", ".", ".", "#"],
 }
 
+# 6-row symbols for single 8x8 tiles (the status screen's gender value, tools/gfxlabel.py TILES)
+SYM = {
+    "♂": ["....###", ".....##", "..##.#.", ".#..#..", ".#..#..", "..##..."],
+    "♀": [".###.", "#...#", ".###.", "..#..", ".###.", "..#.."],
+}
+
 
 def width(text, gap=1):
     return sum(len(G[c][0]) for c in text) + gap * (len(text) - 1)
@@ -87,4 +93,4 @@ def mask(text, gap=1, font=None):
                 if ch == "#":
                     pts.add((x + dx, y))
         x += len(g[0]) + gap
-    return pts, x - gap, len(font["A"])
+    return pts, x - gap, max(len(font[c]) for c in text)
