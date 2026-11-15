@@ -173,6 +173,16 @@ def rom_texts(jp=False):
     return out
 
 
+def rom_ptrs():
+    """{string offset: [pointer word offsets]} for every plain ROM string (romstr's sites, as extracted)."""
+    out = {}
+    for name in script_files():
+        if name.startswith("rom/"):
+            for e in load(name):
+                out[int(e["id"][1:], 16)] = [int(p, 16) for p in e.get("ptrs", ())]
+    return out
+
+
 def stats():
     tot = done = 0
     for name in script_files():

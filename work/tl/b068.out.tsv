@@ -21,11 +21,11 @@ r0CE7E0	Park B
 r0CE7E8	Science City/Lab 1Fd_2
 r0CE804	Science City/Lab 1Fd
 r0CE81C	Science City/Lab 1Fc
-r0CE834	SciCity/MedRoom 2Fb_2
-r0CE850	SciCity/MedRoom 2Fb
-r0CE868	SciCity/MedRoom 1Fc
-r0CE880	SciCity/MedRoom 1Fb
-r0CE898	DemonKing F
+r0CE834	Science City/Medical Room 2Fb_2
+r0CE850	Science City/Medical Room 2Fb
+r0CE868	Science City/Medical Room 1Fc
+r0CE880	Science City/Medical Room 1Fb
+r0CE898	Demon King's Castle F
 r0CE8A4	Kedaman 6
 r0CE8B0	Kedaman 5
 r0CE8BC	Kedaman 4
@@ -58,15 +58,15 @@ r0CEA64	Saotome Lab 01B
 r0CEA78	Saotome Lab 01A
 r0CEA8C	BlackBG
 r0CEA94	Lost Forest 10
-r0CEAA4	LostForest9
-r0CEAB0	LostForest8
-r0CEABC	LostForest7
-r0CEAC8	LostForest6
-r0CEAD4	LostForest5
-r0CEAE0	LostForest4
-r0CEAEC	LostForest3
-r0CEAF8	LostForest2
-r0CEB04	LostForest1
+r0CEAA4	Lost Forest 9
+r0CEAB0	Lost Forest 8
+r0CEABC	Lost Forest 7
+r0CEAC8	Lost Forest 6
+r0CEAD4	Lost Forest 5
+r0CEAE0	Lost Forest 4
+r0CEAEC	Lost Forest 3
+r0CEAF8	Lost Forest 2
+r0CEB04	Lost Forest 1
 r0CEB10	Chapel/Black Forest
 r0CEB24	St. Chapel
 r0CEB30	HasunumaSky
@@ -121,25 +121,25 @@ r0CEE54	House/Home 1D
 r0CEE64	House/Home 1C
 r0CEE74	House/Home 1B
 r0CEE84	House/Home 1A
-r0CEE94	DemonKing E
-r0CEEA0	DemonKing D
-r0CEEAC	DemonCastle C02
-r0CEEBC	DemonCastle C01
-r0CEECC	DemonCastle B02
-r0CEEDC	DemonCastle B01
-r0CEEEC	DemonCastle A02
-r0CEEFC	DemonCastle A01
+r0CEE94	Demon King's Castle E
+r0CEEA0	Demon King's Castle D
+r0CEEAC	Demon King's Castle C02
+r0CEEBC	Demon King's Castle C01
+r0CEECC	Demon King's Castle B02
+r0CEEDC	Demon King's Castle B01
+r0CEEEC	Demon King's Castle A02
+r0CEEFC	Demon King's Castle A01
 r0CEF0C	HeraiCave 2
 r0CEF1C	HeraiCave 1
-r0CEF2C	Herai 09
-r0CEF38	Herai 08
-r0CEF44	Herai 07
-r0CEF50	Herai 06
-r0CEF5C	Herai 05
-r0CEF68	Herai 04
-r0CEF74	Herai 03
-r0CEF80	Herai 02
-r0CEF8C	Herai 01
+r0CEF2C	Herai Village 09
+r0CEF38	Herai Village 08
+r0CEF44	Herai Village 07
+r0CEF50	Herai Village 06
+r0CEF5C	Herai Village 05
+r0CEF68	Herai Village 04
+r0CEF74	Herai Village 03
+r0CEF80	Herai Village 02
+r0CEF8C	Herai Village 01
 r0CEF98	Science City/Kikkai(unused)
 r0CEFB4	Science City/Uryu 4
 r0CEFC8	Science City/Uryu 3(unused)

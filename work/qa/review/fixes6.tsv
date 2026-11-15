@@ -1,0 +1,53 @@
+# Phase 7: wave-1 debug map names (map_name table, leftover debug warp menu) cut to the in-place byte limit;
+# build.py relocates them now, so the glossary forms come back.
+r0CE834	Science City/Medical Room 2Fb_2
+r0CE850	Science City/Medical Room 2Fb
+r0CE868	Science City/Medical Room 1Fc
+r0CE880	Science City/Medical Room 1Fb
+r0CEAA4	Lost Forest 9
+r0CEAB0	Lost Forest 8
+r0CEABC	Lost Forest 7
+r0CEAC8	Lost Forest 6
+r0CEAD4	Lost Forest 5
+r0CEAE0	Lost Forest 4
+r0CEAEC	Lost Forest 3
+r0CEAF8	Lost Forest 2
+r0CEB04	Lost Forest 1
+r0CF2FC	Science City/Medical Room 2F
+r0CF314	Science City/Medical Room 1F
+r0CF32C	Science City/Conference Hall 1Fb
+r0CF348	Science City/Conference Hall 1Fa
+r0CFE20	Hill of Beginnings 5
+r0CFE30	Hill of Beginnings 4
+r0CFE40	Hill of Beginnings 3
+r0CFE50	Hill of Beginnings 2
+r0CFE60	Hill of Beginnings 1
+r0CFE84	Reaper Police/2F
+r0CFED0	Kisaragi Mansion/1FC
+r0CFEBC	Kisaragi Mansion/B1FC
+r0CFEE0	Kisaragi Mansion/B1FB
+r0CFEF4	Kisaragi Mansion/1FB
+r0CFF04	Kisaragi Mansion/B1F
+r0CFF14	Kisaragi Mansion/1F
+r0CFF24	Yokai Mansion
+r0CFF84	Asuka Mansion/2F
+r0CFF94	Asuka Mansion/1FB
+r0CFFA4	Asuka Mansion/1FA
+r0CFFB4	Asuka Mansion/Outside
+r0CFFC0	Map of Japan
+# char_name (full name; no measured narrow field, shown in the battle banner): glossary forms back
+r0DB384	Immortal Corps C
+r0DB390	Immortal Corps B
+r0DB3A4	Immortal Corps A
+r0DB434	Mechanical Beast C
+r0DB440	Mechanical Beast B
+r0DB45C	Mechanical Beast A
+r0DB038	Mechanical Beast Baron Ashura
+r0DB55C	Reaper Police 3
+r0DB568	Reaper Police 2
+r0DB574	Reaper Police 1
+r0DB580	Reaper Police C
+r0DB58C	Reaper Police B
+r0DB5AC	Reaper Police A
+# char_short 不死団 (menu_name 48 px): closer to the glossary than Undying
+r0DB39C	Immortal

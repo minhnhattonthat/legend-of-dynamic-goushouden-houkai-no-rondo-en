@@ -1412,8 +1412,8 @@
   ],
   "max": 19,
   "jp": "ハニーブーメラン",
-  "en": "",
-  "status": "",
+  "en": "H.Boomerang",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1874,8 +1874,8 @@
   ],
   "max": 19,
   "jp": "ルストハリケーン",
-  "en": "",
-  "status": "",
+  "en": "RustHurricane",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2071,7 +2071,7 @@
   ],
   "max": 7,
   "jp": "剣の舞",
-  "en": "Fencing",
+  "en": "Sword Dance",
   "status": "done",
   "notes": ""
  },
@@ -2388,7 +2388,7 @@
   ],
   "max": 7,
   "jp": "放電",
-  "en": "Static",
+  "en": "Discharge",
   "status": "done",
   "notes": ""
  },
@@ -2567,7 +2567,7 @@
   ],
   "max": 7,
   "jp": "大吹雪",
-  "en": "Flurry",
+  "en": "Blizzard",
   "status": "done",
   "notes": ""
  },

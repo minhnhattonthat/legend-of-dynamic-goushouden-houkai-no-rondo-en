@@ -1,8 +1,8 @@
 r0CF000	Science City/Uryu 1(unused)
-r0CF01C	ScienceCity/HotelRoom4
-r0CF034	ScienceCity/HotelRoom3
-r0CF04C	ScienceCity/HotelRoom2
-r0CF064	ScienceCity/HotelRoom1
+r0CF01C	Science City/Hotel Room 4
+r0CF034	Science City/Hotel Room 3
+r0CF04C	Science City/Hotel Room 2
+r0CF064	Science City/Hotel Room 1
 r0CF07C	Science City/Hotel B1Fb
 r0CF098	Science City/Hotel B1Fa
 r0CF0B4	Science City/Hotel 4Fb
@@ -10,34 +10,34 @@ r0CF0CC	Science City/Hotel 4Fa
 r0CF0E4	Science City/Hotel 3F
 r0CF0FC	Science City/Hotel 2F
 r0CF114	Science City/Hotel 1F
-r0CF12C	Mirage F4/GateCtrl 1
-r0CF148	MirageF4/Treasury1
-r0CF15C	Mirage F4
+r0CF12C	Mirage Castle F4/Gate Control 1
+r0CF148	Mirage Castle F4/Treasury 1
+r0CF15C	Mirage Castle F4
 r0CF168	Mirage Castle F3/Security Room
-r0CF188	Mirage F3/Waiting 3
-r0CF19C	Mirage F3/Waiting 1
-r0CF1B0	MirageF3/Treasury2
-r0CF1C4	Mirage F3/R
-r0CF1D4	Mirage F3/L
-r0CF1E4	Mirage F2
-r0CF1F0	Mirage F1/GateCtrl 2
-r0CF20C	Mirage F1/Waiting 2
-r0CF220	Mirage F1/Rm 1
-r0CF234	Mirage F1/CrystalRm
-r0CF24C	MirageF1/Throne
-r0CF25C	Mirage F1
+r0CF188	Mirage Castle F3/Waiting Room 3
+r0CF19C	Mirage Castle F3/Waiting Room 1
+r0CF1B0	Mirage Castle F3/Treasury 2
+r0CF1C4	Mirage Castle F3/R
+r0CF1D4	Mirage Castle F3/L
+r0CF1E4	Mirage Castle F2
+r0CF1F0	Mirage Castle F1/Gate Control 2
+r0CF20C	Mirage Castle F1/Waiting Room 2
+r0CF220	Mirage Castle F1/Room 1
+r0CF234	Mirage Castle F1/Crystal Room
+r0CF24C	Mirage Castle F1/Throne Room
+r0CF25C	Mirage Castle F1
 r0CF268	MirageOut/Ruin
 r0CF278	Mirage Out/Gate
 r0CF288	MirageOutMt
 r0CF294	Hell
-r0CF29C	Harenchi/Town
+r0CF29C	Harenchi Gakuen/Town
 r0CF2B4	Science City/Lab 2F
 r0CF2CC	Science City/Lab 1Fb
 r0CF2E4	Science City/Lab 1Fa
-r0CF2FC	SciCity/MedRoom 2F
-r0CF314	SciCity/MedRoom 1F
-r0CF32C	SciCity/ConfHall 1Fb
-r0CF348	SciCity/ConfHall 1Fa
+r0CF2FC	Science City/Medical Room 2F
+r0CF314	Science City/Medical Room 1F
+r0CF32C	Science City/Conference Hall 1Fb
+r0CF348	Science City/Conference Hall 1Fa
 r0CF364	Science City/City K
 r0CF378	Science City/City J
 r0CF38C	Science City/City I
@@ -76,63 +76,63 @@ r0CF66C	Photon Power Lab 04/East
 r0CF688	Photon Power Lab 03/Elevator
 r0CF6A8	Photon Power Lab02/Hall
 r0CF6C0	Photon Power Lab 01
-r0CF6D4	DarkTemple11/CrashSite
-r0CF6EC	DarkTemple10/Jarai Statue
-r0CF708	DarkTemple09/Temple
-r0CF71C	DarkTemple08/DarkTempleExt3
-r0CF738	DarkTemple07/DarkTempleExt2
-r0CF754	DarkTemple06/DarkTempleExt1
-r0CF770	DarkTemple05/SenganOniExit(unused)
-r0CF794	DarkTemple 04/SenganIn
-r0CF7B0	DarkTemple03/SenganOniCrag
-r0CF7CC	DarkTemple02/FangPlains
-r0CF7E4	DarkTemple 01/ForestIn+Edge
-r0CF804	Yokai/4Fb(Princess Yukiko)
+r0CF6D4	Dark Temple 11/Crash Site
+r0CF6EC	Dark Temple 10/Jarai Statue
+r0CF708	Dark Temple 09/Temple
+r0CF71C	Dark Temple 08/Dark Temple Exterior 3
+r0CF738	Dark Temple 07/Dark Temple Exterior 2
+r0CF754	Dark Temple 06/Dark Temple Exterior 1
+r0CF770	Dark Temple 05/Sengan Oni Exit(unused)
+r0CF794	Dark Temple 04/Sengan Entrance
+r0CF7B0	Dark Temple 03/Sengan Oni Crag
+r0CF7CC	Dark Temple 02/Fang Plains
+r0CF7E4	Dark Temple 01/Forest Entrance+Edge
+r0CF804	Yokai Mansion/4Fb(Princess Yukiko)
 r0CF820	Yokai Mansion/4Fa
 r0CF834	Yokai Mansion/3F(Pool)
 r0CF850	Yokai Mansion/2Fd/Bedroom
 r0CF870	Yokai Mansion/2Fc
 r0CF884	Yokai Mansion/2Fb Training
 r0CF8A4	Yokai Mansion/2Fa
-r0CF8B8	Yokai/1Fe(Tatami)
+r0CF8B8	Yokai Mansion/1Fe(Tatami)
 r0CF8D4	Yokai Mansion/1Fd(Kapaeru)
 r0CF8F4	Yokai Mansion/1Fc
 r0CF908	Yokai Mansion/1Fb
 r0CF91C	Yokai Mansion/1Fa
-r0CF930	Yokai/Forest
-r0CF944	HarenchiGakuen/Storeroom2Fb(unused)
-r0CF968	HarenchiGakuen/Storeroom2Fa
-r0CF984	HarenchiGakuen/Storeroom1Fb(unused)
-r0CF9A8	HarenchiGakuen/Storeroom1Fa
+r0CF930	Yokai Mansion/Forest
+r0CF944	Harenchi Gakuen/Storeroom 2Fb(unused)
+r0CF968	Harenchi Gakuen/Storeroom 2Fa
+r0CF984	Harenchi Gakuen/Storeroom 1Fb(unused)
+r0CF9A8	Harenchi Gakuen/Storeroom 1Fa
 r0CF9C4	Harenchi Gakuen/Gym
-r0CF9DC	Harenchi/GirlsWC 3
-r0CF9F8	Harenchi/GirlsWC 2
-r0CFA14	Harenchi/GirlsWC
-r0CFA30	Harenchi/BoysWC 3
-r0CFA4C	Harenchi/BoysWC 2
-r0CFA68	Harenchi/BoysWC
-r0CFA84	Harenchi/Classroom D
-r0CFA9C	Harenchi/Classroom C2
-r0CFAB4	Harenchi/Classroom C
-r0CFACC	Harenchi/Classroom B6
-r0CFAE4	Harenchi/Classroom B5
-r0CFAFC	Harenchi/Classroom B4
-r0CFB14	Harenchi/Classroom B3
-r0CFB2C	Harenchi/Classroom B2
-r0CFB44	Harenchi/Classroom B
-r0CFB5C	Harenchi/Classroom A6
-r0CFB74	Harenchi/Classroom A5
-r0CFB8C	Harenchi/Classroom A4
-r0CFBA4	Harenchi/Classroom A3
-r0CFBBC	Harenchi/Classroom A2
-r0CFBD4	Harenchi/Classroom A
+r0CF9DC	Harenchi Gakuen/Girls' WC 3
+r0CF9F8	Harenchi Gakuen/Girls' WC 2
+r0CFA14	Harenchi Gakuen/Girls' WC
+r0CFA30	Harenchi Gakuen/Boys' WC 3
+r0CFA4C	Harenchi Gakuen/Boys' WC 2
+r0CFA68	Harenchi Gakuen/Boys' WC
+r0CFA84	Harenchi Gakuen/Classroom D
+r0CFA9C	Harenchi Gakuen/Classroom C2
+r0CFAB4	Harenchi Gakuen/Classroom C
+r0CFACC	Harenchi Gakuen/Classroom B6
+r0CFAE4	Harenchi Gakuen/Classroom B5
+r0CFAFC	Harenchi Gakuen/Classroom B4
+r0CFB14	Harenchi Gakuen/Classroom B3
+r0CFB2C	Harenchi Gakuen/Classroom B2
+r0CFB44	Harenchi Gakuen/Classroom B
+r0CFB5C	Harenchi Gakuen/Classroom A6
+r0CFB74	Harenchi Gakuen/Classroom A5
+r0CFB8C	Harenchi Gakuen/Classroom A4
+r0CFBA4	Harenchi Gakuen/Classroom A3
+r0CFBBC	Harenchi Gakuen/Classroom A2
+r0CFBD4	Harenchi Gakuen/Classroom A
 r0CFBEC	Harenchi Gakuen/4Fb
 r0CFC04	Harenchi Gakuen/4Fa
 r0CFC1C	Harenchi Gakuen/3F
 r0CFC30	Harenchi Gakuen/2F
 r0CFC44	Harenchi Gakuen/1F
 r0CFC58	Harenchi Gakuen/B1F
-r0CFC70	Harenchi/Yard
+r0CFC70	Harenchi Gakuen/Yard
 r0CFC84	Restaurant King B1F(unused)
 r0CFCA4	Restaurant King 3Fb(unused)
 r0CFCC4	Restaurant King 3Fa(unused)
@@ -144,7 +144,7 @@ r0CFD54	Battle
 r0CFD5C	Restaurant
 r0CFD68	Reaper Police 02(Maze)
 r0CFD80	Reaper Police 01(Maze)
-r0CFD98	QuakeFortInside
+r0CFD98	Quake Fort Inside
 r0CFDA8	Quake Fort
 r0CFDB4	Checkpt
 r0CFDBC	Kanto Slum/House 5

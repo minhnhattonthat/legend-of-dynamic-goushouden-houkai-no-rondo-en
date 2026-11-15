@@ -1,0 +1,15 @@
+# id<TAB>English: short forms in fields too narrow for the glossary form (D8 in docs/decisions.md).
+# The glossary check (tools/batches.py) accepts exactly this English for this id; anything else must match the
+# glossary. Field widths: tools/windows.json (menu_name 48 px, battle_name 54, item_list 69, equip_list 70).
+r0DB018	Grade
+r0DB154	Grade
+r0DB1D4	Kekko
+r0DB39C	Immortal
+r0DB414	M.Saurus
+r0DB7E0	Borot
+r0DB7F0	Aphro. A
+r0DB800	Mazinger
+r0DB8F4	Higegoji
+r0DDA58	Prof. Yumi
+r0DDC08	King Enma
+r0DDC20	Yukiko-hime

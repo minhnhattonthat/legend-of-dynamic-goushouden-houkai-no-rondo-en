@@ -49,8 +49,8 @@
   ],
   "max": 19,
   "jp": "機械獣あしゅら男爵",
-  "en": "",
-  "status": "",
+  "en": "Mechanical Beast Baron Ashura",
+  "status": "done",
   "notes": ""
  },
  {
@@ -74,7 +74,7 @@
   ],
   "max": 11,
   "jp": "悲惨将軍",
-  "en": "Lord Misery",
+  "en": "General Hisan",
   "status": "done",
   "notes": ""
  },
@@ -422,8 +422,8 @@
   ],
   "max": 15,
   "jp": "けっこう仮面",
-  "en": "",
-  "status": "",
+  "en": "Kekko",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,7 +445,7 @@
   ],
   "max": 11,
   "jp": "果扨虹蛇",
-  "en": "Kasa Koja",
+  "en": "Koja Hatesate",
   "status": "done",
   "notes": ""
  },
@@ -800,7 +800,7 @@
   ],
   "max": 11,
   "jp": "不死団Ｃ",
-  "en": "Undying C",
+  "en": "Immortal Corps C",
   "status": "done",
   "notes": ""
  },
@@ -811,7 +811,7 @@
   ],
   "max": 11,
   "jp": "不死団Ｂ",
-  "en": "Undying B",
+  "en": "Immortal Corps B",
   "status": "done",
   "notes": ""
  },
@@ -837,7 +837,7 @@
   ],
   "max": 7,
   "jp": "不死団",
-  "en": "Undying",
+  "en": "Immortal",
   "status": "done",
   "notes": ""
  },
@@ -848,7 +848,7 @@
   ],
   "max": 11,
   "jp": "不死団Ａ",
-  "en": "Undying A",
+  "en": "Immortal Corps A",
   "status": "done",
   "notes": ""
  },
@@ -966,8 +966,8 @@
   ],
   "max": 11,
   "jp": "機械獣Ｃ",
-  "en": "",
-  "status": "",
+  "en": "Mechanical Beast C",
+  "status": "done",
   "notes": ""
  },
  {
@@ -977,8 +977,8 @@
   ],
   "max": 11,
   "jp": "機械獣Ｂ",
-  "en": "",
-  "status": "",
+  "en": "Mechanical Beast B",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1001,8 +1001,8 @@
   ],
   "max": 11,
   "jp": "機械獣Ａ",
-  "en": "",
-  "status": "",
+  "en": "Mechanical Beast A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1196,7 +1196,7 @@
   ],
   "max": 11,
   "jp": "死神警察３",
-  "en": "Death Cop 3",
+  "en": "Reaper Police 3",
   "status": "done",
   "notes": ""
  },
@@ -1207,7 +1207,7 @@
   ],
   "max": 11,
   "jp": "死神警察２",
-  "en": "Death Cop 2",
+  "en": "Reaper Police 2",
   "status": "done",
   "notes": ""
  },
@@ -1218,7 +1218,7 @@
   ],
   "max": 11,
   "jp": "死神警察１",
-  "en": "Death Cop 1",
+  "en": "Reaper Police 1",
   "status": "done",
   "notes": ""
  },
@@ -1229,7 +1229,7 @@
   ],
   "max": 11,
   "jp": "死神警察Ｃ",
-  "en": "Death Cop C",
+  "en": "Reaper Police C",
   "status": "done",
   "notes": ""
  },
@@ -1240,7 +1240,7 @@
   ],
   "max": 11,
   "jp": "死神警察Ｂ",
-  "en": "Death Cop B",
+  "en": "Reaper Police B",
   "status": "done",
   "notes": ""
  },
@@ -1267,7 +1267,7 @@
   ],
   "max": 11,
   "jp": "死神警察Ａ",
-  "en": "Death Cop A",
+  "en": "Reaper Police A",
   "status": "done",
   "notes": ""
  },
@@ -1814,8 +1814,8 @@
   ],
   "max": 15,
   "jp": "アフロダイＡ",
-  "en": "",
-  "status": "",
+  "en": "Aphro. A",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1826,8 +1826,8 @@
   ],
   "max": 15,
   "jp": "マジンガーＺ",
-  "en": "",
-  "status": "",
+  "en": "Mazinger",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1871,7 +1871,7 @@
   ],
   "max": 11,
   "jp": "鬼谷妖次郎",
-  "en": "Kitani",
+  "en": "Yojiro Kitani",
   "status": "done",
   "notes": ""
  },
@@ -2036,8 +2036,8 @@
   ],
   "max": 11,
   "jp": "きくのすけ",
-  "en": "",
-  "status": "",
+  "en": "Kikuno",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2073,8 +2073,8 @@
   ],
   "max": 11,
   "jp": "ヒゲゴジラ",
-  "en": "",
-  "status": "",
+  "en": "Higegoji",
+  "status": "done",
   "notes": ""
  },
  {
@@ -2086,8 +2086,8 @@
   ],
   "max": 19,
   "jp": "マカロニ・キッド",
-  "en": "",
-  "status": "",
+  "en": "Macaroni",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3467,8 +3467,8 @@
   ],
   "max": 19,
   "jp": "ゲッタートマホーク",
-  "en": "",
-  "status": "",
+  "en": "G.Tomahawk",
+  "status": "done",
   "notes": ""
  },
  {
@@ -3478,8 +3478,8 @@
   ],
   "max": 15,
   "jp": "Ｇ・トマホーク",
-  "en": "",
-  "status": "",
+  "en": "G.Tomahawk",
+  "status": "done",
   "notes": ""
  },
  {

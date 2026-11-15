@@ -11,7 +11,7 @@ Per translated entry (en non-empty, status not "data"):
     budget in px (line 1 / line 2 of each 2-line page, engine.half_widths; {p}/{s} count as name_var px)
   - book / desc archives (script/book, script/desc): lines and px per line within their box (windows.json book,
     desc; the book in the 12-px font, as it is inserted fullwidth); the book's 511-byte buffer is checked by build.py
-  - ROM strings: encoded bytes <= max (in place for now); px within every windows.json box whose `categories`
+  - ROM strings: encoded bytes <= max unless the string has pointers (build.py relocates it then); px within every windows.json box whose `categories`
     include one of the string's record tables (tools/fields.py TABLES: item_list, battle_name, ...)
 Warnings (summary count; --warn lists them): a stub last line (< 6 chars) in a multi-line paragraph.
 """
@@ -170,8 +170,8 @@ def lint_rom(e, errs):
     off = int(e["id"][1:], 16)
     text = sjis.fullwidth(e["en"]) if off in extract.FULLWIDTH else e["en"]
     n = len(sjis.encode(text))
-    if n > e["max"]:
-        errs.append("%s: %d bytes, room for %d" % (e["id"], n, e["max"]))
+    if n > e["max"] and not e.get("ptrs"):  # with pointers, build.py relocates it (insert_rom_strings)
+        errs.append("%s: %d bytes, room for %d and no pointer to relocate it" % (e["id"], n, e["max"]))
     for box in rom_boxes(e):
         win = WINDOWS[box]
         widths = {"8": char_widths8, "12": char_widths12}.get(win.get("font"), char_widths)()

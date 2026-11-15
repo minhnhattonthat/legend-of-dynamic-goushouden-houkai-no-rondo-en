@@ -9,7 +9,8 @@ Steps: rom check -> engine patches (tools/engine.py: 16 MiB, archive pointers, V
 archive (tools/archive.py: unpack every file, rebuild each from script/archive/*.json via tools/extract.py +
 tools/sjis.py, repack; unchanged files keep their original lh5 stream, edited ones are re-encoded by tools/lh5.py)
 at engine.NEW_ARCHIVE, then the five archives after it (book, desc, effect, place; archive.ARCHIVES) from
-script/<dir>/*.json, their literal pools repointed -> translated plain ROM strings from script/rom/*.json, in place -> write. Every write goes
+script/<dir>/*.json, their literal pools repointed -> translated plain ROM strings from script/rom/*.json, in place, or
+after the archives with every pointer rewritten when longer than the slot (phase 7) -> write. Every write goes
 through Writer.put and is logged to <out>.writes.txt for romdiff.py --writes.
 Packed graphics join here as they get edited (phase 8).
 """
@@ -92,12 +93,29 @@ SCRIPT_FILE_MAX = 0x8000  # bytes per unpacked script file (heap-allocated; see 
                           # largest file, 28,566 bytes, ran the whole marker tour
 
 
-def insert_rom_strings(rom, texts, put=None):
-    """Translated plain strings and record names go in place (relocation comes in phase 7)."""
+def insert_rom_strings(rom, texts, put=None, reloc=None):
+    """Translated plain strings and record names go in place; one longer than its slot is relocated when reloc =
+    (orig, at, ptrs): written at `at` (free space after the archives) and every pointer word in ptrs[off] (the
+    extracted sites, each asserted to hold 0x08000000 + off in the original) repointed. Returns the new cursor."""
     for off, room, text, translated in texts:
         if not translated:
             continue
         data = sjis.encode(sjis.fullwidth(text) if off in FULLWIDTH else text)
+        if len(data) > room and reloc is not None:
+            orig, at, ptrs = reloc
+            sites = ptrs.get(off)
+            if not sites:
+                raise SystemExit("r%06X: %d bytes, room for %d and no pointer to move it: %r" % (off, len(data), room, text))
+            if at + len(data) + 1 > engine.ROM_SIZE:
+                raise SystemExit("relocated strings run past the end of the ROM at r%06X" % off)
+            put(at, data + b"\0", "string %06X relocated" % off)
+            for site in sites:
+                if struct.unpack_from("<I", orig, site)[0] != 0x08000000 + off:
+                    raise SystemExit("r%06X: pointer at %06X does not hold its address in the original" % (off, site))
+                put(site, struct.pack("<I", 0x08000000 + at), "string %06X ptr" % off)
+            at = (at + len(data) + 1 + 3) & ~3
+            reloc = (orig, at, ptrs)
+            continue
         if len(data) > room:
             raise SystemExit("r%06X: %d bytes, room for %d: %r" % (off, len(data), room, text))
         data += bytes(room + 1 - len(data))
@@ -105,6 +123,7 @@ def insert_rom_strings(rom, texts, put=None):
             put(off, data, "string %06X" % off)
         else:
             rom[off:off + room + 1] = data
+    return reloc[1] if reloc else None
 
 
 def identity(orig, reencode=False):
@@ -164,7 +183,7 @@ def build(orig, marker=False, writes=None, qa=()):
             lo, hi = (int(x, 16) for x in scope[4:].split("-"))
         marks = {t[0]: t for t in marker_mod.rom_markers() if lo <= t[0] < hi}
         texts = [marks.get(t[0], t) for t in texts]
-    insert_rom_strings(rom, texts, w.put)
+    insert_rom_strings(rom, texts, w.put, (orig, cur, extract.rom_ptrs()))
     if writes is not None:
         writes.extend(w.log)
     return bytes(rom)

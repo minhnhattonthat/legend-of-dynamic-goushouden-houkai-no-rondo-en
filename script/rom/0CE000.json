@@ -366,7 +366,7 @@
   ],
   "max": 27,
   "jp": "科学都市・医療室２Ｆｂ＿２",
-  "en": "SciCity/MedRoom 2Fb_2",
+  "en": "Science City/Medical Room 2Fb_2",
   "status": "done",
   "notes": ""
  },
@@ -377,7 +377,7 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室２Ｆｂ",
-  "en": "SciCity/MedRoom 2Fb",
+  "en": "Science City/Medical Room 2Fb",
   "status": "done",
   "notes": ""
  },
@@ -388,7 +388,7 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室１Ｆｃ",
-  "en": "SciCity/MedRoom 1Fc",
+  "en": "Science City/Medical Room 1Fc",
   "status": "done",
   "notes": ""
  },
@@ -399,7 +399,7 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室１Ｆｂ",
-  "en": "SciCity/MedRoom 1Fb",
+  "en": "Science City/Medical Room 1Fb",
   "status": "done",
   "notes": ""
  },
@@ -410,7 +410,7 @@
   ],
   "max": 11,
   "jp": "魔王の城Ｆ",
-  "en": "DemonKing F",
+  "en": "Demon King's Castle F",
   "status": "done",
   "notes": ""
  },
@@ -773,7 +773,7 @@
   ],
   "max": 11,
   "jp": "迷いの森９",
-  "en": "LostForest9",
+  "en": "Lost Forest 9",
   "status": "done",
   "notes": ""
  },
@@ -784,7 +784,7 @@
   ],
   "max": 11,
   "jp": "迷いの森８",
-  "en": "LostForest8",
+  "en": "Lost Forest 8",
   "status": "done",
   "notes": ""
  },
@@ -795,7 +795,7 @@
   ],
   "max": 11,
   "jp": "迷いの森７",
-  "en": "LostForest7",
+  "en": "Lost Forest 7",
   "status": "done",
   "notes": ""
  },
@@ -806,7 +806,7 @@
   ],
   "max": 11,
   "jp": "迷いの森６",
-  "en": "LostForest6",
+  "en": "Lost Forest 6",
   "status": "done",
   "notes": ""
  },
@@ -817,7 +817,7 @@
   ],
   "max": 11,
   "jp": "迷いの森５",
-  "en": "LostForest5",
+  "en": "Lost Forest 5",
   "status": "done",
   "notes": ""
  },
@@ -828,7 +828,7 @@
   ],
   "max": 11,
   "jp": "迷いの森４",
-  "en": "LostForest4",
+  "en": "Lost Forest 4",
   "status": "done",
   "notes": ""
  },
@@ -839,7 +839,7 @@
   ],
   "max": 11,
   "jp": "迷いの森３",
-  "en": "LostForest3",
+  "en": "Lost Forest 3",
   "status": "done",
   "notes": ""
  },
@@ -850,7 +850,7 @@
   ],
   "max": 11,
   "jp": "迷いの森２",
-  "en": "LostForest2",
+  "en": "Lost Forest 2",
   "status": "done",
   "notes": ""
  },
@@ -861,7 +861,7 @@
   ],
   "max": 11,
   "jp": "迷いの森１",
-  "en": "LostForest1",
+  "en": "Lost Forest 1",
   "status": "done",
   "notes": ""
  },
@@ -1466,7 +1466,7 @@
   ],
   "max": 11,
   "jp": "魔王の城Ｅ",
-  "en": "DemonKing E",
+  "en": "Demon King's Castle E",
   "status": "done",
   "notes": ""
  },
@@ -1477,7 +1477,7 @@
   ],
   "max": 11,
   "jp": "魔王の城Ｄ",
-  "en": "DemonKing D",
+  "en": "Demon King's Castle D",
   "status": "done",
   "notes": ""
  },
@@ -1488,7 +1488,7 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｃ０２",
-  "en": "DemonCastle C02",
+  "en": "Demon King's Castle C02",
   "status": "done",
   "notes": ""
  },
@@ -1499,7 +1499,7 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｃ０１",
-  "en": "DemonCastle C01",
+  "en": "Demon King's Castle C01",
   "status": "done",
   "notes": ""
  },
@@ -1510,7 +1510,7 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｂ０２",
-  "en": "DemonCastle B02",
+  "en": "Demon King's Castle B02",
   "status": "done",
   "notes": ""
  },
@@ -1521,7 +1521,7 @@
   ],
   "max": 15,
   "jp": "魔王の城Ｂ０１",
-  "en": "DemonCastle B01",
+  "en": "Demon King's Castle B01",
   "status": "done",
   "notes": ""
  },
@@ -1532,7 +1532,7 @@
   ],
   "max": 15,
   "jp": "魔王の城Ａ０２",
-  "en": "DemonCastle A02",
+  "en": "Demon King's Castle A02",
   "status": "done",
   "notes": ""
  },
@@ -1543,7 +1543,7 @@
   ],
   "max": 15,
   "jp": "魔王の城Ａ０１",
-  "en": "DemonCastle A01",
+  "en": "Demon King's Castle A01",
   "status": "done",
   "notes": ""
  },
@@ -1576,7 +1576,7 @@
   ],
   "max": 11,
   "jp": "戸来村０９",
-  "en": "Herai 09",
+  "en": "Herai Village 09",
   "status": "done",
   "notes": ""
  },
@@ -1587,7 +1587,7 @@
   ],
   "max": 11,
   "jp": "戸来村０８",
-  "en": "Herai 08",
+  "en": "Herai Village 08",
   "status": "done",
   "notes": ""
  },
@@ -1598,7 +1598,7 @@
   ],
   "max": 11,
   "jp": "戸来村０７",
-  "en": "Herai 07",
+  "en": "Herai Village 07",
   "status": "done",
   "notes": ""
  },
@@ -1609,7 +1609,7 @@
   ],
   "max": 11,
   "jp": "戸来村０６",
-  "en": "Herai 06",
+  "en": "Herai Village 06",
   "status": "done",
   "notes": ""
  },
@@ -1620,7 +1620,7 @@
   ],
   "max": 11,
   "jp": "戸来村０５",
-  "en": "Herai 05",
+  "en": "Herai Village 05",
   "status": "done",
   "notes": ""
  },
@@ -1631,7 +1631,7 @@
   ],
   "max": 11,
   "jp": "戸来村０４",
-  "en": "Herai 04",
+  "en": "Herai Village 04",
   "status": "done",
   "notes": ""
  },
@@ -1642,7 +1642,7 @@
   ],
   "max": 11,
   "jp": "戸来村０３",
-  "en": "Herai 03",
+  "en": "Herai Village 03",
   "status": "done",
   "notes": ""
  },
@@ -1653,7 +1653,7 @@
   ],
   "max": 11,
   "jp": "戸来村０２",
-  "en": "Herai 02",
+  "en": "Herai Village 02",
   "status": "done",
   "notes": ""
  },
@@ -1664,7 +1664,7 @@
   ],
   "max": 11,
   "jp": "戸来村０１",
-  "en": "Herai 01",
+  "en": "Herai Village 01",
   "status": "done",
   "notes": ""
  },

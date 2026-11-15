@@ -873,7 +873,7 @@
   ],
   "max": 15,
   "jp": "魔王グレイド",
-  "en": "Dark Lord Grade",
+  "en": "Demon King Grade",
   "status": "done",
   "notes": ""
  },
@@ -972,8 +972,8 @@
   ],
   "max": 7,
   "jp": "機械獣",
-  "en": "",
-  "status": "",
+  "en": "Mechanical Beast",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1007,8 +1007,8 @@
   ],
   "max": 15,
   "jp": "魔獣ハンター",
-  "en": "",
-  "status": "",
+  "en": "Demon Beast Hunter",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1022,8 +1022,8 @@
   ],
   "max": 7,
   "jp": "幻魔衆",
-  "en": "",
-  "status": "",
+  "en": "Genma Clan",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1042,8 +1042,8 @@
   ],
   "max": 7,
   "jp": "争魔衆",
-  "en": "",
-  "status": "",
+  "en": "Soma Clan",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1104,8 +1104,8 @@
   ],
   "max": 11,
   "jp": "帝国軍人",
-  "en": "",
-  "status": "",
+  "en": "Imperial Soldier",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1133,8 +1133,8 @@
   ],
   "max": 15,
   "jp": "死神警察　署長",
-  "en": "",
-  "status": "",
+  "en": "Reaper Police Chief",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1150,8 +1150,8 @@
   ],
   "max": 11,
   "jp": "死神警察",
-  "en": "",
-  "status": "",
+  "en": "Reaper Police",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1168,8 +1168,8 @@
   ],
   "max": 7,
   "jp": "外道会",
-  "en": "",
-  "status": "",
+  "en": "Gedo Gang",
+  "status": "done",
   "notes": ""
  },
  {

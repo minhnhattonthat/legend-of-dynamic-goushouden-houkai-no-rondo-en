@@ -1,0 +1,49 @@
+# Phase 7: short forms for ROM strings still over their field in px after relocation (D8, docs/decisions.md).
+# Bytes no longer limit these (build.py relocates); only the measured field widths in tools/windows.json do.
+# char_short: menu_name 48 px, battle_name 54 px
+r0DB1D4	Kekko
+r0DB7F0	Aphro. A
+r0DB800	Mazinger
+r0DB8D0	Kikuno
+r0DB8F4	Higegoji
+r0DB900	Macaroni
+# skills: skill_list 72 px, skill_party 76 px (r0DBF10's JP is itself the short form G・トマホーク)
+r0DBEFC	G.Tomahawk
+r0DBF10	G.Tomahawk
+r0DC5AC	H.Boomerang
+r0DC7C8	RustHurricane
+# rec18 names: item_list 69 px, equip_list 70 px; Initial. Surname (Western order) where the full name is wider
+r0DD47C	PsychoJenny
+r0DD5BC	King Enma
+r0DD5D8	Yukiko-hime
+r0DD8B8	Mr.Tobacchiri
+r0DD8FC	P. Tamatama
+r0DD908	P. Tamatama
+r0DD970	S. Daihonei
+r0DD98C	D. Hatesate
+r0DD9EC	M. Takahashi
+r0DDA18	Omorai-kun
+r0DDA58	Prof. Yumi
+r0DDA60	Prof. Yumi
+r0DDAC0	Koyayashi
+r0DDB04	S. Iyahaya
+r0DDB10	N. Iyahaya
+r0DDB1C	Alphonne III
+r0DDB54	B. Suke
+r0DDB70	Guzumushi
+r0DDB90	C. Mitsurugi
+r0DDB9C	S. Yukishiro
+r0DDBA8	T. Tengai
+r0DDBD4	M. Tomoe
+r0DDBEC	M. Shiratori
+r0DDC08	King Enma
+r0DDC14	King Enma
+r0DDC20	Yukiko-hime
+r0DDC3C	D. Abashiri
+r0DDC4C	K. Abashiri
+r0DDC58	N. Abashiri
+r0DDC68	G. Abashiri
+r0DDC80	Y. Yamagishi
+r0DDCA4	M. Saotome
+r0DDCC0	T. Makimura
+r0DDCF4	D. Hayami

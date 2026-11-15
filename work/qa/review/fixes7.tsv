@@ -1,0 +1,81 @@
+# Phase 7: wave-1 debug map names (map_name, leftover debug warp menu) back to glossary forms; relocation lifts
+# the byte limit. Generated from the check's list with a prefix/word map, then read over by hand.
+r0CE898	Demon King's Castle F
+r0CEE94	Demon King's Castle E
+r0CEEA0	Demon King's Castle D
+r0CEEAC	Demon King's Castle C02
+r0CEEBC	Demon King's Castle C01
+r0CEECC	Demon King's Castle B02
+r0CEEDC	Demon King's Castle B01
+r0CEEEC	Demon King's Castle A02
+r0CEEFC	Demon King's Castle A01
+r0CEF2C	Herai Village 09
+r0CEF38	Herai Village 08
+r0CEF44	Herai Village 07
+r0CEF50	Herai Village 06
+r0CEF5C	Herai Village 05
+r0CEF68	Herai Village 04
+r0CEF74	Herai Village 03
+r0CEF80	Herai Village 02
+r0CEF8C	Herai Village 01
+r0CF01C	Science City/Hotel Room 4
+r0CF034	Science City/Hotel Room 3
+r0CF04C	Science City/Hotel Room 2
+r0CF064	Science City/Hotel Room 1
+r0CF12C	Mirage Castle F4/Gate Control 1
+r0CF148	Mirage Castle F4/Treasury 1
+r0CF15C	Mirage Castle F4
+r0CF188	Mirage Castle F3/Waiting Room 3
+r0CF19C	Mirage Castle F3/Waiting Room 1
+r0CF1B0	Mirage Castle F3/Treasury 2
+r0CF1C4	Mirage Castle F3/R
+r0CF1D4	Mirage Castle F3/L
+r0CF1E4	Mirage Castle F2
+r0CF1F0	Mirage Castle F1/Gate Control 2
+r0CF20C	Mirage Castle F1/Waiting Room 2
+r0CF220	Mirage Castle F1/Room 1
+r0CF234	Mirage Castle F1/Crystal Room
+r0CF24C	Mirage Castle F1/Throne Room
+r0CF25C	Mirage Castle F1
+r0CF29C	Harenchi Gakuen/Town
+r0CF6D4	Dark Temple 11/Crash Site
+r0CF6EC	Dark Temple 10/Jarai Statue
+r0CF708	Dark Temple 09/Temple
+r0CF71C	Dark Temple 08/Dark Temple Exterior 3
+r0CF738	Dark Temple 07/Dark Temple Exterior 2
+r0CF754	Dark Temple 06/Dark Temple Exterior 1
+r0CF770	Dark Temple 05/Sengan Oni Exit(unused)
+r0CF794	Dark Temple 04/Sengan Entrance
+r0CF7B0	Dark Temple 03/Sengan Oni Crag
+r0CF7CC	Dark Temple 02/Fang Plains
+r0CF7E4	Dark Temple 01/Forest Entrance+Edge
+r0CF804	Yokai Mansion/4Fb(Princess Yukiko)
+r0CF8B8	Yokai Mansion/1Fe(Tatami)
+r0CF930	Yokai Mansion/Forest
+r0CF944	Harenchi Gakuen/Storeroom 2Fb(unused)
+r0CF968	Harenchi Gakuen/Storeroom 2Fa
+r0CF984	Harenchi Gakuen/Storeroom 1Fb(unused)
+r0CF9A8	Harenchi Gakuen/Storeroom 1Fa
+r0CF9DC	Harenchi Gakuen/Girls' WC 3
+r0CF9F8	Harenchi Gakuen/Girls' WC 2
+r0CFA14	Harenchi Gakuen/Girls' WC
+r0CFA30	Harenchi Gakuen/Boys' WC 3
+r0CFA4C	Harenchi Gakuen/Boys' WC 2
+r0CFA68	Harenchi Gakuen/Boys' WC
+r0CFA84	Harenchi Gakuen/Classroom D
+r0CFA9C	Harenchi Gakuen/Classroom C2
+r0CFAB4	Harenchi Gakuen/Classroom C
+r0CFACC	Harenchi Gakuen/Classroom B6
+r0CFAE4	Harenchi Gakuen/Classroom B5
+r0CFAFC	Harenchi Gakuen/Classroom B4
+r0CFB14	Harenchi Gakuen/Classroom B3
+r0CFB2C	Harenchi Gakuen/Classroom B2
+r0CFB44	Harenchi Gakuen/Classroom B
+r0CFB5C	Harenchi Gakuen/Classroom A6
+r0CFB74	Harenchi Gakuen/Classroom A5
+r0CFB8C	Harenchi Gakuen/Classroom A4
+r0CFBA4	Harenchi Gakuen/Classroom A3
+r0CFBBC	Harenchi Gakuen/Classroom A2
+r0CFBD4	Harenchi Gakuen/Classroom A
+r0CFC70	Harenchi Gakuen/Yard
+r0CFD98	Quake Fort Inside

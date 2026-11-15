@@ -177,6 +177,21 @@ def glossary():
     return rows
 
 
+_SHORT = None
+
+
+def short_forms():
+    """{id: English} from script/short_forms.tsv: fields too narrow for the glossary form (D8); the glossary
+    check accepts exactly that English for that id."""
+    global _SHORT
+    if _SHORT is None:
+        path = ROOT / "script" / "short_forms.tsv"
+        rows = [l.split("\t") for l in path.read_text(encoding="utf-8").splitlines()
+                if l.strip() and not l.startswith("#")] if path.exists() else []
+        _SHORT = {r[0]: r[1] for r in rows}
+    return _SHORT
+
+
 def names():
     """JP person names an honorific can follow: glossary rows plus name tags."""
     out = {j for jps, _, _ in glossary() for j in jps if j and kind(j[-1]) in ("kanji", "katakana")}
@@ -202,7 +217,10 @@ def problems(part, entry, en, terms, people):
         out.append('ordinal suffix after a variable (write "No. {g}")')
     jp_plain = TOKEN.sub("", jp).replace("\\n", "").replace("\n", "")
     flat = re.sub(r"\s+", " ", en.replace("\\n", " ")).lower()  # a term may break across lines
+    short = short_forms().get(entry["id"]) == en
     for jps, ens, avoid in terms:
+        if short:
+            break
         if any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in flat for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]

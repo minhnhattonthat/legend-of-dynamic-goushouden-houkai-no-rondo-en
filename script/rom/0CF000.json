@@ -17,7 +17,7 @@
   ],
   "max": 23,
   "jp": "科学都市・ホテル部屋４",
-  "en": "ScienceCity/HotelRoom4",
+  "en": "Science City/Hotel Room 4",
   "status": "done",
   "notes": ""
  },
@@ -28,7 +28,7 @@
   ],
   "max": 23,
   "jp": "科学都市・ホテル部屋３",
-  "en": "ScienceCity/HotelRoom3",
+  "en": "Science City/Hotel Room 3",
   "status": "done",
   "notes": ""
  },
@@ -39,7 +39,7 @@
   ],
   "max": 23,
   "jp": "科学都市・ホテル部屋２",
-  "en": "ScienceCity/HotelRoom2",
+  "en": "Science City/Hotel Room 2",
   "status": "done",
   "notes": ""
  },
@@ -50,7 +50,7 @@
   ],
   "max": 23,
   "jp": "科学都市・ホテル部屋１",
-  "en": "ScienceCity/HotelRoom1",
+  "en": "Science City/Hotel Room 1",
   "status": "done",
   "notes": ""
  },
@@ -138,7 +138,7 @@
   ],
   "max": 27,
   "jp": "幻城Ｆ４・ゲート管理室１",
-  "en": "Mirage F4/GateCtrl 1",
+  "en": "Mirage Castle F4/Gate Control 1",
   "status": "done",
   "notes": ""
  },
@@ -149,7 +149,7 @@
   ],
   "max": 19,
   "jp": "幻城Ｆ４・宝物庫１",
-  "en": "MirageF4/Treasury1",
+  "en": "Mirage Castle F4/Treasury 1",
   "status": "done",
   "notes": ""
  },
@@ -160,7 +160,7 @@
   ],
   "max": 11,
   "jp": "幻城Ｆ４",
-  "en": "Mirage F4",
+  "en": "Mirage Castle F4",
   "status": "done",
   "notes": ""
  },
@@ -182,7 +182,7 @@
   ],
   "max": 19,
   "jp": "幻城Ｆ３・待機室３",
-  "en": "Mirage F3/Waiting 3",
+  "en": "Mirage Castle F3/Waiting Room 3",
   "status": "done",
   "notes": ""
  },
@@ -193,7 +193,7 @@
   ],
   "max": 19,
   "jp": "幻城Ｆ３・待機室１",
-  "en": "Mirage F3/Waiting 1",
+  "en": "Mirage Castle F3/Waiting Room 1",
   "status": "done",
   "notes": ""
  },
@@ -204,7 +204,7 @@
   ],
   "max": 19,
   "jp": "幻城Ｆ３・宝物庫２",
-  "en": "MirageF3/Treasury2",
+  "en": "Mirage Castle F3/Treasury 2",
   "status": "done",
   "notes": ""
  },
@@ -215,7 +215,7 @@
   ],
   "max": 15,
   "jp": "幻城Ｆ３・右側",
-  "en": "Mirage F3/R",
+  "en": "Mirage Castle F3/R",
   "status": "done",
   "notes": ""
  },
@@ -226,7 +226,7 @@
   ],
   "max": 15,
   "jp": "幻城Ｆ３・左側",
-  "en": "Mirage F3/L",
+  "en": "Mirage Castle F3/L",
   "status": "done",
   "notes": ""
  },
@@ -237,7 +237,7 @@
   ],
   "max": 11,
   "jp": "幻城Ｆ２",
-  "en": "Mirage F2",
+  "en": "Mirage Castle F2",
   "status": "done",
   "notes": ""
  },
@@ -248,7 +248,7 @@
   ],
   "max": 27,
   "jp": "幻城Ｆ１・ゲート管理室２",
-  "en": "Mirage F1/GateCtrl 2",
+  "en": "Mirage Castle F1/Gate Control 2",
   "status": "done",
   "notes": ""
  },
@@ -259,7 +259,7 @@
   ],
   "max": 19,
   "jp": "幻城Ｆ１・待機室２",
-  "en": "Mirage F1/Waiting 2",
+  "en": "Mirage Castle F1/Waiting Room 2",
   "status": "done",
   "notes": ""
  },
@@ -270,7 +270,7 @@
   ],
   "max": 19,
   "jp": "幻城Ｆ１・部屋１",
-  "en": "Mirage F1/Rm 1",
+  "en": "Mirage Castle F1/Room 1",
   "status": "done",
   "notes": ""
  },
@@ -281,7 +281,7 @@
   ],
   "max": 23,
   "jp": "幻城Ｆ１・水晶玉の部屋",
-  "en": "Mirage F1/CrystalRm",
+  "en": "Mirage Castle F1/Crystal Room",
   "status": "done",
   "notes": ""
  },
@@ -292,7 +292,7 @@
   ],
   "max": 15,
   "jp": "幻城Ｆ１・玉座",
-  "en": "MirageF1/Throne",
+  "en": "Mirage Castle F1/Throne Room",
   "status": "done",
   "notes": ""
  },
@@ -303,7 +303,7 @@
   ],
   "max": 11,
   "jp": "幻城Ｆ１",
-  "en": "Mirage F1",
+  "en": "Mirage Castle F1",
   "status": "done",
   "notes": ""
  },
@@ -358,7 +358,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・小さな町",
-  "en": "Harenchi/Town",
+  "en": "Harenchi Gakuen/Town",
   "status": "done",
   "notes": ""
  },
@@ -402,7 +402,7 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室２Ｆ",
-  "en": "SciCity/MedRoom 2F",
+  "en": "Science City/Medical Room 2F",
   "status": "done",
   "notes": ""
  },
@@ -413,7 +413,7 @@
   ],
   "max": 23,
   "jp": "科学都市・医療室１Ｆ",
-  "en": "SciCity/MedRoom 1F",
+  "en": "Science City/Medical Room 1F",
   "status": "done",
   "notes": ""
  },
@@ -424,7 +424,7 @@
   ],
   "max": 27,
   "jp": "科学都市・大会議室１Ｆｂ",
-  "en": "SciCity/ConfHall 1Fb",
+  "en": "Science City/Conference Hall 1Fb",
   "status": "done",
   "notes": ""
  },
@@ -435,7 +435,7 @@
   ],
   "max": 27,
   "jp": "科学都市・大会議室１Ｆａ",
-  "en": "SciCity/ConfHall 1Fa",
+  "en": "Science City/Conference Hall 1Fa",
   "status": "done",
   "notes": ""
  },
@@ -864,7 +864,7 @@
   ],
   "max": 23,
   "jp": "暗黒寺１１・墜落現場",
-  "en": "DarkTemple11/CrashSite",
+  "en": "Dark Temple 11/Crash Site",
   "status": "done",
   "notes": ""
  },
@@ -875,7 +875,7 @@
   ],
   "max": 27,
   "jp": "暗黒寺１０・暗黒寺邪来像",
-  "en": "DarkTemple10/Jarai Statue",
+  "en": "Dark Temple 10/Jarai Statue",
   "status": "done",
   "notes": ""
  },
@@ -886,7 +886,7 @@
   ],
   "max": 19,
   "jp": "暗黒寺０９・暗黒寺",
-  "en": "DarkTemple09/Temple",
+  "en": "Dark Temple 09/Temple",
   "status": "done",
   "notes": ""
  },
@@ -897,7 +897,7 @@
   ],
   "max": 27,
   "jp": "暗黒寺０８・暗黒寺外部３",
-  "en": "DarkTemple08/DarkTempleExt3",
+  "en": "Dark Temple 08/Dark Temple Exterior 3",
   "status": "done",
   "notes": ""
  },
@@ -908,7 +908,7 @@
   ],
   "max": 27,
   "jp": "暗黒寺０７・暗黒寺外部２",
-  "en": "DarkTemple07/DarkTempleExt2",
+  "en": "Dark Temple 07/Dark Temple Exterior 2",
   "status": "done",
   "notes": ""
  },
@@ -919,7 +919,7 @@
   ],
   "max": 27,
   "jp": "暗黒寺０６・暗黒寺外部１",
-  "en": "DarkTemple06/DarkTempleExt1",
+  "en": "Dark Temple 06/Dark Temple Exterior 1",
   "status": "done",
   "notes": ""
  },
@@ -930,7 +930,7 @@
   ],
   "max": 35,
   "jp": "暗黒寺０５・仙岩鬼の出口（廃棄）",
-  "en": "DarkTemple05/SenganOniExit(unused)",
+  "en": "Dark Temple 05/Sengan Oni Exit(unused)",
   "status": "done",
   "notes": ""
  },
@@ -941,7 +941,7 @@
   ],
   "max": 27,
   "jp": "暗黒寺０４・仙岩鬼の内部",
-  "en": "DarkTemple 04/SenganIn",
+  "en": "Dark Temple 04/Sengan Entrance",
   "status": "done",
   "notes": ""
  },
@@ -952,7 +952,7 @@
   ],
   "max": 27,
   "jp": "暗黒寺０３・仙岩鬼の岩山",
-  "en": "DarkTemple03/SenganOniCrag",
+  "en": "Dark Temple 03/Sengan Oni Crag",
   "status": "done",
   "notes": ""
  },
@@ -963,7 +963,7 @@
   ],
   "max": 23,
   "jp": "暗黒寺０２・牙の草原",
-  "en": "DarkTemple02/FangPlains",
+  "en": "Dark Temple 02/Fang Plains",
   "status": "done",
   "notes": ""
  },
@@ -974,7 +974,7 @@
   ],
   "max": 31,
   "jp": "暗黒寺０１・森の入り口＋外れ",
-  "en": "DarkTemple 01/ForestIn+Edge",
+  "en": "Dark Temple 01/Forest Entrance+Edge",
   "status": "done",
   "notes": ""
  },
@@ -985,7 +985,7 @@
   ],
   "max": 27,
   "jp": "妖怪屋敷・４Ｆｂ（雪子姫）",
-  "en": "Yokai/4Fb(Princess Yukiko)",
+  "en": "Yokai Mansion/4Fb(Princess Yukiko)",
   "status": "done",
   "notes": ""
  },
@@ -1062,7 +1062,7 @@
   ],
   "max": 27,
   "jp": "妖怪屋敷・１Ｆｅ（和室）",
-  "en": "Yokai/1Fe(Tatami)",
+  "en": "Yokai Mansion/1Fe(Tatami)",
   "status": "done",
   "notes": ""
  },
@@ -1117,7 +1117,7 @@
   ],
   "max": 19,
   "jp": "妖怪屋敷・森の中",
-  "en": "Yokai/Forest",
+  "en": "Yokai Mansion/Forest",
   "status": "done",
   "notes": ""
  },
@@ -1128,7 +1128,7 @@
   ],
   "max": 35,
   "jp": "ハレンチ学園・倉庫２Ｆｂ（廃棄）",
-  "en": "HarenchiGakuen/Storeroom2Fb(unused)",
+  "en": "Harenchi Gakuen/Storeroom 2Fb(unused)",
   "status": "done",
   "notes": ""
  },
@@ -1139,7 +1139,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・倉庫２Ｆａ",
-  "en": "HarenchiGakuen/Storeroom2Fa",
+  "en": "Harenchi Gakuen/Storeroom 2Fa",
   "status": "done",
   "notes": ""
  },
@@ -1150,7 +1150,7 @@
   ],
   "max": 35,
   "jp": "ハレンチ学園・倉庫１Ｆｂ（廃棄）",
-  "en": "HarenchiGakuen/Storeroom1Fb(unused)",
+  "en": "Harenchi Gakuen/Storeroom 1Fb(unused)",
   "status": "done",
   "notes": ""
  },
@@ -1161,7 +1161,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・倉庫１Ｆａ",
-  "en": "HarenchiGakuen/Storeroom1Fa",
+  "en": "Harenchi Gakuen/Storeroom 1Fa",
   "status": "done",
   "notes": ""
  },
@@ -1183,7 +1183,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・女子トイレ３",
-  "en": "Harenchi/GirlsWC 3",
+  "en": "Harenchi Gakuen/Girls' WC 3",
   "status": "done",
   "notes": ""
  },
@@ -1194,7 +1194,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・女子トイレ２",
-  "en": "Harenchi/GirlsWC 2",
+  "en": "Harenchi Gakuen/Girls' WC 2",
   "status": "done",
   "notes": ""
  },
@@ -1205,7 +1205,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・女子トイレ",
-  "en": "Harenchi/GirlsWC",
+  "en": "Harenchi Gakuen/Girls' WC",
   "status": "done",
   "notes": ""
  },
@@ -1216,7 +1216,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・男子トイレ３",
-  "en": "Harenchi/BoysWC 3",
+  "en": "Harenchi Gakuen/Boys' WC 3",
   "status": "done",
   "notes": ""
  },
@@ -1227,7 +1227,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・男子トイレ２",
-  "en": "Harenchi/BoysWC 2",
+  "en": "Harenchi Gakuen/Boys' WC 2",
   "status": "done",
   "notes": ""
  },
@@ -1238,7 +1238,7 @@
   ],
   "max": 27,
   "jp": "ハレンチ学園・男子トイレ",
-  "en": "Harenchi/BoysWC",
+  "en": "Harenchi Gakuen/Boys' WC",
   "status": "done",
   "notes": ""
  },
@@ -1249,7 +1249,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｄ",
-  "en": "Harenchi/Classroom D",
+  "en": "Harenchi Gakuen/Classroom D",
   "status": "done",
   "notes": ""
  },
@@ -1260,7 +1260,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｃ２",
-  "en": "Harenchi/Classroom C2",
+  "en": "Harenchi Gakuen/Classroom C2",
   "status": "done",
   "notes": ""
  },
@@ -1271,7 +1271,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｃ",
-  "en": "Harenchi/Classroom C",
+  "en": "Harenchi Gakuen/Classroom C",
   "status": "done",
   "notes": ""
  },
@@ -1282,7 +1282,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｂ６",
-  "en": "Harenchi/Classroom B6",
+  "en": "Harenchi Gakuen/Classroom B6",
   "status": "done",
   "notes": ""
  },
@@ -1293,7 +1293,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｂ５",
-  "en": "Harenchi/Classroom B5",
+  "en": "Harenchi Gakuen/Classroom B5",
   "status": "done",
   "notes": ""
  },
@@ -1304,7 +1304,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｂ４",
-  "en": "Harenchi/Classroom B4",
+  "en": "Harenchi Gakuen/Classroom B4",
   "status": "done",
   "notes": ""
  },
@@ -1315,7 +1315,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｂ３",
-  "en": "Harenchi/Classroom B3",
+  "en": "Harenchi Gakuen/Classroom B3",
   "status": "done",
   "notes": ""
  },
@@ -1326,7 +1326,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｂ２",
-  "en": "Harenchi/Classroom B2",
+  "en": "Harenchi Gakuen/Classroom B2",
   "status": "done",
   "notes": ""
  },
@@ -1337,7 +1337,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ｂ",
-  "en": "Harenchi/Classroom B",
+  "en": "Harenchi Gakuen/Classroom B",
   "status": "done",
   "notes": ""
  },
@@ -1348,7 +1348,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ａ６",
-  "en": "Harenchi/Classroom A6",
+  "en": "Harenchi Gakuen/Classroom A6",
   "status": "done",
   "notes": ""
  },
@@ -1359,7 +1359,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ａ５",
-  "en": "Harenchi/Classroom A5",
+  "en": "Harenchi Gakuen/Classroom A5",
   "status": "done",
   "notes": ""
  },
@@ -1370,7 +1370,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ａ４",
-  "en": "Harenchi/Classroom A4",
+  "en": "Harenchi Gakuen/Classroom A4",
   "status": "done",
   "notes": ""
  },
@@ -1381,7 +1381,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ａ３",
-  "en": "Harenchi/Classroom A3",
+  "en": "Harenchi Gakuen/Classroom A3",
   "status": "done",
   "notes": ""
  },
@@ -1392,7 +1392,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ａ２",
-  "en": "Harenchi/Classroom A2",
+  "en": "Harenchi Gakuen/Classroom A2",
   "status": "done",
   "notes": ""
  },
@@ -1403,7 +1403,7 @@
   ],
   "max": 23,
   "jp": "ハレンチ学園・教室Ａ",
-  "en": "Harenchi/Classroom A",
+  "en": "Harenchi Gakuen/Classroom A",
   "status": "done",
   "notes": ""
  },
@@ -1480,7 +1480,7 @@
   ],
   "max": 19,
   "jp": "ハレンチ学園・校庭",
-  "en": "Harenchi/Yard",
+  "en": "Harenchi Gakuen/Yard",
   "status": "done",
   "notes": ""
  },
@@ -1612,7 +1612,7 @@
   ],
   "max": 15,
   "jp": "震災とりで内部",
-  "en": "QuakeFortInside",
+  "en": "Quake Fort Inside",
   "status": "done",
   "notes": ""
  },
@@ -1700,8 +1700,8 @@
   ],
   "max": 15,
   "jp": "始まりの丘５",
-  "en": "",
-  "status": "",
+  "en": "Hill of Beginnings 5",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1711,8 +1711,8 @@
   ],
   "max": 15,
   "jp": "始まりの丘４",
-  "en": "",
-  "status": "",
+  "en": "Hill of Beginnings 4",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1722,8 +1722,8 @@
   ],
   "max": 15,
   "jp": "始まりの丘３",
-  "en": "",
-  "status": "",
+  "en": "Hill of Beginnings 3",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1733,8 +1733,8 @@
   ],
   "max": 15,
   "jp": "始まりの丘２",
-  "en": "",
-  "status": "",
+  "en": "Hill of Beginnings 2",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1744,8 +1744,8 @@
   ],
   "max": 15,
   "jp": "始まりの丘１",
-  "en": "",
-  "status": "",
+  "en": "Hill of Beginnings 1",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1766,7 +1766,7 @@
   ],
   "max": 15,
   "jp": "死神警察・２Ｆ",
-  "en": "ReaperPolice/2F",
+  "en": "Reaper Police/2F",
   "status": "done",
   "notes": ""
  },
@@ -1799,7 +1799,7 @@
   ],
   "max": 19,
   "jp": "如月邸・Ｂ１ＦＣ",
-  "en": "Kisaragi/B1FC",
+  "en": "Kisaragi Mansion/B1FC",
   "status": "done",
   "notes": ""
  },
@@ -1810,7 +1810,7 @@
   ],
   "max": 15,
   "jp": "如月邸・１ＦＣ",
-  "en": "Kisaragi/1FC",
+  "en": "Kisaragi Mansion/1FC",
   "status": "done",
   "notes": ""
  },
@@ -1821,7 +1821,7 @@
   ],
   "max": 19,
   "jp": "如月邸・Ｂ１ＦＢ",
-  "en": "Kisaragi/B1FB",
+  "en": "Kisaragi Mansion/B1FB",
   "status": "done",
   "notes": ""
  },
@@ -1832,7 +1832,7 @@
   ],
   "max": 15,
   "jp": "如月邸・１ＦＢ",
-  "en": "Kisaragi/1FB",
+  "en": "Kisaragi Mansion/1FB",
   "status": "done",
   "notes": ""
  },
@@ -1843,7 +1843,7 @@
   ],
   "max": 15,
   "jp": "如月邸・Ｂ１Ｆ",
-  "en": "Kisaragi/B1F",
+  "en": "Kisaragi Mansion/B1F",
   "status": "done",
   "notes": ""
  },
@@ -1854,7 +1854,7 @@
   ],
   "max": 15,
   "jp": "如月邸・１Ｆ",
-  "en": "Kisaragi/1F",
+  "en": "Kisaragi Mansion/1F",
   "status": "done",
   "notes": ""
  },
@@ -1865,7 +1865,7 @@
   ],
   "max": 11,
   "jp": "妖怪屋敷",
-  "en": "Yokai",
+  "en": "Yokai Mansion",
   "status": "done",
   "notes": ""
  },
@@ -1931,7 +1931,7 @@
   ],
   "max": 15,
   "jp": "飛鳥邸・２Ｆ",
-  "en": "AsukaMansion/2F",
+  "en": "Asuka Mansion/2F",
   "status": "done",
   "notes": ""
  },
@@ -1942,7 +1942,7 @@
   ],
   "max": 15,
   "jp": "飛鳥邸・１ＦＢ",
-  "en": "Asuka/1FB",
+  "en": "Asuka Mansion/1FB",
   "status": "done",
   "notes": ""
  },
@@ -1953,7 +1953,7 @@
   ],
   "max": 15,
   "jp": "飛鳥邸・１ＦＡ",
-  "en": "Asuka/1FA",
+  "en": "Asuka Mansion/1FA",
   "status": "done",
   "notes": ""
  },
@@ -1964,7 +1964,7 @@
   ],
   "max": 11,
   "jp": "飛鳥邸・外",
-  "en": "Asuka/Out",
+  "en": "Asuka Mansion/Outside",
   "status": "done",
   "notes": ""
  },
@@ -1975,7 +1975,7 @@
   ],
   "max": 11,
   "jp": "日本マップ",
-  "en": "MapofJapan",
+  "en": "Map of Japan",
   "status": "done",
   "notes": ""
  },

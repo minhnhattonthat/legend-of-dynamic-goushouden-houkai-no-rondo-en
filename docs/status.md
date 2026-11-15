@@ -2,10 +2,27 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7. Insert, fit, check: not started. Phase 6 done 2026-11-16 (all b001-b086 merged, lint 0 errors,
-  review rounds 1-3 leave 0 Critical/Important; 125 Minors in docs/polish.md for the polish pass). Phase 7 work:
-  the LONG strings and abbreviations under "Phase 6 batches" (relocate, widen fields per D4), the code-pool
-  strings' px mapping, then build green with romdiff.
+- **Phase:** 8. QA in the emulator: not started. Phase 7 done 2026-11-16: build green (check.py 39 tests + lint
+  0 errors; romdiff --writes clean, 2246 writes; smoke ok; build sha1 2d0b5d4b...).
+
+## Phase 7 (done)
+- `build.py insert_rom_strings` relocates every translated ROM string longer than its slot: written after the
+  archives (0x800000+), each pointer site in its `ptrs` asserted to hold the old address in the original, then
+  repointed (185 strings: 105 debug map names, 25 rec18, 26 code-pool, char/enemy/skill names). The lint treats
+  bytes as soft when a string has pointers. `tests/test_build_en.py`: English build, romdiff with the write log,
+  writes only in allowed ranges or a relocated string's own pointer sites, every relocated pointer reaches its text.
+- All LONG ids merged (`tools/long.py` lists any left: none). Restored to glossary forms: debug map names
+  (fixes6/fixes7: Science City, Lost Forest, Hill of Beginnings, Mirage Castle, Harenchi Gakuen, Dark Temple...),
+  char_name full names (Immortal Corps C, Mechanical Beast A, Reaper Police 3...).
+- Px-limited names got short forms (D8): `script/short_forms.tsv` (glossary check accepts exactly those) and
+  work/qa/review/fixes5.tsv (rec18 people as "Initial. Surname", char_short "Kekko", "Aphro. A", skills
+  "G.Tomahawk", "H.Boomerang", "RustHurricane", item "PsychoJenny"). Wave-1 px abbreviations (K.Sirene, Maru G.,
+  Cut/Stars/Mask, Bolt/Blunt/Slash, book cuts) stay under D8: their limits are field px / book lines, not bytes.
+- **Phase 8 must check (not linted in px):** the 26 relocated code-pool strings: credit staff pairs (table
+  0x0D24F4-0x0D29C0, drawn by the printer in mode 2, ending_credits scene; now up to 36 bytes vs 27) and book
+  series titles (pool 0x103xxx: "Goushouden", "Susano-oh"); enemy names now longer than their JP room are
+  sprintf'd into "<enemy> appeared!" (battle banner; buffer size unknown); char_name has no measured field. The
+  469 code-pool strings still have only byte limits (no px box): verify them on the phase 8 tour sheets.
 
 ## Review (read-only codex passes; no nested workers under Orca)
 `python -X utf8 tools/pairs.py` (pairs files, work/qa/review/pairs/), `R=DIR JOBS=4 sh tools/review.sh [bNNN ..]`
@@ -86,14 +103,12 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
     - Script files are malloc'd at their unpacked size (no fixed buffer; ~148 KB heap free on a field map);
       build.py caps a file at 32 KB. Codes: `{g}` = obtained item name / money amount; `{!R}`...`{!W}` wrap
       transceiver / remote speech (printer style); keep them where the JP has them (lint checks counts).
-- **Next (phase 7, `references/pipeline.md` §Checks):** relocate/widen the LONG ids (`batches.py merge --partial`
-  lists them) and restore the wave-1 abbreviations, then build green (lint, control codes, `romdiff.py`).
-  - Short names: "Tomahawk Panther" is 96 px vs the 54-px battle_name / 48-px menu_name fields: pick short forms
-    for char_short (D4 says engine first: widening the battle field means moving the HP gauge).
-  - Carried to phase 7: map the 469 code-pool strings (`fields.py`: no record table) to boxes from the field-probe
-    logs (help lines in the bottom box, battle messages in the banner) so the lint checks them in px; they already
-    have in-place byte limits. Effect reader 0x0809CC54 (from 0x09E9BA) not seen drawing.
-  - Carried to phase 8: banner and other centred lines are centred by byte count (x = 120 - 7 * bytes in the
+- **Next (phase 8, `references/emulator-qa.md`, `references/graphics.md`):** tours with contact sheets and
+  visual-QA verdicts (do them as a fresh read-only pass or `codex exec`: no nested workers), graphics text, inkbox,
+  textcover; the "Phase 8 must check" list above. Effect reader 0x0809CC54 (from 0x09E9BA) not seen drawing.
+  - Code-pool px mapping (469 strings, no record table): `tools/fields.py work/qa/fields` already maps 825 drawn
+    ids to window / x / right-hand neighbour; turning that into per-id px limits would let the lint check them.
+  - Also for phase 8: banner and other centred lines are centred by byte count (x = 120 - 7 * bytes in the
     battle banner), not by VWF width; SFX names (`sfx.json`) probably sprites via the kana lookup 0x0D9C58; the
     graphics-text survey groups; `{g}` width in game.
 - **Open bugs:** none.
