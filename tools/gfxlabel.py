@@ -180,6 +180,17 @@ SCREENS = {
         ("swap", (48, 139, 37, 8), "SWAP", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
         ("run", (48, 147, 37, 8), "RUN", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
     ]),
+    # S7 map signs (tile set 73C13C, bg2, map scroll 0 at the warp spawn): マミー薬局 plate over the pharmacy door
+    "sign244": dict(scene="map_244", labels=[
+        # the plate's top tile row (y 8-15) is one tile repeated: text in rows 16-28 only
+        ("l1", (76, 16, 40, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l2", (76, 22, 40, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
+    ]),
+    # the same plate in tile set 661050 (科学都市Ｇ): sign244's copy reaches only the tiles that occur once there
+    "sign135": dict(scene="map_135", labels=[
+        ("l1", (140, 120, 40, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l2", (140, 126, 40, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
+    ]),
 }
 
 

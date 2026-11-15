@@ -2,7 +2,25 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; 21 sweep rows left: S7 map signs (15 tilesets), 301D08, 3086C8, 426368; then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu labels, title menu, spoils, SFX done; S7 map signs started: pharmacy plate done; 17 sweep rows left; then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 9 (2026-11-16): S7 map signs, pilot
+- **Done, seen in a cold-boot warp on the EN build:** the マミー薬局 plate = MUMMY / DRUGS (two lines, `small`, no
+  outline, ink 1 on plate e) on map_244 (tile set 73C13C) and map_135 (661050): gfxlabel SCREENS `sign244` /
+  `sign135`, kind bg2. gfxlabel's copy step also wrote the plate into 73E49C and 7A0DD0 (maps 245, 309/310):
+  **not seen there yet**. In 661050 the copy reached only the tiles that occur once, hence the separate sign135.
+- **Method that works:** map BGs come out unscrolled in the ppudump but at a warp spawn the scroll is 0 in the
+  small maps tried, so the screen rect = map rect: `gfxlabel.py grid map_NNN x,y,w,h bg2` shows the plate and which
+  tile rows are shared (`*`): the plate's top tile row is one repeated tile, keep text off it. A sign off screen at
+  spawn needs a scene that walks there (`map=N,press=right*60` style steps in tools/debug/scenes.txt) and a check
+  that scroll is still 0 in the dump (or teach gfxscreen the scroll from the game's RAM copy).
+- **Dead end:** the 800-byte blocks after a tile set (73DB20..73E134 for 73C13C, type 1, to EWRAM 0x020147D0+) are
+  the map layers but not a plain 20x20 / 40x20 tilemap: rendering them gave no coherent picture. Not needed.
+- **Which spawn shows a sign** (original warp shots work/qa/warp_all*/shots): 244 and 135 (both the pharmacy);
+  002-030, 109, 115-126, 129-134, 136-139, 147, 245, 309, 310 show none at spawn: walk to find them.
+- **Next, in order:** (1) check map_245 / 309 / 310 on EN (the copied plate). (2) The other S7 tile sets: walk each
+  town map (start with 科学都市 129-139, 蓮沼街 245, ハレンチ学園 147) to find its signs, then SCREENS entries as above.
+  (3) 3086C8 / 301D08 / 426368. (4) Gate tour (see session 8 Next (3)).
 
 ## Phase 8 session 8 (2026-11-16): title menu, spoils page 2, shop banner, sweep triage
 - **Where the leftovers load:** `warp_all.py` now passes `--var` to probes; `--script tools/lua/unpackat.lua --var
