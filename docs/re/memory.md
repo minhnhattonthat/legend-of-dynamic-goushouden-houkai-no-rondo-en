@@ -4,7 +4,7 @@
 | address | use |
 |---|---|
 | 0x0201CD20.. | glyph tile buffer (DMA source for text tiles) |
-| 0x0201D000..0x0201FFFF | unpacked script file (opening file at 0x0201D66C; message copy by memcpy 0x080CD64C) |
+| heap (was 0x0201D66C for the opening) | unpacked script file: malloc'd at its unpacked size by 0x08017E65 (map_290: 6,780 bytes = file 34), so no fixed buffer; message copy by memcpy 0x080CD64C. ~148 KB free on a field map (oom.lua HEAPAT at map_290); build.py caps a file at 32 KB (the marker build's largest, 28.6 KB, ran the tour) |
 | 0x0201FD50 / 0x0201FE60 | lh5 Huffman tables / stream buffer |
 | 0x0300039C, 0x030003A0, 0x03000288 | lh5 source base, position, bytes left |
 | 0x03004024 | lh5 bit buffer |
@@ -17,8 +17,9 @@
 - Every window struct (~0x1C0 bytes) and the menu printer's 512-byte glyph buffer (malloc at 0x0800E420) live there:
   **text drawn outside its window's buffer corrupts the next heap header** and a later malloc hangs in the trap.
   A centred line wider than its window got x < 0 from set_cursor 0x0800FD08 (x not clamped, y is): fixed by
-  `engine.CURSOR_SITE` (x clamped at 0). A line running off the right end is still unguarded: keep every line
-  within its box (lint px budgets), the right-hand overflow was not tested.
+  `engine.CURSOR_SITE` (x clamped at 0). A line running off the right end: tested with a 200-char place name in
+  the save slot (work/qa/place200: drawn to the screen edge, saved, no OOM trap), but not in every window; keep every
+  line within its box (lint px budgets in tools/windows.json).
 - Tools: `tools/lua/malloclog.lua` (malloc sizes + callers), `watchw.lua` (who writes an address), `pcsample.lua`.
 
 ## Built ROM layout (phase 5, `tools/engine.py`)

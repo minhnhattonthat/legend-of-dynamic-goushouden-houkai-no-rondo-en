@@ -91,6 +91,8 @@ def line_px(line, widths):
     for part in re.split(r"(\{[^}]*\}|\[[0-9A-F]{2}\])", line):
         if part in ("{p}", "{s}"):
             px += var
+        elif part == "{g}":
+            px += WINDOWS["g_var"]["px"]
         elif part.startswith("{") or part.startswith("["):
             continue
         else:

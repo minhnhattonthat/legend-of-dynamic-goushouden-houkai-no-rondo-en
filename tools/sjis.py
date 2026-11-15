@@ -4,8 +4,9 @@
 
 Text form (docs/re/text.md):
   0D           -> a real newline "\\n" (line break; in the script the first line is the speaker)
-  5C 70 / 73 / 67 (`\\p` `\\s` `\\g`)  -> {p} {s} {g}   (page break / player name / item name; guesses)
-  21 52 / 21 57   (`!R` `!W`)       -> {!R} {!W}   (inline codes; meaning confirmed in the marker build)
+  5C 70 / 73 / 67 (`\\p` `\\s` `\\g`)  -> {p} {s} {g}   (hero name / heroine name / obtained item name or amount)
+  21 52 / 21 57   (`!R` `!W`)       -> {!R} {!W}   (printer style [w+0xC8] = 2 / 4: {!R} opens and {!W} closes
+                                                    transceiver / remote speech, e.g. 00.66, 01.21; keep both in place)
   a double-byte char that cp932 maps back to the same two bytes -> that char
   printable ASCII 20..7E and half-width kana A1..DF -> the char, except [ ] { } which are escaped
   anything else (control bytes, invalid pairs, duplicate cp932 codes) -> [XX] per byte

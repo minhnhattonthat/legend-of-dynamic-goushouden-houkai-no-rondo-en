@@ -88,6 +88,8 @@ def insert_archive(arc, texts, spec=archive.ARCHIVES[0], wide=False):
 
 
 FULLWIDTH = extract.FULLWIDTH
+SCRIPT_FILE_MAX = 0x8000  # bytes per unpacked script file (heap-allocated; see build()); the marker build's
+                          # largest file, 28,566 bytes, ran the whole marker tour
 
 
 def insert_rom_strings(rom, texts, put=None):
@@ -134,6 +136,11 @@ def build(orig, marker=False, writes=None, qa=()):
             raise SystemExit("--qa %s: no such message" % mid)
         texts[fi][slot] = text.replace("\\n", "\n")
     insert_archive(arc, texts)
+    # each script file is malloc'd at its unpacked size when a scene opens it (0x08017E65; docs/re/memory.md §Heap):
+    # ~148 KB is free on a field map, the largest JP file is 7,343 bytes; keep every file well inside the heap
+    for fi, f in enumerate(arc.files):
+        if len(f.raw) > SCRIPT_FILE_MAX:
+            raise SystemExit("script file %02d: %d bytes unpacked, the limit is %d" % (fi, len(f.raw), SCRIPT_FILE_MAX))
     cur = put_archive(w, arc, engine.NEW_ARCHIVE)
     # the five archives after it (docs/re/text.md §1b): rebuilt after the script archive, their literal pools
     # repointed; one with no pointer (the unused test line) stays where it is, untouched

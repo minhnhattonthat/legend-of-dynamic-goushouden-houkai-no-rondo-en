@@ -22,6 +22,22 @@
     "status": "measured",
     "shot": "m1_item marker build: left name x=25, count x=96; right name x=136, count x=205 (work/qa/v8_m1_item); also the shop list (m2_shop, same window 0200AE80). Lint: every rec18 string (tools/fields.py TABLES)"
   },
+  "battle_banner": {
+    "what": "battle top banner (printer call from 0x08086BFD, window font mode 2, ASCII drawn half-width): the used skill's name (skill_name copy), or an enemy name sprintf'd into a message (DE6A8 + D1FAC: '<enemy> appeared!'); bar interior x=2..235. Centred by byte count: x = 120 - 7 * bytes (11 bytes -> 43, 7 -> 71), clamped at 0, so English sits left of centre (cosmetic, phase 8)",
+    "px": 230,
+    "font": "half",
+    "categories": ["skill_name", "enemy_name"],
+    "status": "measured (bar); the enemy name + message total is not linted (sprintf)",
+    "shot": "game_over marker build f2580 ('DE6A8:aD1FAC:abcde' from x=0), f2910 ('DBDEC:abcde' from x=43), f3110 ('DBD68:a' from x=71) (work/qa/bf_goushouden_marker, JP: work/qa/bf_goushouden_en)"
+  },
+  "menu_name": {
+    "what": "main menu / party panels (メニュー m2_top, m1_party; window 0200A8C0): battler short name after 'Lv30' (8x8 font, 8-px VWF) from x=64; the panel's frame decoration starts at x=112",
+    "px": 48,
+    "font": "8",
+    "categories": ["char_short"],
+    "status": "measured",
+    "shot": "m2_top marker build: 'DB820:a' (43 px) ink x=64-104, frame at x=112 (work/qa/marker_sys/shots/m2_top.png)"
+  },
   "equip_list": {
     "what": "status screen equipment picker (A on an equipment slot): rec18 name (8x8 font, 8-px VWF) from x=152 to the count at x=224; the equipped slot bar shows the same name from x=152 with more room",
     "px": 70,
@@ -51,7 +67,7 @@
     "px": 224,
     "lines": 1,
     "font": "half",
-    "status": "measured in the book's skill list; the item menu and battle readers (0x0808827C, 0x0809A45C) not yet seen",
+    "status": "measured in the book's skill list; the same bottom box shows 'D02.83 The quick brown fox jumps over the la' on the status screen's Select skill list (work/qa/st2/f000290.png); the item menu reader 0x0808827C not seen drawing",
     "shot": "m1_book marker build: 'D01.13 The quick brown fox jumps over the la' cut in the a (pen 220) at x=236 (work/qa/marker_book)"
   },
   "skill_list": {
@@ -85,6 +101,12 @@
     "font": "8",
     "status": "measured",
     "shot": "m1_party marker build, state after warp + route (a, down, a, down, a, right, a): 'E00.00 The qu' ink x=160-233, 'i' drawn over the border at 237 (work/qa/sh_m1_party/run/f000540.png). The other reader 0x0809CC54 (from 0x09E9BA) not yet seen"
+  },
+  "g_var": {
+    "what": "{g}: the item name (00.01 '{g}を手に入れた') or money amount (00.02 '{g}円') inserted at run time; counted at this width in a dialogue line",
+    "px": 72,
+    "status": "guess: item names are held to ~70 px by the item/equipment list budgets, amounts are a few digits",
+    "shot": "none yet (phase 8: pick up an item / money)"
   },
   "name_var": {
     "what": "{p} / {s}: the player-entered hero / heroine name, inserted at run time; counted at this width in a line",
