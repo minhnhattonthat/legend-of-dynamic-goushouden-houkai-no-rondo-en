@@ -2,9 +2,24 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate: phase 5 (engine spike, marker build, width gate) is done; next is the translation
-  set-up (glossary seed, synopsis, style pilot, batches tool), then batches. Builds: `build/goushouden_en.gba`
-  (JP text through the new engine, sha1 c1843bf2, smoke ok), `build/goushouden_marker.gba` (`build.py --marker`).
+- **Phase:** 6. Translate in progress: set-up done (batches tool, name tags, glossary seed, synopsis, style
+  reference, translator brief, pilot b001 = f00 merged). Batches in `work/tl/` (gitignored, on disk): b001-b086.
+  Batch progress: see "Phase 6 batches" below.
+
+## Phase 6 batches
+`python -X utf8 tools/batches.py split|check|merge|fit` (docs/translator-brief.md). Batches were split once
+(b001-b086; never re-split: `split` only adds ids not yet batched). Map: b001-b055 dialogue f00-f53 (b053 = tail
+of f51), b056-b058 book, b059-b061 desc, b062 effect, b063-b066 place, b067-b076 rom misc + map names, b077-b079
+char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
+- Merged: b001.
+- Wave 1 dispatched (names first, so dialogue can use them): b077-b082, b083-b086 + b059-b062, b067-b076 +
+  b063-b066, b056-b058. Translators run as general-purpose agents with the brief path (the plugin agent types were
+  not registered in the Orca worker; `.claude/agents/` now vendors them for the next session as `translator` etc.).
+- After wave 1: merge, write `build/names.tsv` (all rom name translations, JP<TAB>EN) for wave 2's read list, add
+  recurring NEW TERMs to glossary.md; then wave 2 = b002-b055 (4-5 batches per agent, story order), then a
+  reviewer pass per batch (read-only, `assets/reviewer-brief.md`; fix Critical/Important; Minors to docs/polish.md).
+- In-game pilot view not done: `retail_newgame` stops at the name entry (an empty name won't confirm: type a
+  character first). Phase 8 needs a name-entry route or a warp past it.
 - **Done:**
   - Step 0, phases 1-4 (see git history and `docs/re/`): ROM pinned, MesenCE 2.2.1, codecs, debug warp tool
     (`tools/debug/`, 340 scenes), identity build (`build.py --verify`), extraction to `script/` (`tools/sjis.py`).
@@ -29,14 +44,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     - Script files are malloc'd at their unpacked size (no fixed buffer; ~148 KB heap free on a field map);
       build.py caps a file at 32 KB. Codes: `{g}` = obtained item name / money amount; `{!R}`...`{!W}` wrap
       transceiver / remote speech (printer style); keep them where the JP has them (lint checks counts).
-- **Next (phase 6, `references/translation.md`):**
-  - Glossary seed (`glossary.md`, D1-D5 policies are in `docs/decisions.md`): character names (Go Nagai cast:
-    Devilman, Cutie Honey, Mazinger, Getter etc.: official English names where they exist, D2), skills, items,
-    enemies, places from `script/rom` + `script/place`; term families (弱/中/強 etc.); sound-effect style, register.
-  - `docs/synopsis.md` (story by chapter, who is who), then a pilot slice translated by hand, inserted, booted,
-    and turned into `docs/style-reference.md`.
-  - Copy `$SKILL/assets/batches.py` to `tools/`, fit its ADAPTER to `script/archive` + `script/rom` + the other
-    archives with the px limits above (`lint.line_px` / `windows.json`), then batches with translator agents.
+- **Next (phase 6, `references/translation.md`):** the batch plan above.
   - Short names: "Tomahawk Panther" is 96 px vs the 54-px battle_name / 48-px menu_name fields: pick short forms
     for char_short (D4 says engine first: widening the battle field means moving the HP gauge).
   - Carried to phase 7: map the 469 code-pool strings (`fields.py`: no record table) to boxes from the field-probe
