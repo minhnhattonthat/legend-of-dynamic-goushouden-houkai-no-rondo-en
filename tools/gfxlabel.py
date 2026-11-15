@@ -66,6 +66,17 @@ SCREENS = {
         ("select", (186, 137, 52, 6), "SELECT:SEARCH", "tiny", {1, 2}, (2, None), dict(dy=-1)),
     ]),
     "party": dict(scene="m1_party", labels=[head("PARTY")]),
+    # party edit: 1スキル / 1サポート are OBJ pills after the slot digit (text x 128-157 inside the border; x 120-127
+    # is the cap tile, which differs in each pill's twin block 2FDCE0 / 2FDE1C: left alone so the copy reaches them);
+    # バトラーストック (bg2, own tiles x 88-143; also on m2_bsel)
+    "sparty": dict(scene="m2_sparty", labels=[
+        ("skill", (128, 5, 30, 6), "SKILLS", "tiny", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1), dict(kind="obj")),
+        # サポート's glyphs start on the pill's top border row (y 48): that row clears to the border's index 1
+        ("support", (128, 48, 30, 7), "SUPPORT", "tiny", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1),
+         dict(kind="obj", dy=1, clear_left=1)),
+        ("stock", (88, 64, 56, 8), "BATTLER STOCK", "tiny", {1, 7, 8, 9, 10}, ([7, 8, 9, 10], 1),
+         dict(kind="bg2")),
+    ]),
     "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
     # stat labels (bg2 over the bg3 texture), one kana per tile of block 2F6658. こうげき's こ tile (x 8-15) is also
     # the last tile of the gender value おとこ (x 200, y 40): it goes blank, so ATTACK starts at x 16; all three
@@ -332,12 +343,15 @@ def draw(screen):
                 elif s and s[4] in clear:
                     # nearest kept pixel; clear_right=1 looks right first (identical result in a tile two
                     # screens share when only the left part differs)
-                    order = [(d,) for d in range(1, 64)] if not opt.get("clear_right") else \
-                        [(d,) for d in range(1, w)] + [(-d,) for d in range(1, w)]
+                    # clear_left=1 looks left first (a pill whose right edge is a dark shading column)
+                    side = 1 if opt.get("clear_right") else -1 if opt.get("clear_left") else 0
+                    order = [(d,) for d in range(1, 64)] if not side else \
+                        [(side * d,) for d in range(1, w)] + [(-side * d,) for d in range(1, w)]
                     for (d,) in order:
-                        cand = (x - d, x + d) if not opt.get("clear_right") else (x + d,)
+                        cand = (x - d, x + d) if not side else (x + d,)
                         hit = [xx for xx in cand if x0 <= xx < x0 + w and scr.src[y][xx]
-                               and scr.src[y][xx][4] not in clear and scr.src[y][xx][0] == s[0]]
+                               and scr.src[y][xx][4] not in clear and (scr.src[y][xx][0] == s[0] or
+                                   scr.src[y][xx][0][:3] == s[0][:3] == "obj")]  # a pill of several sprites
                         if hit:
                             val[(x, y)] = scr.src[y][hit[0]][4]
                             break
