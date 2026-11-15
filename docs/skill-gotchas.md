@@ -5,3 +5,5 @@
 - references/emulator-qa.md: `codex exec -i a.png b.png "prompt"` swallows the prompt as an image path; pass images comma-separated and the prompt on stdin (`-`).
 - references/pipeline.md (Recon, compression): hooking the unpacker's copy-out point (decoder done, before copy to dst) and dumping the temp buffer gave ground truth for writing two unknown codecs from disassembly; both matched on the first test run.
 - references/pipeline.md (Recon, compression): a codec may read before the start of its output buffer (this game's type 3 expects zeros there); a decoder that raises on such a back-reference rejects real blocks.
+- references/emulator-qa.md (Debug tool): a GBA game's leftover debug menu was re-enabled from Lua alone: patch one BL in emulator ROM memory (emu.write ... gbaPrgRom) and pick menu rows by emu.setState r0 at the menu routine's return; no ROM patch file needed.
+- references/emulator-qa.md (emu.py): 6 parallel Mesen runs (warp_all --jobs 6) put the machine under memory pressure and Claude Code killed the background job; use 2-3 jobs.

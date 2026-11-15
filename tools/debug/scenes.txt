@@ -1,0 +1,64 @@
+# Scene list for tools/debug/warp.lua: name, then steps (comma separated, no spaces), then an optional # note.
+# Steps: N = row N of the next list menu; map=N = field-test map N; wait=F; press=BUTTONS. See warp.lua's header.
+# Every field map is also a scene without a line here: map_NNN (ids and names in tools/debug/maps.tsv).
+# Debug top menu (デバックＭＥＮＵ): 0 製品版 (retail) 1 大出 2 努 3 コ 4 菊池 5 素材１確認 6 デバックデータ 7 セーブデータ消去
+#   大出: 0 D_LIB0 1 D_LIB0A 2 カーソルテスト 3 バトルテスト 4 バトルオブジェマスク 5 バトル小技 6 DTSアニメーション
+#         7 バトル大技BG 8 LOAD GAME 9 中断GAME 10 エンディング
+#   努:   0 フィールドテスト (map select) 1 フィールド・如月後 2 LOADテスト 3 BGMテスト 4 SEテスト 5 通常パーティー 6 ロボットパーティー
+#   コ:   0 JUMP 1 JUMP2 2 SETUP 3 MENU01 (テスト1) 4 MENU02 (テスト2) 5 TEST 6 3周目ロボ 7 3周目人間 8 ODE 9 EXIT
+#     テスト1: 0 PARTY 1 CROP 2 BOOK 3 STATUS 4 ITEM 5 SAVE 6 LOAD 7 NAME 8 NAMESUB 9 TITLE 10 EXIT
+#     テスト2: 0 TOP 1 BSEL 2 SHOP 3 SPARTY 4 MCROP 5 EXIT
+#   菊池: 0 カーソルテスト 1 テスト1 2 テスト2 3 バトルエフェクト 4-7 バトルエフェクトマスク1-4 8 スプライト
+# Menu rows are 0-based; 素材１確認 (5) opens the 大出 face/bust-up viewer.
+
+# --- retail flow (top menu 0 runs the unmodified game loop) ---
+debug_menu      wait=300                                  # the debug top menu itself
+retail_title    0,wait=900                                # logos, then the title screen
+retail_newgame  0,wait=900,press=start,wait=240,press=a,wait=400   # title -> new game -> name entry
+# --- menus (コ -> MENU01 / MENU02 test entries: real game screens with a Lv30 debug party) ---
+k_jump          3,0                                       # field menu (メニュー: item, assort, status, save)
+k_jump2         3,1,wait=300                              # character encyclopedia (キャラ図鑑)
+m1_party        3,3,0                                     # assort change (party)
+m1_crop         3,3,1                                     # battle results (バトル収穫)
+m1_book         3,3,2,wait=300                            # encyclopedia
+m1_status       3,3,3                                     # status
+m1_item         3,3,4                                     # items
+m1_save         3,3,5                                     # save screen
+m1_load         3,3,6                                     # load screen
+m1_name         3,3,7                                     # name entry (hero)
+m1_namesub      3,3,8                                     # name entry (heroine)
+m1_title        3,3,9                                     # title screen
+m2_top          3,4,0                                     # field menu
+m2_bsel         3,4,1                                     # battler select (stock)
+m2_shop         3,4,2                                     # shop
+m2_sparty       3,4,3                                     # partner assort
+m2_mcrop        3,4,4                                     # battle results
+k_setup         3,2
+k_test          3,5                                       # string draw tests (MENU6)
+k_loop3robo     3,6                                       # sets 3rd-loop robot flags, back to MENU
+k_loop3human    3,7                                       # sets 3rd-loop human flags, back to MENU
+# --- battles ---
+k_ode           3,8                                       # battle (enemy appears message)
+o_battle        1,3,wait=300                              # 大出 battle test
+o_smallskill    1,5                                       # skill effect
+o_dts           1,6                                       # DTS animation
+o_bigskill      1,7                                       # big skill cut-in
+c_effect        4,3                                       # battle effect number select
+c_test1         4,1                                       # battle effect test
+# --- ending and credits ---
+o_ending        1,10                                      # ending: credits start (原作 永井豪 ...)
+ending_credits  1,10,wait=2400                            # further into the credits roll
+# --- other debug screens ---
+o_dlib0a        1,1                                       # 大出(2) face menu
+o_cursor        1,2
+o_party_forest  2,5,0,map=257                             # normal party (努 5) then 迷いの森１ (random encounters)
+o_load          1,8                                       # LOAD GAME (no data)
+o_suspend       1,9                                       # 中断GAME (no data)
+t_kisaragi      2,1                                       # field after 如月
+t_load          2,2                                       # load test
+t_bgm           2,3                                       # BGM test 0..25
+t_se            2,4                                       # SE test 0..73
+c_test2         4,2
+c_sprite        4,8
+x_material      5                                         # 大出 face / bust-up viewer
+x_debugdata     6                                         # debug data, back to the top menu

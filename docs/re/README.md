@@ -11,6 +11,7 @@ save type SRAM (`SRAM_V112` at 0x0DE78C), Banpresto / Will, 2003. No earlier fan
 | `font.md` | runtime glyph renderer, charset lists, font descriptor table |
 | `memory.md` | RAM buffers and free-space candidates |
 | `graphics.md` | graphics-text survey (tile-drawn Japanese); per-block list in `graphics_sweep.tsv` |
+| `debug.md` | leftover debug menus, warp hook points, event flags, party records (phase 2 debug tool) |
 
 Tools written in recon: `tools/packed.py` (all packed formats; `tests/test_codecs.py`), `tools/lh5.py`,
 `tools/gbalz.py` (BIOS LZ77; 5 blocks only), `tools/scanpacked.py` (find every block), `tools/findtables.py`
@@ -23,3 +24,6 @@ Tools written in recon: `tools/packed.py` (all packed formats; `tests/test_codec
 - The game copies a whole message file into EWRAM; a read watch on the message buffer during display logged nothing.
 - Type-3 blocks copy from before the start of their output (zeros expected); decode with the 0x800-byte zero pad.
 - Mashing A from the opening stops in the first free-roam field (~f15000): later screens need the debug tool.
+- Mesen Lua can patch the loaded ROM (`emu.write(off, v, emu.memType.gbaPrgRom)`) and set CPU registers
+  (`emu.setState({["cpu.r0"]=n})`) from an exec hook: that is how warp.lua drives the debug menus.
+- The debug top menu ignores input for ~25 frames after it appears; route presses before that are lost.
