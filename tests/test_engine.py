@@ -6,6 +6,7 @@ from pathlib import Path
 
 import archive
 import engine
+import gfx
 import sjis
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,7 +17,7 @@ ALLOWED = [(s, s + 4) for a in archive.ARCHIVES for s in a.sites] + [(site, site
     (site, site + 4) for site, _ in engine.HALF_SITES] + [(engine.CURSOR_SITE, engine.CURSOR_SITE + 4)] + [
     (engine.FONT12, engine.FONT12 + 1691 * 24), (engine.FONT6, engine.FONT6 + engine.FONT6_COUNT * 24),
     (engine.FONT8, engine.FONT8 + 1691 * 8), engine.FREE, (0x0CD95C, 0x0D5000), (0x0D9000, 0x0DF000),
-    (engine.NEW_ARCHIVE, engine.ROM_SIZE)]
+    (engine.NEW_ARCHIVE, engine.ROM_SIZE)] + (gfx.ranges(ROM.read_bytes()) if ROM.exists() else [])
 
 
 @unittest.skipUnless(ROM.exists(), "no ROM dump")

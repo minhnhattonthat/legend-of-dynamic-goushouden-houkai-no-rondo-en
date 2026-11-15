@@ -12,7 +12,7 @@ at engine.NEW_ARCHIVE, then the five archives after it (book, desc, effect, plac
 script/<dir>/*.json, their literal pools repointed -> translated plain ROM strings from script/rom/*.json, in place, or
 after the archives with every pointer rewritten when longer than the slot (phase 7) -> write. Every write goes
 through Writer.put and is logged to <out>.writes.txt for romdiff.py --writes.
-Packed graphics join here as they get edited (phase 8).
+Packed graphics (phase 8): every gfx/<name>_<OFFSET>.bin is repacked as lh5 in place (tools/gfx.py).
 """
 import argparse
 import hashlib
@@ -27,6 +27,7 @@ import archive  # noqa: E402
 import check_rom  # noqa: E402
 import engine  # noqa: E402
 import extract  # noqa: E402
+import gfx  # noqa: E402
 import marker as marker_mod  # noqa: E402
 import sjis  # noqa: E402
 
@@ -184,6 +185,7 @@ def build(orig, marker=False, writes=None, qa=()):
         marks = {t[0]: t for t in marker_mod.rom_markers() if lo <= t[0] < hi}
         texts = [marks.get(t[0], t) for t in texts]
     insert_rom_strings(rom, texts, w.put, (orig, cur, extract.rom_ptrs()))
+    gfx.insert(orig, w.put)
     if writes is not None:
         writes.extend(w.log)
     return bytes(rom)

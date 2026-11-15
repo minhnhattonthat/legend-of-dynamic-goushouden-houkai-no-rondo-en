@@ -37,7 +37,7 @@ redraw. The game has no chapter cards (`docs/re/debug.md` §Story state).
 From the tour (font-drawn or not yet tied to a block):
 | # | Screen | Element | Source | State |
 |---|---|---|---|---|
-| G1 | Title | 豪翔伝 logo + 崩界の輪舞曲 subtitle + menu | S2 (verify by corrupting 0x2FAD2C) | cold boot ~f900 |
+| G1 | Title | 豪翔伝 logo + 崩界の輪舞曲 subtitle + menu | S2: BG3 tiles = block 0x2FAD2C at VRAM 0x1D20 (vramfind) | **done** (phase 8): `tools/gfx_title.py` -> gfx/title_2FAD2C.diff, repacked lh5 in place, seen in game (scene retail_title). Logo kept (D5); copyright lines are font text |
 | G2 | Name entry | tabs ひらがな / カタカナ / 英語 | in S1/S3 **guess** | `work/qa/intro/s005000.mss` |
 | G3 | Name entry | side buttons 進む / 戻る / 消す / 決定 | in S1/S3 **guess** | as G2 |
 | G4 | Name entry | kana grid | runtime font **guess** | as G2 |
