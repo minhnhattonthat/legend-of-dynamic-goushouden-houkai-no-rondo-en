@@ -55,3 +55,5 @@
 2F5FC8	Latin art only (HP EXP NEXT + an icon)
 2F55A4	Latin/digit art only (LV and fragments)
 2F58B4	Latin/digit art only (% and digit fragments)
+2F74E4	party panel frame tiles (k_jump bg2 VRAM 0x1DE0-0x1E7F, repeated over x 0-119): no text
+2F7578	party panel frame tiles, twin of 2F74E4 (loaded right after it): no text

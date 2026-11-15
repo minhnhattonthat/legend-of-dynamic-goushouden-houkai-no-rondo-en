@@ -38,7 +38,19 @@ CLASSES = {
     "btn": dict(font="pixfont", size=6, shadow=True),  # tabs and buttons: drop shadow like the game's kana
     "head": dict(font="PressStart2P-Regular.ttf", size=8),  # screen-title pills: 7-px caps, outline -> 9 rows
     "tiny": dict(font="pixfont-tiny", size=5, shadow=True),  # 3x5 caps + drop shadow: under ~6 px per letter
+    "big": dict(font="Bangers-Regular.ttf", size=15),  # 12-px comic caps (the SFX font), 1-px ring: 13-px kana
 }
+
+
+def _banner(x, r):
+    """Spoils page 2 (rect top = row 28): the pink banner's raised tab under 入手した. Its top edge falls from row
+    36 at x 64 to 39 at x 95 (dark outline 1 above a rim 8, body a below); right of x 96 the banner starts at row
+    42, under the rect: transparent."""
+    y = 28 + r
+    if x >= 96:
+        return 0
+    edge = 36 + (x - 64) // 9
+    return 0 if y < edge - 1 else 1 if y == edge - 1 else 8 if y == edge else 10
 
 
 def head(text, **opt):
@@ -99,6 +111,16 @@ SCREENS = {
         ("gear", (87, 19, 35, 8), "GEAR", "btn", {1, 15}, (15, 1)),
     ]),
     "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
+    # spoils page 2 (block 2F7B2C, bg2): 入手したお金 / 入手したアイテム, 13-px kana in ink 8 9 d e f, outline c, over
+    # the top of the pink banners. Both banners show the same tiles for 入手した (x < 120): the shared PRIZE is drawn
+    # once (right-aligned, the second banner's copy waived by `repeats`), then GOLD / ITEMS in each one's own tiles
+    # (お金 owns only x 120-143: GOLD at size 13 is 22 px + ring)
+    "spoils2": dict(scene="m1_crop2", repeats=[(66, 68, 54, 14)], labels=[
+        (n, (x, y, w, 14), t, "big", set(range(16)) if n == "prize" else {8, 9, 11, 12, 13, 14, 15},
+         ([8, 9, 13, 14, 15, 15], 12),
+         dict(kind="bg2", size=13, fillat=_banner, **al)) for n, x, y, w, t, al in (
+            ("prize", 66, 28, 54, "PRIZE", dict(right=1)), ("gold", 120, 28, 24, "GOLD", dict(left=1)),
+            ("items", 120, 68, 48, "ITEMS", dict(left=1)))]),
     # stat labels (bg2 over the bg3 texture), one kana per tile of block 2F6658. こうげき's こ tile (x 8-15) is also
     # the last tile of the gender value おとこ (x 200, y 40): it goes blank, so ATTACK starts at x 16; all three
     # sit right-aligned against the [AT]/[DF]/[DX] tags, which are already English. Values: TILES["gender"].
@@ -199,6 +221,20 @@ STRIPS = {
         for k, ink, clear in ((0, [13, 14, 14], {1, 13, 14}), (1, [15], {1, 15}))
         for ts, text in zip(_CMD_TILES, _CMD) if all(t + 16 * k < 31 for t in ts)]),
 }
+# Title-screen menu pills (scene title_menu; each block one 64x16 pill, 8x2 tiles, BG at 0x060013E0-0x060019E0):
+# はじめから / つづきから / キャラ図鑑 / コンティニュー. Kana ink b c d 3 top to bottom, outline 4, rows of 6-a behind.
+_PILL = [0x2FD740, 0x2FD884, 0x2FD9BC, 0x2FE9B8]
+for _b, _t in zip(_PILL, ["NEW GAME", "CONTINUE", "PROFILES", "RESUME"]):
+    STRIPS[f"title_{_t.split()[0].lower()}"] = dict(block=_b, outline=4, runs=[
+        (list(range(16)), _t, [11, 11, 12, 13, 3, 3], {3, 4, 11, 12, 13}, dict(rows=2))])
+# Name entry 記号 (symbols) tab, block 2F8BB8 (40x16 pill, 5x2 tiles, BG at 0x060003E0): loads with name entry but no
+# warp shows it (R cycles ひらがな / カタカナ / 英語 only). Short form like HIRA / KATA / ABC (docs/decisions.md).
+STRIPS["name_sym"] = dict(block=0x2F8BB8, outline=4, runs=[
+    (list(range(10)), "SYM", [11, 11, 12, 13, 3, 3], {3, 4, 11, 12, 13}, dict(rows=2))])
+# Shop banner 万屋 (general store), block 2F91C4 (104x16 bar, 13x2 tiles, BG at 0x060045E0): white-on-black kanji
+# plate x 29-52, rows 4-12, ink c d e f top to bottom on plate index 3; no outline (the plate is the ground).
+STRIPS["shop_banner"] = dict(block=0x2F91C4, outline=None, runs=[
+    (list(range(26)), "SHOP", [12, 13, 14, 14, 15, 15], {12, 13, 14, 15}, dict(rows=2, x=30))])
 
 
 def draw_strip(name):
@@ -211,30 +247,50 @@ def draw_strip(name):
         b = raw[32 * t + 4 * y + x // 2]
         return b >> 4 if x % 2 else b & 15
 
-    for tiles, text, ink, clear in cfg["runs"]:
-        w = 8 * len(tiles)
-        px = {(x, y): get(tiles[x // 8], x % 8, y) for x in range(w) for y in range(8)}
+    for tiles, text, ink, clear, *opt in cfg["runs"]:
+        opt = opt[0] if opt else {}
+        # rows > 1: the tiles are a row-major grid of len/rows columns (a 2-row pill); text centred in it
+        rows = opt.get("rows", 1)
+        cols = len(tiles) // rows
+        w, h = 8 * cols, 8 * rows
+
+        def tile(x, y):
+            return tiles[(y // 8) * cols + x // 8]
+
+        px = {(x, y): get(tile(x, y), x % 8, y % 8) for x in range(w) for y in range(h)}
         val = dict(px)
         for (x, y), v in px.items():
             if v not in clear:
                 continue
-            for d in range(1, w + 8):
+            # pills (rows > 1, a gradient per row): nearest kept pixel of the same row, the nearest row only for a
+            # row with none; 1-row strips (battle2, seen in game): nearest of row and column at each distance
+            keep_row = rows > 1 and any(px[(xx, y)] not in clear for xx in range(w))
+            if keep_row and not opt.get("x"):  # pill: the row's own colour (its commonest kept index)
+                val[(x, y)] = Counter(px[(xx, y)] for xx in range(w) if px[(xx, y)] not in clear).most_common(1)[0][0]
+                continue
+            for d in range(1, w + h):
                 hit = [px[(xx, y)] for xx in (x - d, x + d) if 0 <= xx < w and px[(xx, y)] not in clear]
-                if not hit:  # a row with no kept pixel: nearest row
-                    hit = [px[(x, yy)] for yy in (y - d, y + d) if 0 <= yy < 8 and px[(x, yy)] not in clear]
+                if not hit and not keep_row:
+                    hit = [px[(x, yy)] for yy in (y - d, y + d) if 0 <= yy < h and px[(x, yy)] not in clear]
                 if hit:
                     val[(x, y)] = hit[0]
                     break
         pts, tw, th = render_mask(text, "pixfont", 6)
-        pts = {(x + 1, y + 1) for x, y in pts}
-        for x, y in ring(pts):
-            val[(x, y)] = cfg["outline"]
+        if rows > 1:
+            ax, ay = (w - tw) // 2 + opt.get("dx", 0), (h - th) // 2 + opt.get("dy", 0)
+        else:
+            ax, ay = 1, 1
+        ax = opt.get("x", ax)
+        pts = {(x + ax, y + ay) for x, y in pts}
+        if cfg["outline"] is not None:
+            for x, y in ring(pts):
+                val[(x, y)] = cfg["outline"]
         for x, y in pts:
-            val[(x, y)] = ink[min(len(ink) - 1, (y - 1) * len(ink) // th)]
+            val[(x, y)] = ink[min(len(ink) - 1, (y - ay) * len(ink) // th)]
         for (x, y), v in val.items():
-            if not (0 <= x < w and 0 <= y < 8):
+            if not (0 <= x < w and 0 <= y < h):
                 raise SystemExit(f"{name}: '{text}' pixel ({x},{y}) outside its tiles")
-            b = 32 * tiles[x // 8] + 4 * y + (x % 8) // 2
+            b = 32 * tile(x, y) + 4 * (y % 8) + (x % 8) // 2
             new[b] = (new[b] & 0x0F) | (v << 4) if x % 2 else (new[b] & 0xF0) | v
     gfx.DIR.mkdir(exist_ok=True)
     out = gfx.DIR / f"{name}_{cfg['block']:06X}.diff"
@@ -460,6 +516,8 @@ def draw(screen):
                 s = scr.src[y][x]
                 if s and s[4] in clear and "bgfill" in opt:
                     val[(x, y)] = opt["bgfill"]
+                elif s and s[4] in clear and "fillat" in opt:  # (x, row in rect) -> index: a shape the text hid
+                    val[(x, y)] = opt["fillat"](x, y - y0)
                 elif s and s[4] in clear:
                     # nearest kept pixel; clear_right=1 looks right first (identical result in a tile two
                     # screens share when only the left part differs)

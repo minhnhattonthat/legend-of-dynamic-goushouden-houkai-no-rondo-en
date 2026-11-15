@@ -14,19 +14,23 @@
 # --- retail flow (top menu 0 runs the unmodified game loop) ---
 debug_menu      wait=300                                  # the debug top menu itself
 retail_title    0,wait=900                                # logos, then the title screen
+title_menu      0,wait=900,press=start,wait=120           # title screen menu after START (blocks 2FD740-2FE9B8)
+title_menu2     3,3,5,wait=60,press=a,wait=120,press=a,wait=120,press=a,wait=240,press=a+b+start+select,wait=300,press=a,wait=900,press=start,wait=120   # save, soft reset to the debug menu, Retail: title menu with save data
 retail_newgame  0,wait=900,press=start,wait=240,press=a,wait=400   # title -> new game -> name entry
 # --- menus (コ -> MENU01 / MENU02 test entries: real game screens with a Lv30 debug party) ---
 k_jump          3,0                                       # field menu (メニュー: item, assort, status, save)
 k_jump2         3,1,wait=300                              # character encyclopedia (キャラ図鑑)
 m1_party        3,3,0                                     # assort change (party)
 m1_crop         3,3,1                                     # battle results (バトル収穫)
+m1_crop2        3,3,1,wait=60,press=a,wait=90,press=a,wait=90   # battle results, page 2 (money, items banners: block 2F7B2C)
 m1_book         3,3,2,wait=300                            # encyclopedia
 m1_status       3,3,3                                     # status
 m1_item         3,3,4                                     # items
 m1_save         3,3,5                                     # save screen
 m1_load         3,3,6                                     # load screen
 m1_name         3,3,7                                     # name entry (hero)
-m1_namesub      3,3,8                                     # name entry (heroine)
+m1_name_r       3,3,7,wait=60,press=r,wait=60,press=r,wait=60,press=r,wait=60   # name entry, R past the 英語 tab
+m1_namesub      3,3,8                                    # name entry (heroine)
 m1_title        3,3,9                                     # title screen
 m2_top          3,4,0                                     # field menu
 m2_bsel         3,4,1                                     # battler select (stock)

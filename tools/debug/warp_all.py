@@ -44,7 +44,7 @@ def scene_names():
     return out
 
 
-def run(rom, scene, out, frames, states, scripts=()):
+def run(rom, scene, out, frames, states, scripts=(), luavars=()):
     d = out / scene
     shutil.rmtree(d, ignore_errors=True)
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(d),
@@ -52,6 +52,8 @@ def run(rom, scene, out, frames, states, scripts=()):
            "--frames", str(max(frames, MIN_FRAMES.get(scene, 0))), "--timeout", "600"]
     for s in scripts:
         cmd += ["--script", str(Path(s).resolve())]
+    for v in luavars:
+        cmd += ["--var", v]
     if states:
         st = (ROOT / "work" / "states" / f"{scene}.mss").as_posix()
         cmd += ["--var", f"STATE_OUT=[[{st}]]"]
@@ -77,6 +79,7 @@ def main():
     ap.add_argument("--states", action="store_true")
     ap.add_argument("--out", default=str(ROOT / "work" / "qa" / "warp_all"))
     ap.add_argument("--script", action="append", default=[], help="extra Lua probe for every scene (repeatable)")
+    ap.add_argument("--var", action="append", default=[], help="NAME=value for the probes (repeatable)")
     a = ap.parse_args()
     rom = Path(a.rom) if a.rom else (ROOT / "build" / "goushouden_en.gba")
     if not rom.exists():
@@ -87,7 +90,7 @@ def main():
     print(f"{len(names)} scenes on {rom.name}, {a.jobs} jobs", flush=True)
     res = []
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        for r in ex.map(lambda n: run(rom, n, out, a.frames, a.states, a.script), names):
+        for r in ex.map(lambda n: run(rom, n, out, a.frames, a.states, a.script, a.var), names):
             res.append(r)
             print(("ok  " if r[1] else "FAIL") + f" {r[0]} done@{r[2]} {r[3]}", flush=True)
     with open(out / "summary.tsv", "w", encoding="utf-8") as f:
