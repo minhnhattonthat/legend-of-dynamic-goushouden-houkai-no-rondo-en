@@ -120,6 +120,10 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
     - Script files are malloc'd at their unpacked size (no fixed buffer; ~148 KB heap free on a field map);
       build.py caps a file at 32 KB. Codes: `{g}` = obtained item name / money amount; `{!R}`...`{!W}` wrap
       transceiver / remote speech (printer style); keep them where the JP has them (lint checks counts).
+- **Phase 8 so far:** k_ode warp (work/qa/p8_k_ode) draws the multi-enemy banner "Enemies appear!" cleanly. Still
+  to see in game: a one-enemy battle ("<enemy> appeared!" with the new space; the longest, "Mechanical Beast Baron
+  Ashura appeared!", is 39 bytes, x clamps to 0), a steal ("<item> stolen!"), the credit pairs (o_ending /
+  ending_credits warps, work/qa/p8_o_ending has a first run), and the "<item>:<n>pcs" message (0x08017FCE).
 - **Next (phase 8, `references/emulator-qa.md`, `references/graphics.md`):** tours with contact sheets and
   visual-QA verdicts (do them as a fresh read-only pass or `codex exec`: no nested workers), graphics text, inkbox,
   textcover; the "Phase 8 must check" list above. Effect reader 0x0809CC54 (from 0x09E9BA) not seen drawing.
