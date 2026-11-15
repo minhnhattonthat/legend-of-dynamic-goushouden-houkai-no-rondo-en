@@ -2,7 +2,38 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (graphics pipeline proven on the title; tour + gate tooling ready). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu/battle graphics labels mostly English; status/party/gender left, then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 3 (2026-11-16): menu and battle graphics labels
+- **`tools/gfxlabel.py`** (the S1/S4 redraw tool): per screen in `SCREENS` (scene from scenes.txt + label rects,
+  English, class, palette indices to clear, fill/outline indices). `dump` warps the ORIGINAL there
+  (`tools/ppuscene.py`: ppudump + `tools/lua/unpacklog.lua`), `grid SCENE x,y,w,h [bgN|obj]` prints palette indices
+  (pick rects/clear sets from it), `info`, `draw` -> `gfx/<screen>_<BLOCK>.diff` + `work/gfx/<screen>/{orig,en}.png`.
+  Screen composed with every pixel's VRAM source (`tools/gfxscreen.py`); VRAM->block from the unpack log's dst
+  (exact), vramfind only as fallback (it took a duplicate tile from the wrong block once). Checks: a tile that also
+  shows elsewhere must not change there (`repeats` rects waive a panel that repeats a label), a nibble written two
+  ways, text outside its rect. A label is copied into another block only when that block holds >= 2 of its
+  distinctive tiles and the screen doesn't load it (a shared kana tile, ア / る, once carried one label into another).
+- **Fonts:** classes `small` (tools/pixfont.py 6-px bold caps, our own, 1-px ring), `btn` (same + drop shadow, the
+  game's button style), `tiny` (3x5, where < 6 px/letter), `head` (Press Start 2P 8, OFL). docs/fonts.md.
+- **Build:** gfx.insert merges every screen's diff of a block (conflict = error), packs with `lh5.pack(small=True)`
+  (cost-based optimal parse, 1-10% smaller than greedy), and a block that still grows moves to free space with its
+  32-byte record header; its entry in the sprite archive 0x2F459C is rewritten (`gfx.ARCHIVES`, loader 0x080010A8:
+  R = A + u32[A + u32[A+8] + 4i], block = R + 0x20). Type-1/3 blocks re-typed to lh5 boot fine (seen in game).
+  Another loader (0x08011BEF, base r7 = block - 0x80, e.g. 0x35F094) is not mapped yet: such a block must fit.
+- **Done, each seen in a cold-boot warp on the EN build:** screen-title pills (MENU, ITEMS, PARTY, SPOILS, STATUS,
+  SAVE, LOAD, PROFILES), main-menu buttons, item tabs USE/DROP/SORT + ITEM columns, battle commands
+  FIGHT/ITEM/SWAP/RUN (k_ode), save/load FILE n, AREA, BATTLER, PARTNER, PROFILES n%, name entry HIRA/KATA/ABC +
+  FWD/BACK/DEL/OK, shop BUY/SELL/EXIT, PRICE, MONEY/OWNED/QTY/TOTAL plates (and the field menu's MONEY), book
+  SKILLS, VIEW, SELECT:SEARCH.
+- **Next, in order:** (1) status (m1_status, bg2 over bg3 texture): こうげき/ぼうぎょ/すばやさ + [AT]/[DF]/[DX] at
+  x 8-63, y 88/112/136 (8 rows, gradient 7-10, outline 1): plan "ATTACK"/"DEFENSE"/"SPEED" in `small` over the
+  whole x 8-63 (drop the bracket tags); せいべつ x 144-176 y 41-47 -> GENDER; the value おとこ (x 184-207) is one of
+  several (おんな, 両性 in block 2F6658): edit those by block, not screen, or dump a female character; セレクトきりかえ
+  tiny label. (2) party (m1_party/m2_sparty): 1スキル, 1サポート, バトラーストック (also on m2_bsel). (3) battle
+  extras in S4: クリティカル!!, "UP" status labels, 3625A8 large kana, 362BD0 battle messages: find their scenes
+  (o_battle, c_effect...). (4) S5 lettering, S7 shop signs, S3/S6. (5) Gate tour + vqa.sh, inkbox, textcover.
+- `python -X utf8 tools/gfxlabel.py draw` (all screens) then build: run after any change to pixfont/classes.
 
 ## Phase 8 session 2 (2026-11-16)
 - **Graphics pipeline works in game:** `tools/gfx.py` applies `gfx/<name>_<OFFSET>.diff` (changed bytes of the
@@ -167,3 +198,5 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
 - **Open bugs:** none.
 - **Waiting on the user:** (not blocking) sign-off on the D8 short forms in `docs/short-forms.md`: keep each, give
   another, or ask for the column re-layout. The run continues with them as shipped.
+  (not blocking) D9 graphics-label wordings (docs/decisions.md): HIRA/KATA/ABC tabs, FWD/BACK/DEL/OK, PROFILES for
+  キャラ図鑑, SPOILS for バトル収穫; the battler/partner counts on the save screen use the 3x5 font.

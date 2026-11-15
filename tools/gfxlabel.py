@@ -58,7 +58,12 @@ SCREENS = {
     "menu": dict(scene="k_jump", labels=[head("MENU")] + [
         (f"btn{i}", (147, 27 + 16 * i, 59, 10), t, "btn", {3, 4, 11, 12, 13, 15}, ([11, 12, 13], 4))
         for i, t in enumerate(["ITEMS", "PARTY", "STATUS", "SAVE"])]),
-    "book": dict(scene="k_jump2", labels=[head("PROFILES")]),
+    "book": dict(scene="k_jump2", labels=[
+        head("PROFILES"),
+        ("skill", (5, 82, 37, 10), "SKILLS", "small", {1, 4, 7, 8, 9, 10}, ([7, 8, 9, 10], 1)),
+        ("view", (159, 131, 23, 10), "VIEW", "small", {2, 3}, (2, None)),
+        ("select", (186, 137, 52, 5), "SELECT:SEARCH", "tiny", {1, 2}, (2, None)),
+    ]),
     "party": dict(scene="m1_party", labels=[head("PARTY")]),
     "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
     "status": dict(scene="m1_status", labels=[head("STATUS")]),
@@ -269,7 +274,7 @@ def draw(screen):
                         val[(x, y)] = scr.src[y][x0][4]
         c = CLASSES[cls]
         pts, tw, th = render_mask(text, c["font"], opt.get("size", c["size"]), c.get("weight"))
-        sh = 1 if c.get("shadow") else 0  # a drop shadow takes 1 px right/below, a ring 1 px on every side
+        sh = 1 if c.get("shadow") and ol_rgb is not None else 0  # a drop shadow: 1 px right/below
         ax = (x0 + 1 - sh if opt.get("left") else x0 + w - 1 - tw if opt.get("right")
               else x0 + (w - tw - sh) // 2) + opt.get("dx", 0)
         ay = y0 + (h - th + 1 - 2 * sh) // 2 + opt.get("dy", 0)
