@@ -1,0 +1,2 @@
+IMPORTANT | r0DD64C | "みどう" is the short name for 身堂竜馬. | "Mido" conflicts with the binding glossary surname "Shindo" and this character's dialogue name. | Shindo
+ASSESSMENT | b084 | Needs fixes | One character surname conflicts with the glossary; the remaining entries have no confident translation issues.

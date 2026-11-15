@@ -1,0 +1,3 @@
+IMPORTANT | 32.76 | "あくどい勉強に泣く少年少女を救うため" means saving children suffering under cruel schooling. | "Wicked studies" obscures the abusive schooling being condemned and weakens the heroic introduction. | A champion of justice, fighting day and night to save boys and girls from the torment of cruel schooling!
+MINOR | 32.91 | "謎を解く お手伝いをするわよ？" offers help solving the mystery. | "I'll help ... shall I?" is an awkward combination of a promise and a question. | If you don't pry into my true identity... how about I help you solve the mystery?
+ASSESSMENT | b033 | Needs fixes | The heroic introduction needs clearer English; the rest is broadly faithful, with one awkward offer worth polishing.

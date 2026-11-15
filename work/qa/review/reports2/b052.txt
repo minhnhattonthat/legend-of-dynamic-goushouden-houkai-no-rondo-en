@@ -1,0 +1,3 @@
+IMPORTANT | 51.66 | 「この像と共にある者です」 means "one who is with this statue." | "I am one with this statue" introduces a claim of unity with the statue that the Japanese does not make. | I am Psycho Jenny. I dwell here with this statue.
+IMPORTANT | 51.68 | 「あなたを お迎えに参りました」 means "I have come to fetch you." | "Welcome you" loses her stated purpose of coming to collect the player. | That's right. I am of the Demon race. I have come to fetch you.
+ASSESSMENT | b052 | Needs fixes | Psycho Jenny's introduction misstates her relationship to the statue and her purpose in approaching the player.

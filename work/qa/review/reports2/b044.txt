@@ -1,0 +1,3 @@
+MINOR | 43.24 | A tiny quantity of Getter Rays produces enormous energy. | "A magic light where" and "That's Getter Rays" read awkwardly. | A miraculous light that produces enormous energy from just a trace! Those are Getter Rays! Dr. Saotome discovered them.
+MINOR | 43.89 | Ryo cannot get the name out of his head and wonders what it means. | "This name stuck in my head, what is it" sounds like an unfinished translation. | Ugh... Ryo... Why can't I get this name out of my head!? What on earth does "Ryo" mean!?
+ASSESSMENT | b044 | Approved | No confident Critical or Important issues found; only two minor naturalness improvements.

@@ -142,9 +142,9 @@ alternatives) and no Avoid spelling. Name tags (speaker lines) come from `tools/
   はてさて, the pun partner of イヤハヤ). Nantomo's tic イヤハヤ なんとも stays romanised ("Iyahaya... nantomo...")
   because it is his name pun.
 - Readings from the ROM's own kana short names (wave 1 data), binding over guesses: 南友 なんとも Nantomo, 鬼谷
-  きたに Kitani (Yojiro Kitani), 虹蛇 こうじゃ Koja, 法印大子 だいこ Daiko Hoin, 大本栄惨坊 だいほんえい Eisanbo
-  Daihon, 墓世 はかせ Hakase, 無幻大権 たいげん Taigen.
+  きたに Kitani (Yojiro Kitani), 虹蛇 こうじゃ Koja, 法印大子 だいこ Daiko Hoin, 大本栄惨坊 だいほんえい Sanbo
+  Daihonei (大本営参謀 pun: surname 大本栄 Daihonei, given 惨坊 Sanbo; was "Eisanbo Daihon"), 墓世 はかせ Hakase, 無幻大権 たいげん Taigen.
 - 女蛮子 = Banji Suke ("Sukeban"; he introduces himself as 姓はスケ 名はバンジ); 蛮千代 = Banchiyo Suke.
-- 身堂竜馬 = Ryoma Shindo (matches the name tag). 鬼谷 = Kitani (the game's kana).
+- 身堂竜馬 = Ryoma Mido (ROM kana short name みどう; was "Ryoma Shindo" until review round 2). 鬼谷 = Kitani (the game's kana).
 - Go Nagai cameo keeps his でガス tic as ", gasu"; Chapeau-jii's ジャジャ as ", jaja".
 - ハチの巣入道 = Beehive Nyudo in dialogue (name tag); the 9-char enemy field abbreviates it.

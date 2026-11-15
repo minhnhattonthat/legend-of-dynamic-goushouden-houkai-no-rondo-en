@@ -1,0 +1,3 @@
+MINOR | 53.26 | 彼の体は...ドンカン...じゃなくて頑丈: his body is insensitive... rather, sturdy | "Far more... sturdier" makes the comic self-correction grammatically awkward; the insult also shifts from his body to his intelligence. | Looking at the pilot test results, Musashi Tomoe-kun's aptitude is low, but his body's much more thick-skinned... I mean, tougher than the other two's.
+MINOR | 53.51 | 鬼とは もともと鬼なのか？: are oni originally oni? | "Are oni oni" is awkward to parse. | Are oni born that way? Or are they humans who've transformed?
+ASSESSMENT | b055 | Approved | The translation preserves meaning and character voices, with only minor phrasing polish needed.

@@ -1,0 +1,3 @@
+IMPORTANT | B00.90 | 世界中につながった謎の屋敷に住む: lives in a mysterious mansion connected to places worldwide | "Spans the world" describes the mansion's extent rather than its connections. | Animal Kedaman   Mystery clan. Becomes a wolf. His odd mansion links to places worldwide.
+MINOR | B00.97 | 彼の桶に入っているオブジェクト: the object in his tub | "His tub's object" is unnatural and makes the gag harder to follow. | Meiwaku Tantei!! Iboji Kogoro  Runs the Nasty Detective Club. What's in his tub terrifies everyone.
+ASSESSMENT | b057 | Needs fixes | The mansion's worldwide connections are misrepresented; one other entry needs a small wording polish.

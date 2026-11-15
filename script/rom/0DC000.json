@@ -2400,7 +2400,7 @@
   ],
   "max": 11,
   "jp": "ほうでん",
-  "en": "Static",
+  "en": "Discharge",
   "status": "done",
   "notes": ""
  },
@@ -2578,7 +2578,7 @@
   ],
   "max": 11,
   "jp": "大ふぶき",
-  "en": "Flurry",
+  "en": "Blizzard",
   "status": "done",
   "notes": ""
  },

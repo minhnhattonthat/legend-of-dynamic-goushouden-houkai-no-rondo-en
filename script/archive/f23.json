@@ -75,7 +75,7 @@
    4061
   ],
   "jp": "身堂竜馬\n{p}の {s}への\n気持ちは わかるよ\nでも アレはもう\n{s}じゃない！\n化け物だ！",
-  "en": "Ryoma Shindo\nI get how you feel about\n{s}, {p}.\nBut that thing's not {s}\nanymore! It's a monster!",
+  "en": "Ryoma Mido\nI get how you feel about\n{s}, {p}.\nBut that thing's not {s}\nanymore! It's a monster!",
   "status": "done",
   "notes": ""
  },
@@ -345,7 +345,7 @@
    4092
   ],
   "jp": "身堂竜馬\n元気出しなよ {p}！\n\n必ず {s}は\n元に戻るさ！",
-  "en": "Ryoma Shindo\nCheer up, {p}!\n\n{s}'ll come back to\nnormal for sure!",
+  "en": "Ryoma Mido\nCheer up, {p}!\n\n{s}'ll come back to\nnormal for sure!",
   "status": "done",
   "notes": ""
  },

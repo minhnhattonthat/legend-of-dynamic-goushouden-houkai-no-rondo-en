@@ -54,8 +54,8 @@ r0DCA18	Doom Flame
 r0DCA24	Doom Flame
 r0DCA30	Breast Fire
 r0DCA44	Hellfire
-r0DCA54	Static
-r0DCA5C	Static
+r0DCA54	Discharge
+r0DCA5C	Discharge
 r0DCA68	White
 r0DCA74	Mind Buster
 r0DCA88	Pure Light
@@ -70,8 +70,8 @@ r0DCB08	Whip Dance
 r0DCB14	Whip Dance
 r0DCB20	Frenzy
 r0DCB28	Frenzy
-r0DCB30	Flurry
-r0DCB38	Flurry
+r0DCB30	Blizzard
+r0DCB38	Blizzard
 r0DCB44	Salve
 r0DCB4C	Salve
 r0DCB58	Potion

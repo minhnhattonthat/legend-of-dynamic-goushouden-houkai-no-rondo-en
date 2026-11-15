@@ -1,0 +1,2 @@
+IMPORTANT | 37.43 | "男の子がスケバンで 女の子が男子かぁ": a boy is a female gang leader, while a girl is named Danshi ("boy"). | "A girl who's a boy" mistakes a name pun for a literal statement; untranslated "sukeban" also obscures the joke. | A boy leading a girl gang and a girl named Danshi, meaning "boy"... Maybe they were affected by the Dimension Chain too...?
+ASSESSMENT | b038 | Needs fixes | The Danshi name pun is mistranslated; the remaining entries have no confident substantial issues.

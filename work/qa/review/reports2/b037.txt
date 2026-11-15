@@ -1,0 +1,2 @@
+MINOR | 36.01 | おのれ 邪魔立てするか！？ / 容赦せんぞ！！ | "You'd interfere!?" sounds unnatural and weakens the threat. | Curse you! You dare interfere!? I'll show you no mercy!!
+ASSESSMENT | b037 | Approved | Accurate and consistent overall, with distinctive character voices preserved and only minor phrasing polish needed.

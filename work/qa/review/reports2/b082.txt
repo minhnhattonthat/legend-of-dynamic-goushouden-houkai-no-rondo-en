@@ -1,0 +1,5 @@
+IMPORTANT | r0DCA54 | 放電 means "electrical discharge." | "Static" suggests a buildup of charge rather than its release. | Discharge
+IMPORTANT | r0DCA5C | ほうでん means "electrical discharge." | "Static" suggests a buildup of charge rather than its release. | Discharge
+IMPORTANT | r0DCB30 | 大吹雪 means "a great blizzard." | "Flurry" turns a powerful snowstorm into light snowfall, weakening the attack's meaning. | Blizzard
+IMPORTANT | r0DCB38 | 大ふぶき means "a great blizzard." | "Flurry" turns a powerful snowstorm into light snowfall, weakening the attack's meaning. | Blizzard
+ASSESSMENT | b082 | Needs fixes | Two attack names lose their meaning or intensity in both spelling variants.

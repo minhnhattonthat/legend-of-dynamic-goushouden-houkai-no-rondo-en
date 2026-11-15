@@ -1,0 +1,3 @@
+MINOR | 52.24 | 我がデーモンをしのぐ敵 = an enemy surpassing our Demon race | "Surpassing even we Demons" should use the object pronoun "us." | But! This is no time for that! {p}! If your story is true, an enemy surpassing even us Demons is after the surface! I'll lend you a hand. I won't let this Earth be taken by some Demon King!
+MINOR | 52.89 | アソートメンバーから外れた = left the party | "Left the party members" is unnatural and inconsistent with 52.83. | Partner "{s}" left the party.
+ASSESSMENT | b054 | Approved | No confident Critical or Important issues found; two minor wording fixes can wait for the polish pass.

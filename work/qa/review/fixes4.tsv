@@ -1,0 +1,21 @@
+# Review round 2 (work/qa/review/reports2/, all 45 batches), Important fixes after fixes3.
+# Rejected: r0DD64C (reviewer: Mido -> Shindo) and r0DD97C (Daihonei -> Daihon): the ROM's own kana short names
+# (みどう, だいほんえい) bind (glossary), so the full names follow them instead: Ryoma Mido, Sanbo Daihonei.
+42.89	{!R}I am Saotome, my boy, a scientist who studies Getter Rays.
+45.12	Akira-kun, could it be there... in that residential area?
+45.86	Quit struggling, damn you. You've lost, Sirene.
+51.66	I am Psycho Jenny. I dwell here with this statue.
+51.68	That's right. I am of the Demon race. I have come to fetch you.
+B00.77	Shutendoji\n\n\nTop cyborg of\n2100s. Must slay\nShutendoji, his\nfather's killer.
+B00.90	Animal Kedaman\n\n\nMystery clan.\nBecomes a wolf.\nHis odd mansion\nlinks worldwide.
+B01.33	Omorai-kun\n\n\nLead of a cult,\ncontroversial\nwork. Free boy;\nhis home: Earth.
+r0DB1AC	Ma Husk
+r0DCA54	Discharge
+r0DCA5C	Discharge
+r0DCB30	Blizzard
+r0DCB38	Blizzard
+02.24	...and Ryoma Mido.
+06.77	Mondo Saotome and Ryoma Mido's world...
+r0D038C	[0A]Partner "Ryoma Mido"[0A]joined the party.
+r0DD970	Sanbo Daihonei
+r0DDC98	Ryoma Mido

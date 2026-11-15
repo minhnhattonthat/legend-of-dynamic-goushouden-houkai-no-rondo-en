@@ -1,0 +1,3 @@
+MINOR | 47.32 | 居住エリア周辺 = around the residential area | "The area around the residential area" is needlessly repetitive. | They've driven the rioters away from the residential area. I have a meeting now, so I'll excuse myself.
+MINOR | 47.76 | 凄い数だな = There are so many | "What numbers..." sounds unnatural as a reaction to an enemy force. | So many of them... How big are they?
+ASSESSMENT | b048 | Approved | Meaning, terminology, and voices are sound; only minor wording polish is needed.

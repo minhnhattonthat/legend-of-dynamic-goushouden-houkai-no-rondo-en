@@ -1,0 +1,2 @@
+MINOR | r0DE584 | 敵単体を眠らせる: puts one enemy to sleep | "Puts one foe asleep" is unidiomatic English. | Puts one foe to sleep
+ASSESSMENT | b086 | Approved | No confident Critical or Important issues; one minor phrasing fix.

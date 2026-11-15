@@ -1,0 +1,2 @@
+MINOR | 41.72 | 吉三の服は 爆薬で作った特殊繊維なの: Kichiza's clothes use special fiber made from explosives. | Repeating "made" makes the urgent warning clumsy. | Run, {p}! Kichiza's clothes are woven from a special explosive fiber!
+ASSESSMENT | b042 | Approved | No confident Critical or Important issues; one minor wording improvement.

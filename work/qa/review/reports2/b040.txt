@@ -1,0 +1,3 @@
+MINOR | 39.59 | オヤジやオフクロが身体を捨てて守ってくれた この命！ | "Gave their bodies" is an awkward literal rendering of the parents' sacrifice. | My mom and dad sacrificed themselves to save my life! I'm entrusting that life to Ryu Takuma!
+MINOR | 39.81 | 暴力が支配する関東の覇者と呼ばれる男か？ | "Ruler of violence-ruled Kanto" is repetitive and cumbersome for Akira's brash voice. | So he's the guy they call the top dog in Kanto, where violence rules? This oughta be fun...!
+ASSESSMENT | b040 | Approved | Meaning, terminology, and character voices are preserved, with only minor wording polish needed.

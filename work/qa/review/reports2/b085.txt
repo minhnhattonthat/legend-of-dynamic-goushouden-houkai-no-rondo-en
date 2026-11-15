@@ -1,0 +1,2 @@
+IMPORTANT | r0DD97C | "だいほんえい" names Daihon | "Daihonei" conflicts with the binding glossary spelling "Daihon" and the adjacent full name "Eisanbo Daihon". | Daihon
+ASSESSMENT | b085 | Needs fixes | One character-name spelling conflicts with the glossary.

@@ -1,0 +1,4 @@
+MINOR | B01.10 | 右手が大きなはさみになっている | "A giant scissor" is unnatural English; use "scissors." | Cutie Honey   Its right hand is a giant pair of scissors with a machine gun.
+MINOR | B01.26 | 一万ボルトの電撃で基地を警護する | Missing punctuation between "volts" and "A Mechasaurus." | Getter Robo   Guards its base with 10,000 volts. A Mechasaurus with 3 heads.
+IMPORTANT | B01.33 | 「知る人ぞ知る 問題作品の主人公」 means the protagonist of a controversial work known to a select audience. | "Problem manga" mistranslates the description and sounds like a defective publication. | Omorai-kun   Lead of a controversial cult manga. Free spirit; the Earth is home.
+ASSESSMENT | b058 | Needs fixes | One mistranslated description and two small English corrections remain.

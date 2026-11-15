@@ -1,0 +1,3 @@
+MINOR | 49.41 | 「貴様と戦わずにはいられない」 means he cannot let this stand without fighting the Demon King. | "I can't help but fight you" sounds awkward and weakens the challenge. | It's a patchwork world the Demon King made! Demon King! I can't let you get away with this!
+MINOR | 49.43 | 「イヤというほどよく解る」 means he understands all too painfully well. | "Exactly how you feel, way too well" is clumsy in an emotional scene. | Miki was the reason I held on to my human heart. But now she's gone too... I know all too well how you feel, {p}...
+ASSESSMENT | b050 | Approved | No confident Critical or Important issues; two emotional lines would benefit from minor polish.

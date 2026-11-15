@@ -89,3 +89,35 @@ or `waived: reason`. The release script refuses to run while any line is unticke
 - [ ] 12.71 (b013) - "Made me breathe anesthetic from behind" is awkward and obscures the attacker's position. Suggested: On my way home from school, someone came up behind me and forced me to inhale an anesthetic... I passed out... and when I came to, I was here...
 - [ ] 12.77 (b013) - "The restraints on your reason will blow off" is an awkward literal rendering; "a colossal psychic energy" is unnatural. Suggested: When your loved one is hurt and your heart trembles with hatred and rage...! You'll lose all self-control, unleashing an enormous surge of psychic energy! That is how a terrifying psychic is born!
 - [ ] 18.74 (b019) - "That statue!?" obscures the retort that the supposedly protected statue is gone. Suggested: Then where's the statue!? You, you...! TAILBONE-SPLITTER CHOP!
+- [ ] 16.43 (b017) - "Way too awful" sounds awkward and weakens the outrage. Suggested: That's horrible! How could you be so cruel!
+- [ ] 16.82 (b017) - "Wellspring of evil hearts" is unnatural and obscures the connection to the malice Maria reflects. Suggested: Ahahahaha! Too bad, Maria! Susano-oh is the wellspring of malice! A mass of "Ma"! Not even you can stand against such an endless tide of evil!
+- [ ] 23.34 (b024) - "Come back to normal" is unnatural English. Suggested: Cheer up, {p}! {s}'ll be back to normal for sure!
+- [ ] 24.09 (b025) - "Please, {s}" reads as addressing {s}, obscuring the plea to Shinichi. Suggested: Shinichi-san... Please save {s}...!
+- [ ] 24.25 (b025) - "Give Mazinger Z a run for its money" suggests combat strength; the question concerns size. Suggested: Every last one of 'em is huge. They're right up there with Mazinger Z in size.
+- [ ] 24.63 (b025) - "Ass-ault" creates an unintended crude distraction from the childish food joke. Suggested: Hmmm, assaaault? Defense? The yummy one!
+- [ ] 32.91 (b033) - "I'll help ... shall I?" is an awkward combination of a promise and a question. Suggested: If you don't pry into my true identity... how about I help you solve the mystery?
+- [ ] 36.01 (b037) - "You'd interfere!?" sounds unnatural and weakens the threat. Suggested: Curse you! You dare interfere!? I'll show you no mercy!!
+- [ ] 39.59 (b040) - "Gave their bodies" is an awkward literal rendering of the parents' sacrifice. Suggested: My mom and dad sacrificed themselves to save my life! I'm entrusting that life to Ryu Takuma!
+- [ ] 39.81 (b040) - "Ruler of violence-ruled Kanto" is repetitive and cumbersome for Akira's brash voice. Suggested: So he's the guy they call the top dog in Kanto, where violence rules? This oughta be fun...!
+- [ ] 41.72 (b042) - Repeating "made" makes the urgent warning clumsy. Suggested: Run, {p}! Kichiza's clothes are woven from a special explosive fiber!
+- [ ] 42.66 (b043) - The opening fragment followed by another negative makes the refusal awkward. Suggested: I won't return to the Hell World until I've collected every brain in the world! I'll suck out loads of fresh brains!
+- [ ] 43.89 (b044) - "This name stuck in my head, what is it" sounds like an unfinished translation. Suggested: Ugh... Ryo... Why can't I get this name out of my head!? What on earth does "Ryo" mean!?
+- [ ] 44.27 (b045) - "In a corner of my head" and "it just won't come out" sound awkward in English. Suggested: There's something important at the back of my mind, something I gotta remember... Being in this machine sends shivers through my body... but I just can't remember!
+- [ ] 44.76 (b045) - "Let me thank you" sounds stiff and leaves the actual thanks hanging. Suggested: Looks like I owe you one. Thanks for everything.
+- [ ] 45.55 (b046) - "The bell for the fight" sounds unnatural and weakens the callback to his earlier warning. Suggested: It's ringing! The battle gong!
+- [ ] 46.17 (b047) - "Showing {p} a mess like this!" is an awkward fragment that weakens the accusation. Suggested: Get out! How dare you let {p} see this!
+- [ ] 46.46 (b047) - "Don't you got" reads as a grammatical mistake rather than natural rough speech. Suggested: Haven't you got anything to say to {p}?
+- [ ] 47.32 (b048) - "The area around the residential area" is needlessly repetitive. Suggested: They've driven the rioters away from the residential area. I have a meeting now, so I'll excuse myself.
+- [ ] 47.76 (b048) - "What numbers..." sounds unnatural as a reaction to an enemy force. Suggested: So many of them... How big are they?
+- [ ] 48.89 (b049) - "The fate ... is as good as finished" is awkward English for impending doom. Suggested: The eclipse is almost here... Until then, you're a prisoner of the Dimension Prison. The world... your friends... are already as good as doomed...
+- [ ] 48.92 (b049) - "Dancing in the palm" reads as a literal translation rather than a natural expression of being manipulated. Suggested: So the Demon King was just playing me all along...
+- [ ] 49.41 (b050) - "I can't help but fight you" sounds awkward and weakens the challenge. Suggested: It's a patchwork world the Demon King made! Demon King! I can't let you get away with this!
+- [ ] 49.43 (b050) - "Exactly how you feel, way too well" is clumsy in an emotional scene. Suggested: Miki was the reason I held on to my human heart. But now she's gone too... I know all too well how you feel, {p}...
+- [ ] 52.24 (b054) - "Surpassing even we Demons" should use the object pronoun "us." Suggested: But! This is no time for that! {p}! If your story is true, an enemy surpassing even us Demons is after the surface! I'll lend you a hand. I won't let this Earth be taken by some Demon King!
+- [ ] 52.89 (b054) - "Left the party members" is unnatural and inconsistent with 52.83. Suggested: Partner "{s}" left the party.
+- [ ] 53.26 (b055) - "Far more... sturdier" makes the comic self-correction grammatically awkward; the insult also shifts from his body to his intelligence. Suggested: Looking at the pilot test results, Musashi Tomoe-kun's aptitude is low, but his body's much more thick-skinned... I mean, tougher than the other two's.
+- [ ] 53.51 (b055) - "Are oni oni" is awkward to parse. Suggested: Are oni born that way? Or are they humans who've transformed?
+- [ ] B00.97 (b057) - "His tub's object" is unnatural and makes the gag harder to follow. Suggested: Meiwaku Tantei!! Iboji Kogoro  Runs the Nasty Detective Club. What's in his tub terrifies everyone.
+- [ ] B01.10 (b058) - "A giant scissor" is unnatural English; use "scissors." Suggested: Cutie Honey   Its right hand is a giant pair of scissors with a machine gun.
+- [ ] B01.26 (b058) - Missing punctuation between "volts" and "A Mechasaurus." Suggested: Getter Robo   Guards its base with 10,000 volts. A Mechasaurus with 3 heads.
+- [ ] r0DE584 (b086) - "Puts one foe asleep" is unidiomatic English. Suggested: Puts one foe to sleep

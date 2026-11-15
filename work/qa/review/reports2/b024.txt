@@ -1,0 +1,2 @@
+MINOR | 23.34 | 元気出しなよ...必ず元に戻るさ: Cheer up; she will return to normal. | "Come back to normal" is unnatural English. | Cheer up, {p}! {s}'ll be back to normal for sure!
+ASSESSMENT | b024 | Approved | Accurate and consistent overall, with only a small naturalness fix suggested.
