@@ -1,0 +1,28 @@
+# block	reason (flagged in graphics_sweep.tsv but done without a gfx/*.diff of its own; tools/gfxleft.py)
+2FDC	malformed sweep row (2FDC / F0): the 1スキル pill of block 2FDCE0, done (sparty)
+2FDCF0	no packed block starts here: the sweep's "システム" is the 1スキル pill of 2FDCE0 (+0x10), done (sparty)
+2F3BE4	Latin/digit art only (sweep: digits and arithmetic symbols)
+2F3D90	Latin/digit art only (digits and arithmetic symbols)
+2F54C0	Latin/digit art only (digits and P)
+2F54CC	Latin/digit art only (digits and P)
+2F560C	Latin/digit art only (digits and Latin glyphs)
+2F5A0C	Latin/digit art only (digits, symbols, HP)
+2F5AF8	Latin/digit art only (digits, symbols, HP)
+2F9D90	Latin/digit art only (small Latin/numeric glyphs)
+2FD578	Latin art only (large Latin letters)
+2FDF38	Latin art only (large Latin lettering)
+2FE48C	Latin art only (large Latin lettering)
+2FEAE4	Latin art only (AT, DF: the status tags, seen in English on m1_status)
+361D18	Latin art only (NAME, HP: battle HUD)
+362018	Latin art only (-HP0)
+3620E4	Latin art only (-HP0)
+3622B4	Latin art only (P and S among status symbols)
+491224	sleep "Z" symbols, not text
+49193C	sleep "Z" symbols, not text
+4AC9A4	triangular markers with letter-like strokes, not text
+4ACCBC	triangular markers with letter-like strokes, not text
+4AD2DC	triangular markers with letter-like strokes, not text
+4AD5F8	arrow markers with letter-like strokes, not text
+4B13E8	sleep "Z" symbols, not text
+4B13F8	sleep "Z" symbols, not text
+4B3298	sleep "Z" symbols, not text

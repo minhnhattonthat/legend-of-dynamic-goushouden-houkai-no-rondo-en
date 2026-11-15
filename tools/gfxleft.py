@@ -2,8 +2,8 @@
 
     python -X utf8 tools/gfxleft.py [--all]
 
-A block can be done without a diff of its own (pure Latin/digit art, or a screen that never shows it): mark those
-in docs/re/graphics.md, not here. --all also prints the blocks that have a diff.
+A block can be done without a diff of its own (pure Latin/digit art, a misread of the sweep, or a screen that never
+shows it): list those in docs/re/graphics_nodiff.tsv (block, reason). --all also prints the blocks that are done.
 """
 import csv
 import re
@@ -16,6 +16,10 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     done = {int(m.group(1), 16) for p in (ROOT / "gfx").glob("*.diff")
             if (m := re.search(r"_([0-9A-F]{6})\.diff$", p.name))}
+    nodiff = ROOT / "docs" / "re" / "graphics_nodiff.tsv"
+    if nodiff.exists():
+        done |= {int(r[0], 16) for r in csv.reader(open(nodiff, encoding="utf-8"), delimiter="\t")
+                 if r and not r[0].startswith("#")}
     rows = [r for r in csv.reader(open(ROOT / "docs" / "re" / "graphics_sweep.tsv", encoding="utf-8"), delimiter="\t")
             if r and not r[0].startswith("#")]
     left = 0

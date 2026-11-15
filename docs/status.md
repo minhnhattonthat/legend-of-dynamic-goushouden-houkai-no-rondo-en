@@ -2,7 +2,34 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (status + party labels done; equipment/system/battle extras/S5/S7 left, then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu labels done incl. partner stock, shop sell, battle menus; battle effect sprites / SFX cut-ins / S5 / S7 left, then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 5 (2026-11-16): sub-screens, list padding fix
+- **New scenes** (tools/debug/scenes.txt, button presses after the warp): `m2_sptn` (party edit -> partner slot:
+  パートナーストック, はずす / 全部はずす), `m2_shop_sell`, `m1_status_eq` (equipment list), `m1_status_sk` (status
+  skill panel), `k_ode_item` / `k_ode_skill` (battle lists). Equipment has no はずす: the buttons live on m2_sptn.
+- **Done, each seen in a cold-boot warp on the EN build:** PARTNER STOCK (its last 4 tiles are BATTLER STOCK's: same
+  "R STOCK" pixels, dx=3), REMOVE / REMOVE ALL OBJ buttons (+ highlighted twins 2F9C08 / 2F9CBC via
+  `gfxlabel.VARIANTS`: index remap 3->2 6->4 7->5 15->13, checked against the originals), shop sell tabs ITEMS /
+  GEAR (D9) and 売る数 = QTY, battle item list pill ITEMS, battle command strip 361AE4 (the menu's other states:
+  `gfxlabel.STRIPS`, drawn into the block's tiles keeping their gradient; commands seen English in every state).
+- **Engine fix (engine.PAD_SITE 0x0E844):** list names are padded by printer p2 with spaces counted in characters
+  (window+0x10C = 8 cells): under the VWF a pad advances 3 px, so a shorter English name left the tail of the one it
+  replaced ("Remedy   e" in the shop sell list). Now padded while pen < line start + 8 * n (covers 69 px, the
+  item_list field). Seen: shop buy/sell, item menu, status equipment list.
+- `docs/re/graphics_nodiff.tsv`: flagged blocks done without a diff (Latin/digit art, Z symbols, the sweep's
+  malformed 2FDC / 2FDCF0 rows = the 1スキル pill); `gfxleft.py` honours it: 97 left.
+- **Found, not done:** (a) the boss's super-move cut-in shows big katakana SFX lettering (ドドドゲーン…, k_ode
+  mashed ~f1700): find its block (unpacklog doesn't see the battle-effect loader 0x08011BEF: log that loader or
+  vramfind the cut-in frame), redraw per D5. (b) クリティカル!! (362154 / 2F5C04), the "…UP" label (3621F4) and
+  3625A8 never loaded in a mashed k_ode/o_battle (Cheer chosen, still no UP shown): they come through the other
+  loader; try `vramfind` on ppudumps taken mid-animation (`--shot-every` + `L.dump_ppu`), or draw them by block
+  with STRIPS/TILES and verify by forcing the effect.
+- **Next, in order:** (1) the cut-in SFX + battle extras above. (2) leftover menu blocks in gfxleft (2F55A4 status,
+  2F58B4 save/load, 2F74E4 / 2F7578 small captions on k_jump/party, 2F7B2C spoils banner, 2F8BB8 name entry,
+  2F91C4 / 2FA8D4 shop, 2FD740-2FE9B8 from tour2): dump each scene, compare EN vs JP; a block whose label is
+  already English through another block goes into graphics_nodiff.tsv with the reason. (3) S5 lettering
+  3873C8-389898, S7 shop signs, S3, S6. (4) Gate tour + vqa.sh (codex), inkbox, textcover.
 
 ## Phase 8 session 4 (2026-11-16): status and party labels
 - **Done, each seen in a cold-boot warp on the EN build:** status (m1_status): ATTACK / DEFENSE / SPEED right-aligned

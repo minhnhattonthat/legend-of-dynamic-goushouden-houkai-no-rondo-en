@@ -141,6 +141,11 @@ SCREENS = {
     ] + [(f"side{i}", (3, 66 + 16 * i, 31, 10), t, "btn", {3, 4, 11, 12, 13}, ([11, 12, 13], 4),
           dict(left=1, dx=7 if len(t) > 2 else 11))
          for i, t in enumerate(["FWD", "BACK", "DEL", "OK"])]),
+    # battle item list header pill (bg2; the skill list's スキル pill is the status label copy in 362BD0)
+    "bitem": dict(scene="k_ode_item", labels=[
+        ("items", (2, 25, 44, 11), "ITEMS", "small", {1, 4, 7, 8, 9, 10}, ([7, 8, 9, 10], 1),
+         dict(kind="bg2", left=1, dx=2)),
+    ]),
     # battle command list (S4, block 0x361AE4): 4 rows of 8 px, kana drawn with a right/bottom shadow
     "battle": dict(scene="k_ode", labels=[
         ("fight", (48, 123, 37, 8), "FIGHT", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
@@ -163,6 +168,76 @@ TILES = {
         ([0x14], ""), ([0x15], "♂"), ([0x16], "♀"), ([0x17], ""), ([0x18, 0x19], "MECH"), ([0x1A], ""),
         ([0x1B, 0x1C], "BOTH")]),
 }
+
+
+# Label strips drawn straight into a block's tiles, keeping their background (a block no warp scene shows on its
+# own): name -> block, [(tile numbers left to right, text, ink indices top to bottom, clear indices)], outline index.
+# Each run's pixels whose index is in `clear` take the nearest kept pixel of the same row in the run (else of the
+# nearest row), then the text is drawn left-aligned in `small` with a 1-px ring, like the screen labels.
+# 361AE4 (battle, loaded at 0x06003120 by k_ode): たたかう / アイテム / こうたい / にげる twice, ink d/e and ink f;
+# the commands on screen come from 3618EC (SCREENS["battle"]), these are the menu's other states.
+_CMD = ["FIGHT", "ITEM", "SWAP", "RUN"]
+_CMD_TILES = [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11], [12, 13, 14]]
+STRIPS = {
+    "battle2": dict(block=0x361AE4, outline=1, runs=[
+        ([t + 16 * k for t in ts], text, ink, clear)
+        for k, ink, clear in ((0, [13, 14, 14], {1, 13, 14}), (1, [15], {1, 15}))
+        for ts, text in zip(_CMD_TILES, _CMD) if all(t + 16 * k < 31 for t in ts)]),
+}
+
+
+def draw_strip(name):
+    cfg = STRIPS[name]
+    rom = next((ROOT / "rom").glob("*.gba")).read_bytes()
+    raw = packed.unpack(rom, cfg["block"])[1]
+    new = bytearray(raw)
+
+    def get(t, x, y):
+        b = raw[32 * t + 4 * y + x // 2]
+        return b >> 4 if x % 2 else b & 15
+
+    for tiles, text, ink, clear in cfg["runs"]:
+        w = 8 * len(tiles)
+        px = {(x, y): get(tiles[x // 8], x % 8, y) for x in range(w) for y in range(8)}
+        val = dict(px)
+        for (x, y), v in px.items():
+            if v not in clear:
+                continue
+            for d in range(1, w + 8):
+                hit = [px[(xx, y)] for xx in (x - d, x + d) if 0 <= xx < w and px[(xx, y)] not in clear]
+                if not hit:  # a row with no kept pixel: nearest row
+                    hit = [px[(x, yy)] for yy in (y - d, y + d) if 0 <= yy < 8 and px[(x, yy)] not in clear]
+                if hit:
+                    val[(x, y)] = hit[0]
+                    break
+        pts, tw, th = render_mask(text, "pixfont", 6)
+        pts = {(x + 1, y + 1) for x, y in pts}
+        for x, y in ring(pts):
+            val[(x, y)] = cfg["outline"]
+        for x, y in pts:
+            val[(x, y)] = ink[min(len(ink) - 1, (y - 1) * len(ink) // th)]
+        for (x, y), v in val.items():
+            if not (0 <= x < w and 0 <= y < 8):
+                raise SystemExit(f"{name}: '{text}' pixel ({x},{y}) outside its tiles")
+            b = 32 * tiles[x // 8] + 4 * y + (x % 8) // 2
+            new[b] = (new[b] & 0x0F) | (v << 4) if x % 2 else (new[b] & 0xF0) | v
+    gfx.DIR.mkdir(exist_ok=True)
+    out = gfx.DIR / f"{name}_{cfg['block']:06X}.diff"
+    out.write_text(gfx.make_diff(raw, bytes(new)), newline="\n")
+    from PIL import Image
+    n = len(new) // 32
+    im = Image.new("L", (16 * 8, (n + 15) // 16 * 8 * 2 + 4), 40)
+    for half, data in ((0, raw), (1, new)):
+        for t in range(n):
+            for y in range(8):
+                for x in range(8):
+                    b = data[t * 32 + y * 4 + x // 2]
+                    im.putpixel(((t % 16) * 8 + x, half * ((n + 15) // 16 * 8 + 4) + (t // 16) * 8 + y),
+                                ((b >> 4) if x % 2 else (b & 15)) * 16)
+    pv = ROOT / "work" / "gfx" / name
+    pv.mkdir(parents=True, exist_ok=True)
+    im.resize((im.width * 4, im.height * 4), Image.NEAREST).save(pv / "tiles.png")
+    print(f"{name}: {out.name}")
 
 
 # Twin blocks drawn in another palette (a highlighted button): screen -> [(drawn block, twin block, {index: index})].
@@ -532,10 +607,12 @@ def main():
     if len(sys.argv) < 2 or sys.argv[1] not in ("dump", "info", "draw"):
         raise SystemExit(__doc__)
     cmd, names = sys.argv[1], [a for a in sys.argv[2:] if not a.startswith("-")] or sorted(SCREENS) + (
-        sorted(TILES) if sys.argv[1] == "draw" else [])
+        sorted(TILES) + sorted(STRIPS) if sys.argv[1] == "draw" else [])
     for n in names:
         if n in TILES:
             draw_tiles(n)
+        elif n in STRIPS:
+            draw_strip(n)
         elif cmd == "dump":
             import ppuscene
             print(ppuscene.dump(SCREENS[n]["scene"], "jp", FRAMES))
