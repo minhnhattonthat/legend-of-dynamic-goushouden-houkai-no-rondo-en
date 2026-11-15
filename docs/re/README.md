@@ -1,15 +1,20 @@
-# Reverse-engineering notes
+# RE notes index
 
-One file per subsystem (text engine, pointers, compression, font, graphics). Mark every finding with how far it is
-proven, so a later session doesn't build on a guess:
+ROM: `Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba`, 8 MiB (0x800000), game code `AVDJ`, title `DYNAMIC`,
+save type SRAM (`SRAM_V112` at 0x0DE78C), Banpresto / Will, 2003. No earlier fan translation exists (web search
+2026-11-15: only ROM sites and the Japanese strategy guide). Each finding is marked **verified** (how) or **guess** (why).
 
-- **verified** - and how: a decoded known string, a corrupt-and-boot test, a breakpoint hit on the drawing path, a
-  passing roundtrip test. Name the test or savestate.
-- **guess** - and why it seems likely (byte pattern, another game, an earlier patch's notes). Promote it to verified
-  before code depends on it.
+| File | Subsystem |
+|---|---|
+| `compression.md` | packed-file header, lh5 codec, types 1/3/0x63 |
+| `text.md` | script archive (5,400 messages), menu/item strings, control codes, pointers |
+| `font.md` | runtime glyph renderer, charset lists, font descriptor table |
+| `memory.md` | RAM buffers and free-space candidates |
+| `graphics.md` | graphics-text survey (tile-drawn Japanese) |
 
-Addresses are for the dump in `rom.sha1` unless a note says otherwise.
+Tools written in recon: `tools/lh5.py` (lh5 codec, decode verified), `tools/gbalz.py` (BIOS LZ77; the game barely
+uses it: 5 blocks), `tools/lua/watchval.lua` (log nonzero writes with registers).
 
-| File | Covers | State |
-|---|---|---|
-| <text.md> | <encoding, control codes, pointer tables> | <verified / partly guessed> |
+## Gotchas
+- `watch.lua` logs the first write per PC, often a clear; use `tools/lua/watchval.lua` to see real values.
+- The game copies a whole message file into EWRAM; a read watch on the message buffer during display logged nothing.

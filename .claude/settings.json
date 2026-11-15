@@ -22,7 +22,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python \"$HOME/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game/scripts/hooks/guard_bash.py\""
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/guard_bash.py\""
           }
         ]
       }

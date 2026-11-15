@@ -19,7 +19,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Subagents: dispatch the agent types (translator, reviewer, visual-qa, playtester, graphics) shipped by the plugin as `translate-retro-game:<type>` (Claude Code), `.codex/agents/` (Codex) or `.opencode/agents/` (opencode), never general-purpose: their short tool list cuts each agent's start-up context from ~43k to ~9k tokens.
 - The user's decisions, with the options and reasons: `docs/decisions.md`. Read it before asking the user anything; add each new ruling there the same session.
 - Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update `docs/status.md`.
-- Guard hook: `.claude/settings.json` runs the skill's `guard_bash.py` (the plugin's own hook did not load); it blocks `sed -i` and source heredocs.
+- Guard hook: `.claude/settings.json` runs the vendored `.claude/hooks/guard_bash.py` (the plugin's own hook did not load; vendored so the policy is reviewed in git, not pulled by auto-update); it blocks `sed -i` and source heredocs.
 - Gotchas: see `docs/re/README.md` (filled in during recon).
 
 ## Status
