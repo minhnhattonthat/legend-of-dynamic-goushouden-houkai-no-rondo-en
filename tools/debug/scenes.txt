@@ -35,6 +35,7 @@ m2_sparty       3,4,3                                     # partner assort
 m2_mcrop        3,4,4                                     # battle results
 m2_sptn         3,4,3,wait=90,press=a,wait=60,press=right,wait=40,press=a,wait=60   # partner stock: はずす / 全部はずす
 m2_shop_sell    3,4,2,wait=60,press=b,wait=60,press=right,wait=30,press=a,wait=60   # shop sell: アイテム / アクセサリー tabs, 売る数
+m2_shop_gear    3,4,2,wait=60,press=b,wait=60,press=right,wait=30,press=a,wait=60,press=right,wait=60   # shop sell, アクセサリー tab
 m1_status_eq    3,3,3,wait=60,press=a,wait=60,press=a,wait=90                        # status: equipment list
 m1_status_sk    3,3,3,wait=60,press=a,wait=60,press=select,wait=60                   # status: skill panel (スキル)
 k_setup         3,2

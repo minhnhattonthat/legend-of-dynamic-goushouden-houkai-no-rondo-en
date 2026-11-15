@@ -2,7 +2,30 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu labels done; SFX cut-ins (S5) done; boss cut-in lettering, battle extras S4, leftover menu blocks, S7 signs, S3/S6 left, then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu labels done; SFX cut-ins (S5) done; battle popups drawn; 39 sweep blocks left: shop 2F91C4, k_jump/party captions, spoils banner, name entry, 2FD740-2FE9B8, S7 signs, S3/S6; then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 7 (2026-11-16): battle popups, shop GEAR tab, sweep triage
+- **Boss cut-in (session 5 (a)) is done:** with `tools/lua/mash.lua` (press A every N frames) on k_ode the boss
+  super-move at ~f1700 loads 4 S5 glyph blocks (JP 389370 388CE8 388C68 3889E8 = ドガーン; EN 38966C 389034 389998
+  388F10) and reads BLAM in the EN build: it is the SFX font, covered by session 6.
+- **Battle popups drawn by block** (gfxlabel TILES runs now take {font small|tiny, ay, fill}): 2F5C04 is a sheet of
+  digits 0-9, /, クリティカル!! (tiles 11-17), ミス (28-29), %UP (30-32); 362154 / 3621F4 hold the same tiles for
+  the battle-effect loader. CRITICAL!! (6-px caps) and MISS (3x5) in the kana's ink 7/8/9/a + shadow 1. Verified
+  only by unpacking the built ROM (`packed.unpack`): **not seen in game yet**: no warp shows a critical or a miss
+  (a mashed k_ode and the game_over wipe never load 362154/3621F4; 2F5C04 loads as BG tiles in the shop, unused
+  there). To see them: find what picks the popup (the loader 0x08011BEF's caller) and force it.
+- **3625A8 = "GAME OVER" Latin art** (unpacked at the wipe, `tools/lua/unpackat.lua` logs a block's unpack frame /
+  dst / lr, or every unpack from FROM): no work.
+- **Shop accessory tab** (new scene `m2_shop_gear`): the other tab states (2FA8D4 green アイテム, 2FAB64 pink
+  アクセサリー) were still Japanese; SCREENS["gear"] -> ITEMS / GEAR, seen in a cold-boot warp with both states.
+- Triage into graphics_nodiff.tsv: malformed rows inside done blocks (2F6A44 2F6A64 2F6C00 2FAAB4 2FAAB8 2F89F0),
+  Latin art (2F5FC8 HP/EXP/NEXT, 2F55A4 LV, 2F58B4 %). `gfxleft.py`: 39 left.
+- **Next, in order:** (1) 2F91C4 (shop, BG at 060045E0: kanji plate fragments, maybe 小計/下限: find where it
+  shows), 2F74E4 / 2F7578 (k_jump/party captions), 2F7B2C spoils banner, 2F8BB8 / 2F8C8C / 2F96C0 / 2F98CC /
+  2FA1F0 framed labels (t3), 2FA408 / 2FA7F8 / 2FA8B0 headings, 2FD740-2FE9B8: per block `unpackat.lua --var
+  "SRCS='0x08XXXXXX'"` over likely scenes to find where it loads, then a SCREENS entry. (2) Force a critical/miss
+  to see the popups. (3) S7 shop signs (map tiles), S3 301D08 / 3086C8, S6 426368 4F23B0. (4) Gate tour + vqa.sh,
+  inkbox, textcover.
 
 ## Phase 8 session 6 (2026-11-16): SFX cut-ins (S5)
 - **S5 is the battle SFX font**, not title cards: 40 packed blocks 0x3873C8-0x389998, one 32x32 OBJ kana each, in

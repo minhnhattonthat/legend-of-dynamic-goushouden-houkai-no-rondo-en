@@ -45,3 +45,13 @@
 3887B0	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
 38968C	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
 389898	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
+3625A8	Latin art: "GAME OVER" lettering (tiles out of order in the sweep); unpacked at the wipe (game_over scene, unpackat.lua), shows GAME OVER
+2F6A44	no packed block starts here: inside 2F69B4 (icons only); the item heading アイテム/NUM is 2F6AC4, done (item)
+2F6A64	no packed block starts here: inside 2F69B4 (icons only); the item heading アイテム/NUM is 2F6AC4, done (item)
+2F6C00	no packed block starts here: inside 2F6AC4 (item heading), done (item)
+2FAAB4	no packed block starts here: inside 2FAA80 (shop sell アクセサリー tab), done (sell)
+2FAAB8	no packed block starts here: inside 2FAA80 (shop sell アクセサリー tab), done (sell)
+2F89F0	no packed block starts here: inside 2F89E0 (name entry カタカナ tab), done (name)
+2F5FC8	Latin art only (HP EXP NEXT + an icon)
+2F55A4	Latin/digit art only (LV and fragments)
+2F58B4	Latin/digit art only (% and digit fragments)

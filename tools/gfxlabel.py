@@ -93,6 +93,11 @@ SCREENS = {
         ("gear", (87, 19, 35, 8), "GEAR", "btn", {1, 15}, (15, 1)),
         ("qty", (154, 76, 45, 12), "QTY", "head", {1, 2}, (2, 1)),
     ]),
+    # the same tabs with アクセサリー selected: the other two states (blocks 2FA8D4 and the pink アクセサリー)
+    "gear": dict(scene="m2_shop_gear", labels=[
+        ("items", (38, 19, 34, 8), "ITEMS", "btn", {1, 15}, (15, 1)),
+        ("gear", (87, 19, 35, 8), "GEAR", "btn", {1, 15}, (15, 1)),
+    ]),
     "spoils": dict(scene="m1_crop", labels=[head("SPOILS")]),
     # stat labels (bg2 over the bg3 texture), one kana per tile of block 2F6658. こうげき's こ tile (x 8-15) is also
     # the last tile of the gender value おとこ (x 200, y 40): it goes blank, so ATTACK starts at x 16; all three
@@ -163,10 +168,20 @@ SCREENS = {
 # after load): おとこ = 14 15 00, おんな = 14 16 17, ロボ = 18 19 1A, 両性 = 1A 1B 1C. 14 and 1A are each shared by two
 # values and 00 is こうげき's こ, so only 15 / 16 17 / 18 19 / 1B 1C are a value's own: ♂, ♀, MECH, BOTH
 # (docs/decisions.md D11).
+# A run may carry options (tiles, text, {font: "small" (pixfont.G 6 rows) | "tiny", ay: top row, fill: ink rows}).
+# Battle popups (OBJ, ink 7 7 7 8 9 a a top to bottom + shadow 1 right/below, like the kana): 2F5C04 is the damage
+# sheet (digits 0-9, /, クリティカル!! at tiles 11-17, ミス at 28-29, %UP at 30-32); 362154 (クリティカル!!) and
+# 3621F4 (ミス%UP) hold the same tiles for the other battle loader (0x08011BEF).
+_POP = dict(fill=[7, 7, 8, 9, 10, 10], font="small")
+_MISS = dict(fill=[7, 8, 9, 10, 10], font="tiny", ay=2)
 TILES = {
     "gender": dict(block=0x2F6658, fill=[7, 8, 9, 10], shadow=1, runs=[
         ([0x14], ""), ([0x15], "♂"), ([0x16], "♀"), ([0x17], ""), ([0x18, 0x19], "MECH"), ([0x1A], ""),
         ([0x1B, 0x1C], "BOTH")]),
+    "popup": dict(block=0x2F5C04, fill=[7, 8, 9, 10], shadow=1, runs=[
+        (list(range(11, 18)), "CRITICAL!!", _POP), ([28, 29], "MISS", _MISS)]),
+    "crit": dict(block=0x362154, fill=[7, 8, 9, 10], shadow=1, runs=[(list(range(7)), "CRITICAL!!", _POP)]),
+    "miss": dict(block=0x3621F4, fill=[7, 8, 9, 10], shadow=1, runs=[([0, 1], "MISS", _MISS)]),
 }
 
 
@@ -257,18 +272,21 @@ def draw_tiles(name):
     rom = next((ROOT / "rom").glob("*.gba")).read_bytes()
     raw = packed.unpack(rom, cfg["block"])[1]
     new = bytearray(raw)
-    for tiles, text in cfg["runs"]:
+    for tiles, text, *opt in cfg["runs"]:
+        opt = opt[0] if opt else {}
         px = {}
         if text:
             font = pixfont.SYM if all(c in pixfont.SYM for c in text) else pixfont.T
+            if opt.get("font") == "small":
+                font = pixfont.G
             pts, tw, th = pixfont.mask(text, font=font)
-            ax, ay = (8 * len(tiles) - tw - 1) // 2, 1
+            ax, ay = (8 * len(tiles) - tw - 1) // 2, opt.get("ay", 1)
             pts = {(ax + x, ay + y) for x, y in pts}
             for x, y in pts:
                 for dx, dy in ((1, 0), (0, 1), (1, 1)):
                     if (x + dx, y + dy) not in pts:
                         px[(x + dx, y + dy)] = cfg["shadow"]
-            ink = cfg["fill"]
+            ink = opt.get("fill", cfg["fill"])
             for x, y in pts:
                 px[(x, y)] = ink[min(len(ink) - 1, (y - ay) * len(ink) // th)]
         for k, t in enumerate(tiles):
