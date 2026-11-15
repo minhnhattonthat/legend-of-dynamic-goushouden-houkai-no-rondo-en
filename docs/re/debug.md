@@ -49,5 +49,15 @@ Field test: up/down -1/+1, left/right -10/+10 (r9), A loads the map through a ju
   graphic in the original) shows about +60..+120 frames after the third battler's HP hits 0, then the game returns
   to the field. No game-over text exists in the script archive or the plain ROM strings.
 
+## Proof run (all 340 scenes, verified)
+`warp_all.py --frames 3000 --states` on the original ROM: 47 named scenes + map_000..map_210 in `work/qa/warp_all/`,
+map_211..map_310 in `work/qa/warp_all_rest/` (both 0 failed; sheets in `<out>/sheets/`, read by eye). Spawns that
+look wrong but aren't warp bugs (map loaded, game alive):
+- map_168 (hotel 1F) shows only a map edge; map_170 (hotel 3F) black at the spawn point; map_201 (魔王の城Ｄ) hero on black.
+- map_267 is 黒ＢＧ ("black BG"): an all-black backdrop map by design.
+- map_218..map_232 (家・風呂場1A..3E) are 15 variants of one bathroom; they look identical.
+- map_290 (ダンテ５Ｄ) starts an entry event: a メイン dialogue box (「ここには…」) is up in the shot, so it's a free
+  dialogue sample for phase 5/8.
+
 ## Not reached yet
 - Route starts (see story state).
