@@ -59,5 +59,14 @@ look wrong but aren't warp bugs (map loaded, game alive):
 - map_290 (ダンテ５Ｄ) starts an entry event: a メイン dialogue box (「ここには…」) is up in the shot, so it's a free
   dialogue sample for phase 5/8.
 
+## Field teleport (`at=X:Y` step, `tools/debug/mapshot.py`)
+- Field state 0x03004F10: +0x220/+0x222 map size in 8-px cells, +0x22A/+0x22C camera X/Y in pixels (the streamer
+  0x0801C940 shifts them >>3 into cells). Player object 0x03005230: +0x58 = X, +0x56 = Y (pixels).
+- At map load 0x0801885C.. sets camera = player - (120, 88), clamped to the map; warp.lua's `at=X:Y` writes the
+  player's X/Y just before those reads (0x08018868 / 0x0801887C for X, 0x08018964 for Y), so player and camera move
+  together. The game redraws the visible area into the BG screenblocks screen-relative (only a 0-7 px fine scroll
+  is written to BGnHOFS), so a ppudump at a camera that's a multiple of 8 composes to the real screen.
+- `mapshot.py N..` stitches one teleported warp per screen into work/qa/maps/map_NNN.png (~20 s for a 3x3 map).
+
 ## Not reached yet
 - Route starts (see story state).

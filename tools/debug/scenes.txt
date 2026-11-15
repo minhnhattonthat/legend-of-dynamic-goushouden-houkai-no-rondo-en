@@ -1,5 +1,7 @@
 # Scene list for tools/debug/warp.lua: name, then steps (comma separated, no spaces), then an optional # note.
-# Steps: N = row N of the next list menu; map=N = field-test map N; wait=F; press=BUTTONS. See warp.lua's header.
+# Steps: N = row N of the next list menu; map=N = field-test map N; at=X:Y = player pixel position on that map
+# (teleport; camera = X-120, Y-88; whole-map pictures to pick it from: tools/debug/mapshot.py); wait=F;
+# press=BUTTONS. See warp.lua's header.
 # Every field map is also a scene without a line here: map_NNN (ids and names in tools/debug/maps.tsv).
 # Debug top menu (デバックＭＥＮＵ): 0 製品版 (retail) 1 大出 2 努 3 コ 4 菊池 5 素材１確認 6 デバックデータ 7 セーブデータ消去
 #   大出: 0 D_LIB0 1 D_LIB0A 2 カーソルテスト 3 バトルテスト 4 バトルオブジェマスク 5 バトル小技 6 DTSアニメーション
@@ -74,3 +76,6 @@ c_test2         4,2
 c_sprite        4,8
 x_material      5                                         # 大出 face / bust-up viewer
 x_debugdata     6                                         # debug data, back to the top menu
+# --- S7 map signs (teleported: the sign whole on screen, camera a multiple of 8; gfxlabel SCREENS sign*) ---
+sign245         2,0,map=245,at=120:328                     # 間身井薬局 plate (tile set 73E49C)
+sign147         2,0,map=147,at=760:168                     # 間身井薬局 plate (tile set 661050, 小さな町)

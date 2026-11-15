@@ -196,6 +196,12 @@ SCREENS = {
         ("l1", (100, 16, 42, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
         ("l2", (100, 22, 42, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
     ]),
+    # 間身井薬局 again in tile set 73E49C (map 245, 蓮沼街), teleported (scene sign245)
+    "sign245": dict(scene="sign245", copy=False, labels=[
+        ("l1", (76, 88, 42, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l2", (76, 94, 42, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
+    ]),
+    # map 147's plate (scene sign147) is the same 661050 tiles as map 135's: sign135 covers it, no entry of its own
 }
 
 

@@ -66,3 +66,19 @@
 2FA8B0	malformed sweep row inside 2FA7B8 (done: sell)
 2F3E74	digit font 0-9 (+ fragments): no text
 4F23B0	title screen OBJ art (eclipse ring arcs, silhouettes; loads at retail_title 0x06010000): no text, EN title shows none
+553FE8	S7 tile set of maps 002-004 (飛鳥邸 interiors): whole-map pictures (tools/debug/mapshot.py) show no sign; the flagged glyph-like tiles are never placed
+56B4C0	S7 tile set of maps 011-016 (如月邸): mapshot shows no sign on any of them; flagged tiles unused
+5767BC	S7 tile set of maps 017-020 (死神警察): mapshot shows no sign; flagged tiles unused
+59184C	S7 tile set of maps 026-030 (関東スラム houses): mapshot shows no sign; flagged tiles unused
+5C11B8	S7 tile set of map 045 (ハレンチ学園・校庭): mapshot shows no lettering on the school buildings
+632C74	S7 tile set of map 109 (光子力研究所 hangar): mapshot shows no sign (the lit door has no text)
+637A28	S7 tile set of maps 115-128 (サルード, メカ専用ダンジョン): mapshot shows no sign on any of the 14 maps
+66A918	S7 tile set of maps 131 / 136: only the Latin HOTEL sign shows (map 136); no Japanese placed
+6702B4	S7 tile set of map 133: the only lettering is a crushed, illegible sign in wreck art (map 133 camera 120..): no work
+673C2C	S7 tile set of map 134: mapshot shows no sign
+67A910	S7 tile set of maps 046 / 137 / 138: mapshot shows no sign
+66D610	S7 tile set never loaded: no scene or map warp unpacks it (unpackat over every map, work/qa/unpackat_maps + unpackat_66)
+674910	S7 tile set never loaded: no scene or map warp unpacks it (as 66D610)
+3086C8	64x64 ロボ専 sign never loaded: no scene or map warp unpacks it (unpackat over every scene and map)
+301D08	world-map (map_000) building icons, unpacked to an EWRAM buffer: no text
+426368	thin katakana SFX over a bar, never loaded by any scene or map warp (battle cut-ins use the S5 SFX font, done)

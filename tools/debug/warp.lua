@@ -47,6 +47,7 @@ local mapn = scene:match("^map_(%d+)$")
 local spec = scenes[scene] or (mapn and ("2,0,map=" .. tonumber(mapn))) or error("warp.lua: unknown scene " .. scene)
 
 local steps = {}
+local at = nil           -- at=X:Y: player pixel position for the first map load (see the teleport hooks below)
 for tok in spec:gmatch("[^,]+") do
   local k, v = tok:match("^(%a+)=(.+)$")
   if tok == "wipe" then steps[#steps + 1] = { kind = "wipe" }
@@ -55,9 +56,30 @@ for tok in spec:gmatch("[^,]+") do
   elseif k == "wait" then steps[#steps + 1] = { kind = "wait", n = tonumber(v) }
   elseif k == "press" then steps[#steps + 1] = { kind = "press", b = v }
   elseif k == "hold" then hold = tonumber(v)
+  elseif k == "at" then
+    local x, y = v:match("^(%d+):(%d+)$")
+    if not x then error("bad step " .. tok) end
+    at = { tonumber(x), tonumber(y) }
   else error("bad step " .. tok) end
 end
 L.log(string.format("WARP %s: %s (%d steps)", scene, spec, #steps))
+
+-- Teleport (at=X:Y): the map-load code at 0x0801885C.. places the camera (0x03004F10 +0x22A / +0x22C, pixels) from
+-- the player object 0x03005230 (+0x58 = X, +0x56 = Y): camera = player - (120, 88), clamped to the map. Writing the
+-- player's X/Y just before those reads moves player and camera together (first map load only).
+if at then
+  local PLAYER, done = 0x03005230, {}
+  local function put(off, v, what)
+    if done[what] then return end
+    done[what] = true
+    emu.write16(PLAYER + off, v, emu.memType.gbaMemory)
+    L.log(string.format("TELEPORT f%d %s=%d", L.frame, what, v))
+  end
+  -- X is read at 0x0801886A (small maps) or 0x0801887E (wide maps); Y at 0x08018966
+  L.on_exec(0x08018868, 0x08018868, function() put(0x58, at[1], "x") end)
+  L.on_exec(0x0801887C, 0x0801887C, function() put(0x58, at[1], "x") end)
+  L.on_exec(0x08018964, 0x08018964, function() put(0x56, at[2], "y") end)
+end
 
 -- redirect main()'s BL into the debug menu (the ROM in memory only; the file is not touched)
 for i, b in ipairs(BL_ORIG) do
@@ -146,6 +168,9 @@ L.on_frame(function(f)
   if done_at then
     if f == done_at + hold then
       L.shot("warp_" .. scene .. ".png")
+      local MAP = 0x03004F10  -- field state: +0x220/+0x222 map size in 8-px cells, +0x22A/+0x22C camera pixels
+      L.log(string.format("FIELD map %dx%d cells camera %d,%d", emu.read16(MAP + 0x220, M), emu.read16(MAP + 0x222, M),
+        emu.read16(MAP + 0x22A, M), emu.read16(MAP + 0x22C, M)))
       if STATE_OUT then L.save_state(STATE_OUT, function() L.log("STATE " .. STATE_OUT) end) end
     end
     return
