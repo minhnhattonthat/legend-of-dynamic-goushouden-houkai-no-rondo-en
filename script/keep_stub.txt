@@ -1,0 +1,4 @@
+# Paragraphs whose short or empty last line is meant: id<TAB>reason. tools/lint.py fails on any other stub.
+00.06	Yes/No choice box; the JP has the same trailing empty line
+45.06	the JP body is empty (name tag only); the check refuses empty English, so "..." stands in (keeps the JP's trailing newline)
+53.43	the JP body is empty (name tag only); the check refuses empty English, so "..." stands in (keeps the JP's trailing newline)

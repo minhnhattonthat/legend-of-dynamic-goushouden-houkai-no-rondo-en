@@ -405,7 +405,7 @@
    4826
   ],
   "jp": "{s}\nえ？ でも 公園には あたし達しか\nいなかったはずよ！",
-  "en": "{s}\nHuh? But we were the only ones in the\npark!",
+  "en": "{s}\nHuh? But we were the only ones in\nthe park!",
   "status": "done",
   "notes": ""
  },
@@ -595,7 +595,7 @@
    4845
   ],
   "jp": "不動明\n…初対面だと思うよ",
-  "en": "Akira Fudo\n...I think this is the first time we've\nmet.",
+  "en": "Akira Fudo\n...I think this is the first time\nwe've met.",
   "status": "done",
   "notes": ""
  },
@@ -885,7 +885,7 @@
    4877
   ],
   "jp": "不動明\n{p}君\n僕らも行こうか？",
-  "en": "Akira Fudo\n{p}-kun, shall we go\ntoo?",
+  "en": "Akira Fudo\n{p}-kun, shall we\ngo too?",
   "status": "done",
   "notes": ""
  },
@@ -925,7 +925,7 @@
    4903
   ],
   "jp": "早見青児\n自動車じゃ 無理だな\n仕方ない 歩こう！",
-  "en": "Seiji Hayami\nNo way the car'll make it. Oh well, let's\nwalk!",
+  "en": "Seiji Hayami\nNo way the car'll make it. Oh well,\nlet's walk!",
   "status": "done",
   "notes": ""
  },
@@ -945,7 +945,7 @@
    4905
   ],
   "jp": "如月ハニー\nこっちに道があるわ\n行ってみましょうか？",
-  "en": "Honey Kisaragi\nThere's a road over here. Shall we try\nit?",
+  "en": "Honey Kisaragi\nThere's a road over here. Shall we\ntry it?",
   "status": "done",
   "notes": ""
  },

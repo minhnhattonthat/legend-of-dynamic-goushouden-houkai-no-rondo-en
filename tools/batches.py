@@ -11,6 +11,7 @@ In both, a line break is written as the two characters \\n (a blank line, \\n\\n
 Dialogue (form dlg): the batch holds the message body only; the speaker line comes from tools/speakers.tsv at merge,
 and each paragraph is word-wrapped to the dialogue box (lint.py budgets), so translators write sentences, not lines.
 """
+import functools
 import json
 import re
 import sys
@@ -90,9 +91,24 @@ def jp_shown(part, entry):
     return entry["jp"].split("\n", 1)[1] if part == "archive" and "\n" in entry["jp"] else entry["jp"]
 
 
+def greedy(words, first, budgets, widths, shrink=0):
+    """Greedy word wrap; line i (counted from `first`) gets budgets[i % 2] - shrink px."""
+    out, cur = [], ""
+    for w in words:
+        trial = (cur + " " + w) if cur else w
+        if cur and lint.line_px(trial, widths) > budgets[(first + len(out)) % 2] - shrink:
+            out.append(cur)
+            cur = w
+        else:
+            cur = trial
+    out.append(cur)
+    return out
+
+
 def wrap(body):
     """Word-wrap each paragraph of a dialogue body to the box: line budgets alternate line1/line2 px (2-line pages);
-    a \\n the translator wrote is kept as a forced break."""
+    a \\n the translator wrote is kept as a forced break. A paragraph whose last line would be a stub (lint.STUB)
+    is re-wrapped balanced: the smallest uniform narrowing that keeps the line count and lengthens the last line."""
     widths = lint.char_widths()
     if widths is None:
         return body
@@ -100,16 +116,18 @@ def wrap(body):
     paras = []
     for para in body.split("\n\n"):
         out = []
-        for forced in para.split("\n"):
-            words, cur = forced.split(" "), ""
-            for w in words:
-                trial = (cur + " " + w) if cur else w
-                if cur and lint.line_px(trial, widths) > budgets[len(out) % 2]:
-                    out.append(cur)
-                    cur = w
-                else:
-                    cur = trial
-            out.append(cur)
+        forced = para.split("\n")
+        for k, seg in enumerate(forced):
+            lines = greedy(seg.split(" "), len(out), budgets, widths)
+            if k == len(forced) - 1 and len(lines) > 1 and lint.is_stub(lines[-1]):
+                for shrink in range(1, min(budgets)):
+                    trial = greedy(seg.split(" "), len(out), budgets, widths, shrink)
+                    if len(trial) != len(lines):
+                        break
+                    if not lint.is_stub(trial[-1]):
+                        lines = trial
+                        break
+            out += lines
         paras.append("\n".join(out))
     return "\n\n".join(paras)
 
@@ -145,6 +163,13 @@ def encodable(char):
 # ---- end of ADAPTER ----
 
 
+@functools.lru_cache(maxsize=None)
+def rx(pattern):
+    """Compiled once: the glossary, Avoid and honorific patterns outnumber re's own 512-entry cache, and recompiling
+    them made a full check take ~5 min."""
+    return re.compile(pattern)
+
+
 def kind(char):
     if "぀" <= char <= "ゟ":
         return "hiragana"
@@ -157,7 +182,7 @@ def kind(char):
 
 def has_term(jp, term):
     """term occurs as a whole kana or kanji run: ミン isn't in タイミング, くも isn't in ぼくも."""
-    for m in re.finditer(re.escape(term), jp):
+    for m in rx(re.escape(term)).finditer(jp):
         a, b = m.start(), m.end()
         if (a == 0 or kind(jp[a - 1]) != kind(term[0])) and (b == len(jp) or kind(jp[b]) != kind(term[-1])):
             return True
@@ -218,16 +243,16 @@ def problems(part, entry, en, terms, people):
     jp_plain = TOKEN.sub("", jp).replace("\\n", "").replace("\n", "")
     flat = re.sub(r"\s+", " ", en.replace("\\n", " ")).lower()  # a term may break across lines
     short = short_forms().get(entry["id"]) == en
-    for jps, ens, avoid in terms:
-        if short:
-            break
-        if any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in flat for e in ens):
+    for jps, ens, avoid in terms:  # a D8 short form skips the required term, never the Avoid list
+        if not short and any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in flat for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
-        out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
+        out += [f"glossary Avoid: {a}" for a in avoid if rx(rf"\b{re.escape(a)}\b").search(en)]
     for name in people:
         for jp_form, en_form in HONORIFICS.items():
             # 君達 / 君たち after a name is "you all" ("僕は 不動明\n君達は"), not -kun
-            hit = re.search(re.escape(name + jp_form) + r"(?!達|たち)", jp_plain)
+            if name + jp_form not in jp_plain:
+                continue
+            hit = rx(re.escape(name + jp_form) + r"(?!達|たち)").search(jp_plain)
             if hit and en_form.lower() not in en.lower():
                 out.append(f"honorific {name}{jp_form} needs {en_form}")
     return out + width_problems(part, entry, en)

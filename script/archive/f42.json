@@ -315,7 +315,7 @@
    10225
   ],
   "jp": "{p}\n{s}は どうしてここに？",
-  "en": "{p}\n{s}, how did you get\nhere?",
+  "en": "{p}\n{s}, how did you\nget here?",
   "status": "done",
   "notes": ""
  },
@@ -645,7 +645,7 @@
    10262
   ],
   "jp": "シャッポじい\n妖怪・ハチの巣入道の登場ジャ！",
-  "en": "Chapeau-jii\nHere comes the yokai Beehive Nyudo,\njaja!",
+  "en": "Chapeau-jii\nHere comes the yokai Beehive\nNyudo, jaja!",
   "status": "done",
   "notes": ""
  },
@@ -725,7 +725,7 @@
    10273
   ],
   "jp": "不動明\n一晩たったというのに\n目も覚まさず 熱も下がらない",
-  "en": "Akira Fudo\nA whole night's passed, and she won't\nwake up and the fever won't go\ndown.",
+  "en": "Akira Fudo\nA whole night's passed, and she\nwon't wake up and the fever won't\ngo down.",
   "status": "done",
   "notes": ""
  },
@@ -735,7 +735,7 @@
    10274
   ],
   "jp": "不動明\n黒い月も まだ空に上がってるぜ\n\nもうとっくに\n夜は明けたと言うのに…",
-  "en": "Akira Fudo\nThe black moon's still up in the sky,\ntoo.\n\nAnd it's long past dawn...",
+  "en": "Akira Fudo\nThe black moon's still up in the\nsky, too.\n\nAnd it's long past dawn...",
   "status": "done",
   "notes": ""
  },
@@ -955,7 +955,7 @@
    10299
   ],
   "jp": "早乙女博士\n黒い月について\n詳しく知りたいのだ",
-  "en": "Dr. Saotome\nI want to learn more about the black\nmoon.",
+  "en": "Dr. Saotome\nI want to learn more about the\nblack moon.",
   "status": "done",
   "notes": ""
  },

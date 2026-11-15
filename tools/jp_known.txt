@@ -1,0 +1,2 @@
+# jp_left.py --known: Japanese runs in the English build that no live pointer reads (hex offset, then the reason).
+0CFE40 r0CFE40 (始まりの丘) was relocated; its old slot is only hit by the word 0x080CFE46 at 0x389BC8, inside compressed data 0x389BA0-0x389BF0 (not a pointer table; phase 7 review M1)

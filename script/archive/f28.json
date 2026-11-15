@@ -95,7 +95,7 @@
    4646
   ],
   "jp": "{p}\nあなた達がいれば\n子郎君も安心だね！",
-  "en": "{p}\nWith you two around, Jiro-kun will be\nfine!",
+  "en": "{p}\nWith you two around, Jiro-kun will\nbe fine!",
   "status": "done",
   "notes": ""
  },
@@ -175,7 +175,7 @@
    4660
   ],
   "jp": "えん魔くん\n{p}！\n楽しかったぜ あばよ！",
-  "en": "Enma-kun\n{p}! It was a blast. So\nlong!",
+  "en": "Enma-kun\n{p}! It was a blast.\nSo long!",
   "status": "done",
   "notes": ""
  },
@@ -595,7 +595,7 @@
    4702
   ],
   "jp": "如月ハニー\n大丈夫よ 青児君\n\nハニーは 夏ちゃんのこと\n決して忘れないもん！\nだから…\nだから {p}も…ね！",
-  "en": "Honey Kisaragi\nIt's okay, Seiji-kun.\n\nHoney will never forget Natsu-chan!\nSo... so you too, {p}...\nokay?",
+  "en": "Honey Kisaragi\nIt's okay, Seiji-kun.\n\nHoney will never forget Natsu-chan!\nSo... so you too,\n{p}... okay?",
   "status": "done",
   "notes": ""
  },
@@ -605,7 +605,7 @@
    4703
   ],
   "jp": "{p}\n大丈夫 きっと 夏ちゃん\n無事だよ！",
-  "en": "{p}\nIt'll be okay. I'm sure Natsu-chan is\nsafe!",
+  "en": "{p}\nIt'll be okay. I'm sure Natsu-chan\nis safe!",
   "status": "done",
   "notes": ""
  },
@@ -825,7 +825,7 @@
    4725
   ],
   "jp": "如月ハニー\nうふふ！\n夏ちゃんのお尻 かわいい～！",
-  "en": "Honey Kisaragi\nTee-hee! Natsu-chan, your butt is so\ncute!",
+  "en": "Honey Kisaragi\nTee-hee! Natsu-chan, your butt is\nso cute!",
   "status": "done",
   "notes": ""
  },

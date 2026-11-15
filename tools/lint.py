@@ -13,7 +13,11 @@ Per translated entry (en non-empty, status not "data"):
     desc; the book in the 12-px font, as it is inserted fullwidth); the book's 511-byte buffer is checked by build.py
   - ROM strings: encoded bytes <= max unless the string has pointers (build.py relocates it then); px within every windows.json box whose `categories`
     include one of the string's record tables (tools/fields.py TABLES: item_list, battle_name, ...)
-Warnings (summary count; --warn lists them): a stub last line (< 6 chars) in a multi-line paragraph.
+  - archive paragraphs: a stub last line (< 6 chars) in a multi-line paragraph fails, unless the id is in
+    script/keep_stub.txt (batches.py wrap re-wraps balanced to avoid them)
+Per untranslated entry (non-empty jp, empty en, status not "data"): fails unless its id is in script/keep_jp.txt
+(`id<TAB>reason`).
+Warnings (summary count; --warn lists them): none at present.
 """
 import argparse
 import collections
@@ -140,8 +144,28 @@ def lint_archive(e, widths, errs, warns):
                 px = line_px(line, widths)
                 if px > budget:
                     errs.append("%s: line %r is %d px, page line %d holds %d" % (e["id"], line, px, k % 2 + 1, budget))
-        if len(lines) > 1 and len(lines[-1].strip()) < 6:
-            warns.append("%s: stub last line %r" % (e["id"], lines[-1]))
+        if len(lines) > 1 and is_stub(lines[-1]) and e["id"] not in keep("keep_stub.txt"):
+            errs.append("%s: stub last line %r (re-wrap or reword; keep-list: script/keep_stub.txt)" % (e["id"], lines[-1]))
+
+
+STUB = 6  # a paragraph's last line under this many characters is a stub
+
+
+def is_stub(line):
+    """{p} / {s} / {g} draw a name or value, never a stub on their own: they count as STUB characters."""
+    return len(re.sub(r"\{(?:p|s|g)\}", "x" * STUB, line).strip()) < STUB
+
+
+_KEEP = {}
+
+
+def keep(name):
+    """Ids in script/<name>: `id<TAB>reason` lines, `#` comments (keep_jp.txt, keep_stub.txt)."""
+    if name not in _KEEP:
+        path = ROOT / "script" / name
+        lines = path.read_text(encoding="utf-8").splitlines() if path.exists() else []
+        _KEEP[name] = {l.split("\t")[0].strip() for l in lines if l.strip() and not l.startswith("#")}
+    return _KEEP[name]
 
 
 _WIDTHS8 = None
@@ -202,6 +226,9 @@ def run(show_warn=False):
                 continue
             if not e["en"]:
                 todo += 1
+                if e["id"] not in keep("keep_jp.txt"):
+                    errs.append("%s: Japanese with no English (translate it, or list it in script/keep_jp.txt with "
+                                "the reason)" % e["id"])
                 continue
             done += 1
             check_entry(e, path.parent.name, errs, warns)

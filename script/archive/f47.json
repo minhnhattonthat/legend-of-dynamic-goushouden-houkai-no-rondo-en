@@ -365,7 +365,7 @@
    10941
   ],
   "jp": "ガードマン\nすみません！ 暴徒が窓を破って\n入って来ちゃいました！\n手を貸して下さい！",
-  "en": "Guard\nExcuse me! Rioters broke through a\nwindow and got in! Please give me a\nhand!",
+  "en": "Guard\nExcuse me! Rioters broke through a\nwindow and got in! Please give me\na hand!",
   "status": "done",
   "notes": ""
  },
@@ -585,7 +585,7 @@
    11016
   ],
   "jp": "早乙女博士\n魔王は捕らえた{s}を\n逃がさぬよう 見張っているのだ\nそして人々を操り 君を手に\n入れようと しているのだろう",
-  "en": "Dr. Saotome\nThe Demon King is keeping watch over\n{s} so she can't\nescape. And he's probably controlling\npeople to try to get his hands on\nyou.",
+  "en": "Dr. Saotome\nThe Demon King is keeping watch over\n{s} so she can't\nescape. And he's probably\ncontrolling people to try to get his\nhands on you.",
   "status": "done",
   "notes": ""
  },
@@ -625,7 +625,7 @@
    11020
   ],
   "jp": "不動明\n魔王が おまえを手に入れたがって\nいるからさ\nそれも… 日蝕の前にな！",
-  "en": "Akira Fudo\n'Cause the Demon King wants to get his\nhands on you. Before the eclipse,\ntoo!",
+  "en": "Akira Fudo\n'Cause the Demon King wants to get\nhis hands on you. Before the\neclipse, too!",
   "status": "done",
   "notes": ""
  },
@@ -855,7 +855,7 @@
    11043
   ],
   "jp": "早乙女博士\nそれは素晴らしいアイデアだよ\nえん魔くん！\n閻魔大王！\n私からも お願いする！",
-  "en": "Dr. Saotome\nThat's a splendid idea, Enma-kun!\nGreat King Enma! I ask this of you as\nwell!",
+  "en": "Dr. Saotome\nThat's a splendid idea, Enma-kun!\nGreat King Enma! I ask this of you\nas well!",
   "status": "done",
   "notes": ""
  },

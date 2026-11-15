@@ -29,6 +29,8 @@ DATA_SPANS = (
     (0x0D9C58, 0x0D9CF8, "onomatopoeia glyph lookup: one kana per entry (table at 0x104D40), maps SFX name kana to sprites"),
     (0x0CE010, 0x0CE154, "ASCII/half-width kana -> fullwidth SJIS map rows (table at 0x0FA6A0, used by 0x0800FE5C): "
                          "English text depends on it (marker build blanked every box, phase 5)"),
+    (0x0CD95C, 0x0CDA60, "ASCII -> fullwidth SJIS lookup, 2 bytes per ASCII code (read by 0x08003DE4 as table[c*2]); "
+                         "translating it broke the table (phase 7 review I1)"),
 )
 MAXLEN = 600
 

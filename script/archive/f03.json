@@ -15,7 +15,7 @@
    1440
   ],
   "jp": "あゆ子の父\nヤツらは 自分の好きなように\n警察権力を 行使してやがる\n法を守るふりをして\nこの町を 牛耳ってやがるんだ！",
-  "en": "Ayuko's Father\nThose bastards wield police power\nhowever they please! They pretend\nto uphold the law while they run this\ntown!",
+  "en": "Ayuko's Father\nThose bastards wield police power\nhowever they please! They\npretend to uphold the law while they\nrun this town!",
   "status": "done",
   "notes": ""
  },
@@ -55,7 +55,7 @@
    1444
   ],
   "jp": "{p}\nともかく 放っておくわけには\nいかないよ！",
-  "en": "{p}\nAnyway, we can't just leave things like\nthis!",
+  "en": "{p}\nAnyway, we can't just leave things\nlike this!",
   "status": "done",
   "notes": ""
  },
@@ -125,7 +125,7 @@
    1451
   ],
   "jp": "{p}\n助けに来たよ もう大丈夫！",
-  "en": "{p}\nWe came to rescue you. You're safe\nnow!",
+  "en": "{p}\nWe came to rescue you. You're\nsafe now!",
   "status": "done",
   "notes": ""
  },
@@ -275,7 +275,7 @@
    1467
   ],
   "jp": "あゆ子\n鍵がないと この扉は 開かないわ\n\n鍵は 死神警察署の署長が\n持ってるの",
-  "en": "Ayuko\nThis door won't open without the key.\n\nThe chief of the Reaper Police HQ has\nit.",
+  "en": "Ayuko\nThis door won't open without the key.\n\nThe chief of the Reaper Police HQ\nhas it.",
   "status": "done",
   "notes": ""
  },
@@ -345,7 +345,7 @@
    1474
   ],
   "jp": "シスター・ジル\n素直に 空中元素固定装置を\n渡せば 死なずに済んだものを…\nバカなヤツ",
-  "en": "Sister Jill\nIf he had just handed over the\nAirborne Element Fixer like a good\nboy, he wouldn't have had to die... The\nfool.",
+  "en": "Sister Jill\nIf he had just handed over the\nAirborne Element Fixer like a good\nboy, he wouldn't have had to die...\nThe fool.",
   "status": "done",
   "notes": ""
  },
@@ -825,7 +825,7 @@
    1532
   ],
   "jp": "如月ハニー\n心配しないで {p}\nきっと {s}は無事よ\nあたし達だって 大きなピンチを\n乗り切ったんだから！",
-  "en": "Honey Kisaragi\nDon't worry, {p}. I'm sure\n{s} is fine. We made it\nthrough a big pinch ourselves, after\nall!",
+  "en": "Honey Kisaragi\nDon't worry, {p}. I'm\nsure {s} is fine. We\nmade it through a big pinch ourselves,\nafter all!",
   "status": "done",
   "notes": ""
  },
@@ -855,7 +855,7 @@
    1535
   ],
   "jp": "住民\n死神警察が滅んでも\nきっと次の無法者が現れるさ",
-  "en": "Resident\nEven with the Reaper Police gone, I bet\nthe next bunch of outlaws will turn\nup.",
+  "en": "Resident\nEven with the Reaper Police gone, I\nbet the next bunch of outlaws will\nturn up.",
   "status": "done",
   "notes": ""
  },
@@ -885,7 +885,7 @@
    1538
   ],
   "jp": "住民\nあんた達かい？ あゆ子ちゃんを\n助け出したってのは！？\nいや～ たいしたもんだねぇ！\n\n死神警察の西にある\n関所も開放されたらしいし\n俺らも少しは\n希望を持っていいってことかな",
-  "en": "Resident\nSo you're the ones who rescued\nAyuko-chan!? Well, that's really\nsomething!\n\nI hear the checkpoint west of the\nReaper Police has been opened too.\nMaybe that means we can have a little\nhope.",
+  "en": "Resident\nSo you're the ones who rescued\nAyuko-chan!? Well, that's really\nsomething!\n\nI hear the checkpoint west of the\nReaper Police has been opened too.\nMaybe that means we can have a\nlittle hope.",
   "status": "done",
   "notes": ""
  },
@@ -925,7 +925,7 @@
    1542
   ],
   "jp": "あゆ子の父\nその節は お世話になりました\n\nこれからは 平和な暮らしが\n送れると いいのですが…",
-  "en": "Ayuko's Father\nThank you for everything you did for\nus.\n\nI only hope we can live in peace from\nnow on...",
+  "en": "Ayuko's Father\nThank you for everything you did\nfor us.\n\nI only hope we can live in peace from\nnow on...",
   "status": "done",
   "notes": ""
  },

@@ -105,7 +105,7 @@
    10521
   ],
   "jp": "武蔵\nわはは！\nおまえ やはり生きとったか！\nおら うれしいぜ！ てっきり\n死んじゃったのかと思ってた！",
-  "en": "Musashi\nWahaha! I knew you was alive! I'm so\nhappy! I figured you was a goner for\nsure!",
+  "en": "Musashi\nWahaha! I knew you was alive! I'm so\nhappy! I figured you was a goner\nfor sure!",
   "status": "done",
   "notes": ""
  },
@@ -535,7 +535,7 @@
    10572
   ],
   "jp": "ゴール\nさよう 地底魔王ゴール\n全生物の支配者だ！\n武器を捨てて 私に従え",
-  "en": "Gore\nIndeed. Gore, Demon King of the\nUnderworld, ruler of all living things!\nThrow down your weapons and obey\nme.",
+  "en": "Gore\nIndeed. Gore, Demon King of the\nUnderworld, ruler of all living\nthings! Throw down your weapons and\nobey me.",
   "status": "done",
   "notes": ""
  },
@@ -765,7 +765,7 @@
    10602
   ],
   "jp": "リョウ\n君には世話になったみたいだな\n礼を言わせてくれ",
-  "en": "Ryo\nLooks like I owe you one. Let me thank\nyou.",
+  "en": "Ryo\nLooks like I owe you one. Let me\nthank you.",
   "status": "done",
   "notes": ""
  },
@@ -935,7 +935,7 @@
    10619
   ],
   "jp": "{p}\nそれも…\n次元連鎖の影響なんでしょうか？",
-  "en": "{p}\nIs that... the Dimension Chain's doing\ntoo?",
+  "en": "{p}\nIs that... the Dimension Chain's\ndoing too?",
   "status": "done",
   "notes": ""
  },

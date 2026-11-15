@@ -65,7 +65,7 @@
    2376
   ],
   "jp": "研究員\n現在 会議中です\nこちらの通路は利用できません\n正面の扉から 入ってください",
-  "en": "Researcher\nA meeting is in session. This corridor is\nclosed. Please enter by the front\ndoor.",
+  "en": "Researcher\nA meeting is in session. This corridor\nis closed. Please enter by the\nfront door.",
   "status": "done",
   "notes": ""
  },
@@ -445,7 +445,7 @@
    2422
   ],
   "jp": "あしゅら（男）\nマジンガーは\n海中に沈んだようだな！？",
-  "en": "Ashura (Male)\nMazinger seems to have sunk into the\nsea!?",
+  "en": "Ashura (Male)\nMazinger seems to have sunk into\nthe sea!?",
   "status": "done",
   "notes": ""
  },
@@ -555,7 +555,7 @@
    2433
   ],
   "jp": "弓教授\n{!R}聞こえるか 甲児君！？\n\n{!R}アレが完成したぞ！\n現在 そちらに向かっている！",
-  "en": "Professor Yumi\n{!R}Can you hear me, Koji-kun!?\n\n{!R}THAT is finished! It's on its way to you\nnow!",
+  "en": "Professor Yumi\n{!R}Can you hear me, Koji-kun!?\n\n{!R}THAT is finished! It's on its way to\nyou now!",
   "status": "done",
   "notes": ""
  },
@@ -815,7 +815,7 @@
    2465
   ],
   "jp": "ボス\n戸来村って どこよ？\nさやか 知ってるか？",
-  "en": "Boss\nWhere's Herai Village? Sayaka, you\nknow?",
+  "en": "Boss\nWhere's Herai Village? Sayaka,\nyou know?",
   "status": "done",
   "notes": ""
  },
@@ -835,7 +835,7 @@
    2467
   ],
   "jp": "兜甲児\nどこだって 大丈夫さ！\n\nジェットスクランダーがあれば\nひとっ飛びだからな！",
-  "en": "Koji Kabuto\nWherever it is, no problem!\n\nWith the Jet Scrander, it's just a hop\naway!",
+  "en": "Koji Kabuto\nWherever it is, no problem!\n\nWith the Jet Scrander, it's just a\nhop away!",
   "status": "done",
   "notes": ""
  },

@@ -435,7 +435,7 @@
    1043
   ],
   "jp": "{s}\nちょっと！\nなに 赤くなってるのよ！\nほら\nあっちにも 人が倒れてるわよ！",
-  "en": "{s}\nHey! What are you blushing for!? Look,\nthere's someone lying over there\ntoo!",
+  "en": "{s}\nHey! What are you blushing for!?\nLook, there's someone lying over\nthere too!",
   "status": "done",
   "notes": ""
  },
@@ -555,7 +555,7 @@
    1055
   ],
   "jp": "{s}\nあたしは {s}よ\nよろしくね！",
-  "en": "{s}\nAnd I'm {s}. Nice to meet\nyou!",
+  "en": "{s}\nAnd I'm {s}. Nice to\nmeet you!",
   "status": "done",
   "notes": ""
  },
@@ -695,7 +695,7 @@
    1074
   ],
   "jp": "不動明\nまったく 了のヤツ…\n\n親友の 飛鳥了ってヤツが\n僕のことを 呼んでるんだ\n強引なんで 困っちゃうよ",
-  "en": "Akira Fudo\nGeez, that Ryo...\n\nMy best friend, Ryo Asuka, is calling\nfor me. He's so pushy, it drives me\nnuts.",
+  "en": "Akira Fudo\nGeez, that Ryo...\n\nMy best friend, Ryo Asuka, is\ncalling for me. He's so pushy, it\ndrives me nuts.",
   "status": "done",
   "notes": ""
  },

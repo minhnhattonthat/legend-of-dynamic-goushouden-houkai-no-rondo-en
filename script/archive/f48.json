@@ -185,7 +185,7 @@
    11086
   ],
   "jp": "研究員\n暴徒達が現れました！\n\n居住エリアに向かって\n進軍中です！",
-  "en": "Researcher\nThe rioters have appeared!\n\nThey're marching on the residential\narea!",
+  "en": "Researcher\nThe rioters have appeared!\n\nThey're marching on the\nresidential area!",
   "status": "done",
   "notes": ""
  },
@@ -195,7 +195,7 @@
    11087
   ],
   "jp": "早乙女博士\nとうとう来たか…\n明君！\n{p}を 安全な場所に\n連れて行ってくれたまえ！",
-  "en": "Dr. Saotome\nSo they've finally come... Akira-kun!\nTake {p} somewhere\nsafe!",
+  "en": "Dr. Saotome\nSo they've finally come...\nAkira-kun! Take {p}\nsomewhere safe!",
   "status": "done",
   "notes": ""
  },
@@ -445,7 +445,7 @@
    11112
   ],
   "jp": "飛鳥了\n…見覚えのある町並みだな？",
-  "en": "Ryo Asuka\n...These streets look familiar, don't\nthey?",
+  "en": "Ryo Asuka\n...These streets look familiar,\ndon't they?",
   "status": "done",
   "notes": ""
  },
@@ -485,7 +485,7 @@
    11116
   ],
   "jp": "暴徒\n魔王に逆らう者は 皆殺しだ！",
-  "en": "Rioter\nAnyone who defies the Demon King\ndies!",
+  "en": "Rioter\nAnyone who defies the Demon\nKing dies!",
   "status": "done",
   "notes": ""
  },
@@ -665,7 +665,7 @@
    11141
   ],
   "jp": "？？？\n…今のは あるべき世界の姿なの",
-  "en": "???\n...That was how the world is meant to\nbe.",
+  "en": "???\n...That was how the world is meant\nto be.",
   "status": "done",
   "notes": ""
  },

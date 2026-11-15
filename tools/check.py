@@ -1,6 +1,6 @@
-"""check.py: the repo's one-command check (tests + text lint). The pre-commit hook runs it.
+"""check.py: the repo's one-command check (tests + text lint + batches check). The pre-commit hook runs it.
 
-Runs every test_*.py under tests/ with unittest, then tools/lint.py. Tests that need the ROM skip themselves when rom/ is absent
+Runs every test_*.py under tests/ with unittest, then tools/lint.py, then `tools/batches.py check` (glossary terms). Tests that need the ROM skip themselves when rom/ is absent
 (a fresh clone without a dump still commits). Exit code = pass/fail; never pipe it before a commit.
 """
 import sys
@@ -20,7 +20,10 @@ def main():
     import lint
     if not lint.run():
         sys.exit(1)
-    print(f"check ok: {result.testsRun} tests + lint")
+    import batches  # glossary, Avoid, ordinal and honorific rules on all shipped English (hand fixes included)
+    if batches.main(["check"]):
+        sys.exit(1)
+    print(f"check ok: {result.testsRun} tests + lint + batches check")
 
 
 if __name__ == "__main__":

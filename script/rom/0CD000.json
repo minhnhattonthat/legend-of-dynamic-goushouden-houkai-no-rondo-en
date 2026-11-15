@@ -7,8 +7,8 @@
   "max": 259,
   "jp": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　！”＃＄％＆’（）＊＋，－．／０１２３４５６７８９：；＜＝＞？＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ［￥］＾＿‘ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｛｜｝～　",
   "en": "                                 !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZY^_'abcdefghijklmnopqrstuvwxyz|~ ",
-  "status": "done",
-  "notes": ""
+  "status": "data",
+  "notes": "ASCII -> fullwidth SJIS lookup, 2 bytes per ASCII code (read by 0x08003DE4 as table[c*2]); translating it broke the table (phase 7 review I1)"
  },
  {
   "id": "r0CDD0C",

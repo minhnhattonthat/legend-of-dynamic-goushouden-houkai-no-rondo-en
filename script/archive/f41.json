@@ -85,7 +85,7 @@
    10073
   ],
   "jp": "ザコ\nいやらしい目で見ないで！",
-  "en": "Grunt\nDon't look at me with those pervy\neyes!",
+  "en": "Grunt\nDon't look at me with those\npervy eyes!",
   "status": "done",
   "notes": ""
  },
@@ -215,7 +215,7 @@
    10086
   ],
   "jp": "駄ヱ門\n菊の助！\nパパは おまえを応援してるよ～！\nおや\nあんたが血桜組の助っ人かい？\n直と菊を よろしく頼むぜ！",
-  "en": "Daemon\nKikunosuke! Papa's cheering for you!\nOh? You the Chizakura Gang's\nringer? Look after Nao and Kiku for\nme!",
+  "en": "Daemon\nKikunosuke! Papa's cheering for\nyou! Oh? You the Chizakura Gang's\nringer? Look after Nao and Kiku\nfor me!",
   "status": "done",
   "notes": ""
  },
@@ -355,7 +355,7 @@
    10110
   ],
   "jp": "女生徒\n権金学園からのゲストチーム\n強いわね！\n特に あの小さな男の子！",
-  "en": "Schoolgirl\nThe guest team from Gongane Academy\nis so strong! Especially that little\nboy!",
+  "en": "Schoolgirl\nThe guest team from Gongane\nAcademy is so strong! Especially\nthat little boy!",
   "status": "done",
   "notes": ""
  },
@@ -435,7 +435,7 @@
    10118
   ],
   "jp": "直次郎\nトーナメント決勝戦には\nまだ時間がある\n少しでも身体を休めておけ！",
-  "en": "Naojiro\nThere's still time before the\ntournament final. Rest up while you\ncan!",
+  "en": "Naojiro\nThere's still time before the\ntournament final. Rest up while\nyou can!",
   "status": "done",
   "notes": ""
  },
@@ -445,7 +445,7 @@
    10120
   ],
   "jp": "女生徒\nハンチングにコートの権金学園の子\nどうしちゃったの？",
-  "en": "Schoolgirl\nWhat happened to that Gongane\nAcademy kid with the hunting cap and\ncoat?",
+  "en": "Schoolgirl\nWhat happened to that Gongane\nAcademy kid with the hunting cap\nand coat?",
   "status": "done",
   "notes": ""
  },
@@ -515,7 +515,7 @@
    10130
   ],
   "jp": "観客\nＡブロック優勝は 極楽組！\n\n聖パラダイス中学からの\nゲストチームじゃ！",
-  "en": "Spectator\nThe Block A winner is the Gokuraku\nGang!\n\nA guest team from St. Paradise Middle\nSchool!",
+  "en": "Spectator\nThe Block A winner is the\nGokuraku Gang!\n\nA guest team from St. Paradise Middle\nSchool!",
   "status": "done",
   "notes": ""
  },
@@ -765,7 +765,7 @@
    10159
   ],
   "jp": "直次郎\nふぅ…\nどうにか おさまったみたいだな",
-  "en": "Naojiro\nPhew... Looks like things finally calmed\ndown.",
+  "en": "Naojiro\nPhew... Looks like things finally\ncalmed down.",
   "status": "done",
   "notes": ""
  },
@@ -995,7 +995,7 @@
    10183
   ],
   "jp": "{p}\n僕 {p}！\n君は いったい 何者なの？",
-  "en": "{p}\nI'm {p}! Who exactly are\nyou?",
+  "en": "{p}\nI'm {p}! Who exactly\nare you?",
   "status": "done",
   "notes": ""
  }

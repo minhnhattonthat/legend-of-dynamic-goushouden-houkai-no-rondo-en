@@ -255,7 +255,7 @@
    9766
   ],
   "jp": "逞馬竜\nこれだから大人ってヤツは！\n\nもしも {p}達が\nドラゴンを倒さなかったら\nこの町はドラゴンにメチャクチャに\nされてたはずだぜ！",
-  "en": "Ryu Takuma\nGrown-ups, I swear!\n\nIf {p} and the others\nhadn't beaten the Dragons, this\ntown would've been torn to pieces by\nthem!",
+  "en": "Ryu Takuma\nGrown-ups, I swear!\n\nIf {p} and the others\nhadn't beaten the Dragons, this\ntown would've been torn to pieces\nby them!",
   "status": "done",
   "notes": ""
  },
@@ -535,7 +535,7 @@
    9800
   ],
   "jp": "逞馬竜\n良かった… 外道会のヤツらより\n先に 震災砦に戻れたぞ",
-  "en": "Ryu Takuma\nThank goodness... We made it back to\nthe Quake Fort before the Gedo\nGang.",
+  "en": "Ryu Takuma\nThank goodness... We made it back\nto the Quake Fort before the\nGedo Gang.",
   "status": "done",
   "notes": ""
  },
@@ -615,7 +615,7 @@
    9808
   ],
   "jp": "子供\n震災砦から出ない方がいいよ",
-  "en": "Child\nYou'd better not leave the Quake\nFort.",
+  "en": "Child\nYou'd better not leave the\nQuake Fort.",
   "status": "done",
   "notes": ""
  },

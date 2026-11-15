@@ -565,7 +565,7 @@
    9374
   ],
   "jp": "シレーヌ\n戦いこそが デーモンの生き甲斐\n\nこの爪が 次なる獲物を\n求めているぞ！",
-  "en": "Sirene\nBattle is what a Demon lives for.\n\nThese claws hunger for their next\nprey!",
+  "en": "Sirene\nBattle is what a Demon lives for.\n\nThese claws hunger for their\nnext prey!",
   "status": "done",
   "notes": ""
  },
@@ -685,7 +685,7 @@
    9393
   ],
   "jp": "{p}\nこの中は 他に通じている所は\nないのかな？",
-  "en": "{p}\nDoesn't this place lead anywhere\nelse?",
+  "en": "{p}\nDoesn't this place lead\nanywhere else?",
   "status": "done",
   "notes": ""
  },
@@ -895,7 +895,7 @@
    9525
   ],
   "jp": "不動明\nう うすっきみ悪いなぁ\n次じゃダメ？",
-  "en": "Akira Fudo\nTh-that's creepy... Can't I do it next\ntime?",
+  "en": "Akira Fudo\nTh-that's creepy... Can't I do it\nnext time?",
   "status": "done",
   "notes": ""
  },

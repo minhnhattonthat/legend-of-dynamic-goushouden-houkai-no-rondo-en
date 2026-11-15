@@ -63,6 +63,12 @@ class LintTest(unittest.TestCase):
         lint.lint_rom(dict(e, en="Tomahawk Panther"), errs)
         self.assertTrue(any("battle_name field" in m for m in errs), errs)
 
-    def test_stub_warning(self):
-        _, w = self.errs("名前\nあ\nい", "Name\nThis is a long line\nso.")
-        self.assertTrue(w)
+    def test_stub_last_line_fails(self):
+        e, _ = self.errs("名前\nあ\nい", "Name\nThis is a long line\nso.")
+        self.assertTrue(any("stub last line" in m for m in e), e)
+        e, _ = self.errs("名前\nあ\nい", "Name\nWe will wait for\n{p}!")
+        self.assertFalse(any("stub last line" in m for m in e), e)
+
+    def test_untranslated_needs_keep_list(self):
+        self.assertIn("x0D9D44", lint.keep("keep_jp.txt"))
+        self.assertNotIn("r0DB820", lint.keep("keep_jp.txt"))
