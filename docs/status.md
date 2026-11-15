@@ -2,7 +2,34 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu/battle graphics labels mostly English; status/party/gender left, then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (status + party labels done; equipment/system/battle extras/S5/S7 left, then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 4 (2026-11-16): status and party labels
+- **Done, each seen in a cold-boot warp on the EN build:** status (m1_status): ATTACK / DEFENSE / SPEED right-aligned
+  against the [AT]/[DF]/[DX] tags (3x5 font), GENDER, SELECT:SWITCH pill; gender value ♂ (D11). Party edit
+  (m2_sparty, m2_bsel): SKILLS / SUPPORT OBJ pills (and their twin blocks 2FDCE0 / 2FDE1C), BATTLER STOCK.
+- **Gender (D11, provisional):** block 2F6658 holds one kana per tile (こうげき ぼうぎょ すばやさ ➔ % U P せいべつ お
+  と ん な ロ ボ _ 両 性). The value is 3 tile numbers from a list built at run time (EWRAM 0x0200C914 after load:
+  14 15 00 / 14 16 17 / 18 19 1A / 1A 1B 1C), copied to the BG2 map by the rect blit at 0x080023B4 (tile base in
+  r12). The list comes from a second decompressor (0x080CD674, lr 0x08006F1D) that tools/lua/unpacklog.lua does not
+  log, so it isn't in work/blocks; not mapped. `gfxlabel.py` TILES["gender"] draws ♂ / ♀ / MECH / BOTH into the
+  tiles each value owns (`draw gender`); the こ tile goes blank (status `repeats` waives its value position).
+- **Tool changes:** `gfxlabel.py` TILES mode (draw straight into a block's tiles, preview work/gfx/<name>/tiles.png),
+  `clear_left` option, OBJ clears may borrow fill from a neighbouring sprite (pills made of several sprites);
+  `pixfont.SYM` (♂ ♀). `tools/lua/regwatch.lua` logs registers at every write into a range (who copies a map from
+  where). `tools/gfxleft.py`: flagged sweep blocks with no diff yet (131 of 167; 29 of them Latin/digit art = no work).
+- Gotchas: a label rect must cover the glyph's own rows (サポート starts on its pill's top border, y 48); a label
+  whose tiles another screen shares must use the same rect relative to the tiles on both screens (SELECT:SEARCH on
+  the book and SELECT:SWITCH on status share the セレクト tiles of block 2F6828: both rects 52x6, dy=-1); a rect
+  touching a cap tile that differs between twin blocks stops the copy into the twin. Old dumps without log.txt
+  (jp_m2_sparty was one) fail with "not found in any packed block": `rm -rf` the dump dir and `gfxlabel.py dump`.
+- **Next, in order:** (1) equipment screen (アクセサリー, はずす, 全部はずす: 2F990C 2F99C0 2F9C08 2F9CBC 2FA8D4-2FAAB8)
+  and システム (2FDCF0), バトラーズガッツ, カリスマ, 現在地, おたから: find each one's scene (scenes.txt; add one if
+  missing), `gfxlabel.py dump`, add a SCREENS entry. (2) battle extras S4: クリティカル!! (362154, 2F5C04), the UP
+  status label (3621F4), 3625A8 large kana, 362BD0 messages (status labels already copied ATTACK/DEFENSE there):
+  find their scenes (o_battle, c_effect...). (3) S5 lettering 3873C8-389898, S7 shop signs, S3 301D08/3086C8, S6.
+  (4) Gate tour + vqa.sh (codex), inkbox on choice boxes, textcover. `python -X utf8 tools/gfxleft.py` lists what
+  is left; mark Latin-only or unused blocks done in docs/re/graphics.md.
 
 ## Phase 8 session 3 (2026-11-16): menu and battle graphics labels
 - **`tools/gfxlabel.py`** (the S1/S4 redraw tool): per screen in `SCREENS` (scene from scenes.txt + label rects,
@@ -26,7 +53,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   FIGHT/ITEM/SWAP/RUN (k_ode), save/load FILE n, AREA, BATTLER, PARTNER, PROFILES n%, name entry HIRA/KATA/ABC +
   FWD/BACK/DEL/OK, shop BUY/SELL/EXIT, PRICE, MONEY/OWNED/QTY/TOTAL plates (and the field menu's MONEY), book
   SKILLS, VIEW, SELECT:SEARCH.
-- **Next, in order:** (1) status (m1_status, bg2 over bg3 texture): こうげき/ぼうぎょ/すばやさ + [AT]/[DF]/[DX] at
+- **Next (superseded by session 4; (1)-(2) done there):** (1) status (m1_status, bg2 over bg3 texture): こうげき/ぼうぎょ/すばやさ + [AT]/[DF]/[DX] at
   x 8-63, y 88/112/136 (8 rows, gradient 7-10, outline 1): plan "ATTACK"/"DEFENSE"/"SPEED" in `small` over the
   whole x 8-63 (drop the bracket tags); せいべつ x 144-176 y 41-47 -> GENDER; the value おとこ (x 184-207) is one of
   several (おんな, 両性 in block 2F6658): edit those by block, not screen, or dump a female character; セレクトきりかえ
@@ -200,3 +227,5 @@ char names, b080-b082 skills, b083-b085 items (rec18), b086 item descriptions.
   another, or ask for the column re-layout. The run continues with them as shipped.
   (not blocking) D9 graphics-label wordings (docs/decisions.md): HIRA/KATA/ABC tabs, FWD/BACK/DEL/OK, PROFILES for
   キャラ図鑑, SPOILS for バトル収穫; the battler/partner counts on the save screen use the 3x5 font.
+  (not blocking) D11 status-screen gender values ♂ / ♀ / MECH (ロボ) / BOTH (両性): symbols because the values share
+  tiles; full words need the run-time tile list mapped first.
