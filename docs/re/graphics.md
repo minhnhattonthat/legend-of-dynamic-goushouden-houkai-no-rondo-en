@@ -29,7 +29,7 @@ redraw. The game has no chapter cards (`docs/re/debug.md` §Story state).
 | S2 | 0x2FAD2C | lh5 | game title + subtitle (logo) | title screen (keep 豪翔伝 per D5; translate subtitle 崩界の輪舞曲) |
 | S3 | 0x301D08, 0x3086C8 | lh5 | tiny boxed captions; large kanji on white | unknown (title/menu area) |
 | S4 | 0x3618EC-0x362BD0 (10) | lh5 | battle commands たたかう / アイテム / こうたい / にげる, NAME/HP, クリティカル!!, battle messages | battle UI |
-| S5 | 0x3873C8-0x389898 (44) | lh5 / t3 | large outlined Japanese lettering, one block per word/title | chapter or event title cards **guess** |
+| S5 | 0x3873C8-0x389998 (40) | lh5 / t3 | battle SFX cut-in font: one 32x32 OBJ kana per block, in the order of the kana lookup 0x0D9C58 (う ふ ん ア ... ボ ピ; ピ = 0x389998, missed by the sweep) | **done** (phase 8): `tools/gfx_sfx.py` redraws 27 blocks as A-Z ! and rewrites their lookup codes (fullwidth); SFX names English in `script/sfx_en.tsv` (<= 4 letters: the cut-in draws 4 sprites). Seen in game: c_effect (4,3) + A shows FOOM |
 | S6 | 0x426368, 0x4F23B0 | lh5 | small kana label above a sprite; large curved glyphs | unknown |
 | S7 | 0x553FE8-0x7A0DD0 (17) | lh5 / t1 | shop signs and storefront lettering inside map tile sets (kanji, katakana, some Latin "SPORT") | town maps |
 | - | 0x491224, 0x4AC9A4-0x4B3298 | t1 | "Z" sleep marks, arrows: not text, no work | sprites |

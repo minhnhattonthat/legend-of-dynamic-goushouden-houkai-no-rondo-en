@@ -2,7 +2,25 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (menu labels done incl. partner stock, shop sell, battle menus; battle effect sprites / SFX cut-ins / S5 / S7 left, then the gate tour). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (menu labels done; SFX cut-ins (S5) done; boss cut-in lettering, battle extras S4, leftover menu blocks, S7 signs, S3/S6 left, then the gate tour). Phase 7 done 2026-11-16.
+
+## Phase 8 session 6 (2026-11-16): SFX cut-ins (S5)
+- **S5 is the battle SFX font**, not title cards: 40 packed blocks 0x3873C8-0x389998, one 32x32 OBJ kana each, in
+  the order of the kana lookup 0x0D9C58 (index i at 0x0D9CF4 - 4i, via table 0x08104D1C; 0x080C6258 matches each
+  2-byte char of an SFX record name and stores the index). `tools/gfx_sfx.py draw` redraws 27 of them as A-Z ! in
+  the game's style (Bangers, OFL; gradient b..3, outline 2, lower-left c-f, shadow 1); each letter went to a block
+  whose packed slot fits it (`MAP`; the small-kana blocks are too small). The build writes the lookup codes
+  (fullwidth), `extract.FULLWIDTH` covers the SFX name fields, English in `script/sfx_en.tsv` (`gfx_sfx.py names`
+  -> sfx.json; check.py's test runs `gfx_sfx.check`).
+- **The cut-in draws 4 glyph sprites only** (OAM log `tools/lua/oamlog.lua`: 6-letter FWOOM! showed FWOO; it loads
+  a glyph per char but draws 4, 32 px apart, scrolling left from x 233): English SFX names are <= 4 letters. The JP
+  names longer than 4 kana are cut the same way. Seen in a cold boot: c_effect (4,3) + A -> FOOM in full.
+- Scene for it: `4,3,wait=60,press=a,wait=600` (effect 0 = ドワッ, letters at f414-480). Not added to scenes.txt.
+- **Still open from session 5:** the boss super-move cut-in ドドドゲーン (k_ode mashed ~f1700) is NOT this font
+  (ゲ isn't in the lookup): big lettering from the battle-effect loader 0x08011BEF, still Japanese.
+- **Next, in order:** (1) that boss cut-in + クリティカル!! / UP / 3625A8 (session 5 (a)/(b)). (2) leftover menu
+  blocks (`gfxleft.py`: 53 left; list from session 5 (2)). (3) S7 shop signs, S3, S6. (4) Gate tour + vqa.sh, inkbox,
+  textcover.
 
 ## Phase 8 session 5 (2026-11-16): sub-screens, list padding fix
 - **New scenes** (tools/debug/scenes.txt, button presses after the warp): `m2_sptn` (party edit -> partner slot:

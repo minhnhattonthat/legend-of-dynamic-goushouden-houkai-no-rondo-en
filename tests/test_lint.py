@@ -89,5 +89,9 @@ class LintTest(unittest.TestCase):
         self.assertFalse(any("stub last line" in m for m in e), e)
 
     def test_untranslated_needs_keep_list(self):
-        self.assertIn("x0D9D44", lint.keep("keep_jp.txt"))
         self.assertNotIn("r0DB820", lint.keep("keep_jp.txt"))
+        self.assertNotIn("x0D9D44", lint.keep("keep_jp.txt"))  # SFX names are English now (tools/gfx_sfx.py)
+
+    def test_sfx_names_drawable(self):
+        import gfx_sfx
+        self.assertEqual(gfx_sfx.check(), [])

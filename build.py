@@ -28,6 +28,7 @@ import check_rom  # noqa: E402
 import engine  # noqa: E402
 import extract  # noqa: E402
 import gfx  # noqa: E402
+import gfx_sfx  # noqa: E402
 import marker as marker_mod  # noqa: E402
 import sjis  # noqa: E402
 
@@ -186,6 +187,7 @@ def build(orig, marker=False, writes=None, qa=()):
         texts = [marks.get(t[0], t) for t in texts]
     cur = insert_rom_strings(rom, texts, w.put, (orig, cur, extract.rom_ptrs())) or cur
     gfx.insert(orig, w.put, cur)
+    gfx_sfx.apply(orig, w.put)  # SFX letters: the glyph lookup (its glyph blocks came through gfx.insert)
     if writes is not None:
         writes.extend(w.log)
     return bytes(rom)

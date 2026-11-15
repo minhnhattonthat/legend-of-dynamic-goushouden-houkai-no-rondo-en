@@ -26,3 +26,22 @@
 4B13E8	sleep "Z" symbols, not text
 4B13F8	sleep "Z" symbols, not text
 4B3298	sleep "Z" symbols, not text
+3877D4	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+3880E4	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+3882F4	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+3884E0	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+3886BC	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+38883C	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+388914	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+3889E8	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+388AD0	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+388BA8	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+388C68	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+389370	SFX glyph kana kept (S5, tools/gfx_sfx.py): no English SFX name uses it, so it never shows
+3876B4	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
+3876B8	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
+387FF8	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
+3880F4	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
+3887B0	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
+38968C	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)
+389898	no packed block starts here (malformed sweep row inside the S5 SFX glyph blocks, done by tools/gfx_sfx.py)

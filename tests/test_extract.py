@@ -146,9 +146,10 @@ class InsertTest(unittest.TestCase):
             f.orig_raw = None
         out = bytearray(self.rom)
         self.build.put_archive_inplace(out, arc)
-        self.build.insert_rom_strings(out, [(0x0DAFFC, 15, "Shaft's son", True), (0x0D9D44, 19, "Whoosh", True)])
+        self.build.insert_rom_strings(out, [(0x0DAFFC, 15, "Shaft's son", True), (0x0D9D44, 19, "WHOOSH", True)])
         back = archive.split_file(archive.read(bytes(out)).files[0].raw)
         self.assertEqual(back[1], b"\rYou got \\g!\0")
         self.assertEqual(out[0x0DAFFC:0x0DAFFC + 16], b"Shaft's son" + bytes(5))
-        self.assertEqual(out[0x0D9D44:0x0D9D44 + 20], b"Whoosh" + bytes(14))
+        # SFX names go in fullwidth, as the glyph lookup holds them (tools/gfx_sfx.py)
+        self.assertEqual(out[0x0D9D44:0x0D9D44 + 20], sjis.encode("ＷＨＯＯＳＨ") + bytes(8))
         self.assertRaises(SystemExit, self.build.insert_rom_strings, out, [(0x0DAFFC, 15, "x" * 16, True)])

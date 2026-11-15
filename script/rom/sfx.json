@@ -4,1304 +4,1304 @@
   "rec": "0D9D18",
   "max": 19,
   "jp": "ドワッ",
-  "en": "",
+  "en": "FOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9D44",
   "rec": "0D9D38",
   "max": 19,
   "jp": "シューッ",
-  "en": "",
+  "en": "ZOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9D64",
   "rec": "0D9D58",
   "max": 19,
   "jp": "ズバーッ",
-  "en": "",
+  "en": "ZING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9D84",
   "rec": "0D9D78",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9DA4",
   "rec": "0D9D98",
   "max": 19,
   "jp": "ウキャアー",
-  "en": "",
+  "en": "EEK!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9DC4",
   "rec": "0D9DB8",
   "max": 19,
   "jp": "シャーッ",
-  "en": "",
+  "en": "HISS",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9DE4",
   "rec": "0D9DD8",
   "max": 19,
   "jp": "ブィーン",
-  "en": "",
+  "en": "WHIR",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9E04",
   "rec": "0D9DF8",
   "max": 19,
   "jp": "ドドドド",
-  "en": "",
+  "en": "DOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9E24",
   "rec": "0D9E18",
   "max": 19,
   "jp": "ズババババ",
-  "en": "",
+  "en": "ZIP!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9E44",
   "rec": "0D9E38",
   "max": 19,
   "jp": "ドドドド",
-  "en": "",
+  "en": "DOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9E64",
   "rec": "0D9E58",
   "max": 19,
   "jp": "バアーン",
-  "en": "",
+  "en": "BAM!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9E84",
   "rec": "0D9E78",
   "max": 19,
   "jp": "ドバッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9EA4",
   "rec": "0D9E98",
   "max": 19,
   "jp": "バアーン",
-  "en": "",
+  "en": "BAM!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9EC4",
   "rec": "0D9EB8",
   "max": 19,
   "jp": "ズドドド",
-  "en": "",
+  "en": "BOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9EE4",
   "rec": "0D9ED8",
   "max": 19,
   "jp": "ズバーッ",
-  "en": "",
+  "en": "ZING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9F04",
   "rec": "0D9EF8",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9F24",
   "rec": "0D9F18",
   "max": 19,
   "jp": "シャーッ",
-  "en": "",
+  "en": "HISS",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9F44",
   "rec": "0D9F38",
   "max": 19,
   "jp": "ゴオオオ",
-  "en": "",
+  "en": "ROAR",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9F64",
   "rec": "0D9F58",
   "max": 19,
   "jp": "ゴォーッ",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9F84",
   "rec": "0D9F78",
   "max": 19,
   "jp": "ボボォーン",
-  "en": "",
+  "en": "BOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9FA4",
   "rec": "0D9F98",
   "max": 19,
   "jp": "ゴォーッ",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9FC4",
   "rec": "0D9FB8",
   "max": 19,
   "jp": "シュッ",
-  "en": "",
+  "en": "WHIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0D9FE4",
   "rec": "0D9FD8",
   "max": 19,
   "jp": "ズドドド",
-  "en": "",
+  "en": "BOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA004",
   "rec": "0D9FF8",
   "max": 19,
   "jp": "バリバリバリ",
-  "en": "",
+  "en": "ZZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA024",
   "rec": "0DA018",
   "max": 19,
   "jp": "バシッ",
-  "en": "",
+  "en": "WHAP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA044",
   "rec": "0DA038",
   "max": 19,
   "jp": "シャーッ",
-  "en": "",
+  "en": "HISS",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA064",
   "rec": "0DA058",
   "max": 19,
   "jp": "ビィーン",
-  "en": "",
+  "en": "PING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA084",
   "rec": "0DA078",
   "max": 19,
   "jp": "ゴォォォォ",
-  "en": "",
+  "en": "ROAR",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA0A4",
   "rec": "0DA098",
   "max": 19,
   "jp": "グシャッ",
-  "en": "",
+  "en": "CRAK",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA0C4",
   "rec": "0DA0B8",
   "max": 19,
   "jp": "バギューン",
-  "en": "",
+  "en": "BANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA0E4",
   "rec": "0DA0D8",
   "max": 19,
   "jp": "バシュッ",
-  "en": "",
+  "en": "FWIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA104",
   "rec": "0DA0F8",
   "max": 19,
   "jp": "ドゴオオ",
-  "en": "",
+  "en": "BOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA124",
   "rec": "0DA118",
   "max": 19,
   "jp": "ガスッ",
-  "en": "",
+  "en": "THUD",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA144",
   "rec": "0DA138",
   "max": 19,
   "jp": "ガキッ",
-  "en": "",
+  "en": "CLAK",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA164",
   "rec": "0DA158",
   "max": 19,
   "jp": "ピイイーィィン",
-  "en": "",
+  "en": "PING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA184",
   "rec": "0DA178",
   "max": 19,
   "jp": "バリバリバリ",
-  "en": "",
+  "en": "ZZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA1A4",
   "rec": "0DA198",
   "max": 19,
   "jp": "ゴォーッ",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA1C4",
   "rec": "0DA1B8",
   "max": 19,
   "jp": "シャーン",
-  "en": "",
+  "en": "TING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA1E4",
   "rec": "0DA1D8",
   "max": 19,
   "jp": "シュッ",
-  "en": "",
+  "en": "WHIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA204",
   "rec": "0DA1F8",
   "max": 19,
   "jp": "ゴォーッ",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA224",
   "rec": "0DA218",
   "max": 19,
   "jp": "ゴォーッ",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA244",
   "rec": "0DA238",
   "max": 19,
   "jp": "シャーン",
-  "en": "",
+  "en": "TING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA264",
   "rec": "0DA258",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA284",
   "rec": "0DA278",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA2A4",
   "rec": "0DA298",
   "max": 19,
   "jp": "ドゴオオ",
-  "en": "",
+  "en": "BOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA2C4",
   "rec": "0DA2B8",
   "max": 19,
   "jp": "ドゴッ",
-  "en": "",
+  "en": "POW!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA2E4",
   "rec": "0DA2D8",
   "max": 19,
   "jp": "ズバーッ",
-  "en": "",
+  "en": "ZING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA304",
   "rec": "0DA2F8",
   "max": 19,
   "jp": "ビューン",
-  "en": "",
+  "en": "ZOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA324",
   "rec": "0DA318",
   "max": 19,
   "jp": "バアーン",
-  "en": "",
+  "en": "BAM!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA344",
   "rec": "0DA338",
   "max": 19,
   "jp": "ギュルルル",
-  "en": "",
+  "en": "WHIR",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA364",
   "rec": "0DA358",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA384",
   "rec": "0DA378",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA3A4",
   "rec": "0DA398",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA3C4",
   "rec": "0DA3B8",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA404",
   "rec": "0DA3F8",
   "max": 19,
   "jp": "シャッ",
-  "en": "",
+  "en": "WHIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA424",
   "rec": "0DA418",
   "max": 19,
   "jp": "ジュッ",
-  "en": "",
+  "en": "SIZZ",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA444",
   "rec": "0DA438",
   "max": 19,
   "jp": "シューッ",
-  "en": "",
+  "en": "ZOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA464",
   "rec": "0DA458",
   "max": 19,
   "jp": "シュッ",
-  "en": "",
+  "en": "WHIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA484",
   "rec": "0DA478",
   "max": 19,
   "jp": "ズドーッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA4A4",
   "rec": "0DA498",
   "max": 19,
   "jp": "ズバーッ",
-  "en": "",
+  "en": "ZING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA4C4",
   "rec": "0DA4B8",
   "max": 19,
   "jp": "ズャーッ",
-  "en": "",
+  "en": "WOOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA4E4",
   "rec": "0DA4D8",
   "max": 19,
   "jp": "ビュウウウッ",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA504",
   "rec": "0DA4F8",
   "max": 19,
   "jp": "ビューン",
-  "en": "",
+  "en": "ZOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA524",
   "rec": "0DA518",
   "max": 19,
   "jp": "ドドドドド",
-  "en": "",
+  "en": "DOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA544",
   "rec": "0DA538",
   "max": 19,
   "jp": "バシッ",
-  "en": "",
+  "en": "WHAP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA564",
   "rec": "0DA558",
   "max": 19,
   "jp": "ズドーッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA584",
   "rec": "0DA578",
   "max": 19,
   "jp": "ズドーッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA5A4",
   "rec": "0DA598",
   "max": 19,
   "jp": "ズガーッ",
-  "en": "",
+  "en": "WHAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA5C4",
   "rec": "0DA5B8",
   "max": 19,
   "jp": "ドカドカドカ",
-  "en": "",
+  "en": "BAM!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA5E4",
   "rec": "0DA5D8",
   "max": 19,
   "jp": "ドバッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA604",
   "rec": "0DA5F8",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA624",
   "rec": "0DA618",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA644",
   "rec": "0DA638",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA664",
   "rec": "0DA658",
   "max": 19,
   "jp": "グイグイ",
-  "en": "",
+  "en": "TUG!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA684",
   "rec": "0DA678",
   "max": 19,
   "jp": "ズバーッ",
-  "en": "",
+  "en": "ZING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA6A4",
   "rec": "0DA698",
   "max": 19,
   "jp": "ビビビビッ",
-  "en": "",
+  "en": "BZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA6C4",
   "rec": "0DA6B8",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA6E4",
   "rec": "0DA6D8",
   "max": 19,
   "jp": "ギャー",
-  "en": "",
+  "en": "AAAH",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA704",
   "rec": "0DA6F8",
   "max": 19,
   "jp": "ピキーン",
-  "en": "",
+  "en": "TING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA724",
   "rec": "0DA718",
   "max": 19,
   "jp": "ブワーン",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA744",
   "rec": "0DA738",
   "max": 19,
   "jp": "バリバリバリ",
-  "en": "",
+  "en": "ZZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA764",
   "rec": "0DA758",
   "max": 19,
   "jp": "シューッ",
-  "en": "",
+  "en": "ZOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA784",
   "rec": "0DA778",
   "max": 19,
   "jp": "キーン",
-  "en": "",
+  "en": "TING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA7A4",
   "rec": "0DA798",
   "max": 19,
   "jp": "バリバリバリ",
-  "en": "",
+  "en": "ZZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA7C4",
   "rec": "0DA7B8",
   "max": 19,
   "jp": "シューッ",
-  "en": "",
+  "en": "ZOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA7E4",
   "rec": "0DA7D8",
   "max": 19,
   "jp": "ビュウゥー",
-  "en": "",
+  "en": "WOOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA804",
   "rec": "0DA7F8",
   "max": 19,
   "jp": "ドバン",
-  "en": "",
+  "en": "BAM!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA824",
   "rec": "0DA818",
   "max": 19,
   "jp": "シャーッ",
-  "en": "",
+  "en": "HISS",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA844",
   "rec": "0DA838",
   "max": 19,
   "jp": "バチーン",
-  "en": "",
+  "en": "SLAP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA864",
   "rec": "0DA858",
   "max": 19,
   "jp": "ガシャーン",
-  "en": "",
+  "en": "BASH",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA884",
   "rec": "0DA878",
   "max": 19,
   "jp": "ギュルルル",
-  "en": "",
+  "en": "WHIR",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA8A4",
   "rec": "0DA898",
   "max": 19,
   "jp": "ギャオオオ",
-  "en": "",
+  "en": "GRAH",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA8C4",
   "rec": "0DA8B8",
   "max": 19,
   "jp": "ピィーン",
-  "en": "",
+  "en": "PING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA8E4",
   "rec": "0DA8D8",
   "max": 19,
   "jp": "バシュッ",
-  "en": "",
+  "en": "FWIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA904",
   "rec": "0DA8F8",
   "max": 19,
   "jp": "バキーッ",
-  "en": "",
+  "en": "CRAK",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA924",
   "rec": "0DA918",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA944",
   "rec": "0DA938",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA964",
   "rec": "0DA958",
   "max": 19,
   "jp": "バギーン",
-  "en": "",
+  "en": "KANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA984",
   "rec": "0DA978",
   "max": 19,
   "jp": "バギーン",
-  "en": "",
+  "en": "KANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA9A4",
   "rec": "0DA998",
   "max": 19,
   "jp": "ドガッ",
-  "en": "",
+  "en": "WHAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA9C4",
   "rec": "0DA9B8",
   "max": 19,
   "jp": "ガウッ",
-  "en": "",
+  "en": "GRR!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DA9E4",
   "rec": "0DA9D8",
   "max": 19,
   "jp": "ヒュッ",
-  "en": "",
+  "en": "FWIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAA04",
   "rec": "0DA9F8",
   "max": 19,
   "jp": "ピッピッピッ",
-  "en": "",
+  "en": "BEEP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAA24",
   "rec": "0DAA18",
   "max": 19,
   "jp": "カーッ",
-  "en": "",
+  "en": "GLOW",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAA44",
   "rec": "0DAA38",
   "max": 19,
   "jp": "ヒュッ",
-  "en": "",
+  "en": "FWIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAA64",
   "rec": "0DAA58",
   "max": 19,
   "jp": "ビビビビッ",
-  "en": "",
+  "en": "BZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAA84",
   "rec": "0DAA78",
   "max": 19,
   "jp": "ピィーン",
-  "en": "",
+  "en": "PING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAAA4",
   "rec": "0DAA98",
   "max": 19,
   "jp": "ピィーン",
-  "en": "",
+  "en": "PING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAAC4",
   "rec": "0DAAB8",
   "max": 19,
   "jp": "ピィーン",
-  "en": "",
+  "en": "PING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAAE4",
   "rec": "0DAAD8",
   "max": 19,
   "jp": "ピィーン",
-  "en": "",
+  "en": "PING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAB04",
   "rec": "0DAAF8",
   "max": 19,
   "jp": "ドバッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAB24",
   "rec": "0DAB18",
   "max": 19,
   "jp": "ゴオオオ",
-  "en": "",
+  "en": "ROAR",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAB44",
   "rec": "0DAB38",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAB64",
   "rec": "0DAB58",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAB84",
   "rec": "0DAB78",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DABA4",
   "rec": "0DAB98",
   "max": 19,
   "jp": "ガキーン",
-  "en": "",
+  "en": "TANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DABC4",
   "rec": "0DABB8",
   "max": 19,
   "jp": "ビーッ",
-  "en": "",
+  "en": "ZAP!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DABE4",
   "rec": "0DABD8",
   "max": 19,
   "jp": "ビーッ",
-  "en": "",
+  "en": "ZAP!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAC04",
   "rec": "0DABF8",
   "max": 19,
   "jp": "ビーッ",
-  "en": "",
+  "en": "ZAP!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAC24",
   "rec": "0DAC18",
   "max": 19,
   "jp": "バリバリバリ",
-  "en": "",
+  "en": "ZZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAC44",
   "rec": "0DAC38",
   "max": 19,
   "jp": "ギャオオオ",
-  "en": "",
+  "en": "GRAH",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAC64",
   "rec": "0DAC58",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAC84",
   "rec": "0DAC78",
   "max": 19,
   "jp": "グシャッ",
-  "en": "",
+  "en": "CRAK",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DACA4",
   "rec": "0DAC98",
   "max": 19,
   "jp": "ゴォーッ",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DACC4",
   "rec": "0DACB8",
   "max": 19,
   "jp": "ドガー",
-  "en": "",
+  "en": "BOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DACE4",
   "rec": "0DACD8",
   "max": 19,
   "jp": "ドガーッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAD44",
   "rec": "0DAD38",
   "max": 19,
   "jp": "ズドーッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAD84",
   "rec": "0DAD78",
   "max": 19,
   "jp": "バシュッ",
-  "en": "",
+  "en": "FWIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DADA4",
   "rec": "0DAD98",
   "max": 19,
   "jp": "ドドドド",
-  "en": "",
+  "en": "DOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DADC4",
   "rec": "0DADB8",
   "max": 19,
   "jp": "ギューッ",
-  "en": "",
+  "en": "GRIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DADE4",
   "rec": "0DADD8",
   "max": 19,
   "jp": "バリバリバリ",
-  "en": "",
+  "en": "ZZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAE04",
   "rec": "0DADF8",
   "max": 19,
   "jp": "ドドドド",
-  "en": "",
+  "en": "DOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAE24",
   "rec": "0DAE18",
   "max": 19,
   "jp": "ビュッビュッ",
-  "en": "",
+  "en": "ZIP!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAE44",
   "rec": "0DAE38",
   "max": 19,
   "jp": "ドバッ",
-  "en": "",
+  "en": "BLAM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAE64",
   "rec": "0DAE58",
   "max": 19,
   "jp": "シュッ",
-  "en": "",
+  "en": "WHIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAE84",
   "rec": "0DAE78",
   "max": 19,
   "jp": "バキバキ",
-  "en": "",
+  "en": "SNAP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAEA4",
   "rec": "0DAE98",
   "max": 19,
   "jp": "バシュッ",
-  "en": "",
+  "en": "FWIP",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAEC4",
   "rec": "0DAEB8",
   "max": 19,
   "jp": "ズバーッ",
-  "en": "",
+  "en": "ZING",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAEE4",
   "rec": "0DAED8",
   "max": 19,
   "jp": "ズオオオオ",
-  "en": "",
+  "en": "WOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAF04",
   "rec": "0DAEF8",
   "max": 19,
   "jp": "バリバリバリ",
-  "en": "",
+  "en": "ZZZT",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAF24",
   "rec": "0DAF18",
   "max": 19,
   "jp": "バギューン",
-  "en": "",
+  "en": "BANG",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAF44",
   "rec": "0DAF38",
   "max": 19,
   "jp": "ゴォー",
-  "en": "",
+  "en": "FWOO",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAF64",
   "rec": "0DAF58",
   "max": 19,
   "jp": "ビーッ",
-  "en": "",
+  "en": "ZAP!",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAF84",
   "rec": "0DAF78",
   "max": 19,
   "jp": "ドガガーン",
-  "en": "",
+  "en": "BOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  },
  {
   "id": "x0DAFA4",
   "rec": "0DAF98",
   "max": 19,
   "jp": "ドドドド",
-  "en": "",
+  "en": "DOOM",
   "status": "",
-  "notes": "drawn as sprites through the kana lookup at 0x0D9C58 (guess): graphics work"
+  "notes": "drawn as sprites: lookup 0x0D9C58 + glyphs, tools/gfx_sfx.py (English from script/sfx_en.tsv)"
  }
 ]

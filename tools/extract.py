@@ -38,7 +38,10 @@ JP = re.compile(r"[ぁ-ヿ一-鿿！-～　-〿]")  # kana, kanji, full-width fo
 CARRY = ("en", "status", "notes")
 # ROM strings the game reads two bytes per char: insert as fullwidth (sjis.fullwidth), budget = max // 2 chars.
 # 0D18BC / 0D18C4: default hero / heroine names (ASCII there blanked the name tag and the box, phase 5)
-FULLWIDTH = {0x0D18BC, 0x0D18C4}
+# SFX record names (sfx.json): read two bytes per char by 0x080C6258 and matched against the glyph lookup, whose
+# letters are fullwidth (tools/gfx_sfx.py).
+FULLWIDTH = {0x0D18BC, 0x0D18C4} | set(range(romstr.SFX_TABLE[0] + romstr.SFX_TABLE[3], romstr.SFX_TABLE[1],
+                                              romstr.SFX_TABLE[2]))
 
 
 def message_ids(rom):

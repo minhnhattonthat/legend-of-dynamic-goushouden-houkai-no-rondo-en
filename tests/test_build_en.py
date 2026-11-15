@@ -6,6 +6,7 @@ from pathlib import Path
 
 import engine
 import extract
+import gfx_sfx
 import romdiff
 import romstr
 import sjis
@@ -63,7 +64,10 @@ class EnglishBuildTest(unittest.TestCase):
     def test_data_spans_untouched(self):
         """Pointed "strings" that are really tables (romstr.DATA_SPANS) keep their original bytes (review I1)."""
         for lo, hi, why in romstr.DATA_SPANS:
-            self.assertEqual(self.out[lo:hi], self.orig[lo:hi], "%06X-%06X changed: %s" % (lo, hi, why))
+            want = self.orig[lo:hi]
+            if lo == gfx_sfx.LOOKUP:  # the SFX glyph lookup: letters in the redrawn indices (tools/gfx_sfx.py)
+                want = gfx_sfx.lookup_bytes(self.orig)[:hi - lo]
+            self.assertEqual(self.out[lo:hi], want, "%06X-%06X changed: %s" % (lo, hi, why))
 
     def test_every_table_writes_all_its_entries(self):
         """Per script/rom file: the strings the build wrote are exactly the entries with English (review M5)."""
