@@ -49,6 +49,13 @@
   `adds r0, r7, #6; ldr rX, [sp, #0x38]` at 0x0F288, 0x0F300, 0x0F316 (rX = r3), 0x0F352; each becomes `bl` to a
   stub that returns pen + 6 - HDELTA[pair] and reloads rX. The ASCII glyphs move to column 0, advance = ink + 1,
   space 3; digits keep 6 px (number columns). Kana in a mode-3 line (a `{p}` name) still advance 12.
+- **Second printer 0x0800E3D0** (menus and lists; calls the same glyph writers, `engine.PRINTERS` "p2"): window r5,
+  pen r6, the drawn pair at [sp+0..1], advance sites `adds r0, r6, #0; adds r0, #8/#0xC/#0x10` and half-width
+  `adds r0, r6, #6; ldr rX, [sp, #0xC]`. The item menu (m1_item) and party list draw ASCII with the **8x8 font**
+  (font mode 1, cell width 8) through it. Verified: no site of printer 0x0800E898 fires in the item menu.
+- **8-px VWF** (verified in m1_item): the 8x8 font's ASCII glyphs move to column 0 (advance ink + 1, space 3), the
+  common hook subtracts DELTA8 when the window's cell width is 8. Both printers' 8-px sites are hooked.
+- Digits are tabular in the 8-px and half-width fonts: one advance (widest digit + 1: 7 and 6 px), each centred.
 - Glyph torture line (map_290): every printable ASCII draws; `\` is the yen sign and `` ` `` a blank (SJIS), so
   the lint bans both. `"` and `'` draw as ” and ’.
 - Text is not clipped by the box: a long line draws over the border up to x=232 (24 tiles from x=40), then stops.

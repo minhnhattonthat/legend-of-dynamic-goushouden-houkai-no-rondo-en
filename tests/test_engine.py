@@ -14,7 +14,8 @@ ROM = ROOT / "rom" / "Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba
 # Where the build may write: archive pointer literals, the 12-px font, the free slot, ROM strings, new space.
 ALLOWED = [(s, s + 4) for s in archive.POINTER_SITES] + [(site, site + 4) for site, _ in engine.ADV_SITES] + [
     (site, site + 4) for site, _ in engine.HALF_SITES] + [
-    (engine.FONT12, engine.FONT12 + 1691 * 24), (engine.FONT6, engine.FONT6 + engine.FONT6_COUNT * 24), engine.FREE, (0x0CD95C, 0x0D5000), (0x0D9000, 0x0DF000),
+    (engine.FONT12, engine.FONT12 + 1691 * 24), (engine.FONT6, engine.FONT6 + engine.FONT6_COUNT * 24),
+    (engine.FONT8, engine.FONT8 + 1691 * 8), engine.FREE, (0x0CD95C, 0x0D5000), (0x0D9000, 0x0DF000),
     (engine.NEW_ARCHIVE, engine.ROM_SIZE)]
 
 
@@ -65,8 +66,12 @@ class EngineTest(unittest.TestCase):
         w = engine.half_widths(self.orig)
         self.assertEqual(w[sjis.encode("　")], engine.HALF_SPACE_ADV)
         self.assertTrue(all(1 < a <= engine.HALF_ADV for a in w.values()))
-        self.assertEqual({w[sjis.encode(sjis.fullwidth(d))] for d in "0123456789"}, {engine.HALF_ADV})
+        self.assertEqual(len({w[sjis.encode(sjis.fullwidth(d))] for d in "0123456789"}), 1)  # tabular digits
         self.assertLess(w[sjis.encode("ｉ")], w[sjis.encode("ｍ")])
+        w8 = engine.eight_widths(self.orig)
+        self.assertTrue(all(1 < a <= engine.EIGHT_ADV for a in w8.values()))
+        self.assertEqual(len({w8[sjis.encode(sjis.fullwidth(d))] for d in "0123456789"}), 1)
+        self.assertLess(w8[sjis.encode("ｉ")], w8[sjis.encode("ｍ")])
 
     def test_half_sites_call_the_hook(self):
         for site, _ in engine.HALF_SITES:

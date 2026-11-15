@@ -15,6 +15,10 @@ subtracts DELTA[(b1 - 0x81) << 8 | b2] (12 - width) when the window's current fo
 the ASCII bytes map to (0x0800FE5C, table 0x080FA6A0: 'A' -> Ａ 8260 ...). The char pair is at the printer's
 [sp + 0x1C], the window in r6, the font mode at [window + 0xE0], the cell width at [window + mode * 16 + 4].
 The fullwidth Latin glyphs of the 12-px font are moved to column 0, so the narrow advance packs them.
+
+Phase 5 later: plain ASCII actually draws with the half-width font (mode 3, advance 6: HALF hooks, HDELTA) in
+dialogue and with the 8x8 font (mode 1, advance 8: DELTA8 in the common hook) in menus, through two printers
+(PRINTERS: 0x0800E898 dialogue, 0x0800E3D0 menus/lists). All three fonts get their ASCII glyphs moved to column 0.
 """
 import struct
 
@@ -26,14 +30,31 @@ CHARSET = 0x1EFF98            # u16 count, u16 pad, count x SJIS pair (shared by
 FONT12 = 0x1F0D18             # 1bpp, 12 rows of big-endian u16 (bit 15 = column 0), 24 bytes per glyph
 ASCII_MAP = 0x0FA6A0          # 16 pointers (per high nibble) to 16 SJIS pairs each
 
-# (offset of `adds r0, r7, #0`, ADV) in the printer: every glyph advance (docs/re/font.md)
-ADV_SITES = (
-    (0x0F126, 0x0C), (0x0F144, 0x10), (0x0F290, 0x0A), (0x0F2AE, 0x0E),
-    (0x0F438, 0x0C), (0x0F43E, 0x10), (0x0F45C, 0x12),
-    (0x0F486, 0x0C), (0x0F49E, 0x0C), (0x0F4BE, 0x0C),
-    (0x0F59C, 0x10), (0x0F5A6, 0x14), (0x0F5C4, 0x16),
-    (0x0F618, 0x10), (0x0F630, 0x10), (0x0F826, 0x10),
+# The two text printers (docs/re/font.md): window register, pen register, the drawn SJIS pair's stack offset,
+# the stack offset the half-width sites reload, the advance sites `adds r0, PEN, #0; adds r0, #ADV` as
+# (offset, ADV) and the half-width sites `adds r0, PEN, #6; ldr rX, [sp, #RET]` as (offset, X).
+PRINTERS = (
+    dict(name="p1", at=0x0E898, win=6, pen=7, pair=0x1C, ret=0x38,   # dialogue
+         adv=((0x0F126, 0x0C), (0x0F144, 0x10), (0x0F290, 0x0A), (0x0F2AE, 0x0E),
+              (0x0F438, 0x0C), (0x0F43E, 0x10), (0x0F45C, 0x12),
+              (0x0F486, 0x0C), (0x0F49E, 0x0C), (0x0F4BE, 0x0C),
+              (0x0F59C, 0x10), (0x0F5A6, 0x14), (0x0F5C4, 0x16),
+              (0x0F618, 0x10), (0x0F630, 0x10), (0x0F826, 0x10),
+              (0x0F120, 0x08), (0x0F16C, 0x08), (0x0F180, 0x08), (0x0F1A4, 0x08)),
+         half=((0x0F288, 1), (0x0F300, 1), (0x0F316, 3), (0x0F352, 1))),
+    dict(name="p2", at=0x0E3D0, win=5, pen=6, pair=0x00, ret=0x0C,   # menus, lists (item menu: 8-px font)
+         adv=((0x0E5DA, 0x08), (0x0E5F2, 0x08), (0x0E612, 0x08),
+              (0x0E72A, 0x0C), (0x0E73E, 0x0C), (0x0E762, 0x0C),
+              (0x0E7CA, 0x10), (0x0E7E2, 0x10), (0x0E820, 0x10)),
+         half=((0x0E676, 1), (0x0E68C, 2), (0x0E6C8, 2))),
 )
+ADV_SITES = tuple(s for p in PRINTERS for s in p["adv"])
+
+# The 8x8 font (window font mode 1, cell width 8): menus, item and party lists. 8 bytes per glyph, bit 7 = column 0.
+FONT8 = 0x1FABA0
+EIGHT_ADV = 8
+EIGHT_SPACE_ADV = 3
+EIGHT_MONO = "0123456789"
 SPACE_ADV = 4
 GAP = 1                       # blank columns after the ink
 
@@ -42,7 +63,7 @@ GAP = 1                       # blank columns after the ink
 # map_290, mode 3, pair at [sp + 0x1C]). Its advance sites are `adds r0, r7, #6; ldr rX, [sp, #0x38]`.
 FONT6 = 0x1FE078
 FONT6_COUNT = 286
-HALF_SITES = ((0x0F288, 1), (0x0F300, 1), (0x0F316, 3), (0x0F352, 1))  # (offset, X of ldr rX)
+HALF_SITES = tuple(s for p in PRINTERS for s in p["half"])
 HALF_ADV = 6
 HALF_SPACE_ADV = 3
 HALF_MONO = "0123456789"      # digits keep the fixed 6 px so number columns still line up
@@ -92,30 +113,61 @@ def widths(rom):
     return {p: adv for p, (_, _, adv) in latin_glyphs(rom).items()}
 
 
-def half_glyphs(rom):
-    """-> {pair: (index, rows shifted to column 0, advance)} in the half-width font for every ASCII pair.
-    Digits keep their rows and the 6-px advance (HALF_MONO)."""
+def pack_glyphs(rom, read, bits, adv0, space_adv, mono_chars):
+    """-> {pair: (index, rows with the ink moved to column 0, advance)} for every ASCII pair of one font.
+    read(i) -> the glyph's rows (bit `bits - 1` = column 0). Digits (mono_chars) are tabular: one advance, the
+    widest digit's ink + GAP, each centred in it, so number columns still line up."""
     idx = glyph_index(rom)
-    mono = {ascii_pairs(rom)[ord(c)] for c in HALF_MONO}
-    out = {}
-    for c, pair in ascii_pairs(rom).items():
-        if pair in out:
-            continue
-        i = idx[pair]
-        assert i < FONT6_COUNT, "%s: glyph %d past the half-width font" % (pair.hex(), i)
-        rows = list(struct.unpack_from(">12H", rom, FONT6 + 24 * i))
+    pairs = ascii_pairs(rom)
+    mono = {pairs[ord(c)] for c in mono_chars}
+    mask = (1 << bits) - 1
+
+    def extent(rows):
         ink = 0
         for r in rows:
             ink |= r
+        if not ink:
+            return None
+        cols = [b for b in range(bits) if ink >> (bits - 1 - b) & 1]
+        return cols[0], cols[-1]
+
+    tab = max(hi - lo + 1 for lo, hi in (extent(read(idx[p])) for p in mono)) + GAP
+    out = {}
+    for c, pair in pairs.items():
+        if pair in out:
+            continue
+        i = idx[pair]
+        rows = read(i)
+        ext = extent(rows)
+        if ext is None:
+            out[pair] = (i, rows, space_adv)
+            continue
+        lo, hi = ext
         if pair in mono:
-            out[pair] = (i, rows, HALF_ADV)
-        elif not ink:
-            out[pair] = (i, rows, HALF_SPACE_ADV)
+            to = (tab - GAP - (hi - lo + 1)) // 2
+            out[pair] = (i, [((r << lo) & mask) >> to for r in rows], tab)
         else:
-            lo = next(b for b in range(16) if ink >> (15 - b) & 1)
-            hi = max(b for b in range(16) if ink >> (15 - b) & 1)
-            out[pair] = (i, [(r << lo) & 0xFFFF for r in rows], min(HALF_ADV, hi - lo + 1 + GAP))
+            out[pair] = (i, [(r << lo) & mask for r in rows], min(adv0, hi - lo + 1 + GAP))
     return out
+
+
+def half_glyphs(rom):
+    """-> {pair: (index, rows shifted to column 0, advance)} in the half-width font for every ASCII pair."""
+    def read(i):
+        assert i < FONT6_COUNT, "glyph %d past the half-width font" % i
+        return list(struct.unpack_from(">12H", rom, FONT6 + 24 * i))
+    return pack_glyphs(rom, read, 16, HALF_ADV, HALF_SPACE_ADV, HALF_MONO)
+
+
+def eight_glyphs(rom):
+    """-> {pair: (index, 8 row bytes shifted to column 0, advance)} in the 8x8 font for every ASCII pair."""
+    return pack_glyphs(rom, lambda i: list(rom[FONT8 + 8 * i:FONT8 + 8 * i + 8]), 8, EIGHT_ADV, EIGHT_SPACE_ADV,
+                       EIGHT_MONO)
+
+
+def eight_widths(rom):
+    """{sjis pair: advance px} in the 8x8 menu font; others advance 8."""
+    return {p: adv for p, (_, _, adv) in eight_glyphs(rom).items()}
 
 
 def half_widths(rom):
@@ -137,9 +189,12 @@ def thumb(src, base):
     return bytes(enc)
 
 
+# Common code of the `bl stub_ADV` sites (r0 = ADV on entry): subtract DELTA12 or DELTA8 [(b1 - 0x81) << 8 | b2]
+# when the window's current font is 12 or 8 px wide, add the pen. Called by BL, so sp is the printer's: the pair is
+# at [sp + PAIR] (+12 after the push).
 COMMON = """
     push {r1, r2, r3}
-    add r1, sp, #0x28
+    add r1, sp, #%(pair)d
     ldrb r2, [r1]
     ldrb r3, [r1, #1]
     subs r2, #0x81
@@ -147,31 +202,39 @@ COMMON = """
     bhi done
     lsls r2, r2, #8
     adds r3, r2, r3
-    mov r1, r6
+    mov r1, r%(win)d
     adds r1, #0xE0
     ldr r1, [r1]
     lsls r1, r1, #4
-    adds r1, r1, r6
+    adds r1, r1, r%(win)d
     ldr r1, [r1, #4]
     cmp r1, #12
+    beq w12
+    cmp r1, #8
     bne done
-    ldr r1, table
+    ldr r1, t8
+    b look
+w12:
+    ldr r1, t12
+look:
     ldrb r1, [r1, r3]
     subs r0, r0, r1
 done:
-    adds r0, r0, r7
+    adds r0, r0, r%(pen)d
     pop {r1, r2, r3}
     bx lr
     .align 2
-table:
+t8:
+    .byte %(t8)s
+t12:
+    .byte %(t12)s
 """
 
 
-# Replaces `adds r0, r7, #6; ldr rX, [sp, #0x38]` (rX = r1 or r3): r0 = pen + 6 - HDELTA[pair], rX = [sp, #0x38].
-# Called by BL, so sp is the printer's: the pair is at [sp + 0x1C] (+12 after the push).
+# Replaces `adds r0, PEN, #6; ldr rX, [sp, #RET]`: r0 = pen + 6 - HDELTA[pair], rX = [sp, #RET].
 HALF = """
     push {r1, r2, r3}
-    add r2, sp, #0x28
+    add r2, sp, #%(pair)d
     ldrb r3, [r2, #1]
     ldrb r2, [r2]
     movs r0, #0
@@ -180,18 +243,31 @@ HALF = """
     bhi hdone
     lsls r2, r2, #8
     adds r3, r2, r3
-    ldr r2, htable
+    ldr r2, th
     ldrb r0, [r2, r3]
 hdone:
     negs r0, r0
     adds r0, #6
-    adds r0, r0, r7
+    adds r0, r0, r%(pen)d
     pop {r1, r2, r3}
-    ldr r%d, [sp, #0x38]
+    ldr r%(reg)d, [sp, #%(ret)d]
     bx lr
     .align 2
-htable:
+th:
+    .byte %(th)s
 """
+
+
+def word_bytes(off):
+    return ", ".join(str(b) for b in struct.pack("<I", 0x08000000 + off))
+
+
+def delta_table(glyphs, adv0):
+    out = bytearray(512)
+    for pair, (_, _, adv) in glyphs.items():
+        if pair[0] in (0x81, 0x82):
+            out[(pair[0] - 0x81) << 8 | pair[1]] = adv0 - adv
+    return bytes(out)
 
 
 def apply(rom, put, orig):
@@ -210,57 +286,49 @@ def apply(rom, put, orig):
         if data != bytes(orig[FONT12 + 24 * i:FONT12 + 24 * i + 24]):
             put(FONT12 + 24 * i, data, "font12 %s" % pair.hex())
     # 3. VWF hook in the archive's old slot
-    cur = FREE[0]
-    stubs = {}
-    imms = sorted({imm for _, imm in ADV_SITES})
-    stub_len = 4 * len(imms)
-    common_at = cur + stub_len
-    code = bytearray()
-    for k, imm in enumerate(imms):
-        at = cur + 4 * k
-        stubs[imm] = at
-        code += thumb("movs r0, #%d\nb 0x%X" % (imm, 0x08000000 + common_at), at)
-    code += thumb(COMMON, common_at)
-    while (cur + len(code)) % 4:
-        code += b"\0"
-    table_at = cur + len(code) + 4  # the literal word `table` follows the code
-    code += struct.pack("<I", 0x08000000 + table_at)
-    delta = bytearray(512)
-    for pair, (_, _, adv) in glyphs.items():
-        if pair[0] in (0x81, 0x82):
-            delta[(pair[0] - 0x81) << 8 | pair[1]] = 12 - adv
-    code += delta
-    put(cur, bytes(code), "vwf hook")
-    for site, imm in ADV_SITES:
-        want = struct.pack("<HH", 0x1C38, 0x3000 | imm)
-        assert bytes(orig[site:site + 4]) == want, "advance site %X: %s" % (site, orig[site:site + 4].hex())
-        put(site, bl(site, stubs[imm]), "vwf site +%d" % imm)
-    cur += len(code)
-    # 4. half-width font: ASCII glyphs to column 0, its own hook and delta table
-    halves = half_glyphs(orig)
+    # (the 8-px and half-width fonts: ASCII glyphs to column 0 too)
+    eights, halves = eight_glyphs(orig), half_glyphs(orig)
+    for pair, (i, rows, adv) in sorted(eights.items(), key=lambda kv: kv[1][0]):
+        if bytes(rows) != bytes(orig[FONT8 + 8 * i:FONT8 + 8 * i + 8]):
+            put(FONT8 + 8 * i, bytes(rows), "font8 %s" % pair.hex())
     for pair, (i, rows, adv) in sorted(halves.items(), key=lambda kv: kv[1][0]):
         data = struct.pack(">12H", *rows)
         if data != bytes(orig[FONT6 + 24 * i:FONT6 + 24 * i + 24]):
             put(FONT6 + 24 * i, data, "font6 %s" % pair.hex())
-    hdelta = bytearray(512)
-    for pair, (_, _, adv) in halves.items():
-        if pair[0] in (0x81, 0x82):
-            hdelta[(pair[0] - 0x81) << 8 | pair[1]] = HALF_ADV - adv
-    cur = (cur + 3) & ~3
-    table_at = cur
-    put(table_at, bytes(hdelta), "vwf half delta")
-    cur += len(hdelta)
-    half_stub = {}
-    for reg in sorted({r for _, r in HALF_SITES}):
-        code = thumb(HALF % reg, cur)
+    # 3. VWF hooks in the archive's old slot: the delta tables, then per printer its stubs, common code and
+    #    half-width stubs; every advance site becomes a BL
+    cur = FREE[0]
+    tables = {}
+    for name, data in (("t12", delta_table(glyphs, 12)), ("t8", delta_table(eights, EIGHT_ADV)),
+                       ("th", delta_table(halves, HALF_ADV))):
+        tables[name] = word_bytes(cur)
+        put(cur, data, "vwf delta %s" % name)
+        cur += len(data)
+    for p in PRINTERS:
+        imms = sorted({imm for _, imm in p["adv"]})
+        common_at = cur + 4 * len(imms)
+        code = bytearray()
+        stubs = {}
+        for k, imm in enumerate(imms):
+            stubs[imm] = cur + 4 * k
+            code += thumb("movs r0, #%d\nb 0x%X" % (imm, 0x08000000 + common_at), cur + 4 * k)
+        code += thumb(COMMON % dict(p, pair=p["pair"] + 12, **tables), common_at)
         while len(code) % 4:
             code += b"\0"
-        code += struct.pack("<I", 0x08000000 + table_at)
-        half_stub[reg] = cur
-        put(cur, code, "vwf half hook r%d" % reg)
+        half = {}
+        for reg in sorted({r for _, r in p["half"]}):
+            half[reg] = cur + len(code)
+            code += thumb(HALF % dict(p, pair=p["pair"] + 12, reg=reg, **tables), cur + len(code))
+            while len(code) % 4:
+                code += b"\0"
+        put(cur, bytes(code), "vwf hook %s" % p["name"])
         cur += len(code)
-    for site, reg in HALF_SITES:
-        want = struct.pack("<HH", 0x1DB8, 0x9800 | reg << 8 | 0x38 // 4)
-        assert bytes(orig[site:site + 4]) == want, "half advance site %X: %s" % (site, orig[site:site + 4].hex())
-        put(site, bl(site, half_stub[reg]), "vwf half site r%d" % reg)
+        for site, imm in p["adv"]:
+            want = struct.pack("<HH", 0x1C00 | p["pen"] << 3, 0x3000 | imm)
+            assert bytes(orig[site:site + 4]) == want, "advance site %X: %s" % (site, orig[site:site + 4].hex())
+            put(site, bl(site, stubs[imm]), "vwf %s site +%d" % (p["name"], imm))
+        for site, reg in p["half"]:
+            want = struct.pack("<HH", 0x1D80 | p["pen"] << 3, 0x9800 | reg << 8 | p["ret"] // 4)
+            assert bytes(orig[site:site + 4]) == want, "half site %X: %s" % (site, orig[site:site + 4].hex())
+            put(site, bl(site, half[reg]), "vwf %s half site r%d" % (p["name"], reg))
     return cur
