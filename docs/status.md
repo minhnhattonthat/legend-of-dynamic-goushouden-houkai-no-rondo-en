@@ -2,7 +2,39 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (phase 7 review fixed first). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (graphics pipeline proven on the title; tour + gate tooling ready). Phase 7 done 2026-11-16.
+
+## Phase 8 session 2 (2026-11-16)
+- **Graphics pipeline works in game:** `tools/gfx.py` applies `gfx/<name>_<OFFSET>.diff` (changed bytes of the
+  unpacked block only; no game art in git) to the ROM's block and repacks it as lh5 (type 2) **in place**; the
+  game's unpack() accepts lh5 wherever the original codec was (verified: title block 0x2FAD2C was lh5 already, so
+  a type-1/3 block re-typed to lh5 is still unproven: boot the first one and look). Our lh5 is smaller than the
+  original packer, so most edits fit their slot; a block that doesn't fit needs relocation + its self-relative
+  table entry (not written yet: gfx.insert stops with a message). `tests/test_engine.py` ALLOWED adds each edited
+  block's slot (`gfx.ranges`).
+- **Title (G1) done:** `tools/gfx_title.py draw` (BG3 rebuilt from a VRAM dump of the original title, scene
+  retail_title + ppudump.lua into work/qa/p8_title_jp; regenerate that dump first on a fresh clone) -> LEGEND OF
+  DYNAMIC / HOUKAI NO RONDO (ruby line) / "Rondo of Ruin" (Cinzel Bold 12, OFL; fonts/ + docs/fonts.md). Logo kept
+  (D5). Minor: faint leftover pixels under the top line's right end and a dark plate behind the subtitle (bank-10
+  sky has only 2 dark indices): polish, not blocking.
+- `tools/dumpblocks.py` decodes all 10,225 packed blocks to work/blocks/ (47 MB) for
+  `vramfind.py X.vram.bin work/blocks --fmt gba4`: the way to tie each S-group of the survey to its screen.
+- Visual-QA gate under Orca: `docs/visual-qa-brief.md`, `tools/tour_sheets.py` (EN | JP per scene from two
+  warp_all runs), `tools/vqa.sh` (codex exec -s read-only per qa_gate chunk -> work/qa/verdicts/). Run the gate
+  tour **after** the graphics rows are done (every graphics change invalidates it): warp_all on the EN build into
+  work/qa/tour_en and on the original into work/qa/tour_jp, tour_sheets.py, qa_gate init/todo (--size 12), vqa.sh.
+- A preliminary warp_all of the pre-title-gfx EN build ran into work/qa/tour_en (--states, so work/states/ was
+  regenerated from it); ending_credits and retail_newgame failed only for frames (now in warp_all MIN_FRAMES).
+  Seen there: credits pair "Creator / Go Nagai  Ken Ishikawa" reads fine (o_ending); battle names/HP/DP fine.
+  Still Japanese, all graphics: battle commands たたかう/アイテム/こうたい/にげる (S4, k_ode), item menu header
+  アイテム, tabs つかう/すてる/せいとん, column heads アイテム/NUM (S1, m1_item).
+- **Next, in order:** (1) S1 menu captions and S4 battle UI: per screen, ppudump on the original
+  (`--script $SKILL/scripts/lua/probes/ppudump.lua` with the warp), `vramfind.py ... work/blocks`, then a generator
+  like gfx_title.py (these are small framed labels on plain tiles: render with Silkscreen 8 px, clear the label
+  rect, write the diff); the first type-1/type-3 block re-typed to lh5 must be booted before doing more. Check
+  `vramfind.py --others` for tiles shared between screens. (2) S5 lettering, S7 shop signs (warp to the maps).
+  (3) The gate tour (above) + vqa.sh verdicts, inkbox on choice boxes, textcover (needs a writer-side id log:
+  dialogue is lh5-packed, so first-byte ROM reads can't prove coverage).
 
 ## Phase 7 review fixes (2026-11-16; review in ../.harness/reviews/...-phase7.md)
 - I1: r0CD95C (ASCII -> fullwidth lookup, 2 bytes per code, read by 0x08003DE4) was translated as text; now a

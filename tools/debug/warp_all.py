@@ -25,7 +25,7 @@ ORIG = next((ROOT / "rom").glob("*.gba"), None)
 
 MAPS = ROOT / "tools" / "debug" / "maps.tsv"
 # scenes that need more frames than --frames (game_over walks to a random battle, then loses it: WARP_DONE ~f4040)
-MIN_FRAMES = {"game_over": 4500}
+MIN_FRAMES = {"game_over": 4500, "ending_credits": 3600, "retail_newgame": 2600}
 
 
 def scene_names():
