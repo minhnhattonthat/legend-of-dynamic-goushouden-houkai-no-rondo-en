@@ -31,9 +31,11 @@ ROM = os.path.join(ROOT, 'rom', 'Legend of Dynamic Goushouden - Houkai no Rondo 
 BUILT = os.path.join(ROOT, 'build', 'goushouden_en.gba')
 STRINGS = os.path.join(ROOT, 'build', 'goushouden_en.strings.tsv')
 # Coverage logs (Phase 8): the full tour, every dialogue message, every ROM string and every small-archive message
-# forced through the game's own printers. forcearc_s19 is the rerun on the build after the polish pass (the book /
-# desc / effect / place messages moved; dialogue and ROM string addresses did not).
-COVER_DIRS = ['tour_en3', 'msgview', 'forcestr', 'forcearc_s19']
+# forced through the game's own printers. The phase 9 text edits grew the archive, which moved the book / desc /
+# effect / place messages and the 86 non-waived relocated ROM strings written after it (dialogue ids and in-place
+# ROM strings kept their addresses): forcearc_s19 and forcestr_s19 re-force exactly those on the final build.
+# A later text change that moves addresses needs the same reruns (compare build/*.strings.tsv before and after).
+COVER_DIRS = ['tour_en3', 'msgview', 'forcestr', 'forcearc_s19', 'forcestr_s19']
 # Debug tool off: tools/debug/dbgmenu.lua redirects main()'s BL at 0x7E48A to the debug menu at run time only; the
 # release build must keep the retail BL (bl 0x0807E2F4).
 DEBUG_BL = (0x7E48A, bytes([0xFF, 0xF7, 0x33, 0xFF]))

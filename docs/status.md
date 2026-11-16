@@ -2,7 +2,34 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release: not started (Phase 8 done 2026-11-16 on build 9045e3a5).
+- **Phase:** 9. Release done: v1.0 zip built and verified (build 0516dfed); not published (owner's call).
+
+## Release v1.0 (2026-11-16)
+- `python -X utf8 tools/release.py --version 1.0` exits 0: check ok, smoke ok, jp_left 0 runs, qa_gate ok on
+  work/qa/manifest.tsv (waiver for 0516dfed: text-only, 126 changed messages shown with msgview --shots and judged
+  ok, work/qa/msgview_s19/sheets/verdicts.tsv) and work/qa/story/manifest.tsv (16/16 ok), textcover 7571 shown /
+  484 waived / 0 failing, polish all ticked, README filled, debug BL retail, patch re-applied = build.
+- `release/Goushouden_EN_v1.0.zip` (patch + README.txt): patch sha1 79ea985a318a2791f0e841b923c356e669c1124c,
+  base CRC32 67F18F8E, patched CRC32 E21FC0DA / sha1 0516dfed983632c48f4f4fcd56403f9215537b0e.
+- **Next (owner):** publish (`gh release create v1.0 release/Goushouden_EN_v1.0.zip ...`, references/pipeline.md
+  §Publish), screenshots in docs/screenshots/. Later-version candidates: the waived story-pass Minors in polish.md.
+- Text changes that grow the archive move book/desc/effect/place and the relocated ROM strings: rerun forcearc and
+  forcestr on the moved ids (compare build/*.strings.tsv) before release.py, as session 19 did.
+
+## Phase 9 session 19 (2026-11-16): polish, story pass, release script
+- **Polish pass:** all 125 lines of docs/polish.md (89 ids) fixed via work/qa/review/polish.tsv + `apply_fixes.py` +
+  `batches.py merge --overwrite`; `tools/polish_ids.py` lists unticked ids with current JP/EN.
+- **Story pass:** `tools/story.py` (chapters from docs/synopsis.md §Chapters, 16 chapters by archive file; shows
+  the shipped speaker tag), `tools/story_review.sh` (one read-only codex call per chapter, chapter inlined in the
+  prompt: codex reads files through context-mode, which cuts large files), `story.py --verdicts DIR --round rN`.
+  Rounds 1-4 (reports, reports2..4): fixes in work/qa/review/story_r1..r3.tsv (Taigen not Daigon, speaker tag
+  Danjuro Namakubi, 04.03, 40.14, 39.59, 46.17, 31.11 + Minors). **`qa_gate.py check work/qa/story/manifest.tsv
+  work/qa/story/verdicts` exits 0.** Later-round Minors waived in polish.md (each edit reopens a chapter).
+- **README** filled (hashes, status table); **`tools/release.py`** (build, check, smoke, jp_left, qa_gate on every
+  manifest, textcover over work/qa/cover_release = tour_en3 + msgview + forcestr + forcearc_s19, polish, README
+  placeholders, debug BL at 0x7E48A retail, bps make + re-apply + compare, zip patch + README.txt).
+- The text edits moved the book/desc/effect/place archive addresses (dialogue and ROM strings did not), so
+  forcearc was rerun on the final build into work/qa/forcearc_s19 (detached Start-Process).
 
 ## Phase 8 session 18 (2026-11-16): msgview finished, Phase 8 done
 - msgview c13-c15 done (335/335 each; run detached with PowerShell `Start-Process` so the memory reaper can't kill

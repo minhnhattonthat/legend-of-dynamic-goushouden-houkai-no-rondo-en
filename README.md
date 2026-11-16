@@ -31,7 +31,8 @@ Known issues: none known; see [Issues](../../issues).
 | MD5 | `35eb30c1013b72df8ec4a71a1fc1acff` |
 | SHA-1 | `8a037eff3a44b1667ec5e81ca8c1ff03537366b2` |
 
-The patched ROM is 16 MiB (the English text needs the extra space). Tested in Mesen 2.2.1 (GBA, with the official
+The patched ROM (v1.0) is 16 MiB (the English text needs the extra space), CRC32 `E21FC0DA`, SHA-1
+`0516dfed983632c48f4f4fcd56403f9215537b0e`. Tested in Mesen 2.2.1 (GBA, with the official
 BIOS). Start from a cold boot: savestates made with another version of the patch carry its old code and text.
 
 ## What's here
