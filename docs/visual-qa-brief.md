@@ -36,6 +36,8 @@ Standing non-bugs (`ok`):
 - "(C)" for the copyright sign on the title is intended.
 - the name-entry character grid (m1_name*, retail_newgame) keeps its hiragana / katakana pages next to the ABC page
   (tabs HIRA / KATA / ABC, decision D9): kana in that grid, and a kana letter typed into the name, are `ok`.
+- the short names in narrow menu and battle fields listed in docs/short-forms.md (Mazinger, Aphro. A, Borot,
+  King Enma, G.Tomahawk...) are decision D8: `ok` there. Any other cut name is an `issue`.
 
 ## Verdicts
 Your final message is the verdict list and nothing else, one line per sheet in the chunk, in order:

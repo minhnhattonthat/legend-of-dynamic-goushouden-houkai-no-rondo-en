@@ -180,25 +180,27 @@ SCREENS = {
         ("swap", (48, 139, 37, 8), "SWAP", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
         ("run", (48, 147, 37, 8), "RUN", "small", {1, 13, 14}, ([13, 14, 14], 1), dict(left=1)),
     ]),
-    # S7 map signs (tile set 73C13C, bg2, map scroll 0 at the warp spawn): マミー薬局 plate over the pharmacy door
+    # S7 map signs (tile set 73C13C, bg2, map scroll 0 at the warp spawn): マミー薬局 plate over the pharmacy door.
+    # MAMII = glossary "Mamii Pharmacy" (was MUMMY, flagged by visual QA); PHARMACY (8 caps) won't fit 40 px
+    # (the shopkeeper's mummy pun lives in the dialogue)
     "sign244": dict(scene="map_244", copy=False, labels=[
         # the plate's top tile row (y 8-15) is one tile repeated: text in rows 16-28 only
-        ("l1", (76, 16, 40, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l1", (76, 16, 40, 6), "MAMII", "small", {1, 9}, (1, None), dict(kind="bg2")),
         ("l2", (76, 22, 40, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
     ]),
     # the same plate in tile set 661050 (科学都市Ｇ): sign244's copy reaches only the tiles that occur once there
     "sign135": dict(scene="map_135", copy=False, labels=[
-        ("l1", (140, 120, 40, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l1", (140, 120, 40, 6), "MAMII", "small", {1, 9}, (1, None), dict(kind="bg2")),
         ("l2", (140, 126, 40, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
     ]),
     # 間身井薬局 (the same pharmacy, ateji for マミー) in tile set 7A0DD0, maps 309 / 310: 5 kanji, rows 16-27
     "sign309": dict(scene="map_309", copy=False, labels=[
-        ("l1", (100, 16, 42, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l1", (100, 16, 42, 6), "MAMII", "small", {1, 9}, (1, None), dict(kind="bg2")),
         ("l2", (100, 22, 42, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
     ]),
     # 間身井薬局 again in tile set 73E49C (map 245, 蓮沼街), teleported (scene sign245)
     "sign245": dict(scene="sign245", copy=False, labels=[
-        ("l1", (76, 88, 42, 6), "MUMMY", "small", {1, 9}, (1, None), dict(kind="bg2")),
+        ("l1", (76, 88, 42, 6), "MAMII", "small", {1, 9}, (1, None), dict(kind="bg2")),
         ("l2", (76, 94, 42, 7), "DRUGS", "small", {1, 9}, (1, None), dict(kind="bg2")),
     ]),
     # map 147's plate (scene sign147) is the same 661050 tiles as map 135's: sign135 covers it, no entry of its own
