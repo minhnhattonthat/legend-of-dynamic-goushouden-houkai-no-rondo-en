@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release done: v1.0 zip built and verified (build 0516dfed); not published (owner's call).
+- **Phase:** 9. v1.0 published 2026-11-16: https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.0
+  (repo now public, description carries the real title; uploaded zip sha1 c2a45324 = release/ zip).
 
 ## Release v1.0 (2026-11-16)
 - `python -X utf8 tools/release.py --version 1.0` exits 0: check ok, smoke ok, jp_left 0 runs, qa_gate ok on
@@ -11,8 +12,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   484 waived / 0 failing, polish all ticked, README filled, debug BL retail, patch re-applied = build.
 - `release/Goushouden_EN_v1.0.zip` (patch + README.txt): patch sha1 79ea985a318a2791f0e841b923c356e669c1124c,
   base CRC32 67F18F8E, patched CRC32 E21FC0DA / sha1 0516dfed983632c48f4f4fcd56403f9215537b0e.
-- **Next (owner):** publish (`gh release create v1.0 release/Goushouden_EN_v1.0.zip ...`, references/pipeline.md
-  §Publish), screenshots in docs/screenshots/. Later-version candidates: the waived story-pass Minors in polish.md.
+- **Next:** player bug reports (`gh issue list --label bug`). Later-version candidates: the waived story-pass Minors
+  in polish.md.
 - Text changes that grow the archive move book/desc/effect/place and the relocated ROM strings: rerun forcearc and
   forcestr on the moved ids (compare build/*.strings.tsv) before release.py, as session 19 did.
 
