@@ -1,0 +1,802 @@
+# ch06: Susano-oh (Shusha, Shinichi, Uryu, Maria) (archive files f14-f17, story order)
+
+>> 14.00 | Shusha | それじゃあ そこに…！
+   EN: Then he's there...!
+>> 14.01 | Mitsurugi | 力を合わせて乗り込むのよ！
+   EN: We storm in together!
+>> 14.02 | Jiro | 瓜生麗 来留間博士を追及して
+   EN: We go after Rei Uryu and Dr. Kuruma...
+>> 14.03 | {p} | 真理阿の居場所を 突き止めよう！
+   EN: ...and find out where Maria is!
+>> 14.04 | Professor Yumi | その意気だ 諸君！！
+   EN: That's the spirit, everyone!!
+>> 14.05 | Shinichi | 富三郎 手がかりがつかめたぞ
+   EN: Tomisaburo, we've got a lead.
+>> 14.06 | Tomisaburo | あいつらを追え！って おいらの / 勘に 狂いはなかっただろ？ / なにせ おいらだって / 予知一族だかんな！
+   EN: Told ya my gut wasn't wrong when it / said "follow those guys," right? / After all, I'm Precog Clan too, y'know!
+>> 14.07 | Shinichi | だったら 真理阿の居場所を / あててみろ！
+   EN: Then tell me where Maria is!
+>> 14.08 | Tomisaburo | そ そこまでは…ちょっと / でへへ…！
+   EN: W-well, that's a bit... Heh heh...!
+>> 14.09 | Shinichi | ふん！ / 行くぞ 富三郎！
+   EN: Hmph! Let's go, Tomisaburo!
+>> 14.10 | Tomisaburo | まってくれよぉ～！
+   EN: Wait up for meee!
+>> 14.11 | Professor Yumi | 科学都市の立ち入り禁止エリアに / 瓜生麗のマンションがあるだろう / それを探し出すことが / 真理阿の居場所を突き止める / 唯一の方法のはず… / がんばってくれたまえ！
+   EN: Rei Uryu's condo must be in Science / City's off-limits area. Finding it / should be the only way to learn where / Maria is... Do your best!
+>> 14.12 | {p} | {s}の具合は / どうですか？
+   EN: How is {s} doing?
+>> 14.13 | Professor Yumi | あ うん / え～と だいぶいいみたいだよ / 心配しなくても大丈夫だよ
+   EN: Ah, yes. Well, um, she seems much / better. No need to worry.
+>> 14.14 | {p} | …ホントですか？ / 何か隠してないですか？
+   EN: ...Really? You're not hiding something?
+>> 14.15 | Professor Yumi | え！？ / いや その… / お～い！ 誰か あの書類 / どうなってるか知ってるかね！？ / すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: What!? No, well... Hey! Does anyone / know what happened to those / papers!? Sorry, {p}-kun! / I'm busy right now!
+>> 14.16 | Professor | 来留間博士と / 科学都市のスポンサー瓜生麗とが / 手を組んでおったとはのう… / 気がつかなかったわい…
+   EN: Who'd have thought Dr. Kuruma and Rei / Uryu, Science City's sponsor, were in / cahoots... I never noticed, I tell you...
+>> 14.17 | Professor | マジンガーＺは / ちゃんと 整備しておいたよ / もちろん アフロダイＡと / ボスボロットもな！
+   EN: We gave Mazinger Z a proper tune-up. / Aphrodite A and Boss Borot too, of / course!
+>> 14.18 | Professor | ジェットスクランダーで空を飛べる / のは マジンガーＺだけだ
+   EN: Mazinger Z is the only one that can fly / with the Jet Scrander.
+>> 14.19 | Professor Yumi | すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: Sorry, {p}-kun! I'm busy / right now!
+>> 14.20 | {p} | とりあえず 地獄別荘に戻ろう…
+   EN: For now, let's head back to Hell Villa...
+>> 14.21 | {p} | これから僕は 科学都市へ / 行かなきゃならない！ / 一緒に行ってくれるよね？
+   EN: I have to go to Science City now! You'll / all come with me, right?
+>> 14.22 | Jiro | ……………
+   EN: ...............
+>> 14.23 | Enma-kun | ……………
+   EN: ...............
+>> 14.24 | {p} | どうしたんだい みんな？
+   EN: What's wrong, everyone?
+>> 14.25 | Shusha | ……………
+   EN: ...............
+>> 14.26 | Mitsurugi | ……………
+   EN: ...............
+>> 14.27 | {p} | なぜ 黙ってるの？
+   EN: Why won't anyone say anything?
+>> 14.28 | Honey Kisaragi | …それはね {p}
+   EN: ...Well, you see, {p}...
+>> 14.29 | {s} | {p}！
+   EN: {p}!
+>> 14.30 | {p} | {s}！？
+   EN: {s}!?
+>> 14.31 | Enma-kun | 病気快復 おめでとう！
+   EN: Congrats on getting better!
+>> 14.32 | Honey Kisaragi | あなたを驚かせたくて / みんなず～っと黙ってたのよ！
+   EN: We all kept quiet the whole time / because we wanted to surprise you!
+>> 14.33 | {p} | そうだったんだ！
+   EN: So that's what it was!
+>> 14.34 | {s} | {p}… / そして みんな…！ / 心配かけてごめんなさい！ / でも もう大丈夫よ！
+   EN: {p}... and everyone...! / Sorry I made you worry! But I'm / fine now!
+>> 14.35 | {p} | よ～し！ / 科学都市に向かって 出発だ！
+   EN: All riiight! Off to Science City!
+>> 14.36 | {p} | …！ 地震だ…！
+   EN: ...! An earthquake...!
+>> 14.37 | {s} | …！ もしかして…！？
+   EN: ...! Could it be...!?
+>> 14.38 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 14.39 | {p} | 黒い月！
+   EN: The black moon!
+>> 14.40 | {s} | な なんてことなの…！
+   EN: Wh-what is going on...!
+>> 14.41 | Honey Kisaragi | 大きいわ！ / いつもより揺れが激しい！
+   EN: It's a big one! The shaking's worse / than usual!
+>> 14.42 | Jiro | また 世界が 結合されようと / している…！？
+   EN: Are the worlds trying to merge / again...!?
+>> 14.43 | {s} | {p}… / あたし達 逃げられないの…？
+   EN: {p}... Can't we get / away...?
+>> 14.44 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 14.45 | {p} | うわ～！
+   EN: Whoaaa!
+>> 14.46 | Announcer | {!R}非常事態です！ 非常事態です！
+   EN: {!R}This is an emergency! This is an / emergency!
+>> 14.47 | {p} | う う～ん…？
+   EN: Uhh... nnn...?
+>> 14.48 | Shusha | …黒い月が現れる時って / あんな凄い地震が起きるのか？
+   EN: ...Does an earthquake that bad hit / whenever the black moon shows up?
+>> 14.49 | Enma-kun | 今回は 特に酷かったぜ！
+   EN: This time was extra nasty!
+>> 14.50 | Honey Kisaragi | ちょっと / また何か起こったらしいわ！
+   EN: Hey, looks like something else / happened!
+>> 14.51 | Announcer | {!R}世界各地で 異変が起こりました！ / {!R}北極点付近に 巨大な光の球が / 出現しました！ / {!R}付近一帯は消滅したもようです！ / 衛星からの写真をご覧ください
+   EN: {!R}Strange events have occurred all / over the world! / {!R}A gigantic sphere of light has / appeared near the North Pole! {!R}The / entire surrounding area appears to / have vanished! Please look at this / satellite photo.
+>> 14.52 | Mitsurugi | 凄いエネルギーだわ！
+   EN: What tremendous energy!
+>> 14.53 | Announcer | {!R}国内からも / ニュースが入っております / {!R}蓮沼という沼が突如 消えてしまい / そこに住宅地が出現しました！
+   EN: {!R}News is also coming in from within / Japan. {!R}A pond called Hasunuma / suddenly vanished, and a housing area / appeared in its place!
+>> 14.54 | Honey Kisaragi | ……………
+   EN: ...............
+>> 14.55 | Announcer | {!R}更に不思議なことに / 住宅地に住む人々は / {!R}蓮沼など知らない… / と言っているそうです！
+   EN: {!R}Even stranger, the people living in the / housing area {!R}reportedly say they've / never heard of any Hasunuma!
+>> 14.56 | {p} | ハニー / もしかしたら その住宅地に…？
+   EN: Honey, could that housing area be / where...?
+>> 14.57 | Honey Kisaragi | 早見青児君の家も あるかもね… / あたし 青児君に伝えてくるわ！
+   EN: Seiji Hayami-kun's house might be / there... I'll go tell Seiji-kun!
+>> 14.58 | {p} | 僕達も 準備を調えて 科学都市へ / 向かったほうがいいみたい
+   EN: Looks like we'd better get ready and / head for Science City too.
+>> 14.59 | {s} | あたしは 絶対に行くわよ / 誰がなんといってもね！
+   EN: I'm going for sure, no matter what / anyone says!
+>> 14.60 | {p} | 大丈夫かい？ / {s}？
+   EN: Are you sure you're okay, / {s}?
+>> 14.61 | {s} | 心配いらないわ！
+   EN: No need to worry!
+>> 14.62 | Shusha | 俺も行く {p} / 科学都市に 瓜生麗がいるなら / 行かないわけにはいかない！
+   EN: I'm coming too, {p}. / If Rei Uryu's in Science City, there's no / way I'm not going!
+>> 14.63 | Mitsurugi | 私も行きます / 何か イヤな予感がするの…
+   EN: I'm going as well. I have a bad feeling / about this...
+>> 14.64 | {p} | よし！ / ふたりは 一緒に来て！
+   EN: All right! You two come with me!
+>> 14.65 | Seiji Hayami | 俺達 蓮沼のあった場所に / 行ってみようと思うんだ / もしかしたら 今度こそ 俺んちが / あるかもしれないし…
+   EN: We're thinking of checking out where / Hasunuma used to be. Maybe this time / my house will actually be there...
+>> 14.66 | Honey Kisaragi | ふたりだと不安だから　何人かの / 仲間と 一緒に行こうと思うの
+   EN: Just the two of us would be risky, so / I'm thinking of bringing some friends / along.
+>> 14.67 | {p} | それで 誰と一緒に行くんだい？
+   EN: So who are you taking?
+>> 14.68 | Akira Fudo | {p}とハニーとは / 始まりの丘以来の縁だ / どちらかの手助けが出来るなら / うれしいよ
+   EN: I've been with {p} and / Honey since the Hill of Beginnings. I'd / be glad to help either of you.
+>> 14.69 | Mondo Saotome | 大変なことになってきたな / 血が騒ぐぜ！
+   EN: Things are gettin' serious. My blood's / pumpin'!
+>> 14.70 | Ryoma Mido | 俺は 門土と一緒なら / どこへでも行くよ
+   EN: As long as I'm with Mondo, I'll go / anywhere.
+>> 14.71 | Jack | 世界が崩れ始めている… / そんな気がする…！
+   EN: The world is starting to crumble... / That's how it feels...!
+>> 14.72 | Enma-kun | いつでも俺は {p}と / ハニーの 味方だぜ！
+   EN: I'm always on {p} and / Honey's side!
+>> 14.73 | Kapaeru | 次から次へと 人間界も大変ねー
+   EN: One thing after another! The human / world sure has it rough, huh~.
+>> 14.74 | Princess Yukiko | 北極って 人間界で / 一番居心地良かったのに！
+   EN: And the North Pole was the comfiest / place in the whole human world!
+>> 14.75 | Yamagishi | どっちと一緒に行っても / わくわく出来そうだぜ！
+   EN: Whoever I go with, it's gonna be a / blast!
+>> 14.76 | Fukurokoji | 親分は 気楽に考えすぎですよー / でも…ダイジョブかな？
+   EN: Boss, you take things way too easy... / But will we be okay?
+>> 14.77 | Jubei | {p}もハニーも / 油断は禁物よ！
+   EN: {p}, Honey, don't let / your guard down!
+>> 14.78 | Jiro | 難しいことになったね / じっくり考えたほうがいい
+   EN: This has gotten tricky. Better think it / through.
+>> 14.79 | Goki | どこだろうと 童子を護るのが / 私の役目です！
+   EN: Wherever it may be, my duty is to / protect Doji!
+>> 14.80 | Senki | 鬼獄界にも / 危険が迫っているのだろうか？
+   EN: Is danger drawing near the Kigoku / World as well?
+>> 14.81 | Miyuki Shiratori | あたし 恐いわ… / でも 負けはしない！
+   EN: I'm scared... But I won't give in!
+>> 14.82 | Koji Kabuto | マジンガーＺの底力 / 見せてやるよ！
+   EN: I'll show you what Mazinger Z's / really got!
+>> 14.83 | Sayaka Yumi | アフロダイＡ / 今度こそ活躍するわよ！
+   EN: This time Aphrodite A's going to shine!
+>> 14.84 | Boss | ボスボロットをあなどるなよぉ～ / ハニーちゃん！
+   EN: Don't you underestimate Boss Borot, / Honey-chan!
+>> 14.85 | Nuke | ボスについてくより / ハニーちゃんについてきたい！
+   EN: I'd rather follow Honey-chan than / the Boss!
+>> 14.86 | Mucha | やるときゃ やるで！ / みとくれ ハニーちゃん！
+   EN: When it counts, we deliver! Watch us, / Honey-chan!
+>> 14.87 | Goda | ボクサーとしての俺は 超高校級だ / ボディガードには最適だぜ！
+   EN: As a boxer, I'm way beyond high-school / level. Perfect bodyguard material!
+>> 14.88 | {p} | うん わかったよ！ / お互い がんばろう！
+   EN: Yeah, got it! Let's both do our best!
+>> 14.89 | Honey Kisaragi | {p} / あなた達も気をつけて！
+   EN: {p}, you all be / careful too!
+>> 14.90 | {p} | うわ～！
+   EN: Whoaaa!
+>> 14.91 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 14.92 | Shusha | なにごとだ！？
+   EN: What's going on!?
+>> 14.93 | Mitsurugi | わからないわ！ / 路肩に逃げましょう！
+   EN: I don't know! Let's get to the roadside!
+>> 14.94 | Shusha | どうやら / 待ち伏せされたらしいな…！
+   EN: Looks like we got ambushed...!
+>> 14.95 | {p} | 向こうから 魔獣ハンターがくる！
+   EN: Demon Beast Hunters coming from over / there!
+>> 14.96 | Mitsurugi | こっちからは 不死団よ！
+   EN: And the Immortal Corps from this side!
+>> 14.97 | {p} | なんで 魔獣ハンターと不死団が / タッグを組んでるんだろ？
+   EN: Why are the Demon Beast Hunters and / the Immortal Corps teaming up?
+>> 14.98 | Shusha | さぁ～な！ / 生き残れたら考えようぜ！
+   EN: Beats me! Let's think about it if / we live!
+>> 14.99 | Tomisaburo | へっへ！ いよいよ始まったぜ！ / うまいこと隙をついて 科学都市の / 中に 入っちゃおうぜ！
+   EN: Heh heh! It's on now! / Let's slip in while they're distracted / and get inside Science City!
+>> 15.00 | Shinichi | 果たして そう巧くいくかな？
+   EN: Think it'll go that smoothly?
+>> 15.01 | Tomisaburo | んじゃ どうする？
+   EN: Then whaddaya wanna do?
+>> 15.02 | Shinichi | …………
+   EN: ............
+>> 15.03 | {p} | あの粒子砲！ / なんとかしないとやばいよ…！
+   EN: That particle cannon! If we don't do / something about it, we're in / trouble...!
+>> 15.04 | Mitsurugi | 私が 粒子砲の背後に / テレポートするわ！
+   EN: I'll teleport behind the particle / cannon!
+>> 15.05 | {p} | ダメだ 美剣さん！ / それは危険過ぎる！
+   EN: No, Mitsurugi-san! That's way too / dangerous!
+>> 15.06 | {s} | あ！ あれを見て！
+   EN: Ah! Look over there!
+>> 15.07 | Demon Beast Hunter | きさま！
+   EN: You wretch!
+>> 15.08 | Immortal Corps | 邪魔をする気か！？
+   EN: You wanna get in our way!?
+>> 15.09 | Shinichi | おまえ達こそ 邪魔なんだ！
+   EN: You're the ones in MY way!
+>> 15.10 | {p} | 慎一君だ！
+   EN: It's Shinichi-kun!
+>> 15.11 | {s} | あたし達を / 援護してくれてるわ！
+   EN: He's covering us!
+>> 15.12 | Shusha | よし！ 今のうちだ！
+   EN: All right! Now's our chance!
+>> 15.13 | {p} | 慎一君！
+   EN: Shinichi-kun!
+>> 15.14 | Shinichi | おまえらに 手を貸してやる / そのかわり… / 真理阿を探すのを手伝ってくれ
+   EN: I'll lend you a hand. In exchange... help / me find Maria.
+>> 15.15 | {p} | もちろんだよ 慎一君！
+   EN: Of course, Shinichi-kun!
+>> 15.16 | Tomisaburo | おう！ よろしくな…！
+   EN: Yo! Pleased to meetcha...!
+>> 15.17 | {s} | ところで あなた だ～れ？
+   EN: By the way, who are YOU?
+>> 15.18 | Tomisaburo | 富三郎ってんだ！ / よろしくたのむぜ！
+   EN: Name's Tomisaburo! Pleasure doin' / business!
+>> 15.19 | {p} | 僕ら 立ち入り禁止エリアに / 行きたいんだけど…
+   EN: We want to get to the off-limits area, / but...
+>> 15.20 | Tomisaburo | 科学都市の地下水路を通っていけば / 立ち入り禁止エリアに出れるぜ
+   EN: Go through Science City's / underground waterway and you'll / come out in the off-limits area.
+>> 15.21 | Shusha | 地下水路か… / 当然 瓜生麗も 地下水路のことを / 知ってるだろうな…
+   EN: The underground waterway, huh... / Naturally, Rei Uryu must know about / the waterway too...
+>> 15.22 | Mitsurugi | どうしたの 朱紗君？
+   EN: What's wrong, Shusha-kun?
+>> 15.23 | Shusha | ちょっと待ってくれ…
+   EN: Hold on a second...
+>> 15.24 | Shinichi | あいつ どうしたんだ…？
+   EN: What's up with him...?
+>> 15.25 | Shusha | こっちだ…！ / こっちの方角に 何かを感じる！
+   EN: This way...! I sense something in this / direction!
+>> 15.26 | Shinichi | どうして そんなことが解るんだ？
+   EN: How can you tell something like that?
+>> 15.27 | Mitsurugi | 朱紗君は 超能力者として / 進化しているのよ！
+   EN: Shusha-kun is evolving as a psychic!
+>> 15.28 | {p} | よし！ 朱紗君を信じよう！
+   EN: All right! Let's trust Shusha-kun!
+>> 15.29 | {p} | 今は 急いで地下室を探そう！ / そこに誰かいるはずだ！
+   EN: Right now, let's hurry and find the / basement! Someone has to be in / there!
+>> 15.30 | {p} | ここは… 地下室の扉みたいだな / …ダメだ 開かない / 他の場所から調べよう
+   EN: This looks like... the basement door. / ...No good, it won't open. Let's check / somewhere else.
+>> 15.31 | {p} | 急いで / 美剣さんの所へ 戻ろう！
+   EN: Let's hurry back to Mitsurugi-san!
+>> 15.32 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.33 | {s} | こっちね！
+   EN: This way, huh!
+>> 15.34 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.35 | {p} | よし！
+   EN: All right!
+>> 15.36 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.37 | Shinichi | 行くぞ！
+   EN: Let's go!
+>> 15.38 | Shusha | こっちだ…！
+   EN: This way...!
+>> 15.39 | Mitsurugi | 行くわよ！
+   EN: Let's go!
+>> 15.40 | Researcher | 世界最大規模の 研究施設が / 世界最凶最悪の 戦場に…
+   EN: The world's largest research facility / has become the world's most savage / battlefield...
+>> 15.41 | Researcher | ひぇぇぇぇぇ…！ / 助けてぇぇぇぇぇ…！
+   EN: Eeeeeek...! Heeelp meee...!
+>> 15.42 | Researcher | 立ち入り禁止エリアですか？ / 確かあっちですよ  / 科学都市 / 広過ぎて よく解らないのです…
+   EN: The off-limits area? I think it's over / that way. Science City's so big, I / don't really know my way around...
+>> 15.43 | Researcher | たとえ この戦いで / 世界が滅ぼされても… / 私は研究を続けるのです！ / 世界のために…！
+   EN: Even if this battle destroys the / world... I shall continue my research! / For the sake of the world...!
+>> 15.44 | Researcher | なんだって？ 逃げたほうが / いいんじゃないかって？ / ちょっと / 研究の邪魔しないでくれたまえ！
+   EN: What's that? I ought to run? Excuse / me, kindly don't disturb my research!
+>> 15.45 | Researcher | 瓜生コンツェルンが / スポンサーだったのか！ / そういえば / 瓜生麗を 良く見かけたかも！？
+   EN: So the Uryu Conglomerate was the / sponsor! Come to think of it, I may / have seen Rei Uryu around a lot!?
+>> 15.46 | Researcher | なんだか騒がしいねぇ…？ / えっ？ 戦闘！？ / ふむ… 非常時における人間心理の / 研究になるな…
+   EN: It's kind of noisy...? Eh? A battle!? / Hmm... This could make for research / on human psychology in emergencies...
+>> 15.47 | Researcher | なんか 柄の悪いヤツらが / いっぱいいるなぁ…？ / 君達も あんな大人に / ならないようにね！
+   EN: There sure are a lot of thugs / around...? Don't you kids grow up to / be grown-ups like that!
+>> 15.48 | Researcher | 優秀な医者ならいっぱいいるけど / こんなにケガ人が多くちゃ / どうしようもない！
+   EN: There are plenty of good doctors, but / with this many wounded, there's / nothing we can do!
+>> 15.49 | Researcher | なんで科学都市で戦闘が…！？
+   EN: Why is there fighting in Science / City...!?
+>> 15.50 | Researcher | この研究成果が発表されたら / 世界中が驚くぞ！ / え！？ 科学都市で戦闘…！？ / びっくり！！
+   EN: When these research results are / published, the whole world will be / stunned! What!? A battle in Science / City...!? What a shock!!
+>> 15.51 | Researcher | 研究している時が / 一番しあわせだけど / いのちあってのモノダネだぁ～！
+   EN: I'm happiest when I'm doing research, / but you gotta be alive to enjoy it!
+>> 15.52 | Researcher | 計器の数値に異常無し！ / でも こんなことしてて / いいのかな？
+   EN: Instrument readings normal! / But should I really be doing this / right now?
+>> 15.53 | Researcher | 外が騒がしいけど / 何かあったのかな？ / え～っ！ 戦闘！？
+   EN: It's noisy outside. I wonder if / something happened? Whaaat! A / battle!?
+>> 15.54 | Researcher | 見てくれ！ / 新しい器材がボロボロだぁ…！
+   EN: Look at this! The new equipment is in / pieces...!
+>> 15.55 | Shusha | いた…！
+   EN: There...!
+>> 15.56 | {p} | いた…って 誰が…！？
+   EN: "There"... who's there...!?
+>> 15.57 | {p} | 消えちゃった！？ / 朱紗君の後を追わないと…！
+   EN: He vanished!? We've got to go after / Shusha-kun...!
+>> 15.58 | Shinichi | だが ヤツは どこへ行ったんだ？
+   EN: But where did he go?
+>> 15.59 | Mitsurugi | ちょっと待って…
+   EN: Wait a moment...
+>> 15.60 | Mitsurugi | このちかくに 内部を透視出来ない / 建物があるわ… / 超能力が さえぎられている…
+   EN: There's a building nearby I can't see / into... Something's blocking my / psychic power...
+>> 15.61 | Uryu | …朱紗…！？
+   EN: ...Shusha...!?
+>> 15.62 | Shusha | 瓜生…！ / え…！？ / 雪代さん！ / どうして ここに…！？
+   EN: Uryu...! Wha...!? Yukishiro-san! Why are / you here...!?
+>> 15.63 | Shusha | 雪代さん！ / どうして ここに…！？
+   EN: Yukishiro-san! Why are you here...!?
+>> 15.64 | Yukishiro | …朱紗君！
+   EN: ...Shusha-kun!
+>> 15.65 | Shusha | なぜだ！ / なぜ 君がここにいる！？
+   EN: Why!? Why are you here!?
+>> 15.66 | Uryu | あっはっはっはっはっは！ / 教えてやろう 朱紗真悟！ / その女は / 俺の命令を聞くしかないのさ！
+   EN: Ahahahahahaha! I'll tell you, Shingo / Shusha! That girl has no choice but / to obey my orders!
+>> 15.67 | Shusha | うそだ！
+   EN: That's a lie!
+>> 15.68 | Uryu | この女のオヤジが経営する会社を / 俺は乗っとった！ / 俺の命令を聞かなければ / この女の家族は / 一家心中しなきゃならんのだ！
+   EN: I took over the company her father / runs! If she doesn't obey my orders, / her whole family will have no choice / but to kill themselves together!
+>> 15.69 | Yukishiro | ……………
+   EN: ...............
+>> 15.70 | Shusha | そ そんな…！
+   EN: Th-that's...!
+>> 15.71 | Uryu | 俺は おまえの超能力の才能を / ずっと以前から 見抜いていた / おまえと会う以前からだ / そこで俺は 雪代を転校させ / おまえに近づけたのさ
+   EN: I saw your psychic talent long ago, / before I ever met you. / So I had Yukishiro transfer to your / school and get close to you.
+>> 15.72 | Shusha | ウソだ！
+   EN: That's a lie!
+>> 15.73 | Uryu | すべては おまえの力を / 得たいがための計画だ / その女は 計画通り / よく働いてくれたよ！
+   EN: It was all a plan to get your power. And / the girl did her job nicely, just as / planned!
+>> 15.74 | Shusha | ウソだ！
+   EN: That's a lie!
+>> 15.75 | Uryu | おまえに惚れてる振りをしろ！と / 命じたのだ / だが ホントに惚れるとは / 予想外だったがな
+   EN: I ordered her to pretend she was in / love with you. Though I never / expected her to fall for you for real.
+>> 15.76 | Shusha | 雪代さん… / 君は 瓜生の計画を知ってて / 不死団に襲われたのか？
+   EN: Yukishiro-san... / Did you know about Uryu's plan when / the Immortal Corps attacked you?
+>> 15.77 | Yukishiro | ……………
+   EN: ...............
+>> 15.78 | Shusha | ウソだろ？ ウソだと言ってくれ / 雪代さん…！！
+   EN: It's a lie, right? Tell me it's a lie, / Yukishiro-san...!!
+>> 15.79 | Uryu | その女は / 本気でおまえに惚れたんだよ / だからといってそいつにはどうする / ことも出来なかったんだ！ / その女は / 俺の命令を聞くしかないのさ！
+   EN: The girl really did fall for you. But / even so, there was nothing she / could do about it! She has no choice / but to obey my orders!
+>> 15.80 | Shusha | 雪代さん…
+   EN: Yukishiro-san...
+>> 15.81 | Yukishiro | 朱紗君… ごめんなさい…
+   EN: Shusha-kun... I'm sorry...
+>> 15.82 | Shusha | ぐっ…！！
+   EN: Ngh...!!
+>> 15.83 | {p} | どうしたの 美剣さん？
+   EN: What's wrong, Mitsurugi-san?
+>> 15.84 | Mitsurugi | 「魔」を感じるわ… / みにくい心 恐ろしい心 歪んだ心… / 悪しき心の集合体…それが魔よ！
+   EN: I sense "Ma"... / Ugly hearts, frightening hearts, / twisted hearts... a mass of evil / hearts. That is Ma!
+>> 15.85 | {s} | それを 感じるの…？
+   EN: You can sense that...?
+>> 15.86 | Mitsurugi | 魔は この世に破壊と殺りく / そして悲しみをもたらす！
+   EN: Ma brings destruction, slaughter and / sorrow to this world!
+>> 15.87 | Mitsurugi | 空気に… 怒りと悲しみ / そして憎しみが満ちているわ…！ / はっ…！
+   EN: The air... is filled with rage and sorrow, / and hatred...! Ah...!
+>> 15.88 | {s} | 美剣さん！ しっかりして！
+   EN: Mitsurugi-san! Hang in there!
+>> 15.89 | Mitsurugi | …いけない！ ダメよ 朱紗君！ / いけないわ…！！
+   EN: ...No! Don't, Shusha-kun! You / mustn't...!!
+>> 15.90 | {p} | 美剣さん！？ / まさか 朱紗君の身に…！？
+   EN: Mitsurugi-san!? Don't tell me / something's happening to / Shusha-kun...!?
+>> 15.91 | Shusha | ウォォォォォォォ…！！
+   EN: Wooooooooh...!!
+>> 15.92 | Yukishiro | きゃあ～！
+   EN: Kyaaa!
+>> 15.93 | Uryu | 変身だ！ ふはははは！ / 朱紗が 変身するぞ！
+   EN: He's transforming! Fuhahahaha! / Shusha is transforming!
+>> 15.94 | Yukishiro | す 朱紗君！
+   EN: Sh-Shusha-kun!
+>> 15.95 | Uryu | ふははは！ / 憎しみの巨人だ！ / 怒りと憎しみの / 巨人の出現だぞ～っ！
+   EN: Fuhahaha! The giant of hatred! Behold / the coming of the giant of rage and / hatred!
+>> 15.96 | Shusha | グォォォォォォ…！！
+   EN: Guooooooh...!!
+>> 15.97 | Mitsurugi | 遅かったわ…！ / 朱紗君の心に 怒りが満ちて / 理性のタガが外れた時 / 「魔」のエネルギーを 無限に / 呼び込んでしまい / 邪神・凄ノ王が / 誕生してしまうのよ！
+   EN: We're too late...! / When Shusha-kun's heart fills with / rage and he loses his grip on reason, / he draws in endless "Ma" energy, and / the evil god Susano-oh is born!
+>> 15.98 | Mitsurugi | 遅かったわ…！
+   EN: We're too late...!
+>> 15.99 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.00 | {p} | 瓜生！
+   EN: Uryu!
+>> 16.01 | Mitsurugi | なんてことを！
+   EN: What have you done!
+>> 16.02 | Uryu | あはははは…！！
+   EN: Ahahahaha...!!
+>> 16.03 | Uryu | 見ろ あの姿を！ / 朱紗の精神が / 「魔」を吸い取ったのだ！ / 朱紗の魂が 邪悪な精神エネルギー / 「魔」を吸収し続けている！ / 精神が巨大化したため / 肉体も巨大化している！
+   EN: Look at him! / Shusha's mind has absorbed "Ma"! / Shusha's soul keeps drinking in / "Ma," that evil psychic energy! His / mind has grown so huge that his body / has grown huge as well!
+>> 16.04 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 16.05 | Uryu | もはや アレは朱紗ではない！ / 伝説の邪神・荒ぶる神！ / 凄ノ王なのだ！！
+   EN: That is no longer Shusha! / It is the legendary evil god, the raging / god! It is Susano-oh!!
+>> 16.06 | Susano-oh | グワァッ！
+   EN: GWAAAH!
+>> 16.07 | {p} | マンションが…！
+   EN: The condo...!
+>> 16.08 | Uryu | 自分のまわりの重力を遮断して / 飛んでいる！ / なんという 凄まじい超能力だ！ / あはは…！ 魔王の誕生だ！ / 凄ノ王の降臨だ！
+   EN: He's cutting off the gravity around / himself to fly! What tremendous / psychic power! / Ahaha...! The birth of a demon king! / Susano-oh descends!
+>> 16.09 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.10 | {p} | 美剣さん！ どうしよう！
+   EN: Mitsurugi-san! What do we do!?
+>> 16.11 | Mitsurugi | 凄ノ王は / まだ完全な力を 得ていないわ！ / でも急がないと！ / 完全な邪神となってしまったら / 世界は破滅を迎えてしまう！
+   EN: Susano-oh hasn't gained his full / power yet! But we must hurry! / If he becomes a complete evil god, the / world will meet its end!
+>> 16.12 | Shinichi | 真理阿を探そう！ / 真理阿に予知してもらうんだ！ / 凄ノ王を止める手段を！
+   EN: Let's find Maria! / We'll have her foresee it! A way to / stop Susano-oh!
+>> 16.13 | {s} | でも…！ 未来が無ければ / 予知は出来ないわ！ / もしも 凄ノ王を / 止められなかったら…！？
+   EN: But...! If there's no future, she can't / foresee anything! What if Susano-oh / can't be stopped...!?
+>> 16.14 | {p} | 防げる…っていう未来を / 信じるしかないよ！
+   EN: We just have to believe in a future / where we stop him!
+>> 16.15 | {s} | そ そうね！ / 確かに そのとおりだわ！
+   EN: Y-yeah! You're absolutely right!
+>> 16.16 | Mitsurugi | あっ！ ちょっと待って…！？
+   EN: Ah! Wait a moment...!?
+>> 16.17 | Mitsurugi | マンションの周囲が / 透視 出来るようになったわ！ / …地下室がある？ / そして… 誰かいるわ！
+   EN: I can see through to the area around / the condo now! ...There's a / basement? And... someone's in there!
+>> 16.18 | {p} | よし！ / 地下室の入り口を探そう！
+   EN: All right! Let's find the way into the / basement!
+>> 16.19 | Mitsurugi | 私は ここに残るわ！ / なんとか 凄ノ王の成長を / 止めてみる！
+   EN: I'll stay here! / I'll try somehow to stop Susano-oh / from growing!
+>> 16.20 | Shinichi | 危険過ぎる！ / 自殺行為だ！
+   EN: That's way too dangerous! It's suicide!
+>> 16.21 | Mitsurugi | 生命を賭して 凄ノ王を止めるのが / 美剣一族の運命！
+   EN: It is the Mitsurugi clan's destiny to / risk our lives to stop Susano-oh!
+>> 16.22 | Mitsurugi | 私の力には 限界があるわ！ / 早く 真理阿を！
+   EN: My power has its limits! Find Maria, / quickly!
+>> 16.23 | {s} | 美剣さん…！
+   EN: Mitsurugi-san...!
+>> 16.24 | Shinichi | ここは 美剣に任せるしかない！ / 行くぞ！
+   EN: We've got no choice but to leave this / to Mitsurugi! Let's go!
+>> 16.25 | {p} | マンションが壊れている！！
+   EN: The condo's wrecked!!
+>> 16.26 | Mitsurugi | 今は 地下室をさがして！ / そこに 誰か いるはずよ！ / 私が 凄ノ王の成長を / 止めている間に… 急いで！
+   EN: Look for the basement now! Someone / must be in there! While I'm holding / back Susano-oh's growth... hurry!
+>> 16.27 | {p} | この人 どうしたんだろう…？
+   EN: What happened to this guy...?
+>> 16.28 | Shinichi | 真理阿は 自分に向けられた / 悪しき心を / 相手に跳ね返すことが出来るんだ
+   EN: Maria can throw evil intent aimed at / her back at whoever sent it.
+>> 16.29 | {p} | 悪しき心を 相手に跳ね返す…？ / 相手を殺しちゃうの？
+   EN: Throw evil intent back at them...? Does / it kill them?
+>> 16.30 | Shinichi | 真理阿は 決して他人を / 傷つけることはない / こいつの脳波や 脈拍は / 正常のはずだ / だが 真理阿が許しを与えるまで / 身動きひとつとれない
+   EN: Maria never hurts anyone. His brain / waves and pulse should be normal. / But he won't be able to move a muscle / until Maria forgives him.
+>> 16.31 | {s} | …どうして真理阿は / 捕まっちゃったのかしら？ / 真理阿を捕まえようなんて / 悪意そのものじゃない？
+   EN: ...So how did Maria get caught? Isn't / trying to capture Maria pure malice?
+>> 16.32 | Shinichi | …真理阿は預言者だ / 彼女の運命を大きく変えるような / ことでは ない限り / 真理阿が この力を発揮することは / ない…
+   EN: ...Maria is a prophet. / Unless it's something that would / drastically change her fate, Maria / doesn't use that power...
+>> 16.33 | {p} | それじゃ真理阿は運命を受け入れて / 捕まったことになるよ！？
+   EN: Then that means Maria accepted her / fate and let herself get caught!?
+>> 16.34 | Shinichi | ………
+   EN: .........
+>> 16.35 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.36 | Maria | 慎一！
+   EN: Shinichi!
+>> 16.37 | Genzo Kuruma | 無駄だ 慎一！
+   EN: It's no use, Shinichi!
+>> 16.38 | Shinichi | オヤジ！！
+   EN: Old man!!
+>> 16.39 | {p} | 卑怯だぞ！ / 来留間博士！
+   EN: That's dirty, Dr. Kuruma!
+>> 16.40 | Genzo Kuruma | 危険に備えるのが 卑怯なものか！ / この女のような優秀な警報装置は / 他にはないわい！
+   EN: How is preparing for danger dirty!? / There's no alarm system finer than / this woman!
+>> 16.41 | {p} | それじゃ / 真理阿の予知能力を使って…！？
+   EN: So you used Maria's power of / precognition to...!?
+>> 16.42 | Genzo Kuruma | 計画を 邪魔されたくは / なかったのでな！ / そのためには 未来を知る力が / 必要だったのだ！
+   EN: I didn't want my plans interfered with! / For that, I needed the power to know / the future!
+>> 16.43 | {s} | ひどい！ ひど過ぎるわ！
+   EN: That's horrible! How could you be so / cruel!
+>> 16.44 | Genzo Kuruma | 失敗作は おまえひとりで / じゅうぶんなのだ 慎一よ！
+   EN: One failure is quite enough, Shinichi, / and that's you!
+>> 16.45 | Shinichi | 許さん！
+   EN: I won't forgive you!
+>> 16.46 | Shinichi | 真理阿！ 真理阿！！
+   EN: Maria! Maria!!
+>> 16.47 | Maria | 慎一…
+   EN: Shinichi...
+>> 16.48 | Maria | あなたのことを知ってるわ / {p}君ね…？ / それからあなたは… / {s}さん…
+   EN: I know about you. You're / {p}-kun, right...? And / you are... {s}-san...
+>> 16.49 | Maria | 行きましょう 慎一 / 美剣さんひとりでは… / 凄ノ王を止められない！
+   EN: Let's go, Shinichi. Mitsurugi-san / alone... can't stop Susano-oh!
+>> 16.50 | Shinichi | 真理阿…
+   EN: Maria...
+>> 16.51 | {p} | 急ごう 慎一君！
+   EN: Let's hurry, Shinichi-kun!
+>> 16.52 | Genzo Kuruma | …俺の研究は / まだ終わっていない！ / こんなところで / 倒れるわけには いかんのだ！
+   EN: ...My research isn't finished yet! I / can't fall in a place like this!
+>> 16.53 | Maria | あれが… 凄ノ王！
+   EN: That's... Susano-oh!
+>> 16.54 | {p} | 美剣さんは…！？
+   EN: Where's Mitsurugi-san...!?
+>> 16.55 | Maria | 慎一 あたしを… / 美剣さんのところまで…
+   EN: Shinichi, take me... to Mitsurugi-san...
+>> 16.56 | Shinichi | わかった
+   EN: Got it.
+>> 16.57 | Maria | 美剣さん…
+   EN: Mitsurugi-san...
+>> 16.58 | Mitsurugi | あ あなたが… 予知一族最大の / 預言者・真理阿…さん？
+   EN: Y-you're... the Precog Clan's greatest / prophet... Maria-san?
+>> 16.59 | {p} | 美剣さん！
+   EN: Mitsurugi-san!
+>> 16.60 | Mitsurugi | だ 大丈夫よ {p}君… / ちょっと疲れただけ… / それよりも！ 真理阿さん… / 教えて…  / 凄ノ王を止める方法を…！
+   EN: I-I'm fine, {p}-kun... Just / a little tired... More importantly! / Maria-san... tell me... how to stop / Susano-oh...!
+>> 16.61 | Shinichi | どうした 真理阿…？
+   EN: What's wrong, Maria...?
+>> 16.62 | Maria | なんでもないの 慎一 / 美剣さん よく聞いて… / 凄ノ王を止めるためには…
+   EN: It's nothing, Shinichi. / Mitsurugi-san, listen closely... To stop / Susano-oh...
+>> 16.63 | Maria | きゃ～～～！！
+   EN: KYAAAAA!!
+>> 16.64 | Shinichi | 真理阿～～！？
+   EN: MARIAAA!?
+>> 16.65 | {p} | 誰だ～！？
+   EN: Who's theeere!?
+>> 16.66 | Uryu | ここまできて / 邪魔されてたまるか！
+   EN: I've come this far, I won't let you get in / my way now!
+>> 16.67 | {p} | 瓜生！
+   EN: Uryu!
+>> 16.68 | {s} | あなたって… 最低！
+   EN: You are... the lowest of the low!
+>> 16.69 | Shinichi | きさま 許せん！
+   EN: You bastard, I won't forgive you!
+>> 16.70 | {p} | 僕もだ！ 僕は これまで / こんなに人を憎んだことはない！ / 瓜生麗！ / 僕は おまえを許せない！
+   EN: Me neither! I've never hated anyone / this much! Rei Uryu! I'll never / forgive you!
+>> 16.71 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.72 | Uryu | あはははは…！ / いいぞ いいぞぉ！ / おまえの怒りが / 凄ノ王に力を与えている！
+   EN: Ahahahaha...! Good, goood! Your rage / is giving Susano-oh power!
+>> 16.73 | Mitsurugi | 怒りに我を忘れてはだめ！
+   EN: Don't lose yourself to rage!
+>> 16.74 | Shinichi | 心配するなよ 俺は冷静だ… / 真理阿を傷つけたヤツにどうやって / 復讐しようかってな！！
+   EN: Don't worry, I'm calm... / Calmly working out how to get revenge / on the guy who hurt Maria!!
+>> 16.75 | Uryu | うっ…？
+   EN: Ngh...?
+>> 16.76 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.77 | Uryu | …何をするつもりだ！
+   EN: ...What are you going to do!?
+>> 16.78 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.79 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.80 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.81 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.82 | Uryu | あっはははは！ / 真理阿 残念だったな！ / 凄ノ王は 悪しき心の源泉だ！ / 「魔」の塊だ！ / いかにおまえでも 沸き続ける / 悪意には 太刀打ち出来ない！
+   EN: Ahahahaha! Too bad, Maria! Susano-oh / is the wellspring of all malice! A mass / of "Ma"! Not even you can stand / against malice that never stops / welling up!
+>> 16.83 | Maria | 違うわ…
+   EN: You're wrong...
+>> 16.84 | Uryu | …！？
+   EN: ...!?
+>> 16.85 | Maria | あたしが 狙ったのは 「魔」の中に / 閉じ込められた者の心！ / 理性を失い 「魔」に取り憑かれた / 者の心を 目覚めさせたの…！
+   EN: What I aimed at was the heart of the / one trapped inside the "Ma"! I / awakened the heart of the one who / lost his reason and was possessed / by "Ma"...!
+>> 16.86 | Uryu | すると 貴様 朱紗の心を…！？
+   EN: Then you've reached Shusha's / heart...!?
+>> 16.87 | Maria | 後は / 彼を包む「魔」を剥がすだけ…
+   EN: All that's left is to peel away the "Ma" / that wraps around him...
+>> 16.88 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.89 | {p} | 凄ノ王が… 泣いている！？
+   EN: Susano-oh is... crying!?
+>> 16.90 | {s} | なんて哀しい叫び声…
+   EN: What a sorrowful cry...
+>> 16.91 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.92 | Maria | 今は まだ / 「魔」の勢いのほうが強い… / 早く… / 急がなければ…！
+   EN: Right now, the "Ma" is still stronger... / Quickly... we must hurry...!
+>> 16.93 | Shinichi | 真理阿！
+   EN: Maria!
+>> 16.94 | {p} | 大丈夫…？
+   EN: Are you okay...?
+>> 16.95 | {s} | 死んじゃったりしないよね…！？
+   EN: You're not going to die, are you...!?
+>> 16.96 | Uryu | 真理阿に向けた 俺の悪意が / 凄ノ王の身体を 突き抜け / 朱紗を 目覚めさせる力と / なったわけか…？
+   EN: So the malice I aimed at Maria went / right through Susano-oh's body and / became the power that awakened / Shusha...?
+>> 16.97 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 16.98 | Uryu | 朱紗が 俺を見ている！？ / …いや！ / まだ ヤツは 凄ノ王だ！
+   EN: Shusha is looking at me!? / ...No! He's still Susano-oh!
+>> 16.99 | Uryu | 俺の計画を 邪魔する者は / 皆殺しだ！ / 貴様らの死が 凄ノ王を / より強くするだろう…！
+   EN: Anyone who gets in the way of my plan / dies! Your deaths will make / Susano-oh even stronger...!
+>> 17.00 | {p} | 瓜生！
+   EN: Uryu!
+>> 17.01 | {p} | …雪代さん！
+   EN: ...Yukishiro-san!
+>> 17.02 | Maria | 慎一…
+   EN: Shinichi...
+>> 17.03 | Shinichi | 真理阿！
+   EN: Maria!
+>> 17.04 | Maria | 美剣さん… 朱紗君は 自分の意志を / 取り戻しつつあるわ / でも 身体を「魔」に覆われて / 身動きとれないの…
+   EN: Mitsurugi-san... Shusha-kun is / regaining his own will. But his body is / covered in "Ma," and he can't move...
+>> 17.05 | Mitsurugi | どうすればいいの！？
+   EN: What should we do!?
+>> 17.06 | Maria | 怒りと 憎しみを鎮めるには / それを相殺する心を…！ / 怒りや 憎しみよりも 強い気持ちを / 勇気を 彼に与えるの！
+   EN: To calm rage and hatred, you need a / heart that cancels them out...! Give / him a feeling stronger than rage or / hatred: courage!
+>> 17.07 | Mitsurugi | どうやって…！？
+   EN: How...!?
+>> 17.08 | Maria | 雪代さん… あなたの 朱紗君を / 想う気持ち… / それを 凄ノ王にぶつけるのよ… / そうすることで「魔」が剥がれ / 凄ノ王は 消滅する…
+   EN: Yukishiro-san... your feelings for / Shusha-kun... Hurl them at / Susano-oh... / That will peel away the "Ma," and / Susano-oh will vanish...
+>> 17.09 | Yukishiro | そんな… あたし 普通の女の子よ / 超能力なんてないわ！
+   EN: But... I'm just a normal girl! I don't have / any psychic powers!
+>> 17.10 | Maria | あなたは 朱紗君のことを / 想うだけでいいの…
+   EN: All you have to do is think of / Shusha-kun...
+>> 17.11 | Yukishiro | でも…
+   EN: But...
+>> 17.12 | Susano-oh | グオオオオオォ～！！
+   EN: GUOOOOOOOH!!
+>> 17.13 | Maria | 凄ノ王は 次々に「魔」を / 吸収している… / それを妨げるのは… / 慎一 あなたの役目よ…
+   EN: Susano-oh keeps absorbing more and / more "Ma"... Stopping that... is your / role, Shinichi...
+>> 17.14 | Shinichi | 俺の役目…？
+   EN: My role...?
+>> 17.15 | Maria | あなたと 私の 役目なの… / それが… 未来なの
+   EN: Your role and mine... That is... the / future.
+>> 17.16 | Maria | 慎一 あなたには / 無限の吸収力がある / 私は / あなたと ひとつになるの… / 慎一 私… 死ぬわ…
+   EN: Shinichi, you have a limitless power to / absorb. I will become one with you... / Shinichi, I... am going to die...
+>> 17.17 | Shinichi | なんだと！？ / おまえが 死ぬわけがねぇ！
+   EN: What!? There's no way you're / gonna die!
+>> 17.18 | Maria | これは… 止められないこと… / 私の見た… 未来…！
+   EN: This... cannot be stopped... It's the / future... I saw...!
+>> 17.19 | Shinichi | …真理阿？ / 真理阿！！
+   EN: ...Maria? / Maria!!
+>> 17.20 | Shinichi | 真理阿～～！！
+   EN: MARIAAA!!
+>> 17.21 | Maria | 慎一！ / 私と あなたは… ひとつよ！ / 私は あなたのもの…
+   EN: Shinichi! You and I... are one! I am / yours...
+>> 17.22 | Shinichi | 真理阿…
+   EN: Maria...
+>> 17.23 | Shinichi | 真理阿～～！！
+   EN: MARIAAA!!
+>> 17.24 | Susano-oh | ググググググ…？
+   EN: Grrrrrrr...?
+>> 17.25 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 17.26 | Mitsurugi | …！！ 凄ノ王の身体から / 「魔」が 剥がれたわ！
+   EN: ...!! The "Ma" is peeling off / Susano-oh's body!
+>> 17.27 | Susano-oh | ギャオオオオォ～！！
+   EN: GYAOOOOOH!!
+>> 17.28 | Yukishiro | やっぱりダメよ！ / 朱紗君を元に戻すなんて無理よ！
+   EN: It's no use after all! There's no way I / can turn Shusha-kun back!
+>> 17.29 | Mitsurugi | いいえ あなたしかいないの！
+   EN: No, you're the only one who can!
+>> 17.30 | Uryu | あはははははは…！
+   EN: Ahahahahaha...!
+>> 17.31 | {p} | 瓜生！
+   EN: Uryu!
+>> 17.32 | Uryu | 超能力者でもない雪代が / どうやって「魔」を剥がすんだ？
+   EN: How is Yukishiro, who isn't even a / psychic, supposed to peel off / the "Ma"?
+>> 17.33 | {p} | 黙れ 瓜生！
+   EN: Shut up, Uryu!
+>> 17.34 | Uryu | 超能力の怪物！ / 魔神・凄ノ王が…！ / 全世界を滅ぼすさまを / 見せてもらうぜ！
+   EN: The psychic monster! The demon god / Susano-oh...! I'll get to watch him / destroy the whole world!
+>> 17.35 | Uryu | 雪代…！？
+   EN: Yukishiro...!?
+>> 17.36 | Yukishiro | 朱紗君をあのままにしておくことは / 出来ないわ！ / それに… それにあたしが…！ / あたしが 朱紗君を / 凄ノ王にしてしまう / 要因だったのだから！
+   EN: I can't leave Shusha-kun like that! / Besides... besides, it was me...! I was / the reason Shusha-kun turned into / Susano-oh!
+>> 17.37 | Uryu | 雪代…
+   EN: Yukishiro...
+>> 17.38 | {p} | いいぞ 雪代さん！
+   EN: Way to go, Yukishiro-san!
+>> 17.39 | {s} | やっちゃえ そんなヤツ！
+   EN: Let that creep have it!
+>> 17.40 | Yukishiro | あなたには / 心というものが無いの！？ / 朱紗君の あの恐ろしい姿を見て / 心が痛まないの！？
+   EN: Don't you have a heart!? Doesn't it / hurt you to see Shusha-kun in that / terrible form!?
+>> 17.41 | Yukishiro | あの悪魔の姿は / 断じて朱紗君ではないわ！ / あなたよ！ 瓜生君！ / あの悪魔の姿は あなたの姿よ！
+   EN: That demon's form is absolutely not / Shusha-kun! It's you, Uryu-kun! That / demon's form is YOUR form!
+>> 17.42 | Yukishiro | 美剣さん…！ お願いします！
+   EN: Mitsurugi-san...! Please!
+>> 17.43 | Susano-oh | グ…ググ…グ… / ユ…ギ…ジ…ロ… / ググ…！
+   EN: Grr... grrr... grr... Yu... ki... shi... ro... / Grrr...!
+>> 17.44 | {p} | …！？
+   EN: ...!?
+>> 17.45 | {s} | いま ユ・キ・シ・ロって / 言わなかった？
+   EN: Didn't he just say "Yu-ki-shi-ro"?
+>> 17.46 | Susano-oh | グ…ググ…グ… / ユ…ギ…ジ…ロ… / ググ…！
+   EN: Grr... grrr... grr... Yu... ki... shi... ro... / Grrr...!
+>> 17.47 | {s} | やっぱり 言ってるわよ！
+   EN: He IS saying it!
+>> 17.48 | Shinichi | 真理阿が目覚めさせた / 朱紗の意志が 活動を始めている！ / 朱紗が 必死に 魔を / 剥がそうとしているんだ！
+   EN: Shusha's will, awakened by Maria, is / stirring! He's desperately trying to / peel off the Ma!
+>> 17.49 | {p} | ホントに！？
+   EN: Really!?
+>> 17.50 | Shinichi | 真理阿が そう 教えてくれるんだ…
+   EN: Maria's telling me so...
+>> 17.51 | {p} | 真理阿さんが…
+   EN: Maria-san is...
+>> 17.52 | Uryu | 凄ノ王は 無限のエネルギーを持つ / 闇のようなもの / 光が強くなれば 闇は消滅する / 「魔」が剥がれることで / 闇が 徐々に弱まっている…！
+   EN: Susano-oh is like a darkness with / limitless energy. When the light grows / strong, the darkness vanishes. / As the "Ma" peels away, the darkness / is gradually weakening...!
+>> 17.53 | Shinichi | 朱紗の意志が 力を持ち始め / 「魔」を剥がし始めているのか
+   EN: So Shusha's will is gaining strength / and starting to peel off the "Ma."
+>> 17.54 | Uryu | 凄ノ王から 完全に「魔」を / 祓うことが出来れば / 朱紗を 元の姿に / 戻せるかもしれない！
+   EN: If we can completely purge the "Ma" / from Susano-oh, we might be able to / bring Shusha back to his true form!
+>> 17.55 | {p} | 瓜生…！？
+   EN: Uryu...!?
+>> 17.56 | Uryu | 凄ノ王… ヤツは / 世界を 滅ぼすどころか 地球をも / 破壊しかねない化け物だ / そうなってしまったら / 新しい世界を創るという / 俺の夢が 実現出来なくなって / しまうからな！
+   EN: Susano-oh... that thing / is a monster that could not only / destroy the world, but wreck the / whole Earth. If that happened, my / dream of creating a new world could / never come true!
+>> 17.57 | Shinichi | 瓜生！ 俺は おまえを / 許したわけじゃない
+   EN: Uryu! Don't think I've forgiven you.
+>> 17.58 | Uryu | わかっている… / そんなことを望んじゃいない…
+   EN: I know... I'm not asking you to...
+>> 17.59 | Shinichi | だが真理阿が 瓜生麗と共に戦え！ / と 告げるんだ
+   EN: But Maria's telling me to fight / alongside Rei Uryu.
+>> 17.60 | {p} | 慎一君！ 瓜生さん！
+   EN: Shinichi-kun! Uryu-san!
+>> 17.61 | Uryu | 雪代と美剣が送るテレパシーに / 凄ノ王が反応した時がチャンスだ
+   EN: Our chance comes when Susano-oh / reacts to the telepathy Yukishiro / and Mitsurugi are sending.
+>> 17.62 | Shinichi | その時こそ 朱紗の意識が 必死に / 「魔」を剥がそうとしている時！
+   EN: That's exactly when Shusha's mind / is desperately trying to peel off / the "Ma"!
+>> 17.63 | {p} | タイミングを見て 凄ノ王から / 「魔」を剥がすんだね！
+   EN: So we time it right and peel the "Ma" / off Susano-oh!
+>> 17.64 | Yukishiro | 朱紗君！
+   EN: Shusha-kun!
+>> 17.65 | {p} | 朱紗君の あの姿は…？
+   EN: What is that form Shusha-kun's / taken...?
+>> 17.66 | Mitsurugi | あれこそ スサノオウノミコトよ！
+   EN: That is Susanoo-no-Mikoto!
+>> 17.67 | {s} | スサノオウノミコト…？
+   EN: Susanoo-no-Mikoto...?
+>> 17.68 | Mitsurugi | 「魔」の負のエネルギーに対する / 正のエネルギー！ / 宇宙の光のエネルギーを / 無限に取り入れられる… / そんな心の状態になった時 / 「魔」を祓う超人・英雄王真神が / 現れるの！
+   EN: The positive energy that opposes the / negative energy of "Ma"! When the / heart reaches a state where it can / draw in the universe's energy of / light without limit, / the superhuman who purges "Ma" / appears: the hero king, the true god!
+>> 17.69 | Uryu | 雪代の呼びかけが / 朱紗に光を与えたわけか…
+   EN: So Yukishiro's call gave Shusha light...
+>> 17.70 | Shinichi | 俺にとって / 真理阿が 光となったように…
+   EN: Just like Maria became my light...
+>> 17.71 | {p} | 朱紗君にとって / 雪代さんが光になったわけだね！
+   EN: Yukishiro-san became Shusha-kun's / light!
+>> 17.72 | Paramedic | どけどけぇ～ / ケガ人のお通りだぁ～！
+   EN: Outta the way, outta the way! Wounded / coming through!
+>> 17.73 | Paramedic | 包帯が足りないので / 手配してくれ！
+   EN: We're short on bandages, get some / sent over!
+>> 17.74 | Paramedic | 大丈夫 傷は浅いぞ / がっくりしろ！ / …いや しっかりしろ！
+   EN: Don't worry, it's only a flesh wound. / Give up! ...Er, I mean, hang in there!
+>> 17.75 | Paramedic | …まったく！ どうすればこんなに / 破壊されるのやら…
+   EN: ...Honestly! How does anything get this / wrecked...
+>> 17.76 | Injured Person | 痛いよぉ 痛いよぉ…
+   EN: It hurts, it hurts...
+>> 17.77 | Injured Person | 私の器材は無事か？ / 研究資料は？ 報告書は？
+   EN: Is my equipment safe? My research / data? My reports?
+>> 17.78 | Injured Person | く 苦しい…
+   EN: I-it hurts...
+>> 17.79 | Worker | これが「魔」の残骸かぁ… / 死んでるとはいえ / 気持ち悪い感触…
+   EN: So these are the remains of the / "Ma"... / It's dead, but it sure feels gross...
+>> 17.80 | Worker | 悪感情が 具体化したのが / 「魔」だとしたら / 誰でも 心の中に こんなのが / いるのかな？
+   EN: If "Ma" is bad feelings made solid, / does everyone have something like / this inside their hearts?
+>> 17.81 | Worker | 生き返ったら イヤだな… / うわ～ 想像しちゃったら / 頭から離れない～！
+   EN: I'd hate it if it came back to life... / Agh, now I've pictured it, I can't get it / out of my head!
+>> 17.82 | Worker | 「魔」の正体って なんだんだ…？
+   EN: What is "Ma," really...?
+>> 17.83 | Worker | 怒りとか 憎しみとかの / 精神エネルギーだそうだ
+   EN: They say it's psychic energy, like rage / and hatred.
+>> 17.84 | {s} | あたし達… これから… / どうなっちゃうんだろう…
+   EN: What's... going to happen to us now...
+>> 17.85 | {p} | 大丈夫！ きっと いつか必ず / 元の世界に戻れるさ！
+   EN: It'll be okay! Someday, for sure, we'll / get back to our own world!
+>> 17.86 | {s} | 熱を出して / 倒れてしまった時ね… / 誰かに / 襲われたような気がするの…
+   EN: When I came down with that fever and / collapsed... I feel like someone / attacked me...
+>> 17.87 | {p} | …！？
+   EN: ...!?
+>> 17.88 | {s} | そいつに いつも / 見られているような気がするの…
+   EN: I feel like they're always watching me...
+>> 17.89 | {p} | そんな！
+   EN: No way!
+>> 17.90 | {s} | もう 心配性なんだから！
+   EN: Oh, you worry too much!
+>> 17.91 | {p} | あっ やっと笑った！
+   EN: Ah, you finally smiled!
+>> 17.92 | {s} | だって…！
+   EN: Well...!
+>> 17.93 | {s} | この世界に ふたりきり… / それが{p}で良かったわ / 黒い月が現れて どこかに / 連れて行かれそうな気がして / ひとりじゃ / 恐くてたまらないもん…
+   EN: The two of us alone in this world... I'm / glad it's you, {p}. When / the black moon comes out, I feel like / I'm going to get carried off / somewhere, and alone I'd be so scared / I couldn't stand it...
+>> 17.94 | {p} | 大丈夫！ / 朱紗君が 元の姿に戻ったように / 僕らだって / 必ず元の世界に帰れるよ！
+   EN: It'll be okay! Just like Shusha-kun got / back to his true form, we'll get back / to our own world for sure!
+>> 17.95 | {s} | …そうね 帰れるわよね
+   EN: ...Yeah. We'll get back, won't we?
+>> 17.96 | {p} | 月だって あんなにキレイだし…
+   EN: And look how pretty the moon is...
+>> 17.97 | {s} | ハニー達 / あれから どうしてるかしら…
+   EN: I wonder how Honey and the others are / doing...
+>> 17.98 | {p} | 今頃 無事に この月を見てるよ…
+   EN: I bet they're safe and looking at this / moon right now...
+>> 17.99 | {s} | そうだといいわね…
+   EN: I hope so...

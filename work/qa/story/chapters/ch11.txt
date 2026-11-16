@@ -1,0 +1,802 @@
+# ch11: Dr. Pochi and Iron Kaiser, Mao Dante, Sister Jill's end, Slum King and Queen (archive files f33-f36, story order)
+
+>> 33.00 | Old Man | こらっ！ キッカイ！
+   EN: Hey! Kikkai!
+>> 33.01 | Kikkai | おじいちゃん！
+   EN: Grandpa!
+>> 33.02 | Old Man | たとえ社会では 弱い者を こっそり / 苛めるのが常識であっても / 我が家にあっては / そうではいかん！
+   EN: Even if society thinks it's normal to / pick on the weak on the sly, in this / house that won't fly!
+>> 33.03 | Kikkai | ふ～んだ！ / なまいきなこというと こうだ！
+   EN: Hmph! Talk back to me and this is what / you get!
+>> 33.04 | Old Man | ひゃ～！
+   EN: Hyaaa!
+>> 33.05 | Kikkai | ひひひ…！ / 自動お部屋掃除装置さ！
+   EN: Hee hee hee...! The automatic / room-cleaning device!
+>> 33.06 | Old Man | 年寄りを ゴミ扱いしおって！ / こりゃ！ 家にいれんか！！
+   EN: Treating your elders like garbage! Hey! / Let me back in the house!!
+>> 33.07 | Kikkai | 悔しかったら ここまで来てみな！
+   EN: If you're so mad, come get me!
+>> 33.08 | Old Man | なに～！
+   EN: Whaaat!
+>> 33.09 | {p} | …………
+   EN: ............
+>> 33.10 | Old Man | いや～ おはずかしいところを / お見せしました
+   EN: Well, well, how embarrassing that you / saw all that.
+>> 33.11 | Fuyukai | わしは 摩訶フユカイ / さっきのは / 孫の 摩訶キッカイじゃ！
+   EN: I'm Fuyukai Maka. / That was my grandson, Kikkai Maka!
+>> 33.12 | {p} | 僕 {p}です
+   EN: I'm {p}.
+>> 33.13 | Fuyukai | それにしても / 外の様子が変じゃの？ / なんじゃか 騒々しいし / 景色も変ってるようじゃ…
+   EN: Anyhow, things look odd outside, eh? / It's awful noisy, and the scenery / seems to have changed...
+>> 33.14 | {p} | 科学都市では 今…
+   EN: In Science City right now...
+>> 33.15 | Fuyukai | 科学都市！？ / ふん！ わしは 科学とか機械が / 大ッ嫌いなんじゃ！
+   EN: Science City!? / Hmph! I can't stand science or / machines!
+>> 33.16 | Kikkai | ポチよけの地雷に / 引っかかりやがった！
+   EN: He fell for the land mine I set for / Pochi!
+>> 33.17 | Fuyukai | ………
+   EN: .........
+>> 33.18 | ??? | なんでか知らないけど / あちこち機械と武器だらけ！ / わがはいの研究も / はかどるというものじゃ！
+   EN: No idea why, but there's machines and / weapons all over the place! My / research is going swimmingly!
+>> 33.19 | {p} | 科学都市の 壊れた機械を / 拾ってる…
+   EN: He's picking up broken machines from / Science City...
+>> 33.20 | ??? | アルフォンヌ！
+   EN: Alphonne!
+>> 33.21 | Alphonne | …………
+   EN: ............
+>> 33.22 | ??? | フルネームで呼ばないと / 返事もしやがらねー / アルフォンヌ・ルイ・ / シュタインベック三世！
+   EN: He won't even answer unless I use his / full name... Alphonne Louis Steinbeck / the Third!
+>> 33.23 | Alphonne | なんだあー ポチ？
+   EN: Whaaat, Pochi?
+>> 33.24 | Doctor Pochi | あ～ またポチって / 呼び捨てにした～！ / セッカン セッカン！
+   EN: Aaah, you called me plain Pochi again! / Punishment! Punishment!
+>> 33.25 | Alphonne | だって ポチって名だ
+   EN: But your name IS Pochi.
+>> 33.26 | Doctor Pochi | ドクターをつけろって / いつも言ってるだろ～！ / 家来のクセに わがはいより / 偉そうな名前つけやがって！
+   EN: I keep telling you to put "Doctor" in / front! You're just my servant, and / you've got a fancier name than me!
+>> 33.27 | Alphonne | 俺のほうが 偉いのだ
+   EN: 'Cause I'm the bigger shot.
+>> 33.28 | Doctor Pochi | セッカン セッカン！
+   EN: Punishment! Punishment!
+>> 33.29 | {p} | 変な人達…
+   EN: What weird people...
+>> 33.30 | Doctor Pochi | 使えそうな部品を集めるのだ！ / そして強力な武器をつくって / 摩訶一家をぶっ飛ばすのだ！
+   EN: Gather up any parts we can use! / Then we'll build a mighty weapon and / blast the Maka family sky-high!
+>> 33.31 | Alphonne | ぶっ飛ばすのだ！
+   EN: Blast 'em sky-high!
+>> 33.32 | {p} | 相手にしないほうが良さそうだな…
+   EN: Better not get involved with them...
+>> 33.33 | Doctor Pochi | 使えそうな部品を 集めるのだ！
+   EN: Gather up any parts we can use!
+>> 33.34 | Alphonne | 摩訶一家を ぶっ飛ばすのだ！
+   EN: Blast the Maka family sky-high!
+>> 33.35 | Doctor Pochi | すすめ～ あっちゃ～！ / ドテチテタ～！
+   EN: Forward, that way! Rat-a-tat-taaat!
+>> 33.36 | Doctor Pochi | ばっぎゃろめ～ すすめぇ！が / わからんかぁ～？ / セッカン セッカン！
+   EN: You dummy, don't you know what / "forward" means!? Punishment! / Punishment!
+>> 33.37 | {p} | またやってる…
+   EN: There they go again...
+>> 33.38 | Doctor Pochi | アルフォンヌ！ さっさと運べ！
+   EN: Alphonne! Haul it, quick!
+>> 33.39 | Doctor Pochi | ばっぎゃろう！ / わがはいを運ぶのではない～！ / セッカン セッカン！ / アルフォンヌ アレを運ぶのだ！
+   EN: You dummy! Don't haul ME! Punishment! / Punishment! Alphonne, haul THAT!
+>> 33.40 | Alphonne | …………
+   EN: ............
+>> 33.41 | Doctor Pochi | アルフォンヌ・ルイ・ / シュタインベック三世！ / アレを運ぶのだ！
+   EN: Alphonne Louis Steinbeck the Third! / Haul THAT!
+>> 33.42 | {p} | …！？
+   EN: ...!?
+>> 33.43 | Fuyukai | キッカイ 大変じゃ！
+   EN: Kikkai, this is terrible!
+>> 33.44 | Kikkai | なんだよ おじいちゃん… / ひゃっ！
+   EN: What is it, Grandpa... Hyah!
+>> 33.45 | Doctor Pochi | 発射～！
+   EN: FIIIRE!
+>> 33.46 | Doctor Pochi | 失敗じゃ… / こんな武器 強力過ぎて / 人間には使えんわい…
+   EN: A failure... / This weapon's too powerful for a / human to use...
+>> 33.47 | Kikkai | やった～！
+   EN: Yaaay!
+>> 33.48 | {p} | あのふたり 大丈夫かなぁ…？
+   EN: Are those two going to be okay...?
+>> 33.49 | Kikkai | へ～き へ～き！ / いつものことだからさ！ / …あれ？ / おじいちゃん ど～したの？
+   EN: They're fine, they're fine! Happens all / the time! ...Huh? Grandpa, what's / wrong?
+>> 33.50 | Fuyukai | まわりを見てみい / 景色が変っとる…
+   EN: Look around ya. The scenery's / changed...
+>> 33.51 | Kikkai | あ～ ホントだ！？
+   EN: Whoa, you're right!?
+>> 33.52 | Kikkai | て～へんだ～！ いったい / 何が起こったんだろ！？ / そ～いえば あんたら 誰？
+   EN: Big trouble! What the heck / happened!? Come to think of it, who / are you guys?
+>> 33.53 | {p} | ぼ 僕？ / え～と 実は…
+   EN: M-me? Well, um, actually...
+>> 33.54 | Kikkai | え～ 別々の次元の いろんな / 世界が つながったぁ～！？
+   EN: Whaaat, all kinds of worlds from / different dimensions got / connected!?
+>> 33.55 | {p} | 常識では考えられないことが / 起こっているんだよ
+   EN: Things are happening that common / sense says can't happen.
+>> 33.56 | Fuyukai | 常識なんてヤツは / くつがえされるもんじゃよ
+   EN: Common sense is the sort of thing / that gets turned on its head, sonny.
+>> 33.57 | Kikkai | おじいちゃん いいこと言うぜ！ / よし 決めた！ / {p}の仲間になる！ / だって面白そうだもん イヒヒ…！
+   EN: Grandpa, that's a good one! All right, / I've decided! I'm joining / {p}'s party! 'Cause it / sounds like fun, hee hee...!
+>> 33.58 | Fuyukai | わしも いくぞ～！
+   EN: I'm comin' too!
+>> 33.59 | {p} | こんなところに / 置きっぱなしにして… / あぶないなぁ
+   EN: Leaving this lying around in a place / like this... how dangerous.
+>> 33.60 | Doctor Pochi | 腹減った… / アルフォンヌ 食べ物を / 手に入れる アイデアは出んか？
+   EN: I'm starving... / Alphonne, can't you come up with an / idea to get food?
+>> 33.61 | Alphonne | むむ～
+   EN: Mmmmm...
+>> 33.62 | Doctor Pochi | 出た？
+   EN: Got one?
+>> 33.63 | Alphonne | 出そうな感じ！ / あっ 出る 出る！
+   EN: Feels like it's comin'! Oh, it's comin', it's / comin'!
+>> 33.64 | Doctor Pochi | わ～い 良かった！
+   EN: Yaaay, great!
+>> 33.65 | Alphonne | ……………
+   EN: ...............
+>> 33.66 | Alphonne | やっと出たっ！
+   EN: Finally, it came out!
+>> 33.67 | Doctor Pochi | セッカン セッカン！
+   EN: Punishment! Punishment!
+>> 33.68 | Doctor Pochi | おぉっ！ 食べ物！！ / わがはい / あなたの家来になります！
+   EN: Ooh! Food!! / I'll be your servant!
+>> 33.69 | Alphonne | 一生 ついてく！
+   EN: I'll follow you for life!
+>> 33.70 | Doctor Pochi | 腹減った…
+   EN: I'm starving...
+>> 33.71 | Alphonne | 腹減った～
+   EN: Starviiing...
+>> 33.72 | {p} | これ… ロボットかな…？ / それともサイボーグ？ / なんか 全身 武器のカタマリ… / って感じだ
+   EN: Is this... a robot...? Or a cyborg? It's / like a walking pile of weapons...
+>> 33.73 | Iron Kaiser | 俺はアイアンカイザー！ / 最強のサイボーグ戦士！ / 手術は終わったようだな…
+   EN: I am Iron Kaiser! The ultimate cyborg / warrior! It seems the operation is / complete...
+>> 33.74 | Iron Kaiser | むっ！ 貴様は 手天童子！
+   EN: Hmm! You! The Shutendoji!
+>> 33.75 | Jiro | 俺のことを知っているのか？
+   EN: You know me?
+>> 33.76 | Iron Kaiser | 俺には父がいた… / 誰にも負けたことのない / 強い男だった / しかし ある男の剣が… / 父の身体を両断した！
+   EN: I had a father... / A strong man who had never lost to / anyone. But one man's sword... cut / my father's body in two!
+>> 33.77 | Jiro | ！？
+   EN: !?
+>> 33.78 | Iron Kaiser | その場所は / 暗黒寺・牙の草原！ / 我が父の名は / 争魔衆・邪腕坊苦海！！
+   EN: The place was the Fang Meadow at the / Dark Temple! My father's name was / Kukai Jawanbo of the Somashu!!
+>> 33.79 | Jiro | 邪腕坊の息子！？
+   EN: Jawanbo's son!?
+>> 33.80 | {p} | うわ～！
+   EN: Whoaaa!
+>> 33.81 | Iron Kaiser | おまえを倒すため 俺は身体に / マシンを取り入れた！ / より強くなるために手術を重ね / 俺は今や 最強のサイボーグ！ / 手天童子！ 父・邪腕坊の遺志を / 継ぎ おまえを倒す！
+   EN: To defeat you, I took machines into my / body! I underwent operation after / operation to grow stronger, and now I / am the ultimate cyborg! Shutendoji! I / carry on the will of my father / Jawanbo, and I will defeat you!
+>> 33.82 | {p} | ちょっと！ / ちょっとまってよ！
+   EN: Hey! Hold on a second!
+>> 33.83 | Iron Kaiser | おや？ 貴様 手天童子郎と / 一緒にいた少年だな？
+   EN: Oh? You're the boy who was with Jiro / Shutendo, aren't you?
+>> 33.84 | Jiro | 今は おまえと / 戦っている場合では ないんだ
+   EN: This is no time for me to be / fighting you.
+>> 33.85 | {p} | そう 聞いて アイアンカイザー / 今 世界は / 大変な状態になってるんだ…
+   EN: That's right. Listen, Iron Kaiser. / Right now, the world is in serious / trouble...
+>> 33.86 | {p} | 身体を改造したの？
+   EN: You modified your body?
+>> 33.87 | Iron Kaiser | 父・邪腕坊苦海の仇 / 手天童子を倒すためだ！
+   EN: To defeat the Shutendoji, who killed / my father, Kukai Jawanbo!
+>> 33.88 | {p} | う… うん
+   EN: Y-yeah...
+>> 33.89 | Iron Kaiser | 正体を明かした / おまえの勇気が気に入った！ / おまえも / 手天童子を護る一族の者か？
+   EN: I like the courage you showed / revealing who you are! Are you also / of a clan that protects the / Shutendoji?
+>> 33.90 | {p} | 僕は…
+   EN: I'm...
+>> 33.91 | Iron Kaiser | 世界が連結され / 異変が生じている！？ / なるほど… / それで合点がいったわ！
+   EN: The worlds have been linked and / strange things are happening!? I / see... Now it all makes sense!
+>> 33.92 | {p} | …？
+   EN: ...?
+>> 33.93 | Iron Kaiser | あの強い父が 手天童子などに / 敗れるわけがないのだ！ / 父が破れたのは 世界が / 連結されてしまったためだ！ / 正しい世界であれば 邪腕坊苦海が / 手天童子に負けるものか！
+   EN: There's no way my strong father / could lose to the likes of the / Shutendoji! Father lost because the / worlds were linked! In a proper world, / Kukai Jawanbo would never lose to the / Shutendoji!
+>> 33.94 | Iron Kaiser | 邪腕坊苦海が / 手天童子に負けるはずがない / 次元連鎖が起こした / 間違いだったのだ！
+   EN: Kukai Jawanbo could never lose to the / Shutendoji. It was a mistake caused / by the Dimension Chain!
+>> 33.95 | Iron Kaiser | 少年よ これを俺にくれるのか！ / これで俺は / ますますパワーアップだ！ / はっはっは！
+   EN: Boy, you're giving this to me! / With this, I'll power up even more! / Hahaha!
+>> 33.96 | Iron Kaiser | …だが 強くなって / どうするというのだ？ / 童子を倒すという俺の目的は / 今や意味を失われたも同じ…
+   EN: ...But what's the point of getting / stronger? My goal of defeating / Shutendoji has all but lost its / meaning...
+>> 33.97 | {p} | アイアンカイザー！ / 僕と一緒に来てよ！ / そして 次元連鎖の謎を / 解決するんだ！
+   EN: Iron Kaiser! Come with me! And let's / solve the mystery of the Dimension / Chain!
+>> 33.98 | Iron Kaiser | おぉ それは妙案だ！ / 次元連鎖の謎を 解けば / 世界が元に戻る！ / さすれば 父・邪腕坊も生き返り / 童子を倒せる！
+   EN: Oh, a splendid idea! / If we solve the mystery of the / Dimension Chain, the world will go / back to how it was! Then my father / Jawanbo will come back to life and / defeat Shutendoji!
+>> 33.99 | {p} | そうなったら… 困るけど…
+   EN: If that happens... it'd be a problem, / though...
+>> 34.00 | Iron Kaiser | 少年よ！ / おまえと共に行こう！ / おまえは 俺に パワーアップする / 意欲を与えてくれた！ / だが 手天童子と手を組むのは / ごめんだぞ！
+   EN: Boy! I'll go with you! You've given me / the will to power up! But I refuse to / team up with the Shutendoji!
+>> 34.01 | - | 巨大兵器を 渡しますか？
+   EN: Hand over the giant weapon?
+>> 34.02 | Scientist | 今 この中では / 手術が行われている… / この手術が終わったとき… / 人々は科学の偉大さを知るのだ！
+   EN: An operation is underway in here right / now... When this operation is over... / people will know the greatness of / science!
+>> 34.03 | {p} | アイアンカイザー？ / ダメだ / 考えに夢中で 話を聞いてないや
+   EN: Iron Kaiser? / No good. He's so wrapped up in his / thoughts, he's not listening.
+>> 34.04 | Iron Kaiser | その兵器は！？ / それさえあれば / 更にパワーアップができる！
+   EN: That weapon!? / With that, I could power up even more!
+>> 34.05 | {p} | （邪腕坊苦海…？ / 暗黒寺への途中で 僕らを襲った / 鬼の子孫の人だ… / この人 きっとあの時 / 近くで 戦いを見てたんだ…）
+   EN: (Kukai Jawanbo...? / That's the oni descendant who / attacked us on the way to the Dark / Temple... This guy must have been / watching the fight from nearby...)
+>> 34.06 | Iron Kaiser | おや？ 貴様 手天童子郎と / 一緒にいた少年だな？
+   EN: Oh? You're the boy who was with Jiro / Shutendo, aren't you?
+>> 34.07 | Climber | ここから西に行くと / 日本アルプスへの登山道があるよ
+   EN: Head west from here and you'll find / the trail up into the Japanese Alps.
+>> 34.08 | Climber | 最近は 山の天候が / 悪くなるばかり… / まるで 人が近づくのを / 拒んでるようだな
+   EN: Lately the mountain weather just / keeps getting worse... It's like it's / trying to keep people away.
+>> 34.09 | Climber | 青い顔した兄ちゃんが 登山道の / ほうへ 行くのを見かけたんだ / 「誰だ 俺を呼ぶのは誰だ！？」 / とかってブツブツ言ってたな
+   EN: I saw a pale-faced young fella / heading for the trail. He was / muttering, "Who's there? Who's / calling me!?"
+>> 34.10 | {p} | ここには誰もいないや
+   EN: There's nobody here.
+>> 34.11 | {p} | 写真だ… かわいい女の子だな / 「妹・沙織と」… / ！？ / 日記もある / 宇津木涼… / お兄さんの日記だ… / 読んじゃおう…かな
+   EN: A photo... What a cute girl. "With my / sister Saori"... !? There's a diary / too. Ryo Utsugi... It's her brother's / diary... Should I... read it?
+>> 34.12 | {p} | なになに… / 「また 同じ夢を見た / もう１ヶ月以上 / 同じ夢が続いている / 巨大なクレバスの中で / 氷に埋もれた 大怪物の夢 / 悪魔が人間を襲い 食らう夢… / 悪魔の顔が 俺の顔に変る！ / 俺の身体が 巨大化する！」
+   EN: Let's see... / "I had the same dream again. / The same dream for over a month now. / A dream of a huge monster buried in / ice inside a giant crevasse. A dream of / a devil attacking and devouring / people... The devil's face turns into / my face! My body grows enormous!"
+>> 34.13 | {p} | 「声に導かれて / とうとう雪山まで来てしまった / 気のせいか 西の方角から / 声がするようだ / これから / 西に向かってみようと思う / そして… 早く 沙織の待つ家に / 帰りたい…」 / 西に向かってみる… / 家に帰りたい… / 宇津木さん…
+   EN: "Led by the voice, I've finally come all / the way to the snowy mountains. / Maybe it's my imagination, but the voice / seems to come from the west. I think / I'll head west now. And then... I want to / hurry home to Saori, who's waiting..." / Head west... Want to go home... / Utsugi-san...
+>> 34.14 | {p} | 人の日記を / 黙って読むのはよくないな
+   EN: It's not right to read someone's diary / without asking.
+>> 34.15 | {p} | 宇津木さんの日記だ / やっぱり読もうかな？
+   EN: It's Utsugi-san's diary. Should I read it / after all?
+>> 34.16 | {p} | 吹雪が渦を巻いてる！？ / 渦の真ん中に ぽっかりと / 無風の道が 出来てるみたいだ
+   EN: The blizzard's swirling!? / There seems to be a windless path / open right in the middle of the / vortex.
+>> 34.17 | Climber | 噂だけど 登山道で / 化け物を見たやつがいるらしい / まるで / 悪魔のような姿だったとか…
+   EN: It's just a rumor, but somebody saw a / monster on the trail. It looked just / like a devil, they say...
+>> 34.18 | Climber | 登山道の奥には洞窟があるらしいが / 命が惜しいなら近づくなよ / あそこに入って 生きて帰ってきた / 奴は いないんだ
+   EN: They say there's a cave at the end of / the trail, but if you value your life, / stay away. Nobody who's gone in there / has come back alive.
+>> 34.19 | {p} | ここは… どこだろう？
+   EN: Where... is this?
+>> 34.20 | ??? | ヒマラヤ山脈の奥地よ…
+   EN: The depths of the Himalayas...
+>> 34.21 | Medossa | 私はメドッサ / 魔王ダンテの恋人にして / ダンテを護る者…
+   EN: I am Medossa. / The lover of Demon Lord Dante, and / his protector...
+>> 34.22 | {p} | 魔王ダンテ？
+   EN: Demon Lord Dante?
+>> 34.23 | Medossa | ダンテは百万年もの間 / テレパシーで呼び続けた
+   EN: For a million years, Dante has called / out by telepathy.
+>> 34.24 | {p} | 百万年間 テレパシーで / 呼び続けた…だって？
+   EN: He's been calling by telepathy for a / million years...?
+>> 34.25 | Medossa | とうとう それに答え / ここまで来ることの出来る / 若者が 現れたのだ / ダンテの目覚めは近い！ / 引き返せ！ / さもなくば / お前は 死ぬことになる…
+   EN: At last a young man has appeared / who answered, and was able to come / this far. Dante's awakening is near! / Turn back! / Otherwise, you will die...
+>> 34.26 | {p} | …ダメだ 扉が開かない / こっちは あきらめよう
+   EN: ...No good, the door won't open. Let's / give up on this one.
+>> 34.27 | {p} | 凄い設備だ… もしかして / 科学都市より 進んでる？
+   EN: What amazing equipment... Could it be / more advanced than Science City?
+>> 34.28 | {p} | モニターに何かうつったぞ！？
+   EN: Something came up on the monitor!?
+>> 34.29 | Young Man | どこだ！ どこにいる！？
+   EN: Where!? Where are you!?
+>> 34.30 | Mysterious Voice | 宇津木涼！ / 魔王ダンテの協力者よ！ / 力を貸すのだ！
+   EN: Ryo Utsugi! Ally of Demon Lord Dante! / Lend me your strength!
+>> 34.31 | Dante | 私は 閉じ込められている… / 氷の中に！
+   EN: I am imprisoned... in the ice!
+>> 34.32 | Ryo Utsugi | 氷の中？ …夢で見たぞ！ / 夢の中で おまえの姿を見たぞ！ / おまえは怪物だ！ / 魔王ダンテ！
+   EN: In the ice? ...I saw it in my dream! I saw / you in my dream! You're a monster! / Demon Lord Dante!
+>> 34.33 | Dante | 違う 私は人間だ！ / 人間の心と 理性を持っている！ / 宇津木涼！ / 魔王ダンテの協力者よ！ / 力を貸すのだ！
+   EN: No, I am human! I have a human heart / and human reason! Ryo Utsugi! Ally of / Demon Lord Dante! Lend me your / strength!
+>> 34.34 | Ryo Utsugi | 俺は… 協力者…
+   EN: I'm... an ally...
+>> 34.35 | Dante | おまえは ダンテのために / 力をかさねばならない！
+   EN: You must lend your strength to Dante!
+>> 34.36 | Ryo Utsugi | 俺は… 力を貸さねばならない… / そうだ 俺は 力を貸さねば / ならないんだ… ダンテに！！
+   EN: I... must lend my strength... / Yes, I must lend my strength... to / Dante!!
+>> 34.37 | Dante | その機械を壊すのだ！ / ダンテの力を封じる機械を！
+   EN: Destroy that machine! The machine / that seals Dante's power!
+>> 34.38 | Ryo Utsugi | うおおおおおお～！！
+   EN: RAAAAAAAAH!!
+>> 34.39 | {p} | 大変だ！ / あの人 心を操られているみたい！
+   EN: Oh no! It looks like that guy's mind is / being controlled!
+>> 34.40 | {p} | モニターに文字が出てきた… / なになに？ / 拘束装置強制解除！？ / 補助動力を稼働させないと / 魔王ダンテが復活する…！？
+   EN: Words came up on the monitor... Let's / see? Forced release of restraint / system!? / If the auxiliary power isn't started, / Demon Lord Dante will revive...!?
+>> 34.41 | {p} | 開かない！？ どこかに / スイッチがあるはずだ！
+   EN: It won't open!? There must be a switch / somewhere!
+>> 34.42 | Ryo Utsugi | {!R}うわああああああ！
+   EN: {!R}Whoaaaaaaa!
+>> 34.43 | Dante | 宇津木涼！ / 私がダンテ 魔王ダンテだ！
+   EN: Ryo Utsugi! I am Dante, Demon Lord / Dante!
+>> 34.44 | Ryo Utsugi | き きさま 俺の心を操ったな！ / 俺の心をねじ曲げて / 協力させたな！
+   EN: Y-you controlled my mind! / You twisted my mind and made me / help you!
+>> 34.45 | Dante | 心を操られるのは / おまえの心が 弱いからだ！ / ガハハハハハ！
+   EN: Your mind was controlled because / your heart is weak! Gahahahahaha!
+>> 34.46 | Dante | 宇津木涼 協力を感謝する！ / 魔王ダンテを / よくぞ蘇らせてくれた！
+   EN: Ryo Utsugi, I thank you for your help! / You did well to revive Demon Lord / Dante!
+>> 34.47 | Ryo Utsugi | 現世に蘇り何をしようというのだ / 魔王ダンテ！？
+   EN: What do you mean to do now that / you've come back to this world, / Demon Lord Dante!?
+>> 34.48 | Dante | まずは… おまえを食う！ / そして 地上に存在する / すべての人間を滅ぼす！
+   EN: First... I'll eat you! / Then I'll wipe out every human on the / face of the earth!
+>> 34.49 | Ryo Utsugi | 人類を滅ぼすために 俺を… / 利用した…のか！？
+   EN: You used me... to wipe out humanity!?
+>> 34.50 | Dante | 魔王ダンテにとって / 人間は敵なのだ！ / 全世界の人間がな！ / 手始めに… 貴様だ！
+   EN: To Demon Lord Dante, humans are the / enemy! All the humans in the world! / Starting... with you!
+>> 34.51 | {p} | 大変だ！
+   EN: Oh no!
+>> 34.52 | {p} | これは！ さっき 宇津木さんが / 着ていた服…！？ / はっ！？
+   EN: This is...! The clothes Utsugi-san was / wearing just now...!? Huh!?
+>> 34.53 | Dante | 俺は… 生きているのか？ / なぜだ！？ / 俺は / 怪物に 食い殺されたはずだ…
+   EN: I'm... alive? Why!? That monster / devoured me... I should be dead!
+>> 34.54 | Dante | この身体は！ あの悪魔の姿！ / 俺は… もはや 宇津木涼では / ないのか！？ / 俺は… 魔王ダンテに / なってしまったのか！？
+   EN: This body! It's that devil's form! / Am I... no longer Ryo Utsugi!? Have I... / become Demon Lord Dante!?
+>> 34.55 | Dante | グオオオオオオ！
+   EN: GUOOOOOOOH!
+>> 34.56 | {p} | {!R}（う 宇津木さん…）
+   EN: {!R}(U-Utsugi-san...)
+>> 34.57 | Dante | くっくっくっく… / くっくっくっく… / ガッハッハッハッハ！
+   EN: Heh heh heh heh... Heh heh heh heh... / Gahahahahaha!
+>> 34.58 | Dante | ワッハハハハハ！ / 俺はもう 人間じゃない！ / 俺は化け物だ 俺は悪魔だ！
+   EN: Wahahahahaha! I'm not human anymore! / I'm a monster, I'm a devil!
+>> 34.59 | {p} | この機械 もしかして / 補助動力のスイッチ！？
+   EN: Could this machine be the auxiliary / power switch!?
+>> 34.60 | {p} | よし！ 動くぞ！？
+   EN: All right! It's working!?
+>> 34.61 | {p} | {!R}…！ / また モニターに文字が…！？ / {!R}補助動力始動開始…って / ちょっとちょっと！
+   EN: {!R}...! More words on the monitor...!? / {!R}Auxiliary power startup initiated... / Hey, wait a minute!
+>> 34.62 | Dante | 貴様 誰だ…？ / どこで見ている…！
+   EN: Who are you...? Where are you / watching from...!
+>> 34.63 | {p} | {!R}(…！)
+   EN: {!R}(...!)
+>> 34.64 | Dante | いや 誰であろうと どうでもいい / 頼みがある / …俺を殺してくれ
+   EN: No, it doesn't matter who you are. I / have a favor to ask... Kill me.
+>> 34.65 | {p} | {!R}え…！？
+   EN: {!R}What...!?
+>> 34.66 | Dante | 俺の このおぞましい姿を / この世から消してくれ！
+   EN: Erase this hideous form of mine from / the world!
+>> 34.67 | {p} | {!R}そ そんなこと…！
+   EN: {!R}I-I can't do that...!
+>> 34.68 | Dante | どうした 殺せないのか？ / 消せないのか？ / 貴様が 俺を消せないのなら / 俺が 貴様らを消してやる！ / ひとり残らず / 全世界から消してやる！ / 人間 ひとり残らず！！
+   EN: What's wrong, can't you kill me? Can't / erase me? If you can't erase me, / then I'll erase all of you! Every last / one, from the whole world! Every last / human!!
+>> 34.69 | Dante | グオオオオオオ！ / こ これは 冷凍ガス…！ / そうだ これで…これでいい…！
+   EN: GUOOOOOOOH! / Th-this is freezing gas...! Yes, with / this... this is good...!
+>> 34.70 | Dante | グルルル… おのれ…！
+   EN: Grrrr... Curse you...!
+>> 34.71 | Dante | これで 俺は…再び 氷の中に…！ / グオオオオオオ！
+   EN: With this, I'll be... back in the ice...! / GUOOOOOOOH!
+>> 34.72 | Dante | ……………
+   EN: ...............
+>> 34.73 | {p} | {!R}（完全に 氷に / 閉じ込められちゃったみたいだ / {!R}ごめん 宇津木さん… / 僕 何も出来なかった…！）
+   EN: {!R}(Looks like he's completely sealed in / the ice. {!R}I'm sorry, Utsugi-san... I / couldn't do anything...!)
+>> 34.74 | {p} | {!R}…あれ？ 宇津木涼…？ / 聞き覚えがある… / {!R}…そうだ！ / テントの中で呼んだ日記の人！ / {!R}氷に埋もれた 大怪物の夢のこと… / 声によばれて ここに来たこと… / {!R}そして 早く 沙織さんの待つ家に / 帰りたいって…
+   EN: {!R}...Huh? Ryo Utsugi...? I've heard that / name... {!R}...That's it! The guy whose / diary I read in the tent! {!R}The dream of a / huge monster buried in ice... being / called here by a voice... {!R}And wanting / to hurry home to Saori-san, who's / waiting...
+>> 34.75 | Dante | 沙織…？ / 沙織… 俺の妹…
+   EN: Saori...? / Saori... my sister...
+>> 34.76 | {p} | {!R}そうだよ 宇津木さん！ / {!R}妹さんまで / この世界から消すつもりかい！？
+   EN: {!R}That's right, Utsugi-san! / {!R}Are you going to erase your sister / from the world too!?
+>> 34.77 | Dante | ………
+   EN: .........
+>> 34.78 | Dante | 俺の この姿 この力… / もはや俺は化け物だ！ 悪魔だ！
+   EN: This form, this power... I'm a monster / now! A devil!
+>> 34.79 | {p} | {!R}宇津木さん！ / 僕の話しを聞いてくれ！
+   EN: {!R}Utsugi-san! Listen to me!
+>> 34.80 | Dante | …次元連鎖だって？ / このままでは世界が滅ぶ… / それならば それで良い！
+   EN: ...The Dimension Chain? / At this rate the world will be / destroyed... Then so be it!
+>> 34.81 | {p} | {!R}そんな…！
+   EN: {!R}You can't mean that...!
+>> 34.82 | Dante | この醜い姿が地上から消えるなら…
+   EN: If it means this ugly form disappears / from the earth...
+>> 34.83 | {p} | {!R}妹さんも / 消えちゃうかもしれないんだよ！
+   EN: {!R}Your sister might disappear too!
+>> 34.84 | Dante | …そうだ / 君の言う通りだ… / これは 俺の身に起きた悲劇 / 沙織は なんの関係もない！
+   EN: ...That's right. You're right... This is a / tragedy that happened to me. Saori / has nothing to do with it!
+>> 34.85 | {p} | {!R}宇津木さん！
+   EN: {!R}Utsugi-san!
+>> 34.86 | Dante | 君は / こんな姿になった俺を / 宇津木涼という名前で / 呼んでくれる… / 俺は 君と共に行こう！ / ダンテの魔力を 沙織のため / 世界のため使おう！
+   EN: Even after I've become this, you still / call me by the name Ryo Utsugi... I'll / go with you! / I'll use Dante's demonic power for / Saori, and for the world!
+>> 34.87 | {p} | ………
+   EN: .........
+>> 34.88 | Dante | 俺は 君と共に行こう！ / ダンテの魔力を 沙織のため / 世界のため使おう！
+   EN: I'll go with you! / I'll use Dante's demonic power for / Saori, and for the world!
+>> 34.89 | Ryo Utsugi | 元の姿に戻った！？ / 君のおかげだよ！
+   EN: I'm back to my normal form!? It's / thanks to you!
+>> 34.90 | Ryo Utsugi | ありがとう / 俺は 君と共に行こう / そして この力を きっと / 君のために役立てよう！ / 巨大な敵と戦う時には / 俺も変身して 力を貸すぜ！
+   EN: Thank you. I'll go with you, and I'll / surely put this power to use for you! / When we fight giant enemies, I'll / transform and lend a hand too!
+>> 34.91 | Ryo Utsugi | うわぁ～～～っ！！
+   EN: WHOAAAAAA!!
+>> 34.92 | Dante | 少年よ おまえの名は…？
+   EN: Boy, what is your name...?
+>> 34.93 | {p} | {p}
+   EN: {p}.
+>> 34.94 | Dante | {p}よ / 俺は おまえに感謝するよ / この醜い姿のまま / 俺は生きたくはない  / ましてや 心優しい妹・沙織に / この姿を見せたくはない…
+   EN: {p}, I'm grateful to you. I / don't want to live in this hideous / form. And I certainly don't want my / kindhearted sister Saori to see me / like this...
+>> 34.95 | Dante | ありがとう {p}…
+   EN: Thank you, {p}...
+>> 34.96 | Medossa | 魔王ダンテ… 宇津木涼に / 心を乗っ取られたのですね…
+   EN: Demon Lord Dante... So your mind has / been taken over by Ryo Utsugi...
+>> 34.97 | Ryo Utsugi | だったらどうする？
+   EN: And if it has?
+>> 34.98 | Medossa | …あなたから / 強い意志の力を感じます
+   EN: ...I sense great willpower in you.
+>> 34.99 | Medossa | 誰にも負けない 強い精神力 / それこそ 魔王ダンテの / ダンテたる由縁！ / メドッサは / あなたに ついていきます
+   EN: A strong spirit that yields to no one. / That is what makes Demon Lord Dante / who he is! Medossa will follow you.
+>> 35.00 | Ryo Utsugi | うむ！
+   EN: Right!
+>> 35.01 | {p} | 何とか宇津木さんを / 救うことは できないだろうか…
+   EN: Isn't there some way to save / Utsugi-san...?
+>> 35.02 | {p} | 宇津木さん… / あなたを助け出す事は… / もう二度と 人間の世界に / 戻ってくることはできないの？ / あなたの妹 / 沙織さんを残して…
+   EN: Utsugi-san... is there no way to save / you...? Can you never come back to / the human world? Leaving your sister / Saori-san behind...
+>> 35.03 | Dante | 沙織… / 俺の妹…
+   EN: Saori... my sister...
+>> 35.04 | {p} | {!R}！？ / 宇津木さん！！ / {!R}氷の中で / まだ意識は生きているんだ！！ / {!R}そうだよ 宇津木さん！ / {!R}妹さんまで この世界から / 消すつもりかい！？
+   EN: {!R}!? Utsugi-san!! {!R}He's still conscious / inside the ice!! {!R}That's right, / Utsugi-san! / {!R}Are you going to erase your sister / from this world too!?
+>> 35.05 | {p} | なんで こんな機械が… / 誰が運び込んだんだろう？
+   EN: Why is a machine like this here... Who / brought it in?
+>> 35.06 | {p} | これ… もしかして…？
+   EN: Could this be...?
+>> 35.07 | Genzo Kuruma | 「魔」の残骸だ
+   EN: The remains of the "Ma."
+>> 35.08 | {p} | 来留間博士！？ / ここで いったい何を？
+   EN: Dr. Kuruma!? What on earth are you / doing here?
+>> 35.09 | Genzo Kuruma | 知れたこと！ / おまえも見ただろう / あの「魔」の恐ろしさを！ / 無尽蔵とも言えるパワーを！
+   EN: Isn't it obvious! You saw it too, the / terror of the "Ma"! Its practically / inexhaustible power!
+>> 35.10 | Genzo Kuruma | 見ろ この身体を！ / この素晴らしい身体を！！ / 俺は この身体に / 「魔」を組み込む！ / そして より進化した人間に / 生まれ変わるのだ！
+   EN: Look at this body! This magnificent / body!! I'll build the "Ma" into this / body! And be reborn as a more evolved / human!
+>> 35.11 | {p} | あなたの考えには / ついていけない…
+   EN: I can't go along with your ideas...
+>> 35.12 | Genzo Kuruma | それは / おまえが理解出来ないだけだ
+   EN: That's only because you can't / understand them.
+>> 35.13 | {p} | …………
+   EN: ............
+>> 35.14 | Genzo Kuruma | まぁ よい / いずれわかる / 「魔」を取り込んだ / 俺の姿を見たら…な
+   EN: Well, never mind. You'll understand in / time. Once you see me with the "Ma" / built in...
+>> 35.15 | {p} | あなたは なぜ こんな研究を / しているんですか？ / 慎一君を… 自分の子供を / 犠牲にしてまで…
+   EN: Why are you doing this research? Even / sacrificing Shinichi-kun... your own / child...
+>> 35.16 | Genzo Kuruma | 汚染され 環境が変われば / どのような生物であれ 死滅する / 人類は 既にその日を / 目の前にしてしまった…
+   EN: When the environment is polluted and / changes, any living thing will die out. / Mankind already has that day right / before its eyes...
+>> 35.17 | {p} | 環境汚染…
+   EN: Environmental pollution...
+>> 35.18 | Genzo Kuruma | 新しい時代に 生き残れる生物を / 生み出さねばならぬ / 凄まじき地獄を乗り切り 新しき / 時代に導いてくれる人類を…な / ダメだ…！
+   EN: We must create living things that can / survive in a new age. A new humanity / that can endure a terrible hell and / lead us into that age... No good...!
+>> 35.19 | Genzo Kuruma | サンプルが足りん… / 生きた「魔」か / 黒い魔物が 必要だな…
+   EN: Not enough samples... / I need living "Ma," or black fiends...
+>> 35.20 | Genzo Kuruma | 黒い魔物は 貴様を狙っている / おまえを守って闘えば / 無数のサンプルが手に入る！ / 必要な量のサンプルを採取するまで / おまえの安全を守ってやろう / どうだ？
+   EN: The black fiends are after you. / If I fight to protect you, I'll get / countless samples! I'll keep you safe / until I've collected all the samples I / need. What do you say?
+>> 35.21 | Genzo Kuruma | 良い選択だ！ では行くぞ！
+   EN: A good choice! Then let's go!
+>> 35.22 | Genzo Kuruma | やはり子供だな この取引の / 損得勘定が 出来んとみえる… / 研究の邪魔だ 用がなければ / さっさと出て行け！
+   EN: Just a child after all. Seems you can't / weigh the profit and loss of this / deal... You're in the way of my / research. If you've no business / here, get out!
+>> 35.23 | Genzo Kuruma | ふん 気が変わって 俺の提案を / 受け入れる気になったのか？
+   EN: Hmph, changed your mind and decided / to accept my offer?
+>> 35.24 | Shinichi | オヤジ！
+   EN: Old man!
+>> 35.25 | {p} | 来留間博士！？
+   EN: Dr. Kuruma!?
+>> 35.26 | Genzo Kuruma | 生きていたか 慎一… / あの小娘は どうした？
+   EN: So you're alive, Shinichi... What became / of that little girl?
+>> 35.27 | Shinichi | 真理阿は…
+   EN: Maria is...
+>> 35.28 | Shinichi | 真理阿は俺の中にいる！
+   EN: Maria is inside me!
+>> 35.29 | Genzo Kuruma | ワッハッハッハッハ！ / そうか そうか！ / 慎一 きさま 真理阿を / 取り込んだな？ / そこまでして 力を求めるとは / さすが俺の息子だ！
+   EN: Wahahahaha! I see, I see! Shinichi, / you've taken Maria into yourself? / Going that far for power... That's / my son!
+>> 35.30 | Shinichi | なんだと！？
+   EN: What did you say!?
+>> 35.31 | {p} | 来留間博士 / あなたは ここでいったい何を？
+   EN: Dr. Kuruma, what on earth are you / doing here?
+>> 35.32 | Genzo Kuruma | 新しい時代に 生き残れる生物を / 生み出さねばならぬ / 凄まじき地獄を乗り切り 新しき / 時代に導いてくれる人類を…な
+   EN: We must create living things that can / survive in a new age. A new humanity / that can endure a terrible hell and / lead us into that age...
+>> 35.33 | Shinichi | たわけた事を言うな！！
+   EN: Don't talk such nonsense!!
+>> 35.34 | Genzo Kuruma | おまえには やはり解らんか…
+   EN: So you still don't understand...
+>> 35.35 | Shinichi | ふざけるな！！
+   EN: Don't screw with me!!
+>> 35.36 | Genzo Kuruma | 黙れ 慎一！！ / おまえに聞いているのでは無い / どうだ {p}？
+   EN: Silence, Shinichi!! I'm not asking you. / Well, {p}?
+>> 35.37 | Shinichi | {p}！？ / なぜ！！
+   EN: {p}!? Why!!
+>> 35.38 | {p} | 今は少しでも力がほしい時だよ / 協力してくれるなら / この方がいい…
+   EN: Right now we need all the strength we / can get. / If he's willing to help, this is better...
+>> 35.39 | Shinichi | くっ…！！
+   EN: Ngh...!!
+>> 35.40 | {p} | こんなところに豹が…？ / かわいそうに… 傷だらけだ
+   EN: A leopard, here...? Poor thing... It's / covered in wounds.
+>> 35.41 | {p} | 行っちゃった… / だいぶ脅えているみたい…
+   EN: It ran off... It seemed really / frightened...
+>> 35.42 | Panther Claw Member | あの女 どこへ隠れやがった？
+   EN: Where'd that woman hide?
+>> 35.43 | Panther Claw Member | 今まで 俺達を / アゴで使いやがって！
+   EN: Bossing us around all this time!
+>> 35.44 | Panther Claw Member | あの女 魔王に送ってやろうぜ！ / 召し使いとしてな！
+   EN: Let's send that woman to the Demon / King! As a servant!
+>> 35.45 | Panther Claw Member | おい！ このガキ / 例のガキじゃねぇか！？
+   EN: Hey! Isn't this the kid everybody's / talking about!?
+>> 35.46 | Panther Claw Member | ホントだ！ / こいつぁ 思わぬ拾いもんだ！
+   EN: It is! Now that's a lucky find!
+>> 35.47 | Panther Claw Member | シスター・ジルより / このガキのほうが魔王が喜ぶぜ！
+   EN: The Demon King'll be happier with this / kid than with Sister Jill!
+>> 35.48 | {p} | この豹 あいつらに / 苛められてたんだ…
+   EN: Those guys were picking on this / leopard...
+>> 35.49 | {p} | シスター・ジルの正体は / 豹だったのか…
+   EN: So Sister Jill was a leopard all along...
+>> 35.50 | Sister Jill | う う～ん… / ハッ！？
+   EN: Uhh... nnn... Huh!?
+>> 35.51 | Sister Jill | おまえは 如月ハニーと / 一緒にいた 小僧だね！？ / 私の手下達に / 何をした！？
+   EN: You're the brat who was with Honey / Kisaragi!? What did you do to my / underlings!?
+>> 35.52 | {p} | 手下達に？ 何のこと？
+   EN: To your underlings? What are you / talking about?
+>> 35.53 | Sister Jill | しらを切るか！ 手下達を操り / 私を襲わせたクセに！
+   EN: Playing dumb!? You controlled my / underlings and made them attack me!
+>> 35.54 | {p} | 知らないよ！ / それって 黒い魔物に / 操られたんじゃないの？
+   EN: I don't know anything about it! / Weren't they being controlled by black / fiends?
+>> 35.55 | Sister Jill | 黒い魔物だと？ / 私を騙そうったって / そうはいかないよ！
+   EN: Black fiends? / Don't think you can fool me!
+>> 35.56 | {p} | 違うよ！ 聞いてよ！
+   EN: That's not it! Listen to me!
+>> 35.57 | Sister Jill | なんと！ そのようなことが / 起こっていたのか… / パンサー団員達を手玉にとるとは / 恐るべき敵だ…
+   EN: What! So that's what's been / happening... An enemy who can toy / with Panther Claw's members... a / fearsome foe...
+>> 35.58 | {p} | 敵？
+   EN: Foe?
+>> 35.59 | Sister Jill | パンサー団員達を操り この / シスター・ジル様を襲ったのだ / 私にとって 黒い魔物とは敵だ！ / 私にもパンサークロー日本支部長 / としての メンツがある！
+   EN: It controlled Panther Claw's members / and had them attack me, Sister / Jill-sama! To me, the black fiends are / the enemy! / I have my pride as head of Panther / Claw's Japan branch!
+>> 35.60 | {p} | どうするつもり？
+   EN: What are you going to do?
+>> 35.61 | Sister Jill | 知れたこと！ 魔王と戦うのだ！ / 私は おまえと共に行くぞ！ / それが魔王への近道と見た！ / 異論があるか？
+   EN: Isn't it obvious! Fight the Demon King! / I'm going with you! I see that as the / shortcut to the Demon King! Any / objections?
+>> 35.62 | Sister Jill | よし！ 利口な選択よ 坊や / うふふ… こいつと仲間になれば / あの美しいハニーとも…
+   EN: Good! A wise choice, little boy. / Tee-hee... If I team up with him, then / that beautiful Honey...
+>> 35.63 | {p} | えっ？ なんか言った？
+   EN: Huh? Did you say something?
+>> 35.64 | Sister Jill | な なんでもないわ！ / さぁ ぐずぐずしないで / 行くわよ！
+   EN: N-nothing at all! / Come on, don't dawdle! Let's go!
+>> 35.65 | Sister Jill | そうか / では単身 魔王と戦うのみ！ / また逢おう！
+   EN: I see. Then I'll fight the Demon King / alone! We'll meet again!
+>> 35.66 | Honey Kisaragi | 見て！ 豹よ！ / どうしてこんなところに…
+   EN: Look! A leopard! What's it doing here...
+>> 35.67 | {p} | かわいそうに… / 傷だらけだ
+   EN: Poor thing... It's covered in wounds.
+>> 35.68 | {p} | 行っちゃった… / だいぶ脅えているみたい…
+   EN: It ran off... It seemed really / frightened...
+>> 35.69 | Honey Kisaragi | きっと誰かに / 苛められたんだろうね…
+   EN: Somebody must have been picking / on it...
+>> 35.70 | {p} | この豹 あいつらに / 苛められてたんだ…
+   EN: Those guys were picking on this / leopard...
+>> 35.71 | {p} | …！？
+   EN: ...!?
+>> 35.72 | Sister Jill | う う～ん… ハッ！？
+   EN: Uhh... nnn... Huh!?
+>> 35.73 | Sister Jill | ハニー！？
+   EN: Honey!?
+>> 35.74 | Honey Kisaragi | シスター・ジル… / あなたの正体は 豹だったのね…
+   EN: Sister Jill... So your true form was a / leopard...
+>> 35.75 | Sister Jill | 見られてしまったか… / だが今はそれどころではない！ / おまえ達 私の手下達に / 何をした！？
+   EN: So you've seen it... But this is no time / for that! What did you do to my / underlings!?
+>> 35.76 | {p} | 手下達に？ 何のこと？
+   EN: To your underlings? What are you / talking about?
+>> 35.77 | Sister Jill | しらを切るか！ 手下達を操り / 私を襲わせたクセに！
+   EN: Playing dumb!? You controlled my / underlings and made them attack me!
+>> 35.78 | Honey Kisaragi | 手下に襲われたですって？ / 身から出たサビよ！
+   EN: Your own underlings attacked you? / You reap what you sow!
+>> 35.79 | Sister Jill | 無礼な！
+   EN: How rude!
+>> 35.80 | {p} | まぁまぁ…
+   EN: Now, now...
+>> 35.81 | {p} | まぁまぁ… / …もしかして 手下達って / 黒い魔物に操られたんじゃ？
+   EN: Now, now... / ...Could your underlings have been / controlled by black fiends?
+>> 35.82 | Sister Jill | 黒い魔物だと？ / 私を騙そうったって / そうはいかないよ！
+   EN: Black fiends? / Don't think you can fool me!
+>> 35.83 | {p} | 違うよ！ 聞いてよ！
+   EN: That's not it! Listen to me!
+>> 35.84 | Sister Jill | なんと！ そのようなことが / 起こっていたのか… / パンサー団員達を手玉にとるとは / 恐るべき敵だ…
+   EN: What! So that's what's been / happening... An enemy who can toy / with Panther Claw's members... a / fearsome foe...
+>> 35.85 | {p} | 敵？
+   EN: Foe?
+>> 35.86 | Sister Jill | パンサー団員達を操り この / シスター・ジル様を襲ったのだ / 私にとって 黒い魔物とは敵だ！ / 私にもパンサークロー日本支部長 / としての メンツがある！
+   EN: It controlled Panther Claw's members / and had them attack me, Sister / Jill-sama! To me, the black fiends are / the enemy! / I have my pride as head of Panther / Claw's Japan branch!
+>> 35.87 | {p} | それで… どうするつもり？
+   EN: So... what are you going to do?
+>> 35.88 | Sister Jill | 知れたこと！ 魔王と戦うのだ！ / 私は おまえと共に行くぞ！
+   EN: Isn't it obvious! Fight the Demon King! / I'm going with you!
+>> 35.89 | Honey Kisaragi | ちょっと やめてよ！
+   EN: Hey, cut it out!
+>> 35.90 | Jill | そんなにイヤがること / ないじゃない！ / おねーさま 悲しくなってよ
+   EN: There's no need to hate it so much! / You'll make your big sister sad.
+>> 35.91 | {p} | ………
+   EN: .........
+>> 35.92 | Sister Jill | ごほん！ / え～ と ともかく…！ / それが魔王への近道と見た！ / 異論があるか？
+   EN: Ahem! Er, anyway...! I see it as the / shortcut to the Demon King! Any / objections?
+>> 35.93 | Honey Kisaragi | 勝手な女ね！ / おまえは / ハニーのパパを殺したのよ…！！
+   EN: What a selfish woman! / You killed Honey's papa...!!
+>> 35.94 | Sister Jill | おとなしく 空中元素固定装置を / 渡さぬからだ！
+   EN: Because he wouldn't hand over the / Airborne Element Fixer like a / good boy!
+>> 35.95 | Honey Kisaragi | なんですって！？
+   EN: What did you say!?
+>> 35.96 | Honey Kisaragi | シスター・ジル / 私は おまえが憎い！ / …でも 今は あなたと / 争っている時じゃないの
+   EN: Sister Jill, I hate you! ...But now is no / time to fight with you.
+>> 35.97 | Sister Jill | そのとおりだ 魔王を倒さねば / 世界が危機を迎える…
+   EN: Exactly. If we don't defeat the Demon / King, the world faces disaster...
+>> 35.98 | Honey Kisaragi | もしも魔王を倒したなら… / その時は 魔王を貫いた剣で / あなたを倒すわ！
+   EN: If we defeat the Demon King... / then I'll defeat you with the same / sword that pierced him!
+>> 35.99 | Sister Jill | 望むところよ…！ / よし ならば行くぞ！ / ぐずぐずするな！
+   EN: Just what I want...! / Good, then let's go! Don't dawdle!
+>> 36.00 | {p} | ドラゴンに襲われてる！？ / 助けなきゃ！
+   EN: The Dragons are attacking her!? We've / got to help!
+>> 36.01 | Dragon | おのれ 邪魔立てするか！？ / 容赦せんぞ！！
+   EN: Curse you! You dare interfere!? I'll / show no mercy!!
+>> 36.02 | Dragon | 容赦せんぞ！？
+   EN: No mercy!?
+>> 36.03 | {p} | あなたは スラムクィーン！
+   EN: You're the Slum Queen!
+>> 36.04 | Slum Queen | 覚えてくれていたの？ / うれしいわ / 探した甲斐が あるってものね
+   EN: You remember me? How lovely. It made / searching for you worth it.
+>> 36.05 | {p} | 僕を探していた…だって？
+   EN: You were searching for me?
+>> 36.06 | Slum Queen | そうよ… 見たでしょ？ / ドラゴンが私を襲うのを…？ / ドラゴンが / 魔王に操られてしまったのよ / スラムキングを捨てて
+   EN: Yes... You saw it, didn't you? The / Dragons attacking me? The / Dragons are being controlled by the / Demon King. They've abandoned the / Slum King.
+>> 36.07 | {p} | まさか 僕を魔王に引き渡し / ドラゴン達を元に戻そうと！？
+   EN: Don't tell me you want to hand me over / to the Demon King to get the / Dragons back to normal!?
+>> 36.08 | Slum Queen | あたしは それほど / バカじゃないわ / 魔王に あなたを引き渡したら / 恐ろしいことが起こる！
+   EN: I'm not that foolish. If I handed you / over to the Demon King, something / terrible would happen!
+>> 36.09 | {p} | それじゃ どうして僕を？
+   EN: Then why were you looking for me?
+>> 36.10 | Slum Queen | あなたが「始まりの丘」に / 向かう姿を 夢で見たの… / それがあたしの力 予知夢よ
+   EN: I saw you heading for the "Hill of / Beginnings" in a dream... That is my / power: prophetic dreams.
+>> 36.11 | {p} | ………
+   EN: .........
+>> 36.12 | Slum Queen | いずれあなたは「始まりの丘」に / 向かうでしょう / 魔王と戦うために！ / それが あなたの運命！
+   EN: Someday you'll head for the "Hill of / Beginnings." To fight the Demon King! / That is your fate!
+>> 36.13 | {p} | 僕の運命… 教えて！ / それで僕はどうなるの！？ / {s}は…！？
+   EN: My fate... Tell me! What happens to / me!? And to {s}...!?
+>> 36.14 | Slum Queen | わからないわ でもたったひとつ / 明らかなことがあるの / それはあなたが 魔王と戦える / 唯一の人ってことよ
+   EN: I don't know. But one thing is clear: / you are the only one who can fight / the Demon King.
+>> 36.15 | Slum Queen | 一緒に来なさい / スラムキングに逢わせるわ
+   EN: Come with me. I'll have you meet the / Slum King.
+>> 36.16 | {p} | …！？
+   EN: ...!?
+>> 36.17 | Slum Queen | スラムキングに反旗を翻したのは / ドラゴンだけじゃないの / もちろん みな / 魔王に操られてのことよ
+   EN: The Dragons aren't the only ones / who've turned against the Slum King. / All of them controlled by the Demon / King, of course.
+>> 36.18 | {p} | ………
+   EN: .........
+>> 36.19 | Slum Queen | 人々が操られ始めたのは / 異変の前兆 / スラムキングも / それは理解しているわ / そこで あたしに / 探すように命じたのよ / 最悪の事態を回避出来る者を…
+   EN: People falling under control is an / omen of disaster. The Slum King / understands that too. So he ordered / me to search... for someone who can / avert the worst.
+>> 36.20 | {p} | …わかった / スラムキングに逢おう！
+   EN: ...All right. I'll meet the Slum King!
+>> 36.21 | Slum Queen | いい子ね…
+   EN: Good boy...
+>> 36.22 | Slum King | 待ちかねたぞ スラムクィーン！ / 救世主は見つかったか！？
+   EN: I've been waiting, Slum Queen! Have you / found the savior!?
+>> 36.23 | Slum Queen | お連れしましたわ
+   EN: I've brought him.
+>> 36.24 | Slum King | ご苦労！ よくやった！ / 救世主どのよ いざ ここに！
+   EN: Well done! Excellent! O savior, come / forth!
+>> 36.25 | {p} | あ あの… こんにちは
+   EN: U-um... hello.
+>> 36.26 | Slum King | スラムクィーン / これは何の冗談だ？
+   EN: Slum Queen, what sort of joke is this?
+>> 36.27 | Slum Queen | この者こそ 異変から関東を / 世界を救う人物ですわ！
+   EN: This is the very person who will save / Kanto, and the world, from disaster!
+>> 36.28 | {p} | え え～と {p}です
+   EN: Uh, um, I'm {p}.
+>> 36.29 | Slum King | あっはっはっはっは！ / 片腹痛い！ / スラムクィーン おまえの力も / 衰えたようだな！
+   EN: Ahahahahaha! Don't make me laugh! / Slum Queen, it seems your powers / have faded!
+>> 36.30 | Slum Queen | ならば 立ち合ってみては / いかがですか？
+   EN: Then why not cross swords with him?
+>> 36.31 | {p} | ええ～っ！？
+   EN: Whaaat!?
+>> 36.32 | Slum King | あ～っはっはっはっは！ / この俺に 子供の相手を / しろというのか？
+   EN: Ahahahahaha! / You'd have me fight a child?
+>> 36.33 | Slum Queen | もしも あなたと立ち合い / そして死んだならば / それは あたしの予知夢が外れた / …ということ / その時は あたしも死にましょう！
+   EN: If he crosses swords with you and / dies, that means my prophetic / dream was wrong. In that case, I shall / die as well!
+>> 36.34 | {p} | …！？
+   EN: ...!?
+>> 36.35 | Slum King | そこまで この子供に賭けるか / スラムクィーン… / ならば 立ち合おうではないか！
+   EN: You'd stake that much on this child, / Slum Queen... Then let us cross / swords!
+>> 36.36 | Slum King | いざ 来い！ {p}よ！
+   EN: Come at me! {p}!
+>> 36.37 | Slum King | 不覚…！！
+   EN: I've been bested...!!
+>> 36.38 | Slum Queen | スラムキング この子を / お認め下さいますね？
+   EN: Slum King, you'll acknowledge this boy / now, won't you?
+>> 36.39 | Slum King | 致し方あるまい！ / {p}よ！ スラムキング / おまえに助力するぞ！
+   EN: I have no choice! / {p}! The Slum King will / lend you his aid!
+>> 36.40 | {p} | は はい…！！
+   EN: Y-yes, sir...!!
+>> 36.41 | Slum King | スラムクィーン！ / 共をいたせ！
+   EN: Slum Queen! Come with me!
+>> 36.42 | Slum Queen | {p} / おみごとだったわ
+   EN: {p}, that was splendid.
+>> 36.43 | {p} | ありがとう / スラムクィーンさん！
+   EN: Thank you, Slum Queen-san!
+>> 36.44 | Resident | 噂だけど スラムキングが / 大変なことになってるらしいぞ / ドラゴンからも暴徒になった連中が / 出たらしくてさ… / いったい 関東に / 何が起ころうとしてるんだ…？
+   EN: Just a rumor, but they say the Slum / King's in big trouble. Seems even / some of the Dragons turned into / rioters... What on earth is about to / happen to Kanto...?
+>> 36.45 | {p} | 誰もいないのかな？
+   EN: Isn't anyone here?
+>> 36.46 | Higegodzilla | 今日 女子の方達は / 身体検査がありますから / お残りになってねぇ～ / おほほほほ / 男子の方は さっさと / 帰ってちょね～ イッヒッヒ…
+   EN: Today the girls have a physical exam, / so do stay behind, darlings! Ohohoho! / Boys, run along home now, mm-kay? / Eehee hee...
+>> 36.47 | Higegodzilla | …なんて言っても / 誰もいないのよ～ / はぁ～ さみちいのよ～
+   EN: ...Not that there's anybody here to / hear it... *Sigh*, I'm so wonewy...
+>> 36.48 | {p} | ひとりで 何やってるの…？
+   EN: What are you doing all by yourself...?
+>> 36.49 | Higegodzilla | 世の中 物騒になっちゃって / イヤだわ～ / それで / 生徒も来なくなっちゃったの…
+   EN: The world's gotten so dangerous, I / hate it! And so the students stopped / coming...
+>> 36.50 | Higegodzilla | 里帰りする お金もなく あたちは / ひとり 授業を続けるのよ～！ / およよ およよ うわ～ん！
+   EN: I haven't the money to go home, so I'll / keep teaching all by my wittle self! / Boo-hoo, boo-hoo, waaah!
+>> 36.51 | Yamagishi | ヒゲゴジラ…
+   EN: Higegodzilla...
+>> 36.52 | Higegodzilla | その声は…！？ / きゃ～！ / わたち うれちいわよ～！
+   EN: That voice...!? / Kyaaa! I'm sooo happy!
+>> 36.53 | Higegodzilla | う～ん ぶちゅ！ ぶちゅ！
+   EN: Mmmm, smooch! Smooch!
+>> 36.54 | Yamagishi | やめやがれ！ 気色悪ぃ～！
+   EN: Knock it off! That's gross!
+>> 36.55 | Jubei | イヤ～ン やめて！
+   EN: Ewww, stop it!
+>> 36.56 | Fukurokoji | うわっ なんだよ こいつ～！
+   EN: Whoa, what's with this guy!?
+>> 36.57 | Higegodzilla | さみちいのよぉ～！ / お願い わたちを連れてってぇ～ん！ / ね！ ね！
+   EN: I'm so wonewy! / Pwease, take me with youuu! Pwetty / pwease!
+>> 36.58 | Yamagishi | しょうがねぇなぁ そのかわり / 俺の召し使いだぞ！
+   EN: Fine, whatever. But you're my servant!
+>> 36.59 | Jubei | 先生 なんだか かわいそう… / いいわ 連れて行ってあげる！
+   EN: I kinda feel sorry for sensei... Okay, / we'll take you along!
+>> 36.60 | Fukurokoji | わかったよ / オヤブンに話してやるよ
+   EN: Fine, I'll talk to the Boss about it.
+>> 36.61 | Higegodzilla | きゃ～！ うれし～！ / 一生ついてくわ～！！
+   EN: Kyaaa! I'm so happy! I'll follow you / forever!!
+>> 36.62 | {p} | 里帰りするのに / いくら かかるんだい？
+   EN: How much does it cost to go home?
+>> 36.63 | Higegodzilla | 初乗り１３０円よ～ / 改札さえ通っちゃえば 後は… / イヒヒ
+   EN: The base fare's 130 yen, darling! Once / I'm through the ticket gate, the rest / is... Eehee hee.
+>> 36.64 | Higegodzilla | ま～ わたち うれちいわ～！
+   EN: Oh my, I'm so vewy happy!
+>> 36.65 | Higegodzilla | う～ん ぶちゅ！ ぶちゅ！
+   EN: Mmmm, smooch! Smooch!
+>> 36.66 | Higegodzilla | わたち / 里帰り出来てうれちいのよ～ / おかあちゃま～！ / あなたのさゆりが / 今 帰るわよ～！
+   EN: I'm so vewy happy I get to go home! / Mommy! / Your Sayuri is coming home now!
+>> 36.67 | Kibutsu Clan | 壊せ 壊せ！
+   EN: Smash it, smash it!
+>> 36.68 | Kibutsu Clan | 鬼獄界など / もはや存在しないのだ！
+   EN: The Kigoku World no longer exists!
+>> 36.69 | Kibutsu Clan | 魔王が世界を再生する！ / 鬼獄界は不要！ 暗黒寺も不要！
+   EN: The Demon King will remake the world! / No need for the Kigoku World! No / need for the Dark Temple!
+>> 36.70 | Kibutsu Clan | おぬしは…！ / 魔王が求める「再生の太陽」！？
+   EN: You...! The "Sun of rebirth" the Demon / King seeks!?
+>> 36.71 | Kibutsu Clan | おぬしを差し出せば / 魔王がお慶びになる！
+   EN: If we hand you over, the Demon King / will be pleased!
+>> 36.72 | Kibutsu Clan | 魔王のために！
+   EN: For the Demon King!
+>> 36.73 | Kitani | 外が静かになったと思ったら… / 手天童子と一緒にいた者だな？ / 鬼仏衆を倒してくれたのか
+   EN: I thought it had gone quiet outside... / You're the one who was with the / Shutendoji, aren't you? You defeated / the Kibutsu Clan for me.
+>> 36.74 | {p} | あなたは 鬼谷さん？ / 寺の中に いたの？
+   EN: Are you Kitani-san? You were inside / the temple?
+>> 36.75 | Kitani | いかに俺でも大勢の鬼仏衆相手に / ひとりでは どうにもならん / 寺の中で自刃し / 火をかけるつもりだったのだ / では…
+   EN: Even I can't do anything alone against / so many of the Kibutsu Clan. I meant / to take my own life inside the temple / and set it ablaze. Well then...
+>> 36.76 | {p} | …ちょ ちょっと！
+   EN: ...H-hey, wait!
+>> 36.77 | Kitani | 外が静かになったと思ったら… / 手天童子か… / 貴様 何しに寺を訪れたのだ？
+   EN: I thought it had gone quiet outside... / The Shutendoji, is it... What brings / you to the temple?
+>> 36.78 | Jiro | おまえには関係のないことだ！
+   EN: That's none of your business!
+>> 36.79 | Kitani | そうはいかん！ 俺は 寺を / 外敵から護らねばならぬ！
+   EN: It is! I must protect the temple from / outside enemies!
+>> 36.80 | Jiro | ならばなぜ 鬼仏衆に / 好き勝手させていたのだ？
+   EN: Then why did you let the Kibutsu Clan / do as they pleased?
+>> 36.81 | Kitani | いかに俺でも大勢の鬼仏衆相手に / ひとりでは どうにもならん / 寺の中で自刃し / 火をかけるつもりだったのだ / では…
+   EN: Even I can't do anything alone against / so many of the Kibutsu Clan. I meant / to take my own life inside the temple / and set it ablaze. Well then...
+>> 36.82 | {p} | …ちょ ちょっと！
+   EN: ...H-hey, wait!
+>> 36.83 | Jiro | 仇敵とはいえ 見捨てるわけには / いかないな
+   EN: He may be my sworn enemy, but I can't / abandon him.
+>> 36.84 | {p} | ダメだよ / 寺に火をかけるなんて！
+   EN: No! You can't set the temple on fire!
+>> 36.85 | Kitani | いくら祈りを捧げても / 鬼獄界からは何も聞こえてこない / こんなことは初めてだ…
+   EN: No matter how much I pray, I hear / nothing from the Kigoku World. This / has never happened before...
+>> 36.86 | {p} | …………
+   EN: ............
+>> 36.87 | Kitani | 鬼仏衆までが 俺に抗い始めた / なぜ 鬼獄界は 俺の呼びかけに / 応えてくれぬのだ！？
+   EN: Even the Kibutsu Clan has begun to / defy me. / Why won't the Kigoku World answer my / call!?
+>> 36.88 | {p} | もしかしたら…！
+   EN: Maybe...!
+>> 36.89 | Kitani | …なるほど！ / ここは 魔王の作った / ツギハギの世界であり / 俺の本当の世界は 別に存在する！ / そこには これまで通り / 鬼獄界が あるのだな！？
+   EN: ...I see! / This is a patchwork world made by the / Demon King, and my true world exists / elsewhere! / And there, the Kigoku World is just as / it always was!?
+>> 36.90 | {p} | はっきりとは言い切れないけどね
+   EN: I can't say for sure, though.
+>> 36.91 | Kitani | いや 間違いない / 黒い月があがる以前 / 鬼獄界は存在していた / 俺は それを感じたし 鬼獄界は / 俺の呼びかけに応えてくれた
+   EN: No, I'm certain of it. / Before the black moon rose, the / Kigoku World existed. I felt it, and / the Kigoku World answered my call.
+>> 36.92 | {p} | 今は まったくそれがないの？
+   EN: And now there's nothing at all?
+>> 36.93 | Kitani | そのとおりだ {p}！ / 俺も共に戦うぞ！ / 魔王は 鬼獄界の存亡に関る / 重大な敵だ / この敵と戦わずにいられようか！
+   EN: That's right, {p}! I'll / fight with you too! The Demon King is / a grave enemy who threatens the very / existence of the Kigoku World. How / could I not fight him!
+>> 36.94 | Jiro | 鬼獄界を護る者と 鬼獄界を壊す / 運命にあるという 俺が / 共に戦うというのも皮肉だな
+   EN: The one who guards the Kigoku World / fighting alongside me, the one fated / to destroy it... How ironic.
+>> 36.95 | Kitani | だが 俺とおまえは仇敵同士だ！ / そのことを忘れるな！
+   EN: But you and I are sworn enemies! Don't / forget that!
+>> 36.96 | Jiro | お互いに…な
+   EN: Same goes for you.
+>> 36.97 | Kitani | 行くぞ {p}
+   EN: Let's go, {p}.
+>> 36.98 | Kedaman | いや～ おもしろかったぜ！ / なっ！ 怒良野！
+   EN: Man, that was a blast! Right, Dorano!
+>> 36.99 | Dorano | ふん！ 隙をみて ケダマンを / やっつけようと思ってたのに / それどころじゃなかったぜ…
+   EN: Hmph! I was planning to take Kedaman / down when he let his guard slip, but I / never got the chance...

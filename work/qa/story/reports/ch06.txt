@@ -1,0 +1,14 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+- 14.70 — Ryoma says he will follow Mondo anywhere — Speaker label “Ryoma Shindo” conflicts with the glossary’s binding “Ryoma Mido.” — Suggested EN label: **Ryoma Mido**; dialogue unchanged.
+- 14.73 — Kapaeru remarks that the human world faces one problem after another — “I do declare” adds an unsupported genteel mannerism to his casual voice. — Suggested EN: “One thing after another! The human world sure has it rough.”
+
+### Assessment
+**ok** — The betrayal, Maria’s sacrifice, Uryu’s reluctant cooperation, and the closing romantic reassurance preserve the chapter’s emotional progression and callbacks without introducing continuity breaks or premature reveals.

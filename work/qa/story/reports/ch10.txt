@@ -1,0 +1,14 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+- **30.11; speaker tags 30.33–30.47** - Miroku introduces his father, 無幻大権 - “Daigon Mugen” contradicts the glossary’s binding reading **Taigen**; the subsequent “Daigon” speaker tags repeat it. - Suggested EN: “I am Miroku Mugen, son of Taigen Mugen, lord of Kuryu Castle!” Change the affected speaker tags to “Taigen.”
+
+#### Minor (deferred to the polish pass)
+- **32.13** - “I did it out of concern for you! And yet…!” - “I did it thinking of you! And yet! And yet!!” sounds translated and makes her wounded outburst less natural. - Suggested EN: “I did it for you! And this... this is what I get!!”
+- **32.91** - Kekko Kamen offers help provided they respect her secret identity - “I'll help you solve the mystery, shall I?” muddles the confident conditional offer. - Suggested EN: “If you don't pry into my true identity... I'll help you solve the mystery!”
+
+### Assessment
+**issue** - The chapter preserves its story reveals, emotional progression, and comedy, but Miroku’s father’s name conflicts with the binding glossary throughout his scene.

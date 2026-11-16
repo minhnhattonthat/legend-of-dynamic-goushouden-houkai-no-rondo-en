@@ -1,0 +1,13 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+- 23.07, 23.34, 24.52 — JP gist: Ryoma’s reactions and preferred assignment — The chapter’s speaker label reads “Ryoma Shindo,” contradicting the glossary’s binding “Ryoma Mido.” Suggested EN speaker label: **Ryoma Mido**.
+
+### Assessment
+**ok** — Grade’s promises and their callbacks remain coherent; Honey’s grief, the allies’ fear, and the renewed resolve retain their emotional force, with no premature reveals or significant voice drift.

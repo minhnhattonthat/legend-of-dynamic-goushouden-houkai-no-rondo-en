@@ -6,6 +6,9 @@
 /work/qa/*
 !/work/qa/review/
 /work/qa/review/*/*.log
+!/work/qa/story/
+/work/qa/story/*.log
+/work/qa/story/*/*.log
 /dist/
 /release/
 .venv/

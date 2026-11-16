@@ -1,0 +1,14 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+- 25.71 - Honey apologizes for being unable to protect the protagonist - “Protect you all the way” sounds awkward at the moment she prepares to sacrifice herself, weakening her farewell - Suggested EN: “{p}-kun... I'm sorry. I couldn't keep you safe...”
+- 28.43 - Ryoma playfully declares that even death cannot separate him and Mondo - The added “hmmm~!” sounds contemplative rather than teasing, blunting Mondo’s embarrassed response - Suggested EN: “That's right! Even death won't tear us apart!”
+
+### Assessment
+ok - Read all 500 entries; the masked identity, Grade’s deception, grief and reunion, and return-loop callbacks remain coherent, with no Critical or Important issues.

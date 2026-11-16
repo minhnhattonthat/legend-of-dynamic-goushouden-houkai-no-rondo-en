@@ -215,7 +215,7 @@
    4774
   ],
   "jp": "門土\n俺も 望むところよ！\n\nたいくつな世界は\nこっちから 願い下げだぜ",
-  "en": "Mondo\nBring it on, I say!\n\nA boring world, I'll pass on, thanks.",
+  "en": "Mondo\nBring it on, I say!\n\nA boring world? I'll pass, thanks!",
   "status": "done",
   "notes": ""
  },
@@ -285,7 +285,7 @@
    4804
   ],
   "jp": "{s}\nおそいよ {p}！\nいつも時間にルーズなんだから！",
-  "en": "{s}\nYou're late, {p}! You're\nalways so sloppy about time!",
+  "en": "{s}\nYou're late, {p}! You're\nnever on time!",
   "status": "done",
   "notes": ""
  },

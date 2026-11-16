@@ -1,0 +1,13 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+- 36.73–36.97 (Kitani’s speaker tags) - JP identifies 鬼谷, addressed as Kitani-san in 36.74 - Speaker tags use “Onitani,” conflicting with both the dialogue and the glossary’s binding reading - Suggested EN speaker name: “Kitani” throughout.
+
+### Assessment
+ok - Comedy callbacks, Dante’s emotional arc, uneasy alliances, and character voices remain coherent; only a speaker-name consistency fix is needed.

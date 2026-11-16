@@ -1,0 +1,802 @@
+# ch08: Grade, Dr. Hell, Professor Yumi's lab (archive files f21-f24, story order)
+
+>> 21.00 | {p} | …！！
+   EN: ...!!
+>> 21.01 | {p} | やめてくれ… / やめるんだ {s}！！
+   EN: Stop it... Stop, {s}!!
+>> 21.02 | {p} | {s}！
+   EN: {s}!
+>> 21.03 | {s} | …逃げて {p}…
+   EN: ...Run, {p}...
+>> 21.04 | {p} | {s}！
+   EN: {s}!
+>> 21.05 | Black Fiend | グオオオオオオ…！
+   EN: GUOOOOOOOH...!
+>> 21.06 | {p} | くるな…！ くるなぁ～！！
+   EN: Stay back...! Stay baaack!!
+>> 21.07 | {p} | イヤだ イヤだ…！ / 誰か…！ / ハッ…！？
+   EN: No, no...! Somebody...! Huh...!?
+>> 21.08 | ??? | …聞こえるか？ / 我が声が聞こえるか…？
+   EN: ...Can you hear me? Can you hear my / voice...?
+>> 21.09 | {p} | だ 誰だ？
+   EN: Wh-who's there?
+>> 21.10 | Grade | 我はグレイド… / そして無数の名を我は持つ者…
+   EN: I am Grade... One who bears countless / names...
+>> 21.11 | {p} | グレイド…？
+   EN: Grade...?
+>> 21.12 | Grade | 「破壊の月」と「つがい」を / なす者よ 聞くがよい… / おまえは「再生の太陽」…
+   EN: You who form a "pair" with the "Moon / of destruction," hear me... You are / the "Sun of rebirth"...
+>> 21.13 | {p} | 破壊の月？ / 再生の太陽？
+   EN: The Moon of destruction? The Sun of / rebirth?
+>> 21.14 | Grade | 知りたくば 教えよう… / おまえを我が元へいざない / すべてを ひとつに… / あらゆる 苦しみや 憎しみ / 悲しみから 解放される世界… / 我と来るなら おまえを すべてから / 解き放ってやろう…
+   EN: If you wish to know, I shall tell you... / I shall draw you to me, and make all / things one... A world freed from / every pain, hatred and sorrow... Come / with me, and I shall free you from / everything...
+>> 21.15 | {p} | すべての苦しみから…？
+   EN: From every pain...?
+>> 21.16 | Grade | 来るが良い 我が元に…
+   EN: Come to me...
+>> 21.17 | {p} | 僕を… 連れて行ってくれるのか？
+   EN: You'll... take me with you?
+>> 21.18 | Honey Kisaragi | ダメよ！
+   EN: No!
+>> 21.19 | {p} | ハッ…？ / うわ～！
+   EN: Huh...? Whoaaa!
+>> 21.20 | Honey Kisaragi | 良かった 気がついたわね！
+   EN: Thank goodness, you've come to!
+>> 21.21 | Shinichi | おまえは 黒い物体に / 飲み込まれちまったんだ
+   EN: You got swallowed up by a black thing.
+>> 21.22 | Shusha | 俺達 ふたりじゃ / どうしようもなかったけど / ちょうどハニーが 来てくれたんだ
+   EN: The two of us couldn't do anything, / but Honey showed up just in time.
+>> 21.23 | {p} | ありがとう ハニー
+   EN: Thanks, Honey.
+>> 21.24 | Honey Kisaragi | あなた 黒い物体に包まれながら / 「連れて行って」なんて言ってる / から ビックリしちゃったわ
+   EN: You were wrapped up in that black / thing, / saying "take me with you," so I got a / real shock.
+>> 21.25 | {p} | 僕が…？
+   EN: I said that...?
+>> 21.26 | Shinichi | 覚えてないのか？
+   EN: You don't remember?
+>> 21.27 | {p} | うん…
+   EN: No...
+>> 21.28 | {p} | {s}は…！？
+   EN: Where's {s}...!?
+>> 21.29 | Shinichi | …………
+   EN: ............
+>> 21.30 | Shusha | …………
+   EN: ............
+>> 21.31 | {p} | …そんな…
+   EN: ...No...
+>> 21.32 | Honey Kisaragi | {p}君…
+   EN: {p}-kun...
+>> 21.33 | Honey Kisaragi | きゃっ！
+   EN: Eek!
+>> 21.34 | {p} | ハニー！
+   EN: Honey!
+>> 21.35 | Honey Kisaragi | …………
+   EN: ............
+>> 21.36 | {p} | あの姿…！？
+   EN: That shape...!?
+>> 21.37 | Shusha | どうした {p}君？
+   EN: What is it, {p}-kun?
+>> 21.38 | {p} | 黒い物体に包まれた時 あいつ / そっくりのヤツと会ったんだ！ / 魔王…グレイド… / アイツが すべての黒幕だ！
+   EN: When the black thing swallowed me, I / met someone who looked just like / that! The Demon King... Grade... He's / the one behind everything!
+>> 21.39 | Grade | グググ… ゴゴゴ…
+   EN: Grrr... Rumble...
+>> 21.40 | Grade | ま まだ… 時が満たぬ… / 我が力は… 弱い… / まもなく訪れる結合の時… / その時 我は更なる力を得て…
+   EN: N-not yet... The time is not yet ripe... / My power... is weak... Soon will come / the time of joining... Then I shall gain / still greater power...
+>> 21.41 | Grade | そなたは我がモノとなり… / 我が野望は実現する…
+   EN: You shall become mine... and my / ambition shall be realized...
+>> 21.42 | Honey Kisaragi | う～ん…
+   EN: Uhh... nnn...
+>> 21.43 | {p} | 良かった！ / 気がついたね！
+   EN: Thank goodness! You've come to!
+>> 21.44 | Honey Kisaragi | {p}君を助けたつもりが / 助けられちゃったみたいね…
+   EN: I meant to rescue you, / {p}-kun, but it looks / like you rescued me...
+>> 21.45 | {p} | まだ 助けなくちゃならない人が / いるんだ…
+   EN: There's still someone I have to / rescue...
+>> 21.46 | {p} | 弓教授！
+   EN: Professor Yumi!
+>> 21.47 | Professor Yumi | おぉ {p}君！ / 大変だったね 話は聞いたよ
+   EN: Ah, {p}-kun! You've been / through a lot. I heard all about it.
+>> 21.48 | Seiji Hayami | いや～ ひどいもんだよ！
+   EN: Man, what a mess out there!
+>> 21.49 | Koji Kabuto | 地上は あちこち暴徒だらけだよ / ホバーパイルダーがあって / 良かったよ
+   EN: There are rioters all over the ground. / Good thing I had the Hover Pilder.
+>> 21.50 | Honey Kisaragi | 外は… そんなに酷いの？
+   EN: Is it... that bad outside?
+>> 21.51 | Koji Kabuto | あんまり{p}君には / 見せたくないが… / 窓の外を見てごらん
+   EN: I'd rather not show you this, / {p}-kun... but take a / look out the window.
+>> 21.52 | Rioter | {p}を魔王に差し出せ～！ / 次元連鎖は それで収まるんだ～！
+   EN: Hand {p} over to the / Demon King! That'll stop the / Dimension Chain!
+>> 21.53 | Rioter | 魔王が すべてを / 解決してくれるのだぁ～！
+   EN: The Demon King will make everything / right!
+>> 21.54 | Rioter | {p}を出せ！ / {p}を出せ！
+   EN: Give us {p}! Give us / {p}!
+>> 21.55 | {p} | …なんてことだ
+   EN: ...This is terrible.
+>> 21.56 | Professor Yumi | 事態は 予断を許さない / 不安に駆られた人々が / 暴徒化している / 状況を急いで整理し / 分析する必要がある
+   EN: The situation could go either way. / People driven by fear are turning into / a mob. We need to sort out and / analyze the situation, quickly.
+>> 21.57 | Professor Yumi | にわかには信じられんことが / 続発したようだね
+   EN: It seems one unbelievable thing after / another has been happening.
+>> 21.58 | Seiji Hayami | 科学都市に来た時には / 俺達も我が目を疑ったもんな…
+   EN: When we got to Science City, we / couldn't believe our eyes either...
+>> 21.59 | Honey Kisaragi | 何が起こったの？ / みんなは 無事かしら？
+   EN: What's happened? Is everyone okay?
+>> 21.60 | Seiji Hayami | 最新の設備と 人材を揃えた / 科学都市が… まるで廃墟だ！
+   EN: Science City, with all its latest / equipment and top people... it's like / a ruin!
+>> 21.61 | Honey Kisaragi | 夏ちゃんを おじ様に / 送って貰って 良かったわ
+   EN: I'm glad I had your father take / Natsu-chan home.
+>> 21.62 | Seiji Hayami | 神経の細い 夏子ちゃんには / 見せたくない光景だね…
+   EN: Not a sight I'd want sensitive little / Natsuko-chan to see...
+>> 21.63 | Honey Kisaragi | 見て 青児君！
+   EN: Look, Seiji-kun!
+>> 21.64 | Worker | ひ ひ ひぃ～！
+   EN: Eeeeeek!
+>> 21.65 | Honey Kisaragi | 大変！
+   EN: Oh no!
+>> 21.66 | Worker | …仰せのままに
+   EN: ...As you command.
+>> 21.67 | Honey Kisaragi | はっ！？
+   EN: Huh!?
+>> 21.68 | Honey Kisaragi | きゃ～！
+   EN: Kyaaa!
+>> 21.69 | Honey Kisaragi | なんなの この黒いの！？ / いや～ん / なんか 気持ちわる～い！
+   EN: What IS this black thing!? / Eww, it's so creepy!
+>> 21.70 | Seiji Hayami | あちこちに 黒いのがいるぜ
+   EN: There's black things all over the / place.
+>> 21.71 | Honey Kisaragi | 人々が 黒い物体に / 操られている…？
+   EN: The people are being controlled by / black things...?
+>> 21.72 | Honey Kisaragi | …とゆ～わけで / 操られた人達を 尾行したら / {p}君が 大変な目に / あってる現場に遭遇…ってわけ！
+   EN: ...And so, we tailed the people being / controlled and stumbled right onto / the scene of {p}-kun in / big trouble!
+>> 21.73 | Professor Yumi | 黒い物体に操られた人々は / 何者かの声を 聞いたと / 言っているそうだね？ / その人達から / 話を聞いてみようと思う
+   EN: The people controlled by the black / things... / say they heard someone's voice, don't / they? I'm thinking of asking them / about it.
+>> 21.74 | Koji Kabuto | 俺も そろそろ出ます 教授
+   EN: I'll be heading out soon too, / Professor.
+>> 21.75 | {p} | 待ってください 弓教授！
+   EN: Wait, Professor Yumi!
+>> 21.76 | Professor Yumi | {s}君を想う / 君の気持ちは わかる / だが 君にも / わかって欲しいことがある
+   EN: I understand how you feel about / {s}-kun. But / there's something I want you to / understand, too.
+>> 21.77 | Professor Yumi | 次元連鎖現象は 今も続いている / そして 黒い月がもたらす悲劇は / 次の段階に入ったのだ / 黒い月によって「魔」の残骸が / 息を吹き返し / 黒い物体 黒い魔物となり / 人々を襲っている
+   EN: The Dimension Chain phenomenon is still / going on. / And the tragedy the black moon brings / has entered its next stage. The / black moon has breathed life back / into the remains of the "Ma," and / they've become black things, black / fiends, attacking people.
+>> 21.78 | Professor Yumi | 黒い魔物に取り憑かれた人々は / 暴徒化し 魔王に操られる / 被害は広がるばかり… つまり / 魔王の力は 強まりつつある！ / どの程度の規模なのかは / 甲児君の報告待ちだが…
+   EN: People possessed by the black fiends / turn into rioters, controlled by the / Demon King. The damage only / spreads... In other words, the Demon / King's power is growing! As for how / widespread it is, we're waiting on / Koji-kun's report...
+>> 21.79 | Honey Kisaragi | それで 甲児君 / 出かけて行ったのね
+   EN: So that's why Koji-kun went out.
+>> 21.80 | Professor Yumi | {p}君 私は 君や / {s}君のために / 出来るだけのことをしてやりたい！ / だが 事態は / 全人類を脅かしている！ / 私は 光子力研究所の所長として / 人類を救うために / 努力せねばならないのだ！
+   EN: {p}-kun, I want to do / everything I can for you and / {s}-kun! / But this situation threatens all of / mankind! As director of the Photon / Power Lab, I have to work to save / mankind!
+>> 21.81 | {p} | ………
+   EN: .........
+>> 21.82 | Professor Yumi | 私も… つらいのだよ…
+   EN: This is... hard for me too...
+>> 21.83 | Professor Yumi | 許してくれ… {p}君
+   EN: Forgive me... {p}-kun.
+>> 21.84 | Researcher | 弓教授 ホバーパイルダー / 先ほど 発進しました
+   EN: Professor Yumi, the Hover Pilder just / took off.
+>> 21.85 | Professor Yumi | では 黒い物体に操られた人達の / 様子を 見に行こう
+   EN: Then let's go see how the people / controlled by the black things are / doing.
+>> 21.86 | {p} | …外の人達 みんな / 僕を魔王に差し出せって？
+   EN: ...All those people outside want me / handed over to the Demon King?
+>> 21.87 | Seiji Hayami | 黒い物体に / 操られた人達の中には / 次元連鎖を調べていた / 科学者が いるらしいんだ / そいつがなぜか / 君を魔王に差し出せ！ / そう 煽っているらしい
+   EN: Among the people controlled by the / black things, there's apparently a / scientist who was studying the / Dimension Chain. For some reason, / he's stirring them up, saying "Hand him / over to the Demon King!"
+>> 21.88 | Honey Kisaragi | あなたと同じ世界から来た / {s}が 黒い月に / 吸い寄せられていったと / そんなウワサが 流れているの
+   EN: There's a rumor going around that / {s}, who came from the / same world as you, was drawn into the / black moon.
+>> 21.89 | {p} | …たったそれだけのことで？
+   EN: ...Just because of that?
+>> 21.90 | {p} | {s}だって / 被害者じゃないか！ / 僕だって そうだ！ / 僕だって 被害者だ！
+   EN: {s} is a victim too! So am / I! I'm a victim too!
+>> 21.91 | Honey Kisaragi | あなたの気持ちは わかるわ / でも 弓教授も / おっしゃったじゃない / 次元連鎖で / 世界は 狂い始めているのよ…！
+   EN: I understand how you feel. / But Professor Yumi said it too, didn't / he? The Dimension Chain is starting / to drive the world mad...!
+>> 21.92 | {p} | だけど…！
+   EN: But...!
+>> 21.93 | Honey Kisaragi | いい加減にしなさい！
+   EN: That's enough!
+>> 21.94 | {p} | ハニー…
+   EN: Honey...
+>> 21.95 | Honey Kisaragi | あ ご ごめんなさい…
+   EN: Oh, I-I'm sorry...
+>> 21.96 | Seiji Hayami | ハニーの気持ちも わかってやれよ
+   EN: Try to understand how Honey / feels, too.
+>> 21.97 | {p} | ハニーの気持ち…？
+   EN: How Honey feels...?
+>> 21.98 | Seiji Hayami | ハニーだって / 次元連鎖の被害者なんだぜ？ / もしも次元連鎖が起こらなかったら / ハニーのパパだって…
+   EN: Honey's a victim of the Dimension Chain / too, y'know? If the Dimension Chain / had never happened, Honey's papa / would still...
+>> 21.99 | {p} | …！！
+   EN: ...!!
+>> 22.00 | Honey Kisaragi | あたしだって こんな世界… / イヤなの！
+   EN: I hate this world too...! I hate it!
+>> 22.01 | {p} | ハニー…
+   EN: Honey...
+>> 22.02 | Koji Kabuto | ホバーセット！ / パイルダー オーン！
+   EN: Hover set! Pilder ON!
+>> 22.03 | Koji Kabuto | スクランダー！ / クロース！
+   EN: Scrander! CROSS!
+>> 22.04 | Koji Kabuto | アレは…海底要塞サルード？ / でも 様子がおかしい… / 調べてみよう
+   EN: Is that... the undersea fortress / Saluud? / But something's off... Let's check / it out.
+>> 22.05 | Koji Kabuto | 行ってみよう！
+   EN: Let's go see!
+>> 22.06 | Koji Kabuto | 海底要塞サルードに / 黒い物体が張りついている！
+   EN: Black things are stuck all over the / undersea fortress Saluud!
+>> 22.07 | Koji Kabuto | 黒い物体が 機械獣を操って / サルードを攻撃しているのか？
+   EN: Are the black things controlling the / Mechanical Beasts and attacking the / Saluud?
+>> 22.08 | Ashura (Male) | むむ？ あれはマジンガーＺ！
+   EN: Hmm? That's Mazinger Z!
+>> 22.09 | Ashura (Female) | もしや この黒い物体は / マジンガーＺの新しい武器なの？
+   EN: Could these black things be Mazinger / Z's new weapon?
+>> 22.10 | Koji Kabuto | 弓教授に 相談したほうが / 良さそうだ…
+   EN: Better talk it over with Professor / Yumi...
+>> 22.11 | Researcher | 弓教授！ 甲児くんから / 無線が入っています
+   EN: Professor Yumi! There's a radio call / from Koji-kun.
+>> 22.12 | Professor Yumi | こちら弓だ どうした？
+   EN: Yumi here. What is it?
+>> 22.13 | Koji Kabuto | {!R}黒い物体が 機械獣を操り / 海底要塞サルードを攻撃してます / {!R}弓教授… / 俺は どうしたらいいでしょう？
+   EN: {!R}Black things are controlling the / Mechanical Beasts and attacking the / undersea fortress Saluud. {!R}Professor / Yumi... what should I do?
+>> 22.14 | Professor Yumi | う～む…
+   EN: Hmmm...
+>> 22.15 | Researcher | 共倒れを狙う… / って手もありますけど？
+   EN: We could always let them wipe each / other out...?
+>> 22.16 | Professor Yumi | いや それは…いかん！ / 甲児君！ / サルードを助けるんだ！
+   EN: No, that... won't do! / Koji-kun! Save the Saluud!
+>> 22.17 | Koji Kabuto | {!R}ドクター・ヘルの / 味方をするんですか？
+   EN: {!R}You want me to side with Dr. Hell?
+>> 22.18 | Professor Yumi | 機械獣軍団も 黒い物体も / 確かに我々の敵だ / しかし 黒い物体は / 次元連鎖と関係が深い
+   EN: The Mechanical Beast army and the / black things are both our enemies, / certainly. But the black things are / deeply tied to the Dimension Chain.
+>> 22.19 | Koji Kabuto | {!R}ドクターヘルは / 世界征服を狙ってるけど / {!R}次元連鎖は世界を破壊する危険性が / ある…ってことですね！
+   EN: {!R}So Dr. Hell's after world domination, / {!R}but the Dimension Chain could / destroy the world, right?
+>> 22.20 | Professor Yumi | そのとおりだ 甲児君！
+   EN: Exactly, Koji-kun!
+>> 22.21 | Koji Kabuto | {!R}解りました 教授！ / サルードを救援します！
+   EN: {!R}Understood, Professor! I'll go rescue / the Saluud!
+>> 22.22 | Professor Yumi | うむ 頼むぞ！
+   EN: Good. I'm counting on you!
+>> 22.23 | Professor Yumi | 事態は ますます 複雑に / なっていく… なんとかせねば！
+   EN: Things just keep getting more / complicated... I must do something!
+>> 22.24 | Koji Kabuto | あしゅら男爵！ / 不本意だが 味方するぜ！
+   EN: Baron Ashura! I don't like it, but I'm on / your side!
+>> 22.25 | Ashura (Male) | ふざけるな！
+   EN: Don't be absurd!
+>> 22.26 | Ashura (Female) | この黒い物体は / おまえの仲間じゃないの！？
+   EN: Aren't these black things your / friends!?
+>> 22.27 | Koji Kabuto | 話は後だ！ 死にたくなければ / 俺と共に戦え！
+   EN: Talk later! If you don't wanna die, / fight with me!
+>> 22.28 | Ashura (Male) | 黙れ！ 誰が貴様などと…
+   EN: Silence! As if I'd ever
+>> 22.29 | Ashura (Female) | 手を組んで戦うものか！
+   EN: join hands with the likes of you!
+>> 22.30 | Ashura (Male) | ぐぐぅ…！
+   EN: Ngggh...!
+>> 22.31 | Ashura (Female) | 機械獣 どうしてなの！？
+   EN: Mechanical Beasts, why!?
+>> 22.32 | Koji Kabuto | ちっ！ 見ちゃいられないぜ！
+   EN: Tch! I can't just stand here and watch!
+>> 22.33 | Dr. Hell | 話はわかった 兜甲児よ / 魔王は 我らにとって / 共通の敵のようだ
+   EN: I understand, Koji Kabuto. / It seems the Demon King is a common / enemy to us both.
+>> 22.34 | Koji Kabuto | さすがドクター・ヘル / 飲み込みが早いぜ
+   EN: Just what I'd expect from Dr. Hell. You / catch on quick.
+>> 22.35 | Dr. Hell | 次元連鎖については / ワシも 気がついていた / 世界を滅ぼされてたまるか！
+   EN: I had noticed the Dimension Chain as / well. I won't let the world be / destroyed!
+>> 22.36 | Ashura (Female) | ええ～っ！
+   EN: Whaaat!
+>> 22.37 | Dr. Hell | ドクター・ヘルの命令に / 従えぬのか！？
+   EN: You would disobey the orders of Dr. / Hell!?
+>> 22.38 | Ashura (Male) | けっして
+   EN: Never,
+>> 22.39 | Ashura (Female) | そんな…
+   EN: but...
+>> 22.40 | Dr. Hell | よいな あしゅら男爵 / 兜甲児と共に行き 戦うのだ！
+   EN: Understood, Baron Ashura? Go with / Koji Kabuto and fight!
+>> 22.41 | Koji Kabuto | …！？
+   EN: ...!?
+>> 22.42 | Dr. Hell | だが兜甲児よ！ / この戦いが終わった時 再び我らは / 敵となることを忘れるな！
+   EN: But mark me, Koji Kabuto! / When this battle is over, we shall be / enemies once more. Never forget it!
+>> 22.43 | Koji Kabuto | 当たり前だ！
+   EN: Of course!
+>> 22.44 | Dr. Hell | わっはっはっはっは…！
+   EN: Wahahahahaha...!
+>> 22.45 | Dr. Hell | 良いか ヤツらの戦力をスパイする / 絶好の機会だ！
+   EN: Listen, this is the perfect chance to / spy on their forces!
+>> 22.46 | Ashura (Male) | なるほど…！
+   EN: I see...!
+>> 22.47 | Dr. Hell | 戦いが終わったら 今度こそ / マジンガーＺを奪ってくるのだ！
+   EN: Once the battle is over, this time you / WILL steal Mazinger Z!
+>> 22.48 | Ashura (Female) | 素晴らしい策略ですわ！
+   EN: A marvelous scheme!
+>> 22.49 | Koji Kabuto | おまえら 何をヒソヒソ話てんだ？
+   EN: What are you guys whispering about?
+>> 22.50 | Ashura (Male) | こっちの話だ！
+   EN: Our own business!
+>> 22.51 | Ashura (Female) | 盗み聞きなんて失礼だわ！
+   EN: Eavesdropping is so rude!
+>> 22.52 | Dr. Hell | よせよせ！ / 昨日の敵は 今日の友じゃ！ / わっはっはっはっは…！
+   EN: Now, now! Yesterday's enemy is / today's friend! Wahahahahaha...!
+>> 22.53 | Dr. Hell | あしゅら男爵よ！ おまえは / 兜甲児と共に行くのだ！
+   EN: Baron Ashura! You will go with Koji / Kabuto!
+>> 22.54 | Honey Kisaragi | 元気を出して {p}！ / 弓教授のことだもの / {s}を / 見捨てたわけじゃないわ！
+   EN: Cheer up, {p}! This is / Professor Yumi we're talking about. / He hasn't abandoned / {s}!
+>> 22.55 | Seiji Hayami | マンガだって ゲームだって / 奪われたヒロインを救って / ハッピーエンドだろ？ / きっと うまくいくさ！
+   EN: In manga and games, they always save / the kidnapped heroine for a happy / ending, right? It'll work out for sure!
+>> 22.56 | {p} | ふたりとも ありがとう…
+   EN: Thanks, you two...
+>> 22.57 | Seiji Hayami | 弓教授に会いに行こうか？ / 何か つかんだかも しれないし / 弓教授は このフロアの奥の部屋に / いるはずだよ
+   EN: Wanna go see Professor Yumi? He / might've found something. He should / be in the room at the back of this / floor.
+>> 22.58 | Honey Kisaragi | 甲児くんも / 戻ってきてるかも しれないわ！
+   EN: Koji-kun might be back too!
+>> 22.59 | {p} | そうだね…
+   EN: Yeah...
+>> 22.60 | Controlled Person | 黒い物体に操られていた時 / 不思議な安心感を感じたのです / ２つのものが１つに ピッタリと / はまったような感じだった…
+   EN: While the black thing was controlling / me, I felt a strange sense of peace. / It was as if two things clicked / perfectly into one...
+>> 22.61 | Controlled Person | 素晴らしい 上司やリーダーと / めぐり会えた… / そんな気持ちになったよ / だから僕には 外の連中が 魔王を / 信奉するのも わかるんだよね
+   EN: It felt like I'd met a wonderful boss or / leader... / So I can understand why the people / outside worship the Demon King.
+>> 22.62 | Controlled Person | 黒い物体に操られると / 意識は消えちまう… / だけど 強い使命感を感じたんだ
+   EN: When the black thing controls you, / your mind goes blank... But I felt a / strong sense of mission.
+>> 22.63 | Controlled Person | 何をしても すべて許される！ / って気になったさ / だから あんなに 暴力的に / なったんだと思うのさ
+   EN: I felt like anything I did would be / forgiven! I think that's why I got so / violent.
+>> 22.64 | Professor Yumi | それは 興味深い話だな… / いや 報告ありがとう
+   EN: That's interesting... Thank you for / the report.
+>> 22.65 | Guard | それでは 失礼します！
+   EN: Then I'll be going!
+>> 22.66 | Professor Yumi | ちょうど いいところに来た / 新しい情報が入ったぞ
+   EN: You came at just the right time. New / information has come in.
+>> 22.67 | Professor Yumi | さっき ガードマン君が / 知らせてくれたんだ / ちょっと ニュースを / 見てみたまえ
+   EN: Our guard-kun just told me. Take a / look at the news.
+>> 22.68 | Announcer | {!R}黒い物体に操られ 魔王の声を / 聞いたと言う人々が / {!R}ある場所に集まり始めています！
+   EN: {!R}People who were controlled by black / things and claim to have heard the / Demon King's voice {!R}are beginning to / gather in one place!
+>> 22.69 | {p} | 始まりの丘だ！
+   EN: It's the Hill of Beginnings!
+>> 22.70 | Announcer | {!R}この人達は この丘に / 祭壇を 築き始めました！ / {!R}無気味な像まで 作っています！
+   EN: {!R}These people have begun building an / altar on this hill! {!R}They're even making / an eerie statue!
+>> 22.71 | Seiji Hayami | 祭壇に 像？
+   EN: An altar and a statue?
+>> 22.72 | Announcer | {!R}魔王を信奉する人々が / 続々と集まってきています！
+   EN: {!R}People who worship the Demon King are / gathering one after another!
+>> 22.73 | Professor Yumi | 人々は / {p}君が聞いた言葉と / 同じ言葉を / 口にしているそうだよ
+   EN: They say the people are saying the / same words you heard, / {p}-kun.
+>> 22.74 | {p} | 僕が聞いた言葉？
+   EN: The words I heard?
+>> 22.75 | Professor Yumi | 結合の時…
+   EN: The time of joining...
+>> 22.76 | Honey Kisaragi | より強い力…
+   EN: Greater power...
+>> 22.77 | Seiji Hayami | 野望の実現…
+   EN: Ambition realized...
+>> 22.78 | {p} | …………
+   EN: ............
+>> 22.79 | Professor Yumi | これが 意味していることは / ひとつ！
+   EN: This can only mean one thing!
+>> 22.80 | {p} | 魔王は まだ / 完全な力を得ていない…！
+   EN: The Demon King hasn't gained his full / power yet...!
+>> 22.81 | Professor Yumi | 結合の時が 何を意味しているのか / 解らない / だが その時 / 魔王が 真の力を発揮する！
+   EN: I don't know what the time of joining / means. But when it comes, the Demon / King will unleash his true power!
+>> 22.82 | Honey Kisaragi | その前に… なんとかしなくちゃ！
+   EN: Before that happens... we have to do / something!
+>> 22.83 | Professor Yumi | 我々も なんとか 戦力を / 拡充したいところだな / あしゅら男爵が / 仲間になったように…
+   EN: We'd like to build up our forces / somehow too. The way Baron Ashura / joined us...
+>> 22.84 | {p} | え～っ！？
+   EN: Whaaat!?
+>> 22.85 | Honey Kisaragi | いや～ん！
+   EN: Nooo!
+>> 22.86 | Seiji Hayami | そりゃ / ガセネタじゃないんですか？
+   EN: Isn't that just a bogus tip?
+>> 22.87 | Professor Yumi | ホントだとも！ 実は 黒い物体が / 海底要塞サルードを襲ったのだ
+   EN: It's true! The fact is, black things / attacked the undersea fortress / Saluud.
+>> 22.88 | Professor Yumi | そこで 黒い物体の脅威に / 対抗するため / しばらくの間 機械獣軍団と / 手を組むことになったのだ
+   EN: So, to counter the threat of the / black things, we've joined hands with / the Mechanical Beast army for the / time being.
+>> 22.89 | Seiji Hayami | それは… 頼もしいというか / なんというか…
+   EN: Well, that's... reassuring, or... / something...
+>> 22.90 | Honey Kisaragi | 複雑な気持ちよね / それだけ 黒い物体が 猛威を / 振るってる…ってことだもん
+   EN: It's complicated, isn't it? / It just shows how fierce the black / things have gotten.
+>> 22.91 | {p} | でも これまで敵だった人達と / 仲間になれるチャンスかも！
+   EN: But maybe it's a chance to make / friends with people who used to be / enemies!
+>> 22.92 | Professor Yumi | 我々は 一致団結して / 困難に 立ち向かわねばならん！
+   EN: We must all stand united against this / crisis!
+>> 22.93 | Professor Yumi | 弓弦之助です / そうですか 解りました
+   EN: Gennosuke Yumi speaking. / I see. Understood.
+>> 22.94 | Professor Yumi | 居住エリア周辺から / 暴徒を追い出したそうだ / 私は これから 会議があるので / これで失礼するよ
+   EN: They've driven the rioters away from / the residential area. I have a meeting / now, so I'll excuse myself.
+>> 22.95 | Honey Kisaragi | あしゅら男爵が仲間って / びみょ～な感じよね
+   EN: Baron Ashura on our side... It's a weird / feeling, huh?
+>> 22.96 | {p} | 外へ出るのは 弓教授に / 状況を 確認してからだ
+   EN: We'll go outside after we check the / situation with Professor Yumi.
+>> 22.97 | {p} | 外へ出るのは 早乙女博士に / 状況を 確認してからだ
+   EN: We'll go outside after we check the / situation with Dr. Saotome.
+>> 22.98 | Professor Yumi | 魔王は / {p}君を「再生の太陽」と / {s}君を「破壊の月」と / 呼ぶ / また 暴徒達は {p}君を / 魔王に差し出せといっている / これは 魔王が言う「結合の時」に / 関係あると思われる
+   EN: The Demon King calls / {p}-kun the "Sun of / rebirth" and {s}-kun / the "Moon of destruction." And the / rioters are saying to hand / {p}-kun over to the / Demon King. I believe this is connected / to what the Demon King calls the / "time of joining."
+>> 22.99 | Professor Yumi | 居住エリアからは 出ないことだ / もしも 君が魔王に捕らえられたら / 結合の時とやらが / 訪れてしまうかもしれない…
+   EN: Don't leave the residential area. If the / Demon King captures you, this "time / of joining" may come...
+>> 23.00 | Scientist | う～む… わからん…！
+   EN: Hmmm... I can't make sense of it...!
+>> 23.01 | Scientist | 謎を解くのが科学者のつとめじゃ！ / まかせなさい！
+   EN: Solving mysteries is a scientist's duty, / I tell you! Leave it to me!
+>> 23.02 | Scientist | むむむ… むむむ…
+   EN: Hmmm... hmmm...
+>> 23.03 | Scientist | 月と太陽… いろいろ / 考える余地はありそうじゃな…
+   EN: The moon and the sun... There's a lot / of room for thought there, I'd say...
+>> 23.04 | Doctor | みなさん だいぶショックを / 受けています / 仲間だった人が / 魔物に変ったんですからね
+   EN: Everyone's pretty badly shaken. / After all, someone who was their / friend turned into a monster.
+>> 23.05 | Akira Fudo | 誰かに 身体を操られるのは / もうごめんだぜ… / 信用していた仲間に 傷つけられ / るのは もっとイヤだ…！
+   EN: I've had enough of somebody / controlling my body... And getting / hurt by a friend I trusted is even / worse...!
+>> 23.06 | Mondo Saotome | 裏切るのは慣れているが / 裏切られるのは慣れてないんでね / 誰のことかって？ / {s}さ！
+   EN: I'm used to doin' the betrayin', but not / to bein' betrayed. Who do I mean? / {s}, that's who!
+>> 23.07 | Ryoma Mido | {p}の {s}への / 気持ちは わかるよ / でも アレはもう / {s}じゃない！ / 化け物だ！
+   EN: I get how you feel about / {s}, {p}. / But that thing's not {s} / anymore! It's a monster!
+>> 23.08 | Jack | ……………
+   EN: ...............
+>> 23.09 | Enma-kun | もしかしたら {s}を / 地獄別荘に招いたのが / そもそも 失敗だったのかも
+   EN: Maybe inviting {s} to Hell / Villa was a mistake to begin with.
+>> 23.10 | Kapaeru | いてェよぉ いてぇよぉ… / 頭いてェよぉ…
+   EN: It hurts, it hurts... My head hurts / somethin' awful...
+>> 23.11 | Princess Yukiko | 寒気がするの… / こんなの はじめて…
+   EN: I've got chills... I've never felt like this / before...
+>> 23.12 | Great King Enma | わしとしたことが 遅れをとった / わい 次は必ず仕留める！ / {s}のことは / 忘れるべきじゃぞ！
+   EN: To think that even I was bested! Next / time, I'll finish it for sure! You / should forget about / {s}, my boy!
+>> 23.13 | Yamagishi | てやんでぇ これしきの傷！ / やられたら やりかえすぜ！ / たとえ相手が / 元{s}でもな！
+   EN: Bah, a scratch like this! You hit me, I / hit back! Even if it's the former / {s}!
+>> 23.14 | Fukurokoji | 痛いよ～！ オヤブン / もういやだ こんなの…
+   EN: Owww! Boss, I can't take this anymore...
+>> 23.15 | Jubei | {p}には気の毒だけど / もう忘れるべきよ / {s}のこと…
+   EN: I feel bad for you, {p}, / but you should forget about / {s} now...
+>> 23.16 | Jiro | 手天童子郎でもあり / 手天童子でもある / それでも俺は 俺であることに / かわりはない / しかし {s}は / 魔物になってしまった！
+   EN: I'm Jiro Shutendo, and I'm also the / Shutendoji. Even so, I'm still me. But / {s} has become a / monster!
+>> 23.17 | Goki | あのような魔物を相手に / どこまで童子をお護り出来るか…
+   EN: Against such a monster, how long can I / protect Doji...
+>> 23.18 | Senki | 戦いで 俺は 初めて恐怖を感じた / あいつは 恐ろしいヤツだ！
+   EN: In that fight, for the first time I felt / fear. That one is terrifying!
+>> 23.19 | Miyuki Shiratori | 私 恐いの… 黒い魔物が…！ / {s}が…！
+   EN: I'm scared... of the black fiends...! Of / {s}...!
+>> 23.20 | Sayaka Yumi | 一緒に戦ってきた仲間に 裏切ら / れたんだもん つらいわよ…
+   EN: A friend we fought side by side with / betrayed us. It's hard...
+>> 23.21 | Boss | 許せねぇ！ / このボスを だますなんて！
+   EN: Unforgivable! Pullin' one over on / the Boss!
+>> 23.22 | Nuke | いたいなぁ… いたいよぉ… / いたいぞぉ…
+   EN: Ouchie... it hurts... it hurts...
+>> 23.23 | Mucha | くそ～！ いてぇ～！ / なんとかしてくれぇ～！
+   EN: Dammit! It hurts! Somebody do / somethin'!
+>> 23.24 | Chigusa Mitsurugi | ごめんなさい… 一生懸命 / {s}を信じようとしても / あの恐ろしい姿が / 忘れられないの！
+   EN: I'm sorry... No matter how hard I try to / believe in {s}, I can't / forget that terrifying form!
+>> 23.25 | Goda | 正直 恐かったよ / 今でも… 恐い…
+   EN: Honestly, I was scared. Even now... I'm / scared...
+>> 23.26 | Uryu | 今まで 他人を意のままに / 操ってきた俺だが / 初めて 自分が 他人に操られて / しまった… イヤな気分だぜ！
+   EN: I've always bent others to my will, but / this is the first time I've been / controlled by someone else... What a / lousy feeling!
+>> 23.27 | Tomisaburo | ガタガタ ブルブル… / お 恐ろしい…！
+   EN: Sh-shake, shiver... S-so scary...!
+>> 23.28 | Honey Kisaragi | みんな {s}のことが / 好きだったのよ… / それだけにショックを受けてるの / 気にしないほうが いいわ…
+   EN: Everyone liked {s}... / That's why they're so shocked. / Better not let it get to you...
+>> 23.29 | Honey Kisaragi | とても{s}とは / 思えない姿だったもの… / あたしだって 思い出すと / 恐いの…
+   EN: She looked nothing like / {s}... Even I get scared / remembering it...
+>> 23.30 | Honey Kisaragi | 黒い魔物に 操られた恐怖が / 忘れられないのね… / 自分が {s}のように / なっていたかもしれないんだもの
+   EN: They can't forget the terror of being / controlled by the black fiends... / They might have ended up like / {s} themselves.
+>> 23.31 | Honey Kisaragi | いつか 解ってくれると思うの / それまでは 何を言われても / 気にしないほうが いいわ…
+   EN: I think they'll understand someday. / Until then, better not let what they / say get to you...
+>> 23.32 | Akira Fudo | 身体を操り 仲間を裏切り / 傷つける… / 俺は 魔王を許さん！
+   EN: Controlling bodies, turning friends / into traitors, hurting them... I won't / forgive the Demon King!
+>> 23.33 | Mondo Saotome | 酷いことになったな / だが あきらめるなよ！ / どんなことでも / あきらめたら 終わりだぜ！
+   EN: Things got ugly. But don't give up! / Whatever it is, you give up and / it's over!
+>> 23.34 | Ryoma Mido | 元気出しなよ {p}！ / 必ず {s}は / 元に戻るさ！
+   EN: Cheer up, {p}! / {s}'ll be back to normal / for sure!
+>> 23.35 | Jack | 魔王の存在が気にかかる…
+   EN: The Demon King's existence / troubles me...
+>> 23.36 | Enma-kun | まさか こんなことに / なるなんてな… / 俺は魔王をやっつけたくて / うずうずしてるぜ！
+   EN: Never thought it'd come to this... I'm / itching to take down the Demon King!
+>> 23.37 | Kapaeru | あんさんの気持ちは / よ～ わかるで！
+   EN: I know just how you feel, I do!
+>> 23.38 | Princess Yukiko | あたしは 信じてないわよ / {s}が / 魔物になったなんて！
+   EN: I don't believe it! / That {s} turned into a / monster!
+>> 23.39 | Great King Enma | 黒い物体で / 人々を意のままに操る… / 何者じゃ 魔王とは！
+   EN: Controlling people at will with black / things... Who is this Demon King!?
+>> 23.40 | Yamagishi | ひっで～ことしやがるよなぁ / 魔王ってさ！
+   EN: That Demon King sure pulls some nasty / stuff, huh!
+>> 23.41 | Fukurokoji | ボクは 怒ってますです！
+   EN: I'm mad, I really am!
+>> 23.42 | Jubei | {s}のことが心配でしょ？ / あたしもよ / でも必ず 助け出してあげるわ！ / だから元気だして！
+   EN: You're worried about / {s}, right? Me too. But / we'll rescue her for sure! So cheer up!
+>> 23.43 | Jiro | 自分が何者か解らないことは / とても つらいことだよ / {s}も きっと ひどく / 悩んでいると思うよ
+   EN: Not knowing what you are is really / hard. I bet {s} is / suffering terribly too.
+>> 23.44 | Goki | {s}が / 完全に魔物になったと / 決まったわけではない！
+   EN: It is not yet certain that / {s} has become a / monster completely!
+>> 23.45 | Senki | たとえ{s}相手でも / 俺は 戦わなくてはならない / 運命だ！
+   EN: Even against {s}, I must / fight. That is my fate!
+>> 23.46 | Miyuki Shiratori | これから 世界は / どうなっちゃうのかしら…
+   EN: What's going to happen to the world / now...
+>> 23.47 | Sayaka Yumi | アフロダイＡが 魔王を / やっつけるわよ！まかせて！
+   EN: Aphrodite A will beat the Demon King! / Leave it to me!
+>> 23.48 | Boss | 俺に 恐いもんはねぇぜ！ / たとえ相手が 魔王だってな！
+   EN: I ain't scared of nothin'! Not even the / Demon King!
+>> 23.49 | Nuke | 操られるのは イヤだから / 魔王をやっつけないとな！
+   EN: I hate gettin' controlled, so we gotta / beat the Demon King!
+>> 23.50 | Mucha | 来るなら / いつでも来やがれ…ってんだ！
+   EN: Bring it on, anytime ya like!
+>> 23.51 | Goda | 元気出すんだ {p}！ / 俺の拳を信じてくれ！
+   EN: Cheer up, {p}! Believe in / my fists!
+>> 23.52 | Danbei | おぬしの気持ちは わかるぞ / {p}よ / 心配じゃろ～なぁ / ワシ がんばっちゃうもんね！
+   EN: I know how you feel, {p}, / my boy. You must be worried sick, eh? / Well, this old man's gonna give it / everything he's got!
+>> 23.53 | Kogoro Iboji | おっそろし～事件に / まきこまれちゃったみたい
+   EN: Seems we got caught up in a / terrrifying case...
+>> 23.54 | Koyayashi | まお～ まお～ やっつける～！
+   EN: Demon Kiiing, Demon Kiiing, beat / him uuup!
+>> 23.55 | Shinichi | 黒い物体が 人々を操れることは / みんなが知っている / なのに なんで{s}が / 魔物と呼ばれるんだろうな？
+   EN: Everyone knows the black things can / control people. So why is / {s} the one being called / a monster?
+>> 23.56 | {p} | {s}が / 「破壊の月」だから…かな？ / でも「破壊の月」って / なんだろう…
+   EN: Because {s} is the / "Moon of destruction," maybe? But / what is the "Moon of destruction"...
+>> 23.57 | Shinichi | 謎が多過ぎるな…
+   EN: Too many mysteries...
+>> 23.58 | Shusha | 魔王は おまえのことを / 「再生の太陽」って呼んだんだろ？ / 「再生の太陽」って / どういう意味かな？
+   EN: The Demon King called you the "Sun of / rebirth," right? What does "Sun of / rebirth" mean?
+>> 23.59 | {p} | ………
+   EN: .........
+>> 23.60 | Shusha | 凄ノ王と呼ばれて / とても不安な気持ちになったよ / 今の{p}の気持ち / 俺には わかるよ
+   EN: When they called me Susano-oh, I felt / really uneasy. I know how you feel / right now, {p}.
+>> 23.61 | {p} | ありがとう 朱紗君
+   EN: Thanks, Shusha-kun.
+>> 23.62 | Professor Yumi | 破壊の月… 再生の太陽… / 結合の時… / う～ん…
+   EN: The Moon of destruction... the Sun of / rebirth... the time of joining... Hmmm...
+>> 23.63 | Scientist | わからんことだらけじゃ… / わしゃ 疲れてきた…
+   EN: Nothing but mysteries... I'm getting / tired, I tell you...
+>> 23.64 | Scientist | 謎を解こうとすると / 新たな謎が生まれる…
+   EN: Every time I try to solve a mystery, a / new one appears...
+>> 23.65 | Scientist | むにゃむにゃ… ハッ！？ / いかん 寝てもうた…
+   EN: Mumble mumble... Huh!? Oh no, I dozed / off...
+>> 23.66 | Scientist | ワシが思うに…！ あれ / なに言おうとしたんだっけ？
+   EN: In my opinion...! Huh, what was I going / to say?
+>> 23.67 | Honey Kisaragi | ダメよ 居住エリアから出ちゃ！
+   EN: No, don't leave the residential area!
+>> 23.68 | Seiji Hayami | 君は 狙われてるんだぞ！
+   EN: They're after you, you know!
+>> 23.69 | Honey Kisaragi | どうしよう… 行っちゃったわ！
+   EN: What do we do... He's gone!
+>> 23.70 | Seiji Hayami | 弓教授に知らせてくる！
+   EN: I'll go tell Professor Yumi!
+>> 23.71 | Honey Kisaragi | …もう！ あの子ったら！！
+   EN: ...Honestly! That boy!!
+>> 23.72 | Honey Kisaragi | 良かった！ / 無事だったのね！ / ハニーを置いて行っちゃうなんて / 水臭いぞ！
+   EN: Thank goodness! You're okay! Leaving / Honey behind like that... how cold!
+>> 23.73 | Seiji Hayami | 良かった！ / 無事みたいだね！ / ちょうど会議が終わったところだ / 弓教授が君に会いたがっているぞ！
+   EN: Thank goodness! Looks like you're / okay! The meeting just ended. / Professor Yumi wants to see you!
+>> 23.74 | {p} | この人達に見つかったら / 僕の命はない… / 別の場所へ行こう…
+   EN: If these people find me, I'm dead... / Let's go somewhere else...
+>> 23.75 | Scientist | {p}君！ / よかった 無事みたいだね / ちょうど会議が終わったところだ / 弓教授が君に会いたがっているぞ
+   EN: {p}-kun! Thank / goodness, looks like you're okay. / The meeting just ended. Professor / Yumi wants to see you.
+>> 23.76 | Scientist | {p}君！ / よかった 無事みたいだね / ちょうど会議が終わったところだ / 早乙女博士が / 君に会いたがっているぞ
+   EN: {p}-kun! Thank / goodness, looks like you're okay. / The meeting just ended. / Dr. Saotome wants to see you.
+>> 23.77 | {p} | 力を貸してくれる仲間が / まだ他にも いるかもしれない / きっと どこかに…
+   EN: There might still be more friends who'll / lend us their strength. Somewhere / out there...
+>> 23.78 | Doctor | 黒い魔物に操られた人の中には / 気を失って 病院に運ばれた人も / たくさん いました
+   EN: Many of the people controlled by the / black fiends passed out and were / taken to the hospital.
+>> 23.79 | Professor Yumi | {p}君！ / ようやく答えを見出せたよ！ / 魔王は 日蝕を待っているのだよ！
+   EN: {p}-kun! I've finally / found the answer! The Demon King is / waiting for a solar eclipse!
+>> 23.80 | {p} | 月が 太陽の光をさえぎる / あの日蝕ですか？
+   EN: You mean an eclipse, when the moon / blocks the sun's light?
+>> 23.81 | Professor Yumi | そのとおり！ / 恐らく 日蝕の訪れと共に / 魔王は 真の力を得るのだと思う
+   EN: Exactly! / Most likely, the Demon King will gain his / true power when the eclipse comes.
+>> 23.82 | {p} | …！？
+   EN: ...!?
+>> 23.83 | Professor Yumi | これまで 次元連鎖が起きるたびに / あるものが出現していた / 黒い月だ！ / …日蝕が起きたら / 何が出現するかね？
+   EN: Every time the Dimension Chain has / occurred, a certain thing has / appeared. The black moon! / ...So when an eclipse happens, what / appears?
+>> 23.84 | {p} | え？… え～と あっ！
+   EN: Huh? ...Uh, um... Oh!
+>> 23.85 | Professor Yumi | そうだ 黒い太陽だ！ / 黒い太陽が 出現した時 / 魔王が 真の力を得るのだ！
+   EN: That's right, a black sun! / When the black sun appears, the / Demon King will gain his true power!
+>> 23.86 | {p} | それで 次の日蝕は / いつなんですか？
+   EN: So when's the next eclipse?
+>> 23.87 | Professor Yumi | 明日だ…
+   EN: Tomorrow...
+>> 23.88 | {p} | 明日！？
+   EN: Tomorrow!?
+>> 23.89 | Professor Yumi | 至急 対策を立てねばならん！ / サロンに来てくれ！ / 作戦会議だ！
+   EN: We must make a plan at once! / Come to the salon! It's a strategy / meeting!
+>> 23.90 | Scientist | 破壊の月 再生の太陽… そして / 間もなく訪れる 結合の時！ / これらのキーワードから / 導かれた推論が 日蝕なんじゃ
+   EN: The Moon of destruction, the Sun of / rebirth... and the time of joining / that's soon to come! The eclipse is the / conclusion drawn from those / keywords, I tell you.
+>> 23.91 | Scientist | 太陽の光とは 人々にとって / 恵みをもたらす / それを 月がさえぎる この時 / 魔王が 世界を破壊する！
+   EN: The sun's light brings blessings to / people. At the moment the moon / blocks it, the Demon King will destroy / the world!
+>> 23.92 | Scientist | 魔王は 黒い月を利用して / 世界を結合させてきた / 黒い太陽を使って 魔王は / なにを目論んでいるのか…
+   EN: The Demon King has used the black / moon to join the worlds together. / What is he scheming to do with a black / sun...?
+>> 23.93 | Scientist | 問題は 再生の太陽が / 何を意味しているか…じゃ / これだけは / まだ よくわからんのじゃよ
+   EN: The question is what the Sun of / rebirth means, you see. That's the / one thing we still don't quite / understand.
+>> 23.94 | Professor Yumi | …というわけだ 諸君！ / 日蝕は 明日！ / もしも 私の推理が正しければ / 明日 魔王は 真の力を得る！
+   EN: ...So there you have it, everyone! The / eclipse is tomorrow! If my reasoning / is correct, tomorrow the Demon King / gains his true power!
+>> 23.95 | Professor Yumi | そして {p}君！ / 君に言い忘れていたことがある / 恐らく {s}君は / 無事に生きているぞ！
+   EN: And {p}-kun! There's / something I forgot to tell you. In all / likelihood, {s}-kun is / alive and well!
+>> 23.96 | {p} | …！
+   EN: ...!
+>> 23.97 | Professor Yumi | 君が生きていることが / その証しだよ / 魔王は {s}君を / 「月」と呼び / 君を「太陽」と呼んだのだからね
+   EN: The proof is that you're alive. After / all, the Demon King called / {s}-kun the "moon" and / you the "sun."
+>> 23.98 | {p} | そっか… 魔王が 僕を / 必要としているってことは… / {s}も 生きている / 可能性が 高いわけだ！
+   EN: I see... If the Demon King needs me... / then there's a good chance / {s} is still alive too!
+>> 23.99 | Professor Yumi | 魔王は / 捕らえた {s}君を / 逃がさぬよう 見張っているのだ / そして人々を操り 君を手に / 入れようと しているのだろう
+   EN: The Demon King is keeping watch over / {s}-kun so she can't / escape. / And he's probably controlling people / to try to get his hands on you.
+>> 24.00 | {p} | 僕 {s}を / 助けに 始まりの丘に行きます！
+   EN: I'm going to the Hill of Beginnings to / rescue {s}!
+>> 24.01 | Professor Yumi | いかん！
+   EN: You mustn't!
+>> 24.02 | {p} | どうしてですか！？
+   EN: Why not!?
+>> 24.03 | Honey Kisaragi | 日蝕の前に / 魔王は 君を 手に入れたいのよ
+   EN: The Demon King wants to get his hands / on you before the eclipse.
+>> 24.04 | Professor Yumi | {p}君を手に入れるため / 暴徒達が / 総攻撃を仕掛けてくることが / 予測されるのだ！
+   EN: We expect the rioters to launch an / all-out attack to capture you, / {p}-kun!
+>> 24.05 | Professor Yumi | 君を 魔王の手に渡してしまうわけ / にはいかん！ / ここに留まってくれ！
+   EN: We can't let you fall into the Demon / King's hands! Stay here!
+>> 24.06 | {p} | そんな…
+   EN: But...
+>> 24.07 | Shinichi | 真理阿を失った悲しみ… / あれをおまえに味あわせたくない / 俺は始まりの丘に行く！ / {s}を奪い返すために！
+   EN: The grief of losing Maria... I don't want / you to taste that. I'll go to the Hill / of Beginnings! To take / {s} back!
+>> 24.08 | Professor Yumi | うむ！ / 行ってくれるか 慎一君！
+   EN: Good! Will you go, Shinichi-kun?
+>> 24.09 | {p} | 慎一さん… / {s}を…！
+   EN: Shinichi-san... Please save / {s}...!
+>> 24.10 | Shinichi | まかせておけ！
+   EN: Leave it to me!
+>> 24.11 | Shusha | 俺はここに残ろう… / そして {p}君を守る！ / {p}君の活躍が無ければ / 俺が今頃… / 世界を滅ぼしていたかも / しれないのだから！
+   EN: I'll stay here... and protect / {p}-kun! If it weren't / for {p}-kun, I might have / destroyed the world by now!
+>> 24.12 | {p} | 朱紗君…
+   EN: Shusha-kun...
+>> 24.13 | Shusha | 世界を滅ぼしかけた俺は / 世界を守りたい / つまり 君を…だよ
+   EN: I nearly destroyed the world, so I want / to protect it. Which means / protecting you.
+>> 24.14 | Honey Kisaragi | {p}君！ / 長い付き合いだもん / あたしも残るわ！ / 君を守るために…ね / イヤとは言わせないわよ！
+   EN: {p}-kun! We go way back, / so I'm staying too! To protect you, / that is. And I won't take no for an / answer!
+>> 24.15 | {p} | ハニー ありがとう…！
+   EN: Honey, thank you...!
+>> 24.16 | Professor Yumi | 役割分担は 出来たようだね / 慎一君は 始まりの丘へ向かう / 攻撃隊に加わってくれたまえ！ / 朱紗君は ここに残り / 守備隊を率いるのだ！ / そしてハニー君は{p}君 / の側を 離れないように！
+   EN: It seems the roles are settled. / Shinichi-kun, join the assault team / headed for the Hill of Beginnings! / Shusha-kun, stay here and lead the / defense team! And Honey-kun, don't / leave {p}-kun's side!
+>> 24.17 | Shinichi | 任せてくれ {s}を / 奪い取ってくるぜ！
+   EN: Leave it to me. I'll snatch / {s} back!
+>> 24.18 | Shusha | 誰も {p}には / 近づけさせないさ！
+   EN: Nobody's getting near / {p}!
+>> 24.19 | Honey Kisaragi | あたしは {p}君に / べったりだからね！
+   EN: I'm sticking to {p}-kun / like glue!
+>> 24.20 | {p} | …！？
+   EN: ...!?
+>> 24.21 | Koji Kabuto | 弓教授！ 始まりの丘が / 大変なことになってますよ！ / 暴徒達が続々と集まって / あそこは もはや城です！
+   EN: Professor Yumi! Something big is / happening at the Hill of Beginnings! / The rioters keep pouring in, and it's / practically a castle now!
+>> 24.22 | Koji Kabuto | 敵の様子を 撮影してきました / これを見てください
+   EN: I took pictures of the enemy. Take a / look at these.
+>> 24.23 | Koji Kabuto | 始まりの丘は 魔王にとって / 特別な意味があるようです / いつの間にか 黒い魔物が / こんなにたくさん…
+   EN: The Hill of Beginnings seems to mean / something special to the Demon King. / Before we knew it, there were this / many black fiends...
+>> 24.24 | Professor Yumi | 凄い数だな… / 大きさは どれくらいなのかね？
+   EN: What numbers... How big are they?
+>> 24.25 | Koji Kabuto | どいつもこいつも デカいです / マジンガーＺといい勝負ですよ
+   EN: Every last one of 'em is huge. They're / right up there with Mazinger Z.
+>> 24.26 | Professor Yumi | う～む…
+   EN: Hmmm...
+>> 24.27 | Koji Kabuto | そして これです！
+   EN: And then there's this!
+>> 24.28 | {p} | 前に テレビのニュースで / 祭壇って言ってたのに…！
+   EN: The TV news said it was an altar / before...!
+>> 24.29 | Koji Kabuto | それだけ魔王の力が増した…って / ことだ
+   EN: That's how much the Demon King's / power has grown.
+>> 24.30 | Professor Yumi | 恐るべし 魔王…！！
+   EN: A fearsome foe, this Demon King...!!
+>> 24.31 | Professor Yumi | 黒い魔物が マジンガーや / 機械獣なみの大きさならば / 甲児君！ 君は先発部隊だ！ / 黒い魔物の注意をひき / 攻撃隊を守ってやってくれ！
+   EN: If the black fiends are as big as / Mazinger or the Mechanical Beasts, / then Koji-kun! You're the vanguard! / Draw the black fiends' attention and / protect the assault team!
+>> 24.32 | Koji Kabuto | 解りました！ / さやか！ ボス！ 行くぞ！
+   EN: Got it! Sayaka! Boss! Let's go!
+>> 24.33 | Sayaka | パパ！ 行ってきます！
+   EN: Papa! I'm off!
+>> 24.34 | Professor Yumi | 頼んだぞ！
+   EN: I'm counting on you!
+>> 24.35 | Boss | お父様… いや 弓教授！ / さやかは 俺が守るぜ！
+   EN: Father... I mean, Professor Yumi! I'll / protect Sayaka!
+>> 24.36 | Professor Yumi | う うむ / がんばってくれたまえ ボス！
+   EN: Y-yes, well. Do your best, Boss.
+>> 24.37 | Nuke | ボス～！ / 待ってくれよぉ～！
+   EN: Boss! Wait for meee!
+>> 24.38 | Mucha | く～！ / 腕がなるぜぇ～！
+   EN: Ooh! I'm rarin' to go!
+>> 24.39 | Enma-kun | 俺も 地獄別荘と一緒に / 攻撃隊に参加するぜ！ / でも大王様は / ここに残ってくれ  / もしかしたら 仲間を入れ換える / 必要が出るかもしれないからな！
+   EN: I'll join the assault team along with / Hell Villa! But Great King-sama, you / stay here. We might need to swap out / party members!
+>> 24.40 | Professor Yumi | それは 素晴らしいアイデアだよ / えん魔くん！ / 閻魔大王！ / 私からも お願いする！
+   EN: That's a splendid idea, Enma-kun! / Great King Enma! I ask this of you / as well!
+>> 24.41 | Great King Enma | えん魔くんよ 地獄界を代表して / 活躍するのだぞ！
+   EN: Enma-kun, represent the Hell / World well!
+>> 24.42 | Enma-kun | まかせとけって！
+   EN: Leave it to me!
+>> 24.43 | Princess Yukiko | ちょっと えん魔くん / 置いてかないでよ！
+   EN: Hey, Enma-kun, don't leave me behind!
+>> 24.44 | Kapaeru | あんさん そりゃ 殺生でっせぇ！
+   EN: Aw, c'mon, pal! That's downright cruel!
+>> 24.45 | Great King Enma | {p}よ 必要な時には / ワシに話しかけるのじゃぞ！ / ワシは 居住エリアの出口近くに / 待機しておるぞ！
+   EN: {p}, come speak to me / whenever you need me, my boy! I shall / be waiting near the exit of the / residential area!
+>> 24.46 | Professor Yumi | よし！ / これにて 作戦会議を終える！ / 諸君！ 健闘を祈る！
+   EN: Good! That concludes our strategy / meeting! Everyone! Good luck!
+>> 24.47 | Shusha | 守備隊のメンバーを / 俺が決めてもいいかな？ / 選ばれなかった仲間は みんな / 攻撃隊に加わって貰おうと思う
+   EN: Mind if I pick the defense team / members? I'm thinking anyone not / picked joins the assault team.
+>> 24.48 | {p} | 解ったよ 守備隊のメンバー選びが / 終わったら 教えてね！
+   EN: Got it. Let me know when you've / finished picking the defense team!
+>> 24.49 | Akira Fudo | 守備隊と攻撃隊 / どっちに加わるかって？ / 攻撃隊に / 決まってるじゃねぇか…！
+   EN: Defense team or assault team? / Assault team, obviously...!
+>> 24.50 | Seiji Hayami | 俺は ハニーと一緒に / {p}を守るよ
+   EN: I'll protect {p} with / Honey.
+>> 24.51 | Mondo Saotome | 攻めるほうが / 性に合ってるんだが…
+   EN: Attacking's more my style, but...
+>> 24.52 | Ryoma Mido | 俺は 門土と一緒なら / どっちでもいいよ
+   EN: As long as I'm with Mondo, either / one's fine.
+>> 24.53 | Jack | …好きにしろ
+   EN: ...Do as you like.
+>> 24.54 | Yamagishi | 攻めるのも 面白そうだけど / 守るのも スリルありそう…
+   EN: Attacking sounds like a blast, but / defending sounds like a thrill too...
+>> 24.55 | Fukurokoji | もちろん オヤブンに従います！
+   EN: I'll follow the Boss, of course!
+>> 24.56 | Jubei | {p}君には / 助けて貰ったもん / 今度は あたしが彼を / 助ける番だわ
+   EN: {p}-kun saved me. Now / it's my turn to save him.
+>> 24.57 | Jiro | 美雪さんを 助けて貰った恩は / 忘れないよ / {p}次第さ / 俺は どちらでもいいよ
+   EN: I'll never forget how you saved / Miyuki-san. It's up to / {p}. Either one's fine / with me.
+>> 24.58 | Goki | 童子を護るのが 私の役目 / 童子に従います
+   EN: My duty is to protect Doji. I will / follow Doji.
+>> 24.59 | Senki | 戦うことが 俺の運命 / 攻めでも 守りでも！
+   EN: Fighting is my fate. Attack or defend!
+>> 24.60 | Miyuki Shiratori | 私 子郎君と一緒なら / どっちでもいい！
+   EN: As long as I'm with Jiro-kun, either / one's fine!
+>> 24.61 | Danbei | ハニーちゃんが 心配じゃから / ここに残ったほうが良さそうじゃ
+   EN: I'm worried about Honey-chan, so I'd / best stay here.
+>> 24.62 | Kogoro Iboji | え～と 安全なほう！
+   EN: Ummm, the safe one!
+>> 24.63 | Koyayashi | う～ん こ～げき？ しゅび？ / 美味しいほう！
+   EN: Hmmm, attaaack? Defeeense? The / yummy one!
+>> 24.64 | Chigusa Mitsurugi | 世界を滅ぼす者を 倒すのが / 美剣一族の役目 / 攻撃隊でも 守備隊でも 最善を / 尽くす覚悟は 出来てるわ！
+   EN: Defeating those who would destroy / the world is the Mitsurugi clan's / duty. Assault or defense, I'm ready to / do my best!
+>> 24.65 | Goda | ハードパンチャーで鳴らした / 俺だが ディフェンスも巧いぜ
+   EN: I made my name as a hard puncher, but / my defense is good too.
+>> 24.66 | Uryu | 世界を滅ぼしそうに / なってしまった 俺だ / 俺に 選択の権利はない… / 任せるよ
+   EN: I almost destroyed the world. I have no / right to choose... I'll leave it to you.
+>> 24.67 | Tomisaburo | 俺は 慎一と ずっと一緒だぜ！ / 攻撃隊さ！
+   EN: I'm stickin' with Shinichi all the way! / Assault team!
+>> 24.68 | Shusha | 守備隊のメンバーは 決まったよ / 攻撃隊のメンバーが / 外に 集結している
+   EN: The defense team is decided. / The assault team members are / gathering outside.
+>> 24.69 | Shusha | ここにいる連中から 守備隊を / 選ぶことも出来るが どうする？
+   EN: You can pick the defense team from / the people here too. What do you / want to do?
+>> 24.70 | Shinichi | 攻撃隊のリーダーを / 決めておいたほうが いいと思う
+   EN: I think we'd better pick a leader for / the assault team.
+>> 24.71 | Professor Yumi | 私は 君でいいと思うのだが… / {p}君 君はどう思う？
+   EN: I think you'd be fine... / {p}-kun, what do you / think?
+>> 24.72 | Professor Yumi | そうか / 君は＊＊がいいと思うのか / よし！ それでは / 攻撃隊リーダーは ＊＊だ！ / 頼んだぞ！
+   EN: I see. You think ** would be good. Very / well! Then the assault team leader is / **! We're counting on you!
+>> 24.73 | Leader | はい！
+   EN: Yes!
+>> 24.74 | Koji Kabuto | 弓教授 先発部隊の準備が / 完了しました！ / これより 始まりの丘に / 向かいます！
+   EN: Professor Yumi, the vanguard is / ready! We're heading for the Hill of / Beginnings now!
+>> 24.75 | Professor Yumi | うむ！ / がんばってくれたまえ 甲児君！
+   EN: Good! Do your best, Koji-kun!
+>> 24.76 | {p} | 甲児君 がんばってね！
+   EN: Good luck, Koji-kun!
+>> 24.77 | Koji Kabuto | まかせとけよ！
+   EN: Leave it to me!
+>> 24.78 | Shinichi | 先発隊に続き / 攻撃隊 出撃！
+   EN: Following the vanguard, the assault / team moves out!
+>> 24.79 | {p} | みんな 気をつけて！ / {s}を… お願い！
+   EN: Everyone, be careful! Please... save / {s}!
+>> 24.80 | Shusha | 守備隊は / ホテルの入口で 待機します / 教授達は 奥の安全な場所に / いてください
+   EN: The defense team will wait at the hotel / entrance. Professor, you all stay / somewhere safe in the back.
+>> 24.81 | Professor Yumi | うむ よろしくたのむよ
+   EN: Good. I'm counting on you.
+>> 24.82 | Honey Kisaragi | 万が一の時は あたしが / {p}君を守るから / 安心して
+   EN: If worst comes to worst, I'll protect / {p}-kun, so don't / worry.
+>> 24.83 | Shusha | 大丈夫 ハニーの出番はないよ / 俺達が ここで敵の侵攻を / 食い止めるからね
+   EN: Don't worry, you won't be needed, / Honey. / We'll stop the enemy advance / right here.
+>> 24.84 | {p} | ありがとう 朱紗君！
+   EN: Thanks, Shusha-kun!
+>> 24.85 | Great King Enma | 守備隊と攻撃隊を 入れ換えたい / 時は ワシに話しかけるのじゃぞ / 地獄別荘に待機している / 仲間であれば / いつでも 入れ換え可能じゃ！
+   EN: Should you wish to swap members / between the defense and assault / teams, come speak to me, my boy. Any / friend waiting in Hell Villa may be / swapped in at any time!
+>> 24.86 | Shusha | はい 閻魔大王
+   EN: Yes, Great King Enma.
+>> 24.87 | Professor Yumi | {p}君 / 一緒に 奥の部屋へ戻ろう / あそこで 報告を待とうじゃないか
+   EN: {p}-kun, let's go back / to the back room together. We'll wait / for reports there.
+>> 24.88 | Shinichi | こいつが 城の周りに / バリアを発生させている装置か…
+   EN: So this is the device generating the / barrier around the castle...
+>> 24.89 | Shusha | この装置を破壊すれば / 先発隊を助け出せるはず…！
+   EN: If we destroy this device, we should be / able to rescue the vanguard...!
+>> 24.90 | Koji Kabuto | よ～し 行くぞ！
+   EN: All riiight, let's go!
+>> 24.91 | Koji Kabuto | きやがったな… いくぜ！
+   EN: Here they come... Let's do this!
+>> 24.92 | Researcher | マジンガーＺ率いる先発部隊が / 始まりの丘に向け 出発！ / 巨大な黒い魔物と / 交戦を開始しました！ / つづいて 地獄別荘の転送が / 完了しました！
+   EN: The vanguard led by Mazinger Z has / set out for the Hill of Beginnings! / They've begun engaging the giant / black fiends! Next, Hell Villa's / transfer is complete!
+>> 24.93 | Professor Yumi | …ついに始まったか！
+   EN: ...So it has begun at last!
+>> 24.94 | Enma-kun | 始まりの丘への転送が / 終わったぜ！ / 外に出て / 魔王と ご対面と行こうか！
+   EN: The transfer to the Hill of Beginnings / is done! Let's head outside and come / face to face with the Demon King!
+>> 24.95 | Researcher | 地獄別荘の転送 完了しました！
+   EN: Hell Villa's transfer is complete!
+>> 24.96 | Professor Yumi | ここまでは 予定どおりだ！
+   EN: So far, everything is going to plan!
+>> 24.97 | Koji Kabuto | くそッ！ / 城がバリアで囲まれてる！？ / マジンガーが城に近づけないぞ！ / なんとかしてくれ 攻撃隊！
+   EN: Dammit! The castle's surrounded by a / barrier!? Mazinger can't get near the / castle! Do something, assault team!
+>> 24.98 | Shinichi | マジンガーが 巨大な黒い魔物と / 戦ってるな / しかし 城には近づけないようだ…
+   EN: Mazinger's fighting the giant black / fiends. But it looks like it can't get / near the castle...
+>> 24.99 | Enma-kun | 城が バリアみたいなもので / 守られてるようだしな / でも 暴徒達だって 城の中に / いるんだろ？ / どこかに 入口があるのかな…
+   EN: The castle seems to be protected by / some kind of barrier. But the rioters / are inside the castle too, right? Maybe / there's an entrance somewhere...

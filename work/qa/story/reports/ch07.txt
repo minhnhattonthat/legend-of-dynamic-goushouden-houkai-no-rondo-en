@@ -1,0 +1,17 @@
+### Issues
+
+#### Critical
+
+None.
+
+#### Important
+
+None.
+
+#### Minor (deferred to the polish pass)
+
+- **18.74** - JP gist: “Then where’s that statue!? You...! Tailbone-splitting chop!” - “That statue!?” weakens Tamatama’s retort to Iboji claiming he is protecting the stolen Buddha; the missing question blunts the joke’s payoff. - Suggested EN: “Then WHERE is it!? You, you...! TAILBONE-SPLITTER CHOP!”
+
+### Assessment
+
+**ok** - The detective comedy’s setups and callbacks survive, character voices remain consistent, and the transition into the black moon crisis preserves the emotional stakes without premature reveals.

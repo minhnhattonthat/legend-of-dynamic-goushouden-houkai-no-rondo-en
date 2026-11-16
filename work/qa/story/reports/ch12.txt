@@ -1,0 +1,18 @@
+### Issues
+
+#### Critical (continuity break, reveal given away, wrong speaker)
+
+- **40.14** - JP gist: “The Dragons are moving! Let’s help Jack!” - “They’re going to help Jack!” reverses the Dragons’ allegiance: they serve Slum King, while Akira is urging his own party to intervene. - Suggested EN: “The Dragons are moving! Let's back Jack up!”
+
+#### Important (voice drift or flattened, emotional beat lost, setup or callback dropped, joke dead)
+
+None.
+
+#### Minor (deferred to the polish pass)
+
+- **39.59** - JP gist: The child entrusts Ryu with the life their parents sacrificed themselves to save. - “Gave their bodies to protect” sounds unnatural and obscures the sacrifice underlying the children’s solidarity. - Suggested EN: “Mom and Dad gave their lives to save mine! I'm entrusting that life to Ryu Takuma!”
+- **37.77–37.78** - JP gist: Ryo reassures the frightened Akira that the apparent monster is a manufactured object; Akira echoes him. - “Artifact” makes the reassurance and startled echo unnecessarily academic. - Suggested EN: Ryo: “Calm down. Look closely. It's only a statue.” Akira: “A statue...? Ah, Ryo!”
+
+### Assessment
+
+**issue** - The chapter preserves the principal voices and emotional developments, but 40.14 reverses the Dragons’ allegiance during the Jack–Slum King confrontation.

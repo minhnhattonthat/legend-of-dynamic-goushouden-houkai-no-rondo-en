@@ -1,0 +1,602 @@
+# ch13: Getter Robo (Dr. Saotome, Ryo, Hayato, Musashi) (archive files f42-f44, story order)
+
+>> 42.00 | {p} | 妖怪退治？
+   EN: Hunt yokai?
+>> 42.01 | Akira Fudo | 地獄界？
+   EN: The Hell World?
+>> 42.02 | Enma-kun | 俺のマユ毛は / 妖怪を探るアンテナなんだ / おまえらの身体が / 妖気を発してるぜ！
+   EN: My eyebrows are antennae for / sniffing out yokai. Your bodies are / giving off yokai energy!
+>> 42.03 | Akira Fudo | ちょっと待て！ / おまえら…ってことは 俺だけじゃ / なく {p}からもか？
+   EN: Hold on! / "Your bodies"... you mean not just me, / but {p} too?
+>> 42.04 | Enma-kun | そうだ
+   EN: Yep.
+>> 42.05 | Akira Fudo | （デーモンの身体を乗っ取った / 俺からなら ともかく / {p}の身体からも / 妖気が出てるってのは 妙だな）
+   EN: (From me, who hijacked a Demon's / body, sure. But yokai energy coming / off {p} too? That's / weird.)
+>> 42.06 | {p} | 僕達 / 妖怪に取り憑かれているの！？
+   EN: Are we possessed by a yokai!?
+>> 42.07 | Enma-kun | 何か変わったことがあったはずだ / そいつを俺に話すんだ
+   EN: Something weird must've happened. / Tell me about it.
+>> 42.08 | {p} | 実は…
+   EN: Actually...
+>> 42.09 | Enma-kun | ふ～ん / 黒い月に 沼に浮かぶ屋敷ねぇ
+   EN: Hmm. A black moon and a mansion / floating on a pond, huh.
+>> 42.10 | {p} | あれ？ / あんまり驚かないんだね
+   EN: Huh? You don't seem very surprised.
+>> 42.11 | Enma-kun | へへっ！ まぁな…
+   EN: Heh heh! Well, y'know...
+>> 42.12 | Akira Fudo | こいつ やっぱり怪しいぜ！ / 何か つかんでやがる…
+   EN: This guy's fishy after all! He knows / something...
+>> 42.13 | {p} | 明君…？
+   EN: Akira-kun...?
+>> 42.14 | Enma-kun | その屋敷に行きたければ / 沼に戻ってみなよ じゃあな！
+   EN: If you wanna go to that mansion, head / back to the pond. See ya!
+>> 42.15 | Akira Fudo | …逃げられた！ / 沼へ行くぞ {p}！
+   EN: ...He got away! To the pond, / {p}!
+>> 42.16 | {p} | …もしかして あのメールは / えん魔くんから…？
+   EN: ...Could that e-mail have been from / Enma-kun...?
+>> 42.17 | Ryo Asuka | 奇妙だと思わんか？ / 急に 暗くなったような気が / するんだが…
+   EN: Don't you find it strange? / It feels like it suddenly got dark...
+>> 42.18 | Ryo Asuka | 見ろ 水面に月が映ってる！
+   EN: Look, the moon's reflected on the / water!
+>> 42.19 | Akira Fudo | 間違いない {s}だ！
+   EN: No doubt about it, it's / {s}!
+>> 42.20 | Ryo Asuka | …罠じゃないか
+   EN: ...Isn't it a trap?
+>> 42.21 | Akira Fudo | おめぇも そう思うか？
+   EN: You think so too?
+>> 42.22 | {p} | うわっ！？
+   EN: Whoa!?
+>> 42.23 | Akira Fudo | 見たか 了？
+   EN: See that, Ryo?
+>> 42.24 | Ryo Asuka | ああ あれは飾りじゃない / 本物の鬼の首だ
+   EN: Yes. That's no decoration. It's a real / oni's head.
+>> 42.25 | Akira Fudo | …油断するなよ {p}！
+   EN: ...Don't let your guard down, / {p}!
+>> 42.26 | {p} | 無事だったんだね…
+   EN: You're okay...
+>> 42.27 | {s} | 道が ふさがれちゃって… / 心配したんだよ！ / 明君！ / あなたも無事だったのね！
+   EN: The road got blocked off... I was / worried about you! Akira-kun! You're / all right too!
+>> 42.28 | {s} | 明君… なんか別人みたい…
+   EN: Akira-kun... You seem like a different / person...
+>> 42.29 | Akira Fudo | 悪いか 変わったら？
+   EN: Got a problem with me changing?
+>> 42.30 | {s} | 前より良くなったよ！ / 男っぽくて ワイルドな感じ！ / しびれる…
+   EN: You're better than before! All manly / and wild! Swoon...
+>> 42.31 | {p} | {s}は どうしてここに？
+   EN: {s}, how did you / get here?
+>> 42.32 | {s} | 実は えん魔くんに助けて貰ったの
+   EN: Actually, Enma-kun rescued me.
+>> 42.33 | Akira Fudo | {p}の話を聞いても / 驚かなかったわけだ
+   EN: So that's why he wasn't surprised by / {p}'s story.
+>> 42.34 | {s} | そうそう えん魔くんが / {p}を待ってるわよ / 行きましょ！
+   EN: Oh, right, Enma-kun is waiting for you, / {p}. Let's go!
+>> 42.35 | Akira Fudo | {p} / 俺達 ここで待ってるよ / えん魔くんと話して来い
+   EN: {p}, we'll wait here. Go / talk to Enma-kun.
+>> 42.36 | {s} | いいえ 違うの / えん魔くんの妖怪アンテナがね…
+   EN: No, that's not it. Enma-kun's yokai / antennae, you see...
+>> 42.37 | Honey | あたしに反応したの…
+   EN: ...reacted to me...
+>> 42.38 | Honey | あなたが無事で良かったわ / {p}
+   EN: I'm glad you're safe, {p}.
+>> 42.39 | {p} | ハニー！ / どうして君に妖怪アンテナが…？
+   EN: Honey! Why would the yokai antennae / pick up on you...?
+>> 42.40 | Honey | きっと / あたしが人間じゃないから…
+   EN: Probably... because I'm not human...
+>> 42.41 | {p} | ど どういう意味！？
+   EN: Wh-what do you mean!?
+>> 42.42 | Honey | …あたしと一緒に戦うことがあれば / 解るわよ
+   EN: ...If we ever fight side by side, you'll / understand.
+>> 42.43 | Enma-kun | おまえ達の話を聞いて / 黒い月について考えてみたんだ
+   EN: After hearing your story, I've been / thinking about the black moon.
+>> 42.44 | Honey | 異なる次元を 黒い月が / 連結している…っていうこと？
+   EN: You mean the black moon is linking / different dimensions together?
+>> 42.45 | {p} | …ハチに刺されてる！
+   EN: ...They've been stung by bees!
+>> 42.46 | Chapeau-jii | やはり！ 妖怪・ハチの巣入道の / 仕業ジャジャ！ / ハチの巣入道が操るハチは / 人間の脳みそを吸うのジャ！
+   EN: Just as I thought! It's the work of the / yokai Beehive Nyudo, jaja! The bees / Beehive Nyudo controls suck out / people's brains!
+>> 42.47 | {p} | それで町の人達は…
+   EN: So that's why the townspeople...
+>> 42.48 | Chapeau-jii | ノウタリンになっちまったんジャ！ / 脳みそ吸われて理性を奪われ / 本能だけで行動しちゃうのジャ
+   EN: Turned into airheads, jaja! / Their brains get sucked out, their / reason is stolen, and they act on / instinct alone, jaja.
+>> 42.49 | Enma-kun | それで こんなおもしれ～ことに / なってんだな！
+   EN: So that's why things got so hilarious / around here!
+>> 42.50 | {p} | えん魔くん！ / 笑い事じゃないよ！
+   EN: Enma-kun! This is no laughing matter!
+>> 42.51 | Enma-kun | 理性を無くした人間ほど / 面白いもんはねぇぜ！
+   EN: Nothin's funnier than people who've / lost their reason!
+>> 42.52 | Chapeau-jii | 面白いだけじゃすまんぞ / えん魔くん
+   EN: This is no mere joke, Enma-kun.
+>> 42.53 | Enma-kun | ともかく ハチの巣入道を / やっつければ / 立派な妖怪パトロールの一員だ！ / {p}を地獄界へ / 連れて行ってやるぜ！
+   EN: Anyway, beat Beehive Nyudo and / you're a real Yokai Patrol member! / Then I'll take {p} to the / Hell World!
+>> 42.54 | Bee Sting Victim | むらむら… / めらめら…
+   EN: Hot... bothered...
+>> 42.55 | Bee Sting Victim | 腹減ったぁ～！ / いくら食べても食い足りない～！
+   EN: I'm starviiing! No matter how much I eat, / it's not enough!
+>> 42.56 | Bee Sting Victim | イライラするわよ / イライラしちゃうわ！
+   EN: I'm so irritated, so irritated!
+>> 42.57 | Bee Sting Victim | 見て！ あたしを見て！ / あたし きれい！？
+   EN: Look! Look at me! Am I pretty!?
+>> 42.58 | Bee Sting Victim | ねむ～いよ～ / ぐ～ す～ ぴ～
+   EN: So sleepyyy... Zzz... snooore...
+>> 42.59 | Bee Sting Victim | 働くの もう イヤ
+   EN: I don't wanna work anymore.
+>> 42.60 | {p} | 妖怪に襲われた人だ / 他にも たくさん いるのかな… / はやく 怒黒を見つけないと！
+   EN: Someone attacked by a yokai. I wonder / if there are lots of others... We / have to find Dokuro, quick!
+>> 42.61 | {p} | 妖怪に襲われた人だ / 他にも たくさん いるのかな… / はやく ハチの巣入道を / 見つけないと！
+   EN: Someone attacked by a yokai. I wonder / if there are lots of others... We / have to find Beehive Nyudo, quick!
+>> 42.62 | {p} | それじゃ / ハチの巣入道の居場所は…
+   EN: Then where's Beehive Nyudo...?
+>> 42.63 | Enma-kun | なんだ あのハチの大群は！？
+   EN: What's that huge swarm of bees!?
+>> 42.64 | Chapeau-jii | 妖怪・ハチの巣入道の登場ジャ！
+   EN: Here comes the yokai Beehive / Nyudo, jaja!
+>> 42.65 | Enma-kun | ハチの巣入道！ / おとなしく地獄界へ帰るんだ！
+   EN: Beehive Nyudo! Go back to the Hell / World quietly!
+>> 42.66 | Beehive Nyudo | 世界中の脳みそを集めるまでは… / 地獄界に戻らん！ / 新鮮な脳みそを / たっぷり吸い取ってやる！
+   EN: I won't go back to the Hell World... not / until I've collected every brain in the / world! I'll suck out loads of fresh / brains!
+>> 42.67 | {p} | あいつ ちっとも聞く気ないよ / えん魔くん…
+   EN: He's not listening one bit, Enma-kun...
+>> 42.68 | Beehive Nyudo | おのれ 舐めおって～！
+   EN: Grr, you dare mock me!
+>> 42.69 | Akira Fudo | {s}の声だ！
+   EN: That's {s}'s voice!
+>> 42.70 | Akira Fudo | 室内に運ぼう！
+   EN: Let's carry her inside!
+>> 42.71 | Takuma | {s} 凄い熱だよ！
+   EN: {s} is burning up!
+>> 42.72 | Akira Fudo | 一晩たったというのに / 目も覚まさず 熱も下がらない
+   EN: A whole night's passed, and she / won't wake up and the fever won't / go down.
+>> 42.73 | Akira Fudo | 黒い月も まだ空に上がってるぜ / もうとっくに / 夜は明けたと言うのに…
+   EN: The black moon's still up in the / sky, too. / And it's long past dawn...
+>> 42.74 | Akira Fudo | あれは なんだ！？
+   EN: What's that!?
+>> 42.75 | Akira Fudo | 行ってみよう！
+   EN: Let's go see!
+>> 42.76 | Jiro | 見たことのない機体だ / 戦闘機だろうか？ / パイロットは どこだろう？
+   EN: A craft I've never seen before. A / fighter plane? Where's the pilot?
+>> 42.77 | Akira Fudo | どっかに倒れてるんじゃねぇか？
+   EN: Bet he's collapsed somewhere.
+>> 42.78 | Ryo Asuka | …これを見てくれ
+   EN: ...Take a look at this.
+>> 42.79 | {p} | ヘルメットみたいだね / それじゃ 操縦してた人は / 近くにいるのかな？
+   EN: It looks like a helmet. / Then is the person who was flying it / somewhere nearby?
+>> 42.80 | Enma-kun | 探してみようぜ！
+   EN: Let's look around!
+>> 42.81 | Dr. Saotome | {!R}こちら早乙女！ / 聞こえたら返事をしろ！ / {!R}リョウ！ 応えてくれ！
+   EN: {!R}This is Saotome! Answer if you can / hear me! {!R}Ryo! Respond!
+>> 42.82 | {p} | あの もしもし？
+   EN: Um, hello?
+>> 42.83 | Dr. Saotome | {!R}おお！ / リョウ 無事じゃったか！ / {!R}イヤ… 声が違う？ / 君は誰だ！ リョウはどこだ！
+   EN: {!R}Oh! Ryo, you're safe! {!R}No... the voice is / different? Who are you! Where's Ryo!
+>> 42.84 | {p} | 僕は {p}と言います / 赤い飛行機が墜落して… / ヘルメットは あったけど / 操縦していた人はいません
+   EN: My name is {p}. A red / plane crashed... There was a helmet, / but no sign of the pilot.
+>> 42.85 | Dr. Saotome | {!R}イーグル号が墜落！？ / リョウが行方不明！？ / {!R}黒い月とやらのせいか…？
+   EN: {!R}The Eagle crashed!? Ryo is missing!? {!R}Is / this the doing of this "black / moon"...?
+>> 42.86 | {p} | 黒い月ですって！？
+   EN: Did you say black moon!?
+>> 42.87 | Dr. Saotome | {!R}リョウ いや / 流竜馬の最後の言葉じゃ / {!R}黒い月が出た！と叫んだ後 / 交信を絶ったのだ
+   EN: {!R}Those were Ryo's... Ryoma Nagare's / last words. {!R}He shouted "A black / moon's come out!" and then contact / was lost.
+>> 42.88 | {p} | 黒い月… / あ あのー あなたは…
+   EN: A black moon... Um, who are you...?
+>> 42.89 | Dr. Saotome | {!R}わしは早乙女 ゲッター線を / 研究している科学者じゃ
+   EN: {!R}I am Saotome, my boy, a scientist who / studies Getter Rays.
+>> 42.90 | Dr. Saotome | {!R}…{p}君！ わしは君と / 直接 話がしたくなった！ / {!R}そちらにイーグル号を / 回収に向かう！ / {!R}それまで すまんがリョウを / 探してくれんか？ / {!R}パイロットスーツを着ている / すぐに わかるはずだ
+   EN: {!R}...{p}-kun! I'd like to / speak with you directly! {!R}I'm heading / there to recover the Eagle! {!R}Until then, / sorry to ask, but would you look for / Ryo? {!R}He's wearing a pilot suit. You'll / know him right away.
+>> 42.91 | {p} | 解りました 早乙女博士！
+   EN: Understood, Dr. Saotome!
+>> 42.92 | {p} | …イーグル号の回収は / 終わったんですね / …早乙女博士 リョウさんは / 見つかりませんでした…
+   EN: ...So you've recovered the Eagle. ...Dr. / Saotome, we couldn't find Ryo-san...
+>> 42.93 | Dr. Saotome | あいつのことだ どこかで / 生きてると わしは信じておる / それよりも{p} わしと / 一緒に 早乙女研究所にこんか？
+   EN: Knowing that lad, I daresay he's alive / somewhere. Now then, / {p}, won't you come with / me to the Saotome Lab?
+>> 42.94 | {p} | 早乙女研究所？
+   EN: The Saotome Lab?
+>> 42.95 | Dr. Saotome | 黒い月について / 詳しく知りたいのだ
+   EN: I want to learn more about the / black moon.
+>> 42.96 | {p} | でも {s}…
+   EN: But {s}...
+>> 42.97 | Dr. Saotome | 病身の彼女が心配か？ / 一緒に連れてくればよい / 研究所のドクターに診せよう
+   EN: Worried about her, sick as she is? / Bring her along. I'll have the lab's / doctor examine her.
+>> 42.98 | {p} | ホントですか！
+   EN: Really!?
+>> 42.99 | Dr. Saotome | 異論は無いようだな / では 君の準備が整い次第 / 早乙女研究所へ出発するぞ
+   EN: No objections, I see. / Then we'll leave for the Saotome Lab / as soon as you're ready.
+>> 43.00 | Dr. Saotome | 準備は いいか？
+   EN: All set?
+>> 43.01 | Dr. Saotome | では {s}を / トレーラーに 同乗させるのだ / 早乙女研究所に向かうぞ！
+   EN: Then put {s} in the / trailer with us. We're heading for the / Saotome Lab!
+>> 43.02 | Dr. Saotome | 準備が出来たら / わしに話しかけるのだ
+   EN: Talk to me when you're ready.
+>> 43.03 | {p} | そうですか / 早乙女博士 実は…
+   EN: I see. Dr. Saotome, actually...
+>> 43.04 | Dr. Saotome | 小さな身体に比べ 異常に大きな脳 / ハチュウ人類は人間以上の働きを / するとみたほうがいい / 我々の敵がどんなに恐ろしい相手か / 解ったか？
+   EN: A brain abnormally large for so small a / body. We'd best assume the / Reptilians can outdo humans. / Do you understand now how terrifying / our enemy is?
+>> 43.05 | Guard | 許可の無い者を 科学都市に / 入れるわけにはいかん！ / 帰りたまえ！
+   EN: I can't let anyone into Science City / without a permit! Go home!
+>> 43.06 | Dr. Saotome | 隼人！ 武蔵！
+   EN: Hayato! Musashi!
+>> 43.07 | Hayato | 博士！ / リョウは！？
+   EN: Doctor! What about Ryo!?
+>> 43.08 | Musashi | 死んじまったのか！？
+   EN: Is he dead!?
+>> 43.09 | Dr. Saotome | 行方不明のままだ / {p}君 来なさい
+   EN: He's still missing. / {p}-kun, come with me.
+>> 43.10 | Hayato | リョウのことだ めったなことで / くたばるわけがない
+   EN: Knowing Ryo, he won't croak that / easily.
+>> 43.11 | Musashi | リョウが帰ってくるまで / このムサシ様が頑張るぜ！
+   EN: Till Ryo gets back, the great Musashi's / gonna give it all he's got!
+>> 43.12 | Dr. Saotome | {s}は 医療チームに / 任せてある 結果を待つのだ / それより わしは / 君に聞きたいことがある / 黒い月について…だ
+   EN: {s} is in the medical / team's hands. Wait for the / results. More importantly, there's / something I want to ask you. About / the black moon.
+>> 43.13 | {p} | 僕が知ってることは / さっきお話したことだけです
+   EN: All I know is what I told you earlier.
+>> 43.14 | Dr. Saotome | ふむ… / 実は 世界のあちこちで / 次元の連結現象が / 確認されておるのだ
+   EN: Hmm... The truth is, the dimensional / linking phenomenon has been / confirmed all over the world.
+>> 43.15 | {p} | なんですって！？ / それは この世界とは / 別の世界の存在を…？
+   EN: What!? / Then you know other worlds exist / besides this one...?
+>> 43.16 | Dr. Saotome | 知っている / 理論上の話ではあるがな / だが それが / 現実のものとなったのだ！
+   EN: We know. In theory, at least. But now it / has become reality!
+>> 43.17 | {p} | やはり黒い月が原因ですか？
+   EN: Is the black moon the cause after all?
+>> 43.18 | Dr. Saotome | 解らん だが このままでは / 深刻な事態が起こり得る！ / そこで君の経験を / 原因究明に役立てたいのだ！
+   EN: I don't know. But at this rate, / something grave could happen! So I / want to put your experiences to use / in finding the cause!
+>> 43.19 | {p} | 喜んでお手伝いします！
+   EN: I'd be glad to help!
+>> 43.20 | Dr. Saotome | うむ！ / 頼んだぞ！
+   EN: Good! I'm counting on you!
+>> 43.21 | Dr. Saotome | {s}は 医療チームに / 任せてある 結果を待つのだ
+   EN: {s} is in the medical / team's hands. Wait for the results.
+>> 43.22 | Researcher | ある日 突然 見知らぬ場所に / 見知らぬ人達が現れる / もともと そこにいた人達が / どうなったか？は 誰にも解らん
+   EN: One day, out of nowhere, strangers / appear in a strange place. What / happened to the people who were / there before? No one knows.
+>> 43.23 | Researcher | 科学都市では現在 次元連鎖に / ついての 研究会が開かれてる / 博士も / 招待されてたはずなんだけど…
+   EN: Right now there's a conference on the / Dimension Chain in Science City. The / doctor should've been invited too...
+>> 43.24 | Researcher | 微量で膨大なエネルギーを生む / 魔法の光体！それがゲッター線！ / 早乙女博士は / ゲッター線の発見者なんだ
+   EN: A miraculous light that makes / enormous energy from a mere trace! / Those are Getter Rays! Dr. Saotome is / the one who discovered them.
+>> 43.25 | Researcher | 人類以外の生物が / この地上を狙っている / そのことに気づいた早乙女博士は / この研究所を作ったんだ
+   EN: Creatures other than humans are / after the surface of this Earth. / Dr. Saotome realized that and built / this lab.
+>> 43.26 | Researcher | ３台のゲットマシンが合体して / ゲッターロボになる！ / さらにゲッターロボは / ３つの形態に 変形できる！ / 状況に合わせた形態で戦えること / それがゲッターロボの強さなんだ
+   EN: Three Getter Machines combine into / Getter Robo! And Getter Robo can / change into three different forms! / Being able to fight in the form that / suits the situation, that's Getter / Robo's strength.
+>> 43.27 | Researcher | イーグル号の損傷は かなり / 激しいけど 急ピッチで修理中さ / でも今メカザウルスに襲われたら… / ピンチだ！
+   EN: The Eagle's pretty badly damaged, but / we're repairing it at full speed. But / if a Mechasaurus attacked us now... / we'd be in trouble!
+>> 43.28 | Musashi | リョウ～！ お おまえがいない / ゲッターチームなんて！！
+   EN: Ryooo! W-without you, there ain't no / Getter Team!!
+>> 43.29 | Hayato | 泣くな ムサシ まだ / 死んだと決まったわけじゃない
+   EN: Don't cry, Musashi. Nobody's said he's / dead yet.
+>> 43.30 | {p} | リョウさん / 見つかるといいですね…
+   EN: I hope you find Ryo-san...
+>> 43.31 | Researcher | なんの骨か わかる？ / 頭は大トカゲ / 手と羽は プテラノドンよ / そして身体は人間！ / あたし達とは / 別の進化をたどった生命体 / それがハチュウ人類よ！
+   EN: Can you tell what these bones are / from? A giant lizard's head, a / pteranodon's arms and wings, and a / human's body! A life form that took a / different evolutionary path from us. / That's a Reptilian!
+>> 43.32 | Doctor | {s}の病気だが / ここの設備では原因がわからん…
+   EN: About {s}'s illness, we / can't find the cause with the / equipment here...
+>> 43.33 | {p} | そんな… 先生！ / 僕は どうすればいいんですか？
+   EN: No... Doctor! What should I do?
+>> 43.34 | Doctor | もっと高度な医療施設が必要だ / 科学都市まで行けば あるいは…
+   EN: She needs a more advanced medical / facility. If you went to Science City, / perhaps...
+>> 43.35 | {p} | 科学都市… / 早乙女博士に相談してみよう
+   EN: Science City... / Let's talk to Dr. Saotome.
+>> 43.36 | Dr. Saotome | わしも今 報告を受けたところじゃ / 科学都市へ行きたいそうだな？
+   EN: I just got the report myself. You want / to go to Science City?
+>> 43.37 | {p} | はい！
+   EN: Yes!
+>> 43.38 | Dr. Saotome | 君が 科学都市に入れるよう / 連絡しておいてやろう / すぐに向かうがいい
+   EN: I'll contact them so you can get into / Science City. Go right away.
+>> 43.39 | {p} | ありがとうございます 博士！
+   EN: Thank you, Doctor!
+>> 43.40 | Doctor | {s}の病気だが / ここの設備では原因がわからん… / もっと高度な医療施設が必要だ / 科学都市まで行けば あるいは…
+   EN: About {s}'s illness, we / can't find the cause with the / equipment here... She needs a more / advanced medical facility. If you / went to Science City, perhaps...
+>> 43.41 | Doctor | 身体の具合が悪いのかね？ / 顔色は良さそうだがな
+   EN: Feeling unwell? Your color looks good, / though.
+>> 43.42 | Dr. Saotome | わしも科学都市での研究会には / 参加したかったのじゃが / リョウが行方不明となった今 / 研究所を離れるわけにはいかん
+   EN: I wanted to attend the conference in / Science City too, but with Ryo / missing, I can't leave the lab.
+>> 43.43 | {p} | 解っています / ありがとうございました 博士！
+   EN: I understand. Thank you, Doctor!
+>> 43.44 | Dr. Saotome | 敵を見たら 考えずに倒せ！ / 非情になりきるのじゃ！ / それが 生き残るために / 必要なことだ
+   EN: When you see the enemy, don't think, / just strike them down! Be utterly / ruthless! That's what it takes to / survive.
+>> 43.45 | {p} | はい…
+   EN: Yes, sir...
+>> 43.46 | Hayato | ムサシのヤツ リョウのヘルメット / を 抱えて まだ泣いてやがる
+   EN: That Musashi's still hugging Ryo's / helmet and bawling.
+>> 43.47 | {p} | 優しい人だね ムサシさんは
+   EN: Musashi-san's a kind person.
+>> 43.48 | Hayato | 甘いだけさ
+   EN: He's just soft.
+>> 43.49 | Bandaged Man | 早乙女博士の身柄を… / こちらに預けていただきたい
+   EN: I'd like you to... hand Dr. Saotome over / to me.
+>> 43.50 | Hayato | どこの誰だか知らねぇが 消えな / そんな包帯じゃ済まねぇケガを / するぜ
+   EN: Dunno who you are, but get lost. / Or you'll get hurt worse than a few / bandages can fix.
+>> 43.51 | Bandaged Man | カッコつけてるのが甘いんだよ！
+   EN: Acting all cool is what makes you soft!
+>> 43.52 | Dr. Saotome | あの構え 身のこなしは…！？ / やめんか リョウ！
+   EN: That stance, those moves...!? / Stop it, Ryo!
+>> 43.53 | {p} | リョウ！？
+   EN: Ryo!?
+>> 43.54 | Bandaged Man | リョウ…だって？
+   EN: Ryo...?
+>> 43.55 | Dr. Saotome | わしの目は ごまかせん / おまえは 確かにリョウだ
+   EN: You can't fool my eyes. You're Ryo, / without a doubt.
+>> 43.56 | Bandaged Man | うう… リョウ？
+   EN: Ugh... Ryo?
+>> 43.57 | Dr. Saotome | わしを忘れたわけでは あるまい？ / なんのため そんな真似をするのだ / リョウ？
+   EN: Surely you haven't forgotten me? / Why are you doing this, Ryo?
+>> 43.58 | Bandaged Man | リョウ… / 知らん！ おれは ただ…！
+   EN: Ryo... I don't know! I'm just...!
+>> 43.59 | Dr. Saotome | あっ 待て！ / リョウ！！
+   EN: Ah, wait! Ryo!!
+>> 43.60 | {p} | 隼人さん 大丈夫！？
+   EN: Hayato-san, are you okay!?
+>> 43.61 | Hayato | …あれは リョウなんかじゃねぇ！ / あいつの目は野獣だった / 理性のねえケダモノの目だった / あんなのがリョウのはずがねぇ！
+   EN: ...That wasn't Ryo! His eyes were a wild / animal's. The eyes of a beast with no / reason left. No way that was Ryo!
+>> 43.62 | Dr. Saotome | ヤツが落とした薬袋だ / 科学都市にある研究所の名前が / 書いてある… / どうやら わしも 科学都市に / 行かねば ならんようだな
+   EN: The medicine bag he dropped. / It has the name of a research facility / in Science City on it... It seems I'll / have to go to Science City myself.
+>> 43.63 | {p} | 早乙女博士！
+   EN: Dr. Saotome!
+>> 43.64 | Dr. Saotome | ベアー号で科学都市に向かうぞ / {s}も いっしょにな / 時間が惜しい / すぐに出発するぞ
+   EN: We'll head to Science City in the Bear. / {s} too. There's no / time to lose. We leave at once.
+>> 43.65 | Hayato | {p} / 早乙女博士を頼んだぜ！
+   EN: {p}, take care of Dr. / Saotome for us!
+>> 43.66 | Guard | どうぞ お通りください / 早乙女博士が お待ちです
+   EN: Please go on through. Dr. Saotome is / waiting.
+>> 43.67 | Researcher | 北の大会議場では 今 / 研究会の真っ最中なんだ / 早乙女博士も / そこに行っているハズだよ
+   EN: There's a conference going on in the / Grand Conference Hall to the north / right now. Dr. Saotome should be / there too.
+>> 43.68 | Researcher | イーグル号のパイロットが / 行方不明？ / メカザウルスに襲われたら / どうするんだろ？
+   EN: The Eagle's pilot is missing? What'll / they do if a Mechasaurus attacks?
+>> 43.69 | Dr. Saotome | {s}は この科学都市の / 病院に入院させたよ / 街の見学ついでに / 見舞ってやるといい / わしは研究会に顔を出すから / 後で来てくれたまえ
+   EN: I've had {s} admitted to / the hospital here in Science City. Go / visit her while you look around the / city. I'll be showing my face at the / conference, so come by later.
+>> 43.70 | Researcher | 科学都市の南東には / 大きなホテルが あるんだ / でも大きすぎて 初めて行く人は / たいてい 中で迷うんだよね
+   EN: There's a big hotel in the southeast / of Science City. It's so huge that / first-timers usually get lost inside.
+>> 43.71 | Scientist | あなたの理論は認める！ / だが あなたが しようとしている / ことは 間違っている！
+   EN: I acknowledge your theory! / But what you are trying to do is wrong!
+>> 43.72 | {p} | 早乙女博士 / ホントに ここにいるのかな？
+   EN: Is Dr. Saotome really here?
+>> 43.73 | Dr. Saotome | {p} こっちだ！
+   EN: {p}, over here!
+>> 43.74 | {p} | 早乙女博士！ 弱ったな / あそこまで行けるかな…
+   EN: Dr. Saotome! Uh-oh, can I get over / there...?
+>> 43.75 | Genzo Kuruma | 説明して解らぬなら / 身体に教えてやろう！
+   EN: If words won't make you understand, / I'll beat the lesson into you!
+>> 43.76 | Genzo Kuruma | 貴様ら三流科学者は 生きていても / 何の役にも立たん！ / そのことを身をもって知るがいい！ / はっはっはっは…！
+   EN: Third-rate scientists like you are of / no use alive! Learn it the hard way! / Hahahaha...!
+>> 43.77 | {p} | 大変だ！ / 早乙女博士を助けなくっちゃ！
+   EN: Oh no! We've got to save Dr. Saotome!
+>> 43.78 | {p} | 今は 弓教授を / 助け出すことが先だ！
+   EN: Rescuing Professor Yumi comes first / right now!
+>> 43.79 | {p} | 今は 早乙女博士を / 助け出すことが先だ！
+   EN: Rescuing Dr. Saotome comes first / right now!
+>> 43.80 | Dr. Saotome | 君！ / 助けてくれて ありがとう！
+   EN: You there! Thank you for saving me!
+>> 43.81 | {p} | 博士！ / ご無事ですか！？
+   EN: Doctor! Are you all right!?
+>> 43.82 | Dr. Saotome | あぁ 大丈夫だ！
+   EN: Yes, I'm fine!
+>> 43.83 | Mysterious Man | …来留間源三は どこだ？
+   EN: ...Where is Genzo Kuruma?
+>> 43.84 | Dr. Saotome | 博士なら あっちのほうへ…
+   EN: The doctor went that way...
+>> 43.85 | {p} | 行っちゃった…
+   EN: He's gone...
+>> 43.86 | Dr. Saotome | 何者だろうな あの男…
+   EN: Who could that man be...
+>> 43.87 | Dr. Saotome | リョウらしき包帯男がいる場所が / 解った / 科学都市のホテル付近で / それらしい者を見たとのことだ / {p}も / ついてきてくれんか？
+   EN: We've learned where the bandaged man / who seems to be Ryo is. Someone saw / a man like that near the Science City / hotel. {p}, will you come / with me?
+>> 43.88 | {p} | 解りました！
+   EN: Got it!
+>> 43.89 | Ryo | うう… / リョウ… / 頭に こびりついて離れない / この名前は なんだ！？ / リョウとは いったいなんだ！？
+   EN: Ugh... Ryo... This name won't get out of / my head! What is it!? What on earth is / "Ryo"!?
+>> 43.90 | Dr. Saotome | どうやら リョウのヤツ なんらかの / 人体実験を受けたようじゃな / 本来の記憶を / 無くしてしまったのだ！
+   EN: It seems Ryo underwent some sort of / human experiment. He's lost his true / memories!
+>> 43.91 | {p} | そんな酷いことを…！
+   EN: How could they do something so / horrible...!
+>> 43.92 | Dr. Saotome | いかにしたら人類を簡単に / 滅ぼすことが出来るか？ / ハチュウ人類は その研究のため / 人体実験を繰り返している
+   EN: How can mankind be wiped out easily? / The Reptilians have been performing / human experiments again and again to / find out.
+>> 43.93 | {p} | 許せない！
+   EN: Unforgivable!
+>> 43.94 | Reptilian | 貴様ら！ / いつの間に！？
+   EN: You wretches! When did you get here!?
+>> 43.95 | Dr. Saotome | この顔…！ / やはり リョウじゃった！
+   EN: This face...! It IS Ryo!
+>> 43.96 | Ryo | リョウ… リョウ…
+   EN: Ryo... Ryo...
+>> 43.97 | {p} | 記憶喪失を直す方法は / ないんですか？
+   EN: Isn't there a way to cure amnesia?
+>> 43.98 | Dr. Saotome | 何か強いショックを与えれば / 記憶が戻ることもあるが… / 時間を かけなければ治らない…
+   EN: A strong shock can sometimes bring / memories back... but otherwise, only / time will heal it...
+>> 43.99 | {p} | ………
+   EN: .........
+>> 44.00 | Dr. Saotome | ともかく リョウを ここから / 連れだそう
+   EN: Anyway, let's get Ryo out of here.
+>> 44.01 | Hayato | {!R}博士！ メカザウルスが / 研究所を襲ってきました！
+   EN: {!R}Doctor! A Mechasaurus is attacking / the lab!
+>> 44.02 | Dr. Saotome | なんじゃと！ / え～い せっかくリョウを / 救出したというのに！
+   EN: What!? / Blast it, just when we'd finally / rescued Ryo!
+>> 44.03 | Hayato | {!R}リョウは無事なんですか！？
+   EN: {!R}Is Ryo okay!?
+>> 44.04 | Dr. Saotome | 無事だとも… / 記憶は失っているがな…！
+   EN: He's safe... Though he's lost his / memory...!
+>> 44.05 | Hayato | {!R}なんですって…！
+   EN: {!R}What...!
+>> 44.06 | Dr. Saotome | 隼人 ジャガー号で科学都市まで / 来い！ / イーグル号にはムサシを乗せろ！
+   EN: Hayato, come to Science City in the / Jaguar! Put Musashi in the Eagle!
+>> 44.07 | Hayato | {!R}しかし それでは研究所を守る者が / いなくなります！
+   EN: {!R}But then there'll be nobody left to / guard the lab!
+>> 44.08 | Dr. Saotome | 構わん！ 急ぐのだ！
+   EN: Never mind that! Hurry!
+>> 44.09 | Dr. Saotome | ベアー号に戻るぞ / {p}！
+   EN: Back to the Bear, {p}!
+>> 44.10 | Musashi | わはは！ / おまえ やはり生きとったか！ / おら うれしいぜ！ てっきり / 死んじゃったのかと思ってた！
+   EN: Wahaha! So you was alive after all! I'm / so happy! I figured you was a goner / for sure!
+>> 44.11 | Hayato | 博士 急いで研究所に戻らないと…
+   EN: Doctor, we need to hurry back to the / lab...
+>> 44.12 | Dr. Saotome | わかっておる！ / ムサシ！ リョウを / イーグル号に乗せるんじゃ！
+   EN: I know! / Musashi! Put Ryo in the Eagle!
+>> 44.13 | {p} | でも博士！ / リョウさんは記憶喪失なんじゃ…
+   EN: But Doctor! Ryo-san has amnesia...
+>> 44.14 | Dr. Saotome | イーグル号のパイロットは / リョウしかいない！ / 荒療治じゃが / うまくすれば記憶が戻る！
+   EN: Ryo is the only one who can pilot the / Eagle! It's rough treatment, but with / luck his memory will come back!
+>> 44.15 | {p} | そんな！ / 危険ですよ 早乙女博士！
+   EN: No way! That's dangerous, Dr. Saotome!
+>> 44.16 | Hayato | 無駄だよ こと戦いに関して / 博士ほど非情な人はいないからな
+   EN: Save your breath. When it comes to / fighting, there's nobody more / ruthless than the doctor.
+>> 44.17 | Musashi | だからこそ / 頼りになるってもんだ！
+   EN: That's why we can count on him!
+>> 44.18 | Dr. Saotome | よし！ / ゲットマシン 出撃じゃ！
+   EN: Good! Getter Machines, launch!
+>> 44.19 | Dr. Saotome | 頼みがある {p}！ / 恐らく今頃 研究所は / ハチュウ人類に / 占領されてるはずじゃ / 下手をすると ゲッター線が / 暴走して大爆発するかもしれん！
+   EN: I have a favor to ask, / {p}! By now the lab has / most likely been occupied by the / Reptilians. If things go badly, the / Getter Rays could run wild and cause / a huge explosion!
+>> 44.20 | {p} | なんですって！？
+   EN: What!?
+>> 44.21 | Dr. Saotome | そこで君に / 研究所を取り戻して欲しい！ / メカザウルスは / ゲッターが相手をする / その隙をつくのだ！
+   EN: So I want you to take the lab back! / Getter will handle the Mechasaurus. / Use that opening!
+>> 44.22 | {p} | わかりました 早乙女博士！
+   EN: Understood, Dr. Saotome!
+>> 44.23 | Musashi | リョウ！ イーグル号に乗って / 何か思い出したかい？
+   EN: Ryo! Remember anything, now you're in / the Eagle?
+>> 44.24 | Ryo | うぅ…
+   EN: Ugh...
+>> 44.25 | Hayato | 今のリョウに思い出せと言っても / 苦しめるだけだぞ ムサシ！
+   EN: Telling Ryo to remember right now is / only gonna torture him, Musashi!
+>> 44.26 | Musashi | でもよぉ…
+   EN: But still...
+>> 44.27 | Ryo | 思い出さなくちゃ ならない大切な / ものが 頭のすみにあるんだ… / このマシンに乗ると 身体が / ゾクゾクと震えるのに… / どうしても出てこねぇ！
+   EN: There's something important I gotta / remember, at the back of my mind... / When I ride this machine, shivers run all / through me... but I just can't / remember!
+>> 44.28 | Musashi | ………
+   EN: .........
+>> 44.29 | Hayato | メカザウルスが来たぞ！
+   EN: The Mechasaurus is here!
+>> 44.30 | Ryo | なんだ あの化けもんは！？
+   EN: What's that monster!?
+>> 44.31 | Hayato | あれが俺達の敵 / 恐竜帝国のメカザウルスだ！
+   EN: That's our enemy, the Dinosaur / Empire's Mechasaurus!
+>> 44.32 | Ryo | 俺達の…敵？
+   EN: Our... enemy?
+>> 44.33 | Musashi | 来るぜ！
+   EN: Here it comes!
+>> 44.34 | Ryo | ………来い！
+   EN: .........Bring it on!
+>> 44.35 | Hayato | リョウ！？
+   EN: Ryo!?
+>> 44.36 | Musashi | そうこなくっちゃ！
+   EN: Now that's more like it!
+>> 44.37 | Ryo | 思い出した…！ / 俺は流竜馬… / このマシンはゲッターロボ！
+   EN: I remember...! / I'm Ryoma Nagare... and this machine is / Getter Robo!
+>> 44.38 | Musashi | 記憶が戻ったのか リョウ！？
+   EN: Your memory's back, Ryo!?
+>> 44.39 | Ryo | 戻ったとも はっきりとな！
+   EN: It's back, all right, clear as day!
+>> 44.40 | Hayato | 早乙女博士の考えが / ズバリ的中したな
+   EN: Dr. Saotome's idea hit the bull's-eye.
+>> 44.41 | Ryo | 博士は 今 どこに？
+   EN: Where's the doctor now?
+>> 44.42 | Hayato | 研究所に向かってる / ハチュウ人類から / 取り戻すためにな！
+   EN: Headed for the lab. / To take it back from the Reptilians!
+>> 44.43 | Ryo | なんだって！？ / よし 急ぐぞ！
+   EN: What!? All right, let's hurry!
+>> 44.44 | Reptilian | ゴール様 早乙女博士らが / この研究所に到着しました！
+   EN: Gore-sama, Dr. Saotome and the / others have arrived at the lab!
+>> 44.45 | Gore | ほう いよいよ来たか / 我々の計画を邪魔するヤツは / 許さん！ / 誰であろうと / 葬り去ってやるのみだ！
+   EN: Oho, so they've come at last. / I won't forgive anyone who interferes / with our plans! Whoever it is, I'll / simply bury them!
+>> 44.46 | Ryo | もうすぐ研究所だ！
+   EN: The lab's almost in sight!
+>> 44.47 | Musashi | 急がねぇと 博士や {p}が / やられちまうぜ！
+   EN: If we don't hurry, the doctor and / {p} are gonna get / whacked!
+>> 44.48 | Ryo | {p}？ / 誰だ それ？
+   EN: {p}? Who's that?
+>> 44.49 | Hayato | 説明は後だ！ / メカザウルスが来るぞ！
+   EN: Explanations later! The Mechasaurus / is coming!
+>> 44.50 | Ryo | あいつらが何者で / 俺が何をやらなければならないか / 戦いの中で思い出してやる！
+   EN: Who they are and what I've gotta do... / I'll remember it all as I fight!
+>> 44.51 | Gore | 死にに来たか 早乙女博士？
+   EN: Have you come to die, Dr. Saotome?
+>> 44.52 | {p} | おまえが ゴールか！？
+   EN: So you're Gore!?
+>> 44.53 | Gore | さよう 地底魔王ゴール / 全生物の支配者だ！ / 武器を捨てて 私に従え
+   EN: Indeed. Gore, Demon King of the / Underworld, ruler of all living / things! Throw down your weapons and / obey me.
+>> 44.54 | Dr. Saotome | ふざけるな ゴール！
+   EN: Don't be absurd, Gore!
+>> 44.55 | Gore | おまえ達 人類の繁栄の時は / 終わったのだ / 地球は新しい時代を迎える… / ハチュウ人類の時代を！
+   EN: Your age of human prosperity is over. / The Earth is entering a new age... / the age of the Reptilians!
+>> 44.56 | Gore | なかなかやるな / だが…！ / サルに毛が生えた程度のきさまらの / 力で 私を倒せるものか！ / この勝負 預けたぞ！
+   EN: Not bad... But...! How could you, barely / more than hairy apes, ever defeat / me! We'll settle this another time!
+>> 44.57 | Dr. Saotome | 逃がすな！ / ゴールを追うのだ！
+   EN: Don't let him escape! After Gore!
+>> 44.58 | Gore | こちらは ゴールだ！ / マシンランドウ 浮上せよ！ / ……… / どうした？ / 返答せい！
+   EN: This is Gore! Machineland, surface! / ......... / What's wrong? Answer me!
+>> 44.59 | Reptilian | {!R}お気の毒ですが 帝王… / {!R}我々は まもなく / マグマ層に逃げこみます / {!R}帝王を 待つ時間が / なかったのです！！ / {!R}ゲッターの反撃にあい 帝国も / かなりの深手を負いました / {!R}このまま 闘い続けては / 帝国の死を 意味します / {!R}帝王のために 全ハチュウ人類を / 犠牲にはできません！
+   EN: {!R}We're very sorry, Emperor... / {!R}We'll soon be fleeing into the magma / layer. {!R}We had no time to wait for you, / Emperor!! {!R}Getter's counterattack has / dealt the Empire a grievous wound. / {!R}Fighting on like this would mean the / death of the Empire. {!R}We cannot / sacrifice all the Reptilians for the / Emperor's sake!
+>> 44.60 | Gore | 何！？
+   EN: What!?
+>> 44.61 | Reptilian | {!R}我々は もう１度 地下に潜り / 力を蓄えます / {!R}ハチュウ人類が 再び地上を / 征服することを夢見て！
+   EN: {!R}We'll go underground once more and / build up our strength. {!R}Dreaming of / the day the Reptilians conquer the / surface again!
+>> 44.62 | Gore | わしを見捨てるのか！？
+   EN: You'd abandon me!?
+>> 44.63 | Reptilian | {!R}偉大なる帝王ゴールに栄光あれ！
+   EN: {!R}Glory to the great Emperor Gore!
+>> 44.64 | Gore | 待て…！ / 待ってくれ…！
+   EN: Wait...! / Please, wait...!
+>> 44.65 | Dr. Saotome | 置いてけぼりとは あわれだな / ゴールよ
+   EN: Left behind... How pitiful, Gore.
+>> 44.66 | Gore | 黙れ！ / かくなるうえは ただ帝王として / ふさわしい死に方あるのみ！
+   EN: Silence! / Now all that's left is to die a death / befitting an emperor!
+>> 44.67 | Gore | ハチュウ人類は必ずや / いつの日か地上に…戻る…！
+   EN: The Reptilians will surely, one day... / return to the surface...!
+>> 44.68 | {p} | ゴール…
+   EN: Gore...
+>> 44.69 | Ryo | {!R}博士！ 研究所周辺の / メカザウルスは片づけたぜ！
+   EN: {!R}Doctor! We've wiped out the / Mechasaurus around the lab!
+>> 44.70 | Dr. Saotome | ご苦労… / ゲッターロボ 帰還せよ…！
+   EN: Well done... Getter Robo, return to / base...!
+>> 44.71 | ??? | しょせん 下等生物… / こうなることは / 当然の帰結だったのかもしれぬ…
+   EN: Lower life forms, after all... / Perhaps this outcome was only / natural...
+>> 44.72 | Dr. Saotome | 外は ゲッターに任せよう / 研究所を 取り戻すのが先だ
+   EN: Let's leave the outside to Getter. / Taking back the lab comes first.
+>> 44.73 | Researcher | ゲットマシンは只今出撃中です / 今は中には入れません
+   EN: The Getter Machines are out on a / sortie right now. You can't go inside / at the moment.
+>> 44.74 | Dr. Saotome | ご苦労だった 諸君！ / これで恐竜帝国の脅威から / 世界は救われた！ / そして{p}君！ / ありがとう！ 君のおかげだ
+   EN: Well done, everyone! / With this, the world is saved from the / threat of the Dinosaur Empire! And / {p}-kun! Thank you! It's / all thanks to you.
+>> 44.75 | {p} | そ そんな…
+   EN: Oh, n-no...
+>> 44.76 | Ryo | 君には世話になったみたいだな / 礼を言わせてくれ
+   EN: Looks like I owe you one. Let me say / thanks.
+>> 44.77 | Hayato | 困ったことがあったら 言ってくれ
+   EN: If you're ever in a jam, just say so.
+>> 44.78 | Musashi | ゲッターチームは / いつでも君の味方だ！
+   EN: The Getter Team's always on your side!
+>> 44.79 | {p} | うん！ / みんな ありがとう！
+   EN: Yeah! Thanks, everyone!
+>> 44.80 | Dr. Saotome | それでは みんな / ゲッターの整備にかかってくれ
+   EN: Now then, everyone, get to work on / Getter's maintenance.
+>> 44.81 | Ryo | え～！？
+   EN: Whaaat!?
+>> 44.82 | Hayato | 今すぐですか 博士？
+   EN: Right now, Doctor?
+>> 44.83 | Musashi | 腹減ったよ / 休ませてくれよぉ…
+   EN: I'm starvin'... Lemme rest...
+>> 44.84 | Dr. Saotome | いつまた 地球に大きな危機が / 訪れるとも わからんからな
+   EN: There's no telling when another great / crisis might come to Earth.
+>> 44.85 | Ryo | しょうがない… / ふたりとも行こうぜ…
+   EN: No helping it... Let's go, you two...
+>> 44.86 | Musashi | おまえは いいよ！ / 記憶を無くしてたんだから！ / こっちはホント クタクタだよ…
+   EN: Easy for you to say! You lost your / memory! Me, I'm plumb tuckered out...
+>> 44.87 | {p} | 大きな危機…ですか 博士？
+   EN: A great crisis... Doctor?
+>> 44.88 | Dr. Saotome | 何を言わんとしているか / 解るな {p}？
+   EN: You understand what I'm getting at, / don't you, {p}?
+>> 44.89 | {p} | はい…
+   EN: Yes...
+>> 44.90 | Jiro | {p}！ / 科学都市から連絡が入ったぞ / {s}が / 回復に向かっているそうだ！
+   EN: {p}! Word came in from / Science City. {s} is on / the road to recovery!
+>> 44.91 | {p} | ホント！？
+   EN: Really!?
+>> 44.92 | Dr. Saotome | さすが / 世界最高峰の科学都市じゃ！ / だが その科学都市にも / 恐竜帝国が入り込んでいた
+   EN: Just what you'd expect from Science / City, the finest in the world! But the / Dinosaur Empire had infiltrated even / Science City.
+>> 44.93 | {p} | それも… / 次元連鎖の影響なんでしょうか？
+   EN: Is that... the Dimension Chain's / doing too?
+>> 44.94 | Dr. Saotome | 解らん… 気になるのは / 来留間博士の動向だ…
+   EN: I don't know... What concerns me is / what Dr. Kuruma is up to...
+>> 44.95 | {p} | 科学都市の会議場で / 騒動を起こした あの人ですか？
+   EN: The man who caused that uproar in the / Science City conference hall?
+>> 44.96 | Dr. Saotome | 来留間博士には / 悪い噂が絶えん / そのヤツが 戸来村の予知一族を / 追っているという噂がある
+   EN: There's no end of nasty rumors about / Dr. Kuruma. And there's a rumor he's / chasing the Precog Clan of Herai / Village.
+>> 44.97 | Jiro | 戸来村の予知一族？
+   EN: The Precog Clan of Herai Village?
+>> 44.98 | Dr. Saotome | 東北地方にある小さな村 戸来村は / 預言者集団… / つまり / 超能力者の村と言われている
+   EN: Herai Village, a small village in the / Tohoku region, is said to be a village / of prophets... in other words, a village / of psychics.
+>> 44.99 | {p} | 来留間博士が / どうして戸来村を…
+   EN: Why would Dr. Kuruma be after Herai / Village...?

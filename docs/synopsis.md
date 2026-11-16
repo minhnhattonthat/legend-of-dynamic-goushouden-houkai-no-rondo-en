@@ -27,6 +27,25 @@ into **Team Akira** and **Team Honey**, agreeing to meet back on the hill.
 - f51-f53: side towns and inns, optional NPCs.
 - Book (script/book): the in-game encyclopedia of characters and their source manga / creators.
 
+## Chapters (story pass: `tools/story.py` reads these lines; archive files in message order, which follows the story
+only roughly: event scripts of one area sit together, side events interleave)
+- ch01 f00-f02: Prologue, the team split, Dr. Kisaragi's lab, Ryoma and Mondo
+- ch02 f03-f05: Violence Jack's Kanto, Seiji, Harenchi Gakuen (Jubei, Yamagishi)
+- ch03 f06-f08: Dororon Enma-kun, Jiro and the Kibutsu Clan
+- ch04 f09-f10: Mazinger Z (Koji, Professor Yumi, Baron Ashura)
+- ch05 f11-f13: Shutendoji's village, the Immortal Corps, Shusha and Mitsurugi
+- ch06 f14-f17: Susano-oh (Shusha, Shinichi, Uryu, Maria)
+- ch07 f18-f20: Detective comedy (Iboji, Tamatama), Sister Jill, Shinichi and Shusha
+- ch08 f21-f24: Grade, Dr. Hell, Professor Yumi's lab
+- ch09 f25-f29: Riots, the masked ???, Grade again, regrouping with Akira
+- ch10 f30-f32: Miroku, Kedaman and Dorano, Kekko Kamen
+- ch11 f33-f36: Dr. Pochi and Iron Kaiser, Mao Dante, Sister Jill's end, Slum King and Queen
+- ch12 f37-f41: Akira route: Akira and Ryo, Ryu Takuma, Jack, Kikunosuke and Naojiro
+- ch13 f42-f44: Getter Robo (Dr. Saotome, Ryo, Hayato, Musashi)
+- ch14 f45-f47: Sirene and Miki, the Dinosaur Empire
+- ch15 f48-f50: Finale: the ??? man, Miroku
+- ch16 f51-f53: Side towns, inns, optional NPCs
+
 ## Who is who (voice in docs/style-reference.md)
 - Honey Kisaragi: android heroine of Cutie Honey, boarding-school girl, bright and confident ("Honey Flash!").
 - Akira Fudo: gentle boy who becomes Devilman; Ryo Asuka his cool, commanding best friend (the late Devilman

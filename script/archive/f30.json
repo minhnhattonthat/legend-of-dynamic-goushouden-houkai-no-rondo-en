@@ -115,7 +115,7 @@
    4922
   ],
   "jp": "謎の男\n冥土の土産に教えてやる\n\n俺は九龍城城主・無幻大権が一子\n無幻美勒！",
-  "en": "Mysterious Man\nI'll tell you, as a souvenir for your trip\nto the afterlife.\n\nI am Miroku Mugen, son of Daigon\nMugen, lord of Kuryu Castle!",
+  "en": "Mysterious Man\nI'll tell you, as a souvenir for your trip\nto the afterlife.\n\nI am Miroku Mugen, son of Taigen\nMugen, lord of Kuryu Castle!",
   "status": "done",
   "notes": ""
  },
@@ -335,7 +335,7 @@
    4944
   ],
   "jp": "大権\nずび… ずば…\nよう来たな 歓迎するぞ\n{p}に… ずび…\n如月ハニー… ずば… 早見青児！",
-  "en": "Daigon\n*Snrk*... *snff*... Welcome, welcome.\n{p}... *snrk*... Honey\nKisaragi... *snff*... Seiji Hayami!",
+  "en": "Taigen\n*Snrk*... *snff*... Welcome, welcome.\n{p}... *snrk*... Honey\nKisaragi... *snff*... Seiji Hayami!",
   "status": "done",
   "notes": ""
  },
@@ -345,7 +345,7 @@
    4945
   ],
   "jp": "大権\nおまえ達のことは… ずび…\n美勒から聞いた… ずば\n美勒 おんし… ずず…\n{p}達と…ずば\n共に行け！ …ずば！",
-  "en": "Daigon\nI've heard about you from... *snrk*...\nMiroku... *snff*. Miroku, you...\n*sniff*... go with {p} and\nthe others... *snff*!",
+  "en": "Taigen\nI've heard about you from... *snrk*...\nMiroku... *snff*. Miroku, you...\n*sniff*... go with {p} and\nthe others... *snff*!",
   "status": "done",
   "notes": ""
  },
@@ -375,7 +375,7 @@
    4948
   ],
   "jp": "大権\n{p}達の話は…\n我らが危機の前兆じゃ…ずび！\n迷いの森が破られ\n真田忍者が現れ始めた…ずば！\nこれが何よりの証し…ずず！",
-  "en": "Daigon\n{p} and the others'\ntale... is an omen of danger to us...\n*snrk*! The Lost Forest has been\nbreached, and Sanada ninja have\nbegun to appear... *snff*! There's no\ngreater proof... *sniff*!",
+  "en": "Taigen\n{p} and the others'\ntale... is an omen of danger to us...\n*snrk*! The Lost Forest has been\nbreached, and Sanada ninja have\nbegun to appear... *snff*! There's no\ngreater proof... *sniff*!",
   "status": "done",
   "notes": ""
  },
@@ -395,7 +395,7 @@
    4950
   ],
   "jp": "大権\n我らは 日の本を護るという\n使命がある…ずび！\n歴史の表舞台には\n決して立たずにな…ずば！",
-  "en": "Daigon\nWe have a duty to protect the land of\nthe rising sun... *snrk*! Without ever\nstepping onto history's main stage...\n*snff*!",
+  "en": "Taigen\nWe have a duty to protect the land of\nthe rising sun... *snrk*! Without ever\nstepping onto history's main stage...\n*snff*!",
   "status": "done",
   "notes": ""
  },
@@ -415,7 +415,7 @@
    4952
   ],
   "jp": "大権\nそのとおり…ずびずば！",
-  "en": "Daigon\nExactly... *snrk-snff*!",
+  "en": "Taigen\nExactly... *snrk-snff*!",
   "status": "done",
   "notes": ""
  },
@@ -435,7 +435,7 @@
    4954
   ],
   "jp": "大権\nよくぞ 申した！ …ずずずび！！\n黒死丸は おるか！？",
-  "en": "Daigon\nWell spoken! ...*sniff-snrk*!! Is\nKokushimaru here!?",
+  "en": "Taigen\nWell spoken! ...*sniff-snrk*!! Is\nKokushimaru here!?",
   "status": "done",
   "notes": ""
  },
@@ -455,7 +455,7 @@
    4956
   ],
   "jp": "大権\nグズ蟲と共に 美勒を補佐せよ！\n…ずび！",
-  "en": "Daigon\nAssist Miroku along with Guzumushi!\n...*snrk*!",
+  "en": "Taigen\nAssist Miroku along with Guzumushi!\n...*snrk*!",
   "status": "done",
   "notes": ""
  },
@@ -475,7 +475,7 @@
    4958
   ],
   "jp": "大権\nでは 行くのだ 美勒！\n…ずば！",
-  "en": "Daigon\nNow go, Miroku! ...*snff*!",
+  "en": "Taigen\nNow go, Miroku! ...*snff*!",
   "status": "done",
   "notes": ""
  },
@@ -735,7 +735,7 @@
    4985
   ],
   "jp": "美勒\nこれまでの無礼 許してくれ\nさすが大殿の目に狂いは無かった\n俺は おまえ達に\nこの旅の命運をゆだねよう",
-  "en": "Miroku\nForgive my rudeness till now. The\ngreat lord's eye was true after all.\nI'll entrust the fate of this journey\nto you.",
+  "en": "Miroku\nForgive my rudeness till now. The\ngreat lord was right about you after\nall. I'll entrust the fate of this\njourney to you.",
   "status": "done",
   "notes": ""
  },

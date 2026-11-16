@@ -1,0 +1,528 @@
+# ch16: Side towns, inns, optional NPCs (archive files f51-f53, story order)
+
+>> 51.00 | Dr. Saotome | あ うん / え～と だいぶいいみたいだよ / 心配しなくても大丈夫だよ
+   EN: Ah, yes. Well, um, she seems much / better. No need to worry.
+>> 51.01 | Dr. Saotome | え！？ / いや その… / お～い！ 誰か あの書類 / どうなってるか知ってるかね！？ / すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: What!? No, well... Hey! Does anyone / know what happened to those / papers!? Sorry, {p}-kun! / I'm busy right now!
+>> 51.02 | Dr. Saotome | すまん {p}君！ / 私は 今 忙しいのだ！
+   EN: Sorry, {p}-kun! I'm busy / right now!
+>> 51.03 | Dr. Saotome | 科学都市の立ち入り禁止エリアに / 瓜生麗のマンションがあるだろう / それを探し出すことが / 真理阿の居場所を突き止める / 唯一の方法のはず… / がんばってくれ！
+   EN: Rei Uryu's condo must be in Science / City's off-limits area. Finding it / should be the only way to learn where / Maria is... Do your best!
+>> 51.04 | Dragon Panther | パンサークロー 最強の戦士 / ドラゴン・パンサーさまだ / これ以上 この城の中で 好き勝手に / させるわけには いかぬ！
+   EN: I'm Dragon Panther-sama, Panther / Claw's mightiest warrior! I won't let / you run wild in this castle any longer!
+>> 51.05 | Parasol | やるばい やるばい / まけんばい まけんばい / 敵は いく万 / ありとてばい！
+   EN: We'll do it, we'll do it! We won't lose, we / won't lose! Even if the foe's ten / thousand strong, y'all!
+>> 51.06 | Macaroni Kid | グラーチェ グラーチェ / ひさしぶりに 腕がなるぜ… / イタリアの鳥取県からきた / マカロニだ / てめえら ザコどもは / 消えるがいいのだ！
+   EN: Grazie, grazie! Been a while since I got / to cut loose... I'm Macaroni, from / Tottori Prefecture, Italy! You small / fry can just vanish!
+>> 51.07 | Kendo Sasaki | おれは 佐々木剣道 / 戦国時代より あまたの時をこえ / この時代にきた おれに / ついに戦いのときがきたのだ… / おれは おまえを斬るために / この時代にきたのだ！！
+   EN: I am Kendo Sasaki. / I crossed countless ages from the / Warring States era to come to this / time, and at last my hour of battle has / come... / I came to this time to cut you down!!
+>> 51.08 | Garo | われわれ ハチュウ人類は / 全力をつくして / ゲッターロボを破壊する！
+   EN: We Reptilians will do everything in our / power to destroy Getter Robo!
+>> 51.09 | Mamii-kun | 服なんか きんでええ / 売れのこりのほうたい / まいていけー いわれてまんのや
+   EN: Clothes? Don't need 'em. / They told me to wrap myself up in the / bandages that didn't sell, see.
+>> 51.10 | Mamii-kun | ハハハハ / ミイラ怪人と思われて まっけど / ほんまは ただの人なの
+   EN: Hahaha! Folks think I'm a mummy / monster, but really I'm just a / regular guy.
+>> 51.11 | Mamii-kun | おねえちゃんは / ほうたい きらいで / 売れのこりのバンソウコウ / きてまんねん
+   EN: My big sis hates bandages, so she / wears the sticking plasters that / didn't sell.
+>> 51.12 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしの死後 数多くのロボットが / 生み出されたと聞く / 中でも宇宙開発の結果 / 発見されたエネルギー / 微量で膨大なエネルギーになる / 魔法の光体… ゲッター線 / その応用で作られた / ロボットがあると聞く… / わっはっはっは / 見て見たいものだ！
+   EN: I am Juzo Kabuto, a scientist who / builds robots. I hear that after my / death, many robots were born. Among / them, I hear, is one built on an / energy found through space / research: a magic light where a mere / trace gives enormous power... Getter / Rays! Wahahaha! I'd love to see it!
+>> 51.13 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしが死にぎわに残した / 魔神はすごいぞ！ / 神となり人類を救う事も / 悪魔となり世界を滅ぼすことも / 自由だ！！ / すべて思いのままなのだ！
+   EN: I am Juzo Kabuto, a scientist who / builds robots. The Demon God I left / behind as I died is something else! It / can become a god and save mankind, / or become a devil and destroy the / world! The choice is yours!! It will do / whatever you wish!
+>> 51.14 | Hakase | このゲームは じつに不可能を / 可能に してしまうやろ / なぜ こんなにかんたんに / 可能にできるかというと… / このゲームが / いいかげんだからだー
+   EN: This game really makes the impossible / possible, don'tcha think? And why is / it so easy to make it possible? 'Cause / this game is slapdash, that's why!
+>> 51.15 | Dr. Judas | 私はうらむ 自分自身を… / 人類全体を / 苦しみのどん底に 落とすこと / 地獄を地球上に 創りあげること / けっして そうさせては ならない
+   EN: I curse myself... / Plunging all mankind into the depths of / suffering, creating hell on Earth... / That must never be allowed to happen.
+>> 51.16 | Eriza Hyo | この学園は / いってみれば あたしのもの / あたしの自由に / ならないことなんか ないのさ！
+   EN: This academy is mine, you might say. / There's nothing here that doesn't / go my way!
+>> 51.17 | Omorai-kun | あははは なぜか今日も / もうかりまへんなー / どない なっとんやろか
+   EN: Ahaha, somehow business is lousy / again today. What's goin' on, I / wonder?
+>> 51.18 | Omorai-kun | わい 学校にきても / こしかけないの / ゴザにすわらんと / おちつかんわ
+   EN: Even at school, I don't sit on no chair. / I can't settle down unless I'm sittin' / on my straw mat.
+>> 51.19 | Omorai-kun | 涙にうるんだ ひとみから / オモライくんは感じたぜ / 心にしみる なにかをさ / ジーンとしみる なにかがさ！！ / そいつに こたえるために / わいはいく！！ / それがオモライ 男意気！！
+   EN: From those eyes all wet with tears, / Omorai-kun felt somethin'! Somethin' / that sinks into your heart! Somethin' / that sinks right in! To answer that, / I'm goin'!! That's Omorai's manly spirit!!
+>> 51.20 | Omorai-kun | あったかいなー / 日なたぼっこは えーなー
+   EN: Sure is warm... Sunbathin's the best.
+>> 51.21 | Omorai-kun | あんまり暑いんで / 近くの沼で 泳いでもうた / それからなんや / なんでか 水道の水が / わい好みの味になったで
+   EN: It was so hot, I went for a swim in the / pond nearby. And ever since, for / some reason, the tap water tastes / just how I like it.
+>> 51.22 | Tomahawk Panther | 貴様が侵入者か？ / この場から逃れられると思うな / このトマホーク・パンサーが / 貴様を まっぷたつにしてやる！
+   EN: So you're the intruder? Don't think / you can escape from here. I, / Tomahawk Panther, will cut you in two!
+>> 51.23 | Scissors Panther | 私が シーザス・パンサーだ / ククク… / どうした 顔色がわるいぞ？ / そっちからこないなら / こっちからいくぞ！！
+   EN: I am Scissors Panther. / Heh heh heh... What's wrong, you look / pale? If you won't come at me, I'll / come at you!!
+>> 51.24 | Demon King Zennon | わが名は ゼノン / 悪魔王ゼノン！！ / 人間に告ぐ！！ / デーモン軍団が 全世界に / 攻撃をくわえるであろう / 人間よ 真の地球の支配者… / その力を 思い知れ！！
+   EN: My name is Zennon, Zennon the Demon / King!! Hear me, humans!! / The Demon army will launch its attack / on the whole world. Humans, feel the / might of the Earth's true rulers!!
+>> 51.25 | Demon King Zennon | ひとりのこらず / 人間が 死に絶えるまで / 我々の攻撃は やまない / きさまも きさまも / きさまも 死ぬのだ！！
+   EN: Our attack will not stop until every / last human is dead. / You, and you, and you will die!!
+>> 51.26 | Dr. Hell | 忘れたか…？ / 世界征服こそドクター・ヘルの夢 / おまえが本当に 妨げになるのか / 試してみるのも よかろう / ゆくぞ ブロッケン伯爵！
+   EN: Have you forgotten...? World / conquest is Dr. Hell's dream. Let's / test whether you're truly a hindrance. / Come, Count Brocken!
+>> 51.27 | Count Brocken | ははっ！
+   EN: Yes, sir!
+>> 51.28 | Count Brocken | くっ！ / …ぬぅ～ おのれ！
+   EN: Ngh! ...Grr, curse you!
+>> 51.29 | Dr. Hell | わっはっはっ…！ / なかなか やるではないか！ / だが 今は ここまでだ / この続きは 我らが再び / 敵として合間見える時だ…！
+   EN: Wahahaha...! Not bad at all! But that's / enough for now. / We'll continue this when we next meet / as enemies...!
+>> 51.30 | Count Brocken | その時こそが 本当の戦い！ / 今日のようには いかぬぞ！
+   EN: THAT will be the true battle! It won't go / like today!
+>> 51.31 | Dr. Hell | わっはっはっはっはっ…！！
+   EN: Wahahahahaha...!!
+>> 51.32 | Dr. Judas | はるか北西に / 悪魔の住む島があると聞く / 生きて帰ることの出来ない / 恐ろしい島だそうだ
+   EN: I hear there's an island of devils far / to the northwest. A terrible island / no one returns from alive.
+>> 51.33 | Hakase | ドクター・ヘルの サルードは / 北西の島に おるそうや / そこには 機械獣って / オモロイ マシンがあるんやて / いっぺん拝みに / 行きまひょかー！
+   EN: They say Dr. Hell's Saluud is at an / island to the northwest. And there's / these funky machines called / Mechanical Beasts there. Whaddaya / say we go take a gander!
+>> 51.34 | {p} | 君 何してるの？
+   EN: What are you doing?
+>> 51.35 | Boy | あの… / その… / ぐぅ～～～～！
+   EN: Um... well... *GRRRROWL*!
+>> 51.36 | {p} | そっか お腹が減ったんだね！
+   EN: Oh, you're hungry!
+>> 51.37 | Boy | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.38 | Boy | えへへ！ ありがと！
+   EN: Heh heh! Thanks!
+>> 51.39 | Kikunosuke | この子 見たことあるぜ！ / 決勝トーナメントＡブロック決勝に / 進むはずだった / 権金学園の生徒だ！
+   EN: I've seen this kid! / He's the Gongane Academy student / who was supposed to make the Block / A final in the tournament!
+>> 51.40 | {p} | え？ / 君 ホントなの？
+   EN: Huh? Is that true?
+>> 51.41 | Boy | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.42 | Kikunosuke | 確か… 家早南友！
+   EN: Yeah... Nantomo Iyahaya!
+>> 51.43 | {p} | へぇ 僕 {p}！ / よろしく 南友君！
+   EN: Huh. I'm {p}! Nice to meet / you, Nantomo-kun!
+>> 51.44 | Nantomo | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.45 | Nantomo | あ さよ子さん！
+   EN: Ah, Sayoko-san!
+>> 51.46 | Sayoko | 南友君 助けて！ / 果扨虹蛇に追われてるの！
+   EN: Nantomo-kun, help! Koja Hatesate is / after me!
+>> 51.47 | Koja Hatesate | 見つけたぞ / 家早さよ子 家早南友！ / 日本経済は果扨家が握るのよ！ / 家早は退きなさい！
+   EN: Found you, Sayoko Iyahaya, Nantomo / Iyahaya! The Hatesate family / controls Japan's economy! The / Iyahayas should step aside!
+>> 51.48 | Sayoko | 南友君 助けて！
+   EN: Nantomo-kun, help!
+>> 51.49 | Nantomo | イヤハヤ… なんとも…
+   EN: Iyahaya... nantomo...
+>> 51.50 | {p} | ちょっと 南友君…？
+   EN: Um, Nantomo-kun...?
+>> 51.51 | Kikunosuke | この女 出来る！ / {p}！ / 俺達が相手してやろうぜ！
+   EN: This woman's good! / {p}! Let's take her on!
+>> 51.52 | {p} | え～っ！？
+   EN: Whaaat!?
+>> 51.53 | Sayoko | ありがとう！ / 助かりましたわ！ / 果扨家は 何かと家早を目の敵に / するのよ / 新興の成り上がり者はイヤね！
+   EN: Thank you! You saved me! The / Hatesate family is always out to get / the Iyahayas. Upstart nouveau riche / are so tiresome!
+>> 51.54 | {p} | ………
+   EN: .........
+>> 51.55 | Sayoko | ところであなた 権金学園の生徒？
+   EN: By the way, are you a Gongane / Academy student?
+>> 51.56 | {p} | いや 僕は…
+   EN: No, I'm...
+>> 51.57 | Sayoko | まぁ！ / 南友君 聞いた？
+   EN: My! Did you hear that, Nantomo-kun?
+>> 51.58 | Nantomo | イヤハヤ なんとも / 不思議な話だね！
+   EN: Iyahaya, nantomo... What a strange / story!
+>> 51.59 | Sayoko | 決めたわ！
+   EN: I've decided!
+>> 51.60 | Sayoko | 南友君 あたし達{p}達を / 手伝いましょう！ / 何が起こってるのか解らないけど / きっと家早の財力で / 解決してみせるわ！
+   EN: Nantomo-kun, let's help / {p} and the others! I / don't know what's going on, / but the Iyahaya fortune will surely / solve it!
+>> 51.61 | {p} | ………
+   EN: .........
+>> 51.62 | Sayoko | だって家早に出来ないことは / ないもの！ おっほっほほ！
+   EN: After all, there's nothing the / Iyahayas can't do! Ohohoho!
+>> 51.63 | Resident | 町の東の犬小屋に / 変な子供が入りこんだそうだよ / 見慣れない子供らしいから… / どこから来たんだろう？
+   EN: They say some odd kid snuck into the / doghouse east of town. A kid / nobody's seen before... Where'd he / come from?
+>> 51.64 | {p} | デーモンの歴史が見えるという / 悪魔像 / 了君や明君は / いったい何を見たんだろう…？
+   EN: The devil statue that shows the / history of the Demons... What on / earth did Ryo-kun and Akira-kun / see...?
+>> 51.65 | ??? | 悪魔像は あなたには / 何も見せてくれません
+   EN: The devil statue will show you nothing.
+>> 51.66 | Psycho Jenny | 私はサイコジェニー / この像と共にある者です
+   EN: I am Psycho Jenny. I dwell here with / this statue.
+>> 51.67 | {p} | デ デーモン！？
+   EN: A-a Demon!?
+>> 51.68 | Psycho Jenny | そうです / 私はデーモン族です / あなたを お迎えに参りました
+   EN: That's right. I am of the Demon race. I / have come to fetch you.
+>> 51.69 | Psycho Jenny | あなたが忘れてしまったことを / 思い出していただくため！
+   EN: To help you remember what you've / forgotten!
+>> 51.70 | {p} | うわ～！
+   EN: Whoaaa!
+>> 51.71 | Psycho Jenny | どうです？ / 魔王について 次元連鎖について / 何か思い出しましたか？
+   EN: Well? / Have you remembered anything about / the Demon King, about the Dimension / Chain?
+>> 51.72 | {p} | …わ わからない
+   EN: ...I-I don't know.
+>> 51.73 | Psycho Jenny | そうですか… / ならば私は あなたと共に / 行きましょう
+   EN: I see... / Then I shall go with you.
+>> 51.74 | Psycho Jenny | あなたと共に行くことで 私は / より強い精神攻撃方法を学べます / お忘れですか？ デーモンは / より強くなることを望む / 戦う一族であるということを！
+   EN: By going with you, I can learn stronger / methods of psychic attack. Have / you forgotten? The Demons are a / warrior race that always seeks to / grow stronger!
+>> 51.75 | Resident | 世の中 どうなってるんだ？ / 黒い魔物やら… / 巨大な女の子やら？
+   EN: What's going on with the world? Black / fiends... giant girls?
+>> 51.76 | Resident | 黒い魔物に襲われているところを / 女の子に助けられたんだ！ / ところが その子 可愛い顔して / ３メートルを超す大女！
+   EN: I was attacked by a black fiend and a / girl saved me! But that girl, cute / face and all, was a giantess over / three meters tall!
+>> 51.77 | Resident | 黒い魔物を倒しても ちっとも / 儲からないわ…って言ってたわ / あの人 / 極悪人ハンターなんですって！ / その子？ / あっちへ行ったわ
+   EN: She said beating black fiends doesn't / pay one bit... She's a hunter of / villains, apparently! The girl? She went / that way.
+>> 51.78 | Resident | 巨大な身体に / 大学教授顔負けの頭脳！ / それでも あの子 / 小学６年生なんだって！ / その子？ / 向こうに行ったみたいだよ
+   EN: A giant body and a brain that'd put a / university professor to shame! And / they say she's only in sixth grade! The / girl? Looks like she went over there.
+>> 51.79 | Resident | きゃ～！
+   EN: Kyaaa!
+>> 51.80 | Resident | ありがとうございました！
+   EN: Thank you so much!
+>> 51.81 | {p} | なんだ！？ 地震…にしちゃ / おかしな揺れだぞ？
+   EN: What!? An earthquake...? It's a weird / kind of shaking...
+>> 51.82 | {p} | あれ？ / 止まった
+   EN: Huh? It stopped.
+>> 51.83 | Big Girl | あなたが 黒い魔物を / やっつけたの？
+   EN: Did you beat the black fiend?
+>> 51.84 | {p} | うわ～ き 君は？
+   EN: Whoa! Wh-who are you?
+>> 51.85 | Daiko Hoin | あたしは法印大子 / 極悪人ハンターよ！
+   EN: I'm Daiko Hoin, villain hunter!
+>> 51.86 | {p} | 極悪人ハンター？
+   EN: Villain hunter?
+>> 51.87 | Daiko Hoin | 正義のため！ 世の中に害をなす / 極悪人を捕らえているの / 今の世の中にとって 超Ａクラスの / 極悪人とは 黒い魔物！ / あたしは そう考えてるのよ！
+   EN: For justice! I capture villains who do / harm to the world. In today's world, / the super-A-class villains are the / black fiends! That's what I think!
+>> 51.88 | {p} | それで黒い魔物から / 町の人を助けてたんだね
+   EN: So that's why you were saving the / townspeople from the black fiends.
+>> 51.89 | Daiko Hoin | そうよ / ところであなた 誰？
+   EN: That's right. By the way, who are you?
+>> 51.90 | {p} | 僕 {p}！ / 実は僕…
+   EN: I'm {p}! Actually, I...
+>> 51.91 | Daiko Hoin | 魔王が狙っているのが / あなただったとはね… / でも魔王のやり方 / あたしは気に入らないわ！ / あなたに手を貸しましょう！ / 共に戦うのよ！
+   EN: So you're the one the Demon King is / after... But I don't like the Demon / King's methods! I'll lend you a hand! / We'll fight together!
+>> 51.92 | Akira Fudo | あ あいつは！？
+   EN: Wh-what's HE doing here!?
+>> 51.93 | Banji | あれ？ / やぁやぁ この前は どうも！ / この子 クラスメートの男男子！
+   EN: Huh? Hey hey, thanks for the other / day! This here's my classmate, Danshi / Otoko!
+>> 51.94 | Boy | こんにちは～！
+   EN: Hellooo!
+>> 51.95 | {p} | 女の子なのに 男子？
+   EN: She's a girl, but her name means / "boy"?
+>> 51.96 | Banji | おいらスケバン！ / あっはっは！
+   EN: I'm Sukeban! Ahaha!
+>> 51.97 | Banchiyo | あ！ 蛮子！ / おまえ また学校さぼるのか！？
+   EN: Ah! Banji! Are you skipping school / again!?
+>> 51.98 | Banji | ち 違うよ かあちゃん！ / 学校に行ったらさ / 誰も いねぇんだよ！
+   EN: N-no, Ma! / I went to school, but there was nobody / there!
+>> 51.99 | Banchiyo | あたしをごまかそうったって / そうは いかないわよ！
+   EN: Don't think you can fool me!
+>> 52.00 | Boy | ホントよ おばさま！
+   EN: It's true, ma'am!
+>> 52.01 | Banchiyo | ホントなの？ / いや～ねぇ さっさと言ってよ / 蛮子！
+   EN: Is it true? / Oh, honestly, you should've said so / sooner, Banji!
+>> 52.02 | Banji | そう言ったじゃん！
+   EN: I DID say so!
+>> 52.03 | {p} | 学校に行ったら / 誰も いなかった…？
+   EN: When he went to school, nobody was / there...?
+>> 52.04 | Akira Fudo | もしかすると例の…
+   EN: Could it be that thing...
+>> 52.05 | Banji | 何か心当たりあるのかい？
+   EN: You got some idea what's goin' on?
+>> 52.06 | {p} | 実は…
+   EN: Actually...
+>> 52.07 | Banchiyo | 血が騒ぐぜ…！
+   EN: My blood's pumpin'...!
+>> 52.08 | Banji | ちょっと かあちゃん！
+   EN: Hey, Ma!
+>> 52.09 | Banchiyo | この話を聞いて 戦う意欲が / 沸かないのかい 蛮子！ / かあさんは おまえを そんな子に / 育てた覚えは ないよ！
+   EN: Hearing that, don't you feel the urge / to fight, Banji!? I don't remember / raising you to be that kind of kid!
+>> 52.10 | Banchiyo | {p}君！ / 女蛮千代 あなたに協力するわ！ / いいわね 蛮子！ / 男子ちゃん！
+   EN: {p}-kun! Banchiyo Suke / will help you! You hear me, Banji! You / too, Danshi-chan!
+>> 52.11 | Boy | え？ / あたしも！？
+   EN: Huh? Me too!?
+>> 52.12 | Banji | 大丈夫！ / 男子は俺が守っから！
+   EN: Don't worry! I'll protect Danshi!
+>> 52.13 | Banji | よろしくな 明！ / {p}！
+   EN: Good to have ya, Akira! / {p}!
+>> 52.14 | {p} | これが… カイム・シレーヌ / なんて恐ろしくて… / なんて美しいんだろう…
+   EN: So this is... Kaim Sirene. / So terrifying... and so beautiful...
+>> 52.15 | {p} | カイム・シレーヌの身体に / 黒い魔物が…！
+   EN: A black fiend is on Kaim Sirene's / body...!
+>> 52.16 | Sirene | ギャアアア！ / おのれ 私の身体を / 乗っ取ろうとするのは何者だ！
+   EN: GYAAAAH! / Curse you, who dares try to take over / my body!
+>> 52.17 | Sirene | おのれ 貴様か！？
+   EN: Curse you, was it you!?
+>> 52.18 | Sirene | …う う～ん / はっ！？ / わ 私は…？
+   EN: ...Uhh... nnn... / Huh!? Wh-what happened to me...?
+>> 52.19 | {p} | あなたは 黒い魔物に / 操られていたんです
+   EN: You were being controlled by a black / fiend.
+>> 52.20 | Sirene | 黒い魔物？ / なんだそれは…？
+   EN: A black fiend? What's that...?
+>> 52.21 | {p} | 実は…
+   EN: Actually...
+>> 52.22 | Sirene | この私が / 人間に救われるとは… / 妖鳥シレーヌも / 落ちぶれたものよ…
+   EN: To think I'd be saved by a human... / Sirene the bird-demon has truly / fallen low...
+>> 52.23 | {p} | ………
+   EN: .........
+>> 52.24 | Sirene | だが！ / こうしてはおれぬ！ / {p}！ / 貴様の話が本当ならば / 我がデーモンをしのぐ敵が / 地上を狙っていることになる！ / 私は貴様に手を貸そう / この地球を 魔王とやらに / 奪われてたまるか！
+   EN: But! This is no time for that! / {p}! If your story is / true, an enemy surpassing even us / Demons is after the surface! I'll lend / you a hand. / I won't let this Earth be taken by some / Demon King!
+>> 52.25 | {p} | これが… カイム・シレーヌ
+   EN: So this is... Kaim Sirene.
+>> 52.26 | Akira Fudo | 俺は かつて こいつほど強く / 美しい敵を知らない…
+   EN: I've never known an enemy as strong / and beautiful as her...
+>> 52.27 | Akira Fudo | 下がれ {p}！
+   EN: Get back, {p}!
+>> 52.28 | Akira Fudo | あれを見ろ！
+   EN: Look at that!
+>> 52.29 | {p} | カイム・シレーヌの身体に / 黒い魔物が…！
+   EN: A black fiend is on Kaim Sirene's / body...!
+>> 52.30 | Sirene | ギャアアア！ / おのれ 私の身体を / 乗っ取ろうとするのは何者だ！
+   EN: GYAAAAH! / Curse you, who dares try to take over / my body!
+>> 52.31 | Sirene | おのれ デビルマン！ / またしても貴様か！？
+   EN: Curse you, Devilman! You again!?
+>> 52.32 | Sirene | …う う～ん
+   EN: ...Uhh... nnn...
+>> 52.33 | Sirene | はっ！？ / わ 私は…？
+   EN: Huh!? Wh-what happened to me...?
+>> 52.34 | Akira Fudo | シレーヌ おまえは / 黒い魔物に操られていたんだ
+   EN: Sirene, you were being controlled by a / black fiend.
+>> 52.35 | Sirene | 黒い魔物？ / なんだそれは…？
+   EN: A black fiend? What's that...?
+>> 52.36 | {p} | 実は…
+   EN: Actually...
+>> 52.37 | Sirene | よもや貴様らに救われるとは… / 妖鳥シレーヌも / 落ちぶれたものよ…
+   EN: To think I'd be saved by you of all / people... / Sirene the bird-demon has truly fallen / low...
+>> 52.38 | Akira Fudo | 気にいらねぇなら トドメを刺して / やっても いいんだぜ？
+   EN: If you don't like it, I can finish you / off, y'know.
+>> 52.39 | {p} | 明君！
+   EN: Akira-kun!
+>> 52.40 | Sirene | その魔王とやらは 本当に世界を / 我が者にしようしているのか？
+   EN: This Demon King truly means to make / the world his own?
+>> 52.41 | Akira Fudo | その通りだ
+   EN: That's right.
+>> 52.42 | Sirene | ならば{p}よ / 不本意ながら このシレーヌ / お前に 手を貸そう / この地球を 魔王とやらに / 奪われてたまるか！
+   EN: Then, {p}, / much as it galls me, I, Sirene, will lend / you a hand. I won't let this Earth be / taken by some Demon King!
+>> 52.43 | {p} | シレーヌ…
+   EN: Sirene...
+>> 52.44 | Sirene | だが デビルマン！ 貴様と手を組む / わけでは ないぞ！ / 魔王を倒した後は…
+   EN: But Devilman! Don't think I'm joining / hands with you! After the Demon King / falls...
+>> 52.45 | Akira Fudo | 何度でも相手してやるぜ / シレーヌ！
+   EN: I'll take you on as many times as you / like, Sirene!
+>> 52.46 | Mamii's Sister | オホホホ / おめでとうございま～す！ / あなたは 当店ご利用 / 大お得意様に 選ばれました！！
+   EN: Ohohoho! Congratulations! You've been / chosen as one of our store's top VIP / customers!!
+>> 52.47 | {p} | お得意様！？
+   EN: VIP customer!?
+>> 52.48 | Mamii's Sister | あら！？ / 記念品を 切らしてしまってるわ / オホホホ / しょうがないわねー / あたしを 記念品で / あげちゃいましょ！
+   EN: Oh my!? We're all out of commemorative / gifts. Ohohoho, oh well. I'll just give / you me as the gift!
+>> 52.49 | {p} | えーーっ！！
+   EN: Whaaat!!
+>> 52.50 | Mamii-kun | おね～タン 行ってしまうんかいな / お店 どないすんのやー？
+   EN: Big sis, you're leavin'? What about the / store?
+>> 52.51 | Mamii's Sister | そーねー / 誰もいないのは 困るわねー / そうだ おと～とタン / あなたが やりなさいよ
+   EN: Hmm, I suppose it'd be bad with nobody / here... Oh, I know, little brother, you / run it!
+>> 52.52 | Mamii-kun | わいがでっか！ / よーし おね～タンの留守は / わいが守りまっせ！！
+   EN: Me!? / All right! I'll mind the store while big sis / is away!!
+>> 52.53 | {p} | いっしょに行くのは嬉しいけど / 出かける準備は いいの？
+   EN: I'm glad you're coming, but are you / ready to head out?
+>> 52.54 | Mamii's Sister | 服のかわりに バンソウコウさえ / あれば 大丈夫なのよ / 吹雪の大氷原でも / へっちゃらなの / さあ 出発しましょ！ / オホホホ
+   EN: As long as I've got sticking plasters / instead of clothes, I'm fine! Even on / a frozen plain in a blizzard, no / problem! Now, let's go! Ohohoho!
+>> 52.55 | Ken Ishikawa | ムフフフ 僕 原作者 / 石川賢なのよね / 僕のキャラクター / みんな見つけてくれたのね / 慎一も 美勒も / たよりになるヤツなのねー / ここからは 僕も / お手伝いしてあげる / ゲッターのように / がんばるのよね～！
+   EN: Muhuhuhu, I'm the original creator, / Ken Ishikawa, you know. You found / all my characters, didn't you. Shinichi / and Miroku are reliable guys, you / know. From here on, I'll help you out / too. I'll give it my all, just like / Getter, you know!
+>> 52.56 | Go Nagai | あははは / 原作者でガス 永井豪でガス / たっぷり遊んでくれて / ありがとうでガス / これからは あっしも / お手伝いをするでガスよ / よろしくでガス！
+   EN: Ahahaha! I'm the original creator, gasu! / Go Nagai, gasu! Thanks for playing / so much, gasu! From now on, I'll be / helping out too, gasu! Nice to meet / ya, gasu!
+>> 52.57 | Mamii's Sister | ついに やったわねー / あたし達 勝ったのねー / でも 魔王が滅んじゃったから / うちの薬局 お客が減るわねー / 魔王 もう一回 / 復活しないかしら～
+   EN: We finally did it! We won! But with the / Demon King gone, our pharmacy will / lose customers... I wonder if the / Demon King will come back to life just / once more?
+>> 52.58 | {p} | 縁起でもないこと / 言わないでくださいよ / 間身井くんが待ってますよ / そろそろ帰ったほうがいいですよ
+   EN: Please don't say such ominous things. / Mamii-kun is waiting for you. You'd / better head home soon.
+>> 52.59 | Mamii's Sister | そーねー オホホホ / さんせい さんせい アルカリせい
+   EN: I suppose so, ohohoho! Agreed, / agreed, and perfectly pH-balanced!
+>> 52.60 | {p} | 間身井くんにも よろしく！ / ホント / おもしろい おねーさんだったな
+   EN: Say hi to Mamii-kun for me! / She really was a funny lady.
+>> 52.61 | Ken Ishikawa | ムフフフ
+   EN: Muhuhuhu.
+>> 52.62 | {p} | ありがとうございました / 石川先生
+   EN: Thank you very much, Ishikawa-sensei.
+>> 52.63 | Ken Ishikawa | やったねー / ついに 魔王を倒したねー
+   EN: You did it, huh? You finally beat the / Demon King.
+>> 52.64 | {p} | 石川先生や 仲間になってくれた / みんなのおかげです
+   EN: It's all thanks to you, Ishikawa-sensei, / and everyone who joined us.
+>> 52.65 | Ken Ishikawa | どのキャラクターも / 強いヤツらばかりだからねー / これからも バンバン / 強いキャラクター達を描くから / ダイナミックのマンガを / 楽しみにしててね！ / それじゃあ / また あいましょうね～！
+   EN: Every one of those characters is a / tough guy, you know. I'll keep / drawing tough characters one after / another, so look forward to / Dynamic's manga! Well then, see you / again!
+>> 52.66 | {p} | 先生も お元気で！！
+   EN: Take care, sensei!!
+>> 52.67 | Go Nagai | あははは
+   EN: Ahahaha.
+>> 52.68 | {p} | ありがとうございました / 永井先生
+   EN: Thank you very much, Nagai-sensei.
+>> 52.69 | Go Nagai | 楽しかったでガスな / また いっしょに遊ぶでガス / それじゃあ / さよならでガス！！
+   EN: That was fun, gasu! Let's play / together again, gasu! Well then, / goodbye, gasu!!
+>> 52.70 | {p} | あれ？ / よく考えてみると / 魔王が壊そうとした次元連鎖って / 永井先生が 生み出した世界… / 魔王のヤツ それに気づいて / 先生の所へ行かなきゃいいけど…
+   EN: Huh? Come to think of it, the Dimension / Chain the Demon King tried to / destroy is a world Nagai-sensei / created... I hope the Demon King / doesn't figure that out and go after / sensei...
+>> 52.71 | Go Nagai | あははは / 大丈夫でガスよ / あっしのペンは / 無敵でガスからね
+   EN: Ahahaha! It's fine, gasu! My pen is / invincible, gasu!
+>> 52.72 | {p} | ホント 大丈夫そうだね！
+   EN: Yeah, he really does seem fine!
+>> 52.73 | - | 消えかけた文字で / 「始まりの丘」と書いてある
+   EN: In fading letters, it says "Hill of / Beginnings."
+>> 52.74 | - | そなえあれば うれいなし！ / この先 間身井薬局
+   EN: Better safe than sorry! Mamii / Pharmacy ahead.
+>> 52.75 | - | お地蔵さまに 手をあわせましょう / ケガや 病気も たちまち回復 / みんな元気になるでしょう
+   EN: Join your hands in prayer before the / Jizo statue. / Injuries and illness will heal at once, / and everyone will be full of energy.
+>> 52.76 | - | 「聖チャペル学園」と書いてある
+   EN: It says "St. Chapel Academy."
+>> 52.77 | - | ＨＰ ＤＰ が 回復した！ / みんな 元気になった！
+   EN: HP and DP restored! Everyone is full / of energy!
+>> 52.78 | - | パートナー「{s}」が / アソートに加わった
+   EN: Partner "{s}" joined the / party.
+>> 52.79 | Mamii's Sister | いらっしゃいませ
+   EN: Welcome!
+>> 52.80 | Mamii's Sister | ありがとうございました
+   EN: Thank you very much!
+>> 52.81 | Tobacchiri | いらっしゃいませ
+   EN: Welcome!
+>> 52.82 | Tobacchiri | ありがとうございました
+   EN: Thank you very much!
+>> 52.83 | - | パートナー「{s}」が / アソートから外れた
+   EN: Partner "{s}" left the / party.
+>> 52.84 | - | {!R}Ｌボタンで ロボットメニューが / 開くようになりました / {!R}メニューでは ロボットへ乗り降り / ロボットの飛行が 選択できます / {!R}飛行中 もう一度Ｌボタンを押すと / 着地できます
+   EN: {!R}The L Button now opens the robot / menu. {!R}From the menu you can / board or leave a robot, or make it / fly. {!R}While flying, press the L / Button again to land.
+>> 52.85 | - | {!R}パートナーはバトラーとの組合せで / いろいろな効果を発揮する
+   EN: {!R}Partners bring out all kinds of / effects depending on which battler / they're paired with.
+>> 52.86 | Mamii-kun | いらっしゃいませ～
+   EN: Welcooome!
+>> 52.87 | Mamii-kun | ありがとうございました～
+   EN: Thank you very muuuch!
+>> 52.88 | Resident | アクセサリーは ステータス画面で / 忘れずに装備するんだよ / 持っているだけじゃ / 意味ないからね
+   EN: Don't forget to equip accessories on / the status screen. Just carrying / them does nothing.
+>> 52.89 | - | パートナー「{s}」が / アソートメンバーから外れた
+   EN: Partner "{s}" left the / party.
+>> 52.90 | - | {p}も / いれかえ可能に なりました / アソートメンバーの / 変更をしますか？
+   EN: {p} can now be swapped / out too. Change party members?
+>> 52.91 | - | アソートメンバーの / 変更をしますか？
+   EN: Change party members?
+>> 52.92 | Resident | この前 ニュースを見たら / この町が報道されてて 驚いたよ / でも… ニュースになるようなこと / この町であったかな？
+   EN: I saw this town on the news the other / day and got a shock. But... did / anything newsworthy happen here?
+>> 52.93 | Resident | 最近 おかしいのよねー / 水道の水が くさくて / 飲むと お腹が痛くなるの
+   EN: Things have been weird lately. / The tap water stinks, and when I drink / it my stomach hurts.
+>> 52.94 | Resident | これじゃ 趣味の登山にも / 行けないかなぁ…
+   EN: At this rate, I can't even go mountain / climbing, my hobby...
+>> 52.95 | Resident | 科学都市ってのが あるらしいね / いつの間に できたんだろ？ / 俺が知らなかっただけ…なのかなぁ / う～ん そうかなぁ…？
+   EN: They say there's a place called / Science City. When did that get built? / Was it just me who didn't know...? Hmm, / maybe...?
+>> 52.96 | Resident | この町の南東に / 死神警察署ってとこがある / 命が惜しいなら 近づかないことだ
+   EN: Southeast of this town there's a / place called the Reaper Police HQ. If / you value your life, stay away.
+>> 52.97 | Resident | 関東の南端に / 震災砦って言われてる場所がある / 関東地獄地震の孤児達が / 集まって暮らしてるそうだ
+   EN: At the southern tip of Kanto, there's / a place called the Quake Fort. They / say orphans of the Kanto Hellquake / gather there to live.
+>> 52.98 | Resident | 犬を飼うことにしたんだ / まずは犬小屋作りから / 始めるとするかな
+   EN: I've decided to get a dog. / Guess I'll start by building a doghouse.
+>> 52.99 | Resident | 犬を飼うつもりで / 犬小屋まで作ったんだけどね… / やっぱり / 猫を飼うことにしたんだ！
+   EN: I built a doghouse and everything, / planning to get a dog... But I decided / to get a cat after all!
+>> 53.00 | Resident | 犬を飼うつもりで / 犬小屋まで作ったんだけどね… / やっぱり / 猫を飼うことにしたんだ！ / …けど やっぱり犬も捨て難いよね / う～ん どうしよう？
+   EN: I built a doghouse and everything, / planning to get a dog... But I decided / to get a cat after all! ...Still, a dog's / hard to give up too. Hmm, what / should I do?
+>> 53.01 | Receptionist | ただ今 満室でございまして / お泊りにはなれません
+   EN: I'm terribly sorry, but we're fully / booked at the moment. We can't / offer you a room.
+>> 53.02 | Receptionist | 流竜馬さま ですか？ / ……はて？ / お泊りのお客さまに流竜馬さまの / お名前は見当たりませんが？
+   EN: Ryoma Nagare-sama, you say? ...Hmm? I / don't see the name Ryoma / Nagare-sama among our guests.
+>> 53.03 | Receptionist | 非常時につき当ホテルは / オーナーである瓜生様のご命令で / 皆様をはじめ指定された方々に / 無料でご利用頂いております
+   EN: Due to the emergency, by order of our / owner, Uryu-sama, this hotel is free / of charge for you and the other / designated guests.
+>> 53.04 | Guest | このホテルのオーナーは / 青年実業家らしいよ / 科学都市にも出資していると / 研究者が話していたな
+   EN: The owner of this hotel is supposedly / a young entrepreneur. A researcher / said he invests in Science City too.
+>> 53.05 | Guest | 顔じゅう包帯だらけの / 客と３階ですれ違ったよ / あんなにケガしてるなら / 入院すればいいのに
+   EN: I passed a guest with bandages all / over his face on the third floor. If / he's that badly hurt, he should be in / the hospital.
+>> 53.06 | Guest | ホテルのＴＶチャンネルは / ニュース番組ばかりだなぁ / 君らの顔を見てたら　なぜか急に / 懐かしのアニメを見たくなったよ
+   EN: The hotel TV channels are nothing but / news programs. Looking at your / faces, for some reason I suddenly / feel like watching some old-time / anime.
+>> 53.07 | Guest | 左端の部屋は従業員以外 / 立ち入り禁止みたいですね / 地下水を制御する機械があると / ホテルの人から聞きましたよ
+   EN: The room at the far left seems to be / staff only. Someone from the hotel / told me there's a machine in there that / controls the groundwater.
+>> 53.08 | Guest | 街中のマンホールから / いきなり男の子が出てきたの / 下水道で遊んでいたのかしら？
+   EN: A boy suddenly popped out of a / manhole in the middle of town. Was he / playing in the sewers?
+>> 53.09 | Guest | いつの間にか科学都市の東に / 妙なヘイがあるんだ / 表札のない門が東西南北にあるから / 誰かの家みたいだけど / あんな所に / 誰が住んでいるんだろう？
+   EN: At some point a strange wall appeared / east of Science City. There are / gates with no nameplates to the / north, south, east and west, so it / looks like someone's house, but who / could live in a place like that?
+>> 53.10 | Guest | 科学都市の東にある大きな霊園の / 不思議な噂話を知ってる？ / 管理人の姿も見えないのに / いつも清潔に掃除されてるの
+   EN: Have you heard the strange rumor / about the big cemetery east of / Science City? There's never a / caretaker in sight, but it's always / swept spotless.
+>> 53.11 | Guest | 廊下にある銅像は / どっかで見たことあるんだよね / 世界各地にあるお地蔵さんも / 誰かに似てるような…
+   EN: I feel like I've seen the bronze statue / in the hallway somewhere before. / And the Jizo statues all over the / world look kind of like someone too...
+>> 53.12 | Researcher | 科学都市に派遣されて / 単身赴任のホテル暮らしだよ / 反重力の推進装置を研究中だが / 兵器に悪用されないか心配だね
+   EN: I got sent to Science City, so I'm living / in a hotel away from my family. I'm / researching anti-gravity propulsion, / but I worry it'll be misused for / weapons.
+>> 53.13 | Guest | 外見も設備も立派なホテルだけど / 屋上の掃除がなってないね / さっき行ってみたら / 所々に雑草が生えてたよ
+   EN: It's a fine hotel inside and out, but the / roof cleaning is shoddy. I went up / there a while ago and there were / weeds growing here and there.
+>> 53.14 | Guest | このフロアは変な臭いがするし / おかしな足跡もついている / 誰か大型のペットでも連れて / 泊まってるんじゃないかな
+   EN: This floor smells funny, and there are / odd footprints too. I bet someone's / staying here with some kind of big pet.
+>> 53.15 | Guest | 科学都市に出資しているという / 瓜生コンツェルンの名は初耳だな / 家早と果扨の二大財閥以外にも / すごい金持ちがいたのか
+   EN: First I've heard of this Uryu / Conglomerate that invests in Science / City. Besides the two great Iyahaya / and Hatesate conglomerates, there / was another big-money family?
+>> 53.16 | Researcher | 精神破壊銃という武器が / 実用化されたそうだ / 研究者が極悪人ハンターだとかで / 兵器開発も許可されたらしい
+   EN: They say a weapon called the Mind / Destroyer Gun has been put into / use. The researcher is supposedly a / villain hunter, so weapons / development was permitted.
+>> 53.17 | Security Guard | 光子力研究所には / 国の援助金も出ています / ロボット開発には莫大な資金が / 必要なんだそうです
+   EN: The Photon Power Lab receives / government funding too. They say / developing robots takes an enormous / amount of money.
+>> 53.18 | Researcher | 指令室は右　地下格納庫は左の / エレベータが直通ですよ
+   EN: The elevator on the right goes / straight to the command room, and / the one on the left to the / underground hangar.
+>> 53.19 | Researcher | 必要な備品があれば / 遠慮なく持って行くといいよ / 弓教授から許可が出てますから
+   EN: If there's any equipment you need, / feel free to take it. Professor Yumi / has given permission.
+>> 53.20 | Researcher | アフロダイＡのボディは合金Ｚ / マジンガーＺは超合金Ｚだ / ボスボロットは……クズ鉄かな？ / おっと ボスに失礼だな
+   EN: Aphrodite A's body is Alloy Z, and / Mazinger Z's is Super Alloy Z. Boss / Borot's is... scrap iron? Whoops, / that's rude to Boss.
+>> 53.21 | Researcher | 機械獣はバードス島の遺跡に / 数千年も眠っていたという / 古代ミケーネに兜十蔵博士のような / 天才科学者がいたのだろうか？
+   EN: They say the Mechanical Beasts slept / in the ruins on Bardos Island for / thousands of years. Was there a / genius scientist like Dr. Juzo Kabuto / in ancient Mykene?
+>> 53.22 | Assistant | 研究所は小さな町に匹敵するほど / 膨大な電力を消費するんだ / 光子力エネルギーで発電してるから / まず電力不足にはならないがね
+   EN: The lab uses as much power as a small / town. But since we generate it with / photon power energy, we're never / short.
+>> 53.23 | Professor | この格納庫の上は汚水処理プールで / 偽装しているんだよ / え？ みんな知っているって？ / うーむ… なぜだろう？
+   EN: The top of this hangar is disguised as / a sewage treatment pool. What? / Everyone knows? Hmmm... Why is that?
+>> 53.24 | Researcher | 地下にはゲットマシンの格納庫と / 機関室しかありませんよ / 医務室は壁沿いを北に行った部屋 / 研究所出口は ずっと西です
+   EN: There's nothing underground but the / hangar for the Getter Machines and / the engine room. The infirmary is the / room north along the wall. The lab / exit is far to the west.
+>> 53.25 | Researcher | ゲッターロボのパイロットを / 探すのに苦労しました / 強い意志と体力を持つ若者を / ３００人以上は調査しましたよ
+   EN: We had a hard time finding Getter / Robo's pilots. We screened over 300 / young people with strong wills and / stamina.
+>> 53.26 | Researcher | パイロットテストの結果を見ると / 巴武蔵くんの適性は低いのだが / 彼の体は他の２人より はるかに / ドンカン…じゃなくて頑丈なんだ
+   EN: Looking at the pilot test results, / Musashi Tomoe-kun's aptitude is low, / but his body's way more / thick-skinned... I mean, tougher than / the other two's.
+>> 53.27 | Researcher | ゲッター光線が研究所の防御に / 使えないか考案中なんだ / ハチュウ人類はゲッター光線を / 苦手としているからね
+   EN: I'm working on a way to use the Getter / Beam to defend the lab. The / Reptilians can't stand Getter Beams, / you see.
+>> 53.28 | Researcher | 徹夜作業が続いたから / 頭痛がひどいな… / 医務室は１階北東の角部屋だが / そこまで行くのは つらいなぁ
+   EN: All these all-nighters have given me / an awful headache... The infirmary is / the corner room in the northeast of / the first floor, but getting there is / a pain...
+>> 53.29 | Researcher | 科学者の中にはゲッター線を / 危険視する声もある / 原子力も放射能汚染があるように / 多少のリスクは覚悟しないとな
+   EN: Some scientists consider Getter Rays / dangerous. Just as nuclear power / comes with radioactive contamination, / we have to accept a little risk.
+>> 53.30 | Resident | 間身井薬局を東にいったところに / 科学都市の廃材置き場があるの / 廃材とはいっても / 科学都市の廃材でしょ？ / 中には 危ない物も / 捨ててあるんじゃないかしら / ちゃんと処分してほしいわよね
+   EN: East of Mamii Pharmacy there's a / Science City scrapyard. It may be / scrap, but it's Science City scrap, / right? Some dangerous things must / be dumped in there too. I wish they'd / dispose of it properly.
+>> 53.31 | Resident | 家の外にバリケードがあるのを / 見ただろ？ / あの先は 一般人は立ち入り禁止に / なってるエリアなんだよ / そこにマンションがあるらしいけど / 詳しくは知らないんだ
+   EN: You saw the barricade outside the / house, right? Beyond it is an area / off-limits to the general public. / There's supposedly a condo in / there, but I don't know the details.
+>> 53.32 | - | 
+   EN: 
+>> 53.33 | Scientist | 隣で手術をやってるらしいが… / 普通 病院でやるもんだよな？
+   EN: I hear there's an operation going on / next door... Normally you'd do that in / a hospital, right?
+>> 53.34 | Scientist | 最近 世間は 暴徒だ魔王だと / 騒がしくて しょうがない / …研究を続けてる場合じゃ / ないのかな？
+   EN: Lately the world's in an uproar over / rioters and the Demon King. ...Maybe / this is no time to keep doing research?
+>> 53.35 | Resident | ペットを飼おうと思ってるんだ / 王道は やっぱり犬か猫だよね / どっちにしようかなぁ… / よく考えて決めないとね
+   EN: I'm thinking of getting a pet. The / classic choice is a dog or a cat, / right? Which should I pick... I've got to / think it over carefully.
+>> 53.36 | Resident | この町の学校は 生徒も先生も / 騒がしいったら ありゃしない！ / とても まともに授業やってるとは / 思えないのよね
+   EN: The students and teachers at this / town's school are so noisy, I can't / stand it! I can't believe they're having / proper lessons.
+>> 53.37 | Resident | 最近 学校が静かだと思ったら / 生徒が来なくなったらしいのよ / 世の中 物騒だから / そのせいかしらね / でも 授業をやってるような声も / 聞いたことあるのよ… / 気のせいだったのかしら？
+   EN: I thought the school had been quiet / lately, and it turns out the students / stopped coming. The world's so / dangerous these days, maybe that's / why. But I've heard voices like / someone giving a lesson... Was I / imagining it?
+>> 53.38 | Receptionist | {s}様に面会ですか？ / １階右の部屋におられます
+   EN: Here to visit {s}-sama? / She's in the room on the right of the / first floor.
+>> 53.39 | Receptionist | 診察でしたら / １階左の部屋へどうぞ
+   EN: For an examination, please go to the / room on the left of the first floor.
+>> 53.40 | Doctor | この娘の面会に来たのかい？ / 大丈夫 安心したまえ / 時間は かかるかもしれんが / 病気は絶対に治るよ
+   EN: Here to visit this girl? Don't worry, / rest assured. It may take time, but / her illness will be cured for sure.
+>> 53.41 | Doctor | また君たちか どうしたんだ？ / 今度は誰が入院するんだ？
+   EN: You lot again? What's the matter? / Who's getting admitted this time?
+>> 53.42 | Doctor | 研究に熱心になるのもいいけど / 体調を崩さないようにしないとね / 治療も大切だけど 予防も大切だよ / ここの人達って そういうことを / 気にしない人が多いからさ…
+   EN: It's fine to be dedicated to research, / but you have to keep from getting / run down. Treatment matters, but so / does prevention. / So many people here never think / about that...
+>> 53.43 | Doctor | 
+   EN: ...
+>> 53.44 | Doctor | 先日 突然 たくさんの怪我人が / 運ばれてきて ビックリしたよ / その後に テレビで暴徒のことを / 知って さらにビックリしたよ
+   EN: The other day a whole crowd of / wounded people was suddenly / brought in, and I was shocked. Then I / learned about the rioters on TV and / was even more shocked.
+>> 53.45 | Honey Kisaragi | 妖怪退治？ / 面白そうね！
+   EN: Hunting yokai? Sounds like fun!
+>> 53.46 | Honey Kisaragi | えん魔くんは / 近くの町に向かったわ / 学校があったところよね？ / 私達も急ぎましょう！
+   EN: Enma-kun headed to the nearby town. / Where the school was, right? Let's / hurry too!
+>> 53.47 | Seiji Hayami | 不思議な建物だなぁ / 外から見るより / 中は はるかに広いぜ
+   EN: What a strange building... / It's way bigger inside than it looks / from outside.
+>> 53.48 | {s} | 閻魔大王に 逢うためだもん / 恐いけど がんばろう！
+   EN: It's to meet Great King Enma. It's / scary, but let's do our best!
+>> 53.49 | Akira Fudo | 暗黒寺は ここから西の山奥に / あるらしい / …そこで 何か 手がかりが / つかめるといいがな
+   EN: The Dark Temple is supposed to be / deep in the mountains west of here. / ...I hope we can find some kind of clue / there.
+>> 53.50 | Princess Yukiko | 暗黒寺って / 無気味な名前のお寺ね… / それに… 妙な冷気を感じるけど / なにかしら？
+   EN: The Dark Temple... What a creepy name / for a temple... And I feel a strange / chill. What could it be?
+>> 53.51 | Ryo Asuka | 鬼とは もともと鬼なのか？ / それとも 人間が変身した姿か？
+   EN: Are oni born that way? Or are they / humans who've transformed?
+>> 53.52 | Enma-kun | 預言者に未来を予知してもらうのか / なんだか面白そうだな！ / 戸来村の場所は…確か 科学都市の / 北にあるって言ってたよな
+   EN: Getting a prophet to tell the future, / huh? Sounds kinda fun! Herai Village / is... north of Science City, I think / they said.
+>> 53.53 | Jack | 未来は 切り拓こうとする者だけに / 見えるものだ
+   EN: The future is visible only to those who / try to carve it out.
+>> 53.54 | Kapaeru | 最近 出逢いがないんだガナ / 予知してもらいたいんや…
+   EN: I ain't met anybody special lately, I do / declare. I want my fortune told...
+>> 53.55 | Jiro | ハニー達は もう出発したよ / 俺達も 科学都市へ急ごう！
+   EN: Honey and the others have already / left. Let's hurry to Science City too!
+>> 53.56 | Jiro | 明達は もう出発したよ / 俺達も 科学都市へ急ごう！
+   EN: Akira and the others have already / left. Let's hurry to Science City too!
+>> 53.57 | Miyuki Shiratori | あたし 恐いわ… / でも がんばらなきゃね！
+   EN: I'm scared... But I have to do my best!
+>> 53.58 | Jack | 世界が崩れ始めている… / そんな気がする…！
+   EN: The world is starting to crumble... / That's how it feels...!
+>> 53.59 | Jubei | みんな １階の和室にいるわよ / {p}を待ってるの / 早く 行ってあげてね / きっと いいことがあるから！
+   EN: Everyone's in the Japanese-style / room on the first floor. They're / waiting for you, {p}. / Hurry and go see them. Something / good's sure to happen!
+>> 53.60 | Kikunosuke | みんなが １階の和室で / {p}を待ってるよ / ほら 急ぎなよ！ / きっと いいことあるからさ！
+   EN: Everyone's waiting for you in the / Japanese-style room on the first / floor, {p}. C'mon, / hurry! Something good's gonna / happen for sure!
+>> 53.61 | Princess Yukiko | みんな １階の和室にいるわよ / {p}を待ってるの / 早く 行ってあげてね / きっと いいことがあるわよ！
+   EN: Everyone's in the Japanese-style / room on the first floor. They're / waiting for you, {p}. / Hurry and go see them. Something / good's sure to happen!
+>> 53.62 | Professor Yumi | 世界の命運は / きみたちにかかっている / 頼んだぞ みんな！
+   EN: The fate of the world rests on you. I'm / counting on you, everyone!

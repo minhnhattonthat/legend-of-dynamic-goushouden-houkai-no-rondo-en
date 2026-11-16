@@ -1,0 +1,15 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+
+- **09.81** - JP gist: The uproar makes approaching Professor Yumi difficult. - “It's not the kind of mood where we can get near” is stiff for Koji’s casual voice. - Suggested EN: “This is bad... With everyone yelling, we can't get near Professor Yumi...”
+- **10.50** - JP gist: Ashura mocks the defending robots as junk. - “You heaps of junk robots” tangles the insult and weakens the theatrical delivery. - Suggested EN: “So you've shown up, you walking heaps of junk!”
+
+### Assessment
+**ok** - The chapter preserves its character voices, emotional beats, comedy, and setups/payoffs, with no continuity breaks or premature reveals.

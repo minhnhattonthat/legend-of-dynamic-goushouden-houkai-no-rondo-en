@@ -1,0 +1,602 @@
+# ch07: Detective comedy (Iboji, Tamatama), Sister Jill, Shinichi and Shusha (archive files f18-f20, story order)
+
+>> 18.00 | Honey Kisaragi | …ここが ポール玉玉氏邱ね？
+   EN: ...So this is Mr. Paul Tamatama's / mansion?
+>> 18.01 | Seiji Hayami | そうだ…って なんで オヤジが / ついてくるんだよ！
+   EN: That's right... Hey, why are you / tagging along, Pop!?
+>> 18.02 | Danbei | おまえよりは 役に立つわい！ / 早見団兵衛 武芸の達人じゃぞ！
+   EN: I'm more use than you, boy! Danbei / Hayami is a master of the martial / arts, I'll have you know!
+>> 18.03 | Honey Kisaragi | それに… 夏ちゃんまで！
+   EN: And... even Natsu-chan!
+>> 18.04 | Natsuko Aki | だって 面白そうなんだもん！
+   EN: Well, it sounded like fun!
+>> 18.05 | Honey Kisaragi | でも 良かったわ / ちゃんと 早見君の家があって！ / まさか 夏ちゃんにまで逢えるとは / 思っていなかったけどね
+   EN: But I'm so glad your house was really / there, Hayami-kun! Though I never / expected to meet Natsu-chan, too.
+>> 18.06 | Seiji Hayami | ホントだよなぁ おまけに / 特ダネまで 飛び込んできたし！
+   EN: No kidding! And a big scoop fell right / into my lap, too!
+>> 18.07 | Danbei | せがれよ パンサークローとやらが / 狙っているのは 何じゃ？
+   EN: Tell me, boy, what is this Panther Claw / after?
+>> 18.08 | Seiji Hayami | 何十億か 何百億か 見当もつかない / 等身大の黄金仏さ
+   EN: A life-size golden Buddha. Worth / billions, maybe tens of billions, who / knows?
+>> 18.09 | Paul Tamatama | ホントに黄金仏は大丈夫じゃろな？
+   EN: Is the golden Buddha really safe, eh?
+>> 18.10 | Police Officer | 家のまわりは 警官隊が / 取り巻いております！ / しかも 部屋の中には / 今世紀 最低最悪！ / 自称・名探偵 / イボ痔小五郎先生がいます！
+   EN: The house is surrounded by a police / squad! What's more, inside the room is / the lowest, worst so-called great / detective of the century, Kogoro / Iboji-sensei!
+>> 18.11 | Kogoro Iboji | ジャ～ン！
+   EN: Ta-daaa!
+>> 18.12 | Paul Tamatama | こいつがいるから / よけい心配なのじゃが…
+   EN: It's because HE'S here that I'm even / more worried...
+>> 18.13 | Kogoro Iboji | 更に屋敷の庭には！ / 性悪探偵団リーダー こややし君が / ひそんでおるのですぞ！
+   EN: And in the mansion garden! / Koyayashi-kun, leader of the Rotten / Detectives Club, lies in wait!
+>> 18.14 | Paul Tamatama | それがまた / 頭痛のタネなんだけどなぁ…
+   EN: And he's another headache, too...
+>> 18.15 | Koyayashi | ぼっぼっぼっぼっ… / 僕 こややし少年で～す！
+   EN: B-b-b-b-b... I'm Koyayashi, boy / detectiiive!
+>> 18.16 | Natsuko Aki | きゃ～！
+   EN: Kyaaa!
+>> 18.17 | Koyayashi | むむ…？
+   EN: Hmmm...?
+>> 18.18 | Police Officer | 女の子の悲鳴が 聞こえなかった？
+   EN: Didn't you hear a girl scream?
+>> 18.19 | Police Officer | 聞こえた 聞こえた！
+   EN: I heard it, I heard it!
+>> 18.20 | Police Officer | 悲鳴は どこから？
+   EN: Where'd the scream come from?
+>> 18.21 | Police Officer | どこでしょ？
+   EN: Where, I wonder?
+>> 18.22 | Natsuko Aki | きゃ～ 助けてぇ～！
+   EN: Kyaaa, heeelp!
+>> 18.23 | Seiji Hayami | えへへ！ まてぇ～！ / えへへ！！
+   EN: Heh heh! Come back here! Heh heh!!
+>> 18.24 | Police Officer | 女の子が 襲われてる！
+   EN: A girl's being attacked!
+>> 18.25 | Police Officer | コラ！ 仲間に…じゃない / やめろ～！
+   EN: Hey! Lemme join... I mean, stop that!
+>> 18.26 | Honey | うふふ！ 青児君と夏子ちゃん / うまく警官をひきつけてくれたわ / おじさん / 忍び込むとしましょうか？
+   EN: Tee-hee! Seiji-kun and Natsuko-chan / lured the police away nicely. Shall we / sneak in, mister?
+>> 18.27 | Danbei | オウ！ ハニーちゃんや！
+   EN: You bet, Honey-chan!
+>> 18.28 | Koyayashi | あ～ え～？ / だ だれだぁ～？
+   EN: Uhh... ehh? Wh-who's thaaat?
+>> 18.29 | Honey Kisaragi | えっ…っと その…
+   EN: Um... well...
+>> 18.30 | Danbei | 正義の味方じゃよ！
+   EN: Champions of justice, of course!
+>> 18.31 | Koyayashi | そっか～ じゃ みかただなぁ～
+   EN: Ohh... then you're on our siiide...
+>> 18.32 | Honey Kisaragi | そうそう 味方 味方！
+   EN: That's right, on your side, on / your side!
+>> 18.33 | Kogoro Iboji | こややし少年！ / 物音がしたが異常ないか？
+   EN: Koyayashi-boy! I heard a noise, / anything abnormal?
+>> 18.34 | Koyayashi | あ～ え～ ん～ / べつにぃ～ なんだぁ～
+   EN: Uhh... ehh... mmm... not reeeally... it's, / like...
+>> 18.35 | Kogoro Iboji | 異常があるのか無いのか ね！ / 言って こややし少年！ / 言って 言って ねぇ～！？
+   EN: Is there anything abnormal or not!? / Tell me, Koyayashi-boy! Tell me, tell / me, pleeease!?
+>> 18.36 | Koyayashi | イジョ～が イジョ～に / イジョ～なくらい / イジョ～が イジョ～に / イジョ～なようで…
+   EN: It's abnormally normal, normally / abnormal, so normal it's abnormal, / abnormally abnormal-ish normal...
+>> 18.37 | Kogoro Iboji | こややし少年 あるかないか / それだけ言って！ それだけ！
+   EN: Koyayashi-boy, just tell me yes or no! / Just that!
+>> 18.38 | Koyayashi | アルがアルで アルにアルアル / なのにナイのに ナイのナイのか / アルのかアルナイのか… / アルルルルル…
+   EN: Yes is yes, and yes-yes is yes, but no / is no, no-no is it no, is it yes, is it / yes-no... Yes-yes-yes-yes-yes...
+>> 18.39 | Kogoro Iboji | ……………
+   EN: ...............
+>> 18.40 | Honey Kisaragi | ホッ…
+   EN: Phew...
+>> 18.41 | Danbei | みごとな ごまかしかたじゃった！
+   EN: Splendidly muddled, that was!
+>> 18.42 | Koyayashi | ぼ ボク…正義の味方？
+   EN: I-I'm... a champion of justice?
+>> 18.43 | Honey Kisaragi | 味方 味方！
+   EN: On our side, on our side!
+>> 18.44 | Honey Kisaragi | これが黄金仏ね / キレイ…
+   EN: So this is the golden Buddha. It's / beautiful...
+>> 18.45 | Danbei | そいじゃ 運び出すとするか！ / じゃ ハニーちゃん / がんばってのう！
+   EN: Well then, let's haul it out! / Good luck, Honey-chan!
+>> 18.46 | Honey Kisaragi | おじさんも 気をつけて…！
+   EN: You be careful too, mister...!
+>> 18.47 | Honey Kisaragi | さ～て 始めるとするか… / ハニー！ / フラ～ッシュ！
+   EN: Okaaay, time to get started... / Honey... FLAAASH!
+>> 18.48 | Paul Tamatama | もうすぐ パンサークローが / 予告した時間じゃが…
+   EN: It's almost the time Panther Claw / announced, but...
+>> 18.49 | Kogoro Iboji | ご安心ください！ / 黄金仏はホレ このと～り！ / アレ？
+   EN: Fear not! The golden Buddha is right / here, see! Eh?
+>> 18.50 | Kogoro Iboji | はて？ / こんな顔だったかな…？
+   EN: Hmm? Was its face like this...?
+>> 18.51 | Golden Buddha | ……………
+   EN: ...............
+>> 18.52 | Paul Tamatama | むっ！？ / １２時じゃ！
+   EN: Hm!? It's twelve o'clock!
+>> 18.53 | Paul Tamatama | 時間ぴったりの訪問客！ / もしや パンサークローでは！？
+   EN: A visitor right on the dot! Could it be / Panther Claw!?
+>> 18.54 | Kogoro Iboji | それだから トウシローは / 困るんだよなぁ～！ / 犯人がですよ 玄関から / ブザー押して来ますか フツ～？
+   EN: That's why amateurs are such a pain! / Would a crook come in the front door / and ring the buzzer? Seriously?
+>> 18.55 | Paul Tamatama | し しかし 万が一という場合が…
+   EN: B-but just in case...
+>> 18.56 | Kogoro Iboji | 犯人は意外な方法で黄金仏を盗んで / 我々をアッ！と言わせる… / これ 探偵モノのジョーシキだよ！
+   EN: The crook steals the golden Buddha / by some unexpected method and / leaves us all going "Whoa!"... That's / basic detective-story common / sense!
+>> 18.57 | Paul Tamatama | そんなもんかのぉ…？
+   EN: Is that so...?
+>> 18.58 | Kogoro Iboji | 誰か お客様を見てきなさい！
+   EN: Somebody go see to our guest!
+>> 18.59 | Police Officer | は～い！
+   EN: Okaaay!
+>> 18.60 | Kogoro Iboji | お～ / お客様は どなたです～？
+   EN: Sooo, who's our guest?
+>> 18.61 | Police Officer | お客様は パンサークローでした！
+   EN: Our guest was Panther Claw!
+>> 18.62 | Sister Jill | パンサークローだ！ 約束通り / 黄金仏をいただきにきた！ / 抵抗すれば 命はない！
+   EN: This is Panther Claw! As promised, / we've come for the golden Buddha! / Resist and you die!
+>> 18.63 | Kogoro Iboji | ヒェ～！ そんな約束 / 守らなくてもい～のにな～！
+   EN: Eeek! You didn't have to keep THAT / promise!
+>> 18.64 | Paul Tamatama | ほれみろ！ だからわしが…！！
+   EN: See!? That's why I said...!!
+>> 18.65 | Sister Jill | うむ… これが黄金仏か…！ / なんという美しさ…！！
+   EN: Mm... So this is the golden Buddha...! / What beauty...!!
+>> 18.66 | Golden Buddha | ……………
+   EN: ...............
+>> 18.67 | Paul Tamatama | イボ痔君！ / なにしてる つかまえんか！
+   EN: Iboji-kun! What are you doing, / catch them!
+>> 18.68 | Kogoro Iboji | そんなこと言ったって / 命がなくなるって言ってますよ！ / ここはひとつ ことを荒立てず…
+   EN: Easy for you to say, but they said / we'd die! Let's not make a fuss here, / shall we...
+>> 18.69 | Paul Tamatama | ウ～ヌ～！！
+   EN: Grrrrr!!
+>> 18.70 | Sister Jill | ふふふ では諸君！ / ありがたくちょうだいする！
+   EN: Hohoho, well then, everyone! We'll / gratefully take it!
+>> 18.71 | Kogoro Iboji | ホッ… あ～ ヨカッタ！ / お互い無事で なによりですな！ / はっはっは…！
+   EN: Phew... Ahh, thank goodness! The main / thing is we're all safe! Hahaha...!
+>> 18.72 | Paul Tamatama | …何のために / おまえは ここにいるのだ？
+   EN: ...What exactly are you here for?
+>> 18.73 | Kogoro Iboji | 決まってるじゃないですか～ / おたくの黄金仏を / 守るためじゃないですか～！
+   EN: Isn't it obvious? / To protect your golden Buddha, of / course!
+>> 18.74 | Paul Tamatama | その仏像は！？ / 貴様というやつは～！ / びてい骨わりチョ～ップ！
+   EN: Then where's the statue!? / You, you...! TAILBONE-SPLITTER CHOP!
+>> 18.75 | Kogoro Iboji | ぎゃ～！！
+   EN: GYAAAH!!
+>> 18.76 | Danbei | 黄金仏はホレ このとおり！
+   EN: The golden Buddha's right here, see!
+>> 18.77 | Koyayashi | ここにあ～る～！
+   EN: It's riiight heeere!
+>> 18.78 | Paul Tamatama | おぉ！ これは まさしく黄金仏！
+   EN: Ohh! This is the golden Buddha, all / right!
+>> 18.79 | Kogoro Iboji | でかした こややし君！
+   EN: Well done, Koyayashi-kun!
+>> 18.80 | Paul Tamatama | すると ヤツらが運び出した / 黄金仏は！？
+   EN: Then the golden Buddha they carried / off is...!?
+>> 18.81 | Danbei | ニセモノ！
+   EN: A fake!
+>> 18.82 | Paul Tamatama | パンサークローを出し抜いたのか！ / 愉快 愉快！ はっはっは！
+   EN: You outfoxed Panther Claw! Splendid, / splendid! Hahaha!
+>> 18.83 | Danbei | 黄金仏は確かにお返ししましたぞ！ / これにて失礼！
+   EN: The golden Buddha is duly returned to / you! We'll take our leave!
+>> 18.84 | Paul Tamatama | ど どちらへ…！？
+   EN: Wh-where are you going...!?
+>> 18.85 | Danbei | パンサークローをとっちめに… / でさぁ！
+   EN: To give Panther Claw a thrashin', / that's where!
+>> 18.86 | Koyayashi | でさぁ！
+   EN: That's where!
+>> 18.87 | Kogoro Iboji | さすが 性悪探偵団リーダーだ / こややし君！
+   EN: Just what I'd expect from the leader / of the Rotten Detectives Club, / Koyayashi-kun!
+>> 18.88 | Paul Tamatama | 貴様というやつは～！
+   EN: You, you...!
+>> 18.89 | Kogoro Iboji | ひぇ～ いってきま～す！ / こややし君 まって～！
+   EN: Eeek, I'm off! Wait for me, / Koyayashi-kun!
+>> 18.90 | Danbei | 心配無用！
+   EN: No need to worry!
+>> 18.91 | Sister Jill | まんまと黄金仏を手に入れたわ…
+   EN: We got our hands on the golden / Buddha slick as you please...
+>> 18.92 | Panther Claw Member | ジル様！ / まもなく幻城に到着です！
+   EN: Jill-sama! We'll soon arrive at Mirage / Castle!
+>> 18.93 | Golden Buddha | …パンサークローの秘密基地！？
+   EN: ...Panther Claw's secret base!?
+>> 18.94 | Sister Jill | …？ / ふ～む…
+   EN: ...? / Hmmm...
+>> 18.95 | Golden Buddha | ………
+   EN: .........
+>> 18.96 | Sister Jill | …気のせいか
+   EN: ...Must be my imagination.
+>> 18.97 | Seiji Hayami | 作戦成功！
+   EN: Mission accomplished!
+>> 18.98 | Danbei | パンサークローも まさか / ハニーちゃんが変身した黄金仏に / 発信機が着いているとは 思うまい
+   EN: Panther Claw would never dream the / golden Buddha Honey-chan turned / into has a transmitter on it.
+>> 18.99 | Natsuko Aki | おじ様 ステキ～！ / でもハニー 発信機を / どこに隠し持ってるの？ / たしか… / 黄金仏に化ける時には / 裸になっちゃうって / ハニー言ってたけど…
+   EN: Oh, mister, you're wonderful! / But where's Honey hiding the / transmitter? Honey said she ends up / naked when she turns into the golden / Buddha...
+>> 19.00 | Seiji Hayami | ドキッ！ / 裸でも隠せる場所… / それは… え～と…
+   EN: *Gulp!* A place you can hide something / even when you're naked... that would / be... uh...
+>> 19.01 | Danbei | イッヒッヒッヒ…！
+   EN: Ihhihhihhi...!
+>> 19.02 | Koyayashi | いや～ん！ / エッチ！！
+   EN: Eww! You perverts!!
+>> 19.03 | Panther Claw Member | えっほ えっほ
+   EN: Heave-ho, heave-ho.
+>> 19.04 | Panther Claw Member | よいしょ よいしょ
+   EN: Hup, hup.
+>> 19.05 | Panther Claw Member | 黄金仏 設置完了しました！
+   EN: The golden Buddha is in place!
+>> 19.06 | Sister Jill | ご苦労！ さがってよい
+   EN: Good work! You may go.
+>> 19.07 | Panther Claw Member | はっ！
+   EN: Yes, ma'am!
+>> 19.08 | Sister Jill | 美しい… / 顔だちが なんとも言えぬ
+   EN: Beautiful... Its features are beyond / words.
+>> 19.09 | Golden Buddha | ……………
+   EN: ...............
+>> 19.10 | Sister Jill | 国際的犯罪組織パンサークローの / コレクションに ふさわしい！ / オッホッホッホッホ！
+   EN: Worthy of the collection of Panther / Claw, the international crime / syndicate! Ohohohoho!
+>> 19.11 | Golden Buddha | ふう… 顔がいいって？ / うふふ！ そりゃ～ね！ / ハニー フラッシュ！
+   EN: Phew... A pretty face, she says? / Tee-hee! Well, of course! Honey / FLASH!
+>> 19.12 | Honey Kisaragi | だって… ハニーなんだもん！ / さ～て / 青児君達と合流しなきゃ！
+   EN: After all... I'm Honey! / Okaaay, I need to meet up with / Seiji-kun and the others!
+>> 19.13 | Honey Kisaragi | これが警備装置ね / これを止めて青児くん達と / 合流しましょう
+   EN: So this is the security system. / Let's shut it down and meet up with / Seiji-kun and the others.
+>> 19.14 | Honey Kisaragi | これは…セキュリティ装置？ / これを停止させれば / 動く床も止められるのね！
+   EN: Is this... a security device? / If I shut it down, the moving floors / should stop too!
+>> 19.15 | Honey Kisaragi | これかな？
+   EN: This one?
+>> 19.16 | Honey Kisaragi | エイッ！
+   EN: Hyah!
+>> 19.17 | Honey Kisaragi | いやっ！
+   EN: Eek!
+>> 19.18 | Honey Kisaragi | まずい！
+   EN: Uh-oh!
+>> 19.19 | Honey Kisaragi | いや～ん！
+   EN: Nooo!
+>> 19.20 | Honey Kisaragi | やった！
+   EN: Yes!
+>> 19.21 | Honey Kisaragi | うまくいったわ！
+   EN: It worked!
+>> 19.22 | Honey Kisaragi | きゃ～ ハニー すご～い！
+   EN: Kyaaa, Honey, you're amaaazing!
+>> 19.23 | Honey Kisaragi | 恐らく これが最後の関門ね…
+   EN: This must be the last barrier...
+>> 19.24 | Honey Kisaragi | よし！ あとは青児君達を探して / 合流するだけだわ！
+   EN: All right! Now I just have to find / Seiji-kun and the others and / meet up!
+>> 19.25 | Honey Kisaragi | くっ！ ここまできて…！！
+   EN: Ngh! After coming this far...!!
+>> 19.26 | Seiji Hayami | ハニー！ / なんとかゲートを開けてくれ！
+   EN: Honey! Get the gate open somehow!
+>> 19.27 | Seiji Hayami | ハニーが ゲートを開けるまで / 待つしかないな…
+   EN: Guess we've gotta wait till Honey / opens the gate...
+>> 19.28 | Danbei | ハニーちゃん！ おじさんが助けに / 行くから ゲートを開けて！
+   EN: Honey-chan! Open the gate, old / Danbei's coming to save you!
+>> 19.29 | Danbei | 見つかっちゃう前に ゲートを / 開けておくれや ハニーちゃん！
+   EN: Open the gate before they find us, / Honey-chan!
+>> 19.30 | Natsuko Aki | ハニー 早く開けて！ / 夏子 こわいよぉ…
+   EN: Honey, open it quick! Natsuko's / scared...
+>> 19.31 | Natsuko Aki | きっと ハニーが / ゲートを開けてくれるわ！ / 信じて待ちましょう！
+   EN: I'm sure Honey will open the gate for / us! Let's believe in her and wait!
+>> 19.32 | Kogoro Iboji | あら！ ゲートが閉まってます！
+   EN: Oh my! The gate is closed!
+>> 19.33 | Koyayashi | ゲートがしまってるのら～…
+   EN: The gate's closed, it iiis...
+>> 19.34 | Seiji Hayami | さっすが ハニー！
+   EN: Way to go, Honey!
+>> 19.35 | Seiji Hayami | やったぜ！ / 行くぜ みんな！
+   EN: All right! Let's go, everybody!
+>> 19.36 | Danbei | うっひょ～ ハニーちゃん！
+   EN: Woo-hoo, Honey-chan!
+>> 19.37 | Danbei | よっしゃ！ おじさんが今 行くよ / ハニーちゃ～ん！
+   EN: All righty! Old Danbei's coming now, / Honey-chaaan!
+>> 19.38 | Natsuko Aki | あぁ ハニー！ / ゲートが開いたわ！
+   EN: Ah, Honey! The gate opened!
+>> 19.39 | Natsuko Aki | みなさん！ / 行きましょう！
+   EN: Everyone! Let's go!
+>> 19.40 | Kogoro Iboji | 開いた～！
+   EN: It opeeened!
+>> 19.41 | Koyayashi | ががががが！って 開いたぞ / ゲートぉ！
+   EN: It went grrrrrind and the gate opened!
+>> 19.42 | Seiji Hayami | なんてこった！
+   EN: Oh, no way!
+>> 19.43 | Seiji Hayami | ハニー まさか / 君が失敗してしまったのか！？
+   EN: Honey, don't tell me you failed!?
+>> 19.44 | Danbei | ハニーちゃん… / おじさん ピンチよ…
+   EN: Honey-chan... old Danbei's in a pinch...
+>> 19.45 | Danbei | もうダメじゃ… / 諦めるしかない…
+   EN: It's no use... We'll just have to / give up...
+>> 19.46 | Natsuko Aki | あぁ ハニー！ あなたにもう二度と / 逢えないのね…！？
+   EN: Oh, Honey! Will I never see you again...!?
+>> 19.47 | Natsuko Aki | そんな そんな…！
+   EN: No, no...!
+>> 19.48 | Kogoro Iboji | ヒエー！ おしまいだー！
+   EN: Eeek! It's all over!
+>> 19.49 | Koyayashi | お およよ ダメなのかー？
+   EN: Oh, my my, is it no good?
+>> 19.50 | Natsuko Aki | ハニー！
+   EN: Honey!
+>> 19.51 | Natsuko Aki | うえ～ん！ 心配したんだよぉ～！
+   EN: Waaah! I was so worried about you!
+>> 19.52 | Honey Kisaragi | よしよし！ / 夏ちゃん もう恐くないわよ！
+   EN: There, there! Natsu-chan, there's / nothing to be scared of now!
+>> 19.53 | Seiji Hayami | 夏ちゃん… / う うらやましい…
+   EN: Natsu-chan... I-I'm so jealous...
+>> 19.54 | Honey Kisaragi | あら…！？ / そ そんな…！？
+   EN: Oh...!? Wh-what...!?
+>> 19.55 | Honey Kisaragi | そんなに見つめちゃ いや～ん！
+   EN: Nooo, don't stare at me like that!
+>> 19.56 | - | コノ トビラ ヲ ヒラク ニハ / ＩＤカードＡ ガ ヒツヨウ デス
+   EN: TO OPEN THIS DOOR, ID CARD A IS / REQUIRED.
+>> 19.57 | - | コノ トビラ ヲ ヒラク ニハ / ＩＤカードＢ ガ ヒツヨウ デス
+   EN: TO OPEN THIS DOOR, ID CARD B IS / REQUIRED.
+>> 19.58 | - | コノ トビラ ヲ ヒラク ニハ / ＩＤカードＣ ガ ヒツヨウ デス
+   EN: TO OPEN THIS DOOR, ID CARD C IS / REQUIRED.
+>> 19.59 | Honey Kisaragi | 今こそ / シスター・ジルを倒すチャンス！ / まだ 戻れないわ！
+   EN: Now's my chance to defeat Sister Jill! I / can't go back yet!
+>> 19.60 | Panther Claw Member | ジル様！ / 黄金仏が消え失せました！
+   EN: Jill-sama! The golden Buddha has / vanished!
+>> 19.61 | Sister Jill | な なに！ 城に いる者を / 総動員して探すのだ！
+   EN: Wh-what! Mobilize everyone in the / castle and search for it!
+>> 19.62 | Panther Claw Member | ハッ！
+   EN: Yes, ma'am!
+>> 19.63 | Sister Jill | 警戒厳重な この幻城から / 黄金仏を奪うとは…！ / いったいどうやって？ / 何者のしわざだ？
+   EN: To steal the golden Buddha from this / heavily guarded Mirage Castle...! / How? Whose doing is this?
+>> 19.64 | Sister Jill | 貴様 どうやって この幻城に！？
+   EN: You! How did you get into this Mirage / Castle!?
+>> 19.65 | Honey Kisaragi | あたしを この城に入れたのは / あなたよ！
+   EN: You're the one who brought me into / this castle!
+>> 19.66 | Sister Jill | 私が おまえを この城に入れた？
+   EN: I brought you into this castle?
+>> 19.67 | Honey Kisaragi | あたしの身体は 黄金に輝き / あなたは 私の顔だちを / 美しいといったわ…
+   EN: My body shone with gold, and you / called my features beautiful...
+>> 19.68 | Sister Jill | お おまえが黄金仏だったのか！？ / ば バカな！
+   EN: Y-you were the golden Buddha!? / Th-that's impossible!
+>> 19.69 | Honey Kisaragi | ある時は 黄金仏… / そして またある時は如月ハニー / そして その実体は…！！ / ハニー フラ～ッシュ！！
+   EN: Sometimes I'm a golden Buddha... And / other times I'm Honey Kisaragi... But / my true identity is...!! Honey FLAAASH!!
+>> 19.70 | Sister Jill | おまえは！？
+   EN: You are...!?
+>> 19.71 | Cutie Honey | 如月博士が心血をこめて作り上げた / スーパーアンドロイド！ / そしてこの世を…パンサークローの / 悪の手から守る 愛の戦士！ / キューティーハニーだ！
+   EN: The super android Dr. Kisaragi built / with all his heart and soul! The / warrior of love who protects this / world from the evil hands of Panther / Claw! I am Cutie Honey!
+>> 19.72 | Natsuko Aki | きゃ～ ハニー かっこいい！ / ステキ！！
+   EN: Kyaaa, Honey, you're so cool! / Wonderful!!
+>> 19.73 | Sister Jill | 飛んで火に入る夏の虫…とは / おまえのことよ！ / 黄金仏のかわりに / もっと値打ちのある / 空中元素固定装置が / 自ら飛び込んできたってわけさ！ / ハニー！ おまえの身体 / シスター・ジルが いただいた！
+   EN: Like a moth to the flame, that's you! / Instead of a golden Buddha, the far / more valuable Airborne Element Fixer / flew right in by itself! Honey! Your / body now belongs to Sister Jill!
+>> 19.74 | Cutie Honey | シスター・ジル 勝負！
+   EN: Sister Jill, let's settle this!
+>> 19.75 | Sister Jill | おのれ キューティーハニー！ / こうなれば / 幻城と道連れにしてやる！
+   EN: Curse you, Cutie Honey! / If it's come to this, I'll take you down / with Mirage Castle!
+>> 19.76 | Sister Jill | オッホッホッホッホ…！ / 城と一緒に 崩れ落ちるがいい！
+   EN: Ohohohoho...! Crumble away along with / the castle!
+>> 19.77 | Cutie Honey | シスター・ジル 逃がすか！
+   EN: Sister Jill, you won't escape!
+>> 19.78 | Seiji Hayami | ダメだ 危険だ！
+   EN: No, it's too dangerous!
+>> 19.79 | Honey Kisaragi | …シスター・ジル
+   EN: ...Sister Jill.
+>> 19.80 | Natsuko Aki | アレを見て！
+   EN: Look at that!
+>> 19.81 | Honey Kisaragi | 黒い月…！？
+   EN: A black moon...!?
+>> 19.82 | Kogoro Iboji | ひえ～ なんだ アレは！？
+   EN: Eeek, what is THAT!?
+>> 19.83 | Koyayashi | 月が 黒いぞ～？
+   EN: The moon's all blaaack?
+>> 19.84 | Honey Kisaragi | あ あれはいったい…！？
+   EN: Wh-what on earth is that...!?
+>> 19.85 | Seiji Hayami | ハニー あの光が示しているのは / 科学都市のある方向じゃないか？
+   EN: Honey, isn't that light pointing toward / Science City?
+>> 19.86 | Honey Kisaragi | 科学都市？ / {p}達の身に何か…！
+   EN: Science City? Something's happened to / {p} and the others...!
+>> 19.87 | Honey Kisaragi | まずは / 青児君達と合流しないと…！
+   EN: First I have to meet up with Seiji-kun / and the others...!
+>> 19.88 | Honey Kisaragi | 門が閉まっていて 外に出れないわ / カギ穴も見当たらないし… / どこかに 門を開ける装置が / あるのかしら？
+   EN: The gate's shut, I can't get out. And I / don't see a keyhole... I wonder if / there's a device somewhere that / opens the gate?
+>> 19.89 | Worker | ぐぅ… ぐぅ…
+   EN: Zzz... zzz...
+>> 19.90 | Worker | むにゃ むにゃ…
+   EN: Mumble, mumble...
+>> 19.91 | Guard | みんな 疲れ果ててるな…
+   EN: Everyone's worn out...
+>> 19.92 | Guard | 誰だ！
+   EN: Who's there!
+>> 19.93 | Guard | まさか！？ / 魔の残骸が蘇った…！？ / 急いで知らせないと…！
+   EN: It can't be!? The remains of the Ma / came back to life...!? I have to warn / everyone, quick...!
+>> 19.94 | Guard | うわ～！
+   EN: Whoaaa!
+>> 19.95 | Worker | ひぃ～！
+   EN: Eeeek!
+>> 19.96 | Worker | な なんだ…？ / …ぎゃっ！
+   EN: Wh-what the...? ...Gyah!
+>> 19.97 | Guard | …仰せのままに
+   EN: ...As you command.
+>> 19.98 | Worker | …破壊の月を！
+   EN: ...The Moon of destruction!
+>> 19.99 | Worker | …再生の太陽を！
+   EN: ...The Sun of rebirth!
+>> 20.00 | {p} | …なんだろう…？ / イヤな予感がする…
+   EN: ...What is it...? I've got a bad feeling...
+>> 20.01 | Shinichi | どうした？
+   EN: What's up?
+>> 20.02 | {p} | 慎一君 起きてたの？
+   EN: Shinichi-kun, you were awake?
+>> 20.03 | Shinichi | ああ 他の連中は 部屋で / グッスリ寝ている / だが 俺は… / …あんなことがあった後で / 眠れるわけがない…
+   EN: Yeah. The others are sound asleep in / their rooms. But me... / ...after what happened, how could I / sleep...?
+>> 20.04 | {p} | …そうだよね ごめんなさい
+   EN: ...Of course. I'm sorry.
+>> 20.05 | Shinichi | いいんだ 謝ることはない / 真理阿は 俺の中にいるんだから…
+   EN: It's fine. No need to apologize. / Maria is inside me, after all...
+>> 20.06 | Shusha | すぅ… すぅ…
+   EN: Zzz... zzz...
+>> 20.07 | Tomisaburo | ぐお～ ぐお～
+   EN: SNORRRK... SNORRRK...
+>> 20.08 | {p} | ふたりとも よく寝てるようだね
+   EN: Looks like they're both sleeping / like logs.
+>> 20.09 | Shinichi | 朱紗にとって / 大変な一日だったからな / 富三郎のデカいイビキは / いつものことさ！
+   EN: It was a rough day for Shusha. And / Tomisaburo's loud snoring is / nothing new!
+>> 20.10 | Shinichi | …ところで 眠れないのか？
+   EN: ...So, can't sleep?
+>> 20.11 | {p} | なんか イヤな予感がして…
+   EN: I just have a bad feeling...
+>> 20.12 | Shinichi | …気がついていたか？
+   EN: ...So you noticed?
+>> 20.13 | {p} | 慎一君も？
+   EN: You too, Shinichi-kun?
+>> 20.14 | Shinichi | 真理阿と ひとつになったことで / 俺は予知能力を身につけたらしい
+   EN: Becoming one with Maria seems to have / given me the power of precognition.
+>> 20.15 | {p} | 何かが… 起こる…と？
+   EN: Something's... going to happen?
+>> 20.16 | Shinichi | かもな… / 外の様子でも見に行こうか？
+   EN: Maybe... Want to go take a look / outside?
+>> 20.17 | Shusha | こんな夜更けに どうした？
+   EN: What's up, this late at night?
+>> 20.18 | {p} | イヤな予感がするんだ… / それでちょっと…
+   EN: I've got a bad feeling... so I thought / I'd...
+>> 20.19 | Shusha | イヤな予感…？ / 俺も行くよ
+   EN: A bad feeling...? I'll come too.
+>> 20.20 | {p} | 誰か来る…
+   EN: Someone's coming...
+>> 20.21 | Shinichi | ガードマンのようだ
+   EN: Looks like a guard.
+>> 20.22 | Shusha | 様子がおかしい！
+   EN: Something's wrong with him!
+>> 20.23 | Shinichi | あれは 魔の残骸？ / 悪い予感が 当たったようだな！
+   EN: Is that the remains of the Ma? Looks / like my bad hunch was right!
+>> 20.24 | {p} | 黒い月が出てる！！ / …黒い月が 魔を蘇らせてる！？
+   EN: The black moon is out!! / ...Is the black moon bringing the Ma / back to life!?
+>> 20.25 | {p} | 黒い月が 魔を蘇らせてる！？
+   EN: Is the black moon bringing the Ma back / to life!?
+>> 20.26 | Shusha | なんてことだ…
+   EN: Unbelievable...
+>> 20.27 | Shinichi | 気をつけろ！ / ヤツら 襲ってくるぞ！
+   EN: Watch out! They're coming at us!
+>> 20.28 | Shusha | あの人達は 魔に取り憑かれて / しまったのか？ / 俺から落ちた魔が あの人達に！？
+   EN: Are those people possessed by the / Ma? Did the Ma that came off me get / into them!?
+>> 20.29 | {p} | 違う あの人達を操っているのは / 黒い月だ！ そんな気がするよ！
+   EN: No, it's the black moon controlling / them! That's what I think!
+>> 20.30 | Shinichi | 同感だぜ / こいつら 黒い月に操られてる！
+   EN: I agree. These people are being / controlled by the black moon!
+>> 20.31 | {p} | 良かった 気絶しているだけだ！
+   EN: Thank goodness, they're just / knocked out!
+>> 20.32 | Shusha | 他にも 操られてしまった人が / いるんじゃないか？
+   EN: Couldn't there be others being / controlled?
+>> 20.33 | Shinichi | 俺達だけじゃ 手が足りない / 操られた人を 探しながら / 仲間を おこしにいこう
+   EN: There aren't enough of us alone. / Let's wake up our friends while we / look for the people being controlled.
+>> 20.34 | Shinichi | …！
+   EN: ...!
+>> 20.35 | Shusha | …ここは ダメだ！ / 引き返そう！
+   EN: ...No good here! Let's turn back!
+>> 20.36 | {p} | 引き返そう！
+   EN: Let's turn back!
+>> 20.37 | {p} | 明君！ ジャック！ / 門土さん！ 竜馬さん！ / 山岸君！ 袋小路君！ / えん魔くん！ カパエル！ / 閻魔大王様！ 子郎君！ / 護鬼！ 戦鬼！ / 甲児君！ ボス！ / ムチャ！ ヌケ！ / 合田君！ 瓜生さん！
+   EN: Akira-kun! Jack! Mondo-san! / Ryoma-san! Yamagishi-kun! / Fukurokoji-kun! Enma-kun! Kapaeru! / Great King Enma-sama! Jiro-kun! Goki! / Senki! Koji-kun! Boss! Mucha! Nuke! / Goda-kun! Uryu-san!
+>> 20.38 | Shinichi | くそっ！ 操られてるようだ！
+   EN: Damn! Looks like they're being / controlled!
+>> 20.39 | {p} | なんてこと…！
+   EN: No way...!
+>> 20.40 | Shusha | 襲ってくるぞ！
+   EN: Here they come!
+>> 20.41 | Shinichi | 仕方がない！ 戦うぞ！
+   EN: No choice! We fight!
+>> 20.42 | {p} | ごめんね！
+   EN: I'm sorry!
+>> 20.43 | {p} | 良かった 息はあるよ…！
+   EN: Thank goodness, they're still / breathing...!
+>> 20.44 | Shusha | 仲間達まで / 操られてしまうなんて…！
+   EN: Even our friends are being / controlled...!
+>> 20.45 | Shinichi | ヤツらの狙いは なんだ…！？
+   EN: What are they after...!?
+>> 20.46 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 20.47 | {p} | …{s}の声！？ / 上のほうから聞こえた！ / {s}のいる部屋は / 上のフロアにある！ 急ごう！
+   EN: ...That's {s}'s voice!? It / came from upstairs! / {s}'s room is on the / upper floor! Hurry!
+>> 20.48 | {s} | 十兵衛？ / 雪子姫？ / 美雪さん？ / さやかさん？ / 美剣さん？
+   EN: Jubei? Princess Yukiko? Miyuki-san? / Sayaka-san? Mitsurugi-san?
+>> 20.49 | {s} | いったい どうして？
+   EN: What on earth is going on?
+>> 20.50 | {s} | そんな… いや… / きゃ～！
+   EN: No... no way... Kyaaa!
+>> 20.51 | {p} | {s}！
+   EN: {s}!
+>> 20.52 | {s} | {p}！ 助けて！
+   EN: {p}! Help me!
+>> 20.53 | {s} | {p}！
+   EN: {p}!
+>> 20.54 | {p} | もう 大丈夫だよ…
+   EN: It's okay now...
+>> 20.55 | Shusha | だが ここは危険だ
+   EN: But it's dangerous here.
+>> 20.56 | Shinichi | しかし / 仲間達まで操られちまってる！ / 逃げ場は無いぞ？
+   EN: But even our friends are being / controlled! There's nowhere to run, / is there?
+>> 20.57 | {s} | いったい 何が起こったの…？
+   EN: What on earth happened...?
+>> 20.58 | {p} | どうやら魔の残骸が / 蘇っちゃったらしいんだ…
+   EN: It looks like the remains of the Ma / came back to life...
+>> 20.59 | {s} | もしかして… アレが？
+   EN: Could it be... that thing?
+>> 20.60 | Shusha | 今は 逃げ場を探すことが先決だ / 無事な仲間も いるかもしれない
+   EN: Right now, finding somewhere to run / comes first. Some of our friends / might still be safe.
+>> 20.61 | {s} | あたし… 恐い！
+   EN: I'm... scared!
+>> 20.62 | {p} | 大丈夫 僕が… / 僕達が 君を守るよ！
+   EN: It's okay, I'll... we'll protect you!
+>> 20.63 | Shusha | ここはダメだ / 別の道を探そう…！
+   EN: No good here. Let's find another / way...!
+>> 20.64 | {p} | …大丈夫 / 気絶しているだけだ
+   EN: ...It's okay. They're just knocked out.
+>> 20.65 | {p} | みんな ごめんね…
+   EN: I'm sorry, everyone...
+>> 20.66 | Controlled People | 我らは… 黒い月の使者なり…
+   EN: We are... envoys of the black moon...
+>> 20.67 | Controlled People | 仰せのままに…
+   EN: As you command...
+>> 20.68 | Controlled People | 破壊の月は… いずこ？
+   EN: The Moon of destruction... where is it?
+>> 20.69 | Controlled People | 再生の太陽は… いずこ？
+   EN: The Sun of rebirth... where is it?
+>> 20.70 | Controlled People | 黒い月が求める… / 探せ…と命じる…
+   EN: The black moon desires... It commands / us... to search...
+>> 20.71 | Shinichi | ふたりとも！ ぼさっとするな！
+   EN: You two! Don't just stand there!
+>> 20.72 | Shusha | ヤツらが来る！
+   EN: They're coming!
+>> 20.73 | {p} | みんな 眼を覚まして！
+   EN: Everyone, wake up!
+>> 20.74 | Shusha | 無駄だ {p}！ / 戦って 気絶させるしかない！
+   EN: It's no use, {p}! We'll / have to fight and knock them out!
+>> 20.75 | Shinichi | 気絶させて / 元に戻る保証は無いぜ？
+   EN: There's no guarantee they'll go back / to normal if we knock them out, / though.
+>> 20.76 | Shusha | しかし！
+   EN: But!
+>> 20.77 | Shinichi | わかってるさ / それでも 戦わなきゃな！
+   EN: I know. Even so, we gotta fight!
+>> 20.78 | {p} | {s}を守るんだ！
+   EN: We have to protect {s}!
+>> 20.79 | {p} | しまった！
+   EN: Oh no!
+>> 20.80 | {s} | きゃ～ {p}！ / た す け…！
+   EN: Kyaaa, {p}! Hel... help...!
+>> 20.81 | {p} | {s}！
+   EN: {s}!
+>> 20.82 | Black Fiend | 我は… 我は遂に！ / 遂に手に入れたぞ！ / 破壊の月を…！！
+   EN: I... At last! At last I have it! The Moon / of destruction...!!
+>> 20.83 | Shinichi | 破壊の月…？
+   EN: The Moon of destruction...?
+>> 20.84 | {p} | {s}！
+   EN: {s}!
+>> 20.85 | Shusha | よせ！ 危険だ！
+   EN: Stop! It's dangerous!
+>> 20.86 | {p} | はなしてくれ！
+   EN: Let me go!
+>> 20.87 | Controlled Person | …う う～ん / いったい どうしたんだ？
+   EN: ...Uhh... nnn... What happened?
+>> 20.88 | Controlled Person | …なぜ 俺はこんなところに…？
+   EN: ...Why am I in a place like this...?
+>> 20.89 | Controlled Person | …頭が 割れるように… 痛い…！ / あれ？ / あれは…魔物！？
+   EN: ...My head feels like it's... splitting...! / Huh? Is that... a monster!?
+>> 20.90 | Black Fiend | グオオオオオオ…！
+   EN: GUOOOOOOOH...!
+>> 20.91 | Controlled Person | ぎゃ～！
+   EN: Gyaaah!
+>> 20.92 | Controlled Person | うわ～！
+   EN: Whoaaa!
+>> 20.93 | Controlled Person | ひえぇ～！
+   EN: Eeeek!
+>> 20.94 | Controlled People | ぐわ～！
+   EN: Gwaaah!
+>> 20.95 | {p} | …なんてことだ
+   EN: ...This is terrible.
+>> 20.96 | Shusha | 危ない！
+   EN: Look out!
+>> 20.97 | Shusha | ぐわっ！
+   EN: Gwah!
+>> 20.98 | Shinichi | おのれ！
+   EN: Damn you!
+>> 20.99 | Shinichi | おおっ！
+   EN: Whoa!

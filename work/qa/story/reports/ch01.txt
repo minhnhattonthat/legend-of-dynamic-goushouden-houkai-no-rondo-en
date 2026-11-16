@@ -1,0 +1,15 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+
+- 01.52 - Every part of Honey embodies her father's love - “The crystallization of my love” sounds clinical during an intimate revelation, slightly weakening its warmth - Suggested EN: “I built your body with all my genius, passion and love. Every part of you, down to each strand of hair, embodies my love!”
+- 02.98 - Surely being with the police means Ayuko is safer? - “Isn't the police a good thing” is awkward and obscures the protagonist's innocent reassurance, which prompts the shopkeeper's rebuke - Suggested EN: “Wouldn't she be safer with the police, though?”
+
+### Assessment
+ok - Across the full chapter, the translation preserves character voices, emotional turns, callbacks, and reveal timing without a significant story-level break.

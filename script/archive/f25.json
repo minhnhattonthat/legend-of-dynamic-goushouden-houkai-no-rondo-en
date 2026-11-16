@@ -555,7 +555,7 @@
    4385
   ],
   "jp": "{p}\nイヤな感じがするけど\nこの森を抜けて行くしかないね",
-  "en": "{p}\nIt feels bad, but we've got no choice\nbut to go through this forest.",
+  "en": "{p}\nI've got a bad feeling about this, but\nwe've got no choice but to go\nthrough this forest.",
   "status": "done",
   "notes": ""
  },
@@ -715,7 +715,7 @@
    4401
   ],
   "jp": "ハニー\n{p}君… ごめんね\nあなたを守りきれなかったわ…",
-  "en": "Honey\n{p}-kun... I'm sorry. I\ncouldn't protect you all the way...",
+  "en": "Honey\n{p}-kun... I'm sorry. I\ncouldn't keep you safe...",
   "status": "done",
   "notes": ""
  },

@@ -565,7 +565,7 @@
    3000
   ],
   "jp": "{p}\nハニー\nもしかしたら その住宅地に…？",
-  "en": "{p}\nHoney, maybe that housing area is...?",
+  "en": "{p}\nHoney, could that housing area be\nwhere...?",
   "status": "done",
   "notes": ""
  },
@@ -735,7 +735,7 @@
    3017
   ],
   "jp": "カパエル\n次から次へと 人間界も大変ねー",
-  "en": "Kapaeru\nOne thing after another, the human\nworld sure has it rough, I do declare.",
+  "en": "Kapaeru\nOne thing after another! The human\nworld sure has it rough, huh~.",
   "status": "done",
   "notes": ""
  },

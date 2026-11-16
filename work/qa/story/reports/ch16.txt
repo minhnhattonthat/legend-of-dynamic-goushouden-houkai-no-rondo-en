@@ -1,0 +1,14 @@
+### Issues
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor
+None.
+
+The inconsistent speaker labels in the review export are already correct in the source dialogue: Hakase, Nantomo, Daiko Hoin, and Banji.
+
+### Assessment
+ok — Recruitment scenes, recurring jokes, character voices, and NPC callbacks remain coherent, with no premature reveals or significant emotional losses.

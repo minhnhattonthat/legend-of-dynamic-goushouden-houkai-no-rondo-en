@@ -245,7 +245,7 @@
    16130
   ],
   "jp": "シレーヌ\nだが！\nこうしてはおれぬ！\n{p}！\n貴様の話が本当ならば\n我がデーモンをしのぐ敵が\n地上を狙っていることになる！\n私は貴様に手を貸そう\n\nこの地球を 魔王とやらに\n奪われてたまるか！",
-  "en": "Sirene\nBut! This is no time for that!\n{p}! If your story is\ntrue, an enemy surpassing even we\nDemons is after the surface! I'll lend\nyou a hand.\n\nI won't let this Earth be taken by some\nDemon King!",
+  "en": "Sirene\nBut! This is no time for that!\n{p}! If your story is\ntrue, an enemy surpassing even us\nDemons is after the surface! I'll lend\nyou a hand.\n\nI won't let this Earth be taken by some\nDemon King!",
   "status": "done",
   "notes": ""
  },
@@ -755,7 +755,7 @@
    16402
   ],
   "jp": "\nお地蔵さまに 手をあわせましょう\n\nケガや 病気も たちまち回復\nみんな元気になるでしょう",
-  "en": "\nPut your hands together for the Jizo\nstatue.\n\nInjuries and illness will heal at once,\nand everyone will be full of energy.",
+  "en": "\nJoin your hands in prayer before the\nJizo statue.\n\nInjuries and illness will heal at once,\nand everyone will be full of energy.",
   "status": "done",
   "notes": ""
  },
@@ -895,7 +895,7 @@
    16462
   ],
   "jp": "\nパートナー「{s}」が\nアソートメンバーから外れた",
-  "en": "\nPartner \"{s}\" left the\nparty members.",
+  "en": "\nPartner \"{s}\" left the\nparty.",
   "status": "done",
   "notes": ""
  },

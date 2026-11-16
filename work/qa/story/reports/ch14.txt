@@ -1,0 +1,15 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+
+- 45.36, 45.40, 45.42 — Banji introduces himself and flees his mother — The speaker tag reads “Banko,” while his introduction, other characters, and the glossary consistently use “Banji.” — Suggested EN speaker tag: `Banji`.
+- 46.46 — Akira demands that Saotome address `{p}` — “Don't you got” sounds accidentally ungrammatical rather than naturally rough, weakening this confrontation. — Suggested EN: `Haven't you got anything to say to {p}?`
+
+### Assessment
+ok — The chapter preserves its emotional progression, Sirene and Kaim’s tragic exchange, and Akira’s growing doubts, with no significant continuity breaks or premature reveals.

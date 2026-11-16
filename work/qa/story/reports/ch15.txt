@@ -1,0 +1,14 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+- **50.26; 50.46 speaker tag** - JP names Miroku’s father, 無幻大権 - “Daigon Mugen” / “Daigon” conflicts with the glossary’s binding ROM-derived reading **Taigen**. Suggested EN: “You've got spirit. I am Miroku Mugen, son of Taigen Mugen, lord of Kuryu Castle!” Speaker tag: “Taigen.”
+
+#### Minor (deferred to the polish pass)
+- **49.41** - Akira declares that he cannot leave the Demon King unchallenged - “I can't help but fight you!” sounds awkward and weakens his defiance. Suggested EN: “It's a patchwork world the Demon King made! Demon King! I won't let you get away with this!”
+- **49.43** - Having lost Miki, Akira understands the protagonist’s grief all too well - “exactly how you feel, way too well” makes the emotional closing stumble. Suggested EN: “Miki was the reason I could hold on to my human heart. But now she's gone... I know all too well how you feel, {p}...”
+
+### Assessment
+**issue** - The chapter preserves its revelations, emotional progression, and farewell jokes, but Miroku’s father’s name contradicts the binding glossary.

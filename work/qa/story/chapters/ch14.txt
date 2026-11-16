@@ -1,0 +1,602 @@
+# ch14: Sirene and Miki, the Dinosaur Empire (archive files f45-f47, story order)
+
+>> 45.00 | Dr. Saotome | 次元連鎖という現象について / 詳しいことは / 何もわかっていないのが現状だ / そこで科学都市では 予知一族に / 協力を求めることが決まった
+   EN: At present, we know nothing in detail / about this phenomenon called the / Dimension Chain. / So Science City has decided to ask the / Precog Clan for their help.
+>> 45.01 | {p} | あの来留間博士と / 科学都市とが / 共に戸来村の預言者を / 探している！？
+   EN: Dr. Kuruma and Science City are both / searching for the prophet of Herai / Village!?
+>> 45.02 | Jiro | 俺達も戸来村へ行ってみよう / {p}！
+   EN: Let's go to Herai Village too, / {p}!
+>> 45.03 | Dr. Saotome | それが良かろう / 戸来村は ここから 北東 / 科学都市 北の 小さな村だ / 来留間博士も / 予知一族を探している / 何が待っているか解らん / じゅうぶん 気をつけてくれ！
+   EN: That would be best. / Herai Village is a small village / northeast of here, north of Science / City. Dr. Kuruma is searching for the / Precog Clan too. There's no telling / what awaits you. Be very careful!
+>> 45.04 | Dr. Saotome | 戸来村は ここから 北東 / 科学都市 北の 小さな村だ / 来留間博士も / 予知一族を探している / 何が待っているか解らん / じゅうぶん 気をつけてくれ！
+   EN: Herai Village is a small village / northeast of here, north of Science / City. Dr. Kuruma is searching for the / Precog Clan too. There's no telling / what awaits you. Be very careful!
+>> 45.05 | Enma-kun | 地獄別荘を 早乙女研究所の近くに / 移動してくれ！って頼んだんだ！ / そしたら ワシも行く！って / 言い出しちゃって…
+   EN: I asked him to move Hell Villa near the / Saotome Lab! And then he goes, "I'm / coming too!"...
+>> 45.06 | Researcher | 
+   EN: ...
+>> 45.07 | Akira Fudo | …それはな {p}
+   EN: ...Well, you see, {p}...
+>> 45.08 | Akira Fudo | おまえを驚かすために / みんなず～っと黙ってたんだ！
+   EN: We all kept quiet the whole time to / surprise you!
+>> 45.09 | Akira Fudo | この地震 でかいぞ！
+   EN: This quake's a big one!
+>> 45.10 | Akira Fudo | おい また何か起こったらしいぜ！
+   EN: Hey, looks like something else / happened!
+>> 45.11 | Akira Fudo | ………
+   EN: .........
+>> 45.12 | {p} | 明君 / もしかしたら その住宅地に…？
+   EN: Akira-kun, could that residential area / be where...?
+>> 45.13 | Akira Fudo | 美樹ちゃんの家が / あるかもしれない… / こうしちゃいられねぇ！
+   EN: Miki-chan's house might be there... I / can't just sit here!
+>> 45.14 | {p} | 明君！？
+   EN: Akira-kun!?
+>> 45.15 | Akira Fudo | 俺達 蓮沼のあった場所に / 行ってみようと思うんだ / もしかしたら 美樹ちゃんに / 逢えるかもしれないからな / …急がないと美樹ちゃんが危ない / そんな気がするんだ！
+   EN: We're thinking of checking out where / Hasunuma used to be. Maybe I'll find / Miki-chan there. ...If I don't hurry, / Miki-chan's in danger. I've got that / feeling!
+>> 45.16 | Ryo Asuka | ひとりで行こうとする明を説得して / ここに連れてきた / 何が待っているか解らないからな / 仲間を連れて行ったほうがいい
+   EN: Akira was going to go alone, so I talked / him around and brought him here. / There's no telling what's waiting. / Better to bring friends.
+>> 45.17 | {p} | 僕も そのほうが いいと思うよ / 明君…
+   EN: I think so too, Akira-kun...
+>> 45.18 | Akira Fudo | 急がないと美樹ちゃんが危ない… / そんな気がするんだ！
+   EN: If I don't hurry, Miki-chan's in danger... / I've got that feeling!
+>> 45.19 | {p} | 明君 気をつけて…
+   EN: Be careful, Akira-kun...
+>> 45.20 | Akira Fudo | 解っている / おまえもな！
+   EN: I know. You too!
+>> 45.21 | {s} | 明君達 / あれから どうしてるかしら…
+   EN: I wonder how Akira-kun and the others / are doing...
+>> 45.22 | Akira Fudo | いや～ みんなが無事で良かったよ
+   EN: Man, I'm glad everybody's safe.
+>> 45.23 | Miki | 明君ったら あたしのことを / 心配してくれてたんじゃないの？
+   EN: Oh, Akira-kun, weren't you worried / about me?
+>> 45.24 | Tare-chan | 美樹ねぇちゃん 強いもん / 心配なんか いらないよね！
+   EN: Big sis Miki's tough! No need to worry / about her, right?
+>> 45.25 | Miki | こらっ！
+   EN: Hey!
+>> 45.26 | Tare-chan | ひえ～っ！
+   EN: Yikes!
+>> 45.27 | Miki | まったくもう！ / 明君 お風呂わいてるからね
+   EN: Honestly! / Akira-kun, the bath's ready.
+>> 45.28 | Ryo Asuka | デビルマンとなった君は それ以前 / とは 人間が変わってしまった / だが ふたりは / それに気がついていない / それとも ふたりにとって / 今の君のほうが自然なのかも…
+   EN: Becoming Devilman changed you as a / person. But those two haven't / noticed. Or maybe the way you are now / just seems more natural to them...
+>> 45.29 | Akira Fudo | あの出来事どころか 次元連鎖すら / 起こっていないみたいだな
+   EN: Looks like nothing happened here, not / even the Dimension Chain.
+>> 45.30 | Ryo Asuka | もしかしたら / 記憶を消されているのかも…
+   EN: Maybe their memories were erased...
+>> 45.31 | Akira Fudo | 考えすぎだよ 了
+   EN: You're overthinking it, Ryo.
+>> 45.32 | Ryo Asuka | 時間の すすみ具合さえ違う世界… / そんな世界が / 無数に存在しているのかも…
+   EN: Worlds where even time passes at a / different pace... / Maybe there are countless worlds like / that...
+>> 45.33 | Miki | 明君 お風呂わいてるからね
+   EN: Akira-kun, the bath's ready.
+>> 45.34 | Akira Fudo | 誰だ おまえ！？
+   EN: Who the hell are you!?
+>> 45.35 | Miki | スケバン君！？ / お隣の女蛮子君よ / 通称 スケバン君
+   EN: Sukeban-kun!? / It's Banji Suke-kun from next door. / Everybody calls him Sukeban-kun.
+>> 45.36 | Banji | 夜分に すんません！ / おいら 姓はスケ 名はバンジ！ / 通り名をスケバンと発しやす！ / ごめんよ～ 美樹ちゃん！ / これには わけがあるんだ…
+   EN: Beggin' your pardon this late at night! / Family name's Suke, given name's Banji! / Folks call me Sukeban! Sorry, / Miki-chan! See, there's a reason for / all this...
+>> 45.37 | Akira Fudo | どんなわけだ！？
+   EN: What reason!?
+>> 45.38 | Miki | どうせまた 蛮千代おばさまに / 叱られてるんでしょ？
+   EN: Aunt Banchiyo's scolding you again, / isn't she?
+>> 45.39 | Banchiyo | 逃がさんぞ 蛮子！
+   EN: You won't get away, Banji!
+>> 45.40 | Banji | あ～っ きた～っ！
+   EN: Aaah, she's heeere!
+>> 45.41 | Banchiyo | くたばれ 蛮子！
+   EN: Drop dead, Banji!
+>> 45.42 | Banji | ヒ～ッ！
+   EN: Eeeek!
+>> 45.43 | Akira Fudo | ………
+   EN: .........
+>> 45.44 | Miki | 蛮子君のお母さん / 伝説の女番長だったんだって！ / 普段は 凄く優しい人なんだけど / 怒り始めたら手がつけられないの
+   EN: They say Banji-kun's mom used to be a / legendary girl gang boss! She's / usually really sweet, but once she / gets mad, nobody can handle her.
+>> 45.45 | Akira Fudo | 蛮子って たしか… / 男じゃなかったか？ / なんで あいつ / スカートはいてたんだ？
+   EN: That Banji... isn't he a guy? Why was / he wearing a skirt?
+>> 45.46 | Miki | 転校した学校の制服なんだって！
+   EN: He says it's the uniform at the school / he transferred to!
+>> 45.47 | Akira Fudo | でもあれ / どう見ても女の子の制服だぞ…
+   EN: But that sure looks like a girls' / uniform to me...
+>> 45.48 | Tare-chan | ＺＺＺ… / ＺＺＺ…
+   EN: Zzz... Zzz...
+>> 45.49 | Miki | 明君も一緒に はいるぅ～？
+   EN: Akira-kun, wanna get in with me?
+>> 45.50 | Akira Fudo | …ばか！
+   EN: ...Idiot!
+>> 45.51 | Akira Fudo | ふぅ… / 美樹ちゃん 無事で良かった… / …だが おかしい / 妙な胸騒ぎがする / 俺の血が騒ぐ… / 戦いの時が迫っている… / 戦いのゴングが 間もなく鳴る！
+   EN: Phew... I'm glad Miki-chan's safe... But / something's wrong. I've got a / strange feeling. My blood's stirring... / A fight's coming... The bell's about / to ring!
+>> 45.52 | Sirene | 美しき月よ… そなたは これから / 起こることを 見ないほうが良い / 醜い血で染まりたくないならば…！
+   EN: O lovely moon... You'd best not watch / what's about to happen. Not if you / don't want to be stained with ugly / blood...!
+>> 45.53 | Sirene | あはははは…！ / デビルマンを地獄に送る案内人！ / 戦うことしか知らぬ / デーモンの戦士達よ！ / 嵐と共に来たれ！
+   EN: Ahahahaha...! Guides who'll send / Devilman to Hell! Demon warriors who / know nothing but battle! Come with the / storm!
+>> 45.54 | Miki | キャァ～ッ！
+   EN: KYAAAH!
+>> 45.55 | Akira Fudo | 鳴った！ / 戦いのゴングだ！
+   EN: There's the bell! The fight is on!
+>> 45.56 | Tare-chan | さっきの悲鳴 なに？ / びっくりして 漏らしちゃった…
+   EN: What was that scream? I got so scared / I wet myself...
+>> 45.57 | Akira Fudo | 美樹ちゃんが いない！？ / さらわれたか！？
+   EN: Miki-chan's gone!? Was she / kidnapped!?
+>> 45.58 | Ryo Asuka | 明！ / 誰かが玄関から出て行ったぞ！
+   EN: Akira! Someone went out the / front door!
+>> 45.59 | Akira Fudo | 美樹ちゃん！？
+   EN: Miki-chan!?
+>> 45.60 | Akira Fudo | ひさしぶりに帰ってこれたんだ… / もう少し ゆっくりしよう
+   EN: First time I've been back in a while... / Let's take it easy a bit longer.
+>> 45.61 | Akira Fudo | デーモン！ / 美樹ちゃんを返せ！
+   EN: Demon! Give Miki-chan back!
+>> 45.62 | Akira Fudo | 美樹ちゃん…
+   EN: Miki-chan...
+>> 45.63 | Ryo Asuka | 大丈夫 気を失っているだけだ
+   EN: It's all right. She's just unconscious.
+>> 45.64 | Akira Fudo | きさま 何者だ？
+   EN: Who the hell are you?
+>> 45.65 | Bokuto Masa | あっしは 木刀政… / あんたが来てくれなきゃ / 化けもんに / 食われてるところだったぜ！
+   EN: The name's Bokuto Masa... If you / hadn't come, I'd've been eaten by / that monster!
+>> 45.66 | Bokuto Masa | な なんだ あのでっけぇ鳥は！？
+   EN: Wh-what's that huge bird!?
+>> 45.67 | Ryo Asuka | 明！ / しまった！ / 木刀政とやら ついてこい！
+   EN: Akira! Damn! You, Bokuto Masa or / whatever, come with me!
+>> 45.68 | Bokuto Masa | もちろんだ！
+   EN: You bet!
+>> 45.69 | Tare-chan | 美樹ねえちゃん！ / 大変だ 部屋に運ばなくちゃ！
+   EN: Big sis Miki! Oh no, we gotta get her to / her room!
+>> 45.70 | Sirene | 勝った！ / 私の勝ちだ デビルマン！ / おまえが気を抜いた瞬間を / 狙っていたのさ！
+   EN: I've won! The victory is mine, Devilman! I / was waiting for the moment you let / your guard down!
+>> 45.71 | Akira Fudo | ぐぅ… シレーヌ？
+   EN: Ngh... Sirene?
+>> 45.72 | Sirene | アモンの記憶が残ってるようだね！ / 私を覚えていてくれて うれしいよ / デビルマン！
+   EN: So Amon's memories still remain! / How lovely that you remember me, / Devilman!
+>> 45.73 | Akira Fudo | うっ / デビルマンに変身出来ない！？
+   EN: Ngh, I can't transform into Devilman!?
+>> 45.74 | Sirene | 私の爪には あらゆる超能力を / 防ぐ力があるのさ！ / おまえの身体を紙くずのように / 引き裂いてあげるわ！
+   EN: My claws have the power to block / every psychic power! I'll tear your / body to shreds like scrap paper!
+>> 45.75 | Ryo Asuka | 俺が不動明に 妖鳥シレーヌを / 打ち破る チャンスを与えよう！ / 待っていろ デビルマン！
+   EN: I'll give Akira Fudo the chance to / defeat Sirene the bird-demon! Wait / for me, Devilman!
+>> 45.76 | Bokuto Masa | いたぜ！ あそこだ！
+   EN: There she is! Over there!
+>> 45.77 | Ryo Asuka | よし！
+   EN: Good!
+>> 45.78 | Sirene | おまえは 美しい地球のゴミために / うごめく虫ケラだ！ / 虫ケラに ふさわしい死に方を / させてやるわ！
+   EN: You're a bug crawling in the beautiful / Earth's garbage heap! I'll give you a / death fit for a bug!
+>> 45.79 | Akira Fudo | 了！ / まさか…！？
+   EN: Ryo! Don't tell me...!?
+>> 45.80 | Sirene | ギエエエエエ～！
+   EN: GYEEEEEEH!
+>> 45.81 | Ryo Asuka | 明！ / 大丈夫か！？
+   EN: Akira! Are you all right!?
+>> 45.82 | Akira Fudo | シレーヌめ！ / 俺を 人間を ゴミためにうごめく / 虫ケラと言ったな！ / その虫ケラの力がどのようなものか / 見るがいい！
+   EN: Damn you, Sirene! / You called me, called humans, bugs / crawling in a garbage heap! Now see / what this bug can do!
+>> 45.83 | Akira Fudo | 行くぞ 了！ 政！
+   EN: Let's go, Ryo! Masa!
+>> 45.84 | Akira Fudo | …今 ここで シレーヌを倒す！ / まだ戻るわけには いかない！！
+   EN: ...I'm beating Sirene here and now! I / can't go back yet!!
+>> 45.85 | Sirene | きさまを / 百の肉片に引きちぎってくれる！ / 来い デビルマン！
+   EN: I'll tear you into a hundred pieces of / meat! Come, Devilman!
+>> 45.86 | Devilman | 悪あがきは よしやがれ / てめぇの負けだ シレーヌ
+   EN: Quit struggling, damn you. You've lost, / Sirene.
+>> 45.87 | Sirene | くっ！ キズが深い… / 勝てないのか… / このままでは死にきれぬ！ / デビルマンを倒す力が欲しい…！
+   EN: Ngh! The wound is deep... Can I not / win... I can't die like this! I want the / power to defeat Devilman...!
+>> 45.88 | Kaim | シレーヌ 俺の身体を使え！ / 合体だ！
+   EN: Sirene, use my body! Merge with me!
+>> 45.89 | Sirene | 合体？ / 何をいうのカイム！ / たとえデビルマンに勝っても / ふたりとも すぐに死ぬのよ！ / それでもいいの カイム！？
+   EN: Merge? What are you saying, Kaim! Even / if we beat Devilman, we'll both die / soon after! Are you all right with that, / Kaim!?
+>> 45.90 | Kaim | 俺は 生き延びるつもりは無い… / シレーヌ 君に勝利の感激を / 味あわせたいだけだ
+   EN: I don't intend to survive... / Sirene, I just want you to taste the / thrill of victory.
+>> 45.91 | Sirene | な なぜ…
+   EN: Wh-why...
+>> 45.92 | Kaim | シレーヌ / 血まみれでも君は美しい…
+   EN: Sirene... Even covered in blood, you're / beautiful...
+>> 45.93 | Sirene | カイム！
+   EN: Kaim!
+>> 45.94 | Sirene | デビルマン！ / シレーヌの執念が カイムの命が！ / きさまを倒す！ / きさまの命をカイムに捧げる！
+   EN: Devilman! / Sirene's obsession and Kaim's life / will defeat you! I'll offer your life / to Kaim!
+>> 45.95 | Akira Fudo | くっ！ / シレーヌ！！ / …！？ / 強敵だったが こときれている… / シレーヌ 恐ろしい敵だった…
+   EN: Ngh! Sirene!! ...!? / A powerful enemy, but she's breathed / her last... Sirene, you were a / terrifying enemy...
+>> 45.96 | Ryo Asuka | いや 素晴らしい敵と褒めてやれよ / 明
+   EN: No, give her some credit, Akira. She / was a magnificent enemy.
+>> 45.97 | Akira Fudo | 美しい…
+   EN: She's beautiful...
+>> 45.98 | Ryo Asuka | ………
+   EN: .........
+>> 45.99 | Bokuto Masa | アニキ！ / あれを見てくだせぃ！
+   EN: Bro! Take a look at that!
+>> 46.00 | Akira Fudo | 黒い月！
+   EN: A black moon!
+>> 46.01 | Ryo Asuka | あれは いったい…！？
+   EN: What on earth is that...!?
+>> 46.02 | Ryo Asuka | 明 あの光が示しているのは / 科学都市のある方向じゃないか？
+   EN: Akira, isn't that light pointing toward / Science City?
+>> 46.03 | Akira Fudo | 科学都市？ / {p}達の身に何か…！
+   EN: Science City? Something's happened to / {p} and the others...!
+>> 46.04 | Akira Fudo | 行ってはダメだ！
+   EN: Don't go!
+>> 46.05 | Akira Fudo | 大丈夫か {p}？
+   EN: You okay, {p}?
+>> 46.06 | {p} | 明君 僕… / 何があったの？
+   EN: Akira-kun, I... What happened?
+>> 46.07 | Shusha | 「連れて行って」なんて / 言ってたんだぞ
+   EN: You were saying "take me with you."
+>> 46.08 | Ryo Asuka | 覚えてないのか？
+   EN: You don't remember?
+>> 46.09 | Akira Fudo | 話は後だ…！
+   EN: Talk later...!
+>> 46.10 | Shinichi | …そうだな
+   EN: ...Right.
+>> 46.11 | Akira Fudo | てめぇら 油断するな！
+   EN: Don't you guys let your guard down!
+>> 46.12 | {p} | 明君…！
+   EN: Akira-kun...!
+>> 46.13 | Akira Fudo | 黙って見てろ！ / 行くぞ 朱紗！ 慎一！
+   EN: Just shut up and watch! Let's go, / Shusha! Shinichi!
+>> 46.14 | Guard | {p}君 しばらく / このホテルから出ないで下さい
+   EN: {p}-kun, please don't / leave this hotel for a while.
+>> 46.15 | {p} | どうしてですか？
+   EN: Why not?
+>> 46.16 | Guard | 外を見れば わかります…
+   EN: Look outside and you'll understand...
+>> 46.17 | Akira Fudo | 出て行け！ {p}に / こんな様子を見せやがって！
+   EN: Get out! How dare you let / {p} see you like this!
+>> 46.18 | Guard | ひ ひぇ～！
+   EN: Y-yikes!
+>> 46.19 | {p} | …なんてことだ
+   EN: ...This is terrible.
+>> 46.20 | Ryo Asuka | いつ 自分の身体に / 黒い魔物が取り憑き / 操られてしまうか / わからない恐怖… / 疑心暗鬼に駆られた / 人間どもは / 何をしでかすか わからない！
+   EN: The fear of not knowing when a black / fiend might latch onto your body and / control you... Humans gripped by / suspicion... there's no telling what / they'll do!
+>> 46.21 | Akira Fudo | ………
+   EN: .........
+>> 46.22 | Ryo Asuka | これが人間の弱さだ！
+   EN: This is human weakness!
+>> 46.23 | Akira Fudo | 人間には 恐怖を押さえて戦う / 勇気がある！ / 人間の精神は / そんな弱いもんじゃないぜ 了
+   EN: Humans have the courage to hold down / their fear and fight! The human spirit / ain't that weak, Ryo.
+>> 46.24 | Dr. Saotome | その通りだ！
+   EN: Exactly right!
+>> 46.25 | Dr. Saotome | だが事態は予断を許さない / 不安に駆られた人々が / 暴徒化している / 状況を急いで整理し / 分析する必要がある
+   EN: But the situation could go either way. / People driven by fear are turning into / a mob. We need to sort out and / analyze the situation, quickly.
+>> 46.26 | Dr. Saotome | さて 明君 了君 / 君達が 科学都市に着いた時 / その時の様子を / わしらに 聞かせてくれんか？
+   EN: Now, Akira-kun, Ryo-kun, would you / tell us how things were when you / arrived in Science City?
+>> 46.27 | Akira Fudo | …はい
+   EN: ...Sure.
+>> 46.28 | Akira Fudo | …様子が おかしい？ / いったい 何が起こったんだ！？
+   EN: ...Something's wrong? What the hell / happened!?
+>> 46.29 | Ryo Asuka | どうした明？ / 牧村家のことが心配なのか？
+   EN: What is it, Akira? Worried about the / Makimuras?
+>> 46.30 | Akira Fudo | ………
+   EN: .........
+>> 46.31 | Ryo Asuka | 心配するな 木刀政が あの子達を / 守ってくれるさ
+   EN: Don't worry, Bokuto Masa will protect / those kids.
+>> 46.32 | Akira Fudo | 了！ / あれを見ろ！
+   EN: Ryo! Look at that!
+>> 46.33 | Worker | ひぃ～！
+   EN: Eeeek!
+>> 46.34 | Akira Fudo | 野郎！
+   EN: You bastard!
+>> 46.35 | Ryo Asuka | 待て 明！
+   EN: Wait, Akira!
+>> 46.36 | Worker | …仰せのままに
+   EN: ...As you command.
+>> 46.37 | Akira Fudo | はっ！？
+   EN: Huh!?
+>> 46.38 | Akira Fudo | きやがれ！
+   EN: Come on!
+>> 46.39 | Akira Fudo | こいつら なんなんだ！？
+   EN: What the hell are these guys!?
+>> 46.40 | Ryo Asuka | 見ろ 明！ / あちこちに黒いのがいる…
+   EN: Look, Akira! There are black things all / over...
+>> 46.41 | Akira Fudo | 人々が黒い物体に操られている…？
+   EN: The people are being controlled by / black things...?
+>> 46.42 | Ryo Asuka | 操られた人々を追っているうち / 屋上の事件に遭遇したわけです
+   EN: While we were following the controlled / people, we came upon the incident on / the roof.
+>> 46.43 | Dr. Saotome | 黒い物体に操られた人々は / みな 何者かの声を聞いたと / 言っているそうじゃ / どんな言葉を聞いたのか / 調べてみんといかんな
+   EN: I'm told the people controlled by the / black things... / all say they heard someone's voice. We / shall have to find out just what / words they heard.
+>> 46.44 | Akira Fudo | 待ってくれ 早乙女博士
+   EN: Hold on, Dr. Saotome.
+>> 46.45 | Dr. Saotome | なんじゃ？
+   EN: What is it?
+>> 46.46 | Akira Fudo | {p}に / 何か言うことはねぇのかい？
+   EN: Haven't you got anything to say to / {p}?
+>> 46.47 | {p} | ………
+   EN: .........
+>> 46.48 | Dr. Saotome | …無い
+   EN: ...No.
+>> 46.49 | Akira Fudo | なんだと！？
+   EN: What!?
+>> 46.50 | Ryo Asuka | よせ 明！
+   EN: Stop it, Akira!
+>> 46.51 | {p} | …早乙女博士 / {s}は…
+   EN: ...Dr. Saotome, what about / {s}...?
+>> 46.52 | Dr. Saotome | {s}を想う / 君の気持ちは わかる / だが君にも / わかって欲しいことがある
+   EN: I understand how you feel about / {s}. But there's / something I want you to / understand, too.
+>> 46.53 | Dr. Saotome | 次元連鎖現象は 今も続いている / そして黒い月がもたらす悲劇は / 次の段階に入ったのだ / 黒い月によって「魔」の残骸が / 息を吹き返し / 黒い物体 黒い魔物となり / 人々を襲っている
+   EN: The Dimension Chain phenomenon is still / going on. / And the tragedy the black moon brings / has entered its next stage. The / black moon has breathed life back / into the remains of the "Ma," and / they've become black things, black / fiends, attacking people.
+>> 46.54 | Dr. Saotome | 黒い魔物に取り憑かれた人々は / 暴徒化し 魔王に操られる / 被害は広がるばかり… つまり / 魔王の力は強まりつつある！
+   EN: People possessed by the black fiends / turn into rioters, controlled by the / Demon King. The damage only / spreads... In other words, the Demon / King's power is growing!
+>> 46.55 | Dr. Saotome | この事態は / 人類にとっての脅威なのだ！ / わしは早乙女研究所の所長として / 人類を救うために / 努力せねば ならないのだ！ / たとえ どんな犠牲を払ってでも！
+   EN: This situation is a threat to mankind! / As director of the Saotome Lab, I / have to work to save mankind! / Whatever the sacrifice!
+>> 46.56 | Akira Fudo | {s}に / 犠牲になれと言うのか！？
+   EN: You're telling {s} to be / the sacrifice!?
+>> 46.57 | Ryo Asuka | ………
+   EN: .........
+>> 46.58 | Dr. Saotome | わしだって 出来るだけのことは / してやりたい！ / 誰一人として / 犠牲には したくないのだ！
+   EN: I want to do everything I can too! I / don't want to sacrifice a single / person!
+>> 46.59 | Akira Fudo | 早乙女博士… あんた…
+   EN: Dr. Saotome... you...
+>> 46.60 | {p} | ………
+   EN: .........
+>> 46.61 | Dr. Saotome | じゃが！ 今は そんなことを / 言ってられる状況ではないのだ！
+   EN: But! Right now the situation doesn't / allow for that!
+>> 46.62 | Dr. Saotome | わかってくれ… 諸君
+   EN: Please understand... all of you.
+>> 46.63 | Researcher | 早乙女博士 / ゲッターチーム 出動しました
+   EN: Dr. Saotome, the Getter Team has / launched.
+>> 46.64 | Dr. Saotome | では黒い物体に操られた人達の / 様子を 見に行こう
+   EN: Then let's go see how the people / controlled by the black things are / doing.
+>> 46.65 | {p} | …外の人達 みんな 僕を魔王に / 差し出せって？
+   EN: ...All those people outside want me / handed over to the Demon King?
+>> 46.66 | Ryo Asuka | 黒い物体に / 操られた人達の中には / 次元連鎖を調べていた / 科学者が いるらしいんだ / そいつがなぜか / 君を魔王に差し出せ！ / そう 煽っているらしい
+   EN: Among the people controlled by the / black things, there's apparently a / scientist who was studying the / Dimension Chain. For some reason, / he's stirring them up, saying "Hand him / over to the Demon King!"
+>> 46.67 | {p} | どうして？
+   EN: Why?
+>> 46.68 | Ryo Asuka | 君と同じ世界から来た / {s}が 黒い月に / 吸い寄せられていった / そう ウワサされているからだ
+   EN: Because there's a rumor that / {s}, who came from the / same world as you, was drawn into the / black moon.
+>> 46.69 | {p} | …たったそれだけのことで？
+   EN: ...Just because of that?
+>> 46.70 | Ryo Asuka | 明 よく見ておくがいい！ / 守ろうとしている人間が / 黒い魔物に踊らされ 敵となる / 明日は我が身かもしれないぜ？
+   EN: Take a good look, Akira! / The humans you're trying to protect / are dancing to the black fiends' / tune and becoming your enemy. / Tomorrow it could be you.
+>> 46.71 | Akira Fudo | だが {p}だって / この事件の被害者だぜ！？
+   EN: But {p}'s a victim in all / this too!
+>> 46.72 | Ryo Asuka | 外のヤツらにとっては / 被害者じゃない！ 関係者さ！
+   EN: Not to the people outside! To them / he's involved!
+>> 46.73 | {p} | やめてよ ふたりとも！ / 君達まで争い始めたら ますます / 魔王の思うつぼじゃないか！
+   EN: Stop it, you two! / If you start fighting too, it's playing / right into the Demon King's hands!
+>> 46.74 | Akira Fudo | …そうだな すまん
+   EN: ...You're right. Sorry.
+>> 46.75 | Ryo Asuka | つらい戦いが待っているぞ / {p}
+   EN: A hard fight awaits you, / {p}.
+>> 46.76 | {p} | ………
+   EN: .........
+>> 46.77 | Ryo Asuka | 人々は魔王を支持している / 君は 彼らを相手に / 戦わなくてはならんのだ！
+   EN: The people support the Demon King. / You'll have to fight against them!
+>> 46.78 | Akira Fudo | なぁ 了… / 俺は本当に… / デビルマンに ならなければ / いけなかったのだろうか？
+   EN: Hey, Ryo... / Did I really... / have to become Devilman?
+>> 46.79 | Ryo Asuka | 君が生き残るためには / 必要なことだ！
+   EN: It was necessary for you to survive!
+>> 46.80 | Akira Fudo | 生き残ることが 本来の目的じゃ / なかったはずだぜ…？
+   EN: Surviving was never supposed to be / the real goal, was it...?
+>> 46.81 | Ryo Asuka | ………
+   EN: .........
+>> 46.82 | Akira Fudo | もしも / 次元連鎖なんてものがなかったら / 俺もデビルマンにならなくても / 済んだかもな…
+   EN: If there'd never been any Dimension / Chain, maybe I wouldn't have had to / become Devilman...
+>> 46.83 | {p} | 明君…
+   EN: Akira-kun...
+>> 46.84 | Ryo Asuka | ………
+   EN: .........
+>> 46.85 | Ryo | 地上は酷いありさまだな 刻々と / 暴徒の数は増えているようだ
+   EN: It's a mess down there. The number of / rioters keeps growing by the minute.
+>> 46.86 | Hayato | 命を賭けて恐竜帝国から守った / 人類がこれじゃ イヤになるぜ
+   EN: We risked our lives protecting mankind / from the Dinosaur Empire, and this is / what we get. Makes me sick.
+>> 46.87 | Musashi | 地上の様子が気になるよなぁ / 少し降りてみねぇか？
+   EN: I'm worried about what's goin' on down / there. Wanna drop down for a look?
+>> 46.88 | Ryo | そうしよう
+   EN: Let's do that.
+>> 46.89 | Musashi | メカザウルスが生き残ってるって / どういうこと？
+   EN: What do ya mean a Mechasaurus / survived?
+>> 46.90 | Hayato | 気がつかなかったのか ムサシ？
+   EN: You didn't notice, Musashi?
+>> 46.91 | Musashi | 何をだよ？
+   EN: Notice what?
+>> 46.92 | Ryo | メカザウルスに / 黒い物体が張り付いていた…
+   EN: There was a black thing stuck to the / Mechasaurus...
+>> 46.93 | Musashi | ぎょえ～！ / それじゃ メカザウルスまで / 黒い物体に操られてるってわけ？
+   EN: Yeeeegads! / So even the Mechasaurus is bein' / controlled by black things?
+>> 46.94 | Hayato | 黒い月の光を浴びて / 「魔」の残骸が蘇ったように / メカザウルスも / 蘇ったのかもしれん
+   EN: Maybe the Mechasaurus came back to / life, the same way the remains of the / "Ma" did when the black moon's light / hit them.
+>> 46.95 | Musashi | おいおい！ 黒い魔物って / あんなでっかかったっけ？
+   EN: Hey, hey! Were the black fiends always / that huge!?
+>> 46.96 | Hayato | …早乙女博士に / 報告した方が良さそうだな
+   EN: ...Better report to Dr. Saotome.
+>> 46.97 | Ryo | よし 研究所に戻ろう！
+   EN: Right, back to the lab!
+>> 46.98 | Akira Fudo | いつまで こうしているつもりだ / 了？
+   EN: How long are you planning to keep this / up, Ryo?
+>> 46.99 | Ryo Asuka | 落ち着け 明 / 今 おまえが出て行っても / 何も変わらん
+   EN: Calm down, Akira. / Even if you go out there now, nothing / will change.
+>> 47.00 | {p} | 明君 / 僕も行くよ
+   EN: Akira-kun, I'm coming too.
+>> 47.01 | Ryo Asuka | {p}！
+   EN: {p}!
+>> 47.02 | Ryo Asuka | 待て！ / 俺も行く
+   EN: Wait! I'm coming too.
+>> 47.03 | Akira Fudo | 了…
+   EN: Ryo...
+>> 47.04 | Ryo Asuka | 早乙女博士に 状況を聞こう / 対策をたてるのは それからだ / たしか 早乙女博士は このフロアの / 奥の部屋にいたはずだ…
+   EN: Let's ask Dr. Saotome about the / situation. We'll make a plan after / that. Dr. Saotome should be in the / room at the back of this floor...
+>> 47.05 | Dr. Saotome | それは 興味深い話だな… / 報告ありがとう
+   EN: That's interesting... Thank you for / the report.
+>> 47.06 | Guard | それでは 失礼します！
+   EN: Then I'll be going!
+>> 47.07 | Guard | フフ…
+   EN: Heh heh...
+>> 47.08 | Dr. Saotome | ちょうどいいところに来た / 新しい情報が入ったぞ / ニュースを見てみたまえ
+   EN: You came at just the right time. New / information has come in. Take a look / at the news.
+>> 47.09 | Announcer | 黒い物体に操られ / 魔王の声を聞いたと言う人々が / ある場所に集まり始めています！
+   EN: People who were controlled by black / things and claim to have heard the / Demon King's voice are beginning to / gather in one place!
+>> 47.10 | {p} | 始まりの丘だ！
+   EN: It's the Hill of Beginnings!
+>> 47.11 | Announcer | この人達は この丘に / 祭壇を築き始めました！ / 無気味な像まで作っています！
+   EN: These people have begun building an / altar on this hill! They're even making / an eerie statue!
+>> 47.12 | Akira Fudo | 祭壇に像？
+   EN: An altar and a statue?
+>> 47.13 | Announcer | 魔王を信奉する人々が / 続々と集まってきています！
+   EN: People who worship the Demon King are / gathering one after another!
+>> 47.14 | Dr. Saotome | 人々は {p}君が / 聞いた言葉と 同じ言葉を / 口にしているそうだよ
+   EN: They say the people are saying the / same words you heard, / {p}-kun.
+>> 47.15 | {p} | 僕が聞いた言葉？
+   EN: The words I heard?
+>> 47.16 | Dr. Saotome | 結合の時…
+   EN: The time of joining...
+>> 47.17 | Akira Fudo | より強い力…
+   EN: Greater power...
+>> 47.18 | Ryo Asuka | 野望の実現…
+   EN: Ambition realized...
+>> 47.19 | {p} | ………
+   EN: .........
+>> 47.20 | Dr. Saotome | これが意味していることは / ひとつ！
+   EN: This can only mean one thing!
+>> 47.21 | {p} | 魔王はまだ / 完全な力を得ていない…！
+   EN: The Demon King hasn't gained his full / power yet...!
+>> 47.22 | Dr. Saotome | 結合の時が 何を意味しているのか / 解らない / だが その時 / 魔王が真の力を発揮する！
+   EN: I don't know what the time of joining / means. But when it comes, the Demon / King will unleash his true power!
+>> 47.23 | Akira Fudo | その前に なんとかしなけりゃ…！
+   EN: Before that happens, we've gotta do / something...!
+>> 47.24 | Dr. Saotome | 我々も なんとか戦力を / 拡充したいところだな / ゲッターチームから / 報告が はいっておる / 全滅したはずのメカザウルスが / 復活を遂げたそうだ
+   EN: We'd like to build up our forces / somehow too. A report has come in / from the Getter Team. It seems the / Mechasaurus we thought were all / wiped out have come back.
+>> 47.25 | Dr. Saotome | 魔王は驚くべき勢いで 勢力を / 広げているとみるべきだ / 我々は一致団結して / 困難に立ち向かわねばならん！
+   EN: We should assume the Demon King is / spreading his power at an / astonishing rate. We must all stand / united against this crisis!
+>> 47.26 | Ryo Asuka | しかし博士… / 人々が 黒い魔物に / 操られている以上 / 人間を守るために開発された兵器が / 人類滅亡に使用されることも…
+   EN: But Doctor... / As long as people are being controlled / by the black fiends, weapons / developed to protect humans could be / used to wipe out mankind...
+>> 47.27 | Dr. Saotome | …無いとは言い切れん / もはや 誰が味方で 誰が敵か / 解らんからな
+   EN: ...I can't say it won't happen. / We can no longer tell who's friend and / who's foe.
+>> 47.28 | Akira Fudo | そんな！
+   EN: No way!
+>> 47.29 | {p} | でも これまで敵だった人達と / 仲間になれるチャンスかも！
+   EN: But maybe it's a chance to make / friends with people who used to be / enemies!
+>> 47.30 | Akira Fudo | うまく行けば…な
+   EN: If it goes well, anyway.
+>> 47.31 | Dr. Saotome | 早乙女だ / …そうか 解った
+   EN: Saotome here. ...I see. Understood.
+>> 47.32 | Dr. Saotome | 居住エリア周辺から / 暴徒を追い出したそうだ / わしは これから会議があるので / これで失礼する
+   EN: They've driven the rioters away from / the residential area. I have a meeting / now, so I'll excuse myself.
+>> 47.33 | Dr. Saotome | 魔王は 君を「再生の太陽」と / {s}を「破壊の月」と / 呼ぶ / また暴徒達は {p}君を / 魔王に差し出せといっている / これは 魔王が言う「結合の時」に / 関係あると思われる
+   EN: The Demon King calls you the "Sun of / rebirth" / and {s} the "Moon of / destruction." And the rioters are / saying to hand {p}-kun / over to the Demon King. I believe this / is connected to what the Demon King / calls the "time of joining."
+>> 47.34 | Dr. Saotome | 居住エリアからは出ないことだ / もしも君が魔王に捕らえられたら / 結合の時とやらが / 訪れてしまうかもしれない…
+   EN: Don't leave the residential area. If the / Demon King captures you, this "time / of joining" may come...
+>> 47.35 | Ryo Asuka | 君は狙われてるんだぞ！ / 居住エリアから出てはダメだ！
+   EN: They're after you! Don't leave the / residential area!
+>> 47.36 | Guard | すみません！ 暴徒が窓を破って / 入って来ちゃいました！ / 手を貸して下さい！
+   EN: Excuse me! Rioters broke through a / window and got in! Please give me / a hand!
+>> 47.37 | Akira Fudo | なんだと！？
+   EN: What!?
+>> 47.38 | Akira Fudo | 暴徒ってのは どこにいるんだ？
+   EN: So where are these rioters?
+>> 47.39 | Guard | おかしいなぁ / 確か このあたりに…？
+   EN: That's odd, I'm sure they were around / here...?
+>> 47.40 | Akira Fudo | 無事だったか {p}！ / おまえひとりじゃ危険だ / 俺も行こう！
+   EN: You're safe, {p}! / It's dangerous alone. I'm coming too!
+>> 47.41 | Ryo Asuka | ふたりとも戻ってきたか… / ちょうど会議が終わったところだ / 早乙女博士が / 君に会いたがっているぞ！
+   EN: So you're both back... The meeting / just ended. Dr. Saotome wants to / see you!
+>> 47.42 | Dr. Saotome | {p}君！ / ようやく答えが見つかったぞ！ / 魔王は 日蝕を待っているのだ！
+   EN: {p}-kun! I've finally / found the answer! The Demon King is / waiting for a solar eclipse!
+>> 47.43 | {p} | 月が太陽の光をさえぎる / あの日蝕ですか？
+   EN: You mean an eclipse, when the moon / blocks the sun's light?
+>> 47.44 | Dr. Saotome | そうじゃ！ / 恐らく 日蝕の訪れと共に / 魔王は真の力を得るのだと思う
+   EN: That's right! / Most likely, the Demon King will gain his / true power when the eclipse comes.
+>> 47.45 | {p} | …！？
+   EN: ...!?
+>> 47.46 | Dr. Saotome | これまで次元連鎖が起きるたびに / あるものが出現していた / 黒い月だ！ / 日蝕が起きたら / 何が出現するかね？
+   EN: Every time the Dimension Chain has / occurred, a certain thing has / appeared. The black moon! / So when an eclipse happens, what / appears?
+>> 47.47 | {p} | え…？ / え～と あっ！
+   EN: Huh...? Uh, um... Oh!
+>> 47.48 | Dr. Saotome | そうじゃ 黒い太陽だ！ / 黒い太陽が出現した時 / 魔王が真の力を得るのだ！
+   EN: That's right, a black sun! / When the black sun appears, the / Demon King will gain his true power!
+>> 47.49 | {p} | それで次の日蝕は / いつなんですか？
+   EN: So when's the next eclipse?
+>> 47.50 | Dr. Saotome | 明日だ…
+   EN: Tomorrow...
+>> 47.51 | {p} | 明日！？
+   EN: Tomorrow!?
+>> 47.52 | Dr. Saotome | 至急 対策を立てねばならん！ / サロンに来てくれ！ / 作戦会議だ！
+   EN: We must make a plan at once! Come to / the salon! It's a strategy meeting!
+>> 47.53 | Dr. Saotome | …というわけだ 諸君！ / 明日に迫った日蝕！ / もしも 私の推理が正しければ / その時 魔王は真の力を得る！
+   EN: ...So there you have it, everyone! The / eclipse is upon us tomorrow! If my / reasoning is correct, that's when the / Demon King gains his true power!
+>> 47.54 | Dr. Saotome | {p}君！ / 言い忘れていたことがある / 恐らく {s}は / 無事に生きとるぞ！
+   EN: {p}-kun! There's / something I forgot to tell you. In all / likelihood, {s} is alive / and well!
+>> 47.55 | {p} | …！
+   EN: ...!
+>> 47.56 | Dr. Saotome | 君が生きていることが その証しだ / 魔王は{s}を「月」と呼び / 君を「太陽」と呼んだのだから！
+   EN: The proof is that you're alive. / After all, the Demon King called / {s} the "moon" and / you the "sun"!
+>> 47.57 | {p} | そっか… 魔王が 僕を / 必要としているってことは… / {s}も / 生きている可能性が高いわけだ！
+   EN: I see... If the Demon King needs me... / then there's a good chance / {s} is still alive too!
+>> 47.58 | Dr. Saotome | 魔王は捕らえた{s}を / 逃がさぬよう 見張っているのだ / そして人々を操り 君を手に / 入れようと しているのだろう
+   EN: The Demon King is keeping watch over / {s} so she can't / escape. And he's probably / controlling people to try to get his / hands on you.
+>> 47.59 | {p} | 僕 {s}を / 助けに始まりの丘に行きます！
+   EN: I'm going to the Hill of Beginnings to / rescue {s}!
+>> 47.60 | Dr. Saotome | いかん！
+   EN: You mustn't!
+>> 47.61 | {p} | どうしてですか！？
+   EN: Why not!?
+>> 47.62 | Akira Fudo | 魔王が おまえを手に入れたがって / いるからさ / それも… 日蝕の前にな！
+   EN: 'Cause the Demon King wants to get / his hands on you. Before the / eclipse, too!
+>> 47.63 | Dr. Saotome | {p}君を手に入れるため / 暴徒達が / 総攻撃を仕掛けてくることが / 予測されるのだ！
+   EN: We expect the rioters to launch an / all-out attack to capture you, / {p}-kun!
+>> 47.64 | Dr. Saotome | 君を魔王の手に / 渡してしまうわけには いかん！ / ここに留まってくれ！
+   EN: We can't let you fall into the Demon / King's hands! Stay here!
+>> 47.65 | {p} | そんな…
+   EN: But...
+>> 47.66 | Akira Fudo | 攻撃隊に参加したいのは / やまやまだが / 俺は おまえを守るため / ここに とどまろうと思う
+   EN: I'd love to join the assault team, but / I'm gonna stay here to protect you.
+>> 47.67 | {p} | ありがとう 明君！
+   EN: Thanks, Akira-kun!
+>> 47.68 | Dr. Saotome | 役割分担は出来たようだな / 慎一君は始まりの丘へ向かう / 攻撃隊に加わってくれたまえ！ / 朱紗君は ここに残り / 守備隊を率いるのだ！ / そして明君は {p}の側を / 決して離れるな！
+   EN: It seems the roles are settled. / Shinichi-kun, join the assault team / headed for the Hill of Beginnings! / Shusha-kun, stay here and lead the / defense team! And Akira-kun, never / leave {p}'s side!
+>> 47.69 | Shinichi | 任せてくれ {s}を / 奪い取ってくるぜ！
+   EN: Leave it to me. I'll snatch / {s} back!
+>> 47.70 | Shusha | 誰も{p}には / 近づけさせないさ！
+   EN: Nobody's getting near / {p}!
+>> 47.71 | Akira Fudo | 万が一の時は / 俺に任せてくれ！
+   EN: If worst comes to worst, leave it to me!
+>> 47.72 | Dr. Saotome | 案ずるな / 万が一など あり得ない！ / 諸君らの力を集結すれば / 何者であっても倒せる！
+   EN: Don't worry, the worst won't come! / Combine all your strength and you / can defeat anyone!
+>> 47.73 | Ryo | 早乙女博士！ 始まりの丘が / 大変なことになってるぜ！ / 暴徒達が続々と集まって / まるで城みたいになってる！
+   EN: Dr. Saotome! Something big is / happening at the Hill of Beginnings! / The rioters keep pouring in, and it's / turned into a castle!
+>> 47.74 | Ryo | 巨大な黒い魔物と戦った後 / 撮影してきたんだ / みんな これを観てくれ
+   EN: We took pictures after fighting the / giant black fiends. Everybody, take / a look.
+>> 47.75 | Ryo | 始まりの丘は 魔王にとって / 特別な意味があるようだ / いつの間にか 黒い魔物が / こんなにたくさん…
+   EN: The Hill of Beginnings seems to mean / something special to the Demon King. / Before we knew it, there were this / many black fiends...
+>> 47.76 | Dr. Saotome | 凄い数だな… / 大きさは どれくらいなのかね？
+   EN: So many of them... How big are they?
+>> 47.77 | Ryo | どいつもこいつも デカいです / ゲッターといい勝負ですよ
+   EN: Every last one of 'em is huge. They're / right up there with Getter in size.
+>> 47.78 | Dr. Saotome | う～む…
+   EN: Hmmm...
+>> 47.79 | Ryo | そして 始まりの丘…
+   EN: And the Hill of Beginnings...
+>> 47.80 | {p} | 前に テレビのニュースで / 祭壇って言ってたのに…！
+   EN: The TV news said it was an altar / before...!
+>> 47.81 | Ryo | それだけ魔王の力が増した…って / ことだ
+   EN: That's how much the Demon King's / power has grown.
+>> 47.82 | Dr. Saotome | 恐るべし 魔王…！！
+   EN: A fearsome foe, this Demon King...!!
+>> 47.83 | Dr. Saotome | 黒い魔物が ゲッターや / メカザウルスなみの大きさならば / リョウ！ / おまえは 先発部隊だ！ / 黒い魔物の注意をひき / 攻撃隊を守ってやってくれ！
+   EN: If the black fiends are as big as / Getter or the Mechasaurus, then / Ryo! You're the vanguard! Draw the / black fiends' attention and protect / the assault team!
+>> 47.84 | Ryo | 了解したぜ！
+   EN: Roger that!
+>> 47.85 | Dr. Saotome | それは素晴らしいアイデアだよ / えん魔くん！ / 閻魔大王！ / 私からも お願いする！
+   EN: That's a splendid idea, Enma-kun! / Great King Enma! I ask this of you / as well!
+>> 47.86 | Dr. Saotome | よし！ / これにて作戦会議を終える！ / 諸君！ 健闘を祈る！
+   EN: Good! That concludes our strategy / meeting! Everyone! Good luck!
+>> 47.87 | Dr. Saotome | うむ！ / 行ってくれるか 慎一君！
+   EN: Good! Will you go, Shinichi-kun?
+>> 47.88 | Ryo | 早乙女博士 先発部隊の準備 / オッケーだぜ！ / ゲッターチーム これより / 始まりの丘に向かいます！
+   EN: Dr. Saotome, the vanguard's all set! / The Getter Team is heading for the / Hill of Beginnings!
+>> 47.89 | Dr. Saotome | うむ！ / 頼んだぞ リョウ！
+   EN: Good! I'm counting on you, Ryo!
+>> 47.90 | {p} | リョウさん 頑張ってね！
+   EN: Good luck, Ryo-san!
+>> 47.91 | Ryo | まかせとけよ！
+   EN: Leave it to me!
+>> 47.92 | Hayato | 俺達を信頼してくれ / {p}！
+   EN: Trust us, {p}!
+>> 47.93 | Musashi | 行ってくるぜぇ～！
+   EN: We're off!
+>> 47.94 | Shusha | 守備隊は ここで待機します / 博士達は 奥の安全な場所に / いてください
+   EN: The defense team will wait here. / Doctor, you all stay somewhere safe / in the back.
+>> 47.95 | Dr. Saotome | うむ よろしくたのむよ
+   EN: Good. I'm counting on you.
+>> 47.96 | Akira Fudo | 信頼してるぜ 朱紗！
+   EN: I'm counting on you, Shusha!
+>> 47.97 | Shusha | ゆっくり休んでいてくれ / {p} / 俺達が ここにいる限り / おまえの出番は ないからな！
+   EN: Get some rest, {p}. As / long as we're here, you won't be / needed!
+>> 47.98 | {p} | ありがとう 朱紗君！
+   EN: Thanks, Shusha-kun!
+>> 47.99 | Dr. Saotome | {p} / 一緒に 奥の部屋へ戻ろう / あそこで 報告を待とうじゃないか
+   EN: {p}, let's go back to the / back room together. We'll wait for / reports there.

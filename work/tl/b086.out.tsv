@@ -64,7 +64,7 @@ r0DE528	Raises one ally's AT
 r0DE540	Always flee normal battles
 r0DE55C	Confuses one enemy
 r0DE570	Charms one enemy
-r0DE584	Puts one foe asleep
+r0DE584	Puts one foe to sleep
 r0DE598	Blinds one enemy
 r0DE5AC	Revives from KO
 r0DE5BC	Cures all ailments except KO

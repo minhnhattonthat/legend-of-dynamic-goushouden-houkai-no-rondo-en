@@ -1,0 +1,1002 @@
+# ch09: Riots, the masked ???, Grade again, regrouping with Akira (archive files f25-f29, story order)
+
+>> 25.00 | Enma-kun | やったぜ！ これで / マジンガーＺが城内に入れる！
+   EN: All right! Now Mazinger Z can get into / the castle!
+>> 25.01 | Koji Kabuto | 城内に突入だ！
+   EN: Storming the castle!
+>> 25.02 | Koji Kabuto | しまった！
+   EN: Oh no!
+>> 25.03 | Shinichi | ふん どうりで / あっさりいくと 思ったぜ！
+   EN: Hmph, figured it was going too easy!
+>> 25.04 | Enma-kun | でも なんとかしないと / まずいなぁ…！
+   EN: But if we don't do something, we're in / trouble...!
+>> 25.05 | Shinichi | しまった…！！
+   EN: Damn...!!
+>> 25.06 | Enma-kun | うわ～！！
+   EN: Whoaaa!!
+>> 25.07 | Researcher | 大変です 弓教授！ / マジンガーＺが 敵に / 捕らえられて しまいました！
+   EN: It's terrible, Professor Yumi! / Mazinger Z has been captured by the / enemy!
+>> 25.08 | {p} | …！？
+   EN: ...!?
+>> 25.09 | Professor Yumi | それで 攻撃隊は…！？
+   EN: And the assault team...!?
+>> 25.10 | Researcher | それが 攻撃隊との通信も / 途絶えてしまいました！
+   EN: We've lost contact with the assault / team too!
+>> 25.11 | {p} | そんな…
+   EN: No...
+>> 25.12 | Professor Yumi | 急いで 対策を / 考えなければならんな… / 厳しい状況だが 君は 決して / ここを出ては いかんぞ！ / みすみす 敵の術中に / はまるような ものだからね
+   EN: We must think of a countermeasure / quickly... It's a grim situation, but / you must not leave here under any / circumstances! It would be walking / right into the enemy's trap.
+>> 25.13 | Professor Yumi | 厳しい状況だが 君は 決して / ここを出ては いかんぞ！ / みすみす 敵の術中に / はまるような ものだからね
+   EN: It's a grim situation, but you must not / leave here under any circumstances! / It would be walking right into the / enemy's trap.
+>> 25.14 | Researcher | 暴徒達が 現れました！ / このホテルに向かって / 進軍中です！
+   EN: The rioters have appeared! / They're marching on this hotel!
+>> 25.15 | Professor Yumi | とうとう来たか… / ハニー君！ / {p}君を 安全な場所に / 連れて行ってくれたまえ！
+   EN: So they've finally come... Honey-kun! / Take {p}-kun / somewhere safe!
+>> 25.16 | Honey Kisaragi | 行きましょ {p}君！
+   EN: Let's go, {p}-kun!
+>> 25.17 | {p} | で でも…！
+   EN: B-but...!
+>> 25.18 | Honey Kisaragi | 行くのよ！
+   EN: We're going!
+>> 25.19 | Honey Kisaragi | いいこと？ 決して この部屋から / 出てはダメよ！ / あたしは 弓教授のところへ戻るわ / 新しい情報が入ったら / 教えに来てあげるから / いい子にしてるのよ！
+   EN: Listen up! Don't you dare leave this / room! I'm going back to Professor / Yumi. When new information comes in, I'll / come tell you, so be a good boy!
+>> 25.20 | Shusha | よし！ / 敵の第一陣は 押さえたぞ！ / だが / 次が来ることは 間違いない！ / みんな 油断するな！
+   EN: All right! We held off the enemy's first / wave! But there's no doubt the next / one's coming! Don't let your guard / down, everyone!
+>> 25.21 | Shusha | {p}！ こんなところで / 何をやってるんだ！ / 君が魔王に奪われたら / 俺達の努力が 水の泡になる！
+   EN: {p}! What are you doing / out here!? If the Demon King takes / you, all our efforts go down the drain!
+>> 25.22 | {p} | …ごめん
+   EN: ...Sorry.
+>> 25.23 | Honey Kisaragi | ダメよ！ 部屋に戻りなさい！！
+   EN: No! Go back to your room!!
+>> 25.24 | Professor Yumi | 部屋に戻りなさい / {p}君！ / 戦況に変化があったら / 必ず 君に知らせるから！
+   EN: Go back to your room, / {p}-kun! If anything / changes in the battle, I'll be sure to / tell you!
+>> 25.25 | Guard | やはり ここに来ましたね…
+   EN: So you came here after all...
+>> 25.26 | {p} | どうしてわかったの？
+   EN: How did you know?
+>> 25.27 | Guard | さぁ…？ / そんなことより こっちへ… / あなたに 渡すものがあります
+   EN: Who can say...? / Never mind that, come this way... I have / something to give you.
+>> 25.28 | Guard | これは地下室の鍵です / 地下室の排水施設から / 科学都市の外に出られますよ… / おいきなさい！ / 始まりの丘へ！！
+   EN: This is the key to the basement. / Through the basement's drainage / system, you can get outside Science / City... Go! To the Hill of Beginnings!!
+>> 25.29 | Guard | 地下室の排水施設から / 科学都市の外に出られますよ… / おいきなさい！ / 始まりの丘へ！！
+   EN: Through the basement's drainage / system, you can get outside Science / City... Go! To the Hill of Beginnings!!
+>> 25.30 | {p} | やっと出口を見つけたぞ！
+   EN: I finally found the exit!
+>> 25.31 | {p} | …！？
+   EN: ...!?
+>> 25.32 | Rioter | へへへっ… 魔王が おまえを / お待ちかねだ！
+   EN: Heh heh heh... The Demon King's been / waiting for you!
+>> 25.33 | Rioter | これで 世界は元に戻る…！ / 再生の太陽よ！ / 我らと共に 始まりの丘へ！！
+   EN: Now the world will go back to how it / was...! / Sun of rebirth! Come with us to the Hill / of Beginnings!!
+>> 25.34 | Rioter | 再生の太陽よ！ / 我らと共に 始まりの丘へ！！
+   EN: Sun of rebirth! Come with us to the Hill / of Beginnings!!
+>> 25.35 | Guard | どうしたのですか / {p}？
+   EN: What's the matter, {p}?
+>> 25.36 | {p} | ガードマンさん！ / あれを見て！
+   EN: Guard-san! Look at that!
+>> 25.37 | Guard | …彼らは あなたを迎えに / 来たのです / 共に参りましょう / 魔王のもとへ！
+   EN: ...They've come to fetch you. Let us / go together, to the Demon King!
+>> 25.38 | Honey Kisaragi | そうは させないわ！
+   EN: Not on my watch!
+>> 25.39 | {p} | ハニー！
+   EN: Honey!
+>> 25.40 | Honey Kisaragi | 手が やけるんだから / {p}君は！ / もうちょっと しっかりなさい！
+   EN: You're such a handful, / {p}-kun! Get it / together a little more!
+>> 25.41 | Guard | 邪魔するか！？
+   EN: You'd interfere!?
+>> 25.42 | Honey Kisaragi | ホント しょうがない子ね！ / さ 行くわよ！
+   EN: Honestly, what a hopeless boy! Come / on, let's go!
+>> 25.43 | {p} | 行くって どこへ？
+   EN: Go? Where?
+>> 25.44 | Honey Kisaragi | 決まってるじゃない！ / 始まりの丘よ！
+   EN: Isn't it obvious? The Hill of Beginnings!
+>> 25.45 | {p} | …ハニー！！ / よぉ～し それじゃ行こう！
+   EN: ...Honey!! All riiight, let's go!
+>> 25.46 | Seiji Hayami | お～い！ / 待ってくれよぉ～！
+   EN: Heeey! Wait for meee!
+>> 25.47 | Seiji Hayami | {p} / 置いてけぼりは ないぜ！
+   EN: {p}, no leaving me behind!
+>> 25.48 | Honey Kisaragi | ごめんね / 忘れてたわけじゃないのよ！
+   EN: Sorry, it's not like we forgot you!
+>> 25.49 | {p} | よぉ～し それじゃ行こう！
+   EN: All riiight, let's go!
+>> 25.50 | Seiji Hayami | ラッキ～！ / これ 我が社の 社用車だぜ！ / この車で / 始まりの丘まで 行こう！
+   EN: Lucky! This is my newspaper's company / car! Let's drive it to the Hill of / Beginnings!
+>> 25.51 | Honey Kisaragi | なんか 幸先いいわね！
+   EN: That's a good omen!
+>> 25.52 | {p} | うん！
+   EN: Yeah!
+>> 25.53 | Honey Kisaragi | …無気味な森ね
+   EN: ...What an eerie forest.
+>> 25.54 | Seiji Hayami | こんなに うすっ気味悪い森には / 来たことないよ…
+   EN: I've never been in a forest this / creepy...
+>> 25.55 | {p} | イヤな感じがするけど / この森を抜けて行くしかないね
+   EN: I've got a bad feeling about this, but / we've got no choice but to go / through this forest.
+>> 25.56 | Honey Kisaragi | ここは あたしの学校！ / 聖チャペル学園よ！ / どうして / こんなところに学校が！？
+   EN: This is my school! St. Chapel Academy! / Why is my school in a place like this!?
+>> 25.57 | {p} | ハニー！ あれを見て！！
+   EN: Honey! Look at that!!
+>> 25.58 | Rioter | あっはっはっは～！ / 燃えろ 燃えろぉ！
+   EN: Ahahahaha! Burn, buuurn!
+>> 25.59 | Rioter | 魔王に逆らう者は 皆殺しだ！
+   EN: Anyone who defies the Demon / King dies!
+>> 25.60 | Rioter | 思い知るがいい！ / 魔王の怒りを！
+   EN: Feel it! The Demon King's wrath!
+>> 25.61 | Seiji Hayami | あいつら なんてことを！ / 止めなくちゃ！
+   EN: What are they doing!? We've gotta / stop them!
+>> 25.62 | Honey Kisaragi | …夏ちゃん！ / 夏ちゃんは どこ！？
+   EN: ...Natsu-chan! Where's Natsu-chan!?
+>> 25.63 | Seiji Hayami | そうだ / 夏ちゃんを助けなくっちゃ！
+   EN: Right, we've gotta save Natsu-chan!
+>> 25.64 | Honey Kisaragi | 夏ちゃん！ / 夏ちゃん！
+   EN: Natsu-chan! Natsu-chan!
+>> 25.65 | Natsuko Aki | …あぁ ハニー！
+   EN: ...Ah, Honey!
+>> 25.66 | Seiji Hayami | おい！ 暴徒達が来るぞ！ / 急いで逃げなきゃ！
+   EN: Hey! The rioters are coming! We've / gotta get out of here, fast!
+>> 25.67 | Honey | 夏ちゃん / ここでジッとしてるのよ！
+   EN: Natsu-chan, stay right here and keep / still!
+>> 25.68 | Natsuko Aki | いいわ がんばって ハニー！
+   EN: Okay, go get 'em, Honey!
+>> 25.69 | {p} | 敵の数が 多過ぎるよ！
+   EN: There are too many of them!
+>> 25.70 | Seiji Hayami | これまでか！？
+   EN: Is this the end!?
+>> 25.71 | Honey | {p}君… ごめんね / あなたを守りきれなかったわ…
+   EN: {p}-kun... I'm sorry. I / couldn't keep you safe...
+>> 25.72 | {p} | ハニー！ / 何を言い出すんだい！？
+   EN: Honey! What are you saying!?
+>> 25.73 | Honey | いい？ 合図をしたら / 夏ちゃんを連れて逃げて！ / ハニーは 自爆します！
+   EN: Listen. When I give the signal, take / Natsu-chan and run! Honey is going / to self-destruct!
+>> 25.74 | {p} | ダメだよ ハニー！
+   EN: No, Honey!
+>> 25.75 | Seiji Hayami | そうだ ハニー！ / あきらめるな！
+   EN: That's right, Honey! Don't give up!
+>> 25.76 | Honey | ごめんね 他に手がないの… / 青児君 / {p}君を お願いね…
+   EN: I'm sorry, there's no other way... / Seiji-kun, take care of / {p}-kun for me...
+>> 25.77 | Natsuko Aki | こっちよ！ 魔王の手先め / あたしを つかまえてごらん！
+   EN: Over here! You lackeys of the Demon / King, catch me if you can!
+>> 25.78 | Honey | 夏ちゃん！？
+   EN: Natsu-chan!?
+>> 25.79 | Natsuko Aki | こっち こっち～！
+   EN: Over here, over heeere!
+>> 25.80 | Honey | 夏ちゃん！ いけない！
+   EN: Natsu-chan! Don't!
+>> 25.81 | Rioter | 見つけたぞ！
+   EN: Found her!
+>> 25.82 | Rioter | 魔王に たてつく愚か者め！ / 逃がすか！
+   EN: Fool who defies the Demon King! You / won't get away!
+>> 25.83 | Natsuko Aki | きゃ～～～～！！
+   EN: KYAAAAAAAA!!
+>> 25.84 | Honey Kisaragi | 夏ちゃん！？
+   EN: Natsu-chan!?
+>> 25.85 | Seiji Hayami | なんてことを…！
+   EN: How could they...!
+>> 25.86 | {p} | おまえら 許さないぞ！
+   EN: I won't forgive you!
+>> 25.87 | Honey Kisaragi | 夏ちゃん… ごめんね…
+   EN: Natsu-chan... I'm sorry...
+>> 25.88 | Shinichi | ここで考えていても しょうがない / とにかく 始まりの丘へ行こう！
+   EN: No use thinking about it here. Anyway, / let's go to the Hill of Beginnings!
+>> 25.89 | ??? | …今のは あるべき世界の姿なの
+   EN: ...That was how the world is meant / to be.
+>> 25.90 | {p} | だ 誰！？
+   EN: Wh-who's there!?
+>> 25.91 | Honey Kisaragi | あるべき世界の姿…って / どういうことなの！？
+   EN: How the world is meant to be... What do / you mean!?
+>> 25.92 | ??? | あなたも 次元連鎖の / 被害者なのよ ハニー / この情景は あなたの世界で / これから起こる 出来事なの…
+   EN: You're a victim of the Dimension Chain / too, Honey. What you just saw is / something that is going to happen in / your world...
+>> 25.93 | Honey Kisaragi | どういう意味！？ / どうして あたしの名前を！？
+   EN: What do you mean!? How do you know / my name!?
+>> 25.94 | ??? | …………
+   EN: ...............
+>> 25.95 | Honey Kisaragi | 答えなさい！！
+   EN: Answer me!!
+>> 25.96 | {p} | もしかして… / 君は {s}！？ / そうだろ / {s}なんだろ！？
+   EN: Could it be... you're {s}!? / That's it, right? You're / {s}, aren't you!?
+>> 25.97 | Honey Kisaragi | 違うわ / {s}じゃないわよ / {s}なら / どうして 姿を現さないの！？
+   EN: No. It isn't {s}. If it were / {s}, why wouldn't she / show herself!?
+>> 25.98 | {p} | ………
+   EN: .........
+>> 25.99 | Honey Kisaragi | 夏ちゃん…？
+   EN: Natsu-chan...?
+>> 26.00 | ??? | 魔王が 世界を連結しなければ… / 今の悲劇が 確実に起こるの…
+   EN: If the Demon King does not link the / worlds... that tragedy is certain to / happen...
+>> 26.01 | Honey Kisaragi | それじゃ / 夏ちゃんは 生きてるの？ / さっきのは 幻！？
+   EN: Then is Natsu-chan alive? Was that / just an illusion!?
+>> 26.02 | ??? | どれが 実際の出来事かは / 魔王にしか解らないわ / でもこれだけは事実よ / 魔王だけが悲劇を回避出来るのよ
+   EN: Only the Demon King knows which / events are real. But this much is / true: only the Demon King can prevent / the tragedy.
+>> 26.03 | Honey Kisaragi | そんな…
+   EN: That's...
+>> 26.04 | {p} | 教えてくれ！ / こんな幻を 僕達に見せて / 魔王はいったい / どうしたいっていうんだよ！？
+   EN: Tell me! Showing us illusions like this... / What on earth does the Demon King / want!?
+>> 26.05 | ??? | 魔王はね 認めて欲しいのよ / 自分の考えを… / あなたが協力すれば / さっきの悲劇は 防げるの…
+   EN: The Demon King wants his ideas to be / accepted, you see... If you / cooperate, the tragedy you just saw / can be prevented...
+>> 26.06 | Honey Kisaragi | …………
+   EN: ...............
+>> 26.07 | ??? | 安心して ハニー / 悲劇は起きないわ…
+   EN: Don't worry, Honey. The tragedy won't / happen...
+>> 26.08 | Honey Kisaragi | どうして / そんなことが 言えるの？
+   EN: How can you say that?
+>> 26.09 | ??? | {p}が / 既に魔王の手の中だから… / そこは {p}のために / 用意された 牢獄 / 無数にある次元のひとつを / 連結した… 次元牢獄！
+   EN: Because {p} is already in / the Demon King's hands... This is a / prison made for {p}. One / of countless dimensions, linked / here... a Dimension Prison!
+>> 26.10 | Seiji Hayami | 次元牢獄だって！？
+   EN: A Dimension Prison!?
+>> 26.11 | Seiji Hayami | どこにも… 出られない！？
+   EN: There's... no way out!?
+>> 26.12 | ??? | もうすぐ 日蝕の時刻… / それまで あなたは次元牢獄の囚人 / 世界の… 仲間達の命運は / もう 尽きたも同然…
+   EN: The eclipse is almost here... Until then, / you're a prisoner of the Dimension / Prison. The world... your friends... / they're as good as doomed...
+>> 26.13 | {p} | そんな… / そんな…
+   EN: No... no...
+>> 26.14 | ??? | 魔王は あなたがいずれ あそこを / 出てくると 知っていたのよ / ただ 手下を使って / それを手助けしただけ…
+   EN: The Demon King knew you'd get out of / there eventually. He just used his / minions to help you along...
+>> 26.15 | {p} | 僕は 魔王の手のひらで / 遊ばされていたのか…
+   EN: So I was playing right into the Demon / King's hands all along...
+>> 26.16 | ??? | 誰も 魔王には逆らえないわ…
+   EN: No one can defy the Demon King...
+>> 26.17 | Seiji Hayami | なんとか出られないかな？
+   EN: Isn't there some way out?
+>> 26.18 | ??? | 無駄よ 次元牢獄の中から / 出ることは 出来ないわ / 外から 仕掛けを / 操作しない限りはね / あたしも… 試したもの…
+   EN: It's no use. You can't get out of the / Dimension Prison from inside. Not / unless someone works the mechanism / from outside. I... tried it too...
+>> 26.19 | {p} | それじゃ やっぱり君は / {s}！？
+   EN: Then you really are {s}!?
+>> 26.20 | ??? | …………
+   EN: ...............
+>> 26.21 | {p} | そうなんだろ…！？
+   EN: You are, aren't you...!?
+>> 26.22 | ??? | いいえ！ / あたしは「破壊の月」！ / そしてあなたは「再生の太陽」！ / 時が来れば ふたりとも / ここから出してもらえるわ…
+   EN: No! I am the "Moon of destruction"! / And you are the "Sun of rebirth"! / When the time comes, we'll both be let / out of here...
+>> 26.23 | {p} | ふざけるな！ / 僕は… 僕は そんなの / 絶対 認めないぞ！
+   EN: Don't mess with me! / I... I'll never accept that!
+>> 26.24 | ??? | …………
+   EN: ...............
+>> 26.25 | {p} | {s}～！！
+   EN: {s}!!
+>> 26.26 | Shusha | ふぅ… どうやら / あらかた片づいたようだ…
+   EN: Phew... Looks like we've mostly / cleaned them up...
+>> 26.27 | Professor Yumi | 朱紗君！ 大変だ！ / {p}君がいない！
+   EN: Shusha-kun! It's terrible! / {p}-kun is gone!
+>> 26.28 | Shusha | …！？
+   EN: ...!?
+>> 26.29 | Professor Yumi | ハニー君と青児君も いないんだ / もしかしたら どこからか / 抜け出したのかも しれないぞ
+   EN: Honey-kun and Seiji-kun are / gone too. / They may have slipped out from / somewhere.
+>> 26.30 | Shusha | …だとすると 始まりの丘に / 向かったのかもしれません / 襲ってきた暴徒達は / あらかた片付けました / これから 始まりの丘に / 向かいます
+   EN: ...In that case, they may have headed / for the Hill of Beginnings. We've / mostly cleaned up the rioters who / attacked. I'll head for the Hill of / Beginnings now.
+>> 26.31 | Professor Yumi | そうしてくれるか！ / …しかし 間に合うかな？
+   EN: Would you!? ...But will you make it / in time?
+>> 26.32 | Great King Enma | ワシに任せろ！ / ふん！
+   EN: Leave it to me! / Hmph!
+>> 26.33 | Great King Enma | ふん！
+   EN: Hmph!
+>> 26.34 | Great King Enma | あんたも 行くかね？ / ふん！
+   EN: You going too, eh? / Hmph!
+>> 26.35 | Great King Enma | 最後に ワシじゃ～！
+   EN: And last, me!
+>> 26.36 | Professor Yumi | 閻魔大王 ありがとう！ / これで 戦局を立て直せる！
+   EN: Thank you, Great King Enma! Now we / can turn the battle around!
+>> 26.37 | Great King Enma | お安いご用だ / ガッハッハ！
+   EN: Easy as pie! Gahaha!
+>> 26.38 | Shusha | {p}君を… / 仲間達を助けなければ…！
+   EN: I have to save {p}-kun... / and our friends...!
+>> 26.39 | Professor Yumi | 朱紗君 後は任せたぞ！
+   EN: Shusha-kun, I'm leaving the rest / to you!
+>> 26.40 | Shusha | …どうやら みんな / この下に いるらしい
+   EN: ...Looks like everyone's down below.
+>> 26.41 | Enma-kun | くっそ～ / 外の様子が 気になるぜ…
+   EN: Dammit, I wanna know what's going on / outside...
+>> 26.42 | Shinichi | 安心しろ / そろそろ 助けが来る頃だ…
+   EN: Relax. Help should be arriving about / now...
+>> 26.43 | Enma-kun | なんだって？ / どうしてわかるんだい？
+   EN: Huh? How do you know?
+>> 26.44 | Shinichi | 真理阿が教えてくれる…
+   EN: Maria tells me...
+>> 26.45 | Shusha | みんな 無事か！？
+   EN: Everyone okay!?
+>> 26.46 | Enma-kun | お～ 待ちかねたぜェ～！
+   EN: Ohh, been waitin' for ya!
+>> 26.47 | Enma-kun | …{p}のヤツが / 飛び出しちまったぁ～？
+   EN: ...{p} ran off on / his own!?
+>> 26.48 | Shusha | 暴徒との戦いの最中 / 混乱に乗じていつの間にか…
+   EN: In the middle of the fight with the / rioters, he used the confusion to / slip out...
+>> 26.49 | Shinichi | はっ！ あいつらしいじゃねぇか / よし！ / 俺達は マジンガーＺを助ける / 朱紗 おまえは / {p}を探してくれ！
+   EN: Ha! That's just like him. / All right! We'll rescue Mazinger Z. / Shusha, you go find / {p}!
+>> 26.50 | {p} | あれ なんだと思う？
+   EN: What do you think that is?
+>> 26.51 | Seiji Hayami | ん？ / 光が射し込んでるみたいだな…
+   EN: Hm? Looks like light shining in...
+>> 26.52 | Honey Kisaragi | まるで太陽ね…
+   EN: Just like the sun...
+>> 26.53 | Honey Kisaragi | ちょっと なに これ～！？
+   EN: Hey, what IS this!?
+>> 26.54 | {p} | うわ～！
+   EN: Whoaaa!
+>> 26.55 | Honey Kisaragi | きゃ～！
+   EN: Kyaaa!
+>> 26.56 | Seiji Hayami | ひぇ～！
+   EN: Eeeek!
+>> 26.57 | Shusha | {p}…？
+   EN: {p}...?
+>> 26.58 | {p} | あれ 朱紗君…？ / ここ…どこ？
+   EN: Huh, Shusha-kun...? Where... are we?
+>> 26.59 | Shusha | 始まりの丘に作られた城の中さ！ / 助けに来たんだよ！
+   EN: Inside the castle built on the Hill of / Beginnings! We came to rescue you!
+>> 26.60 | Seiji Hayami | えっ！？ / それじゃ 俺達…
+   EN: What!? Then we're...
+>> 26.61 | Honey Kisaragi | 助かったのね！？
+   EN: Saved!?
+>> 26.62 | Honey Kisaragi | {p}君 危険だわ！
+   EN: {p}-kun, it's dangerous!
+>> 26.63 | Shusha | そこから離れるんだ！！
+   EN: Get away from there!!
+>> 26.64 | {p} | ここは… 始まりの丘？
+   EN: This is... the Hill of Beginnings?
+>> 26.65 | {s} | そうよ…
+   EN: That's right...
+>> 26.66 | {p} | {s}！
+   EN: {s}!
+>> 26.67 | {s} | 始まりの丘はね 魔王にとって / 特別な場所なの / もっとも力を得やすく / 力を発揮しやすい場所 / あたし達がいた公園 / 覚えてる？
+   EN: The Hill of Beginnings is a special / place for the Demon King. The place / where he most easily gains power and / wields it. Remember the park where / we were?
+>> 26.68 | {p} | …あの公園で 僕らは黒い月を見た
+   EN: ...In that park, we saw the black moon.
+>> 26.69 | {s} | あたし達の世界にある / あの公園と / この世界の この始まりの丘とは / 次元の壁が うすいんだって / それで たまたま公園にいた男女 / あたし達が魔王に選ばれたの…
+   EN: Between that park in our world and / this Hill of Beginnings in this world, / they say the wall between dimensions / is thin. So the boy and girl who just / happened to be in the park... we... / were chosen by the Demon King...
+>> 26.70 | {p} | …！？
+   EN: ...!?
+>> 26.71 | {s} | あたし達が 「破壊の月」と / 「再生の太陽」にされたのは / ま～ったくの偶然だった… / ってわけ！
+   EN: Us being made the "Moon of / destruction" and the "Sun of / rebirth" was pure, total chance, / you see!
+>> 26.72 | {p} | 次元の壁だとか 月とか太陽とか / 破壊とか再生とか…！ / いったい 魔王は / 何をしようとしているんだ！？
+   EN: Walls between dimensions, moons and / suns, destruction and rebirth...! / What on earth is the Demon King trying / to do!?
+>> 26.73 | {s} | 無数にある次元世界… / それらを結合して / 余分なものを破壊し / 再生すること…よ！
+   EN: Join together the countless / dimensional worlds, destroy / whatever is unneeded, and / remake them!
+>> 26.74 | {p} | 日蝕が起きたら 何が始まるの？
+   EN: What starts when the eclipse / happens?
+>> 26.75 | {s} | 魔王は いつでも / 次元を連鎖させることが出来る / でも 真の意味で / それらを  ひとつにするには / より強い力が 必要 / それを可能にしてくれるのが / 日蝕なのよ
+   EN: The Demon King can chain dimensions / together any time he likes. But to / truly make them one, he needs greater / power. / The eclipse is what makes that / possible.
+>> 26.76 | {p} | 日蝕まで… / あと わずかだ…
+   EN: The eclipse... is almost here...
+>> 26.77 | {s} | そうよ… / もうすぐ 世界はひとつになるの
+   EN: That's right... Soon the world will / become one.
+>> 26.78 | {s} | 日蝕と共に / 黒い太陽が出現するわ / その時 魔王は あたし達を / 体内に摂取するの…
+   EN: With the eclipse, a black sun will / appear. Then the Demon King will take / us into his body...
+>> 26.79 | {p} | 体内に摂取だって？ / それって つまり…
+   EN: Take us into his body? You mean...
+>> 26.80 | {s} | あたし達を 食べちゃう… / ってことよ
+   EN: He's going to eat us, that's what.
+>> 26.81 | {p} | …！？
+   EN: ...!?
+>> 26.82 | {s} | 魔王だって あたし達が 素直に / 食べられるとは 思ってないわ / そこで 次元牢獄に閉じ込めたのよ / 世界が ひとつにならないと / どんな悲劇が起こるか？ / それを見せ 納得ずくで食べられて / くれるように…ってね
+   EN: Even the Demon King doesn't think / we'll just let ourselves be eaten. So / he locked us in the Dimension Prison. / What tragedies happen if the world / doesn't become one? He showed us / that, so we'd agree to be eaten.
+>> 26.83 | {p} | ムチャクチャだよ
+   EN: That's insane.
+>> 26.84 | {s} | ムチャクチャなのは / 世界のほうよ / 世界は狂ってる…
+   EN: It's the world that's insane. The world / has gone mad...
+>> 26.85 | {p} | それで どうすれば 魔王の野望を / 阻止 出来るの？
+   EN: So how can we stop the Demon King's / ambition?
+>> 26.86 | {s} | 黒い太陽が照らす その陽の光の / 中に 足を踏み入れれば / あたし達ふたりは 元の世界に / 戻ることが出来るの
+   EN: If we step into the light the black sun / shines, the two of us can go back to / our own world.
+>> 26.87 | {p} | その時がチャンスってわけだね！
+   EN: So that's our chance!
+>> 26.88 | {s} | はははははは…！！ / あなた ホント バカね！ / ここが魔王にとって 重要な場所 / だって 教えてあげたでしょ！？ / あなたが ここに来ることも / 魔王は計算の上よ！
+   EN: Hahahahaha...!! You really are an idiot! / Didn't I tell you this is an important / place for the Demon King!? He planned / on you coming here all along!
+>> 26.89 | {p} | …！？
+   EN: ...!?
+>> 26.90 | {s} | 何もかも / 魔王の策略通りなのよ！ / あたし達 この丘から / 逃げることは 出来ないわ！ / もう 終わり…なの！ / あれをごらんなさい！！
+   EN: Everything is going just as the Demon / King planned! We can't escape from / this hill! It's over...! Look at that!!
+>> 26.91 | Seiji Hayami | 腹減ったなぁ…
+   EN: Man, I'm starving...
+>> 26.92 | Honey Kisaragi | のんきなこと言わないの！
+   EN: This is no time to be so laid-back!
+>> 26.93 | Shusha | そういえば 慎一達は / どうしただろう？ / ここにいてもラチがあかない / 引き返してみようか？
+   EN: Come to think of it, what happened / to Shinichi and the others? We're / getting nowhere here. Want to / head back?
+>> 26.94 | Shinichi | ここまで来て / 装置に近づけないなんて！
+   EN: We came all this way and we can't get / near the device!
+>> 26.95 | Enma-kun | 朱紗なみの / 超能力者でもいれば / 装置に近づかなくても / 操作出来るだろうに… / 連れてくるんだったな…
+   EN: If we had a psychic as strong as / Shusha, he could work it without / getting close... Shoulda brought him...
+>> 26.96 | Enma-kun | お！ 朱紗！ 待ってたぜ！ / あれを なんとかしてくれ！
+   EN: Oh! Shusha! Been waiting for you! Do / something about that!
+>> 26.97 | Shusha | あの装置か？
+   EN: That device?
+>> 26.98 | Shinichi | これでマジンガーＺは / 解放されるはずだ！
+   EN: That should free Mazinger Z!
+>> 26.99 | Enma-kun | …！？ / ちょっと アレ 見ろよ！
+   EN: ...!? Hey, look at that!
+>> 27.00 | Shusha | 急いで 広間に戻ろう！
+   EN: Let's hurry back to the great hall!
+>> 27.01 | Koji Kabuto | やったぜ！ これで動けるぞ！ / マジンガー ゴー！！
+   EN: All right! Now I can move! Mazinger, GO!!
+>> 27.02 | Koji Kabuto | 今度こそ やっつけてやるぜ！
+   EN: This time I'm gonna finish you off!
+>> 27.03 | Koji Kabuto | 月が！？ / とうとう 出やがったか…
+   EN: The moon!? So it's finally come out...
+>> 27.04 | {s} | …ごめんね {p}… / あたし 魔王の考えがわかるのよ / 受け入れたの 魔王を！
+   EN: ...I'm sorry, {p}... I / understand what the Demon King is / thinking. I accepted him!
+>> 27.05 | {p} | …！
+   EN: ...!
+>> 27.06 | {s} | あなたも 地獄地震後の関東を / 見たでしょ！ / ジャックの世界では / あれが現実なのよ！ / 手天童子郎君も / 鬼獄界に戻る宿命なの！ / 朱紗君の世界は 凄ノ王出現と共に / 滅んじゃうのよ！
+   EN: You saw Kanto after the Hellquake / too! In Jack's world, that's reality! / Jiro Shutendo-kun is fated to go back / to the Kigoku World! Shusha-kun's / world will be destroyed when / Susano-oh appears!
+>> 27.07 | {p} | それは… 本当なの？
+   EN: Is that... true?
+>> 27.08 | {s} | 真実だからこそ 新たな世界を / 作り直そうとしているのよ / 誰も苦しまない 憎しみも / 怒りも無い世界をね！
+   EN: It's because it's true that he's trying / to remake the world! A world where / nobody suffers, with no hatred or / anger!
+>> 27.09 | {p} | 作り直す前に すべてを / 壊さなければならない！ / 壊された世界に住む人達は / どうなるんだい！？
+   EN: Before he can remake it, he has to / destroy everything! What happens to / the people living in the worlds he / destroys!?
+>> 27.10 | {s} | 知らないわ！ / そんなこと あたしの / 知ったことじゃないもん！
+   EN: I don't know! / That's none of my business!
+>> 27.11 | {p} | {s}！ / 魔王は間違ってる！！
+   EN: {s}! The Demon King is / wrong!!
+>> 27.12 | {s} | ああ…
+   EN: Ahh...
+>> 27.13 | {p} | {s}…！？
+   EN: {s}...!?
+>> 27.14 | {s} | ああ… / もう 遅いのよ / {p}…
+   EN: Ahh... / It's too late now, {p}...
+>> 27.15 | {p} | 遅くないよ！
+   EN: It's not too late!
+>> 27.16 | {s} | 遅いのだ！！
+   EN: IT IS TOO LATE!!
+>> 27.17 | Grade | もはや「破壊の月」は / 我の中にある！ / おまえも来るのだ / 「再生の太陽」よ…
+   EN: The "Moon of destruction" is already / within me! You will come too, "Sun of / rebirth"...
+>> 27.18 | {p} | …！？
+   EN: ...!?
+>> 27.19 | Grade | 日蝕まで まだ間がある / 黒い太陽の訪れまでに / 我は おまえを食らおう / そして 日蝕の訪れと共に / 崩壊して行く世界の姿を / この丘の上から眺めるのだ…！！
+   EN: There is still time before the eclipse. / Before the black sun comes, I shall / devour you. And as the eclipse / arrives, I shall watch from atop this / hill as the world crumbles...!!
+>> 27.20 | {p} | く 来るな！
+   EN: S-stay back!
+>> 27.21 | Grade | グハハハハハ…！ / 逃げられるものなら / 逃げてみるがよい！
+   EN: Guhahahahaha...! / Run if you can!
+>> 27.22 | {p} | 来るな～！
+   EN: Stay baaack!
+>> 27.23 | Honey Kisaragi | {p}君！
+   EN: {p}-kun!
+>> 27.24 | {p} | ハニー！
+   EN: Honey!
+>> 27.25 | Honey Kisaragi | 大丈夫！ / みんな 無事よ！
+   EN: It's okay! Everyone's safe!
+>> 27.26 | Grade | ほほう これは おもしろい！ / 日蝕までの 余興だ！ / 滅び行く世界の勇者達よ / 我が遊んでやろう！！
+   EN: Oho, how amusing! A little / entertainment before the eclipse! / Heroes of dying worlds, I shall play / with you!!
+>> 27.27 | Grade | 準備は良いか！？ / 滅び行く世界の勇者達よ / 我が遊んでやろう！
+   EN: Are you ready!? / Heroes of dying worlds, I shall play / with you!
+>> 27.28 | Grade | グワ～！！
+   EN: GWAAAH!!
+>> 27.29 | {p} | {s}！ / しっかりして！
+   EN: {s}! Hang in there!
+>> 27.30 | {p} | しっかりして！
+   EN: Hang in there!
+>> 27.31 | {s} | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 27.32 | {p} | 良かった 生きてる！
+   EN: Thank goodness, she's alive!
+>> 27.33 | {s} | {p}… / …時が …来たわ
+   EN: {p}... / ...The time... has come.
+>> 27.34 | {p} | …！？
+   EN: ...!?
+>> 27.35 | {p} | 日蝕が… 始まる…！！ / 黒い太陽が… 現れる…！！
+   EN: The eclipse... is starting...!! The black / sun... is appearing...!!
+>> 27.36 | Honey Kisaragi | {p}！ / 消えた… / 魔王が倒れたから / 自分達の世界に戻ったの…？
+   EN: {p}! / They vanished... / With the Demon King gone, did they go / back to their own world...?
+>> 27.37 | Akira Fudo | {p}！ / 消えた… / 魔王が倒れて / 自分達の世界に戻れたのか…？
+   EN: {p}! / They vanished... / With the Demon King down, did they / make it back to their own world...?
+>> 27.38 | {p} | ここは…？ / {s}？ / …気絶しちゃったのか
+   EN: Where is this...? / {s}? ...She passed out.
+>> 27.39 | {p} | 元の世界に戻ったはずなんだけど / …違うのかな？ / 門土さん達の世界では / 大きな地震で / 関東は 地獄と化していた…
+   EN: We should be back in our own world... / but maybe not? In Mondo-san's / world, a huge earthquake turned / Kanto into Hell...
+>> 27.40 | {p} | もしかして… 元の世界でも / 大地震が起きたのだろうか…
+   EN: Could it be... a huge earthquake / happened in our world too...
+>> 27.41 | {p} | 黒い月！？ / いや 黒い太陽！？
+   EN: A black moon!? No, a black sun!?
+>> 27.42 | {s} | 愚か者め…
+   EN: Fool...
+>> 27.43 | {s} | 我が そう やすやすと倒されると / 思ったか？
+   EN: Did you think I would be defeated so / easily?
+>> 27.44 | {p} | ウッ！
+   EN: Ngh!
+>> 27.45 | Grade | 日蝕が始まり / 我が力は 頂点に達した / 日蝕が終わるまで / 我が力は 維持されたままだ / 貴様の仲間達は / たいしたことはないが / 食卓をうろつく / ハエのようなモノ… / 邪魔されることなく貴様を食らう / ため 食卓を変えたまでよ！
+   EN: The eclipse has begun and my power / has reached its peak. Until the / eclipse ends, my power will hold. Your / friends are nothing much, but / they're like flies buzzing around the / dinner table... I merely changed / tables so I could devour you without / interruption!
+>> 27.46 | Grade | おとなしく 喰われるがいい！ / 我が体内で「破壊の月」が / 貴様を待っているぞ！ / ア～ッハッハッハッハ！
+   EN: Submit quietly and let me devour you! / The "Moon of destruction" awaits you / inside me! Ahahahahaha!
+>> 27.47 | {p} | ハニー！
+   EN: Honey!
+>> 27.48 | Grade | 貴様 どうやって！
+   EN: You! How did you get here!
+>> 27.49 | Honey Kisaragi | {p}君 / もう 大丈夫！
+   EN: {p}-kun, you're / safe now!
+>> 27.50 | {p} | ハニー / いったいどうやって ここへ？
+   EN: Honey, how on earth did you get here?
+>> 27.51 | Honey Kisaragi | 来留間慎一君が あなた達の / 行き場所を 予知したの / そこへ 朱紗真悟君が / テレポートさせてくれたのよ！
+   EN: Shinichi Kuruma-kun foresaw where / you'd gone. And Shingo Shusha-kun / teleported me there!
+>> 27.52 | {p} | それじゃ ここは / 元の世界じゃないんだ！
+   EN: So this isn't our own world after all!
+>> 27.53 | Honey Kisaragi | 魔王の作った ツギハギの世界よ！ / さぁ 魔王！ / キューティーハニーの この剣が / おまえの野望を断ち切ってやる！
+   EN: It's a patchwork world the Demon King / made! Now, Demon King! I, Cutie Honey, / will cut your ambitions to pieces with / this sword!
+>> 27.54 | {p} | 元の世界に戻ったはずなんだけど / …違うのかな？ / 逞馬君達の世界では / 大きな地震で / 関東は 地獄と化していた…
+   EN: We should be back in our own world... / but maybe not? In Takuma-kun's / world, a huge earthquake turned / Kanto into Hell...
+>> 27.55 | Grade | ぐあああ…！ / あと… / あと少しの所だったのに… / ぐぐぐ… おのれ…！ / だが忘れるな！ / これで 終わりではないぞ…！！ / ぐあああああああ！！！！
+   EN: Guaaargh...! / So close... I was so close... Grrr... / Curse you...! But never forget! This / is not the end...!! / GUAAAAAAAAH!!!!
+>> 27.56 | {p} | 慎一君！ / 君のおかげで 助かったよ！
+   EN: Shinichi-kun! You saved us!
+>> 27.57 | Shinichi | 礼を言うなら 俺じゃない / 真理阿だ
+   EN: If you want to thank someone, it's not / me. It's Maria.
+>> 27.58 | {p} | そうだったね！ / ありがとう 真理阿さん！
+   EN: That's right! Thank you, Maria-san!
+>> 27.59 | {p} | 朱紗君！ みんなを テレポート / させてくれて ありがとう！
+   EN: Shusha-kun! Thanks for teleporting / everyone!
+>> 27.60 | Shusha | 俺は もはや凄ノ王ではなく / 英雄王真神だ / 世界と そして仲間のため / 力を使うのは 当然さ！
+   EN: I'm not Susano-oh anymore, I'm the / hero king, the true god. Of course / I'll use my power for the world and my / friends!
+>> 27.61 | {p} | {s}！！
+   EN: {s}!!
+>> 27.62 | Honey Kisaragi | あたしも 夏ちゃんを / 失ったばかりだもん… / あなたの気持ちは よくわかるわ / {p}君…
+   EN: I just lost Natsu-chan too... I know / exactly how you feel, / {p}-kun...
+>> 27.63 | {p} | ………
+   EN: .........
+>> 27.64 | {p} | …ごめんよ ハニー
+   EN: ...I'm sorry, Honey.
+>> 27.65 | Honey Kisaragi | いいのよ
+   EN: It's okay.
+>> 27.66 | Shinichi | 真理阿の声が / 俺に教えてくれたことがある / 魔王が死に 日蝕が続いている / これは / 次元連鎖が崩れた証拠だと…
+   EN: Maria's voice told me something. The / Demon King is dead, but the eclipse / goes on. / She says that's proof the Dimension / Chain is falling apart...
+>> 27.67 | {p} | …！？
+   EN: ...!?
+>> 27.68 | Shinichi | 俺達 みんなが / 元の自分の世界に戻れるんだ！
+   EN: All of us can go back to our own / worlds!
+>> 27.69 | Honey Kisaragi | 魔王が作った / ツギハギの世界から？
+   EN: From the patchwork world the Demon / King made?
+>> 27.70 | Shinichi | そうだ そして そこでは / 本来の運命が俺達を待っている / ツギハギにされた世界が / 修正を始めたんだ！
+   EN: That's right. And there, our true / fates are waiting for us. The / patched-together worlds have / started to set themselves right!
+>> 27.71 | Honey Kisaragi | でも… 本来の運命といっても / 夏ちゃんは…
+   EN: But... even if it's our true fate, / Natsu-chan is...
+>> 27.72 | Shinichi | …生きてるかもしれないぜ？
+   EN: ...She might be alive, you know.
+>> 27.73 | Honey Kisaragi | ホント！？
+   EN: Really!?
+>> 27.74 | Shinichi | あぁ 俺の中に響く真理阿の声も / どんどんと大きくなってきてる / まるで 耳元で 真理阿が 俺を / 呼んでいるみたいに…！！
+   EN: Yeah. Maria's voice echoing inside me / keeps getting louder and louder. It's / like Maria is calling me, right in my / ear...!!
+>> 27.75 | {p} | それじゃ もしかして / 元の世界に戻ったら…！
+   EN: Then maybe, when we get back to our / own world...!
+>> 27.76 | Shinichi | {s}に / 逢えるかもな…！
+   EN: Maybe you'll see {s}...!
+>> 27.77 | Shinichi | 富三郎！
+   EN: Tomisaburo!
+>> 27.78 | Tomisaburo | ほいほい！
+   EN: Yo-ho!
+>> 27.79 | Shinichi | 帰るぞ！ / 真理阿が待ってる…！
+   EN: We're going home! Maria's waiting...!
+>> 27.80 | Tomisaburo | やった～！！
+   EN: Yahooo!!
+>> 27.81 | {p} | 慎一君！ / ありがとう！
+   EN: Shinichi-kun! Thank you!
+>> 27.82 | Honey Kisaragi | 今度は あの人が帰る番のようね / ちゃんと / お別れを言ってらっしゃい
+   EN: Looks like it's his turn to go home now. / Go say a proper goodbye.
+>> 27.83 | Akira Fudo | 次は あいつの番のようだ / 先に 別れを告げてやりな
+   EN: Looks like it's his turn next. Go say / your goodbyes first.
+>> 27.84 | Shusha | 俺の番が 来たようだ
+   EN: Looks like my turn has come.
+>> 27.85 | {p} | 朱紗君…
+   EN: Shusha-kun...
+>> 27.86 | Shusha | 元の世界で 俺が凄ノ王になるか / 英雄王真神になるか？ / それは 誰にもわからない / でも 大丈夫だよ / 俺には 雪代さんがいるから…
+   EN: Back in my world, will I become / Susano-oh, or the hero king, the / true god? Nobody knows. / But it'll be fine. I've got / Yukishiro-san...
+>> 27.87 | Uryu | 俺は もう 世界を変えたいなんて / 思っちゃいない / だから 心配することはないさ / 朱紗
+   EN: I've no wish to change the world / anymore. So there's nothing to worry / about, Shusha.
+>> 27.88 | Mitsurugi | そうだといいけどね / 実はあたし達 幼馴染なのよ！
+   EN: I hope that's true. You know, we're / actually childhood friends!
+>> 27.89 | {p} | へぇ！ それは知らなかったよ！
+   EN: Whoa! I never knew that!
+>> 27.90 | Mitsurugi | 小さい頃は / 一緒に お風呂にも入ったのよ！
+   EN: When we were little, we even took / baths together!
+>> 27.91 | Uryu | おい 何を言い出すんだよ！！
+   EN: Hey, what are you saying!!
+>> 27.92 | {p} | 笑いながら お別れ出来て / 良かったよ 朱紗君…
+   EN: I'm glad we could say goodbye with a / laugh, Shusha-kun...
+>> 27.93 | Koji Kabuto | そろそろ 俺達の番みたい
+   EN: Looks like it's our turn now.
+>> 27.94 | Boss | 今度 光子力研究所に / 遊びに来いよな！
+   EN: Come visit the Photon Power Lab / sometime, ya hear!
+>> 27.95 | Sayaka | {p}君の世界にも / 光子力研究所 あるのかしら？
+   EN: I wonder if there's a Photon Power Lab / in your world too, / {p}-kun?
+>> 27.96 | Koji Kabuto | もしも 光子力研究所があったら / マジンガーＺに乗せてやるよ！
+   EN: If there's a Photon Power Lab, I'll give / you a ride in Mazinger Z!
+>> 27.97 | {p} | うん！ ぜひ！！
+   EN: Yeah! I'd love that!!
+>> 27.98 | Koji Kabuto | それから 俺の特製コロッケも / 食べてくれよな！
+   EN: And you've gotta try my special / croquettes too!
+>> 27.99 | {p} | コロッケ？
+   EN: Croquettes?
+>> 28.00 | Sayaka | こう見えて 甲児君 / お料理 上手なのよ！
+   EN: He may not look it, but Koji-kun's a / great cook!
+>> 28.01 | {p} | 楽しみだな！
+   EN: I can't wait!
+>> 28.02 | Koji Kabuto | 必ずだぜ！ 忘れるなよ！
+   EN: For sure! Don't forget!
+>> 28.03 | {p} | 忘れないよ 甲児君…
+   EN: I won't forget, Koji-kun...
+>> 28.04 | Jiro | 戦鬼と護鬼が / 戻る時だ…って言うんだ
+   EN: Senki and Goki say it's time to go / back...
+>> 28.05 | Goki | 魔王にも 鬼獄界は / 操れなかったようです / 鬼獄界とは 誰かが作った / 内なる世界なのかもしれません
+   EN: It seems even the Demon King could / not control the Kigoku World. / Perhaps the Kigoku World is an inner / world someone created.
+>> 28.06 | Jiro | どんな世界でも / いつか その謎を突き止めるさ！
+   EN: Whatever kind of world it is, someday / I'll get to the bottom of its mystery!
+>> 28.07 | Goki | 私は 常に童子をお護りします
+   EN: I will always protect Doji.
+>> 28.08 | Senki | 俺は 常に戦い続ける…
+   EN: I will always keep fighting...
+>> 28.09 | {p} | あなた達がいれば / 子郎君も安心だね！
+   EN: With you two around, Jiro-kun will / be fine!
+>> 28.10 | Miyuki | イヤよ！
+   EN: No!
+>> 28.11 | Miyuki | 元の世界に戻ったら 鬼獄界へ / 戻らなきゃならないんでしょ！ / 美雪はイヤよ / 子郎君の側を離れない！
+   EN: When we go back to our world, you'll / have to go back to the Kigoku World, / won't you! I won't have it! I won't leave / Jiro-kun's side!
+>> 28.12 | Jiro | 大丈夫だよ / 決して 離れはしないから…
+   EN: It's all right. I'll never leave you...
+>> 28.13 | {p} | そうだよ！ たとえ / 世界が別々でも 想いは一緒さ！
+   EN: That's right! Even if your worlds are / apart, your hearts are together!
+>> 28.14 | Miyuki | うん！ / ありがとう {p}君！
+   EN: Yes! Thank you, {p}-kun!
+>> 28.15 | {p} | ふたりとも おしあわせに！
+   EN: Be happy, you two!
+>> 28.16 | Boss | あばよ {p}！
+   EN: So long, {p}!
+>> 28.17 | Enma-kun | {p}！ / 楽しかったぜ あばよ！
+   EN: {p}! It was a blast. / So long!
+>> 28.18 | {p} | えん魔くん… どうしたの？
+   EN: Enma-kun... What's wrong?
+>> 28.19 | Great King Enma | 涙を見せたくないのじゃよ
+   EN: He doesn't want you to see his tears, / my boy.
+>> 28.20 | Kapaeru | あ ホントだ！ / 泣いてる！
+   EN: Oh, it's true! He's cryin'!
+>> 28.21 | Enma-kun | うるせ～！
+   EN: Shaddap!
+>> 28.22 | Enma-kun | 地獄別荘は / 人間界のどこへでも 行ける / 今度 おまえの学校に / 遊びに行くよ！
+   EN: Hell Villa can go anywhere in the human / world. I'll come hang out at your / school sometime!
+>> 28.23 | Princess Yukiko | 体育倉庫で 待ってるわ！
+   EN: We'll be waiting in the gym storeroom!
+>> 28.24 | {p} | うん！ 必ず行くよ！
+   EN: Yeah! I'll definitely come!
+>> 28.25 | Enma-kun | きっとだぜ！ 約束だぜ！
+   EN: For sure! It's a promise!
+>> 28.26 | {p} | 君達とは 助けたり / 助けられたりだったね！
+   EN: We sure took turns saving each other, / didn't we!
+>> 28.27 | Fukurokoji | なかなか スリルが / ありましたよー
+   EN: It was quite the thrill!
+>> 28.28 | Yamagishi | なんだよ おまえ いつも / 俺の影に 隠れてたじゃん！
+   EN: What're you talkin' about, you were / always hidin' behind me!
+>> 28.29 | Fukurokoji | オヤブン それは言いっこなし
+   EN: Boss, don't bring that up.
+>> 28.30 | Jubei | ともかく {p}君からは / 多くのことを学んだわ！ / あたしも 柳生忍者の末裔として / 見習わなくっちゃ！
+   EN: Anyway, I learned a lot from / {p}-kun! As a / descendant of the Yagyu ninja, I've / got to follow his example!
+>> 28.31 | Yamagishi | 十兵衛は マジメだなぁ～！
+   EN: Jubei, you're so serious!
+>> 28.32 | Fukurokoji | 元の世界に戻ったら / また宿題が待ってるのかなー？
+   EN: When we get back to our world, I / wonder if homework'll be waiting / again?
+>> 28.33 | Yamagishi | そんな心配よりも ヒゲゴジラの / 苛め方 考えようぜ！ / イッヒッヒッヒ…！
+   EN: Never mind that, let's think up ways to / pick on Higegodzilla! Ihhihhihhi...!
+>> 28.34 | {p} | あの人達は / 少しも変らなかったな / でも / それが なんか うれしいや！
+   EN: Those guys didn't change one bit. But / somehow, that makes me happy!
+>> 28.35 | {p} | 門土さん 竜馬さん / いろいろありがとう！
+   EN: Mondo-san, Ryoma-san, thanks for / everything!
+>> 28.36 | Mondo | 俺 帰りたくないんだよな…
+   EN: I don't really wanna go back...
+>> 28.37 | Ryoma | なんでさ 門土！？
+   EN: How come, Mondo!?
+>> 28.38 | Mondo | 魔王が死んで この世界 / 支配者が いないわけだろ？ / なら 俺が…
+   EN: With the Demon King dead, this world's / got no ruler, right? So I could...
+>> 28.39 | Ryoma | まったくも～奪う相手がいなきゃ / つまらないくせにぃ～
+   EN: Oh, come ooon, you'd be bored without / anybody to take it from!
+>> 28.40 | Mondo | 確かに そりゃそうだ！ / いいところに気づいたじゃん！
+   EN: Yeah, that's true! Good thinkin'!
+>> 28.41 | Ryoma | あたりまえじゃん！ / 相棒だぜ！
+   EN: Of course! I'm your partner!
+>> 28.42 | {p} | いいコンビだよね ふたりは！
+   EN: You two make a great team!
+>> 28.43 | Ryoma | そうさ！ / 死んでも離れないのよ～ン！
+   EN: That's right! Not even death will part / us, darling~!
+>> 28.44 | Mondo | おいおい…！
+   EN: Hey, hey...!
+>> 28.45 | Jack | …死んでも…か / もしかしたら 元の世界で / もっと 過酷な運命が / おまえ達を / 待っているかもしれんぞ…
+   EN: ...Not even in death, eh... / An even harsher fate may be awaiting / you two back in your world...
+>> 28.46 | {p} | ジャックさん / たまには 笑いなよ…
+   EN: Jack-san, you should smile once in a / while...
+>> 28.47 | Jack | ………！？
+   EN: .........!?
+>> 28.48 | {p} | ジャックさん / 怒らせちゃったかな…？
+   EN: Did I make Jack-san mad...?
+>> 28.49 | Akira Fudo | {s}が / こんなことになって 残念だよ
+   EN: I'm sorry it turned out like this with / {s}.
+>> 28.50 | {p} | 明君…
+   EN: Akira-kun...
+>> 28.51 | Akira Fudo | もしも 再び同じようなことが / あったとしたら… / 次は 君と一緒に / 行ってみたいな / 違った運命が / 待っているかもしれない…
+   EN: If something like this ever happens / again... next time I'd like to go with / you. A different fate might be / waiting...
+>> 28.52 | {p} | …そうだね / でも もうこんなのは / ゴメンだよ！
+   EN: ...Yeah. / But I've had enough of this kind of / thing!
+>> 28.53 | Akira Fudo | それもそうだ！
+   EN: Fair enough!
+>> 28.54 | {p} | もしも再び…か / 冗談じゃないや！
+   EN: If it ever happens again, huh... No way!
+>> 28.55 | Honey Kisaragi | {p}君… / とうとう あたし達だけね…
+   EN: {p}-kun... It's finally / just us...
+>> 28.56 | {p} | ハニー…
+   EN: Honey...
+>> 28.57 | Danbei | ハニーちゃん…
+   EN: Honey-chan...
+>> 28.58 | Seiji Hayami | 元気出せ…なんて 言えないよな
+   EN: I can't exactly tell you to cheer up...
+>> 28.59 | Honey Kisaragi | 大丈夫よ 青児君 / ハニーは 夏ちゃんのこと / 決して忘れないもん！ / だから… / だから {p}も…ね！
+   EN: It's okay, Seiji-kun. / Honey will never forget Natsu-chan! / So... so you too, / {p}... okay?
+>> 28.60 | {p} | 大丈夫 きっと 夏ちゃん / 無事だよ！
+   EN: It'll be okay. I'm sure Natsu-chan / is safe!
+>> 28.61 | Honey Kisaragi | そうね {p}君！ / 夏ちゃん 元の世界に帰れば / きっと元気だよね！
+   EN: You're right, {p}-kun! / When I get back to my world, I'm sure / Natsu-chan will be just fine!
+>> 28.62 | Seiji Hayami | そうさ！ {s}だって / 君を待ってるよ！
+   EN: That's right! And {s}'s / waiting for you too!
+>> 28.63 | {p} | そうだよね 青児さん！
+   EN: That's right, Seiji-san!
+>> 28.64 | Honey Kisaragi | {p}君！
+   EN: {p}-kun!
+>> 28.65 | {p} | さよなら ハニー！
+   EN: Goodbye, Honey!
+>> 28.66 | Honey Kisaragi | バイバイ！ {p}君！ / さよなら！
+   EN: Bye-bye! {p}-kun! / Goodbye!
+>> 28.67 | Honey Kisaragi | ここは…
+   EN: This is...
+>> 28.68 | Honey Kisaragi | どこも なんともない… / それじゃ あれは やっぱり…！
+   EN: Everything's perfectly fine... Then / that really was...!
+>> 28.69 | Honey Kisaragi | あの世界で… / 夏ちゃんは…
+   EN: In that world... Natsu-chan...
+>> 28.70 | Honey Kisaragi | ハニーを守るため  / 火に焼かれて…
+   EN: burned in the fire to protect Honey...
+>> 28.71 | Natsuko Aki | ハニー！
+   EN: Honey!
+>> 28.72 | Honey Kisaragi | きゃっ！ / な 夏ちゃん！？
+   EN: Eek! N-Natsu-chan!?
+>> 28.73 | Natsuko Aki | なによぉ～ 幽霊でも見るような / 目で見てぇ～！ / ハニーの帰りが遅いから 心配に / なって 迎えにきたのにぃ～！
+   EN: What's with that look? Like you've / seen a ghost!? You were so late / getting back, Honey, I got worried and / came to get you!
+>> 28.74 | Honey Kisaragi | ごめ～ん！ / 夏ちゃん 大好き！
+   EN: I'm sorryyy! Natsu-chan, I love you!
+>> 28.75 | Natsuko Aki | ちょっと どうしたの / ハニー！？
+   EN: Hey, what's gotten into you, Honey!?
+>> 28.76 | Honey Kisaragi | ごめん / しばらく このままでいさせて！
+   EN: Sorry. Just let me stay like this for a / while!
+>> 28.77 | Natsuko Aki | ダメ！
+   EN: No!
+>> 28.78 | Natsuko Aki | 館主の ヒストラーが / 見回りにきちゃう / のんびりしてると / 見つかっちゃうよ！！ / ほら こっちこっち…！
+   EN: Histler, the dorm head, is coming on / her rounds. If you dawdle, she'll / catch us!! Come on, this way, this / way...!
+>> 28.79 | Natsuko Aki | 早く 早くぅ～！
+   EN: Hurry, hurry!
+>> 28.80 | Honey Kisaragi | ありがと 夏ちゃん…
+   EN: Thanks, Natsu-chan...
+>> 28.81 | Natsuko Aki | ちょっと ハニー！ / どこ触ってるの！
+   EN: Hey, Honey! Where do you think you're / touching!?
+>> 28.82 | Honey Kisaragi | うふふ！ / 夏ちゃんのお尻 かわいい～！
+   EN: Tee-hee! Natsu-chan, your butt is / so cute!
+>> 28.83 | {p} | ごめんね {s}… / 僕は 君を 助けることが / 出来なかった…
+   EN: I'm sorry, {s}... / I couldn't save you...
+>> 28.84 | {p} | 元の世界って そんなにイヤな / ところだったのかな…
+   EN: Was our own world really such an awful / place...
+>> 28.85 | {p} | この世界よりは ましだよ / だって… / ここには 君が いない！
+   EN: It's better than this world. Because... / you're not here!
+>> 28.86 | {p} | ここは… / 見覚えが あるけど… / 本当に ここは / 元の世界なんだろうか…？
+   EN: This place... I recognize it, but... is this / really our own world...?
+>> 28.87 | {p} | 本当に ここは / 元の世界なんだろうか…？
+   EN: Is this really our own world...?
+>> 28.88 | {p} | 魔王が 自在に操った世界で / 様々なことが起こった… / でも そこで起こった出来事の / どれが本当の出来事かは / 魔王にしか解らない… / でも…
+   EN: All kinds of things happened in the / world the Demon King controlled at / will... But which of the things that / happened there were real, only the / Demon King knows... / But...
+>> 28.89 | {p} | 僕の腕の中に… / {s}の身体は…無い！ / ってことは…！！ / 世界が 修正を始めたんだ！
+   EN: In my arms... {s}'s body... / isn't here! That means...!! / The world has started to set itself / right!
+>> 28.90 | {p} | 世界が 修正を始めたんだ！
+   EN: The world has started to set itself / right!
+>> 28.91 | {p} | 魔王は 死んだ！ / ツギハギの世界はもう無い！ / 世界は… 修正を始めた…！ / すべて… / すべて 元に戻るんだ！ / すべて 元に戻ったんだ～！
+   EN: The Demon King is dead! The patchwork / world is gone! The world... has / started to set itself right...! / Everything... everything is going back / to how it was! Everything's back to / how it was!
+>> 28.92 | {p} | すべて… / すべて 元に戻るんだ！ / すべて 元に戻ったんだ～！
+   EN: Everything... everything is going back / to how it was! Everything's back to / how it was!
+>> 28.93 | {p} | ハァ… ハァ…
+   EN: *Pant*... *pant*...
+>> 28.94 | {p} | すべて 元に戻ったんだ～！
+   EN: Everything's back to how it was!
+>> 28.95 | {p} | ハァ… ハァ…
+   EN: *Pant*... *pant*...
+>> 28.96 | {p} | 携帯に… / メールが…
+   EN: My phone... got an e-mail...
+>> 28.97 | {p} | メールが…
+   EN: An e-mail...
+>> 28.98 | {p} | 「黒い月が輝く時 / 　お逢いしましょう…」
+   EN: "When the black moon shines, let us / meet..."
+>> 28.99 | Enma-kun | 俺達も 出発しようぜ！
+   EN: Let's head out too!
+>> 29.00 | Shinichi | …どこかに これと似たような / 装置が あるのかもしれないな / それを探し出そう
+   EN: ...There might be another device like / this somewhere. Let's find it.
+>> 29.01 | Enma-kun | {p}が魔王に捕まる前に / 見つけ出さないとな
+   EN: We gotta find it before the Demon King / catches {p}.
+>> 29.02 | Shinichi | 俺達は マジンガーＺを助ける / 朱紗 おまえは / {p}を探してくれ！
+   EN: We'll rescue Mazinger Z. / Shusha, you go find {p}!
+>> 29.03 | Shinichi | 俺達は ゲッターロボを助ける / 朱紗 おまえは / {p}を探してくれ！
+   EN: We'll rescue Getter Robo. / Shusha, you go find {p}!
+>> 29.04 | Shusha | 何の反応も無い…
+   EN: No reaction at all...
+>> 29.05 | Shusha | …ん？ / これは…！？
+   EN: ...Hm? What's this...!?
+>> 29.06 | {p} | そうか… / 僕らは この太陽のレリーフに / 引き寄せられたんだ…
+   EN: I see... We were drawn in by this sun / relief...
+>> 29.07 | Shusha | そうらしいな / どういう仕掛けかは解らないがな
+   EN: Seems that way. Though I've no idea / how the mechanism works.
+>> 29.08 | {p} | ひょっとしたら 月のレリーフから / {s}が助け出せるかも…
+   EN: Maybe we can rescue {s} / through the moon relief...
+>> 29.09 | Akira Fudo | 月が光る…黒い月！？
+   EN: The moon's shining... A black moon!?
+>> 29.10 | Shusha | 気をつけろ！ {p}! / 光の中から出るんだ！！
+   EN: Look out, {p}! Get out of / the light!!
+>> 29.11 | Honey Kisaragi | 月が光る…黒い月！？
+   EN: The moon's shining... A black moon!?
+>> 29.12 | Shusha | ダメだ もう反応しない
+   EN: No good, it won't react anymore.
+>> 29.13 | Ryo Asuka | 違った運命…か
+   EN: A different fate... huh.
+>> 29.14 | Schoolgirl | この学園は もうダメよ / 中には誰も残ってないわ / あなた達も逃げて！！
+   EN: This school's done for. There's no one / left inside. You should run too!!
+>> 29.15 | Honey Kisaragi | 夏ちゃんも きっと / 森の中に逃げているわ / 探してみましょう！
+   EN: I'm sure Natsu-chan ran into the / forest too. Let's look for her!
+>> 29.16 | Honey Kisaragi | 火の勢いが強くて / 中には入れないわ
+   EN: The fire's too strong. We can't get / inside.
+>> 29.17 | {p} | みんな / いろいろ ありがとう！
+   EN: Everyone, thanks for everything!
+>> 29.18 | Ryu Takuma | {p} / 俺 決めたよ！ / いつか俺は 関東を平和で安心して / 暮らせる場所にするんだ / 大人も子供も関係なく / 仲良く暮らせる場所にね！ / 震災砦の / 仲間達といっしょに！！
+   EN: {p}, I've made up my mind! / Someday I'm gonna make Kanto a / place where people can live in peace / and safety. A place where / grown-ups and kids alike can live / together as friends! Together with / my friends at the Quake Fort!!
+>> 29.19 | Jack | 元の世界では / もっとも過酷な運命が / おまえ達を / 待っているかもしれんぞ…
+   EN: Back in your world, the harshest of / fates may be awaiting you...
+>> 29.20 | Ryu Takuma | 平気さ！ / 仲間といっしょならば！
+   EN: No problem! Not as long as I've got my / friends!
+>> 29.21 | Mondo | 俺も 望むところよ！ / たいくつな世界は / こっちから 願い下げだぜ
+   EN: Bring it on, I say! / A boring world? I'll pass, thanks!
+>> 29.22 | Ryoma | あははは… / 門土ったら！
+   EN: Ahahaha... Oh, Mondo!
+>> 29.23 | Jack | ………
+   EN: .........
+>> 29.24 | {p} | どんな世界であれ / みんななら うまくやれるさ！
+   EN: Whatever world it is, you guys will do / just fine!
+>> 29.25 | {p} | まさか！？
+   EN: No way!?
+>> 29.26 | {p} | ホッ… 良かった…
+   EN: Phew... Thank goodness...
+>> 29.27 | {p} | いけね！ / {s}が 待ってる！
+   EN: Oh no! {s}'s waiting!
+>> 29.28 | {s} | おそいよ {p}！ / いつも時間にルーズなんだから！
+   EN: You're late, {p}! You're / never on time!
+>> 29.29 | {p} | い いや… 実は…って / 説明しても伝わるのかな…？
+   EN: W-well, um... the thing is... would she / even understand if I explained...?
+>> 29.30 | {s} | いいわけ無用！ / もう知らない！
+   EN: No excuses! I'm through with you!
+>> 29.31 | {s} | …ちょっと なによ あれ？
+   EN: ...Hey, what's that?
+>> 29.32 | {p} | 黒い月！？ / まさか またアレが！？
+   EN: A black moon!? Don't tell me it's that / again!?
+>> 29.33 | {s} | …なによ それ？ / 見て！ / 月が大きくなって行くわ！
+   EN: ...What are you talking about? / Look! The moon's getting bigger!
+>> 29.34 | {p} | う う～ん… / こ ここは…？ / うっ… 頭が 痛い… / 割れるようだ…
+   EN: Uhh... nnn... Wh-where am I...? Ugh... My / head hurts... Like it's splitting...
+>> 29.35 | {p} | 大丈夫？ しっかりして！
+   EN: Are you okay? Hang in there!
+>> 29.36 | {s} | …あたし達 どうしたの？
+   EN: ...What happened to us?
+>> 29.37 | {p} | 黒い月が… 現れたんだ…！
+   EN: The black moon... appeared...!
+>> 29.38 | {s} | お 思い出したわ…！！
+   EN: I-I remember now...!!
+>> 29.39 | {p} | 人が倒れてる…！
+   EN: There's someone collapsed over / there...!
+>> 29.40 | {s} | え？ でも 公園には あたし達しか / いなかったはずよ！
+   EN: Huh? But we were the only ones in / the park!
+>> 29.41 | {p} | そ そうだね… / う… 頭が… 痛い… / う… 何か大切な事を / 忘れているような… / 解らない…
+   EN: Y-yeah... Ugh... My head... it hurts... / Ugh... I feel like I'm forgetting / something important... I don't know...
+>> 29.42 | {s} | 大丈夫 {p}？
+   EN: Are you okay, {p}?
+>> 29.43 | {p} | …大丈夫だよ / ともかく 様子を見なきゃ…
+   EN: ...I'm okay. Anyway, we should go / check...
+>> 29.44 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you okay!?
+>> 29.45 | Girl | …大丈夫よ
+   EN: ...I'm fine.
+>> 29.46 | {p} | き 君は…？
+   EN: Wh-who are you...?
+>> 29.47 | {s} | ちょっと / なに見とれてるのよ！？ / ほら あっちにも人が / 倒れてるわよ！
+   EN: Hey, what are you staring at!? Look, / there's somebody collapsed over / there too!
+>> 29.48 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you okay!?
+>> 29.49 | {s} | なんだか 頼りない感じの子ね…
+   EN: He seems kind of a pushover...
+>> 29.50 | Boy | ごめん…
+   EN: Sorry...
+>> 29.51 | {s} | 聞こえちゃった？ / ごめんなさい…
+   EN: You heard that? I'm sorry...
+>> 29.52 | Boy | いいんだ / 君達が助けてくれたのかい？
+   EN: It's fine. Did you guys help me?
+>> 29.53 | {p} | 助けたことに…なるのかな？
+   EN: I guess... that counts as helping?
+>> 29.54 | {s} | あたし達も / 何がなんだか わからないのよ
+   EN: We don't know what's going on either.
+>> 29.55 | Boy | そうなんだ / 僕は 不動明 君達は…？
+   EN: I see. I'm Akira Fudo. And you guys / are...?
+>> 29.56 | Girl | あたしは 如月ハニーよ
+   EN: I'm Honey Kisaragi.
+>> 29.57 | {p} | 僕は {p}… / でも 君達 どこかで / 逢ったことが あるような…
+   EN: I'm {p}... / But I feel like I've met you two / somewhere before...
+>> 29.58 | Honey Kisaragi | そうかしら？
+   EN: Have you?
+>> 29.59 | Akira Fudo | …初対面だと思うよ
+   EN: ...I think this is the first time / we've met.
+>> 29.60 | {p} | う～ん なんだろ この感じ… / デジャ・ヴってヤツかな？
+   EN: Hmmm, what is this feeling... Is it that / deja vu thing?
+>> 29.61 | {s} | あたしは {s}よ / よろしくね！
+   EN: I'm {s}. Nice to meet you!
+>> 29.62 | {p} | …すると 明君は / 下校途中だったわけだね
+   EN: ...So, Akira-kun, you were on your way / home from school.
+>> 29.63 | Akira Fudo | 下宿先の 牧村さん家に / 帰る途中だったんだ / 美樹ちゃん / 心配してるだろうなぁ…
+   EN: I was heading back to the Makimuras', / where I board. Miki-chan must be / worried...
+>> 29.64 | Honey Kisaragi | 美樹ちゃんって 彼女？ / いいわね / あたしなんて / 全寮制の 女子校だもん
+   EN: Is Miki-chan your girlfriend? Lucky / you. Me, I'm at an all-girls boarding / school.
+>> 29.65 | {s} | 彼氏 いないの？
+   EN: No boyfriend?
+>> 29.66 | Honey Kisaragi | まわりは 女の子ばっかだもん…
+   EN: It's nothing but girls around me...
+>> 29.67 | {s} | ハニーは どこにいたの？
+   EN: Where were you, Honey?
+>> 29.68 | Honey Kisaragi | ルームメイトと待ち合わせてたの
+   EN: I was meeting my roommate.
+>> 29.69 | Honey Kisaragi | 門限 過ぎると / 寮に戻れなくなっちゃうの / それで…
+   EN: If I miss curfew, I can't get back into / the dorm. So...
+>> 29.70 | {p} | ふたりで / こっそり 寮に戻ろうと？
+   EN: The two of you were going to sneak / back into the dorm?
+>> 29.71 | Honey Kisaragi | うん
+   EN: Uh-huh.
+>> 29.72 | Akira Fudo | あ ちょっとごめんね
+   EN: Oh, excuse me a second.
+>> 29.73 | {p} | …きっと 友達からだよ
+   EN: ...I bet that's from a friend.
+>> 29.74 | Akira Fudo | え？ あ もしもし…
+   EN: Huh? Oh, hello...
+>> 29.75 | {p} | …きっと お父さんからだよ
+   EN: ...I bet that's from your father.
+>> 29.76 | Honey Kisaragi | え？ あ もしもし…
+   EN: Huh? Oh, hello...
+>> 29.77 | Honey Kisaragi | 切れちゃったわ… / なにかあったのかしら…？ / それにしても… どうして / パパからだと 解ったの？
+   EN: It cut off... I wonder if something / happened...? But anyway... how did / you know it was Papa?
+>> 29.78 | Akira Fudo | そうだ！ 僕への電話も！
+   EN: That's right! The call for me too!
+>> 29.79 | {p} | わ わからない…
+   EN: I-I don't know...
+>> 29.80 | Honey Kisaragi | あたし達と 逢ったことがある / ようなことを 言ってたわね…？
+   EN: You said something like you'd met us / before...?
+>> 29.81 | Akira Fudo | なんか 奇妙な感じだよ 君
+   EN: There's something strange about you.
+>> 29.82 | {s} | それじゃ あたしは / ハニーと一緒！ / こんな可愛い女の子と / 一緒に行かせたら… 危険だわ！
+   EN: Then I'm going with Honey! If I let you / go with a girl this cute... it'd be / dangerous!
+>> 29.83 | {p} | ど ど～ゆ～意味だい / {s}？
+   EN: Wh-wh-what's that supposed to mean, / {s}?
+>> 29.84 | {s} | ふ～んだ！ / さ チーム分け完了ね！ / あたしは ハニーと / {p}は明君と一緒に / 行動するの！
+   EN: Hmph! There, teams all set! I'm going / with Honey, and {p}'s / going with Akira-kun!
+>> 29.85 | {s} | ここは / 「始まりの丘」って場所らしいわ / お互い 目的を達成したら / 「始まりの丘」に集合ね！
+   EN: This place is apparently called the / "Hill of Beginnings." Once we've each / done what we came for, we all meet / back at the "Hill of Beginnings"!
+>> 29.86 | {s} | それじゃ 行きましょ ハニー！
+   EN: Well then, let's go, Honey!
+>> 29.87 | Honey Kisaragi | それじゃ みんな / また後でね！
+   EN: Well then, everyone, see you later!
+>> 29.88 | Akira Fudo | {p}君 / 僕らも行こうか？
+   EN: {p}-kun, shall we / go too?
+>> 29.89 | Honey Kisaragi | …ともかく 明らかなのは / あたしはパパの呼ぶ右の道へ / 明君は了君の言っている 左の道へ / 行かなきゃならないことね
+   EN: ...Anyway, one thing's clear: I have to / take the right path, where Papa's / calling me, and Akira-kun has to take / the left path, like Ryo-kun said.
+>> 29.90 | {p} | これじゃ 始まりの丘に / 戻れない…
+   EN: At this rate, we can't get back to the / Hill of Beginnings...
+>> 29.91 | Honey Kisaragi | 行けるところまで / 行ってみましょうよ
+   EN: Let's go as far as we can.
+>> 29.92 | Seiji Hayami | 自動車じゃ 無理だな / 仕方ない 歩こう！
+   EN: No way the car'll make it. Oh well, / let's walk!
+>> 29.93 | {p} | …これじゃ ダメだ…
+   EN: ...This is no good...
+>> 29.94 | Honey Kisaragi | こっちに道があるわ / 行ってみましょうか？
+   EN: There's a road over here. Shall we / try it?
+>> 29.95 | {p} | うん！
+   EN: Yeah!
+>> 29.96 | Honey Kisaragi | ねぇ ねぇ！ / この道 さっきも通らなかった？
+   EN: Hey, hey! Didn't we come down this road / a minute ago?
+>> 29.97 | {p} | やっぱり？ / 僕も そんな気がしてたんだ…
+   EN: You too? I had that feeling as well...
+>> 29.98 | Seiji Hayami | ふぅ… / いったい どうなってるんだろ？
+   EN: Phew... What on earth is going on?
+>> 29.99 | Mysterious Man | まて！
+   EN: Halt!

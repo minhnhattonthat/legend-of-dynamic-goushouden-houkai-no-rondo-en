@@ -1,0 +1,17 @@
+### Issues
+
+#### Critical
+
+None.
+
+#### Important
+
+- **04.03** - JP gist: Perhaps the guards fled because Slum King lost to Jack. - “Didn't the Slum King lose to Jack and run off?” shifts the flight to Slum King, losing Ryoma’s explanation for the deserted checkpoint in 04.02. - Suggested EN: “Maybe they ran off after the Slum King lost to Jack?”
+
+#### Minor (deferred to the polish pass)
+
+- **03.50** - JP gist: Jack versus Slum King is more than Mondo could ask for; his excitement builds. - “That's way more than a fight” makes the escalation unclear and weakens his swagger. - Suggested EN: “Jack against the King! Now that's a fight... Heh, couldn't ask for better!”
+
+### Assessment
+
+`issue` - One local continuity link needs correction; otherwise the chapter preserves its character voices, comedy, Honey’s grief, and the reunion’s emotional payoff.

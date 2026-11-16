@@ -1,0 +1,602 @@
+# ch01: Prologue, the team split, Dr. Kisaragi's lab, Ryoma and Mondo (archive files f00-f02, story order)
+
+>> 00.00 | - | 
+   EN: 
+>> 00.01 | - | {g}を手に入れた
+   EN: Got {g}!
+>> 00.02 | - | {g}円 / 手に入れた
+   EN: Got {g} yen!
+>> 00.03 | - | 何も入っていない
+   EN: There's nothing inside.
+>> 00.04 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしが死にぎわに残した / 魔神はすごいぞ！ / 神となり人類を救う事も / 悪魔となり世界を滅ぼすことも / 自由だ！！ / すべて思いのままなのだ！ / もし君が魔神のパイロットと / 出会う事ができたなら / 君は強力な味方を得る事が / できるだろう！！
+   EN: I am Juzo Kabuto, a scientist who / builds robots. The Demon God I left / behind as I died is something else! It / can become a god and save mankind, / or become a devil and destroy the / world! The choice is yours! It will do / whatever you wish! If you ever meet / the Demon God's pilot, you'll have a / mighty ally on your side!!
+>> 00.05 | Juzo Kabuto | わしは兜十蔵 / ロボット開発の科学者だ / わしの死後 数多くのロボットが / 生み出されたと聞く / 中でも宇宙開発の結果 / 発見されたエネルギー / 微量で膨大なエネルギーになる / 魔法の光体… ゲッター線 / その応用で作られた / ロボットがあると聞く… / わっはっはっは / 見て見たいものだ！ / 死してなお ロボット開発に / 興味が尽きんからな！！
+   EN: I am Juzo Kabuto, a scientist who / builds robots. I hear that after my / death, many robots were born. Among / them, I hear, is one built on an / energy found through space / research: a magic light where a mere / trace gives enormous power... Getter / Rays! Wahahaha! I'd love to see it! / Even dead, I can't get enough of / robot building!!
+>> 00.06 | - | はい / いいえ
+   EN: Yes / No
+>> 00.07 | {p} | メールが届いた… / 何だろう？ / 「黒い月が輝く時 / 　お逢いしましょう」…だって？ / なんのことだろう？
+   EN: Got an e-mail... What's this? "When the / black moon shines, let us meet"... / huh? What's that supposed to mean?
+>> 00.08 | {p} | いけね！ / だいぶ遅くなっちゃった！
+   EN: Oh no! I'm way late!
+>> 00.09 | ??? | おそいよ {p}！ / まったく / あたしを誰だと思ってるのよ！？
+   EN: You're late, {p}! / Honestly! Who do you think I am!?
+>> 00.10 | {p} | 誰…って
+   EN: Who... well...
+>> 00.11 | {p} | {s}だろ？
+   EN: You're {s}, right?
+>> 00.12 | {s} | わかってるじゃない / それなのに こんなに待たせて！ / だいたい {p}は / いつも 時間にルーズなのよね！
+   EN: So you DO know! And still you keep me / waiting this long! You're always so / sloppy about time, {p}!
+>> 00.13 | {p} | だって 急に呼び出すんだもん… / 僕にも 予定が…
+   EN: But you called me out of nowhere... I / had plans too...
+>> 00.14 | {s} | いいわけ無用！ もう知らない！
+   EN: No excuses! I'm through with you!
+>> 00.15 | {p} | 怒らないでよ！ / ところで 話したいことがある… / って なんなの？
+   EN: Don't be mad! / So, what's this thing you wanted to / talk about?
+>> 00.16 | {s} | え えっとぉ… / じつはぁ…
+   EN: W-well, um... the thing is...
+>> 00.17 | {s} | 今まで 黙ってたんだけど…
+   EN: I've been keeping quiet about it, but...
+>> 00.18 | {s} | ちょっとぉ 聞いてるのぉ！？ / 何メールなんか見てるのよ！
+   EN: Hey! Are you even listening!? Why are / you looking at e-mail!?
+>> 00.19 | {p} | い いや / 黒い月が…って
+   EN: N-no, it says... a black moon...
+>> 00.20 | {s} | 黒い月？ 何言ってるの？ / 月が黒いわけないじゃん！
+   EN: A black moon? What are you on about? / The moon can't be black!
+>> 00.21 | {s} | …え？
+   EN: ...Huh?
+>> 00.22 | {s} | …ちょっと なによ あれ？
+   EN: ...Hey, what's THAT?
+>> 00.23 | {p} | 「黒い月が輝く時 / 　お逢いしましょう」…
+   EN: "When the black moon shines, let us / meet"...
+>> 00.24 | {s} | …なによ それ？
+   EN: ...What's that?
+>> 00.25 | {p} | さっき 届いたメールの内容だよ
+   EN: It's the e-mail I just got.
+>> 00.26 | {s} | 見て！ 月が… / 黒い月が 大きくなって行くわ！
+   EN: Look! The moon... The black moon is / getting bigger!
+>> 00.27 | {p} | 地震だ！ / うわ～！！
+   EN: An earthquake! / Whoaaa!!
+>> 00.28 | {s} | きゃ～！
+   EN: Kyaaa!
+>> 00.29 | {p} | 地震だ！ / 次元連鎖が再び始まる！？ / そんな バカな！！
+   EN: An earthquake! / The Dimension Chain is starting again!? / No, that's impossible!!
+>> 00.30 | {p} | こ ここは…？ / いったい何が起こったんだろう？
+   EN: Wh-where am I...? What on earth / happened?
+>> 00.31 | {p} | だ 大丈夫？ / {s}！ しっかりして！
+   EN: A-are you okay? {s}! / Hang in there!
+>> 00.32 | {s} | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 00.33 | {p} | 良かった！ / 気がついたみたいだね！
+   EN: Thank goodness! Looks like you've / come to!
+>> 00.34 | {s} | あたし達 どうしたの？
+   EN: What happened to us?
+>> 00.35 | {p} | わからない / 月が黒くなって… それから…
+   EN: I don't know. The moon went black... / and then...
+>> 00.36 | {p} | あ 人が倒れてる…！
+   EN: Hey, someone's lying there...!
+>> 00.37 | {s} | …でも 公園には あたし達しか / いなかったはずよ！
+   EN: ...But there was nobody in the park / but the two of us!
+>> 00.38 | {p} | ともかく 様子を見てみなきゃ…
+   EN: Anyway, we'd better see how they / are...
+>> 00.39 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you all right!?
+>> 00.40 | Girl | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 00.41 | Girl | …大丈夫よ
+   EN: ...I'm all right.
+>> 00.42 | {p} | か 可愛い…
+   EN: Sh-she's cute...
+>> 00.43 | {s} | ちょっと！ / なに 赤くなってるのよ！ / ほら / あっちにも 人が倒れてるわよ！
+   EN: Hey! What are you blushing for!? / Look, there's someone lying over / there too!
+>> 00.44 | {p} | 君！ 大丈夫かい！？
+   EN: Hey! Are you all right!?
+>> 00.45 | Boy | …う う～ん…
+   EN: ...Uhh... nnn...
+>> 00.46 | {s} | いい男だけど / なんだか 頼りない感じの子ね…
+   EN: He's good-looking, but he seems kind / of a pushover...
+>> 00.47 | Boy | ごめん…
+   EN: Sorry...
+>> 00.48 | {s} | あ あら 聞こえてたの！ / ごめんなさい…
+   EN: Oh, d-did you hear that!? I'm sorry...
+>> 00.49 | Boy | いいんだ / 君達が 助けてくれたのかい？
+   EN: It's fine. Did you two save us?
+>> 00.50 | {p} | 助けた…ってわけでも / ないんだけど…
+   EN: Well, I wouldn't really call it saving...
+>> 00.51 | {s} | あたし達も / 何がなんだか わからないのよ
+   EN: We don't know what's going on either!
+>> 00.52 | Boy | そうなんだ / 僕は 不動明 / 君達は…？
+   EN: I see. / I'm Akira Fudo. And you two are...?
+>> 00.53 | Girl | あたしは 如月ハニーよ
+   EN: I'm Honey Kisaragi.
+>> 00.54 | {p} | 僕は {p}
+   EN: I'm {p}.
+>> 00.55 | {s} | あたしは {s}よ / よろしくね！
+   EN: And I'm {s}. Nice to / meet you!
+>> 00.56 | {p} | …すると 明君は / 下校途中だったわけだね
+   EN: ...So, Akira-kun, you were on your way / home from school?
+>> 00.57 | Akira Fudo | 下宿先の 牧村さん家に / 帰る途中だったんだ / 美樹ちゃん / 心配してるだろうなぁ…
+   EN: I was heading back to the Makimuras', / where I board. Miki-chan must be / worried sick...
+>> 00.58 | Honey Kisaragi | 美樹ちゃんって 彼女？ / いいわね / あたしなんて / 全寮制の 女子校だもん
+   EN: Miki-chan... your girlfriend? Lucky! Me, / I'm at an all-girls boarding school.
+>> 00.59 | {s} | 彼氏 いないの？
+   EN: No boyfriend?
+>> 00.60 | Honey Kisaragi | まわりは 女の子ばっかだから…
+   EN: It's nothing but girls around me...
+>> 00.61 | {s} | ハニーは どこにいたの？
+   EN: Where were you, Honey?
+>> 00.62 | Honey Kisaragi | ルームメイトと待ち合わせてたの / 門限 過ぎると / 寮に戻れなくなっちゃうから…
+   EN: I was meeting my roommate. / If we miss curfew, we're locked out of / the dorm...
+>> 00.63 | {p} | ふたりで / こっそり 寮に戻ろうと？
+   EN: So you two were sneaking back into / the dorm together?
+>> 00.64 | Honey Kisaragi | うん
+   EN: Uh-huh.
+>> 00.65 | Akira Fudo | あ ちょっとごめんね / もしもし…
+   EN: Oh, sorry, one sec. Hello...?
+>> 00.66 | Ryo Asuka | {!R}明 おまえに用が出来た / 俺の家まで来てくれ / 左の道を進めば 俺の家に着く{!W}
+   EN: {!R}Akira, I need you. Come to my house. / Take the left path and you'll reach / it.{!W}
+>> 00.67 | Akira Fudo | ちょっと待ってよ / じ 実は俺 弱ってんだ その…
+   EN: Hold on! A-actually, I'm kind of in a bind / here, you see...
+>> 00.68 | Ryo Asuka | {!R}俺の用のほうが 重要だ / 来い{!W}
+   EN: {!R}My business is more important. Come.{!W}
+>> 00.69 | Akira Fudo | まったく 了のヤツ… / 親友の 飛鳥了ってヤツが / 僕のことを 呼んでるんだ / 強引なんで 困っちゃうよ
+   EN: Geez, that Ryo... / My best friend, Ryo Asuka, is / calling for me. He's so pushy, it / drives me nuts.
+>> 00.70 | Honey Kisaragi | あら パパからだわ！ / もしもし…
+   EN: Oh, it's from Papa! Hello...?
+>> 00.71 | Dr. Kisaragi | {!R}ハニー 来てくれ ハニー{!W}
+   EN: {!R}Honey, come to me... Honey...{!W}
+>> 00.72 | Honey Kisaragi | パパ！ いったい どうしたの？
+   EN: Papa! What's wrong!?
+>> 00.73 | Dr. Kisaragi | {!R}ハニー 来てくれ ハニー / 右の道を進めば / 私の研究所へ 着くはずだ / ハニー 来てくれ ハニー{!W}
+   EN: {!R}Honey, come to me... Honey... / Take the right path and you should / reach my laboratory. Honey, come to / me... Honey...{!W}
+>> 00.74 | Honey Kisaragi | 切れちゃったわ… / なにかあったのかしら…？
+   EN: It cut off... Did something happen...?
+>> 00.75 | {p} | そうだ！ / これを見てよ！
+   EN: Oh, right! Look at this!
+>> 00.76 | Akira Fudo | どれどれ？
+   EN: Let's see...
+>> 00.77 | Honey Kisaragi | 「黒い月が輝く時 / 　お逢いしましょう」…？
+   EN: "When the black moon shines, let us / meet"...?
+>> 00.78 | Akira Fudo | そういえば…！
+   EN: Now that you mention it...!
+>> 00.79 | Honey Kisaragi | あたしも見たわ…！
+   EN: I saw it too...!
+>> 00.80 | {p} | なんだって！？
+   EN: What!?
+>> 00.81 | {s} | あなた達も 黒い月を…！？
+   EN: You two saw the black moon...!?
+>> 00.82 | {p} | あれ！？
+   EN: Huh!?
+>> 00.83 | {s} | どうしたの？
+   EN: What's wrong?
+>> 00.84 | {p} | 僕の携帯だけ 圏外になってる…
+   EN: Only my phone has no signal...
+>> 00.85 | Akira Fudo | 僕のも 圏外になってる…
+   EN: Mine has no signal either...
+>> 00.86 | Honey Kisaragi | あたしのもよ…
+   EN: Mine too...
+>> 00.87 | {s} | うそ！ さっき 電話が かかって / きたじゃない…！
+   EN: No way! You both just got calls a / second ago!
+>> 00.88 | Honey Kisaragi | ともかく / はっきりしていることは… / あたしは右の道へ 明君は左の道へ / 行かなきゃならないことね
+   EN: Anyway, one thing's clear... I have to / take the right path, and Akira-kun / has to take the left.
+>> 00.89 | Akira Fudo | …ひとりで行くの！？
+   EN: ...You're going alone!?
+>> 00.90 | {s} | 大丈夫よ / ひとりで行かせないから！
+   EN: Don't worry! We won't let you go alone!
+>> 00.91 | {s} | 何があるか 解らないもん…
+   EN: Who knows what's out there...
+>> 00.92 | Honey Kisaragi | パパは 右の道を行けって / 言ってたけど / 研究所の近くに / こんな場所は 無かった…
+   EN: Papa said to take the right path, but / there was no place like this near the / lab...
+>> 00.93 | Akira Fudo | 了の家の近くにも / こんな場所は 無かった！
+   EN: There was no place like this near / Ryo's house, either!
+>> 00.94 | Honey Kisaragi | 単独行動は危険…ってことね
+   EN: So going it alone is dangerous... right.
+>> 00.95 | {s} | それじゃ こうしましょ！
+   EN: Then here's the plan!
+>> 00.96 | {s} | 明君と ハニーは それぞれ / 行かなきゃいけない場所がある / そこで 明君チームと / ハニーチームに 別れるの / 目的を達成したら この場所で / 落ち合うのよ どう？
+   EN: Akira-kun and Honey each have / somewhere they have to go. So we / split into Team Akira and Team Honey. / Once we've done what we came for, / we meet back here. How's that?
+>> 00.97 | Akira Fudo | それいいね！
+   EN: Sounds good!
+>> 00.98 | Honey Kisaragi | 賛成！
+   EN: I'm in!
+>> 00.99 | {s} | それじゃ {p}は / 誰と一緒に行く？
+   EN: So, {p}, who are you / going with?
+>> 01.00 | {s} | 明君と 一緒に行くのね？
+   EN: So you're going with Akira-kun?
+>> 01.01 | {s} | ハニーと 一緒に行くのね？
+   EN: So you're going with Honey?
+>> 01.02 | {s} | チーム分け 完了！ / それじゃ え～と…
+   EN: Teams all set! So then, uhh...
+>> 01.03 | {s} | ここは / 「始まりの丘」って場所らしいわ / お互い 目的を達成したら / 「始まりの丘」に集合ね！
+   EN: This place is apparently called the / "Hill of Beginnings." Once we've each / done what we came for, we all meet / back at the "Hill of Beginnings"!
+>> 01.04 | {s} | それじゃ 行きましょ / 明君！
+   EN: Well then, let's go, Akira-kun!
+>> 01.05 | Akira Fudo | う うん / それじゃ みんな また後でね！
+   EN: Y-yeah. Well, see you all later!
+>> 01.06 | Honey Kisaragi | それじゃ 行きましょうか
+   EN: Well then, shall we go?
+>> 01.07 | {p} | じ 地震だ！
+   EN: Wh-whoa, an earthquake!
+>> 01.08 | Honey Kisaragi | きゃ～！！
+   EN: Kyaaa!!
+>> 01.09 | {p} | …道が 塞がれちゃった！ / 「始まりの丘」に戻れない！
+   EN: ...The path's blocked off! We can't get / back to the "Hill of Beginnings"!
+>> 01.10 | Honey Kisaragi | 困ったわね… / ともかく 先を急ぎましょう / 山を降りたら / きっと 別の道が あると思うの
+   EN: What a pickle... Anyway, let's hurry on. / Once we're down the mountain, I'm / sure there'll be another way back.
+>> 01.11 | Akira Fudo | だ だいたいさ 右だの左だのって / どうして 僕達の場所が / わかるんだ？
+   EN: B-but seriously, all this "go right," / "go left"... How do they even know / where we are?
+>> 01.12 | Akira Fudo | だ だから / どうして 僕達の場所が…
+   EN: L-like I said, how do they know / where we...
+>> 01.13 | Honey Kisaragi | つべこべ いってる場合じゃ / ないでしょ！ / それしかないんだから！
+   EN: This is no time to argue! It's the only / lead we've got!
+>> 01.14 | Akira Fudo | 了は 左の道を進めって言ってた… / こっちじゃないよ
+   EN: Ryo said to take the left path... This / isn't it.
+>> 01.15 | Honey Kisaragi | パパは 右の道を進めば / 研究所に着くって言ってたわ / こっちじゃないわね
+   EN: Papa said the right path leads to the / laboratory. This isn't it.
+>> 01.16 | Akira Fudo | とりあえず 了を探さないと… / 家の中に行こう
+   EN: First I've got to find Ryo... Let's go / into the house.
+>> 01.17 | Honey Kisaragi | パパが危ない！ / 研究所に急ぎましょう！
+   EN: Papa's in danger! Let's hurry to the / laboratory!
+>> 01.18 | Honey Kisaragi | 不思議だわ こんなところに / どうして パパの研究所が…？
+   EN: How strange... Why would Papa's / laboratory be in a place like this...?
+>> 01.19 | Dr. Kisaragi | {!R}ハニー 来てくれ ハニー！{!W}
+   EN: {!R}Honey, come quickly, Honey!{!W}
+>> 01.20 | Honey Kisaragi | どうして / パパの声が 聞こえるの？
+   EN: Why can I hear Papa's voice?
+>> 01.21 | Dr. Kisaragi | {!R}ハニーのイヤリングは / トランシーバーだ / 急いでくれ ハニー / 私はパンサークローに狙われた！{!W}
+   EN: {!R}Your earrings are a transceiver, / Honey. Hurry! Panther Claw is after / me!{!W}
+>> 01.22 | Honey Kisaragi | パンサークロー？
+   EN: Panther Claw?
+>> 01.23 | Dr. Kisaragi | {!R}恐ろしい敵だ！ / 私の命が 危ない！ / 急いでくれ ハニー！{!W}
+   EN: {!R}A terrifying enemy! My life is in danger! / Hurry, Honey!{!W}
+>> 01.24 | Honey Kisaragi | 大変だわ！ / パパを 助けなくっちゃ！
+   EN: Oh no! I've got to save Papa!
+>> 01.25 | {p} | 何をするんだ！
+   EN: What do you think you're doing!?
+>> 01.26 | Honey Kisaragi | きゃ～！
+   EN: Kyaaa!
+>> 01.27 | Dr. Kisaragi | {!R}大丈夫だ ハニー / 首のハートを つまんで / ハニーフラッシュ！ / と 叫びなさい！{!W}
+   EN: {!R}Don't worry, Honey. Pinch the heart at / your throat and shout "Honey / Flash!"{!W}
+>> 01.28 | Honey Kisaragi | ハートをつまんで？ / ハニーッ フラッシュ！
+   EN: Pinch the heart? / Honey... FLASH!
+>> 01.29 | Cutie Honey | わ 私は一体…？
+   EN: Wh-what am I...?
+>> 01.30 | Cutie Honey | パパ 私は一体何者なの？ / なぜ こんな力があるの？ / 答えて パパ…！
+   EN: Papa, what am I, really? Why do I have / this power? Answer me, Papa...!
+>> 01.31 | Cutie Honey | 急がないと… パパが危ないわ！
+   EN: I have to hurry... Papa's in danger!
+>> 01.32 | Honey Kisaragi | パパ！
+   EN: Papa!
+>> 01.33 | {p} | パパ？ 大変だ！
+   EN: Her papa? Oh no!
+>> 01.34 | Dr. Kisaragi | ハニー / 私のハニー…
+   EN: Honey... My Honey...
+>> 01.35 | Honey Kisaragi | パパ～！
+   EN: Papaaa!
+>> 01.36 | Dr. Kisaragi | {!R}うろたえるな ハニー{!W}
+   EN: {!R}Don't be alarmed, Honey.{!W}
+>> 01.37 | Dr. Kisaragi | {!R}私は 死んだ / だが 死してなお 話しておかねば / ならんことがある！ / ハニーの秘密を！{!W}
+   EN: {!R}I am dead. / But even in death, there is something I / must tell you! Honey's secret!{!W}
+>> 01.38 | Honey Kisaragi | ハニーの秘密？
+   EN: Honey's secret?
+>> 01.39 | Dr. Kisaragi | {!R}ハニー おいで 私の部屋へ / 地下室の奥で / パパは おまえを待っている…{!W}
+   EN: {!R}Come, Honey, to my room. / Deep in the basement, Papa is waiting / for you...{!W}
+>> 01.40 | Honey Kisaragi | パパが 呼んでるわ / 地下室で 私を待ってるの
+   EN: Papa's calling me. He's waiting for me in / the basement.
+>> 01.41 | {p} | よし 地下室へ行こう！
+   EN: Right, to the basement!
+>> 01.42 | Honey Kisaragi | まっ！ あなた誰？
+   EN: Oh! Who are you?
+>> 01.43 | Man | いや ご安心 / 悪いヤツじゃない
+   EN: Now, now, relax. I'm not a bad guy.
+>> 01.44 | Honey Kisaragi | 悪人でないことは わかるわ
+   EN: I can tell you're not a villain.
+>> 01.45 | Seiji Hayami | 国際結社パンサークローに / ついては / 俺も 新聞記者として / 関心があるんだ / 一緒に行ってもいいかな？ / 博士の仇討ちに協力させてくれ！
+   EN: As a newspaper reporter, I've got my / own interest in the international / syndicate Panther Claw. Mind if I tag / along? Let me help you avenge the / doctor!
+>> 01.46 | Seiji Hayami | 新聞記者の 早見青児ですよ / はっはっは / 博士のインタビュー中に / パンサークローに襲われまして
+   EN: Seiji Hayami, newspaper reporter! / Hahaha! Panther Claw jumped us while / I was interviewing the doctor.
+>> 01.47 | Dr. Kisaragi | やぁ ハニー
+   EN: Hello there, Honey.
+>> 01.48 | Honey Kisaragi | …ロボット？
+   EN: ...A robot?
+>> 01.49 | Dr. Kisaragi | そうだ だが ハニーのような / 完全な アンドロイドではない
+   EN: Yes. But not a perfect android like / you, Honey.
+>> 01.50 | Honey Kisaragi | アンドロイド？ / ハニーは 人間ではないの？
+   EN: An android? Honey... isn't human?
+>> 01.51 | {p} & Seiji Hayami | え～っ！？
+   EN: Whaaat!?
+>> 01.52 | Dr. Kisaragi | 君の身体は / 私の全頭脳と 情熱と 愛情の / すべてをかけて作ったものだ / 君の身体の ひとつひとつが / 髪の毛一本一本まで / すべてが / 私の愛の結晶なのだ！
+   EN: Your body is something I built with all / my genius, my passion and my love. / Every part of your body, down to / each single hair... all of it is my love, / given form!
+>> 01.53 | Honey Kisaragi | パパ…
+   EN: Papa...
+>> 01.54 | Dr. Kisaragi | ハニーの身体の内部には / 世紀の発明が 隠されている / 空中元素固定装置だ！
+   EN: Hidden inside Honey's body is the / invention of the century: the / Airborne Element Fixer!
+>> 01.55 | Honey Kisaragi | 空中元素固定装置？
+   EN: The Airborne Element Fixer?
+>> 01.56 | Dr. Kisaragi | 空気中の元素を 瞬時に組み合わせ / あらゆる物質を 作り出す装置だ / ダイヤモンドとて 無限に作れる
+   EN: A device that instantly combines the / elements in the air to create any / substance at all. It could even make / diamonds without limit.
+>> 01.57 | Seiji Hayami | 聞いたか おい？
+   EN: Hey, did you hear that?
+>> 01.58 | {p} | うん…！
+   EN: Yeah...!
+>> 01.59 | Dr. Kisaragi | それを パンサークローに / 狙われた… / 残忍な パンサークローに / ハニーを奪われたら…
+   EN: That is what Panther Claw is after... If / the cruel Panther Claw were to take / you, Honey...
+>> 01.60 | Honey Kisaragi | 大丈夫 パパ / そのために ハニーに 人間以上の / 力を 与えてくれたんでしょう？ / 負けないわ 悪人なんかに！
+   EN: It's all right, Papa. / That's why you gave Honey more than / human strength, isn't it? I won't lose / to villains!
+>> 01.61 | Dr. Kisaragi | そうだ そのとおりだハニー
+   EN: Yes, that's exactly right, Honey.
+>> 01.62 | Dr. Kisaragi | 行きたまえ ハニー / 私のロボットが壊れた後 / この研究所は 爆破する！
+   EN: Go now, Honey. / Once my robot is destroyed, this / laboratory will self-destruct!
+>> 01.63 | Dr. Kisaragi | この研究所の すべての手がかりを / 敵に つかませないために… / さようなら 永遠に美しいハニー / さようなら…
+   EN: So the enemy can never lay hands on / a single clue here... Farewell, my / eternally beautiful Honey. Farewell...
+>> 01.64 | {p} | さぁ 早く脱出しないと！
+   EN: Come on, we've got to get out of / here fast!
+>> 01.65 | Seiji Hayami | そうだ / 急ごう ハニー！
+   EN: Right, let's hurry, Honey!
+>> 01.66 | Honey Kisaragi | さようなら パパ…
+   EN: Goodbye, Papa...
+>> 01.67 | {p} | ハニー あれを…！
+   EN: Honey, look at that...!
+>> 01.68 | Honey Kisaragi | 黒い月…！？
+   EN: A black moon...!?
+>> 01.69 | Seiji Hayami | え？ あ ホントだ / 月が黒いぞ！？
+   EN: Huh? Oh, you're right. The moon's gone / black!?
+>> 01.70 | {p} | うわ～ ど どうしよ～！
+   EN: Whoaaa! Wh-what do we dooo!?
+>> 01.71 | Honey Kisaragi | いや～～～！！
+   EN: Nooooo!!
+>> 01.72 | Seiji Hayami | …ふたりとも どうしたの？ / うわ！
+   EN: ...What's wrong with you two? / Whoa!
+>> 01.73 | Sister Jill | 如月邱が 爆発したと？ / それで？ 如月が発明した / 空中元素固定装置は どうした？
+   EN: The Kisaragi mansion exploded, / you say? / And? What of the Airborne Element / Fixer Kisaragi invented?
+>> 01.74 | Panther Claw Member | それが まったく何も… / 恐らく 屋敷もろとも…
+   EN: Well, nothing at all, ma'am... Most likely / it went up with the mansion...
+>> 01.75 | Sister Jill | ほほほ 屋敷もろとも / ふっ飛んだと お言いかい？
+   EN: Hohoho! Went up with the mansion, / you say?
+>> 01.76 | Sister Jill | 愚か者めが！
+   EN: You fool!
+>> 01.77 | Sister Jill | 娘だ！ 如月博士の娘が / 超発明の鍵を 握っている！
+   EN: The daughter! Dr. Kisaragi's daughter / holds the key to his great invention!
+>> 01.78 | Sister Jill | 何をぼやぼやしている！ / さっさと 如月博士の娘について / 調べるのだ！
+   EN: Why are you dawdling!? / Find out everything about Dr. / Kisaragi's daughter, at once!
+>> 01.79 | Panther Claw Member | はっ！
+   EN: Yes, ma'am!
+>> 01.80 | ??? | …空中元素固定装置…
+   EN: ...The Airborne Element Fixer...
+>> 01.81 | Seiji Hayami | 大きな地震だったなぁ…
+   EN: That was one big earthquake...
+>> 01.82 | Honey Kisaragi | ホントね それにしても 地震前と / 同じ場所にいて 良かったわ
+   EN: It sure was. Still, I'm glad we ended up / in the same place as before the / quake.
+>> 01.83 | Seiji Hayami | …どういうことだい？
+   EN: ...What do you mean?
+>> 01.84 | {p} | 実は僕達…
+   EN: Actually, we...
+>> 01.85 | Honey Kisaragi | 実は…
+   EN: Actually...
+>> 01.86 | Seiji Hayami | …え～～～！？ / それ ホントかい？ / にわかには 信じがたいなぁ…
+   EN: ...Whaaat!? / Is that for real? That's pretty hard / to swallow...
+>> 01.87 | {p} | あいつ 無事だろうか…？
+   EN: I hope she's okay...
+>> 01.88 | Seiji Hayami | オヤジ…！
+   EN: Pop...!
+>> 01.89 | Honey Kisaragi | お父様…？
+   EN: Your father...?
+>> 01.90 | Seiji Hayami | オヤジの名前は 団兵衛 / この近くに 住んでるんだ
+   EN: My old man's name is Danbei. He lives / near here.
+>> 01.91 | {p} | 揺れがひどかったから 心配だね… / 僕も山を降りて「始まりの丘」に / 戻る道を 知りたいし / とりあえず 山を降りようよ
+   EN: That quake was really bad, so I'm / worried too... / I want to find a way back to the "Hill / of Beginnings" too, so let's head / down the mountain for now.
+>> 01.92 | Seiji Hayami | 良かった！ クルマは無事だ / このクルマで 取材に来たんだよ / さ 乗った 乗った！
+   EN: Great! The car's in one piece. This is / the car I drove up for the interview. / C'mon, hop in, hop in!
+>> 01.93 | {p} | これじゃ 「始まりの丘」に / 戻れない…
+   EN: At this rate, we can't get back to the / "Hill of Beginnings"...
+>> 01.94 | Honey Kisaragi | 明君が ついてるもの / ふたりとも 無事よ！
+   EN: She's got Akira-kun with her. They'll / both be fine!
+>> 01.95 | Seiji Hayami | ひでぇな なんだここは？ / 山のふもとに こんな 廃墟みたい / な場所 あったっけな…
+   EN: Geez, what is this place? / Was there always a ruin like this at the / foot of the mountain...?
+>> 01.96 | Honey Kisaragi | 誰か いないかしら？ / 探して 話を聞いてみましょうよ
+   EN: Isn't there anyone around? Let's find / someone and ask.
+>> 01.97 | Resident | 無法地帯と化した関東で 平和な / 暮らしを望むなんて 無理な話さ
+   EN: Hoping for a peaceful life in Kanto / now it's gone lawless? Not a chance.
+>> 01.98 | Resident | 関東地獄地震の記憶は / まだ 生々しいよ / ちょっとした揺れでも / 寿命が縮まるかと 思っちまう
+   EN: The memory of the Kanto Hellquake is / still fresh. Even a little tremor feels / like it takes years off my life.
+>> 01.99 | Resident | 海の向こうに 離れ離れになった / 家族が待ってる… / 関東が本州と切り離されちまった / こと 知ってるだろ？
+   EN: My family's waiting across the sea, / torn away from me... You know Kanto / got cut off from the rest of Honshu, / right?
+>> 02.00 | Ayuko's Father | 娘の姿が 見えんのだ… / 日本政府が 関東を見捨ててから / 無法者が集まるばかり… / あゆ子のことが 心配だ…
+   EN: I can't find my daughter anywhere... / Ever since the Japanese government / abandoned Kanto, nothing but / outlaws gather here... I'm so worried / about Ayuko...
+>> 02.01 | Resident | 関東地獄地震から数年たったけど / 暮らしは 酷いものだ / 暴力が支配する世界じゃ / 弱者は 苦しむだけだ…
+   EN: It's been a few years since the Kanto / Hellquake, but life's still awful. In a / world ruled by violence, the weak just / suffer...
+>> 02.02 | Honey Kisaragi | この集落 様子が おかしいわよ
+   EN: Something's not right about this / village.
+>> 02.03 | {p} | 大地震が あったみたいだね
+   EN: Looks like there was a huge / earthquake.
+>> 02.04 | Honey Kisaragi | 関東地獄地震？
+   EN: The Kanto Hellquake?
+>> 02.05 | {p} | うん 確かに 大地震から / 数年後…って感じだね
+   EN: Yeah. It sure feels like a few years / after a big quake...
+>> 02.06 | Honey Kisaragi | これも パンサークローのしわざ / かしら？
+   EN: I wonder if this is Panther Claw's / doing too?
+>> 02.07 | Shopkeeper | あんたら 見かけない顔だね… / よそもンだね / この町に住む気が あるのかい？
+   EN: Don't recognize your faces... / Outsiders, huh? You planning to live / in this town?
+>> 02.08 | Mondo | まぁー 気に入りゃな！
+   EN: Meh, if I like it!
+>> 02.09 | Shopkeeper | だったら / 警察に 届け出たほうがいい
+   EN: Then you'd best report to the police.
+>> 02.10 | Mondo | ケ ケーサツ！？ / な なんだそりゃ！ / そんなもん まだアリかよ？
+   EN: P-POLICE!? Wh-what the hell!? That / kinda thing still exists?
+>> 02.11 | Ryoma | 冗談やめようよ / 関東は無法地帯じゃなかったの？
+   EN: Quit joking. Wasn't Kanto supposed to / be lawless?
+>> 02.12 | Honey Kisaragi | あの～ ちょっとすみません / 警察署が あるんですか？
+   EN: Um, excuse me. There's a police / station here?
+>> 02.13 | Shopkeeper | あんたらも 見かけない顔だね？
+   EN: Don't recognize your faces / either, do I?
+>> 02.14 | Honey Kisaragi | えへ… / あたし 如月ハニーって言います
+   EN: Tee-hee... I'm Honey Kisaragi.
+>> 02.15 | {p} | 僕は {p}
+   EN: I'm {p}.
+>> 02.16 | Seiji Hayami | 俺は 早見青児 / 新聞記者です
+   EN: And I'm Seiji Hayami, newspaper / reporter.
+>> 02.17 | Mondo | 新聞記者？
+   EN: A newspaper reporter?
+>> 02.18 | Ryoma | あ こっちもステキ！
+   EN: Ooh, this one's dreamy too!
+>> 02.19 | Seiji Hayami | どきっ！
+   EN: *Ba-dump!*
+>> 02.20 | Mondo | 騙されるなよ 記者さんよ / こいつは男だぜ
+   EN: Don't get fooled, Mr. Reporter. That / one's a guy.
+>> 02.21 | Seiji Hayami | え～！？
+   EN: Whaaat!?
+>> 02.22 | Ryoma | ……
+   EN: ......
+>> 02.23 | Mondo | 新聞記者のくせに 俺達のこと / 知らないのか？ / 過激派「神の牙」の / 早乙女門土と…
+   EN: A newspaper reporter, and you don't / know who we are? Mondo Saotome of / the radicals, the "Fangs of God"...
+>> 02.24 | Ryoma | 身堂竜馬さ…
+   EN: ...and Ryoma Mido.
+>> 02.25 | Seiji Hayami | い～え 知りません
+   EN: Nope. Never heard of you.
+>> 02.26 | Resident | 大変だ！ / ドラゴンが来たぞ！
+   EN: We're in trouble! The Dragons are / coming!
+>> 02.27 | Shopkeeper | なんだって！
+   EN: What!?
+>> 02.28 | Shopkeeper | 死にたくなかったら / あんたらも 早く逃げろ！
+   EN: If you don't wanna die, you'd better / run too!
+>> 02.29 | Resident | 終わりだ！ ドラゴンは アイツを / 追ってきたんだ！ / アイツが この町も滅ぼしちまう！
+   EN: It's over! The Dragons chased HIM / here! He's gonna bring ruin to this / town too!
+>> 02.30 | Mondo | ああ 行くぜ！
+   EN: Yeah, let's go!
+>> 02.31 | {p} | アイツって / いったい 誰のことだろう？
+   EN: "Him"? Who could they mean?
+>> 02.32 | Honey Kisaragi | あたし達も 行ってみましょう！
+   EN: Let's go have a look too!
+>> 02.33 | Ryoma | あ 可愛い！
+   EN: Ooh, she's cute!
+>> 02.34 | Ryoma | 門土？
+   EN: Mondo?
+>> 02.35 | Resident | ひぇぇぇぇ～！
+   EN: Eeeeek!
+>> 02.36 | Resident | ドラゴンだ！ / ドラゴンが来る～！
+   EN: It's the Dragons! The Dragons are / coming!
+>> 02.37 | Resident | た た た たすけてくれ～！
+   EN: H-h-h-help meee!
+>> 02.38 | {p} | な なに！？ / あの でっかい人！
+   EN: Wh-what!? That huge guy!
+>> 02.39 | Mondo | アイツが 関東の怪物と呼ばれる / 大巨人さ
+   EN: That's the giant they call the Monster / of Kanto.
+>> 02.40 | Ryoma | 筋肉はゴリラ！ 牙は狼！ / 燃える瞳は 原始の炎！
+   EN: Muscles of a gorilla! Fangs of a wolf! / Eyes blazing with primal fire!
+>> 02.41 | Mondo | ２メートル２０センチの全身には / 闘争エネルギーが満たされている / その名はジャック！
+   EN: Seven foot two, every inch of him / packed with fighting energy. His / name is Jack!
+>> 02.42 | Ryoma | バイオレンスジャック！
+   EN: Violence Jack!
+>> 02.43 | {p} | バイオレンスジャック…
+   EN: Violence Jack...
+>> 02.44 | Seiji Hayami | こっちに迫ってくるのは？
+   EN: And what's that bearing down on us?
+>> 02.45 | Honey Kisaragi | まるで / 戦国時代の 騎馬武者軍団だわ！
+   EN: It's like a band of mounted warriors / from the Warring States era!
+>> 02.46 | Ryoma | 無法化した関東に / 覇を唱える スラムキング / そのスラムキングが組織した軍団 / ドラゴンさ
+   EN: The Slum King rules lawless Kanto, and / that's the army he put together: the / Dragons.
+>> 02.47 | Jack | グオオオオオオ！！
+   EN: GRAAAAAAH!!
+>> 02.48 | Honey Kisaragi | あの人 ひとりで戦うつもりよ！
+   EN: He's going to fight them all by himself!
+>> 02.49 | Seiji Hayami | ハニー！ まさか 加勢する気か！？ / 相手は 騎馬軍団だぜ！
+   EN: Honey! Don't tell me you're gonna help / him!? They're a whole cavalry!
+>> 02.50 | {p} | だからといって あの巨人を / 見殺しには 出来ない！
+   EN: Even so, we can't just let that / giant die!
+>> 02.51 | Ryoma | どうする 門土？
+   EN: What do we do, Mondo?
+>> 02.52 | Mondo | この関東を牛耳って / 帝王に なるためには / キングとジャック / 二人を倒さなきゃなんねぇ / やつらの力を見ておく / いいチャンスさ
+   EN: If I'm gonna run Kanto and be its / emperor, I gotta take down both the / King and Jack. This is a good chance / to size 'em up.
+>> 02.53 | Ryoma | じゃあ…
+   EN: So then...
+>> 02.54 | Mondo | ああ 高みの見物としゃれこもうぜ / こんな おもしれぇ 見物 / 滅多にねえ！
+   EN: Yeah, let's kick back and enjoy / the show. / A show this good don't come around / often!
+>> 02.55 | Jack | なぜ 俺を助けた？
+   EN: Why did you help me?
+>> 02.56 | {p} | なぜ…って たったひとりじゃ / 殺されちゃうと思って…
+   EN: Why...? Well, I figured you'd get killed / all on your own...
+>> 02.57 | Jack | …………
+   EN: ..........
+>> 02.58 | {p} | な なに？
+   EN: Wh-what?
+>> 02.59 | Jack | 名は… / 名は なんという…？
+   EN: Your name... What is your name...?
+>> 02.60 | {p} | …{p}
+   EN: ...{p}.
+>> 02.61 | Jack | 俺と関ったら ただでは済まんぞ / それでもいいのか！？ / {p}！！
+   EN: Get mixed up with me and you won't / walk away clean. / Are you fine with that!? / {p}!!
+>> 02.62 | {p} | ど どういう意味？
+   EN: Wh-what do you mean?
+>> 02.63 | Mondo | 噂で聞いたぜ そいつの目を見ると / 誰もが おかしくなっちまう / ジャックナイフの光が / 人間の原始を 呼び覚ますのさ
+   EN: Heard the rumors. Look that guy in / the eye and anybody goes nuts. The / gleam of his jackknife wakes up the / primeval in people.
+>> 02.64 | Ryoma | そう ひっそりと暮らしていた / 人間までもが / 戦わずには いられなくなる / 関わり合った人間は / 必ず戦いに巻き込まれていく / それが / バイオレンスジャックさ…！
+   EN: That's right. Even folks living quiet / little lives can't help but fight. / Anyone who gets involved with him gets / dragged into battle, every time. / That's Violence Jack...!
+>> 02.65 | Honey Kisaragi | そ そんな…
+   EN: B-but that's...
+>> 02.66 | Seiji Hayami | 確かに 戦いに / 巻き込まれちゃったもんなぁ…
+   EN: Well, we sure got dragged into a / fight...
+>> 02.67 | {p} | …ほっとけなかったんだ
+   EN: ...I just couldn't leave him.
+>> 02.68 | Jack | ………… / おまえには俺が接したことのない / エネルギーを感じる / しばらく おまえと共にいよう
+   EN: .......... / I sense an energy in you unlike any / I've ever met. I'll stay with you for a / while.
+>> 02.69 | Mondo | そ～ゆ～ことなら / 俺も仲間に 加えてもらうぜ
+   EN: Well, if that's how it is, count me in too.
+>> 02.70 | Ryoma | ちょ ちょっと…！
+   EN: H-hey, wait...!
+>> 02.71 | Ryoma | 門土 いったいどういうつもり？
+   EN: Mondo, what are you thinking?
+>> 02.72 | Mondo | ここは ジャックに / 恩を売っておくのさ / いくら俺でも バケモノ二人を / 相手にするのは きつすぎる / 言うだろ？ / 敵の敵は 味方ってさ
+   EN: We get Jack owing us one. Even I can't / take on two monsters at once, / that's too much. You know what they / say: the enemy of my enemy is my / friend.
+>> 02.73 | Ryoma | まあね…
+   EN: I guess...
+>> 02.74 | {p} | 何を こそこそ…？
+   EN: What are you two whispering about...?
+>> 02.75 | Honey Kisaragi | あなた達…？
+   EN: You two...?
+>> 02.76 | Seiji Hayami | 何か 企んでないか？
+   EN: You aren't plotting something, / are you?
+>> 02.77 | Ryoma | まっさかぁ～ / 考えすぎだよ ねえ？
+   EN: No way! You're overthinking it, right?
+>> 02.78 | Mondo | そうとも！ まともな世界じゃ / 生きられねぇ俺達にとって / この関東は 希望の地！ / ここには 俺達が求めていた / 自由がある！ / おまえ達の戦いぶりを見て / 血が騒いだだけさ！
+   EN: Damn right! For guys like us who can't / live in a normal world, Kanto's the / promised land! / It's got the freedom we've been / looking for! Watching you fight just / got my blood pumping, that's all!
+>> 02.79 | Jack | ふっふっふ… / 果たしてそうかな？ / ここは地獄だぞ？ / はっはっはっはっは…！！
+   EN: Heh heh heh... Is that so? This place is / Hell, you know. Hahahahaha...!!
+>> 02.80 | {p} | 地獄…
+   EN: Hell...
+>> 02.81 | Slum King | ドラゴンが / バイオレンスジャックに敗れた？
+   EN: The Dragons were beaten by / Violence Jack?
+>> 02.82 | Dragon | も 申し訳ありません！！ / 後一歩というところまで / 追い詰めたのですが / 見慣れぬ輩が 邪魔をしまして…
+   EN: F-forgive us!! / We had him cornered, one step from / the kill, but some strangers got in / our way...
+>> 02.83 | Slum King | 見慣れぬ輩…？
+   EN: Strangers...?
+>> 02.84 | Dragon | それがどうも… / こ 子供だったようで…
+   EN: Well, sire... It seems... th-they were / children...
+>> 02.85 | Slum King | ドラゴンが / 子供にやられたと申すのか！？
+   EN: You mean to tell me the Dragons were / beaten by children!?
+>> 02.86 | Dragon | も 申し訳ありません！！
+   EN: F-forgive us!!
+>> 02.87 | Slum King | 言い訳は聞かぬ！
+   EN: I'll hear no excuses!
+>> 02.88 | Slum King | どうした クィーン / 顔色が すぐれぬぞ？
+   EN: What is it, Queen? You look pale.
+>> 02.89 | Slum Queen | …昨夜 夢を見ました / 黒い月と共に 現れた者達が / 世界を滅ぼす夢です / その者達は 少年少女でした / 先程の報告と 夢との奇妙な符合が / 気になります…
+   EN: ...Last night I had a dream. / A dream that those who appeared with / the black moon would destroy the / world. They were a boy and a girl. / The strange match between that / dream and the report just now / troubles me...
+>> 02.90 | Slum King | 案ずるな クィーン！ / 俺が 自ら ドラゴンを率い / バイオレンスジャックを倒す！
+   EN: Fear not, Queen! / I shall lead the Dragons myself and / crush Violence Jack!
+>> 02.91 | Dragon | はは～っ！
+   EN: Yes, sire!
+>> 02.92 | Shopkeeper | あんたら よくドラゴンと戦って / 無事だったねぇ… / でも あのでっかい人 本物の / バイオレンスジャックなのかい？
+   EN: You fought the Dragons and lived, / huh... But that big guy, is he the real / Violence Jack?
+>> 02.93 | Shopkeeper | ほら バイオレンスジャックが / 現れた町は 必ず滅びるって…
+   EN: You know, they say any town Violence / Jack shows up in is doomed...
+>> 02.94 | Mondo | 関東のあちこちで 言われてるな
+   EN: They say that all over Kanto.
+>> 02.95 | Shopkeeper | あゆ子ちゃん 見つかったのか？
+   EN: Did you find Ayuko-chan?
+>> 02.96 | Ayuko's Father | 見つかりはしないが / 居場所は解った… / 死神警察署に / 連行されたらしい…
+   EN: I haven't found her, but I know where / she is... It seems she was taken to / the Reaper Police HQ...
+>> 02.97 | Shopkeeper | な なんだって！？
+   EN: Wh-what!?
+>> 02.98 | {p} | 警察なら むしろ安心なんじゃ？
+   EN: If she's with the police, shouldn't we / be relieved?
+>> 02.99 | Shopkeeper | あんたらは 何も知らんから / そんなことがいえるんだ
+   EN: You only say that because you don't / know anything.

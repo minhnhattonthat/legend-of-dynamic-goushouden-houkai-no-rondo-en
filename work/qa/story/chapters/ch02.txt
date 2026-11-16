@@ -1,0 +1,602 @@
+# ch02: Violence Jack's Kanto, Seiji, Harenchi Gakuen (Jubei, Yamagishi) (archive files f03-f05, story order)
+
+>> 03.00 | Mondo | そりゃそうか / 無法地帯の関東の警察が / ただの警察のわけが ないよな
+   EN: Figures. Cops in lawless Kanto ain't / gonna be just ordinary cops.
+>> 03.01 | Ayuko's Father | ヤツらは 自分の好きなように / 警察権力を 行使してやがる / 法を守るふりをして / この町を 牛耳ってやがるんだ！
+   EN: Those bastards wield police power / however they please! They / pretend to uphold the law while they / run this town!
+>> 03.02 | {p} | なんてヤツらだ！
+   EN: What scumbags!
+>> 03.03 | Mondo | 権威をカサにきてるぶん / ゴキブリより始末が悪いぜ！
+   EN: Hiding behind a badge makes 'em worse / than cockroaches!
+>> 03.04 | Shopkeeper | おまけにヤツらは 強い！
+   EN: And on top of that, they're strong!
+>> 03.05 | {p} | ともかく 放っておくわけには / いかないよ！
+   EN: Anyway, we can't just leave things / like this!
+>> 03.06 | Jack | 死神警察に 殺された者の呻きが / 聞こえる… / ヤツらをひとり残らず殺してくれ / と 風が ささやいている…
+   EN: I hear the groans of those the Reaper / Police have killed... The wind whispers / to me: kill them, every last one...
+>> 03.07 | {p} | ジャック…
+   EN: Jack...
+>> 03.08 | Mondo | 久々に 血が騒いできたぜ…
+   EN: Been a while since my blood got / pumping like this...
+>> 03.09 | Honey Kisaragi | 死神警察 許さない！
+   EN: I won't forgive the Reaper Police!
+>> 03.10 | {p} | よし 行こう！
+   EN: All right, let's go!
+>> 03.11 | Ayuko | だ 誰？
+   EN: Wh-who's there?
+>> 03.12 | {p} | 助けに来たよ もう大丈夫！
+   EN: We came to rescue you. You're / safe now!
+>> 03.13 | Ayuko's Father | あゆ子！
+   EN: Ayuko!
+>> 03.14 | Ayuko | パパ～！
+   EN: Papaaa!
+>> 03.15 | Ayuko's Father | あんた達 なんと お礼を / 言ったらいいやら…
+   EN: I don't know how I can ever thank you / all...
+>> 03.16 | Ayuko's Father | そうだ こうしちゃいられない！ / 大変なんだ / ドラゴンが また現れたんだ！ / それも今度は スラムキングが / ドラゴンを率いている！
+   EN: Oh, right, there's no time for this! / We're in trouble! The Dragons are / back! And this time the Slum King / himself is leading them!
+>> 03.17 | Mondo | なんだって！？
+   EN: What!?
+>> 03.18 | {p} | あゆ子ちゃん達は ここにいて / 僕達で 何とかするしかない！
+   EN: Ayuko-chan, you two stay here. It's / up to us to handle this!
+>> 03.19 | Mondo | ジャックとスラムキングの対決… / 関東の覇者が / この戦いで決まるかもしれない…
+   EN: Jack versus the Slum King... / This fight might decide who rules / Kanto...
+>> 03.20 | {p} | ジャック…！？
+   EN: Jack...!?
+>> 03.21 | Jack | グオオオオオオオ！
+   EN: GRAAAAAAAH!
+>> 03.22 | Ayuko | 今度はスラムキング…？ / やっと助かったと思ったのに…
+   EN: Now it's the Slum King...? And I thought / we were finally safe...
+>> 03.23 | Ayuko's Father | 大変なんだ / ドラゴンが また現れたんだ！ / それも今度は スラムキングが / ドラゴンを率いている！
+   EN: We're in trouble! The Dragons are / back! And this time the Slum King / himself is leading them!
+>> 03.24 | {p} | 助けに来たよ もう大丈夫 / 一緒に ここを出よう！
+   EN: We came to rescue you. You're safe / now. Let's get out of here together!
+>> 03.25 | {p} | 君が あゆ子ちゃんかい？
+   EN: Are you Ayuko-chan?
+>> 03.26 | Ayuko | だ 誰！？ / 助けに来てくれたの？ / …でも 鍵がないと この扉は / 開かないわ / 鍵は 死神警察署の署長が / 持ってるの
+   EN: Wh-who's there!? Did you come to save / me? ...But this door won't open / without the key. The chief of the / Reaper Police HQ has it.
+>> 03.27 | Ayuko | 鍵がないと この扉は 開かないわ / 鍵は 死神警察署の署長が / 持ってるの
+   EN: This door won't open without the key. / The chief of the Reaper Police HQ / has it.
+>> 03.28 | Reaper Police Chief | 何者だ…怪しいやつらめ！ / 牢屋に叩き込んでやる！！
+   EN: Who goes there... Suspicious punks! I'll / throw you all in the slammer!!
+>> 03.29 | Ayuko's Father | 死神警察署の地下には / 牢屋があると聞いたことがある… / きっと あゆ子はそこに…
+   EN: I've heard there's a jail under the / Reaper Police HQ... Ayuko must be / down there...
+>> 03.30 | ??? | やっと逢えたね 如月ハニー / …というより / アンドロイド・キューティーハニー / と 呼んだほうが いいかな？
+   EN: We meet at last, Honey Kisaragi. ...Or / should I say, the android Cutie / Honey?
+>> 03.31 | Honey Kisaragi | だれ！？
+   EN: Who's there!?
+>> 03.32 | Sister Jill | パンサークロー日本支部長 / シスター・ジル / おまえにとって / 父の仇というところ / 如月邸襲撃を 命令したのは / この私なのだから…
+   EN: Sister Jill, head of Panther Claw's / Japan branch. To you, I suppose, / your father's killer. After all, I'm the / one who ordered the attack on the / Kisaragi mansion...
+>> 03.33 | Honey Kisaragi | そうか… おまえが…
+   EN: So... it was you...
+>> 03.34 | Sister Jill | 素直に 空中元素固定装置を / 渡せば 死なずに済んだものを… / バカなヤツ
+   EN: If he had just handed over the / Airborne Element Fixer like a good / boy, he wouldn't have had to die... / The fool.
+>> 03.35 | {p} | ハニー！ / 落ち着いて！
+   EN: Honey! Calm down!
+>> 03.36 | Sister Jill | それにしても 如月博士とは / たいしたものだな / おまえを 追っているうち / 私達は / この地震後の世界に / 迷いこんでしまったようだ / いったい / どんな技術を 用いたのだ？
+   EN: Still, that Dr. Kisaragi was quite / something. While we were chasing you, / it seems we wandered into this / post-quake world. Just what sort of / technology did he use?
+>> 03.37 | Ryoma | ね～ね～ 門土 / ひょっとして このお姉さん / スラムキングとは関係ないの？
+   EN: Hey, hey, Mondo. / Could it be this lady's got nothing to / do with the Slum King?
+>> 03.38 | Sister Jill | スラムキング？ 何の話だ？
+   EN: The Slum King? What are you talking / about?
+>> 03.39 | Mondo | …みてーだな
+   EN: ...Looks that way.
+>> 03.40 | {p} | それじゃ / この人も 僕達みたいに…
+   EN: Then she's just like us...
+>> 03.41 | Sister Jill | ええい / 何を わけのわからんことを！ / 我々は 固定装置を探したが / どうしても見つからぬ！ / だが おまえの存在を知って / 気がついた！
+   EN: Bah! What nonsense are you babbling!? / We searched for the Fixer, but we / couldn't find it anywhere! But when we / learned you existed, it dawned on us!
+>> 03.42 | Honey Kisaragi | ぎく！
+   EN: *Gulp!*
+>> 03.43 | Sister Jill | 如月博士は もっとも安全な / 金庫に 装置を隠したのでは…と / 娘の身体という金庫に… / 可哀想だが おまえの身体を / 調べさせてもらうよ！ / 解剖してね！
+   EN: Dr. Kisaragi must have hidden the / device in the safest vault of all... / the vault that is his daughter's / body... / A pity, but I'll be examining your body! / By dissecting it!
+>> 03.44 | Mondo | おっかねえ 女だな おい！
+   EN: Whoa, that's one scary dame!
+>> 03.45 | Honey Kisaragi | 父の仇 シスター・ジル！ / あたしが受けた 心の痛み / この剣で 思い知らせてやるわ！
+   EN: Sister Jill, my father's killer! / The pain you've put in my heart, I'll / make you feel it with this sword!
+>> 03.46 | Sister Jill | 覚えておいで！
+   EN: You'll regret this!
+>> 03.47 | Jack | グオオオオオオオ！
+   EN: GRAAAAAAAH!
+>> 03.48 | Slum King | 斬馬刀！
+   EN: Zanbato!
+>> 03.49 | Ryoma | す すっげ～
+   EN: Wh-whoa, amaaazing...
+>> 03.50 | Mondo | ジャックとキングか！ 上等だ… / ヘッ 上等すぎるぜ！
+   EN: Jack versus the King, huh! Now that's / a matchup... Heh, one hell of a / matchup!
+>> 03.51 | Dragon | スラムキング様が ピンチだ！ / 助太刀するぞ！
+   EN: Slum King-sama is in trouble! To his aid!
+>> 03.52 | Honey Kisaragi | あたし達も ジャックに / 加勢するわよ！
+   EN: We'll help Jack too!
+>> 03.53 | Slum King | うぎゃ～！ / ぎゃ～！ うお～！！
+   EN: Gyaaah! / Aaargh! Whoaaa!!
+>> 03.54 | Slum Queen | か 代わりの面あてを… 早く！ / キングは / 強すぎる筋肉を押さえる為 / 強靭なヨロイを / 身につけているのよ！ / 急いで 面を！ / キングの頭が 割れるわ！！
+   EN: H-his spare mask... Quickly! / The King wears his sturdy armor to / hold back his overpowered muscles! / Hurry, the mask! His head will split / open!!
+>> 03.55 | Jack | はっはっは！
+   EN: Hahaha!
+>> 03.56 | {p} | …！？ / ま また地震！？
+   EN: ...!? A-another earthquake!?
+>> 03.57 | Dragon | ひぃ～～～！！
+   EN: Eeeeeek!!
+>> 03.58 | Dragon | じ 地震だぁ～！！
+   EN: E-earthquaaake!!
+>> 03.59 | Seiji Hayami | なんて酷い 揺れ方だ！
+   EN: It's shaking like crazy!
+>> 03.60 | Ryoma | 門土！ なんとかしてよ！
+   EN: Mondo! Do something!
+>> 03.61 | Mondo | ムチャ言うな！
+   EN: Don't be stupid!
+>> 03.62 | {p} | もしかして / 関東地獄地震の再来…？
+   EN: Could this be... the Kanto Hellquake all / over again...?
+>> 03.63 | Ayuko | 良かった！ / みんな無事だったのね！
+   EN: Thank goodness! You're all okay!
+>> 03.64 | {p} | あゆ子ちゃん！
+   EN: Ayuko-chan!
+>> 03.65 | Ayuko's Father | このたびは なんと お礼を / 申し上げたら 良いのやら…
+   EN: I truly don't know how to thank you / for all this...
+>> 03.66 | Shopkeeper | あんた達は / 俺達の救世主だよ！
+   EN: You folks are our saviors!
+>> 03.67 | Seiji Hayami | さて…と それじゃ…
+   EN: Welp... Guess it's time...
+>> 03.68 | Honey Kisaragi | そうね そろそろ
+   EN: Yes, we'd better be going.
+>> 03.69 | Mondo | そういえば あんた達 / どこへ行くんだい？
+   EN: By the way, where are you guys / headed?
+>> 03.70 | {p} | 実は…
+   EN: Actually...
+>> 03.71 | Jack | …共に行こう
+   EN: ...I'll go with you.
+>> 03.72 | {p} | ジャック？
+   EN: Jack?
+>> 03.73 | Seiji Hayami | あんたが来てくれるなら / 百人力だ！ / {p}の面倒は / ジャックにみてもらって / 俺は ハニーと二人っきりで… / うっしっしっし…
+   EN: With you along, we've got the strength / of a hundred! Jack can babysit / {p}, and I'll have Honey / all to myself... Heh heh heh heh...
+>> 03.74 | Mondo | それなら 俺達も行こう
+   EN: Then we'll come too.
+>> 03.75 | Ryoma | 門土が行くなら 俺も！
+   EN: If Mondo's going, so am I!
+>> 03.76 | Seiji Hayami | あらら… せっかくの計画が…
+   EN: Aw, man... There goes my big plan...
+>> 03.77 | Honey Kisaragi | しょげかえっちゃって / どうしたの？
+   EN: What's got you so down in the dumps?
+>> 03.78 | Seiji Hayami | なんでもないよ / とほほ…
+   EN: Nothing at all... *sigh*...
+>> 03.79 | {p} | それじゃ 行こう！
+   EN: All right, let's go!
+>> 03.80 | Shopkeeper | え？ 山に続く道…？ / さぁねぇ / 俺は ひとつしか知らないなぁ…
+   EN: Huh? A road to the mountains...? Hmm, / beats me. I only know of the one...
+>> 03.81 | {p} | {s}…
+   EN: {s}...
+>> 03.82 | Honey Kisaragi | 心配しないで {p} / きっと {s}は無事よ / あたし達だって 大きなピンチを / 乗り切ったんだから！
+   EN: Don't worry, {p}. I'm sure / {s} is fine. We made it / out of a pretty tight spot ourselves, / after all!
+>> 03.83 | Shopkeeper | どうしたんだい？ / 元気が無いぞ？ / 腹が減ったなら いつでも / たらふく 食わせてやるぞ！
+   EN: What's the matter? You look down. If / you're hungry, I'll feed you till / you're stuffed, anytime!
+>> 03.84 | {p} | ありがとう おじさん
+   EN: Thanks, mister.
+>> 03.85 | Resident | 死神警察が滅んでも / きっと次の無法者が現れるさ
+   EN: Even with the Reaper Police gone, I / bet the next bunch of outlaws will / turn up.
+>> 03.86 | Resident | さっきの地震で / 寿命が 縮まっちまったよ
+   EN: That quake just now took years off / my life.
+>> 03.87 | Resident | 俺も 家族に逢いたいよ… / かといって 関東大断層を / 泳いで渡るなんて 無理だし…
+   EN: I want to see my family too... / But there's no way I can swim across / the Great Kanto Fault...
+>> 03.88 | Resident | あんた達かい？ あゆ子ちゃんを / 助け出したってのは！？ / いや～ たいしたもんだねぇ！ / 死神警察の西にある / 関所も開放されたらしいし / 俺らも少しは / 希望を持っていいってことかな
+   EN: So you're the ones who rescued / Ayuko-chan!? Well, that's really / something! / I hear the checkpoint west of the / Reaper Police has been opened too. / Maybe that means we can have a / little hope.
+>> 03.89 | Ayuko | 皆さんと また 逢いたいな…
+   EN: I hope I get to see you all again...
+>> 03.90 | Mondo | ああ いつでもＯＫだぜ
+   EN: Sure, anytime's OK by me.
+>> 03.91 | Ryoma | もう 門土ったら！
+   EN: Oh, Mondo, honestly!
+>> 03.92 | Ayuko's Father | その節は お世話になりました / これからは 平和な暮らしが / 送れると いいのですが…
+   EN: Thank you for everything you did / for us. / I only hope we can live in peace from / now on...
+>> 03.93 | Ayuko | 門土さん… ポッ
+   EN: Mondo-san... *blush*
+>> 03.94 | Seiji Hayami | こいつは いいもん見つけたぞ！
+   EN: Now this is a lucky find!
+>> 03.95 | Honey Kisaragi | まだ動きそう？
+   EN: Do you think it still runs?
+>> 03.96 | Seiji Hayami | 大丈夫だと思う
+   EN: I think it'll be fine.
+>> 03.97 | Seiji Hayami | よし！ 動くぞ！
+   EN: All right! It's running!
+>> 03.98 | Honey Kisaragi | きゃ～！ / 青児君 すっご～い！
+   EN: Kyaaa! Seiji-kun, you're amaaazing!
+>> 03.99 | Seiji Hayami | いやぁ… えへへ…
+   EN: Aw, shucks... Heh heh...
+>> 04.00 | {p} | これなら みんな乗れるね！
+   EN: Now we can all fit!
+>> 04.01 | Dragon | スラムキング様の 許可なく / この先へ進むことは許さん！
+   EN: No one passes beyond here without / Slum King-sama's permission!
+>> 04.02 | Mondo | おい 関所に誰もいないぜ？
+   EN: Hey, there's nobody at the / checkpoint.
+>> 04.03 | Ryoma | スラムキングが ジャックに負けて / 逃げ出したんじゃない？
+   EN: Maybe they ran off after the Slum / King lost to Jack?
+>> 04.04 | {p} | …関所の向こうに / 何があるんだろう / {s}… / あいつ 無事かな…
+   EN: ...I wonder what's past the checkpoint. / {s}... I hope she's / okay...
+>> 04.05 | Jack | …また会ったな {p}
+   EN: ...We meet again, {p}.
+>> 04.06 | Jack | …覚えてないのか / これも ヤツの仕業か… / それとも…？
+   EN: ...You don't remember? / Is this his doing too... Or...?
+>> 04.07 | {p} | ちょ ちょっと何を言ってるの？
+   EN: H-hey, what are you talking about?
+>> 04.08 | Jack | いずれ解る… 俺と関ったら / ただでは済まんことも…な
+   EN: You'll understand in time... And that / anyone mixed up with me won't get / off lightly.
+>> 04.09 | Shopkeeper | ついに この町にもドラゴンが…
+   EN: Now the Dragons have come to this / town too...
+>> 04.10 | Shopkeeper | 死神警察署は この町から / 南東に向かったとこにある / あゆ子ちゃん / 無事だといいんだがな…
+   EN: The Reaper Police HQ is southeast of / this town. I hope Ayuko-chan is all / right...
+>> 04.11 | Shopkeeper | 腹が減ったなら いつでも / たらふく 食わせてやるぞ！
+   EN: If you're hungry, I'll feed you till / you're stuffed, anytime!
+>> 04.12 | Seiji Hayami | おかしいなぁ… / このあたりのはずなんだけど…？
+   EN: That's weird... It should be right / around here...?
+>> 04.13 | Honey Kisaragi | 青児君のお父様 / こんな森の中に 住んでるの？
+   EN: Seiji-kun, your father lives in a / forest like this?
+>> 04.14 | Seiji Hayami | いや 住宅地の ど真ん中だよ
+   EN: Nope, right in the middle of a / housing area.
+>> 04.15 | {p} | どう見ても ここ / 住宅地じゃないよ…
+   EN: This sure doesn't look like a housing / area...
+>> 04.16 | Seiji Hayami | だよなぁ…？ / 方角は合ってるんだけど… / うちの近所に 沼なんか / 無かったしなぁ…？
+   EN: Right...? The direction's right, but... / there was never any pond near our / place...?
+>> 04.17 | {p} | 少しまわりを 歩いてみようよ / まわりを見渡せば 何か解るかも？
+   EN: Let's walk around a little. If we look / around, maybe we'll figure / something out?
+>> 04.18 | Seiji Hayami | とほほ… 申し訳ない…
+   EN: *Sigh*... Sorry about this...
+>> 04.19 | Resident | え？ 町の南東にある沼？ / あぁ 蓮沼のことかい？ / あの沼なら / ず～っと昔からあるぞ？
+   EN: Huh? The pond southeast of town? Oh, / you mean Hasunuma? That pond's / been there forever, y'know.
+>> 04.20 | Resident | 町の南東にあった 蓮沼が消えて / 住宅地が 現れたんだ！ / いや そんな気がするだけで / 昔から住宅地だったのかも…？
+   EN: Hasunuma, the pond southeast of / town, vanished and a housing area / appeared! Or maybe it just feels that / way, and it was always a housing / area...?
+>> 04.21 | Resident | あんたら見たかい？ / 町の向こうにある デッカイ壁！ / …ドラゴンの関所のことかって？ / あんたら 何言ってんだ？ / ありゃ 高速道路の工事だよ
+   EN: Did you see it? That huge wall past the / town! ...The Dragons' checkpoint, you / say? What are you on about? That's / highway construction.
+>> 04.22 | {p} | なんか 妙だね…
+   EN: Something's weird here...
+>> 04.23 | Jack | この町は 関東ではない！
+   EN: This town is not in Kanto!
+>> 04.24 | Seiji Hayami | いや そんなことないんだけど…
+   EN: Nah, that can't be...
+>> 04.25 | Jack | 少なくとも 俺の知る関東では / ないということだ
+   EN: At least, not the Kanto I know.
+>> 04.26 | {p} | 確かに どこにも 震災の跡は / 見当たらないね… / 普通の… / うん ごく普通の町に見えるよ / まるで…
+   EN: It's true, there's no sign of the quake / anywhere... It looks like an / ordinary... yeah, a totally ordinary / town. Just like...
+>> 04.27 | {p} | …違う世界の町みたいだ！
+   EN: ...a town from another world!
+>> 04.28 | Seiji Hayami | 確かに 俺 関東地獄地震なんて / 知らないしなぁ…
+   EN: Come to think of it, I've never heard / of any Kanto Hellquake...
+>> 04.29 | Honey Kisaragi | パパの死が別世界の出来事だったら / どんなにいいか…
+   EN: If only Papa's death had happened in / another world...
+>> 04.30 | {p} | ハニー… / ここが どんな世界であれ / もっと調べてみないと…
+   EN: Honey... / Whatever world this is, we need to look / into it more...
+>> 04.31 | Resident | 奇妙って言えば / 俺 聞いたんだ / 学校のあたりで / 裸の女性を見たんだって！ / ホントだったら / こりゃけっこうな話だね
+   EN: Speaking of weird, I heard something. / Someone saw a naked woman around / the school! If that's true, how very / splendid!
+>> 04.32 | Resident | 何か変わったことは / 無かったかって？ / そこの学校の先生なら / 変わった人達ばかりだよ
+   EN: Anything unusual, you ask? The / teachers at that school there are / all weirdos.
+>> 04.33 | Resident | ちょいと そこの人！ / あんたは 信じてくれるかな？ / おもしろい話が あるんだけど / 聞いてってよ ね！ ね！
+   EN: Hey, you there! Will you believe me? I've / got an interesting story. Hear me / out, okay? Okay!?
+>> 04.34 | Resident | 誰も信じてくれないんだけどさ… / なんと 沼の中に / 屋敷が 浮かんでたんだぜ！
+   EN: Nobody believes me, but... / Would you believe a mansion was / floating in the pond!?
+>> 04.35 | Honey Kisaragi | 沼に屋敷が浮かんでた ですって？
+   EN: A mansion floating in the pond, / you say?
+>> 04.36 | Resident | あ～ やっぱ 疑ってる～！！
+   EN: Aww, you DO doubt me!!
+>> 04.37 | {p} | ごめん ごめん / 疑ってないから 話を続けてよ
+   EN: Sorry, sorry. We don't doubt you, so / go on.
+>> 04.38 | Seiji Hayami | 取材なら 新聞記者の俺に / 任せてよ！ / ねぇ 君 / 疑ってないから おせ～て
+   EN: Leave the interviewing to me, the / newspaper reporter! Hey, kiddo, we / don't doubt you, so spill it.
+>> 04.39 | Resident | 疑ってないならよし～！
+   EN: If you don't doubt me, okaaay!
+>> 04.40 | Seiji Hayami | 蓮沼に 屋敷が浮かぶ時って / 何か 予兆でもあるのかい？
+   EN: When the mansion floats on Hasunuma, / is there some kind of omen?
+>> 04.41 | Resident | そ～いえば 黒い月が浮かぶな…
+   EN: Now that you mention it, a black moon / comes up...
+>> 04.42 | {p} | 黒い月！？
+   EN: A black moon!?
+>> 04.43 | Resident | ひぇ～～～！！
+   EN: Eeeeek!!
+>> 04.44 | Honey Kisaragi | 今の 聞いた？
+   EN: Did you hear that?
+>> 04.45 | Seiji Hayami | 黒い月…って 言ってたな
+   EN: A black moon... that's what he said.
+>> 04.46 | Ryoma | 蓮沼まで 戻ってみる？
+   EN: Wanna head back to Hasunuma?
+>> 04.47 | Seiji Hayami | ハレンチ学園？ / 聞いたことないなぁ…？
+   EN: Harenchi Gakuen? Never heard of it...?
+>> 04.48 | {p} | ジャック 何を見てるの？
+   EN: Jack, what are you looking at?
+>> 04.49 | Honey Kisaragi | …あ！
+   EN: ...Oh!
+>> 04.50 | Mondo | おいおい / 誰か 縛りつけられてるぜ
+   EN: Hey hey, somebody's tied up out / there.
+>> 04.51 | Ryoma | ここ学校でしょ？ / 宿題 忘れたんじゃないの？
+   EN: It's a school, right? Bet he forgot his / homework.
+>> 04.52 | {p} | 助けたほうが いいんじゃない？
+   EN: Shouldn't we help him?
+>> 04.53 | Jack | そう思うか {p}…？
+   EN: You think so, {p}...?
+>> 04.54 | {p} | う うん…
+   EN: Y-yeah...
+>> 04.55 | Jack | ならば 行こう…
+   EN: Then let's go...
+>> 04.56 | {p} | うわ～！
+   EN: Whoaaa!
+>> 04.57 | Honey Kisaragi | きゃ～！
+   EN: Kyaaa!
+>> 04.58 | Ryoma | なんだ なんだ！？
+   EN: What the!? What the!?
+>> 04.59 | Marugoshi | がっはっはっは！
+   EN: Gahahaha!
+>> 04.60 | Higegodzilla | おほほほ / ざま～ごらんあそばせ / 山岸を助けようったって / そうはイカのキンちゃんよ / …あらら 十兵衛ちゃん達かと / 思ったら 違うわね / うちの生徒でも　ないみたいよ～！
+   EN: Ohohoho! Serves you right, darlings! / Trying to rescue Yamagishi? Not so / fast, sweet-cheeks! ...Oh my, I thought / it was Jubei-chan's lot, but it isn't. / They're not even our students!
+>> 04.61 | Mondo | 出せ この野郎！
+   EN: Let us out, you bastard!
+>> 04.62 | {p} | 人違いなら 出してくれよ！
+   EN: If you've got the wrong people, let / us out!
+>> 04.63 | Marugoshi | 構わねぇから放り込んでおきなさい / 吉永先生！
+   EN: Never mind, just toss 'em in, / Yoshinaga-sensei!
+>> 04.64 | Higegodzilla | おほほほ それもそうよね / なんか 凶暴そうだし…
+   EN: Ohohoho, you're quite right. They do / look savage...
+>> 04.65 | Young Girl | あいつら　人違いしちゃった… / ねえ　どうする？
+   EN: They got the wrong people... Hey, what / do we do?
+>> 04.66 | Young Girl | ………
+   EN: .........
+>> 04.67 | Honey Kisaragi | まったくもう…！
+   EN: Oh, for crying out loud...!
+>> 04.68 | Mondo | ひでぇめにあったぜ！ / あの野郎！ とっちめてやる！
+   EN: What a raw deal! That bastard! I'll make / him pay!
+>> 04.69 | {p} | ここは…？
+   EN: Where are we...?
+>> 04.70 | Seiji Hayami | もしや…？
+   EN: Could this be...?
+>> 04.71 | Ryoma | よりによって / トイレに閉じ込められた！
+   EN: Of all places, they locked us in the / bathroom!
+>> 04.72 | {p} | …なんとか ここから出る方法を / 探さないとね
+   EN: ...We've got to find some way out / of here.
+>> 04.73 | Mysterious Girl | こんにちは！
+   EN: Hiii!
+>> 04.74 | Mysterious Girl | ここは…男子トイレ！ / いや～も～ あたしったら！
+   EN: This is... the boys' bathroom! Oh my / gosh, silly me!
+>> 04.75 | {p} | …あの 君は誰？
+   EN: ...Um, who are you?
+>> 04.76 | Mysterious Girl | あ ごめんなさい / あたしは 柳生十兵衛みつ子 / 十兵衛って呼んで
+   EN: Oh, sorry. / I'm Mitsuko "Jubei" Yagyu. Just call me / Jubei.
+>> 04.77 | Jubei | あなた達 / あたしと 間違えられたの！ / それで あたし あなた達を / 助けに来たってわけ
+   EN: They mistook you guys for me! So I / came to rescue you.
+>> 04.78 | Honey Kisaragi | あいつら なにもの？
+   EN: Who are those creeps?
+>> 04.79 | Jubei | ヒゲゴジラと 丸ゴシは / この学校の先生よ
+   EN: Higegodzilla and Marugoshi are / teachers at this school.
+>> 04.80 | Jubei | あいつら みんなに苛められた / 仕返しを するつもりなの
+   EN: They're out for payback because / everyone picks on them.
+>> 04.81 | Seiji Hayami | 苛めたくなる気持ちは 解るけど / でも先生でしょ…
+   EN: I get wanting to pick on them, but they / ARE teachers...
+>> 04.82 | Jubei | だって 苛めると喜ぶんだもん
+   EN: But they love it when we pick on them!
+>> 04.83 | Jubei | ヒゲゴジラのヤツ / 丸ゴシを 抱き込んで / 山岸君を 捕まえちゃったの
+   EN: That Higegodzilla roped Marugoshi in, / and they nabbed Yamagishi-kun.
+>> 04.84 | Mondo | 校庭の柱に 縛り付けられていた / あいつか？
+   EN: The guy tied to the post in the / schoolyard?
+>> 04.85 | Jubei | うん
+   EN: Yep.
+>> 04.86 | Ryoma | そうかぁ あの罠は 君を捕まえる / ための ものだったんだ
+   EN: Ohh, so that trap was meant to / catch you.
+>> 04.87 | Higegodzilla | 山岸を助けようったって / そうはいかないわよー！
+   EN: Trying to rescue Yamagishi? Not on my / watch, darlings!
+>> 04.88 | Yamagishi | やい ヒゲゴジラ！ / よくも俺様を 苛めやがったな！ / ぶっとばすぞ！
+   EN: Hey, Higegodzilla! You got some / nerve picking on me! I'll knock your / block off!
+>> 04.89 | Higegodzilla | ひ～！
+   EN: Eeek!
+>> 04.90 | {p} | それくらいで やめておきなよ
+   EN: That's enough, okay?
+>> 04.91 | Yamagishi | ん？ / なんだ おめぇ？
+   EN: Huh? Who the heck are you?
+>> 04.92 | {p} | 僕は {p}だよ
+   EN: I'm {p}.
+>> 04.93 | Yamagishi | 十兵衛と一緒に 俺を助けてくれた / のは あんたか！ / ありがとよ！ …っと / ところで 十兵衛は？
+   EN: So you're the one who saved me with / Jubei! Thanks! ...Uh, by the way, / where's Jubei?
+>> 04.94 | Jubei | きゃ～！
+   EN: Kyaaa!
+>> 04.95 | Jubei | 助けて 山岸く～ん！！
+   EN: Help me, Yamagishi-kuuun!!
+>> 04.96 | Marugoshi | やかましい！ / 騒ぐと投げ落とすぞ！
+   EN: Shut it! Make a racket and I'll toss / you off!
+>> 04.97 | Jubei | いや～ん！
+   EN: Noooo!
+>> 04.98 | Yamagishi | 十兵衛！ / くっそ～ 丸ゴシめぇ！
+   EN: Jubei! Dammit, Marugoshi!
+>> 04.99 | {p} | 十兵衛を 助けなくっちゃ！
+   EN: We've got to save Jubei!
+>> 05.00 | {p} | 十兵衛を返せ！
+   EN: Give Jubei back!
+>> 05.01 | Marugoshi | ワシを倒すことが出来たなら / 返してやるわ！
+   EN: If you can beat me, I'll give her back!
+>> 05.02 | Jubei | え～ん 恐かったよぉ～！
+   EN: Waaah, that was so scaaary!
+>> 05.03 | Yamagishi | よちよち / もう だいじょぶだからさ
+   EN: There, there. You're all right now.
+>> 05.04 | Jubei | 山岸君だけじゃなく / あたしまで助けてくれて… / 何か お礼をしなくちゃね！ / あたしも 柳生忍者の末裔！ / 恩には報いるわ！
+   EN: You saved not just Yamagishi-kun but / me too... I've got to repay you / somehow! / I'm a descendant of the Yagyu ninja / too! I always repay a favor!
+>> 05.05 | Yamagishi | そうだぜ 俺だって このままじゃ / 気が済まねぇや！ / 困ったことがあったら / 言ってくれよ！
+   EN: That's right! I ain't gonna rest easy till / I pay you back either! If you're ever / in a bind, just say the word!
+>> 05.06 | Honey Kisaragi | この際だから 相談してみたら？
+   EN: Why not ask them, now that / we're here?
+>> 05.07 | Seiji Hayami | もしかしたら 何かヒントが / 得られるかもしれないぜ
+   EN: Maybe we'll get some kind of clue.
+>> 05.08 | {p} | うん / 実は…
+   EN: Yeah. Actually...
+>> 05.09 | Jubei & Yamagishi | え～！？
+   EN: Whaaat!?
+>> 05.10 | Jubei | …不思議な話ね
+   EN: ...What a strange story.
+>> 05.11 | Yamagishi | 黒い月に 関東地獄地震？ / そして 蓮沼に浮かぶ屋敷だって？ / おもしろそうだな…！
+   EN: A black moon and the Kanto / Hellquake? And a mansion floating on / Hasunuma? Sounds like a blast...!
+>> 05.12 | Jubei | おもしろがっちゃダメでしょ！ / 謎を解くお手伝いをしないとね！
+   EN: It's not supposed to be a blast! We've / got to help solve the mystery!
+>> 05.13 | Fukurokoji | あ オヤブン！ / 俺を置いて行くなんて！
+   EN: Ah, Boss! How could you leave me / behind!
+>> 05.14 | Marugoshi | ワシに逆らったら どうなるか / 見てろよ！
+   EN: Defy me and see what happens!
+>> 05.15 | Parasol | 助けてくれバイ…
+   EN: Help me, would ya...
+>> 05.16 | Macaroni Kid | 俺を放せ！ 逆らうと 早撃ちが / モノを言うぜ！
+   EN: Let me go! Cross me and my quick draw / does the talkin'!
+>> 05.17 | Higegodzilla | 山岸君 / わたちたち お友達じゃないの！ / 仲良くやりまちょうね～ / おほほほ！
+   EN: Yamagishi-kun, aren't we fwiends? / Let's all play nicey-nice! Ohohoho!
+>> 05.18 | Yamagishi | みんな ありがとな！
+   EN: Thanks, everybody!
+>> 05.19 | Fukurokoji | そういえばオヤブン / 聞きましたか？ / 体育倉庫にバケモノが / 出るそうですよ！
+   EN: Hey, Boss, did you hear? They say a / monster shows up in the gym / storeroom!
+>> 05.20 | Yamagishi | バケモノ！？ / こっちも おもしろそうだな
+   EN: A monster!? That sounds like a / blast too!
+>> 05.21 | Yamagishi | なあ {p} / 体育倉庫に行ってみないか？
+   EN: Hey, {p}, wanna go check / out the gym storeroom?
+>> 05.22 | Jubei | そうね なにか蓮沼に / 関係あるかもしれないしね
+   EN: Good idea. It might have something to / do with Hasunuma.
+>> 05.23 | Marugoshi | なに？ 体育倉庫の鍵だと？ / 知らん 知らん！
+   EN: What? The key to the gym storeroom? / Don't know, don't know!
+>> 05.24 | Macaroni Kid | 体育倉庫の鍵？ / 明日をも知らねー流れ者が / そんなの知るか！
+   EN: The gym storeroom key? / A drifter who don't know if he'll see / tomorrow wouldn't know about that!
+>> 05.25 | Higegodzilla | 体育倉庫の鍵なんて / 持ってないわよ～！ / ポケットに入ってるけど / 持ってないわよ！
+   EN: I don't have the gym storeroom key, / darling! It's in my pocket, but I don't / have it!
+>> 05.26 | {p} | ポケットに入ってる…ね？
+   EN: It's in your pocket... huh?
+>> 05.27 | Student | 時々 体育倉庫の中から / 声がするんだけど / 誰か 先生達に / 閉じ込められてるのかな？
+   EN: Sometimes you hear voices coming from / the gym storeroom. Did the teachers / lock somebody in there?
+>> 05.28 | Student | あいつら いい気味だぜ！ / さ～て 弁当食べよ！
+   EN: Serves those creeps right! Welp, time / for lunch!
+>> 05.29 | Student | 山岸君 行っちゃうの？ / 寂しいけど しばらく 静かになって / いいかも…？
+   EN: Yamagishi-kun, you're leaving? / It'll be lonely, but maybe it'll be nice / and quiet for a while...?
+>> 05.30 | Yamagishi | なんだとぉ～！？
+   EN: Whaddaya mean by that!?
+>> 05.31 | Student | きゃ～！
+   EN: Kyaaa!
+>> 05.32 | Student | 十兵衛… 山岸君… / 気をつけてね
+   EN: Jubei... Yamagishi-kun... Take care.
+>> 05.33 | Student | 僕 一生懸命勉強して そして… / ハレンチ学園の先生になるんだ！
+   EN: I'm gonna study really hard and then... / I'll become a teacher at Harenchi / Gakuen!
+>> 05.34 | Student | 先生もいなくなったし 教室で / キャンプファイアでもするか！
+   EN: The teachers are gone, so how about / a campfire in the classroom!
+>> 05.35 | Yamagishi | いつのまに 校舎の屋上へ！？
+   EN: When did they get up on the school / roof!?
+>> 05.36 | {p} | 鍵が かかっていて 開かないや / でも 見たところ / 普通の体育倉庫だけど…？
+   EN: It's locked. It won't open. / But it looks like a normal gym / storeroom...?
+>> 05.37 | Jubei | おかしいわね / いつもは 開いてるのに…？
+   EN: That's weird. It's usually open...?
+>> 05.38 | ??? | 学園を 混乱させる者達が / 加わった… / そして 世界を超える者達が / 加わる…
+   EN: Those who throw the school into / chaos have joined... And those who / cross between worlds join next...
+>> 05.39 | Seiji Hayami | げげっ！ 閉じ込められた！
+   EN: Yikes! We're locked in!
+>> 05.40 | Honey Kisaragi | いや～ん 出してぇ～！
+   EN: Nooo, let us out!
+>> 05.41 | Kapaeru | うるへ～！
+   EN: Pipe dooown!
+>> 05.42 | {p} | あ 誰かいたのか！ / ん？
+   EN: Oh, there was somebody in here! Huh?
+>> 05.43 | Honey Kisaragi | ちょっと その子…？
+   EN: Wait, that kid...?
+>> 05.44 | {p} | うわ～！ / 河童！？
+   EN: Whoaaa! A kappa!?
+>> 05.45 | Kapaeru | なんや こいつら…？
+   EN: What's with these folks...?
+>> 05.46 | Enma-kun | カパエル なに騒いでるんだ？
+   EN: Kapaeru, what're you making a racket / about?
+>> 05.47 | Kapaeru | 騒いでんのは こいつらどっせ
+   EN: These folks are the ones makin' the / racket, I do declare.
+>> 05.48 | {p} | き 君は誰？
+   EN: Wh-who are you?
+>> 05.49 | Enma-kun | 俺たちゃ 地獄界から / 妖怪退治に来たもんだ！
+   EN: We came from the Hell World to hunt / yokai!
+>> 05.50 | Seiji Hayami | 妖怪退治？
+   EN: Hunt yokai?
+>> 05.51 | Honey Kisaragi | 地獄界？
+   EN: The Hell World?
+>> 05.52 | Enma-kun | 俺は えん魔
+   EN: I'm Enma.
+>> 05.53 | Kapaeru | ボク カパエル
+   EN: I'm Kapaeru.
+>> 05.54 | Princess Yukiko | あたしは 雪子姫よ
+   EN: And I'm Princess Yukiko.
+>> 05.55 | Chapeau-jii | わしゃ シャッポじい じゃ / ひょひょひょ！
+   EN: And I'm Chapeau-jii, my boy! Hyohyohyo!
+>> 05.56 | Enma-kun | むっ！？ / おまえら / 妖怪に 取り憑かれているなー？
+   EN: Hmm!? / You guys are possessed by a yokai, / aren't ya?
+>> 05.57 | Enma-kun | 俺のマユ毛は / 妖怪を探る アンテナだ / そのアンテナがおまえらの身体から / 妖気を感じているってわけだよ
+   EN: My eyebrows are antennae for / sniffing out yokai. And those / antennae are picking up yokai energy / from your bodies, see?
+>> 05.58 | {p} | じゃ じゃあ 僕 / 妖怪に 取り憑かれているの～？
+   EN: Th-then I'm... possessed by a yokai!?
+>> 05.59 | Seiji Hayami | もしかして 家がなくなったのも / 呪われてるから…？
+   EN: Could it be my house vanished because / I'm cursed...?
+>> 05.60 | Enma-kun | 何か 変わったことがあるはずだ / そいつを 俺に話すんだ
+   EN: Something weird must've happened. / Tell me about it.
+>> 05.61 | {p} | 実は…
+   EN: Actually...
+>> 05.62 | Seiji Hayami | 実は！ 俺の家があるはずの場所が / 沼になっていた！ おまけに… / 黒い月が浮かぶ時 その沼に屋敷が / 浮かぶって 言うんだ！
+   EN: Actually! Where my house should be, / there's a pond! And on top of that... / they say when a black moon rises, a / mansion floats on that pond!
+>> 05.63 | Enma-kun | ぎゃっはっはっは！ / 黒い月が出ると / 沼に屋敷が浮かぶだって！？
+   EN: Gyahahaha! / A mansion floats on a pond when a / black moon comes out!?
+>> 05.64 | Princess Yukiko | あんまり笑っちゃ失礼よ！
+   EN: Don't laugh so much, that's rude!
+>> 05.65 | Enma-kun | その屋敷に 行きたければ / 沼に戻ってみなよ じゃあな！
+   EN: If you wanna go to that mansion, head / back to the pond. See ya!
+>> 05.66 | {p} | 黒い月が輝く時 / お逢いしましょう… / もしかして あのメールは / えん魔くんから…？
+   EN: "When the black moon shines, let us / meet..." Could that e-mail have been / from Enma-kun...?
+>> 05.67 | Jubei | そうみたい
+   EN: Looks like it.
+>> 05.68 | {p} | 生徒も生徒なら 先生も先生…って / 気がするけど / 柱に縛りつけられているのを / 放っては おけないよね
+   EN: I feel like the teachers are as bad as / the students... but we can't just / leave him tied to a post, can we?
+>> 05.69 | Jubei | でしょ！ / みんなも 協力してくれる？
+   EN: Right!? Will you all help me?
+>> 05.70 | {p} | うん / 山岸君を助けに行こう！
+   EN: Yeah. Let's go save Yamagishi-kun!
+>> 05.71 | Resident | 変わった事って言えば / そこの学校は変わってるわよ / 教師も生徒も元気がありあまってて / 毎日 救急車の世話になってるの
+   EN: Speaking of unusual, that school / there's unusual. The teachers and / students have energy to burn, and / they need an ambulance every day.
+>> 05.72 | Resident | 奇妙な人達なら知ってるよ / 泣く子もだまる悪党一家 / 父親は超能力者 息子達は / スケベ サイボーグ 爆弾使い / でも長女は かわいいんだァ～
+   EN: I know some weird folks. A crime family / that'd scare a crying kid quiet. The / father's a psychic, the sons are a / pervert, a cyborg and a bomber. But / the eldest daughter's a real cutie!
+>> 05.73 | Ryoma | 急に暗くなったね…
+   EN: It suddenly got dark...
+>> 05.74 | Mondo | まだ昼間だぜ？
+   EN: It's still daytime, ain't it?
+>> 05.75 | Honey Kisaragi | 見て！ / 水面に 月が写ってるわ！
+   EN: Look! The moon's reflected on the / water!
+>> 05.76 | {p} | 黒い月だ！
+   EN: It's the black moon!
+>> 05.77 | Seiji Hayami | すげ～！
+   EN: Whoa!
+>> 05.78 | {s} | {p}～！
+   EN: {p}!
+>> 05.79 | {p} | {s}！？
+   EN: {s}!?
+>> 05.80 | {s} | こっちこっち～！
+   EN: Over here, over here!
+>> 05.81 | Honey Kisaragi | 確かに {s}よ！
+   EN: It's {s}, all right!
+>> 05.82 | {s} | 早くおいでよ！
+   EN: Hurry up and come on!
+>> 05.83 | {p} | 良かった… 無事だったんだ！
+   EN: Thank goodness... She's okay!
+>> 05.84 | Princess Yukiko | いらっしゃ～い！ / 待ってたわよ！
+   EN: Welcome! We've been waiting for you!
+>> 05.85 | Seiji Hayami | なんだよ これ？ / 薄気味悪い ドアベルだな？
+   EN: What the heck is this? Creepy / doorbell, huh?
+>> 05.86 | Honey Kisaragi | よく出来てるわねぇ / 本物の鬼みたい！
+   EN: It's really well made. Just like a / real oni!
+>> 05.87 | Oni | ようこそ 地獄別荘へ！
+   EN: Welcome to Hell Villa!
+>> 05.88 | Honey Kisaragi | きゃっ！？
+   EN: Eek!?
+>> 05.89 | {p} | ほ 本物！？
+   EN: I-it's real!?
+>> 05.90 | {p} | {s}！
+   EN: {s}!
+>> 05.91 | {s} | {p}！
+   EN: {p}!
+>> 05.92 | {p} | 無事だったんだね…
+   EN: You're okay...
+>> 05.93 | {s} | 道がふさがれちゃって… / 心配したんだよ！
+   EN: The road got blocked off... I was / worried about you!
+>> 05.94 | {p} | 僕もだよ！ / でも逢えて良かった！
+   EN: Me too! But I'm so glad we found each / other!
+>> 05.95 | Honey Kisaragi | {p}も あなたのこと / ずっと心配してたのよ
+   EN: {p} was worried about / you the whole time, too.
+>> 05.96 | {s} | ハニー！ / あなたも無事だったのね！ / お父さんには逢えたの…？
+   EN: Honey! You're all right too! Did you get / to see your father...?
+>> 05.97 | Honey Kisaragi | えぇ… まぁ…
+   EN: Yes... well...
+>> 05.98 | {p} | {s} その話は後で…
+   EN: {s}, let's talk about / that later...
+>> 05.99 | {s} | そうね えん魔くんが / {p}を 待ってるわよ / 行きましょ！
+   EN: Right. Enma-kun is waiting for you, / {p}. Let's go!
