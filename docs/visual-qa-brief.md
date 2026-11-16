@@ -38,6 +38,8 @@ Standing non-bugs (`ok`):
   (tabs HIRA / KATA / ABC, decision D9): kana in that grid, and a kana letter typed into the name, are `ok`.
 - the short names in narrow menu and battle fields listed in docs/short-forms.md (Mazinger, Aphro. A, Borot,
   King Enma, G.Tomahawk...) are decision D8: `ok` there. Any other cut name is an `issue`.
+- the pharmacy plate on the map (sign*, map_135/244/309/310) reads MAMII / DRUGS: the plate holds 5 letters per
+  line, and glossary.md lists it as the plate form of Mamii Pharmacy. `ok`.
 
 ## Verdicts
 Your final message is the verdict list and nothing else, one line per sheet in the chunk, in order:

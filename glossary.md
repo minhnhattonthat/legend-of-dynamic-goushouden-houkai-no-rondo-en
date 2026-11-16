@@ -85,7 +85,7 @@ alternatives) and no Avoid spelling. Name tags (speaker lines) come from `tools/
 | 震災とりで | Quake Fort | | | |
 | 暗黒寺 | Dark Temple | | | |
 | 戸来村 | Herai Village | | | |
-| 間身井薬局 / マミー薬局 | Mamii Pharmacy | | | |
+| 間身井薬局 / マミー薬局 | Mamii Pharmacy | | | the shop's map plate (5 letters per line) reads MAMII / DRUGS |
 | 魔王の城 | Demon King's Castle | | | |
 | 妖怪屋敷 | Yokai Mansion | | | |
 | 科学都市 | Science City | | | |
