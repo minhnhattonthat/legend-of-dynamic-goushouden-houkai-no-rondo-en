@@ -44,8 +44,12 @@ def scene_names():
     return out
 
 
-def run(rom, scene, out, frames, states, scripts=(), luavars=()):
+def run(rom, scene, out, frames, states, scripts=(), luavars=(), resume=False):
     d = out / scene
+    if resume and (out / "shots" / f"{scene}.png").exists() and (d / "log.txt").exists():
+        m = re.search(r"WARP_DONE f(\d+)", (d / "log.txt").read_text(encoding="utf-8", errors="replace"))
+        if m:
+            return scene, True, m.group(1), "resumed"
     shutil.rmtree(d, ignore_errors=True)
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(d),
            "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", f"SCENE='{scene}'",
@@ -80,6 +84,8 @@ def main():
     ap.add_argument("--out", default=str(ROOT / "work" / "qa" / "warp_all"))
     ap.add_argument("--script", action="append", default=[], help="extra Lua probe for every scene (repeatable)")
     ap.add_argument("--var", action="append", default=[], help="NAME=value for the probes (repeatable)")
+    ap.add_argument("--resume", action="store_true",
+                    help="keep scenes whose shot and WARP_DONE log already exist in --out (same ROM and probes!)")
     a = ap.parse_args()
     rom = Path(a.rom) if a.rom else (ROOT / "build" / "goushouden_en.gba")
     if not rom.exists():
@@ -90,7 +96,7 @@ def main():
     print(f"{len(names)} scenes on {rom.name}, {a.jobs} jobs", flush=True)
     res = []
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        for r in ex.map(lambda n: run(rom, n, out, a.frames, a.states, a.script, a.var), names):
+        for r in ex.map(lambda n: run(rom, n, out, a.frames, a.states, a.script, a.var, a.resume), names):
             res.append(r)
             print(("ok  " if r[1] else "FAIL") + f" {r[0]} done@{r[2]} {r[3]}", flush=True)
     with open(out / "summary.tsv", "w", encoding="utf-8") as f:

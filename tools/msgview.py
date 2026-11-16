@@ -34,7 +34,11 @@ def all_ids():
     return out
 
 
-def run(rom, ids, d, ranges, shots):
+def run(rom, ids, d, ranges, shots, resume=False):
+    old = (d / "log.txt").read_text(encoding="utf-8", errors="replace") if (d / "log.txt").exists() else ""
+    if resume and "MSGVIEW_DONE" in old and (d / "ids.txt").exists() and \
+            (d / "ids.txt").read_text() == "".join("%d\n" % i for i in ids):
+        return d.name, 0, len(re.findall(r"^MSG \d+", old, re.M)), len(ids), True
     d.mkdir(parents=True, exist_ok=True)
     (d / "ids.txt").write_text("".join("%d\n" % i for i in ids))
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(d),
@@ -60,6 +64,7 @@ def main():
     ap.add_argument("--jobs", type=int, default=2)
     ap.add_argument("--only")
     ap.add_argument("--shots", action="store_true")
+    ap.add_argument("--resume", action="store_true", help="skip chunks already done with the same ids (same ROM!)")
     ap.add_argument("--out", default=str(ROOT / "work" / "qa" / "msgview"))
     a = ap.parse_args()
     rom = Path(a.rom).resolve()
@@ -70,7 +75,7 @@ def main():
     parts = [ids[i::n] for i in range(n)]
     bad = 0
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        futs = [ex.submit(run, rom, part, Path(a.out) / ("c%02d" % i), ranges, a.shots) for i, part in enumerate(parts)]
+        futs = [ex.submit(run, rom, part, Path(a.out) / ("c%02d" % i), ranges, a.shots, a.resume) for i, part in enumerate(parts)]
         for f in cf.as_completed(futs):
             name, code, got, want, done = f.result()
             bad += not done
