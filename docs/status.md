@@ -2,7 +2,20 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 9045e3a5 (waived hotfix of 994585e0); text coverage: every ROM string and archive shown, dialogue 4626/5363: msgview c13-c15 left). Phase 7 done 2026-11-16.
+- **Phase:** 9. Release: not started (Phase 8 done 2026-11-16 on build 9045e3a5).
+
+## Phase 8 session 18 (2026-11-16): msgview finished, Phase 8 done
+- msgview c13-c15 done (335/335 each; run detached with PowerShell `Start-Process` so the memory reaper can't kill
+  it; log work/qa/msgview_s18.log). `coverage.py`: shown 7565, waived 490, **missing 0**.
+- **Text gate:** the log.txt files of tour_en3, msgview, forcearc, forcestr copied (same relative paths) into one
+  LOGDIR `work/qa/cover` (384 logs); `textcover.py work/qa/cover build/goushouden_en.strings.tsv --waive
+  docs/text_unshown.tsv` -> 7565/8055 shown, 490 waived, 0 failing, **exit 0**. The release script must rebuild
+  work/qa/cover the same way (or take the four dirs) before calling textcover.py.
+- `qa_gate.py check work/qa/manifest.tsv work/qa/verdicts --build build/goushouden_en.gba` exits 0 (356 sheets,
+  9045e3a5 waiver); `check.py` ok; smoke ok; build sha1 9045e3a5 unchanged.
+- **Next (phase 9):** story-pass verdicts per chapter (`references/translation.md` §Review; do it with read-only
+  codex passes), docs/polish.md, `tools/release.py` (qa_gate on every manifest + textcover + jp_left + debug off
+  + bps make/apply/verify + README hashes + zip). Never `gh release create`.
 
 ## Phase 8 session 17 (2026-11-16): msgview c09-c12
 - `msgview.py --chunks 16 --jobs 1 --resume` (log work/qa/msgview_s17.log): c09-c12 done, 335/335 each. Killed again
