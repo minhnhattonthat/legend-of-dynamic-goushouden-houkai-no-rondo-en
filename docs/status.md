@@ -2,7 +2,15 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 9045e3a5 (waived hotfix of 994585e0); text coverage: every ROM string and archive shown, dialogue 3068/5363: msgview c09-c15 left). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 9045e3a5 (waived hotfix of 994585e0); text coverage: every ROM string and archive shown, dialogue 4626/5363: msgview c13-c15 left). Phase 7 done 2026-11-16.
+
+## Phase 8 session 17 (2026-11-16): msgview c09-c12
+- `msgview.py --chunks 16 --jobs 1 --resume` (log work/qa/msgview_s17.log): c09-c12 done, 335/335 each. Killed again
+  by Claude Code's low-memory reaper during c13 (no other Mesen was running; free RAM was ~0.9 GB at start).
+  `coverage.py`: dialogue shown 4626, missing 737 (= c13-c15); everything else covered.
+- **Next:** same command with `--resume` (3 chunks, ~25 min). If the reaper keeps killing it, run it in the
+  foreground (timeout 600000, `--only`/one chunk per call if msgview supports it) or start Claude Code with
+  CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1. Then coverage.py -> textcover.py gate (see session 16) -> phase 9.
 
 ## Phase 8 session 16 (2026-11-16): every ROM string and archive forced, labels triaged
 - **`tools/coverage.py`**: coverage over tour_en3 + msgview + forcearc + forcestr, grouped by kind (`--list KIND`
