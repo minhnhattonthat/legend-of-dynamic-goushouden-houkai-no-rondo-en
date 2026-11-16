@@ -361,7 +361,7 @@
 >> 43.79 | {p} | 今は 早乙女博士を / 助け出すことが先だ！
    EN: Rescuing Dr. Saotome comes first / right now!
 >> 43.80 | Dr. Saotome | 君！ / 助けてくれて ありがとう！
-   EN: You there! Thank you for saving me!
+   EN: Thank you! Thank you for saving me!
 >> 43.81 | {p} | 博士！ / ご無事ですか！？
    EN: Doctor! Are you all right!?
 >> 43.82 | Dr. Saotome | あぁ 大丈夫だ！

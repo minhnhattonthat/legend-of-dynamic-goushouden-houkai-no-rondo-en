@@ -1,0 +1,14 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor
+- 21.56 - JP: The situation remains precarious; frightened people are becoming violent - “Could go either way” weakens Yumi’s urgent assessment during the siege - Suggested EN: “The situation is precarious. People driven by fear are turning into a mob. We need to assess what's happening, quickly.”
+- 23.14, 24.55 - JP: Fukurokoji addresses/refers to his boss, Yamagishi - Capitalized “Boss” risks confusing his allegiance with the named Mazinger character present in this chapter - Suggested EN: “Owww! Chief, I can't take this anymore...” / “I'll follow the chief, of course!”
+
+### Assessment
+ok - The central revelations, recurring phrases, emotional conflict over {s}, and uneasy-alliance comedy remain coherent, with only minor wording concerns (read 400 entries).

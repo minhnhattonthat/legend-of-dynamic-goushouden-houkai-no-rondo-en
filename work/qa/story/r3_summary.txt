@@ -1,0 +1,21 @@
+== ch01: ok - Character voices, emotional beats, introductions, and callbacks remain coherent, with no premature reveals or significant continuity problems (read 300 entries).
+== ch02: ok - The chapter preserves its mysteries, Honey's grief, the reunion's emotional restraint, and the school comedy's setups and callbacks, with only minor voice polish needed (read 300 entries).
+== ch03: ok - The chapter preserves its revelations, character relationships, comedy, and emotional progression, with only minor voice polish needed (read 300 entries).
+== ch04: ok - Continuity, character voices, emotional beats, glossary terms, and the Scrander setup and payoff remain intact, with no premature reveals (read 200 entries).
+== ch05: ok - Names, voices, emotional beats, and callbacks remain consistent, with the chapter’s reveals preserved and Jiro’s opening concern carried through to his closing resolve (read 300 entries).
+== ch06: ok - Shusha’s betrayal and recovery, Maria’s sacrifice and continued presence within Shinichi, and Uryu’s reluctant alliance remain coherent and emotionally effective; voices, names, and terminology stay consistent. (read 400 entries)
+== ch08: ok - Grade's clues and callbacks, Honey's grief, the uneasy alliance comedy, and the rescue preparations remain coherent, with no Critical or Important issues (read 400 entries).
+== ch09: ok - The chapter preserves the concealed identities, manipulation and escape reveals, grief-to-hope progression, farewell comedy, and return-loop callbacks, with consistent voices and glossary terms (read 500 entries).
+== ch10: issue - The story, voices and emotional climax hold together, but Kedaman’s introduction loses the explicit payoff to the oversized-house setup (read 300 entries).
+#### Critical
+
+None.
+
+#### Important
+
+- **31.11** - JP gist: “This is inside my house!” - “This IS my house!” loses the explicit indoor reveal that pays off the repeated observations about impossibly large grounds at 30.84, 30.91 and 30.98. It can instead suggest Kedaman simply calls the jungle home. - Suggested EN: **“We're already INSIDE my house!”**
+== ch11: ok - Recruitment motives, comic callbacks, character voices, and Dante’s emotional progression remain coherent, with no premature reveals or glossary conflicts (read 400 entries).
+== ch12: ok - Akira's change after merging, Ryo's guarded voice, the children's courage, and the Abashiri family's comedy remain coherent, with no premature reveals or substantial losses of emotional impact (read 500 entries).
+== ch13: ok - Character voices, the “soft” callback, Ryo’s amnesia and recovery, Gore’s abandonment, and the closing comedy retain their force; glossary terms remain consistent and later identities stay concealed (read 300 entries).
+== ch14: ok - Character voices, the Sirene–Kaim emotional arc, recurring imagery, and the eclipse setup remain coherent, with consistent names and no premature reveals (read 300 entries).
+== ch15: ok - The deception, grief, restored hope, and farewell comedy retain their impact, with consistent terminology and no premature reveals (read 300 entries).

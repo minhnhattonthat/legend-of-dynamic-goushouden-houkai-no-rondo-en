@@ -1,0 +1,18 @@
+### Issues
+
+#### Critical
+
+None.
+
+#### Important
+
+None.
+
+#### Minor (deferred to the polish pass)
+
+- 49.24 - JP gist: “No good! It won't respond at all!” - “It won't make a peep!” adds a comic tone during the urgent rescue sequence. Suggested EN: “No good! It's not responding!”
+- 50.31 - JP gist: Their conspicuous clothing rules them out as ninja. - “Way too much” and “No way” briefly give Miroku a modern teenage voice, unlike his surrounding formal speech. Suggested EN: “Your clothes are far too conspicuous. You hardly look like ninja!”
+
+### Assessment
+
+ok - The chapter preserves the revelations, Akira's grief and renewed hope, and the farewell comedy, with only minor register polish needed (read 300 entries).

@@ -519,7 +519,7 @@
 >> 39.58 | Child | たとえ今日は負けても / いつかは勝てる！ / そのために 僕達 / 今日を戦うんだ！
    EN: Even if we lose today, someday we'll / win! That's why we fight today!
 >> 39.59 | Child | オヤジやオフクロが身体を捨てて / 守ってくれた この命！ / 俺は 逞馬竜に預けてるんだ！
-   EN: My dad and mom gave up their bodies / to protect this life of mine! And I'm / entrusting it to Ryu Takuma!
+   EN: My mom and dad gave their lives to / save mine! And I'm entrusting that / life to Ryu Takuma!
 >> 39.60 | Child | 逞馬君は おれ達のリーダー / 大人達に勝つための団結を / 子供達に呼びかけたんだ！
    EN: Takuma-kun's our leader. / He called on the kids to band together / so we can beat the grown-ups!
 >> 39.61 | Child | 震災砦から出ない方がいいよ
@@ -934,11 +934,11 @@
    EN: The Abashiri Family is crashin' the / Brawl Festival!
 >> 41.66 | Kichiza | ひでぇ！ 校長が出るのは / ルール違反だろう？
    EN: No fair! Isn't it against the rules for a / principal to fight?
->> 41.67 | Namakubi Danjuro | わしは ８０年の人生を / 殺人に費やしてきた… / わしに狙われて助かった者は / いなかった
+>> 41.67 | Danjuro Namakubi | わしは ８０年の人生を / 殺人に費やしてきた… / わしに狙われて助かった者は / いなかった
    EN: I have spent 80 years of my life on / murder... No one I targeted ever / survived.
 >> 41.68 | Kikunosuke | うちのオヤジ以外には…だろ？
    EN: Except our old man, right?
->> 41.69 | Namakubi Danjuro | だが今のわしは / 以前のわしではない！ / それを試すため / このケンカ祭りに出場したのだ！
+>> 41.69 | Danjuro Namakubi | だが今のわしは / 以前のわしではない！ / それを試すため / このケンカ祭りに出場したのだ！
    EN: But I am not the man I was! I entered / this Brawl Festival to test that!
 >> 41.70 | Naojiro | やったぜ 優勝だ！
    EN: All right, we won!

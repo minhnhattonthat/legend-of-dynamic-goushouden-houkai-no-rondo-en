@@ -285,7 +285,7 @@
 >> 10.41 | Koji Kabuto | マジンガーが海中に沈む！ / 海底で うまく 機械獣と / 戦えるだろうか…
    EN: Mazinger's sinking into the sea! / Can I really fight Mechanical Beasts on / the seabed...?
 >> 10.42 | {p} | でも うかつに海上に出たら / 集中砲火を浴びちゃう！
-   EN: But if we carelessly surface, we'll get / hit by concentrated fire!
+   EN: But if we surface without thinking, / we'll get blasted from all sides!
 >> 10.43 | Koji Kabuto | 海底を移動して / 光子力研究所に近づこう！
    EN: Let's move along the seabed and get / closer to the Photon Power Lab!
 >> 10.44 | Ashura (Male) | マジンガーは / 海中に沈んだようだな！？

@@ -1,0 +1,17 @@
+### Issues
+
+#### Critical (continuity break, reveal given away, wrong speaker)
+
+None.
+
+#### Important (voice drift or flattened, emotional beat lost, setup or callback dropped, joke dead)
+
+None.
+
+#### Minor (deferred to the polish pass)
+
+- 01.10 - JP gist: “That's a problem... Anyway, let's hurry onward.” - “What a pickle” briefly makes Honey sound quaint compared with her otherwise youthful voice, and softens her concern about the blocked return route. - Suggested EN: “That's trouble... Anyway, let's hurry on. Once we're down the mountain, I'm sure there'll be another way back.”
+
+### Assessment
+
+ok - Character voices, emotional turns, recurring black-moon references, and the developing mysteries remain coherent, with only a minor phrasing adjustment suggested (read 300 entries).

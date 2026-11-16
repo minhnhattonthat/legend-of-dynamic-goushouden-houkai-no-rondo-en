@@ -1,0 +1,30 @@
+== ch01: ok - Character voices, emotional turns, recurring black-moon references, and the developing mysteries remain coherent, with only a minor phrasing adjustment suggested (read 300 entries).
+== ch02: ok - Continuity, foreshadowing, character voices, recurring jokes, and Honey's grief remain intact, with only minor polish suggested (read 300 entries).
+== ch03: ok - Continuity, character voices, emotional turns, and reveal timing remain intact, with only minor polish needed (read 300 entries).
+== ch04: ok - Character voices, emotional beats, callbacks, and glossary terms remain coherent; the mysterious identities and Scrander reveal stay intact (read 200 entries).
+== ch05: ok - The chapter preserves its revelations, Uryu’s introduction gag, Shinichi’s anger, and Jiro’s closing conflict and resolve, with consistent names and no significant continuity or voice problems (read 300 entries).
+== ch06: ok - The betrayal, Maria’s sacrifice, Uryu’s reluctant cooperation, and the paired “light” callbacks retain their continuity and emotional force, with consistent names and no premature reveals (read 400 entries).
+== ch07: ok - The detective comedy preserves its setups and payoffs, Honey’s infiltration and reveal remain coherent, and the shift into possession and abduction retains character voices, emotional stakes, and glossary terminology (read 300 entries).
+== ch08: ok - The central revelations, recurring phrases, emotional conflict over {s}, and uneasy-alliance comedy remain coherent, with only minor wording concerns (read 400 entries).
+== ch09: ok - Character voices, emotional callbacks, and the staged revelations remain coherent, with only a minor farewell-address polish issue (read 500 entries).
+== ch10: ok - The chapter preserves the comic exchanges, character voices, memory-loop revelations, and final emotional callbacks without introducing continuity breaks or premature reveals (read 300 entries).
+== ch11: ok - Recruitment motives, recurring comedy, Dante's despair and recovery, and the uneasy alliances remain coherent; names and terms match the references, with no premature reveals or significant emotional losses (read 400 entries).
+== ch12: issue - The child’s tribute to their parents needs its emotional clarity restored; otherwise, character development, callbacks, and reveal timing remain coherent (read 500 entries).
+#### Critical
+
+None.
+
+#### Important
+
+- 39.59 - Parents sacrificed themselves to save their child, who now entrusts that life to Takuma - “Gave up their bodies” obscures the parents’ deaths and weakens the connection between their sacrifice and the child’s resolve - Suggested EN: “My mom and dad gave their lives to save mine! And I'm entrusting that life to Ryu Takuma!”
+== ch13: ok - Character voices, the “soft” callback, Saotome’s ruthlessness, Ryo’s recovery, and Gore’s final humiliation retain their impact without premature reveals (read 300 entries).
+== ch14: issue - Akira’s protective anger is misdirected in 46.17; otherwise the chapter preserves its character voices, major emotional beats, and reveal boundaries (read 300 entries).
+#### Critical
+
+None.
+
+#### Important
+
+- 46.17 - JP gist: “Get out! How dare you show {p} this situation!” - “See you like this” makes the guard’s condition the object of Akira’s anger. The surrounding exchange concerns exposing {p} to the hostile crowd outside, setting up his discovery that they demand his surrender (46.65). - Suggested EN: “Get out! How dare you show {p} what's happening outside!”
+== ch15: ok - The chapter preserves the revelations, Akira's grief and renewed hope, and the farewell comedy, with only minor register polish needed (read 300 entries).
+== ch16: ok - Character voices, recruitment beats, recurring jokes, and story references remain coherent, with no premature reveals or significant lost callbacks (read 263 entries).

@@ -249,7 +249,7 @@
 >> 49.23 | Shusha | 光の中から出るんだ / {p}君！
    EN: Get out of the light, / {p}-kun!
 >> 49.24 | Akira Fudo | ダメだ！ / うんともすんとも言わない！
-   EN: No good! It won't make a peep!
+   EN: No good! It's not responding!
 >> 49.25 | Ryo Asuka | あれから随分時間がたったな…
    EN: A lot of time has passed since then...
 >> 49.26 | Shinichi | これでゲッターロボは / 解放されるはずだ！
@@ -463,7 +463,7 @@
 >> 50.30 | {p} | …僕達を狙ったんじゃないの？
    EN: ...You weren't aiming at us?
 >> 50.31 | Miroku | おまえらのその格好は目立ち過ぎる / とても忍びの服装とは思えん！
-   EN: The way you're dressed stands out / way too much. No way that's a ninja's / outfit!
+   EN: Your clothes are far too conspicuous. / You hardly look like ninja!
 >> 50.32 | Ryo Asuka | あいつら まるで忍者のような / 格好を していたな…
    EN: Those guys were dressed just like / ninja...
 >> 50.33 | Miroku | 恐らく真田忍者だろう…

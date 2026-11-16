@@ -1,0 +1,17 @@
+### Issues
+
+#### Critical
+
+None.
+
+#### Important
+
+- 46.17 - JP gist: “Get out! How dare you show {p} this situation!” - “See you like this” makes the guard’s condition the object of Akira’s anger. The surrounding exchange concerns exposing {p} to the hostile crowd outside, setting up his discovery that they demand his surrender (46.65). - Suggested EN: “Get out! How dare you show {p} what's happening outside!”
+
+#### Minor
+
+- 45.29 - JP gist: “It's as though even the Dimension Chain never happened, let alone that incident.” - “Nothing happened here” blurs the specific callback to “that incident,” weakening the transition from Ryo’s observation about Akira’s transformation to his speculation about erased memories. Preserve the reference without explaining it. - Suggested EN: “It's like that incident never happened... or even the Dimension Chain.”
+
+### Assessment
+
+issue - Akira’s protective anger is misdirected in 46.17; otherwise the chapter preserves its character voices, major emotional beats, and reveal boundaries (read 300 entries).

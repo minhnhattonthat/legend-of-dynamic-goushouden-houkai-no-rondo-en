@@ -395,7 +395,7 @@
 >> 07.96 | {p} | う うん…！
    EN: Y-yeah...!
 >> 07.97 | Jiro | 護鬼！ 戦鬼！ 行くぞ！ / 鬼谷を倒し 美雪さんを助ける！
-   EN: Goki! Senki! Let's go! We beat Kitani and / save Miyuki-san!
+   EN: Goki! Senki! Let's go! We'll beat Kitani / and save Miyuki-san!
 >> 07.98 | Goki | はい！ 童子！！
    EN: Yes, Doji!!
 >> 07.99 | {p} | よし！ / 僕らも行くぞ えん魔くん！

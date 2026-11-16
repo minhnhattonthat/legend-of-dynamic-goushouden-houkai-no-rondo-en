@@ -339,7 +339,7 @@
 >> 34.68 | Dante | どうした 殺せないのか？ / 消せないのか？ / 貴様が 俺を消せないのなら / 俺が 貴様らを消してやる！ / ひとり残らず / 全世界から消してやる！ / 人間 ひとり残らず！！
    EN: What's wrong, can't you kill me? Can't / erase me? If you can't erase me, / then I'll erase all of you! Every last / one, from the whole world! Every last / human!!
 >> 34.69 | Dante | グオオオオオオ！ / こ これは 冷凍ガス…！ / そうだ これで…これでいい…！
-   EN: GUOOOOOOOH! / Th-this is freezing gas...! Yes, with / this... this is good...!
+   EN: GUOOOOOOOH! / Th-this is freezing gas...! Yes... this / is... this is for the best...!
 >> 34.70 | Dante | グルルル… おのれ…！
    EN: Grrrr... Curse you...!
 >> 34.71 | Dante | これで 俺は…再び 氷の中に…！ / グオオオオオオ！
@@ -467,7 +467,7 @@
 >> 35.32 | Genzo Kuruma | 新しい時代に 生き残れる生物を / 生み出さねばならぬ / 凄まじき地獄を乗り切り 新しき / 時代に導いてくれる人類を…な
    EN: We must create living things that can / survive in a new age. A new humanity / that can endure a terrible hell and / lead us into that age...
 >> 35.33 | Shinichi | たわけた事を言うな！！
-   EN: Don't talk such nonsense!!
+   EN: Don't give me that garbage!!
 >> 35.34 | Genzo Kuruma | おまえには やはり解らんか…
    EN: So you still don't understand...
 >> 35.35 | Shinichi | ふざけるな！！

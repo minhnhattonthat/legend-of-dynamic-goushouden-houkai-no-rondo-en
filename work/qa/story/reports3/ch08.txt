@@ -1,0 +1,16 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+
+- 24.07 - Shinichi recalls losing Maria and wants to spare the protagonist that grief - “I don't want you to taste that” sounds translated and slightly interrupts an otherwise strong emotional callback - Suggested EN: “The grief of losing Maria... I don't want you to go through that. I'll go to the Hill of Beginnings! To bring {s} back!”
+
+- 24.71 - Yumi endorses Shinichi as assault leader, then asks the protagonist's opinion - “I think you'd be fine” followed immediately by the protagonist's name briefly obscures whom Yumi endorses - Suggested EN: “I think you'd make a fine leader, Shinichi-kun... {p}-kun, what do you think?”
+
+### Assessment
+ok - Grade's clues and callbacks, Honey's grief, the uneasy alliance comedy, and the rescue preparations remain coherent, with no Critical or Important issues (read 400 entries).

@@ -1,0 +1,14 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+- 32.13 - “I did it for you! And yet…!” - “And this is what I get!? This!!” makes the girlfriend’s emotional repetition awkward in English. Suggested EN: “I did it all for you! And yet... and yet...!”
+- 32.24 / 32.54 - Grade contemptuously acknowledges the arriving heroes - “So the small fry appear...” sounds like stage narration, weakening his direct taunt in both route variants. Suggested EN: “So you've come, you small fry...”
+
+### Assessment
+ok - The chapter preserves the comic exchanges, character voices, memory-loop revelations, and final emotional callbacks without introducing continuity breaks or premature reveals (read 300 entries).

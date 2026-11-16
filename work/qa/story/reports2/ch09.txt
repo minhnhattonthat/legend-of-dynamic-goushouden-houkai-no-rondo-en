@@ -1,0 +1,17 @@
+### Issues
+
+#### Critical
+
+None.
+
+#### Important
+
+None.
+
+#### Minor
+
+- 28.30 - JP gist: Jubei thanks the player for what she learned and wants to follow his example. - “I learned a lot from {p}-kun” and “his example” make this farewell sound addressed to others rather than to the player. - Suggested EN: “Anyway, I've learned a lot from you, {p}-kun! As a descendant of the Yagyu ninja, I've got to follow your example!”
+
+### Assessment
+
+ok - Character voices, emotional callbacks, and the staged revelations remain coherent, with only a minor farewell-address polish issue (read 500 entries).

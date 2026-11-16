@@ -1,0 +1,17 @@
+### Issues
+
+#### Critical
+
+None.
+
+#### Important
+
+- **31.11** - JP gist: “This is inside my house!” - “This IS my house!” loses the explicit indoor reveal that pays off the repeated observations about impossibly large grounds at 30.84, 30.91 and 30.98. It can instead suggest Kedaman simply calls the jungle home. - Suggested EN: **“We're already INSIDE my house!”**
+
+#### Minor
+
+None.
+
+### Assessment
+
+**issue** - The story, voices and emotional climax hold together, but Kedaman’s introduction loses the explicit payoff to the oversized-house setup (read 300 entries).

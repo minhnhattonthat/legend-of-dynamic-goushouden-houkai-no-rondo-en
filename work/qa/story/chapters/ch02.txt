@@ -91,7 +91,7 @@
 >> 03.44 | Mondo | おっかねえ 女だな おい！
    EN: Whoa, that's one scary dame!
 >> 03.45 | Honey Kisaragi | 父の仇 シスター・ジル！ / あたしが受けた 心の痛み / この剣で 思い知らせてやるわ！
-   EN: Sister Jill, my father's killer! / The pain you've put in my heart, I'll / make you feel it with this sword!
+   EN: Sister Jill, my father's killer! / I'll make you feel the pain you've / caused me with this sword!
 >> 03.46 | Sister Jill | 覚えておいで！
    EN: You'll regret this!
 >> 03.47 | Jack | グオオオオオオオ！

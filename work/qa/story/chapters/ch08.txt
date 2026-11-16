@@ -113,7 +113,7 @@
 >> 21.55 | {p} | …なんてことだ
    EN: ...This is terrible.
 >> 21.56 | Professor Yumi | 事態は 予断を許さない / 不安に駆られた人々が / 暴徒化している / 状況を急いで整理し / 分析する必要がある
-   EN: The situation could go either way. / People driven by fear are turning into / a mob. We need to sort out and / analyze the situation, quickly.
+   EN: The situation is precarious. / People driven by fear are turning into / a mob. We need to assess what's / happening, quickly.
 >> 21.57 | Professor Yumi | にわかには信じられんことが / 続発したようだね
    EN: It seems one unbelievable thing after / another has been happening.
 >> 21.58 | Seiji Hayami | 科学都市に来た時には / 俺達も我が目を疑ったもんな…
@@ -429,7 +429,7 @@
 >> 23.13 | Yamagishi | てやんでぇ これしきの傷！ / やられたら やりかえすぜ！ / たとえ相手が / 元{s}でもな！
    EN: Bah, a scratch like this! You hit me, I / hit back! Even if it's the former / {s}!
 >> 23.14 | Fukurokoji | 痛いよ～！ オヤブン / もういやだ こんなの…
-   EN: Owww! Boss, I can't take this anymore...
+   EN: Owww! Chief, I can't take this / anymore...
 >> 23.15 | Jubei | {p}には気の毒だけど / もう忘れるべきよ / {s}のこと…
    EN: I feel bad for you, {p}, / but you should forget about / {s} now...
 >> 23.16 | Jiro | 手天童子郎でもあり / 手天童子でもある / それでも俺は 俺であることに / かわりはない / しかし {s}は / 魔物になってしまった！
@@ -711,7 +711,7 @@
 >> 24.54 | Yamagishi | 攻めるのも 面白そうだけど / 守るのも スリルありそう…
    EN: Attacking sounds like a blast, but / defending sounds like a thrill too...
 >> 24.55 | Fukurokoji | もちろん オヤブンに従います！
-   EN: I'll follow the Boss, of course!
+   EN: I'll follow the chief, of course!
 >> 24.56 | Jubei | {p}君には / 助けて貰ったもん / 今度は あたしが彼を / 助ける番だわ
    EN: {p}-kun saved me. Now / it's my turn to save him.
 >> 24.57 | Jiro | 美雪さんを 助けて貰った恩は / 忘れないよ / {p}次第さ / 俺は どちらでもいいよ

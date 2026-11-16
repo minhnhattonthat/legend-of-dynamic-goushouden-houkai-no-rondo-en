@@ -147,7 +147,7 @@
 >> 11.72 | Uryu | 最後に忠告しよう… / 美剣千草には / 関らないほうが身のためだ…！
    EN: A final word of advice... / For your own good, stay away from / Chigusa Mitsurugi...!
 >> 11.73 | Jiro | 美剣千草… 瓜生麗… / ふたりとも なんて超能力者だ！ / しかも彼らは 鬼の血を継ぐ者じゃ / ないようだ！
-   EN: Chigusa Mitsurugi... Rei Uryu... What / psychics, the both of them! And they / don't seem to have oni blood!
+   EN: Chigusa Mitsurugi... Rei Uryu... They're / both incredible psychics! And neither / seems to have oni blood!
 >> 11.74 | {p} | それに… ふたりとも / 朱紗って人の名前を口にしたね…
    EN: And... they both mentioned that / Shusha guy...
 >> 11.75 | Jiro | 気になるな… / それに ふたりとも この村に / 真理阿はいないって言ってた…
@@ -477,7 +477,7 @@
 >> 13.37 | Shusha | ……
    EN: ......
 >> 13.38 | Mitsurugi | 瓜生麗の野望を 止めなくては！
-   EN: We must stop Rei Uryu's ambitions!
+   EN: We must stop Rei Uryu from realizing / his ambitions!
 >> 13.39 | {p} | 瓜生麗だって！？
    EN: Rei Uryu!?
 >> 13.40 | Mitsurugi | 瓜生麗を知っているの？

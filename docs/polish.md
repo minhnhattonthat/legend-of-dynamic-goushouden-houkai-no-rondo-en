@@ -148,3 +148,38 @@ stale tags in the batch files the chapter export read; the shipped tags were rig
 - [x] 32.13 - "I did it thinking of you! And yet! And yet!!" reads translated: fixed.
 - [x] 37.77-37.78 - "artifact" is too academic for 作り物: fixed ("It's fake." / "Fake...? Ah, Ryo!").
 - [x] 44.10 - "I knew you was alive!" contradicts "I figured you was a goner": fixed ("So you was alive after all!").
+
+## Story pass round 2 (codex, chapters inlined, work/qa/story/reports2/; fixes in work/qa/review/story_r2.tsv)
+Important (fixed): 39.59 the parents' sacrifice ("gave their lives to save mine"), 46.17 Akira's anger is about what
+{p} is shown. Minors:
+- [x] 01.10 03.45 07.97 10.42 11.73 13.38 15.91 16.65 21.56 28.30 32.13 32.24 32.54 34.69 35.33 43.80 45.29 49.24
+  50.31 - stiff or misdirected wording (Honey's "What a pickle", Shusha's roar read as a cheer, Jubei's farewell in
+  the third person, "You there!" to a friend...): fixed as suggested or close to it.
+- [x] 23.14 24.55 - Fukurokoji's "Boss" could read as Boss of Mazinger Z: fixed ("Chief").
+- [x] 41.67 41.69 - speaker tag "Namakubi Danjuro" (JP order) vs "Danjuro Namakubi" in dialogue: fixed in
+  tools/speakers.tsv.
+- [x] 05.03 - waived: "There, there. You're all right now." keeps Yamagishi's reassurance; the baby-talk nuance is
+  a matter of taste.
+- [x] 07.31 - waived: Jiro's "you wretches" matches the JP 貴様ら's hostility on first meeting strangers.
+- [x] 08.49 - waived: "jaja" is Chapeau-jii's running speech tic (glossary: ジャジャ as ", jaja"), kept for consistency of his voice.
+- [x] 52.50-52.52 - waived: "big sis" / "little brother" already carry the siblings' playful register.
+
+## Story pass rounds 3-4 (confirming rounds, work/qa/story/reports3/ and reports4/)
+Important (fixed): 31.11 Kedaman "We're already INSIDE my house!" (pays off the oversized-grounds setup); ch10 then
+re-reviewed ok. Every chapter has a current ok verdict (`qa_gate.py check work/qa/story/manifest.tsv` exits 0). The
+Minors of these rounds are style preferences on lines that read correctly; each further edit would reopen its
+chapter's review, so they are waived for v1.0 and kept here as candidates for a later patch version:
+- [x] 02.61 39.11 - waived: Jack's "won't walk away clean" (alternative: "won't come out unscathed").
+- [x] 04.31 - waived: resident's "How very splendid!" (alternative: "now that's something to look forward to!").
+- [x] 05.03 08.49 - waived: raised in round 2 too, waived there.
+- [x] 07.76 - waived: Goki's "I want to know what I am myself!" (alternative: "I too wish to know what I am!").
+- [x] 09.29-09.30 - waived: Ashura's split threat keeps the JP clause order across the two halves on purpose.
+- [x] 24.07 24.71 - waived: Shinichi "I don't want you to taste that"; Yumi's "I think you'd be fine" (alternative:
+  "I think you'd make a fine leader, Shinichi-kun...").
+- [x] 28.59 - waived: Honey's "So... so you too" (alternative: "So... don't you forget {s} either").
+- [x] 32.13 - waived: round 2 asked for "And yet... and yet...!", round 4 for the earlier wording back: reviewers split.
+- [x] 32.27 - waived: Honey's "Humans are the ones who..." (alternative: "And humans keep pushing those limits").
+- [x] 36.52 - waived: Higegodzilla's "I'm sooo happy" (alternative: "I'm so vewy happy!").
+- [x] 40.31 - waived: Takuma's "We'll be fine leaving" (alternative: "I can leave this place for a while").
+- [x] 49.54 - waived: Daemon's "You're not half bad, kid!" (alternative with his elder register: "You've done well,
+  my boy!").

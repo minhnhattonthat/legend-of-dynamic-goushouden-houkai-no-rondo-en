@@ -1,0 +1,17 @@
+### Issues
+
+#### Critical (continuity break, reveal given away, wrong speaker)
+
+None.
+
+#### Important (voice drift or flattened, emotional beat lost, setup or callback dropped, joke dead)
+
+None.
+
+#### Minor (deferred to the polish pass)
+
+- 28.59 - Honey will never forget Natsu and encourages {p} to remember {s} too - “So... so you too” makes the shared-grief callback unnecessarily awkward in English - Suggested EN: “It's okay, Seiji-kun. Honey will never forget Natsu-chan! So... don't you forget {s} either, {p}... okay?”
+
+### Assessment
+
+ok - The chapter preserves the concealed identities, manipulation and escape reveals, grief-to-hope progression, farewell comedy, and return-loop callbacks, with consistent voices and glossary terms (read 500 entries).

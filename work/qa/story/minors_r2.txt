@@ -1,0 +1,41 @@
+## ch01
+- 01.10 - JP gist: “That's a problem... Anyway, let's hurry onward.” - “What a pickle” briefly makes Honey sound quaint compared with her otherwise youthful voice, and softens her concern about the blocked return route. - Suggested EN: “That's trouble... Anyway, let's hurry on. Once we're down the mountain, I'm sure there'll be another way back.”
+## ch02
+- 03.45 - Honey vows to make Jill feel her anguish through her sword - “The pain you've put in my heart” sounds awkward at the climax of her confrontation - Suggested EN: “Sister Jill, my father's killer! I'll make you feel the pain you've caused me with this sword!”
+- 05.03 - Yamagishi comforts Jubei with exaggerated baby talk - “There, there” preserves the reassurance but softens the comic contrast with his usual rough voice - Suggested EN: “There, there. Aww, it's all better now.”
+## ch03
+- 07.31 - Jiro demands to know whether they are Kibutsu Clan members - “You wretches” gives him an archaic villain register unlike his otherwise direct teenage voice - Suggested EN: “Are you with the Kibutsu Clan!?”
+- 07.97 - Jiro rallies his protectors to defeat Kitani and rescue Miyuki - “We beat Kitani and save Miyuki-san!” sounds awkwardly declarative at the action climax - Suggested EN: “Goki! Senki! Let's go! We'll defeat Kitani and save Miyuki-san!”
+- 08.49 - Chapeau-jii cannot identify the fever's cause - Adds his comic “jaja” tic where the Japanese uses only ordinary ジャ, slightly distracting from the bedside concern - Suggested EN: “I can't tell what's causing the high fever...”
+## ch04
+- 10.42 - Surfacing carelessly would expose them to concentrated fire - “If we carelessly surface” sounds stiff for the protagonist’s friendly, youthful voice during danger - Suggested EN: “But if we surface without thinking, we'll get blasted from all sides!”
+## ch05
+- 11.73 - Jiro marvels at both psychics and notes their lack of oni ancestry - “What psychics, the both of them!” sounds stilted beside his otherwise natural dialogue - Suggested EN: “Chigusa Mitsurugi... Rei Uryu... They're both incredible psychics! And neither seems to have oni blood!”
+- 13.38 - Mitsurugi insists they must thwart Uryu’s ambitions - “Stop Rei Uryu's ambitions” is an awkward collocation that slightly weakens her urgent declaration - Suggested EN: “We must stop Rei Uryu from realizing his ambitions!”
+## ch06
+- 15.91 - Shusha roars as anguish triggers his transformation - “Wooooooooh” can read as a celebratory cheer, weakening the transition from betrayal to monstrous rage - Suggested EN: “UOOOOOOH...!!”
+- 16.65 - The protagonist shouts for the attacker to identify himself immediately after Maria screams - “Who's theeere!?” sounds playfully sing-song during a serious attack - Suggested EN: “Who's there!?”
+## ch07
+None.
+## ch08
+- 21.56 - JP: The situation remains precarious; frightened people are becoming violent - “Could go either way” weakens Yumi’s urgent assessment during the siege - Suggested EN: “The situation is precarious. People driven by fear are turning into a mob. We need to assess what's happening, quickly.”
+- 23.14, 24.55 - JP: Fukurokoji addresses/refers to his boss, Yamagishi - Capitalized “Boss” risks confusing his allegiance with the named Mazinger character present in this chapter - Suggested EN: “Owww! Chief, I can't take this anymore...” / “I'll follow the chief, of course!”
+## ch09
+- 28.30 - JP gist: Jubei thanks the player for what she learned and wants to follow his example. - “I learned a lot from {p}-kun” and “his example” make this farewell sound addressed to others rather than to the player. - Suggested EN: “Anyway, I've learned a lot from you, {p}-kun! As a descendant of the Yagyu ninja, I've got to follow your example!”
+## ch10
+- 32.13 - “I did it for you! And yet…!” - “And this is what I get!? This!!” makes the girlfriend’s emotional repetition awkward in English. Suggested EN: “I did it all for you! And yet... and yet...!”
+- 32.24 / 32.54 - Grade contemptuously acknowledges the arriving heroes - “So the small fry appear...” sounds like stage narration, weakening his direct taunt in both route variants. Suggested EN: “So you've come, you small fry...”
+## ch11
+- 35.33 - Shinichi angrily rejects his father's justification - “Don't talk such nonsense!!” sounds unusually prim beside “Old man!” and “Don't screw with me!!,” briefly weakening his furious confrontation - Suggested EN: “Don't give me that garbage!!”
+- 34.69 - Dante recognizes the freezing gas and welcomes his confinement - “Yes, with this... this is good...” makes his moment of resignation sound awkward - Suggested EN: “GUOOOOOOOH! Th-this is freezing gas...! Yes... this is... this is for the best...!”
+## ch12
+- 41.67, 41.69 - Danjuro Namakubi speaks - Speaker labels use “Namakubi Danjuro,” reversing the Western order established in 41.57 and 41.59 - Suggested EN speaker label: “Danjuro Namakubi.”
+## ch13
+43.80 - Saotome thanks his rescuer - “You there!” sounds like an address to a stranger after his established relationship with the protagonist; the isolated 君 need not be translated literally - Suggested EN: “Thank you! Thank you for saving me!”
+## ch14
+- 45.29 - JP gist: “It's as though even the Dimension Chain never happened, let alone that incident.” - “Nothing happened here” blurs the specific callback to “that incident,” weakening the transition from Ryo’s observation about Akira’s transformation to his speculation about erased memories. Preserve the reference without explaining it. - Suggested EN: “It's like that incident never happened... or even the Dimension Chain.”
+## ch15
+- 49.24 - JP gist: “No good! It won't respond at all!” - “It won't make a peep!” adds a comic tone during the urgent rescue sequence. Suggested EN: “No good! It's not responding!”
+- 50.31 - JP gist: Their conspicuous clothing rules them out as ninja. - “Way too much” and “No way” briefly give Miroku a modern teenage voice, unlike his surrounding formal speech. Suggested EN: “Your clothes are far too conspicuous. You hardly look like ninja!”
+## ch16
+- 52.50–52.52 - Mamii and his sister use playful baby-talk sibling names - Plain “big sis” and “little brother” soften their shared comic mannerism - Suggested EN: “Sissy, you're leavin'? What about the store?” / “Oh, I know, little bro-bro, you run it!” / “Me!? All right! I'll mind the store while Sissy's away!!”

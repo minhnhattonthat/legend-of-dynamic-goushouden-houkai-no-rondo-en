@@ -661,7 +661,7 @@
 >> 28.29 | Fukurokoji | オヤブン それは言いっこなし
    EN: Boss, don't bring that up.
 >> 28.30 | Jubei | ともかく {p}君からは / 多くのことを学んだわ！ / あたしも 柳生忍者の末裔として / 見習わなくっちゃ！
-   EN: Anyway, I learned a lot from / {p}-kun! As a / descendant of the Yagyu ninja, I've / got to follow his example!
+   EN: Anyway, I've learned a lot from you, / {p}-kun! As a / descendant of the Yagyu ninja, I've / got to follow your example!
 >> 28.31 | Yamagishi | 十兵衛は マジメだなぁ～！
    EN: Jubei, you're so serious!
 >> 28.32 | Fukurokoji | 元の世界に戻ったら / また宿題が待ってるのかなー？

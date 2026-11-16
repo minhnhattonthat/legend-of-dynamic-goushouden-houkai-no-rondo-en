@@ -221,7 +221,7 @@
 >> 01.09 | {p} | …道が 塞がれちゃった！ / 「始まりの丘」に戻れない！
    EN: ...The path's blocked off! We can't get / back to the "Hill of Beginnings"!
 >> 01.10 | Honey Kisaragi | 困ったわね… / ともかく 先を急ぎましょう / 山を降りたら / きっと 別の道が あると思うの
-   EN: What a pickle... Anyway, let's hurry on. / Once we're down the mountain, I'm / sure there'll be another way back.
+   EN: That's trouble... Anyway, let's hurry / on. Once we're down the mountain, I'm / sure there'll be another way back.
 >> 01.11 | Akira Fudo | だ だいたいさ 右だの左だのって / どうして 僕達の場所が / わかるんだ？
    EN: B-but seriously, all this "go right," / "go left"... How do they even know / where we are?
 >> 01.12 | Akira Fudo | だ だから / どうして 僕達の場所が…

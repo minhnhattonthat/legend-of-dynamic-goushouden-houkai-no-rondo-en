@@ -1,0 +1,13 @@
+### Issues
+
+#### Critical
+None.
+
+#### Important
+None.
+
+#### Minor (deferred to the polish pass)
+- 10.42 - Surfacing carelessly would expose them to concentrated fire - “If we carelessly surface” sounds stiff for the protagonist’s friendly, youthful voice during danger - Suggested EN: “But if we surface without thinking, we'll get blasted from all sides!”
+
+### Assessment
+ok - Character voices, emotional beats, callbacks, and glossary terms remain coherent; the mysterious identities and Scrander reveal stay intact (read 200 entries).

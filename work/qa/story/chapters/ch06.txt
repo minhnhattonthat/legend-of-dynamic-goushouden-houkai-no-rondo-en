@@ -383,7 +383,7 @@
 >> 15.90 | {p} | 美剣さん！？ / まさか 朱紗君の身に…！？
    EN: Mitsurugi-san!? Don't tell me / something's happening to / Shusha-kun...!?
 >> 15.91 | Shusha | ウォォォォォォォ…！！
-   EN: Wooooooooh...!!
+   EN: UOOOOOOOH...!!
 >> 15.92 | Yukishiro | きゃあ～！
    EN: Kyaaa!
 >> 15.93 | Uryu | 変身だ！ ふはははは！ / 朱紗が 変身するぞ！
@@ -531,7 +531,7 @@
 >> 16.64 | Shinichi | 真理阿～～！？
    EN: MARIAAA!?
 >> 16.65 | {p} | 誰だ～！？
-   EN: Who's theeere!?
+   EN: Who's there!?
 >> 16.66 | Uryu | ここまできて / 邪魔されてたまるか！
    EN: I've come this far, I won't let you get in / my way now!
 >> 16.67 | {p} | 瓜生！
