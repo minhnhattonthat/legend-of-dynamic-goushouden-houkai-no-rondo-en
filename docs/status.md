@@ -2,7 +2,37 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (graphics sweep closed: gfxleft 0; next the gate tour: tour sheets, qa_gate, vqa.sh, then inkbox, textcover, and the not-yet-seen labels). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (gate tour shot, 6/30 vqa chunks judged; message viewer for textcover built; Yes/No boxes fixed). Phase 7 done 2026-11-16.
+
+## Phase 8 session 12 (2026-11-16): gate tour, Yes/No boxes, forced message viewer
+**Memory is the bottleneck:** each Mesen takes ~1 GB, another project's emulator shares the machine, and Claude Code
+kills idle background shells when memory runs low (it killed both long runs this session). Run ONE long job at a
+time (`--jobs 1`, `JOBS=1`), nothing else alongside.
+- **Tour:** tour_en complete on build 0ee58113 (353 scenes + 3 new `*_yn`), tour_jp complete (sign scenes and `*_yn`
+  rerun). `tour_sheets.py` -> work/qa/tour (356 sheets); `qa_gate.py init work/qa/manifest.tsv work/qa/tour --glob
+  "*.png" --build build/goushouden_en.gba` (recorded build 0ee58113, the OLD build); chunks in work/qa/chunks (30 x
+  12). `vqa.sh` judged chunk_000-005 (work/qa/verdicts), then was killed (memory). Issues so far: B00.00 one-word
+  last line (fixed, recheck_002), name-entry kana grid (standing non-bug, D9, added to visual-qa-brief; recheck_001).
+- **Fixed, seen in cold-boot shots:** the save overwrite box r0D3C98 ran past its 64-px box ("Old data will be",
+  "No" clipped): now "Old data will / be erased. / Overwrite it?". All eight Yes/No boxes (r0D3BA0..r0D3EB0) placed
+  Yes/No far from where the game draws its fixed cursor; now Yes / No start at the original はい / いいえ columns
+  (x = 8*col, space = 3 px). Seen: m1_save_yn (inkbox margins = the original's, 2/2), m1_name_yn (matches the
+  original). Not reached yet: load box r0D3C60 (needs save data), erase boxes, 取消してよろしいですか (m1_name_yn2
+  doesn't reach it). New build 73ed6249: check ok, smoke ok.
+- **Text coverage infrastructure (new):** build.py writes `build/goushouden_en.strings.tsv` (8,055 ids: archive
+  messages -> their u16 id-map entry, read on every lookup by 0x08017E18 / 0x0800FE88; ROM strings -> where the build
+  put them). `tools/cover_ranges.py` -> the RANGES for `$SKILL/scripts/lua/probes/textcover.lua` (verified: a
+  map_290 warp logs dialogue 34.10 and the debug-menu strings). `tools/lua/msgview.lua` + `tools/msgview.py`: forced
+  message viewer: map_290's entry event (4 messages) with the id swapped at 0x08017E18, a state reloaded whenever the
+  event runs dry, mash.lua advancing; ~200 frames / ~1.4 s per message (12/12 test ok). The full run (5,363 ids, 16
+  chunks) was killed by memory; per-chunk timeout is now 300 + 3 s per id.
+- **Next, in order:** (1) re-tour on the current build (one job: `warp_all.py --out work/qa/tour_en --jobs 1`), then
+  `tour_sheets.py`, `qa_gate.py init ... --build build/goushouden_en.gba` (keeps verdicts of unchanged sheets),
+  `qa_gate.py todo`, `JOBS=1 sh tools/vqa.sh`, fix, `qa_gate.py check`. (2) `msgview.py --chunks 16 --jobs 1`, plus a
+  warp_all run with `--script $SKILL/scripts/lua/probes/textcover.lua --var "RANGES='$(python tools/cover_ranges.py)'"
+  --out work/qa/cover`, then `textcover.py work/qa work/qa/... build/goushouden_en.strings.tsv`: ROM strings (items,
+  skills, enemies, names) need forcing too or waivers with reasons (docs/text_unshown.tsv). (3) Remaining Yes/No
+  boxes above; RESUME / SHOP / SYM / CRITICAL!! / MISS labels still unseen.
 
 ## Phase 8 session 11 (2026-11-16): field teleport, S7 signs closed
 - **Teleport:** warp.lua step `at=X:Y` (player pixels at map load; camera = X-120, Y-88; docs/re/debug.md §Field

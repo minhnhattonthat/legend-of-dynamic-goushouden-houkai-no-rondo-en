@@ -1,6 +1,6 @@
 """build.py: original ROM -> build/goushouden_en.gba.
 
-  python -X utf8 build.py            check the dump against rom.sha1, build build/goushouden_en.gba (+ .writes.txt)
+  python -X utf8 build.py            check the dump against rom.sha1, build build/goushouden_en.gba (+ .writes.txt, .strings.tsv)
   python -X utf8 build.py --marker   every line -> its id + filler: build/goushouden_marker.gba (tools/marker.py)
   python -X utf8 build.py --verify   identity build (no engine changes); exit 1 unless byte-identical to the original
   python -X utf8 build.py --reencode --out build/reencode.gba   identity build, every archive file through our lh5
@@ -95,11 +95,14 @@ SCRIPT_FILE_MAX = 0x8000  # bytes per unpacked script file (heap-allocated; see 
                           # largest file, 28,566 bytes, ran the whole marker tour
 
 
-def insert_rom_strings(rom, texts, put=None, reloc=None):
+def insert_rom_strings(rom, texts, put=None, reloc=None, addrs=None):
     """Translated plain strings and record names go in place; one longer than its slot is relocated when reloc =
     (orig, at, ptrs): written at `at` (free space after the archives) and every pointer word in ptrs[off] (the
-    extracted sites, each asserted to hold 0x08000000 + off in the original) repointed. Returns the new cursor."""
+    extracted sites, each asserted to hold 0x08000000 + off in the original) repointed. Returns the new cursor.
+    addrs: if given, filled with {original offset: offset the built ROM holds the string at}."""
     for off, room, text, translated in texts:
+        if addrs is not None:
+            addrs[off] = off
         if not translated:
             continue
         data = sjis.encode(sjis.fullwidth(text) if off in FULLWIDTH else text)
@@ -111,6 +114,8 @@ def insert_rom_strings(rom, texts, put=None, reloc=None):
             if at + len(data) + 1 > engine.ROM_SIZE:
                 raise SystemExit("relocated strings run past the end of the ROM at r%06X" % off)
             put(at, data + b"\0", "string %06X relocated" % off)
+            if addrs is not None:
+                addrs[off] = at
             for site in sites:
                 if struct.unpack_from("<I", orig, site)[0] != 0x08000000 + off:
                     raise SystemExit("r%06X: pointer at %06X does not hold its address in the original" % (off, site))
@@ -142,7 +147,7 @@ def identity(orig, reencode=False):
     return bytes(rom)
 
 
-def build(orig, marker=False, writes=None, qa=()):
+def build(orig, marker=False, writes=None, qa=(), strings=None):
     """The English ROM: engine patches (tools/engine.py), archive at engine.NEW_ARCHIVE, strings in place.
     qa: ("FF.SS", text) overrides for single script messages (stress / torture lines)."""
     rom = bytearray(orig)
@@ -163,6 +168,7 @@ def build(orig, marker=False, writes=None, qa=()):
         if len(f.raw) > SCRIPT_FILE_MAX:
             raise SystemExit("script file %02d: %d bytes unpacked, the limit is %d" % (fi, len(f.raw), SCRIPT_FILE_MAX))
     cur = put_archive(w, arc, engine.NEW_ARCHIVE)
+    bases = {"script": engine.NEW_ARCHIVE}
     # the five archives after it (docs/re/text.md §1b): rebuilt after the script archive, their literal pools
     # repointed; one with no pointer (the unused test line) stays where it is, untouched
     for spec in archive.ARCHIVES[1:]:
@@ -173,6 +179,7 @@ def build(orig, marker=False, writes=None, qa=()):
         insert_archive(arc, marker_mod.archive_markers(spec.name) if use else extract.archive_texts(name=spec.name),
                        spec, wide=True)
         at = cur
+        bases[spec.name] = at
         cur = put_archive(w, arc, at, spec.name)
         for site in spec.sites:
             if struct.unpack_from("<I", orig, site)[0] != 0x08000000 + spec.base:
@@ -185,12 +192,30 @@ def build(orig, marker=False, writes=None, qa=()):
             lo, hi = (int(x, 16) for x in scope[4:].split("-"))
         marks = {t[0]: t for t in marker_mod.rom_markers() if lo <= t[0] < hi}
         texts = [marks.get(t[0], t) for t in texts]
-    cur = insert_rom_strings(rom, texts, w.put, (orig, cur, extract.rom_ptrs())) or cur
+    addrs = {}
+    cur = insert_rom_strings(rom, texts, w.put, (orig, cur, extract.rom_ptrs()), addrs) or cur
     gfx.insert(orig, w.put, cur)
     gfx_sfx.apply(orig, w.put)  # SFX letters: the glyph lookup (its glyph blocks came through gfx.insert)
     if writes is not None:
         writes.extend(w.log)
+    if strings is not None:
+        strings.extend(string_table(bases, addrs))
     return bytes(rom)
+
+
+def string_table(bases, addrs):
+    """[(id, GBA address)] for textcover.py (build/strings.tsv): the address the game reads first for each string.
+    Archive messages: the u16 id-map entry X+2+2*id (0x08017E18 and 0x0800FE88 read it on every lookup; the text
+    itself is unpacked to RAM). ROM strings: the string's first byte where the build put it."""
+    out = []
+    for name in extract.script_files():
+        spec = archive.BY_DIR.get(name.split("/")[0])
+        if spec is not None:
+            base = bases.get(spec.name, spec.base)
+            out += [(e["id"], 0x08000000 + base + 2 + 2 * e["msg"][0]) for e in extract.load(name) if e.get("msg")]
+        elif name.startswith("rom/") and name != "rom/sfx.json":
+            out += [(e["id"], 0x08000000 + addrs[int(e["id"][1:], 16)]) for e in extract.load(name)]
+    return out
 
 
 def main():
@@ -205,14 +230,16 @@ def main():
     args = ap.parse_args()
     check_rom.check()
     orig = ROM.read_bytes()
-    log = []
+    log, strings = [], []
     if args.verify or args.reencode:
         out = identity(orig, args.reencode)
     else:
-        out = build(orig, args.marker, log, [q.split("=", 1) for q in args.qa])
+        out = build(orig, args.marker, log, [q.split("=", 1) for q in args.qa], strings)
     dest = args.out or (MARKER if args.marker else OUT)
     dest.parent.mkdir(exist_ok=True)
     dest.write_bytes(out)
+    if strings:
+        dest.with_suffix(".strings.tsv").write_text("".join("%s\t%X\n" % s for s in strings), encoding="utf-8")
     if log:
         dest.with_suffix(".writes.txt").write_text("\n".join(log) + "\n", encoding="utf-8")
     same = out == orig

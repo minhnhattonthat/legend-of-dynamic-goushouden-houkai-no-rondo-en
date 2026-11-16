@@ -29,9 +29,13 @@ Standing non-bugs (`ok`):
 - anything that looks the same in the original (right half);
 - the leftover debug menus (デバックＭＥＮＵ and its sub-menus, map/BGM/SE test lists) are developer screens: Japanese
   there is `ok` unless the scene is a real game screen reached through them;
-- graphics-text rows still listed as to do in `docs/re/graphics.md` (menu captions S1, battle UI S4, lettering S5,
-  shop signs S7) are known: mark them `issue` only with the note `gfx S<n>` so they are not lost, nothing more.
+- graphics text (menu captions, battle UI, SFX lettering, shop signs) is all redrawn in English now: Japanese
+  drawn as graphics on the left is an `issue` like any other text, except the logo and the debug menus above.
+- the English frame showing a different moment than the original (a later page, a menu already open, a field one
+  step further) is `ok` as long as the left frame itself has no issue.
 - "(C)" for the copyright sign on the title is intended.
+- the name-entry character grid (m1_name*, retail_newgame) keeps its hiragana / katakana pages next to the ABC page
+  (tabs HIRA / KATA / ABC, decision D9): kana in that grid, and a kana letter typed into the name, are `ok`.
 
 ## Verdicts
 Your final message is the verdict list and nothing else, one line per sheet in the chunk, in order:

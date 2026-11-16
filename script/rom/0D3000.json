@@ -1327,7 +1327,7 @@
   ],
   "max": 59,
   "jp": "　本当に消しますか？　　　　[0A]　　　[0A]　　　はい　　いいえ[0A]　",
-  "en": " Really erase it?[0A]   [0A]            Yes          No[0A] ",
+  "en": " Really erase it?[0A]   [0A]        Yes     No[0A] ",
   "status": "done",
   "notes": ""
  },
@@ -1338,7 +1338,7 @@
   ],
   "max": 59,
   "jp": "全セーブデータを消しますか？[0A]　　　[0A]　　　はい　　いいえ[0A]　",
-  "en": "Erase all save data?[0A]   [0A]            Yes          No[0A] ",
+  "en": "Erase all save data?[0A]   [0A]        Yes     No[0A] ",
   "status": "done",
   "notes": ""
  },
@@ -1360,7 +1360,7 @@
   ],
   "max": 39,
   "jp": "ロードしますか？　　[0A]　はい　　いいえ",
-  "en": "Load this data?[0A]    Yes          No",
+  "en": "Load this data?[0A]   Yes    No",
   "status": "done",
   "notes": ""
  },
@@ -1382,7 +1382,7 @@
   ],
   "max": 59,
   "jp": "前のデータは消さ[0A]れます[0A]上書きしますか？[0A]　はい　　いいえ",
-  "en": "Old data will be[0A]erased.[0A]Overwrite it?[0A]    Yes          No",
+  "en": "Old data will[0A]be erased.[0A]Overwrite it?[0A]   Yes    No",
   "status": "done",
   "notes": ""
  },
@@ -1584,7 +1584,7 @@
   ],
   "max": 55,
   "jp": "取消してよろしいですか？[0A]　　[0A]　はい　　　　いいえ[0A]　",
-  "en": "Really cancel?[0A]  [0A]    Yes                  No[0A] ",
+  "en": "Really cancel?[0A]  [0A]   Yes          No[0A] ",
   "status": "done",
   "notes": ""
  },
@@ -1595,7 +1595,7 @@
   ],
   "max": 55,
   "jp": "これでよろしいですか？[0A]　　　[0A]　はい　　　　いいえ[0A]　",
-  "en": "Is this OK?[0A]   [0A]    Yes                  No[0A] ",
+  "en": "Is this OK?[0A]   [0A]   Yes          No[0A] ",
   "status": "done",
   "notes": ""
  },
@@ -1607,7 +1607,7 @@
   ],
   "max": 51,
   "jp": "取消してよろしいですか？[0A]　　[0A]　　はい　　いいえ[0A]　",
-  "en": "Really cancel?[0A]  [0A]        Yes          No[0A] ",
+  "en": "Really cancel?[0A]  [0A]      Yes    No[0A] ",
   "status": "done",
   "notes": ""
  },
@@ -1619,7 +1619,7 @@
   ],
   "max": 51,
   "jp": "これでよろしいですか？[0A]　　　[0A]　　はい　　いいえ[0A]　",
-  "en": "Is this OK?[0A]   [0A]        Yes          No[0A] ",
+  "en": "Is this OK?[0A]   [0A]      Yes    No[0A] ",
   "status": "done",
   "notes": ""
  },

@@ -79,3 +79,7 @@ x_debugdata     6                                         # debug data, back to 
 # --- S7 map signs (teleported: the sign whole on screen, camera a multiple of 8; gfxlabel SCREENS sign*) ---
 sign245         2,0,map=245,at=120:328                     # 間身井薬局 plate (tile set 73E49C)
 sign147         2,0,map=147,at=760:168                     # 間身井薬局 plate (tile set 661050, 小さな町)
+# --- Yes/No boxes (inkbox.py) ---
+m1_save_yn      3,3,5,wait=240,press=a,wait=150                # save: pick slot 1 -> confirm box
+m1_name_yn      3,3,7,wait=240,press=start,wait=40,press=a,wait=150   # name entry: START (cursor to OK), A -> これでよろしいですか
+m1_name_yn2     3,3,7,wait=240,press=b,wait=30,press=b,wait=30,press=b,wait=30,press=b,wait=150  # name entry: B past an empty name (does NOT reach 取消してよろしいですか yet: find its trigger)
