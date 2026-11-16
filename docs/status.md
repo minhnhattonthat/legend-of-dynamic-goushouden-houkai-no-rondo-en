@@ -2,7 +2,23 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (gate tour shot, 6/30 vqa chunks judged; message viewer for textcover built; Yes/No boxes fixed). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (all 30 vqa chunks of the old tour judged, its issues fixed; re-tour on build 994585e0 running with the textcover probe). Phase 7 done 2026-11-16.
+
+## Phase 8 session 13 (2026-11-16): vqa chunks 012-029, sign + credits fixes
+- **vqa:** chunks 012-029 judged (codex read-only, `JOBS=2 sh tools/vqa.sh`): 347 ok, 3 new issues, all closed in
+  work/qa/verdicts/recheck_003.tsv: map_135 plate MUMMY -> **MAMII** / DRUGS (glossary; all 4 sign entries), o_ending
+  credit captions r0D2FE0 respaced to sit centred under the portraits (half-width space = 3 px), o_battle short
+  names = D8 (now a standing non-bug in docs/visual-qa-brief.md). Seen in cold-boot warps work/qa/fix13.
+- **Build 994585e0** (check ok). Re-tour started: `warp_all.py build/goushouden_en.gba --out work/qa/tour_en3
+  --jobs 1 --script $SKILL/scripts/lua/probes/textcover.lua --var "RANGES='$(python tools/cover_ranges.py)'"`
+  (one pass = gate shots + textcover logs). Don't rebuild while it runs: every scene loads build/goushouden_en.gba.
+  **Killed by Claude Code's low-memory reaper** at 119/~356 scenes (map_063), together with a parallel
+  `msgview.py --chunks 16 --jobs 1` (c00, c01 done 336/336 each, c02 partial). Cause: another project's 5 Mesen
+  instances (onmyou-taisenki, ~3 GB) on the same machine. Rerun both only when that machine is free, ONE at a time
+  (the tour first; warp_all has no resume, so rerun it whole into a fresh tour_en3; msgview `--only` can redo c02+).
+- **Next:** `tour_sheets.py --en work/qa/tour_en3`, `qa_gate.py init work/qa/manifest.tsv work/qa/tour --glob
+  "*.png" --build build/goushouden_en.gba`, `qa_gate.py todo ... --out-dir work/qa/chunks` (only changed sheets),
+  vqa, `qa_gate.py check`. Then msgview (`--jobs 1`) + textcover on work/qa/tour_en3 + work/qa/msgview.
 
 ## Phase 8 session 12 (2026-11-16): gate tour, Yes/No boxes, forced message viewer
 **Memory is the bottleneck:** each Mesen takes ~1 GB, another project's emulator shares the machine, and Claude Code
