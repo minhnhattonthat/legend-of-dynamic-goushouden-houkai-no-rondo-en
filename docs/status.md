@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 994585e0; text coverage: every ROM string and archive shown, dialogue msgview running; load-box fix awaiting build). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 9045e3a5 (waived hotfix of 994585e0); text coverage: every ROM string and archive shown, dialogue 3068/5363: msgview c09-c15 left). Phase 7 done 2026-11-16.
 
 ## Phase 8 session 16 (2026-11-16): every ROM string and archive forced, labels triaged
 - **`tools/coverage.py`**: coverage over tour_en3 + msgview + forcearc + forcestr, grouped by kind (`--list KIND`
@@ -14,9 +14,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **forcearc:** desc 290/290 (per-id budget 150: 120 ran out), place 312/312, book/effect done before. **All
   archives covered.** Remaining coverage = dialogue only (msgview c05..c15 running when this was written).
 - **Load box r0D3C60** (new scene `m1_load_yn`: save, soft reset, load, A): "Load this data?" ran onto the box's
-  right border (JP ？ ends inside it) -> "Load data?" in script/rom/0D3000.json. **Not built yet** (msgview was
-  using build/goushouden_en.gba). After the rebuild: warp m1_load_yn, inkbox, then `qa_gate.py waive` (one string,
-  in place, nothing else moves) or a re-tour.
+  right border (JP ？ ends inside it) -> "Load data?". **Build 9045e3a5** (check ok, smoke ok, strings.tsv
+  addresses unchanged): box seen in a cold-boot warp vs the original (work/qa/yn/cmp3.png), inkbox ok;
+  `qa_gate.py waive` recorded for this build, **`qa_gate.py check` exits 0**.
+- **msgview killed by the memory reaper at c09** (c00-c08 done: dialogue 3068/5363 shown). **Next:** rerun
+  `python -X utf8 tools/msgview.py --chunks 16 --jobs 1 --resume` (skips c00-c08; ~7 chunks x ~8 min) with no
+  other Mesen running, then `python -X utf8 tools/coverage.py`: any dialogue still missing -> rerun those ids or
+  waive with a reason. Then the gate itself: gather the log dirs into one LOGDIR (textcover.py takes one) e.g.
+  `textcover.py work/qa build/goushouden_en.strings.tsv --waive docs/text_unshown.tsv` (work/qa also holds logs
+  of older builds: fine for archive/id-map ids, check before trusting it), and Phase 8 is done -> phase 9.
 - **Erase prompts r0D3B84/BA0/BDC** (group 7 of the per-screen string table 0x08104618, getter 0x0808F7C0, a retail
   helper: reachup's "debug" root for it is wrong): drawn by the title's Yes/No widget 0x080C2200; no combo held at
   the title or from boot (15 tried) opens it; debug top-menu row 7 erases with no prompt. Covered by forcestr only;
