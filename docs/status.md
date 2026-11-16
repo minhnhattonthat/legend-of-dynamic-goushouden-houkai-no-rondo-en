@@ -2,7 +2,31 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (re-tour on build 994585e0 at 332/356, resumable; text coverage the big remaining gate). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 994585e0; text coverage 2569/8055 shown + 491 waived, the remaining gate). Phase 7 done 2026-11-16.
+
+## Phase 8 session 15 (2026-11-16): tour finished, visual gate green, archive forcing
+- **Tour tour_en3 done** (356/356, `--resume`, log work/qa/tour_en3_run3.log). `tour_sheets.py`, `qa_gate.py init`
+  (76 sheets changed), 7 chunks judged by codex (`JOBS=2 sh tools/vqa.sh`; old verdict files renamed `s13_chunk_*`
+  so vqa.sh doesn't skip the new chunk names: **do this again before every new todo**). Only issue: the pharmacy
+  plate MAMII / DRUGS vs glossary "Mamii Pharmacy": ruled the plate form (5 letters per line; glossary note +
+  visual-qa-brief standing non-bug), work/qa/verdicts/recheck_004.tsv. **`qa_gate.py check` exits 0** on 994585e0.
+- **New `tools/forcearc.py`**: forces every book/desc/effect/place message through 0x0800FE88 (forceview with
+  FV_IF = the archive's base in this build, LOOP reload). Scenes (FVCALL probes): book m1_book f419, desc m1_book
+  f403/f458 (m1_status_sk's call follows a scripted SELECT the reload doesn't replay), effect m2_sptn f633 (partner
+  stock box), place m1_load f400. Shots checked: each draws in its own box. Run result: **book 148/148, effect 92/92,
+  desc 270/290, place 11/312** (killed by the memory reaper). Rerun `python -X utf8 tools/forcearc.py --only
+  desc,place` (it has no resume; ~15 min).
+- **msgview:** c00-c04 done, c05 118/336 (killed). Rerun `msgview.py --chunks 16 --jobs 1 --resume` (~1 h left).
+- **Field box messages (r0D00C8..r0D1400, ~125: joins, keys, Yes/No, Save):** 0x0807C970(str, r1, r2) is strlen +
+  malloc + copy + 0x0807CA44(buf, r1, r2, 0); its twin **0x0807C9D0(id, r1, r2)** gets the buffer from 0x08017C14(id)
+  then calls the same 0x0807CA44 at 0x0807C9F0. Plan: forceview FV_ADDR=0x0807C9E2 (just after 0x08017C14 returns),
+  FV_REG r0 = each ROM string's address (strings.tsv), in a scene whose event uses 0x0807C9D0 (check map_290 first
+  with FVCALL at 0x0807C9E2). Event code calling 0x0807C970 is per-map (126 BL sites 0x08023C80..0x080657FA).
+- **Still open:** battle messages r0D1FB8..r0D2270, credits names r0D2BB0.. / series r0D2304.. (ending_credits
+  hold), save/erase/load r0D3B84..r0D3F10, data-table names 0DB-0DE (~910: swap the pointer at a printer call in a
+  list screen; forceview logs r3 now too).
+- **Memory:** the reaper killed both runs again while another project's 4-6 Mesen (onmyou-taisenki, ~615 MB each)
+  ran. Check `Get-CimInstance Win32_Process -Filter "Name='Mesen.exe'"` before a long run; ONE job at a time.
 
 ## Phase 8 session 14 (2026-11-16): tour resumed, text-coverage triage
 - **Resume flags:** `warp_all.py --resume` keeps scenes whose shot + WARP_DONE log exist (same ROM and probes!);

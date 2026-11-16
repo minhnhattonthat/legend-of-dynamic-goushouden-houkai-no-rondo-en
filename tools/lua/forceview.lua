@@ -6,7 +6,7 @@
 -- On entry of FV_ADDR, from frame FV_FROM, register FV_REG is replaced by the next value of FV_VALS (one per line,
 -- hex 0x.. or decimal; text after the value is ignored). FV_ARGS also forces other registers on each substitution.
 -- Logs "FV <value> f<frame>" per substitution and "FORCEVIEW_DONE" when the list runs out (after HOLD frames).
--- Without FV_VALS it only logs the game's own calls ("FVCALL r0 r1 r2 lr"). LOOP=1: a state saved at FV_FROM is
+-- Without FV_VALS it only logs the game's own calls ("FVCALL r0 r1 r2 r3 lr"). LOOP=1: a state saved at FV_FROM is
 -- loaded again whenever IDLE frames pass with no call. FV_SHOTS=1: fv_<n>.png FV_SHOT frames after each one.
 local addr, reg, from, hold, shotAt = FV_ADDR, "cpu." .. (FV_REG or "r0"), FV_FROM or 0, HOLD or 120, FV_SHOT or 90
 local vals, nexti = {}, 1
@@ -31,8 +31,8 @@ L.on_exec(addr, addr, function()
   local s = emu.getState()
   if ifReg and s["cpu." .. ifReg] ~= tonumber(ifVal) then return end
   if not FV_VALS then
-    L.log(string.format("FVCALL %08X %08X %08X lr %08X f%d", s["cpu.r0"], s["cpu.r1"], s["cpu.r2"], s["cpu.r14"] or 0,
-      L.frame))
+    L.log(string.format("FVCALL %08X %08X %08X %08X lr %08X f%d", s["cpu.r0"], s["cpu.r1"], s["cpu.r2"], s["cpu.r3"],
+      s["cpu.r14"] or 0, L.frame))
     return
   end
   if L.frame < from or nexti > #vals then return end
