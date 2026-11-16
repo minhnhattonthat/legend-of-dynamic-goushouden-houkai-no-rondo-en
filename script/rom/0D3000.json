@@ -1360,7 +1360,7 @@
   ],
   "max": 39,
   "jp": "ロードしますか？　　[0A]　はい　　いいえ",
-  "en": "Load this data?[0A]   Yes    No",
+  "en": "Load data?[0A]   Yes    No",
   "status": "done",
   "notes": ""
  },

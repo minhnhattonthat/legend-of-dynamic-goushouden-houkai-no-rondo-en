@@ -2,7 +2,28 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 994585e0; text coverage 2569/8055 shown + 491 waived, the remaining gate). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (visual gate green on build 994585e0; text coverage: every ROM string and archive shown, dialogue msgview running; load-box fix awaiting build). Phase 7 done 2026-11-16.
+
+## Phase 8 session 16 (2026-11-16): every ROM string and archive forced, labels triaged
+- **`tools/coverage.py`**: coverage over tour_en3 + msgview + forcearc + forcestr, grouped by kind (`--list KIND`
+  for ids, `--missing-out F`). The gate stays `$SKILL/scripts/textcover.py` on one LOGDIR.
+- **`tools/forcestr.py`** (new): m1_item's list draws names with the menu printer 0x0800E3D0(win, r1 = string) from
+  f400; forceview swaps r1 for each ROM string's build address (LOOP reload at f399, ~13 per reload). Run with
+  `--chunks 8`: **all 1,332 non-waived ROM strings shown** (box messages, battle, credits, save, data-table names).
+  Shots (`--shots`) show the names drawn in the item list. Proves read + drawn by the game's printer, not own-box fit.
+- **forcearc:** desc 290/290 (per-id budget 150: 120 ran out), place 312/312, book/effect done before. **All
+  archives covered.** Remaining coverage = dialogue only (msgview c05..c15 running when this was written).
+- **Load box r0D3C60** (new scene `m1_load_yn`: save, soft reset, load, A): "Load this data?" ran onto the box's
+  right border (JP ？ ends inside it) -> "Load data?" in script/rom/0D3000.json. **Not built yet** (msgview was
+  using build/goushouden_en.gba). After the rebuild: warp m1_load_yn, inkbox, then `qa_gate.py waive` (one string,
+  in place, nothing else moves) or a re-tour.
+- **Erase prompts r0D3B84/BA0/BDC** (group 7 of the per-screen string table 0x08104618, getter 0x0808F7C0, a retail
+  helper: reachup's "debug" root for it is wrong): drawn by the title's Yes/No widget 0x080C2200; no combo held at
+  the title or from boot (15 tried) opens it; debug top-menu row 7 erases with no prompt. Covered by forcestr only;
+  their Yes/No columns follow the session-12 rule (original はい/いいえ columns).
+- **Graphics labels never displayed by a warp** (RESUME, CRITICAL!!/MISS/%UP, SHOP, SYM): each is unpacked by the
+  game into VRAM in the EN build; RESUME and CRITICAL/MISS renders read English. Details + evidence paths in
+  docs/re/graphics.md §Labels loaded but not displayed. Name entry has only 3 tab slots (SYM never shows).
 
 ## Phase 8 session 15 (2026-11-16): tour finished, visual gate green, archive forcing
 - **Tour tour_en3 done** (356/356, `--resume`, log work/qa/tour_en3_run3.log). `tour_sheets.py`, `qa_gate.py init`

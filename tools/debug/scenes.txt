@@ -30,6 +30,7 @@ m1_status       3,3,3                                     # status
 m1_item         3,3,4                                     # items
 m1_save         3,3,5                                     # save screen
 m1_load         3,3,6                                     # load screen
+m1_load_yn      3,3,5,wait=60,press=a,wait=120,press=a,wait=120,press=a,wait=240,press=a+b+start+select,wait=300,3,3,6,wait=240,press=a,wait=120   # save, soft reset, load screen: Load this data? (r0D3C60)
 m1_name         3,3,7                                     # name entry (hero)
 m1_name_r       3,3,7,wait=60,press=r,wait=60,press=r,wait=60,press=r,wait=60   # name entry, R past the 英語 tab
 m1_namesub      3,3,8                                    # name entry (heroine)

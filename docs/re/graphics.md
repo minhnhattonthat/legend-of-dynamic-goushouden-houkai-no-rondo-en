@@ -45,6 +45,19 @@ From the tour (font-drawn or not yet tied to a block):
 Not graphics (font-drawn SJIS strings, verified in ROM): name-entry confirm box `これでよろしいですか？` / `はい` /
 `いいえ` (0x0D3E44), dialogue speaker plates and text.
 
+## Labels loaded but not displayed by any warp (phase 8 session 16, EN build, cold boot)
+Each one is unpacked into VRAM by the game (`tools/lua/unpackat.lua` log) and its tiles rendered from a ppudump
+(`tiles.py render`, work/qa/lbl/): the English art is what the game loads; no scene puts it on screen.
+- **RESUME** 2FE9B8 -> 0x060019E0 at the title (title_menu2, f1856, with NEW GAME / CONTINUE / PROFILES): the pill
+  shows only with suspend data. 大出 row 9 (中断GAME) loads slot 2 through 0x080159B0(2) and prints `データ無し`;
+  the title's choice 4 runs the resume 0x0808EF64. How retail writes a suspend is not found (the title doesn't call
+  0x080159B0). Render: work/qa/lbl/ppu_title/pills_p1.png (all four pills English, same style).
+- **CRITICAL!! / MISS / %UP** 2F5C04 -> 0x06003520 in the shop (m2_shop f365, unused there); battles load the same
+  tiles from 362154 / 3621F4, but no warp lands a critical or a miss. Render: work/qa/lbl/ppu_m2_shop/crit_z.png.
+- **SHOP** 2F91C4 -> 0x060045E0 in every shop (f377); no shop screen maps it. **SYM** 2F8BB8 -> 0x060003E0 with name
+  entry (f358); the screen has three tab slots (HIRA / KATA / ABC, L and R cycle only those). Both checked by
+  unpacking the built ROM (session 8); their VRAM tiles are not row-major, so the renders are not readable.
+
 ## To do (later phases)
 1. Tie each group to its screen: dump VRAM on the screen, `vramfind.py` against the decoded blocks, corrupt to confirm
    (graphics.md §Find the source). S5 and S7 need warps (phase 2 debug tool).

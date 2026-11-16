@@ -26,7 +26,7 @@ KINDS = {
     "book": ("B", "m1_book", 405, 214),         # FVCALL r0=1 f419 (desc 0x72 f403/f458 too)
     # FVCALL r0=0x72 f403 and f458 (skill line under the profile); m1_status_sk's one call (f515) comes from a
     # scripted SELECT press the state reload doesn't replay, so only the first id took there
-    "desc": ("D", "m1_book", 395, 120),
+    "desc": ("D", "m1_book", 395, 150),         # 2 ids per ~263-frame reload: 120/id ran out at 270/290
     "effect": ("E", "m2_sptn", 625, 214),       # FVCALL r0=1 f633 (partner stock: equipment effect box)
     "place": ("P", "m1_load", 392, 214),        # FVCALL r0=0 f400 (load screen)
 }
