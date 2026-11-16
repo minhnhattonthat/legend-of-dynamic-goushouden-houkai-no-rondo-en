@@ -2,7 +2,39 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (all 30 vqa chunks of the old tour judged, its issues fixed; re-tour on build 994585e0 running with the textcover probe). Phase 7 done 2026-11-16.
+- **Phase:** 8. QA in the emulator: in progress (re-tour on build 994585e0 at 332/356, resumable; text coverage the big remaining gate). Phase 7 done 2026-11-16.
+
+## Phase 8 session 14 (2026-11-16): tour resumed, text-coverage triage
+- **Resume flags:** `warp_all.py --resume` keeps scenes whose shot + WARP_DONE log exist (same ROM and probes!);
+  `msgview.py --resume` skips chunks already MSGVIEW_DONE with the same ids. tour_en3 was finished this way
+  (log work/qa/tour_en3_run2.log). **Killed again by the low-memory reaper at 332/~356 (after map_286)**: rerun the
+  same command with `--resume` (it skips the 332 done scenes; only ~24 left, a few minutes), ONE job, nothing else.
+- **Coverage now (tour_en3 + msgview c00-c02, before waivers):** 980/8055 shown. Missing by kind: dialogue 4622
+  (msgview covers them: run `msgview.py --chunks 16 --jobs 1 --resume`, c00/c01 done), book B 147, desc D 288,
+  effect E 91, place P 311, ROM strings 1615.
+- **Waivers:** `docs/text_unshown.tsv` (518: 78 not text = `status data` or blank, 439 debug-only, T00.00 unused).
+  Debug-only evidence: field-test name list 0x080FA814 (0x137 ptrs, only the debug field test), test-menu strings
+  r0D3008..r0D3B60 (`tools/reachup.py`: every reference roots at the debug コ menu 0x0808F758), developer sprite/BG
+  test strings, the debug top-menu header. `tools/reachup.py ID..` walks pointer -> loader -> BL/pointer callers to
+  root functions; its table-base guess (nearest referenced word <= 0x800 before) is wrong for tails of big tables
+  (it put the save messages r0D3B84.. under 0x0808F758 too: those are retail, NOT waived).
+- **ROM strings left (~1,100 after waivers), by kind and how to force them:**
+  - field system box messages (joins "Battler X joined", keys, Yes/No, Save/Don't save: r0D00C8..r0D0FF0,
+    r0D100C..): event code calls **0x0807C970(r0 = string, r1 = 2, r2 = -1)**. New `tools/lua/forceview.lua`
+    (generic msgview: hook FV_ADDR, replace FV_REG by the next value of FV_VALS, LOOP reload) can force them; first
+    find a scene that calls 0x0807C970 (run forceview without FV_VALS: it logs `FVCALL` per call).
+  - battle messages (Ambushed!/First strike!/Run/escape/steal: r0D1Fxx, r0D2018.., 0x08C1E8 pool),
+    credits (r0D2xxx ptrs @0x0D2xxx + series names @0x103xxx: ending_credits needs a longer hold), save/erase/load
+    boxes r0D3B80..r0D3F38 (retail, need forcing or scenes).
+  - data-table names (ptrs in 0x7B3000..0x7E4000): characters/enemies 0DB000 (~290), skills/items 0DC000/0DD000
+    (~520), traits/effects 0DE000 (~94), item descriptions 0DD @7DC: need list viewers (fill inventory / skill
+    lists by RAM poke, scroll) or a forced name lookup per kind.
+  - archives B/D/E/P: all go through 0x0800FE88(id, archive, 1, dest): forceview on 0x0800FE88 with FV_REG r0 in
+    a scene that shows that archive (m1_book for B, an item menu for D, status equipment for E, save slots / Japan
+    map for P), filtering by r1 = archive base (add an FV_IF register filter to forceview.lua).
+- **Next, in order:** (1) gate: `tour_sheets.py --en work/qa/tour_en3`, `qa_gate.py init ... --build`, `todo`,
+  `JOBS=1 sh tools/vqa.sh`, fix, `check`. (2) msgview resume. (3) forceview for 0x0800FE88 archives and 0x0807C970
+  box messages. (4) list viewers for names. Run ONE emulator job at a time (memory).
 
 ## Phase 8 session 13 (2026-11-16): vqa chunks 012-029, sign + credits fixes
 - **vqa:** chunks 012-029 judged (codex read-only, `JOBS=2 sh tools/vqa.sh`): 347 ok, 3 new issues, all closed in
