@@ -9,7 +9,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/goushouden_en.gba --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 $SKILL/scripts/emu.py build/goushouden_en.gba --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.txt` + `map_NNN` from `tools/debug/maps.tsv`; never ask the user to play to a scene)
 - Warp all: `python -X utf8 tools/debug/warp_all.py [ROM] [--only RE] [--states]` (one shot per scene in `work/qa/warp_all/shots/`; `--states` regenerates `work/states/<scene>.mss`)
-- Release:  `python -X utf8 tools/release.py [--version 1.0]` (every gate, patch + re-apply check, release/*.zip; never publish without the user)
+- Release:  `python -X utf8 tools/release.py [--version 1.1]` (every gate, patch + re-apply check, release/*.zip; never publish without the user)
 - Story pass: `python -X utf8 tools/story.py` -> `qa_gate.py init work/qa/story/manifest.tsv work/qa/story/chapters --glob "*.txt"` -> `sh tools/story_review.sh` -> `tools/story.py --verdicts`
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

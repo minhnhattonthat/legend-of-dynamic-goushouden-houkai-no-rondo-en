@@ -43,6 +43,7 @@ def run(rom, ids, d, ranges, shots, resume=False):
     (d / "ids.txt").write_text("".join("%d\n" % i for i in ids))
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(d),
            "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", "SCENE='%s'" % SCENE,
+           "--var", "SCENES=[[%s]]" % (ROOT / "tools" / "debug" / "scenes.txt").as_posix(),  # Mesen's cwd varies
            "--script", str(ROOT / "tools" / "lua" / "msgview.lua"),
            "--var", "IDS='%s'" % (d / "ids.txt").as_posix(), "--var", "MV_FROM=%d" % MV_FROM, "--var", "LOOP=1",
            "--script", str(ROOT / "tools" / "lua" / "mash.lua"), "--var", "FROM=%d" % MASH_FROM,

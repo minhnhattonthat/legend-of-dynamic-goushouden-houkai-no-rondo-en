@@ -73,12 +73,15 @@ def main():
         vals.write_text("".join("%d %s\n" % i for i in ids))
         cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(d),
                "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", "SCENE='%s'" % scene,
+               "--var", "SCENES=[[%s]]" % (ROOT / "tools" / "debug" / "scenes.txt").as_posix(),  # Mesen's cwd varies
                "--script", str(ROOT / "tools" / "lua" / "forceview.lua"), "--var", "FV_ADDR=0x0800FE88",
                "--var", "FV_IF='r1=0x%08X'" % base, "--var", "FV_VALS='%s'" % vals.as_posix(),
                "--var", "FV_FROM=%d" % frm, "--var", "LOOP=1", "--var", "IDLE=%d" % IDLE,
                "--script", str(Path(SKILL) / "scripts" / "lua" / "probes" / "textcover.lua"),
                "--var", "RANGES='%s'" % ranges,
                "--frames", str(frm + 600 + per * len(ids)), "--timeout", str(300 + 2 * len(ids))]
+        if kind == "place":  # the load screen needs save data; emu.py gives each run its own empty saves dir
+            cmd += ["--sav", str(ROOT / "tools" / "mesen" / "Saves" / "goushouden_en.sav")]
         if a.shots:
             cmd += ["--var", "FV_SHOTS=1", "--var", "FV_SHOT=%d" % SHOT]
         p = subprocess.run(cmd, capture_output=True, text=True)

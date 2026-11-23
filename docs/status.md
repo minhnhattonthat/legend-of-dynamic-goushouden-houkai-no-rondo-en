@@ -5,6 +5,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 9. v1.0 published 2026-11-16: https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.0
   (repo now public, description carries the real title; uploaded zip sha1 c2a45324 = release/ zip).
 
+## Release v1.1 (2026-11-23): issue #1 fix
+- `python -X utf8 tools/release.py --version 1.1` exits 0. `release/Goushouden_EN_v1.1.zip`, notes
+  `release/notes_v1.1.md`: patch sha1 1d1b0551aa2f6d1ee88a5d2112cd24a709f8e666, patched CRC32 DA83E446 / sha1
+  e1c26fb02e87f8abbe33d9d3f2c6118f2f6d05c0. Zip patch applied to a clean dump = build; boots (work/qa/rel11_zip).
+- Visual tour waived for e1c26fb0 (text + book code only): msgview shots of 1245 1270 1292 (work/qa/msgview_rel11)
+  and the m1_book warp (work/qa/rel11_book). The blank-line fix grew the archive again: forcearc_v11
+  (book 147/148, desc 290/290, place 312/312) and forcestr_v11 (the 64 moved ROM strings) added to COVER_DIRS.
+- Tooling: emu.py (plugin) no longer runs Mesen from tools/mesen and gives each run its own saves dir, so
+  msgview/forcearc/forcestr now pass `SCENES=` (absolute scenes.txt) and forcearc's place run passes
+  `--sav tools/mesen/Saves/goushouden_en.sav` (the load screen needs a save). Manual warps need the same `SCENES` var.
+- GitHub release v1.1 and the issue comment are done by the harness, not this session.
+
 ## Issue #1 (2026-11-23, branch fix/issue-1): player report on v1.0
 - **Dialogue page opens on the bottom row** (01.52 01.73 01.91, 80 messages): the box has 2 rows and a blank line
   is an empty row, not a page break; the JP only puts one after a page's odd line. `batches.wrap` turned every

@@ -70,6 +70,7 @@ def main():
         vals.write_text(text)
         cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(d),
                "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", "SCENE='%s'" % SCENE,
+               "--var", "SCENES=[[%s]]" % (ROOT / "tools" / "debug" / "scenes.txt").as_posix(),  # Mesen's cwd varies
                "--script", str(ROOT / "tools" / "lua" / "forceview.lua"), "--var", "FV_ADDR=0x0800E3D0",
                "--var", "FV_REG='r1'", "--var", "FV_VALS='%s'" % vals.as_posix(),
                "--var", "FV_FROM=%d" % FROM, "--var", "LOOP=1", "--var", "IDLE=%d" % IDLE,

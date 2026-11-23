@@ -1,6 +1,6 @@
 """Release: every gate, then the patch and the zip (references/pipeline.md §Release). Stops at the first failure.
 
-    python -X utf8 tools/release.py [--version 1.0] [--force] [--skip-build]
+    python -X utf8 tools/release.py [--version 1.1] [--force] [--skip-build]
 
 Steps: build -> check.py -> smoke (cold boot) -> jp_left.py -> qa_gate.py check on every work/qa/**/manifest.tsv
 (visual tour with its build hash, story pass) -> textcover.py over the coverage logs (gathered into
@@ -35,7 +35,8 @@ STRINGS = os.path.join(ROOT, 'build', 'goushouden_en.strings.tsv')
 # effect / place messages and the 86 non-waived relocated ROM strings written after it (dialogue ids and in-place
 # ROM strings kept their addresses): forcearc_s19 and forcestr_s19 re-force exactly those on the final build.
 # A later text change that moves addresses needs the same reruns (compare build/*.strings.tsv before and after).
-COVER_DIRS = ['tour_en3', 'msgview', 'forcestr', 'forcearc_s19', 'forcestr_s19']
+# v1.1 (issue #1 blank-line fix) moved them again: forcearc_v11 (book, desc, place) and forcestr_v11 (64 strings).
+COVER_DIRS = ['tour_en3', 'msgview', 'forcestr', 'forcearc_s19', 'forcestr_s19', 'forcearc_v11', 'forcestr_v11']
 # Debug tool off: tools/debug/dbgmenu.lua redirects main()'s BL at 0x7E48A to the debug menu at run time only; the
 # release build must keep the retail BL (bl 0x0807E2F4).
 DEBUG_BL = (0x7E48A, bytes([0xFF, 0xF7, 0x33, 0xFF]))
@@ -120,7 +121,7 @@ them.
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('--version', default='1.0')
+    ap.add_argument('--version', default='1.1')
     ap.add_argument('--force', action='store_true', help='overwrite this version\'s existing release files')
     ap.add_argument('--skip-build', action='store_true', help='use build/ as it is (the gates still run on it)')
     a = ap.parse_args()
