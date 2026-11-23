@@ -5,6 +5,24 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 9. v1.0 published 2026-11-16: https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.0
   (repo now public, description carries the real title; uploaded zip sha1 c2a45324 = release/ zip).
 
+## Issue #1 (2026-11-23, branch fix/issue-1): player report on v1.0
+- **Dialogue page opens on the bottom row** (01.52 01.73 01.91, 80 messages): the box has 2 rows and a blank line
+  is an empty row, not a page break; the JP only puts one after a page's odd line. `batches.wrap` turned every
+  translator `\n\n` into a blank line, so a paragraph that filled its page left the next page's top row empty. Fix:
+  `wrap` adds the blank only after an odd-length paragraph; the 80 entries re-merged (blank-line changes only,
+  work/issue1/diffmerge.py: a full `merge --overwrite` would undo 10 later hand edits in script/); new lint rule
+  (blank line on a page's top row). Verified with msgview on 1245 1270 1292 (JP vs EN shots, work/issue1/mv).
+- **Profiles (m1_book)**: (1) the name plate kept the hero/partner name for every other entry: the names come from
+  the shared ASCII name getters and the book window can't show ASCII; `engine.WIDE_NAME` at the two wrapper calls
+  (BOOK_NAME_SITES) widens them to fullwidth on the stack first. (2) tails of the previous entry's lines stayed
+  ("rior.", ":or"): the window clear leaves ink, only glyph cells blank their 12 px and the printer pads only the
+  last line. `build.pad_book` pads every book line with spaces to pen 100 (cells end at the 108-px clip), and
+  `engine.PAD` uses 12-px cells in a 12-px window (was 8 * n). Verified slow and fast paging in m1_book.
+- **CRITICAL!! popup still Japanese** (reporter's screenshot, field battle): not reproduced. Both known sources
+  (2F5C04, 362154) are English in the build; an exhaustive 4-aligned scan of the v1.0 ROM finds no packed block
+  or raw copy of the JP tiles; the reporter's savestate CRC is v1.0 (E21FC0DA). No warp lands a critical. Next:
+  force a critical (find the crit roll) and log unpacks / OAM at that moment.
+
 ## Release v1.0 (2026-11-16)
 - `python -X utf8 tools/release.py --version 1.0` exits 0: check ok, smoke ok, jp_left 0 runs, qa_gate ok on
   work/qa/manifest.tsv (waiver for 0516dfed: text-only, 126 changed messages shown with msgview --shots and judged

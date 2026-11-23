@@ -284,14 +284,33 @@ keep:
 # `ldr r2, [sp, #0x14]; cmp r2, #0` before `blt done` at PAD_SITE becomes a BL that sets the flags from
 # (line start [w+0xD8] + 8 * n) - pen - 1 instead: pad while the pen is left of the field's Japanese width. Each pad
 # blits an 8-px cell, so the cleared span ends 5-7 px past 8 * n (69 px for items: windows.json item_list).
+# The character book (m1_book, issue #1) prints its name and description lines through the same printer in the 12-px
+# font (window font width [w + ([w+0xE0] << 4) + 4] = 12): its cells are 12 px, so 8 * n cleared only 2/3 of a line
+# and left the end of the previous entry's text. In a 12-px window the target is 12 * n - 11: the last 12-px pad
+# blit starts at most at 12 * (n - 1), so the cleared span ends at the Japanese width 12 * n.
 PAD_SITE = 0x0E844
 PAD_ORIG = "ldr r2, [sp, #0x14]\ncmp r2, #0"
 PAD = """
     push {r0, r1}
+    mov r0, r5
+    adds r0, #0xE0
+    ldr r0, [r0]
+    lsls r0, r0, #4
+    adds r0, r0, r5
+    ldr r0, [r0, #4]
     movs r1, #0x86
     lsls r1, r1, #1
     ldr r1, [r5, r1]
+    cmp r0, #12
+    bne cell8
+    lsls r0, r1, #3
+    lsls r1, r1, #2
+    adds r1, r1, r0
+    subs r1, #11
+    b cells
+cell8:
     lsls r1, r1, #3
+cells:
     movs r0, #0xD8
     ldr r0, [r5, r0]
     adds r1, r1, r0
@@ -299,6 +318,72 @@ PAD = """
     subs r2, #1
     pop {r0, r1}
     bx lr
+"""
+
+
+# Character book name plate (m1_book, issue #1: every entry after the partner kept showing the partner's name). The
+# book prints the name with wrapper 0x0800E87C(window 0x0200A300, n 10 or 6, name) at BOOK_NAME_SITES, the name from
+# the shared character-name getters (0x080B41A8 / 0x080B43DC / 0x080B40E8 / 0x080B43E8): plain ASCII in English.
+# The book's printer sends ASCII to the half-width writer, whose tiles the book never shows (docs/re/text.md), so
+# the plate kept the last fullwidth name (the player-entered hero / partner names). Each site's BL becomes a BL to
+# WIDE_NAME: copy the name to a stack buffer, each ASCII byte 0x20-0x7F as its fullwidth pair from the game's own
+# table 0x080FA6A0 (row pointer [b >> 4], pair at + 2 * (b & 15), as 0x0800FE5C does), SJIS pairs and control
+# bytes as they are, then call the wrapper with it.
+BOOK_NAME_SITES = (0x0ADCF6, 0x0ADD06)
+WIDE_NAME = """
+    push {r4, r5, r6, r7, lr}
+    sub sp, #96
+    mov r4, sp
+    adds r5, r2, #0
+    ldr r7, tab
+loop:
+    ldrb r3, [r5]
+    cmp r3, #0
+    beq end
+    adds r5, #1
+    cmp r3, #0x80
+    bhs dbl
+    cmp r3, #0x20
+    blo one
+    lsrs r6, r3, #4
+    lsls r6, r6, #2
+    ldr r6, [r7, r6]
+    lsls r3, r3, #28
+    lsrs r3, r3, #27
+    adds r6, r6, r3
+    ldrb r3, [r6]
+    strb r3, [r4]
+    ldrb r3, [r6, #1]
+    strb r3, [r4, #1]
+    adds r4, #2
+    b room
+dbl:
+    strb r3, [r4]
+    adds r4, #1
+    ldrb r3, [r5]
+    cmp r3, #0
+    beq end
+    adds r5, #1
+one:
+    strb r3, [r4]
+    adds r4, #1
+room:
+    mov r6, sp
+    adds r6, #90
+    cmp r4, r6
+    blo loop
+end:
+    movs r3, #0
+    strb r3, [r4]
+    mov r2, sp
+    bl #0x0800E87C
+    add sp, #96
+    pop {r4, r5, r6, r7}
+    pop {r3}
+    bx r3
+    .align 2
+tab:
+    .word 0x080FA6A0
 """
 
 
@@ -388,5 +473,13 @@ def apply(rom, put, orig):
     code = thumb(PAD, cur)
     put(cur, code, "list pad by width")
     put(PAD_SITE, bl(PAD_SITE, cur), "list pad by width site")
+    cur += (len(code) + 3) & ~3
+    # 6. book name plate: ASCII names widened to fullwidth (BOOK_NAME_SITES)
+    for site in BOOK_NAME_SITES:
+        assert bytes(orig[site:site + 4]) == bl(site, 0x0E87C), "book name site %X" % site
+    code = thumb(WIDE_NAME, cur)
+    put(cur, code, "book name widen")
+    for site in BOOK_NAME_SITES:
+        put(site, bl(site, cur), "book name widen site")
     cur += (len(code) + 3) & ~3
     return cur

@@ -71,9 +71,32 @@ def put_archive_inplace(rom, arc, spec=archive.ARCHIVES[0]):
         rom[spec.base + len(data):spec.end] = bytes(room - len(data))
 
 
+BOOK_PAD_PX = 100  # pad each book line while its pen is left of this: the last 12-px space cell ends at >= 108
+
+
+def pad_book(text):
+    """The book (m1_book) prints an entry as one string and the window clear leaves old ink in the tiles: the
+    previous entry's text only goes where a glyph's 12-px cell lands, and the printer pads only the last line (issue
+    #1: tails like 'rior.' of a longer line before). Each line gets spaces (advance 4 px under the VWF, each blitting
+    a blank 12-px cell) until its pen reaches BOOK_PAD_PX, so every row is blanked to the 108-px clip."""
+    import lint
+    widths = lint.char_widths12()
+    if widths is None:
+        return text
+    out = []
+    for line in text.split("\n"):
+        px = lint.line_px(line, widths)
+        n = max(0, -(-(BOOK_PAD_PX - px) // widths[" "]))
+        out.append(line + " " * n)
+    return "\n".join(out)
+
+
 def encode_slot(text, spec, wide=False):
     """One message's bytes: encode(text) + 00; fullwidth Latin for a `wide` archive (archive.Spec) when wide=True
-    (the English build; the identity build keeps the original bytes); checked against the archive's buffer room."""
+    (the English build; the identity build keeps the original bytes), book lines padded (pad_book); checked against
+    the archive's buffer room."""
+    if wide and spec.name == "book":
+        text = pad_book(text)
     data = sjis.encode(sjis.fullwidth(text) if wide and spec.wide else text)
     if spec.room is not None and len(data) > spec.room:
         raise SystemExit("%s archive: %d bytes, the buffer holds %d: %r" % (spec.name, len(data), spec.room, text))

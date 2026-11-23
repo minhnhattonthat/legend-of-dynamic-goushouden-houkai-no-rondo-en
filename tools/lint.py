@@ -142,8 +142,15 @@ def lint_archive(e, widths, errs, warns):
         errs.append("%s: speaker line must stay %s" % (e["id"], jl[0]))
     if len(sjis.encode(el[0])) > WINDOWS["name_tag"]["bytes"]:
         errs.append("%s: speaker %r over the name tag's %d bytes" % (e["id"], el[0], WINDOWS["name_tag"]["bytes"]))
-    if [s for s in jl[1:-1] if not s.strip()] and not [s for s in el[1:-1] if not s.strip()]:
-        errs.append("%s: the JP has page breaks (blank lines), the en none" % e["id"])
+    # The box has 2 rows; a blank line is an empty row, so the JP only puts one after a page's odd line. One on a top
+    # row opens the next page on the bottom row (issue #1). A paragraph break after a full page needs no blank.
+    row = 0
+    for k, s in enumerate(el[1:]):
+        if not s.strip() and row == 0 and any(t.strip() for t in el[k + 2:]):
+            errs.append("%s: blank line on a page's top row: the next page opens on the bottom row (drop it)"
+                        % e["id"])
+            break
+        row ^= 1
     body = "\n".join(el[1:])
     for para in body.split("\n\n"):
         lines = para.split("\n")

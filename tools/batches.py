@@ -128,8 +128,16 @@ def wrap(body):
                         lines = trial
                         break
             out += lines
-        paras.append("\n".join(out))
-    return "\n\n".join(paras)
+        paras.append(out)
+    # The box has 2 rows and a blank line is an empty row, not a page break (issue #1; the JP only puts one after a
+    # page's odd line): a paragraph that already fills its last page is followed by no blank, else the next page
+    # would open on the bottom row.
+    text = ""
+    for k, out in enumerate(paras):
+        if k:
+            text += "\n\n" if len(paras[k - 1]) % 2 else "\n"
+        text += "\n".join(out)
+    return text
 
 
 def final_en(part, entry, en):
