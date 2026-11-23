@@ -26,6 +26,11 @@ Phase 4: `tools/sjis.py` (text codec, tags `{p}` `{s}` `{g}` `{!R}` `{!W}`, `[XX
 
 ## Gotchas
 - `watch.lua` logs the first write per PC, often a clear; use `tools/lua/watchval.lua` to see real values.
+- Dialogue: a blank line is an empty box row, not a page break (2 rows per page): one after an even line opens
+  the next page on the bottom row (issue #1; lint checks it).
+- Menu windows (printer p2) keep old ink after a window clear: only glyph/space cells blank their pixels, so a
+  shorter string needs pad spaces to cover a longer one (engine.PAD, build.pad_book). The book window can't show
+  ASCII at all (engine.WIDE_NAME widens its name plate).
 - The game copies a whole message file into EWRAM; a read watch on the message buffer during display logged nothing.
 - Type-3 blocks copy from before the start of their output (zeros expected); decode with the 0x800-byte zero pad.
 - Mashing A from the opening stops in the first free-roam field (~f15000): later screens need the debug tool.

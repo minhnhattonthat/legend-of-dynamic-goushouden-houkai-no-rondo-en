@@ -15,7 +15,7 @@ ROM = ROOT / "rom" / "Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba
 # Where the build may write: archive pointer literals, the 12-px font, the free slot, ROM strings, new space.
 ALLOWED = [(s, s + 4) for a in archive.ARCHIVES for s in a.sites] + [(site, site + 4) for site, _ in engine.ADV_SITES] + [
     (site, site + 4) for site, _ in engine.HALF_SITES] + [(engine.CURSOR_SITE, engine.CURSOR_SITE + 4)] + [
-    (engine.PAD_SITE, engine.PAD_SITE + 4)] + [
+    (engine.PAD_SITE, engine.PAD_SITE + 4)] + [(site, site + 4) for site in engine.BOOK_NAME_SITES] + [
     (engine.FONT12, engine.FONT12 + 1691 * 24), (engine.FONT6, engine.FONT6 + engine.FONT6_COUNT * 24),
     (engine.FONT8, engine.FONT8 + 1691 * 8), engine.FREE, (0x0CD95C, 0x0D5000), (0x0D9000, 0x0DF000),
     (engine.NEW_ARCHIVE, engine.ROM_SIZE)] + (gfx.ranges(ROM.read_bytes()) if ROM.exists() else [])
