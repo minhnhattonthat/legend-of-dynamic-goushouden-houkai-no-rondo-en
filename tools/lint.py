@@ -109,6 +109,9 @@ def line_px(line, widths):
 EDGE_OK = {"r0D1FAC": "glued after the enemy name by stpcpy (0x080870F8): needs its own leading space",
            "r0D2234": "glued after the item name by stpcpy (0x0808C1CA)",
            "r0D2270": "glued after the amount by stpcpy (0x0808C23E)"}
+# ids whose English drops a control code the JP has, on purpose
+CODES_OK = {"r0D00C0": "item-get {g}'s closing quote: no line break, the English fits one line (issue #1; "
+                       "engine GET_COUNT)"}
 
 
 def codes(text):
@@ -125,7 +128,7 @@ def common(e, errs):
         errs.append("%s: characters the font can't draw: %r" % (e["id"], "".join(bad)))
     if "!R" in bare or "!W" in bare:
         errs.append("%s: literal !R / !W (a printer code); reword" % e["id"])
-    if codes(en) != codes(jp):
+    if codes(en) != codes(jp) and e["id"] not in CODES_OK:
         errs.append("%s: control codes differ: jp %s en %s" % (e["id"], dict(codes(jp)), dict(codes(en))))
     lead = lambda s: len(s) - len(s.lstrip(" 　\n"))  # noqa: E731
     trail = lambda s: len(s) - len(s.rstrip(" 　\n"))  # noqa: E731

@@ -1,5 +1,10 @@
 # Skill gotchas (one line each: reference file, then the fact)
 
+- references/platform-gba.md: keystone (KS_MODE_THUMB) assembles `nop` as Thumb-2 0xBF00, which the GBA's ARMv4T doesn't have (the game hung in a loop); pad in-place patches with `mov r8, r8` (0x46C0). capstone/disasm.py prints 0xBF00 as `nop`, so a disassembly check doesn't catch it.
+- references/emulator-qa.md (Savestates): a player's RetroArch/mGBA GBA state (RZIP -> RASTATE -> MEM block = mGBA GBASerializedState, 0x61000 bytes) runs in Mesen by injecting IWRAM/EWRAM/VRAM/OAM/palette/display IO and the CPU regs over a same-mode Mesen state at endFrame (both at VCOUNT 160), with `cpu.r15` = mGBA r15 - 4 (Thumb) and `cpu.pipeline.reloadRequested`: tools/mgba_state.py + tools/lua/mgba_load.lua in the Goushouden repo (worth a skill script like s9x_state.py).
+- references/graphics.md (Survey): sheets that draw a block's tiles in linear 8x8 order hide text in 16x16 / 32x16 OBJs (a whole クリティカル!! / ミス popup was missed and shipped Japanese twice); where sprite-frame records exist, assemble the frames (Goushouden tools/objsweep.py) before reviewing.
+- references/emulator-qa.md (Debug tool / msgview): a forced-message viewer can hide a bug that depends on the scene's own window: the speaker tag's odd-length clip didn't show in msgview's window but did in the field, so reproduce a player's report from their state, not only through the viewer.
+
 - references/graphics.md: a static sweep of a GBA game with thousands of packed blocks needs a tilemap filter (u16 entries: few high-byte values, many low-byte values); without it 6,196 of 9,645 blocks were stripe noise and the sheets ran to 97 pages.
 - references/graphics.md: `codex exec -i` reviewers saw no text on full 1056 px sweep pages; cutting each page into quarters zoomed 2x fixed it, but two passes still disagreed on 45 of 167 hits and both missed one block found by eye. Run two passes and take the union.
 - references/emulator-qa.md: `codex exec -i a.png b.png "prompt"` swallows the prompt as an image path; pass images comma-separated and the prompt on stdin (`-`).

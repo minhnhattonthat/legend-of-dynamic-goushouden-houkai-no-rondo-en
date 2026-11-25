@@ -23,7 +23,7 @@
     "shot": "m1_item marker build: left name x=25, count x=96; right name x=136, count x=205 (work/qa/v8_m1_item); also the shop list (m2_shop, same window 0200AE80). Lint: every rec18 string (tools/fields.py TABLES)"
   },
   "battle_banner": {
-    "what": "battle top banner (printer call from 0x08086BFD, window font mode 2, ASCII drawn half-width): the used skill's name (skill_name copy), or an enemy name sprintf'd into a message (DE6A8 + D1FAC: '<enemy> appeared!'); bar interior x=2..235. Centred by byte count: x = 120 - 7 * bytes (11 bytes -> 43, 7 -> 71), clamped at 0, so English sits left of centre (cosmetic, phase 8)",
+    "what": "battle top banner (printer call from 0x08086BFD, window font mode 2, ASCII drawn half-width): the used skill's name (skill_name copy), or an enemy name sprintf'd into a message (DE6A8 + D1FAC: '<enemy> appeared!'); bar interior x=2..235. The game centred by byte count (x = 120 - 7 * bytes, clamped at 0: 'Gedo Gang appeared!' started on the bar's frame, issue #1); engine BANNER_X centres by pixel width since v1.2: x = (238 - px) / 2, at least 2",
     "px": 230,
     "font": "half",
     "categories": ["skill_name", "enemy_name"],

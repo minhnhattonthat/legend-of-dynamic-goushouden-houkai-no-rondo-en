@@ -228,6 +228,14 @@ TILES = {
         (list(range(11, 18)), "CRITICAL!!", _POP), ([28, 29], "MISS", _MISS)]),
     "crit": dict(block=0x362154, fill=[7, 8, 9, 10], shadow=1, runs=[(list(range(7)), "CRITICAL!!", _POP)]),
     "miss": dict(block=0x3621F4, fill=[7, 8, 9, 10], shadow=1, runs=[([0, 1], "MISS", _MISS)]),
+    # The big popups (issue #1, reporter's field battle; loader 0x08001077 -> 0x060104A0). Their part records follow
+    # the block (4F6780..4F67F7: count, then attr 16-bit, tile, x, y): クリティカル!! = 32x16 OBJs tile 16 (クリティ)
+    # at x -32 and tile 8 (カル!!) at x 0, kana rows 3-11 ink 8 8 8 7 6 5 4 3 2; ミス = 16x16 OBJs tile 4 (ミ) at
+    # x -16 and tile 0 (ス) at x 0, rows 2-11 ink f f e d c b a 9 9 9. Shadow 1 for both.
+    "crit_big": dict(block=0x4F65B0, fill=[8, 8, 8, 7, 6, 5, 4, 3, 2], shadow=1, runs=[
+        ([[16, 17, 18, 19, 8, 9, 10, 11], [20, 21, 22, 23, 12, 13, 14, 15]], "CRITICAL!!",
+         dict(font="pop", gap=2, ay=3)),
+        ([[4, 5, 0, 1], [6, 7, 2, 3]], "MISS", dict(font="pop", gap=2, ay=2, fill=[15, 15, 14, 13, 12, 11, 10, 9, 9]))]),
 }
 
 
@@ -354,13 +362,17 @@ def draw_tiles(name):
     new = bytearray(raw)
     for tiles, text, *opt in cfg["runs"]:
         opt = opt[0] if opt else {}
+        grid = tiles if isinstance(tiles[0], list) else [tiles]  # rows of tile numbers (a 2-row OBJ: 2 lists)
+        cw, ch = 8 * len(grid[0]), 8 * len(grid)
         px = {}
         if text:
             font = pixfont.SYM if all(c in pixfont.SYM for c in text) else pixfont.T
             if opt.get("font") == "small":
                 font = pixfont.G
-            pts, tw, th = pixfont.mask(text, font=font)
-            ax, ay = (8 * len(tiles) - tw - 1) // 2, opt.get("ay", 1)
+            elif opt.get("font") == "pop":
+                font = pixfont.POP
+            pts, tw, th = pixfont.mask(text, gap=opt.get("gap", 1), font=font)
+            ax, ay = (cw - tw - 1) // 2, opt.get("ay", 1)
             pts = {(ax + x, ay + y) for x, y in pts}
             for x, y in pts:
                 for dx, dy in ((1, 0), (0, 1), (1, 1)):
@@ -369,15 +381,16 @@ def draw_tiles(name):
             ink = opt.get("fill", cfg["fill"])
             for x, y in pts:
                 px[(x, y)] = ink[min(len(ink) - 1, (y - ay) * len(ink) // th)]
-        for k, t in enumerate(tiles):
-            o = 32 * t
-            new[o:o + 32] = bytes(32)
-            for (x, y), v in px.items():
-                if not (0 <= x < 8 * len(tiles) and 0 <= y < 8):
-                    raise SystemExit(f"{name}: '{text}' pixel ({x},{y}) outside its tiles")
-                if x // 8 == k:
-                    b = o + y * 4 + (x % 8) // 2
-                    new[b] = (new[b] & 0x0F) | (v << 4) if x % 2 else (new[b] & 0xF0) | v
+        for r, row in enumerate(grid):
+            for k, t in enumerate(row):
+                o = 32 * t
+                new[o:o + 32] = bytes(32)
+                for (x, y), v in px.items():
+                    if not (0 <= x < cw and 0 <= y < ch):
+                        raise SystemExit(f"{name}: '{text}' pixel ({x},{y}) outside its tiles")
+                    if x // 8 == k and y // 8 == r:
+                        b = o + (y % 8) * 4 + (x % 8) // 2
+                        new[b] = (new[b] & 0x0F) | (v << 4) if x % 2 else (new[b] & 0xF0) | v
     gfx.DIR.mkdir(exist_ok=True)
     out = gfx.DIR / f"{name}_{cfg['block']:06X}.diff"
     out.write_text(gfx.make_diff(raw, bytes(new)), newline="\n")

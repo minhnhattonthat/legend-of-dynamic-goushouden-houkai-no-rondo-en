@@ -330,6 +330,87 @@ cells:
 # table 0x080FA6A0 (row pointer [b >> 4], pair at + 2 * (b & 15), as 0x0800FE5C does), SJIS pairs and control
 # bytes as they are, then call the wrapper with it.
 BOOK_NAME_SITES = (0x0ADCF6, 0x0ADD06)
+
+# Speaker name tag width (issue #1: "Gedo Gang", "Ryo Asuka" lost their last letter). Two routines size the tag in
+# tiles from the speaker's byte count as ((bytes / 2 + 1) * 3) / 2 - 1, i.e. 1.5 tiles per kana, with bytes / 2
+# truncating: 0x0807CEAC(window, ., bytes) draws the plate (count in r7), 0x0807D010(window, ., bytes) copies the
+# text (count in r4). An odd count (English, 1 byte per letter) got the width of one byte less and the text past it
+# wasn't copied (seen in the field window 0x0200C840; the msgview window happens to show it). TAG_W replaces the
+# 10 instructions at each site with ceil(3 * bytes / 4) (6 px per byte, the lint's speaker budget): the same for
+# even counts, one tile more for odd ones.
+TAG_SITES = {0x07CF0C: ("r7", "f80f3818471001377800c719f80f38184710013f"),
+             0x07D042: ("r4", "e00f20184410013460000419e00f20184410013c")}
+# Item-get {g} (00.01 'Got {g}!', issue #1: "Got "Vigor Seed"" then '!' alone on line 2). The composer
+# 0x08024294(item, count) appends r0D00BC 「, the name, r0D00C0 」+LF, and when count > 1 the number (0x08017F7C) and
+# r0D00C4 個. r0D00C0 is now a plain '"' (no line break) and GET_SITE's number + 個 becomes a BL to GET_COUNT, which
+# appends ' x' and the number: 'Got "Vigor Seed"!' / 'Got "Vigor Seed" x3!' on one line.
+GET_SITE, GET_ORIG = 0x0242BA, "281cf3f75efe0448f3f719fe"  # adds r0, r5, #0; bl itoa; ldr r0, =r0D00C4; bl append
+GET_COUNT = """
+    push {r4, lr}
+    adds r4, r0, #0
+    adr r0, sep
+    bl #0x08017EF8
+    adds r0, r4, #0
+    bl #0x08017F7C
+    pop {r4}
+    pop {r1}
+    bx r1
+    .align 2
+sep:
+    .byte 0x20, 0x78, 0, 0
+"""
+# Battle banner centring (issue #1: "Gedo Gang appeared!", the Slum King fight: the text started off the bar's left
+# end). 0x08086B38 centres its line as x = (240 - 14 * strlen) / 2 (Japanese: 2 bytes per 14-px kana), so an English
+# line over 17 bytes went negative and was clamped to 0, on the bar's frame. BANNER_SITE's strlen and arithmetic
+# become a BL to BANNER_X: x = (238 - px) / 2, at least 2 (bar interior x = 2..235, windows.json battle_banner),
+# px = the line's half-width advances (ASCII table `adv`, built from the VWF widths; a 2-byte pair counts 12).
+BANNER_SITE, BANNER_END = 0x086BDA, 0x086BEC
+BANNER_ORIG = "484687f770fbc200121a5200f021891a4910"  # mov r0, sb; bl strlen; r2 = 14 * len; r1 = (240 - r2) >> 1
+BANNER_X = """
+    push {r4, lr}
+    movs r1, #0
+    ldr r3, adv
+loop:
+    ldrb r2, [r0]
+    cmp r2, #0
+    beq done
+    adds r0, #1
+    cmp r2, #0x80
+    bhs dbl
+    ldrb r2, [r3, r2]
+    adds r1, r1, r2
+    b loop
+dbl:
+    ldrb r2, [r0]
+    cmp r2, #0
+    beq done
+    adds r0, #1
+    adds r1, #12
+    b loop
+done:
+    movs r0, #238
+    subs r0, r0, r1
+    asrs r1, r0, #1
+    cmp r1, #2
+    bge ok
+    movs r1, #2
+ok:
+    pop {r4}
+    pop {r0}
+    bx r0
+    .align 2
+adv:
+    .word %(adv)s
+"""
+# Code bytes the issue #1 (v1.2) patches rewrite in place (the tests' allowed write ranges)
+PATCH_RANGES = [(s, s + len(w) // 2) for s, (_, w) in TAG_SITES.items()] + [
+    (GET_SITE, GET_SITE + len(GET_ORIG) // 2), (BANNER_SITE, BANNER_END)]
+TAG_W = """
+    lsls r0, {r}, #1
+    adds {r}, r0, {r}
+    adds {r}, #3
+    asrs {r}, {r}, #2
+""" + "    mov r8, r8\n" * 6  # the ARMv4T nop: keystone's `nop` is Thumb-2 0xBF00, undefined on the GBA (hung the game)
 WIDE_NAME = """
     push {r4, r5, r6, r7, lr}
     sub sp, #96
@@ -482,4 +563,34 @@ def apply(rom, put, orig):
     for site in BOOK_NAME_SITES:
         put(site, bl(site, cur), "book name widen site")
     cur += (len(code) + 3) & ~3
+    # 7. speaker tag width rounds up (TAG_SITES)
+    for site, (reg, want) in TAG_SITES.items():
+        want = bytes.fromhex(want)
+        assert bytes(orig[site:site + len(want)]) == want, "tag width site %X" % site
+        code = thumb(TAG_W.format(r=reg), site)
+        assert len(code) == len(want), len(code)
+        put(site, code, "speaker tag width %s" % reg)
+    # 8. item-get count ' xN' (GET_SITE)
+    assert bytes(orig[GET_SITE:GET_SITE + 12]) == bytes.fromhex(GET_ORIG), "item-get count site"
+    code = thumb(GET_COUNT, cur)
+    put(cur, code, "item-get count")
+    site = thumb("adds r0, r5, #0\nbl #0x%08X\nb #0x%08X\nmov r8, r8\nmov r8, r8"
+                 % (0x08000000 + cur, 0x08000000 + GET_SITE + 12), GET_SITE)
+    assert len(site) == 12, len(site)
+    put(GET_SITE, site, "item-get count site")
+    cur += (len(code) + 3) & ~3
+    # 9. battle banner centred by pixel width (BANNER_SITE)
+    assert bytes(orig[BANNER_SITE:BANNER_END]) == bytes.fromhex(BANNER_ORIG), "banner site"
+    adv = bytearray([HALF_ADV] * 128)
+    for c, p in ascii_pairs(orig).items():
+        if c < 128:
+            adv[c] = halves[p][2] if p in halves else HALF_ADV
+    put(cur, bytes(adv), "banner ascii advances")
+    code = thumb(BANNER_X % dict(adv="0x%08X" % (0x08000000 + cur)), cur + 128)
+    put(cur + 128, code, "banner centre")
+    site = thumb("mov r0, r9\nbl #0x%08X\nb #0x%08X" % (0x08000000 + cur + 128, 0x08000000 + BANNER_END), BANNER_SITE)
+    site += thumb("mov r8, r8", BANNER_SITE) * ((BANNER_END - BANNER_SITE - len(site)) // 2)
+    assert len(site) == BANNER_END - BANNER_SITE, len(site)
+    put(BANNER_SITE, site, "banner centre site")
+    cur += 128 + ((len(code) + 3) & ~3)
     return cur

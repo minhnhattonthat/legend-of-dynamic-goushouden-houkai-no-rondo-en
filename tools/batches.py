@@ -244,7 +244,7 @@ def problems(part, entry, en, terms, people):
         out.append("escape sequence or tab in the English")
     want = Counter(t for t in TOKEN.findall(jp) if t not in FREE)
     have = Counter(t for t in TOKEN.findall(en) if t not in FREE)
-    if want != have:
+    if want != have and entry.get("id") not in lint.CODES_OK:
         out.append(f"control codes differ: JP {dict(want)} EN {dict(have)}")
     if re.search(VARIABLE + r"(st|nd|rd|th)\b", en):
         out.append('ordinal suffix after a variable (write "No. {g}")')

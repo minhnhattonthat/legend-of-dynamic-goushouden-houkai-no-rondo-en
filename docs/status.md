@@ -5,6 +5,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 9. v1.0 published 2026-11-16: https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.0
   (repo now public, description carries the real title; uploaded zip sha1 c2a45324 = release/ zip).
 
+## Issue #1 round 2 (2026-11-26, branch fix/issue-1-v11): reporter's comment on v1.1, not released yet
+Reporter's RetroArch/mGBA states (v1.1, CRC DA83E446) in work/states/issue1_state{1,2,4,5}.state + issue1_v11.srm.
+They run in Mesen: `tools/mgba_state.py STATE work/issue1b/pN` then emu.py `--state-in` a same-mode Mesen state
+(k_ode.mss for battle, park_dialogue.mss for field) `--script tools/lua/mgba_load.lua --var "MGBA=[[abs prefix]]"`
+(injects RAM/VRAM/OAM/palette/display IO/CPU regs at endFrame = their VCOUNT 160). state1: critical at ~f66;
+state4: A opens the chest; state5: route `5 -` / `90 down` + mash.lua FROM=250 -> Gedo Gang tag, then the battle.
+- **CRITICAL!! still Japanese**: field battles load a third popup, block 4F65B0 (32x16 クリティ + カル!!, 16x16 ミ + ス;
+  frame records follow the block). The sweep drew it linear and missed it. Redrawn as CRITICAL!! / MISS
+  (`gfxlabel.py` TILES `crit_big`, 9-row `pixfont.POP` caps). New `tools/objsweep.py` assembles all 120 blocks with
+  frame records: no other Japanese. Verified in state1 (work/issue1b/run1b).
+- **Speaker tag cut off** (Gedo Gang, Ryo Asuka: odd byte counts): plate 0x0807CEAC and text copy 0x0807D010 size
+  the tag as ((bytes/2+1)*3)/2-1 tiles; `engine.TAG_SITES` -> ceil(3*bytes/4). Verified in state5 (run5f). Keystone
+  `nop` is Thumb-2 (hung the game): use `mov r8, r8`.
+- **Item-get '!' alone on line 2**: r0D00C0 `"`+LF -> `"`; `engine.GET_COUNT` makes the count ' xN' (no 'pcs'):
+  'Got "Vigor Seed"!' / 'Got "Vigor Seed" x3!' (the game's digit appender caps at ９). Verified in state4 (run4,
+  run4c with the count forced). Lint/batches exemption `lint.CODES_OK`.
+- **Battle banner left of centre / off the bar** ('Gedo Gang appeared!', Slum King): `engine.BANNER_X` centres by
+  half-width px. Verified in state5's battle (inkbox 63/65).
+- check.py ok, smoke ok. **Next:** user review, PR, release v1.2 (`tools/release.py --version 1.2`: needs a visual
+  waiver for the new build like v1.1's, plus a k_ode / field-battle warp shot), reply on the issue.
+
 ## Release v1.1 (2026-11-23): issue #1 fix
 - `python -X utf8 tools/release.py --version 1.1` exits 0. `release/Goushouden_EN_v1.1.zip`, notes
   `release/notes_v1.1.md`: patch sha1 1d1b0551aa2f6d1ee88a5d2112cd24a709f8e666, patched CRC32 DA83E446 / sha1

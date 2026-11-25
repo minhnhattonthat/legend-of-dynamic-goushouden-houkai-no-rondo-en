@@ -61,9 +61,9 @@
   ],
   "max": 3,
   "jp": "」[0A]",
-  "en": "\"[0A]",
+  "en": "\"",
   "status": "done",
-  "notes": ""
+  "notes": "item-get {g} (composer 0x08024294): no line break, so 00.01 reads 'Got \"X\"!' on one line (issue #1: the '!' hung alone on line 2); the count is ' xN' from engine GET_COUNT"
  },
  {
   "id": "r0D00C4",

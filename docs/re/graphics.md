@@ -21,6 +21,12 @@ redraw. The game has no chapter cards (`docs/re/debug.md` §Story state).
    **`docs/re/graphics_sweep.tsv`** (167 flagged blocks; 121 found by both passes, 45 by one). Codex misses at
    random: 0x3086C8 (large kanji, page 14) was found only by eye. Treat the list as a floor, not a ceiling; the
    marker tour and the phase-8 warps close the gap.
+4. **OBJ blind spot** (issue #1, v1.2): the pages draw tiles in linear 8x8 order, which scrambles 16x16 / 32x16
+   sprites; the big クリティカル!! / ミス popup 0x4F65B0 read as noise and shipped Japanese in v1.0 and v1.1.
+   `tools/objsweep.py` assembles every packed block followed by sprite-frame records (u32 part count, then u16 attr
+   = shape << 8 | size << 10, u16 tile, s16 x, s16 y; read by the OAM writer 0x08011556) frame by frame: 120 blocks,
+   5 pages (work/issue1b/objpages); only 4F65B0 holds Japanese (`gfxlabel.py` TILES `crit_big`). Blocks whose
+   frame records live elsewhere are not covered.
 
 ## Flagged groups (block offsets are packed-block starts; details per block in graphics_sweep.tsv)
 | # | Blocks | Codec | What | Likely screen |
@@ -54,6 +60,9 @@ Each one is unpacked into VRAM by the game (`tools/lua/unpackat.lua` log) and it
   0x080159B0). Render: work/qa/lbl/ppu_title/pills_p1.png (all four pills English, same style).
 - **CRITICAL!! / MISS / %UP** 2F5C04 -> 0x06003520 in the shop (m2_shop f365, unused there); battles load the same
   tiles from 362154 / 3621F4, but no warp lands a critical or a miss. Render: work/qa/lbl/ppu_m2_shop/crit_z.png.
+  Field battles use a third, bigger popup: 4F65B0 (loader 0x08001077 -> 0x060104A0, 32x16 / 16x16 OBJs), still
+  Japanese until v1.2 (issue #1); seen in English in the reporter's state (work/states/issue1_state1.state, run
+  through tools/lua/mgba_load.lua over k_ode.mss) and rendered by `objsweep.py --rom build/... --only 4F65B0`.
 - **SHOP** 2F91C4 -> 0x060045E0 in every shop (f377); no shop screen maps it. **SYM** 2F8BB8 -> 0x060003E0 with name
   entry (f358); the screen has three tab slots (HIRA / KATA / ABC, L and R cycle only those). Both checked by
   unpacking the built ROM (session 8); their VRAM tiles are not row-major, so the renders are not readable.

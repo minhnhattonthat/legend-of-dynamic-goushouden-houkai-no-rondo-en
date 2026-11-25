@@ -52,7 +52,7 @@ read by 0x0800FE88(id, archive, 1, dest) (lh5 0x08006538 into a heap buffer, the
 | `00` | 5,363 | (terminator, not in the text) | end of message, one per slot |
 | `\p` (5C 70) | 1,481 | `{p}` | **verified** phase 5: the hero's name (34.10 `{p}` CR `ここには…` shows the name tag `メイン`, the default name r0D18BC; the marker build shows `D18`). Not a page break |
 | `\s` (5C 73) | 325 | `{s}` | **guess** (phase 5): the heroine's name (`\p` is the hero = メイン "main"; the other default name is サブ "sub", r0D18C4) |
-| `\g` (5C 67) | 2 | `{g}` | **guess**: item-get name (`{g}を手に入れた`, 00.01) |
+| `\g` (5C 67) | 2 | `{g}` | **verified** (issue #1): item-get name (`{g}を手に入れた`, 00.01) built by 0x08024294(item, count): r0D00BC 「 + name + r0D00C0 」LF + (count > 1: one digit ０-９ via 0x08017F7C, capped at 9) + r0D00C4 個. English: no LF, count ' xN' (engine GET_COUNT) |
 | `!R`, `!W` (21 52 / 21 57) | 119 / 11 | `{!R}` `{!W}` | **guess**: inline codes (`了!R明`, `着く!W`, and `\p` CR `!R(…！)` at a line start) |
 | `20` | 5,213 | space | half-width space (padding/alignment) |
 | `!` alone, `(` `)` `:` | 1 each | literal | `\p!` CR in 29.10 (stray `!`), `!R(…！)` in 34.63, `朱紗:` in 29.10 |
