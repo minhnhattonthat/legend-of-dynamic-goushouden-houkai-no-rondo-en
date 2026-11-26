@@ -9,9 +9,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - `python -X utf8 tools/release.py --version 1.2` exits 0. `release/Goushouden_EN_v1.2.zip` (sha1 f7391e51), notes
   `release/notes_v1.2.md`: patch sha1 cd41fa8c38c8678e8de0bd92cacd7de587e2e681, patched CRC32 F3BEFD47 / sha1
   3988c485ef609748cda8b57805da6065bee7d366. Visual tour waived for 3988c485 (work/qa/manifest.tsv.waive): fixes were
-  checked in the reporter's own states (below). Committed and pushed (ac6756f). **Not yet published:** `gh release
-  create` must run as minhnhattonthat (the active gh account lacks rights); then post `release/reply_issue1_v1.2.md`
-  on #1.
+  checked in the reporter's own states (below). Published 2026-11-26 by the owner as GitHub release v1.2 (Latest;
+  uploaded zip sha1 f7391e51 = release/ zip); reply posted on #1 (release/reply_issue1_v1.2.md). Publishing and
+  issue comments need the minhnhattonthat gh account, not the default active one.
 
 ## Issue #1 round 2 (2026-11-26, merged to main as 4e20d0a): reporter's comment on v1.1
 Reporter's RetroArch/mGBA states (v1.1, CRC DA83E446) in work/states/issue1_state{1,2,4,5}.state + issue1_v11.srm.
