@@ -121,7 +121,7 @@ them.
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('--version', default='1.1')
+    ap.add_argument('--version', default='1.2')
     ap.add_argument('--force', action='store_true', help='overwrite this version\'s existing release files')
     ap.add_argument('--skip-build', action='store_true', help='use build/ as it is (the gates still run on it)')
     a = ap.parse_args()

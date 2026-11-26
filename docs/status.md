@@ -5,7 +5,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 9. v1.0 published 2026-11-16: https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.0
   (repo now public, description carries the real title; uploaded zip sha1 c2a45324 = release/ zip).
 
-## Issue #1 round 2 (2026-11-26, branch fix/issue-1-v11): reporter's comment on v1.1, not released yet
+## Release v1.2 (2026-11-26): issue #1 round 2
+- `python -X utf8 tools/release.py --version 1.2` exits 0. `release/Goushouden_EN_v1.2.zip` (sha1 f7391e51), notes
+  `release/notes_v1.2.md`: patch sha1 cd41fa8c38c8678e8de0bd92cacd7de587e2e681, patched CRC32 F3BEFD47 / sha1
+  3988c485ef609748cda8b57805da6065bee7d366. Visual tour waived for 3988c485 (work/qa/manifest.tsv.waive): fixes were
+  checked in the reporter's own states (below). Published as GitHub release v1.2; reply posted on issue #1.
+
+## Issue #1 round 2 (2026-11-26, merged to main as 4e20d0a): reporter's comment on v1.1
 Reporter's RetroArch/mGBA states (v1.1, CRC DA83E446) in work/states/issue1_state{1,2,4,5}.state + issue1_v11.srm.
 They run in Mesen: `tools/mgba_state.py STATE work/issue1b/pN` then emu.py `--state-in` a same-mode Mesen state
 (k_ode.mss for battle, park_dialogue.mss for field) `--script tools/lua/mgba_load.lua --var "MGBA=[[abs prefix]]"`
@@ -23,8 +29,7 @@ state4: A opens the chest; state5: route `5 -` / `90 down` + mash.lua FROM=250 -
   run4c with the count forced). Lint/batches exemption `lint.CODES_OK`.
 - **Battle banner left of centre / off the bar** ('Gedo Gang appeared!', Slum King): `engine.BANNER_X` centres by
   half-width px. Verified in state5's battle (inkbox 63/65).
-- check.py ok, smoke ok. **Next:** user review, PR, release v1.2 (`tools/release.py --version 1.2`: needs a visual
-  waiver for the new build like v1.1's, plus a k_ode / field-battle warp shot), reply on the issue.
+- check.py ok, smoke ok. Released as v1.2 (above). **Next:** wait for the reporter's reply on #1.
 
 ## Release v1.1 (2026-11-23): issue #1 fix
 - `python -X utf8 tools/release.py --version 1.1` exits 0. `release/Goushouden_EN_v1.1.zip`, notes
